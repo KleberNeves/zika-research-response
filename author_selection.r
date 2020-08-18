@@ -12,7 +12,7 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 source("helper.r")
 
 # Loads Web of Science data
-data_folder = "../../Data/Main Search - WoS 080720"
+data_folder = "../../Search Data/Main Search - WoS 080720"
 specific_folder = "World, all"
 
 M = get.biblio.data(specific_folder)
