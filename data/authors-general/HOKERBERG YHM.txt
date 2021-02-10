@@ -1,0 +1,2536 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Feitosa, MC
+   Leite, PHAD
+   Costa, JH
+   Hokerberg, YHM
+AF Feitosa, Manuella Carvalho
+   Amparo da Costa Leite, Pedro Henrique
+   Costa, Julia Henrique
+   Marques Hokerberg, Yara Hahr
+TI Methodological quality assessment of guidelines for surveillance and
+   clinical management of dengue and chikungunya
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Practice Guidelines as Topic; Health Evaluation; Arbovirus Infections
+ID AGREE II; APPRAISAL; INSTRUMENT; TOOLS; INFECTION
+AB The study aimed to assess the methodological quality of guidelines by the Brazilian Ministry of Health, Pan American Health Organization (PAHO), and World Health Organization (WHO) on surveillance and clinical management of dengue and chikungunya. This was a descriptive study in which the tool Appraisal of Guidelines for Research & Evaluation Reporting Checklist II (AGREE II) was applied by four evaluators in independent and masked fashion for six guidelines. Each evaluator assigned a score from 1 (disagree completely) to 7 (agree completely) to the 23 items in the AGREE II domains: scope and purpose; stakeholder involvement; rigor in the development; clarity of presentation; applicability; and editorial independence. The dengue guidelines by PAHO (mean = 5.2, SD = 0.8) and WHO (mean = 4.5, SD = 0.5) obtained the highest overall scores and were recommended with modifications by all the evaluators, while the Brazilian Ministry of Health guidelines (mean = 2.7, SD = 0.4) were not recommended by any of them. Meanwhile, the chikungunya guidelines scored low (means from 22 to 3.0) for all three agencies. The domains with the greatest conformity were "clarity of presentation" (median 84.7%) and "scope and purpose" (77. 1%), while those with the lowest conformity were "editorial independence" (5.2%) and "rigor in development" (9.1%). The study identified gaps in the guidelines' methodological quality, mainly in transparency of the work processes, selection of scientific evidence, and formulation of recommendations, besides lack of clarity in financing and possible conflicts of interest.
+C1 [Feitosa, Manuella Carvalho] Univ Fed Roraima, Ctr Ciencias Saude, Av Capitao Ene Garcez 2413, BR-69310000 Boa Vista, Parana, Brazil.
+   [Feitosa, Manuella Carvalho; Amparo da Costa Leite, Pedro Henrique] Fundacao Oswaldo Cruz, Escola Nacl Saude Publ Sergio Arouca, Rio De Janeiro, Brazil.
+   [Costa, Julia Henrique; Marques Hokerberg, Yara Hahr] Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Rio De Janeiro, Brazil.
+RP Feitosa, MC (corresponding author), Univ Fed Roraima, Ctr Ciencias Saude, Av Capitao Ene Garcez 2413, BR-69310000 Boa Vista, Parana, Brazil.
+EM manuella.feitosa@ufrr.br
+RI hokerberg, yara/K-2880-2016
+OI hokerberg, yara/0000-0001-7140-7172; Leite, Pedro Henrique Amparo da
+   Costa/0000-0003-4919-8831
+CR AGREE Collaboration, AGREE ADV SCI PRACT
+   Alonso-Coello P, 2010, QUAL SAF HEALTH CARE, V19, DOI 10.1136/qshc.2010.042077
+   Armstrong JJ, 2017, J CLIN EPIDEMIOL, V81, P13, DOI 10.1016/j.jclinepi.2016.08.005
+   Armstrong Melissa J, 2017, Res Involv Engagem, V3, P19, DOI 10.1186/s40900-017-0070-2
+   Bhaumik Soumyadeep, 2018, J Evid Based Med, V11, P26, DOI 10.1111/jebm.12285
+   Brasil, 2011, DIARIO OFICIAL UNIAO
+   Brouwers MC, DEV VALIDITY TESTING
+   Brouwers MC, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i1152
+   Brouwers MC, 2010, CAN MED ASSOC J, V182, pE839, DOI 10.1503/cmaj.090449
+   Brouwers MC, 2010, CAN MED ASSOC J, V182, pE472, DOI 10.1503/cmaj.091716
+   Brouwers MC, 2010, CAN MED ASSOC J, V182, P1045, DOI 10.1503/cmaj.091714
+   Burda BU, 2014, PUBLIC HEALTH, V128, P444, DOI 10.1016/j.puhe.2014.01.002
+   Burls A, 2010, LANCET, V376, P1128, DOI 10.1016/S0140-6736(10)61034-3
+   Caglioti C, 2013, NEW MICROBIOL, V36, P211
+   Canelo-Aybar Carlos, 2016, Rev. perú. med. exp. salud publica, V33, P732, DOI 10.17843/rpmesp.2016.334.2559
+   Cluzeau F, 2003, QUAL SAF HEALTH CARE, V12, P18
+   Comissao Nacional de Incorporacao de Tecnologia no SUS, 2017, PROP PROT CLIN DIR T
+   Dans AL, 2010, J CLIN EPIDEMIOL, V63, P1281, DOI 10.1016/j.jclinepi.2010.06.005
+   Departamento de Gestao e Incorporacao de Tecnologias em Saude Secretaria de Ciencia Tecnologia e Insumos Estrategicos Ministerio da Saude, 2016, DIR MET EL DIR CLIN
+   Departamento de Vigilancia das Doencas Transmissiveis Secretaria de Vigilancia em Saude Ministerio da Saude, 2017, CHIK MAN CLIN
+   Dickson C, 2017, SEX TRANSM INFECT, V93, P487, DOI 10.1136/sextrans-2016-052939
+   Diretoria Tecnica de Gestao Secretaria de Vigilancia em Saude Ministerio da Saude, 2016, DENG DIAGN MAN CLIN
+   Donalisio Maria Rita, 2015, Rev. bras. epidemiol., V18, P283, DOI 10.1590/1980-5497201500010022
+   Eikermann Michaela, 2014, BMC Res Notes, V7, P853, DOI 10.1186/1756-0500-7-853
+   Fathima AS, 2011, INT J COMPUTER SCI I, V8, P322
+   Graham ID, 2000, INT J TECHNOL ASSESS, V16, P1024, DOI 10.1017/S0266462300103095
+   Graham R, 2011, CLINICAL PRACTICE GUIDELINES WE CAN TRUST, P1
+   Hoffmann-Esser W, 2018, BMC HEALTH SERV RES, V18, DOI 10.1186/s12913-018-2954-8
+   Hoffmann-Esser W, 2018, J CLIN EPIDEMIOL, V95, P120, DOI [10.1016/j.clinepi.2017.12.009, 10.1016/j.jclinepi.2017.12.009]
+   Hoffmann-Esser W, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0174831
+   Kliner M, 2014, BMC PUBLIC HEALTH, V14, DOI 10.1186/1471-2458-14-1129
+   Koh C, 2013, HEPATOLOGY, V58, P2142, DOI 10.1002/hep.26578
+   Lytvyn L, 2016, INFECT CONT HOSP EP, V37, P901, DOI 10.1017/ice.2016.104
+   Makarski J, 2014, IMPLEMENT SCI, V9, DOI 10.1186/s13012-014-0103-2
+   Mathew AJ, 2017, CURR ALLERGY ASTHM R, V17, DOI 10.1007/s11882-017-0680-7
+   Messina JP, 2014, TRENDS MICROBIOL, V22, P138, DOI 10.1016/j.tim.2013.12.011
+   Muller DA, 2017, J INFECT DIS, V215, pS89, DOI 10.1093/infdis/jiw649
+   Agbata EN, 2019, J IMMIGR MINOR HEALT, V21, P401, DOI 10.1007/s10903-018-0759-9
+   Pan American Health Organization, 2016, DENGUE GUIDELINES PA
+   Qaseem A, 2012, ANN INTERN MED, V156, P525, DOI 10.7326/0003-4819-156-7-201204030-00009
+   Molino CDRC, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0166367
+   Ronsoni RD, 2015, CAD SAUDE PUBLICA, V31, P1157, DOI 10.1590/0102-311X00118814
+   Santamaria R, 2009, INT HEALTH, V1, P133, DOI 10.1016/j.inhe.2009.08.006
+   Siering U, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0082915
+   Silva LA, 2017, J CLIN INVEST, V127, P737, DOI 10.1172/JCI84417
+   Sinclair D, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0063715
+   Stanaway JD, 2016, LANCET INFECT DIS, V16, P712, DOI 10.1016/S1473-3099(16)00026-8
+   Vlayen J, 2005, INT J QUAL HEALTH C, V17, P235, DOI 10.1093/intqhc/mzi027
+   Weaver SC, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002921
+   WHO, 2009, GUID PREV CONTR CHIK
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+   World Health Organization, 2008, GUID CLIN MAN CHIK F
+   Wu Dongbo, 2018, J Evid Based Med, V11, P95, DOI 10.1111/jebm.12293
+NR 53
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PY 2020
+VL 36
+IS 7
+AR e00050919
+DI 10.1590/0102-311X00050919
+PG 14
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA MX5ZJ
+UT WOS:000557800600001
+PM 32725085
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Mata, VE
+   de Andrade, CAF
+   Passos, SRL
+   Hokerberg, YHM
+   Fukuoka, LVB
+   da Silva, SA
+AF Mata, Veronica Elizabeth
+   Ferreira de Andrade, Carlos Augusto
+   Lambert Passos, Sonia Regina
+   Marques Hokerberg, Yara Hahr
+   Boas Fukuoka, Levy Vilas
+   da Silva, Suzana Alves
+TI Rapid immunochromatographic tests for the diagnosis of dengue: a
+   systematic review and meta-analysis
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Review
+DE Dengue; Diagnosis; Sensitivity and Specificity; Systematic Review;
+   Meta-Analysis
+ID NS1 ANTIGEN; ZIKA VIRUS; ANTIBODY DETECTION; SUSPECTED DENGUE;
+   LABORATORY TESTS; INFECTION; ASSAYS; ACCURACY; IGA; PERFORMANCE
+AB Dengue is an important arthropod-borne viral disease in terms of morbidity, mortality, economic impact and challenges in vector control. Benchmarks are expensive, time consuming and require trained personnel. Preventing dengue complications with rapid diagnosis has been based on the testing of easy-to-perform optimized immunochromatographic methods (ICT). This is a systematic meta-analysis review of the diagnostic accuracy of IgA, NS1, IgM and/or IgG ICT studies in suspected cases of acute or convalescent dengue, using a combination of RT-PCR, ELISA NS1, IgM IgG or viral isolation as a reference standard. This protocol was registered in PROSPERO (CRD42014009885). Two pairs of reviewers searched the PubMed, BIREME, Science Direct, Scopus, Web of Science, Ovid MEDLINE JBrigs, SCIRUS and EMBASE databases, selected, extracted, and quality-assessed by QUADAS 2 Of 3,783 studies, we selected 57, of which 40 in meta-analyses according to the analyte tested, with high heterogeneity (I-2 > 90%), as expected for diagnostic tests. We detected higher pooled sensitivity in acute phase IgA (928%) with excellent (90%) specificity. ICT meta-analysis with NS1/IgM/IgG showed 91% sensitivity and 96% specificity. Poorer screening performance was for IgM/IgG ICT (sensitivity = 56%). Thus, the studies with NS1/IgM/IgG ICT showed the best combined performance in the acute phase of the disease.
+C1 [Mata, Veronica Elizabeth; Ferreira de Andrade, Carlos Augusto; Lambert Passos, Sonia Regina; Marques Hokerberg, Yara Hahr; Boas Fukuoka, Levy Vilas] Fundacao Oswaldo Cruz, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+   [da Silva, Suzana Alves] Hosp Coracao, Sao Paulo, Brazil.
+RP Mata, VE (corresponding author), Fundacao Oswaldo Cruz, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM veronica.elizabeth.mata@gmail.com
+RI ; hokerberg, yara/K-2880-2016
+OI Vilas Boas Fukuoka, Levy/0000-0003-0617-9948; hokerberg,
+   yara/0000-0001-7140-7172
+FU Rio de Janeiro State Research Foundation - FAPERJCarlos Chagas Filho
+   Foundation for Research Support of the State of Rio de Janeiro (FAPERJ)
+   [E-25/110.188/2014]; FAPERJCarlos Chagas Filho Foundation for Research
+   Support of the State of Rio de Janeiro (FAPERJ) [221354 E_01/2016];
+   CNPqNational Council for Scientific and Technological Development (CNPq)
+   [310765/2016-1]; Brazilian National Graduate Studies Board - CAPES
+   [001]; Brazilian National Research Council - CNPqNational Council for
+   Scientific and Technological Development (CNPq) [401396/2013-4];
+   Brazilian Network for Technological and Health Assessment - REBRATS
+FX The study received funding from the Brazilian National Research Council
+   - CNPq (grant n. 401396/2013-4; Brazilian Network for Technological and
+   Health Assessment - REBRATS), and Rio de Janeiro State Research
+   Foundation - FAPERJ (grant n. E-25/110.188/2014). Scholarship from
+   FAPERJ (grant n. 221354 E_01/2016] to V.E.M. Grant from CNPq (n.
+   310765/2016-1) to S.R.L.P. This study was financed in part by the
+   Brazilian National Graduate Studies Board - CAPES (Finance Code 001).
+CR Ahmed F, 2010, DIAGN MICR INFEC DIS, V68, P339, DOI 10.1016/j.diagmicrobio.2010.07.007
+   Aikat Aditi, 2011, J Indian Med Assoc, V109, P543
+   Alagarasu K, 2016, EPIDEMIOL INFECT, V144, P876, DOI 10.1017/S0950268815001922
+   Andries AC, 2016, BMC INFECT DIS, V16, DOI 10.1186/s12879-016-1551-x
+   Andries AC, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001993
+   [Anonymous], 2020, CAD SAUDE PUBLICA, V36
+   Martinez-Vega RA, 2009, BIOMEDICA, V29, P616, DOI 10.7705/biomedica.v29i4.139
+   Berry N, 1998, J CLIN MICROBIOL, V36, P2795
+   Blacksell SD, 2006, CLIN INFECT DIS, V42, P1127, DOI 10.1086/501358
+   Blacksell SD, 2006, T ROY SOC TROP MED H, V100, P775, DOI 10.1016/j.trstmh.2005.10.018
+   Blacksell SD, 2012, J BIOMED BIOTECHNOL, DOI 10.1155/2012/151967
+   Blacksell SD, 2011, CLIN VACCINE IMMUNOL, V18, P2095, DOI 10.1128/CVI.05285-11
+   Branch SL, 1999, CLIN DIAGN LAB IMMUN, V6, P555, DOI 10.1128/CDLI.6.4.555-557.1999
+   Buonora SN, 2016, BMC INFECT DIS, V16, DOI 10.1186/s12879-016-1368-7
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Carter MJ, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003424
+   Chaiyaratana W, 2009, DIAGN MICR INFEC DIS, V64, P83, DOI 10.1016/j.diagmicrobio.2009.01.004
+   Cohen AL, 2007, TROP MED INT HEALTH, V12, P47, DOI 10.1111/j.1365-3156.2006.01752.x
+   Cohen JF, 2016, BMJ OPEN, V6, DOI 10.1136/bmjopen-2016-012799
+   Colonetti T, 2018, AN ACAD BRAS CIENC, V90, P3147, DOI 10.1590/0001-3765201820170989
+   Congpuong K, 2008, ASIAN BIOMED, V2, P289
+   da Costa VG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0094655
+   Hernandez SIDC, 2012, DIAGN MICR INFEC DIS, V72, P150, DOI 10.1016/j.diagmicrobio.2011.11.002
+   Deeks JJ, 2005, J CLIN EPIDEMIOL, V58, P882, DOI 10.1016/j.jclinepi.2005.01.016
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   DERSIMONIAN R, 1986, CONTROL CLIN TRIALS, V7, P177, DOI 10.1016/0197-2456(86)90046-2
+   Dussart P, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000280
+   Ferraz FO, 2013, J CLIN VIROL, V58, P41, DOI 10.1016/j.jcv.2013.06.015
+   Fry SR, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001199
+   Gan VC, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090037
+   Garg A, 2019, J LAB PHYS, V11, P63, DOI 10.4103/JLP.JLP_140_18
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   Hang VT, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000360
+   Hartono A, 2012, INT J INFECT DIS, V16, pE394, DOI 10.1016/j.ijid.2012.05.522
+   Higgins JPT, 2003, BRIT MED J, V327, P557, DOI 10.1136/bmj.327.7414.557
+   Huits R, 2017, OPEN FORUM INFECT DI, V4, DOI 10.1093/ofid/ofw273
+   Hunsperger EA, 2016, J CLIN MICROBIOL, V54, P2090, DOI 10.1128/JCM.00521-16
+   Jang WS, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0213451
+   Jusoh TNAM, 2017, J TROP MED-US, V2017, DOI 10.1155/2017/4687182
+   Kikuti M, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0213301
+   Krishnananthasivam S, 2015, SE ASIAN J TROP MED, V46, P602
+   Kyaw AK, 2019, J VIROL METHODS, V273, DOI 10.1016/j.jviromet.2019.113724
+   Passos SRL, 2017, EMERG INFECT DIS, V23, P2120, DOI 10.3201/eid2312.171375
+   Lee H, 2019, ANN LAB MED, V39, P566, DOI 10.3343/alm.2019.39.6.566
+   Liberati A, 2009, ANN INTERN MED, V151, pW65, DOI [10.1371/journal.pmed.1000100, 10.7326/0003-4819-151-4-200908180-00136]
+   Lim JK, 2017, BMC HEALTH SERV RES, V17, DOI 10.1186/s12913-017-2789-8
+   Liu LT, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0202304
+   Lubell Y, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0152420
+   San Martin JL, 2010, AM J TROP MED HYG, V82, P128, DOI 10.4269/ajtmh.2010.09-0346
+   Mata VE, 2017, BMC INFECT DIS, V17, DOI 10.1186/s12879-017-2679-z
+   Mitra S, 2014, INT J INFECT DIS, V21, P450, DOI 10.1016/j.ijid.2014.03.1348
+   Musso D, 2015, J CLIN VIROL, V68, P53, DOI 10.1016/j.jcv.2015.04.021
+   Najioullah F, 2011, DIAGN MICR INFEC DIS, V69, P172, DOI 10.1016/j.diagmicrobio.2010.09.021
+   Naz A, 2014, PAK J MED SCI, V30, P166, DOI 10.12669/pjms.301.4173
+   Nga TTT, 2007, CLIN VACCINE IMMUNOL, V14, P799, DOI 10.1128/CVI.00483-06
+   Osorio L, 2010, VIROL J, V7, DOI 10.1186/1743-422X-7-361
+   Pal S, 2015, J CLIN MICROBIOL, V53, P1092, DOI 10.1128/JCM.03042-14
+   Pal S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113411
+   Pan-ngum W, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0050765
+   Parham LA, 2014, AM J TROP MED HYG  S, V91, P429
+   Peeling RW, 2010, NAT REV MICROBIOL, pS30, DOI 10.1038/nrmicro2459
+   Pok KY, 2010, VECTOR-BORNE ZOONOT, V10, P1009, DOI 10.1089/vbz.2008.0176
+   Prado PS, 2018, MEM I OSWALDO CRUZ, V113, DOI 10.1590/0074-02760170433
+   Pun R, 2012, Kathmandu Univ Med J (KUMJ), V10, P7
+   Lima MDQ, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000738
+   Ramirez AH, 2009, DIAGN MICR INFEC DIS, V65, P247, DOI 10.1016/j.diagmicrobio.2009.07.022
+   Sanchez-Vargas LA, 2014, DIAGN MICR INFEC DIS, V78, P368, DOI 10.1016/j.diagmicrobio.2013.12.019
+   Shih HI, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0158437
+   Shu PY, 2009, CLIN VACCINE IMMUNOL, V16, P589, DOI 10.1128/CVI.00475-08
+   Shu PY, 2004, CLIN DIAGN LAB IMMUN, V11, P642, DOI 10.1128/CDLI.11.4.642-650.2004
+   Shukla MK, 2017, J MED VIROL, V89, P1146, DOI 10.1002/jmv.24764
+   Simonnet C, 2017, EUR J CLIN MICROBIOL, V36, P2441, DOI 10.1007/s10096-017-3083-8
+   Steinhagen K, 2016, EUROSURVEILLANCE, V21, P13, DOI 10.2807/1560-7917.ES.2016.21.50.30426
+   Tan YY, 2011, J GLOB INFECT DIS, V3, P233, DOI 10.4103/0974-777X.83528
+   Tontulawat P, 2011, SE ASIAN J TROP MED, V42, P570
+   Tricou V, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-142
+   Valdez Sandoval JJ, 2012, REV CUBA MED TROP, V64, P27
+   Vickers I, 2017, DIAGN MICR INFEC DIS, V89, P271, DOI 10.1016/j.diagmicrobio.2017.08.019
+   Vickers IE, 2015, J BIOMED SCI, V22, DOI 10.1186/s12929-015-0164-9
+   Whiting PF, 2011, ANN INTERN MED, V155, P529, DOI 10.7326/0003-4819-155-8-201110180-00009
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+   Yusuf Noshin Wasim, 2008, J Ayub Med Coll Abbottabad, V20, P26
+   Zainah S, 2009, J VIROL METHODS, V155, P157, DOI 10.1016/j.jviromet.2008.10.016
+   Zhang H, 2014, INT J INFECT DIS, V26, P57, DOI 10.1016/j.ijid.2014.02.002
+NR 84
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PY 2020
+VL 36
+IS 6
+AR e00225618
+DI 10.1590/0102-311X00225618
+PG 24
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA LZ9RP
+UT WOS:000541556400001
+PM 32520127
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Mata, VE
+   Passos, SRL
+   dos Santos, MAB
+   Buonora, SN
+   de Andrade, CAF
+   Lima, MDQ
+   Costa, BM
+   Hokerberg, YHM
+AF Mata, Veronica Elizabeth
+   Lambert Passos, Sonia Regina
+   Borges dos Santos, Maria Angelica
+   Buonora, Sibelle Nogueira
+   Ferreira de Andrade, Carlos Augusto
+   Queiroz Lima, Monique da Rocha
+   Costa, Betina Moreira
+   Marques Hokerberg, Yara Hahr
+TI Diagnostic parameters and reliability of four rapid
+   immunochromatographic tests for dengue 4
+SO BRAZILIAN JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Article
+DE Dengue; Immunochromatographic tests; Sensitivity and specificity;
+   Reproducibility of tests; Diagnosis
+ID NS1 ANTIGEN; ZIKA VIRUS
+AB Background: Although performance of rapid immunochromatographic tests (RITs) for dengue virus (DENY) serotypes 1, 2 and 3 is relatively settled, evidence on accuracy of RITs for DENV-4 are based on studies with small sample sizes and with discrepant results.
+   Objectives: To assess accuracy and inter-observer agreement of RITs targeting dengue nonstructural protein-1 (NS1) antigen - Dengue NS1-Bioeasy (TM), Dengue NS1 Ag Strip-Bio-Rad (TM), IVB Dengue Ag NS1-Orangelife (TM) and Dengue NS1-K130-Bioclin (TM) in DENV-4 samples.
+   Methods: Study sample (n = 324) included adults presenting at an emergency unit in Rio de Janeiro, Brazil, with fever of <= 72 h and two or more dengue symptoms. A serum sample from each patient was tested by each RIT. A positive reverse-transcription polymerase chain reaction was considered as the reference standard for dengue diagnosis. The diagnostic parameters analyzed for each RIT were sensitivity, specificity, positive and negative predictive values, and likelihood ratios. Each RIT was read by homogeneous (two junior nurses) or heterogeneous (one junior nurse and one senior biologist) pairs. Agreement was estimated by simple kappa with 95% confidence interval, positive (Ppos) and negative (Pneg) proportion concordance and prevalence and bias adjusted kappa, rated from poor (k < 0.0) to almost perfect (0.8 < k < 1.0), and perfect (k= 1).
+   Results: NS1 RITs for DENV-4 diagnosis showed high specificity (95.9%-99.4%), but low sensitivity (14.7%-45.4%). BioeasyTM had the best performance, with a positive likelihood ratio of 26.0 (95% CI: 8.4;81.0). Inter-observer agreement was almost perfect for all evaluated RITs. Mismatches in confirmed dengue were more common for the BioclinTM (Ppos 88.3-90.0 %) and Orangelife (TM) (Ppos 91.7-94.1 %) tests.
+   Conclusions: For DENV-4, the tested RITs had high specificity, but lower sensitivity compared to published results for other serotypes. They should not be used for screening purposes. Different brands may have very different performances. This should be considered upon deciding of using RITs in DENV-4 outbreaks. (C) 2020 Sociedade Brasileira de Infectologia. Published by Elsevier Espana, S.L.U.
+C1 [Mata, Veronica Elizabeth; Lambert Passos, Sonia Regina; Buonora, Sibelle Nogueira; Marques Hokerberg, Yara Hahr] Fundacao Oswaldo Cruz, Evandro Chagas Natl Inst Infect Dis, Lab Clin Epidemiol, Rio De Janeiro, RJ, Brazil.
+   [Borges dos Santos, Maria Angelica] Fundacao Oswaldo Cruz, Natl Sch Publ Hlth ENSP, Rio De Janeiro, RJ, Brazil.
+   [Queiroz Lima, Monique da Rocha] Fundacao Oswaldo Cruz, Oswaldo Cruz Inst, Lab Flavivirus, Rio De Janeiro, RJ, Brazil.
+   [Ferreira de Andrade, Carlos Augusto; Costa, Betina Moreira] Univ Estacio Sa, Rio De Janeiro, RJ, Brazil.
+RP Passos, SRL (corresponding author), Fundacao Oswaldo Cruz, Evandro Chagas Natl Inst Infect Dis, Lab Clin Epidemiol, Rio De Janeiro, RJ, Brazil.
+EM sonia.lambert@ini.fiocruz.br
+RI hokerberg, yara/K-2880-2016
+OI hokerberg, yara/0000-0001-7140-7172; Buonora,
+   Sibelle/0000-0002-0843-1783; Borges dos Santos, Maria
+   Angelica/0000-0002-7547-3537
+FU Conselho Nacional de Desenvolvimen to Cientifico (CNPq)National Council
+   for Scientific and Technological Development (CNPq) [402068/2012-2];
+   CNPqNational Council for Scientific and Technological Development (CNPq)
+   [3107665/2016-1]; UNESA Produtividade em Pesquisa; FaperjCarlos Chagas
+   Filho Foundation for Research Support of the State of Rio de Janeiro
+   (FAPERJ) [221.354E 01/2016]
+FX This study was supported by the Conselho Nacional de Desenvolvimen to
+   Cientifico (CNPq) grant numbers. 402068/2012-2. SRLP had a fellowship
+   from CNPq [grant number 3107665/2016-1] and UNESA Produtividade em
+   Pesquisa. VEM hada doctoral fellowship from Faperj [grant number
+   221.354E 01/2016]. The funding source had no involvement in the
+   collection, analysis and interpretation of data or in the writing of the
+   report.
+CR [Anonymous], 2014, MEDCALC STAT SOFTW V
+   [Anonymous], 2008, PLATELIA DENGUE NS1
+   Martinez-Vega RA, 2009, BIOMEDICA, V29, P616, DOI 10.7705/biomedica.v29i4.139
+   Barde PV, 2012, INDIAN J MED RES, V136, P491
+   Bio-Rad Laboratories Inc, 2014, DENG NS1 AG STRIP BI
+   Blacksell SD, 2012, J BIOMED BIOTECHNOL, DOI 10.1155/2012/151967
+   Blacksell SD, 2011, CLIN VACCINE IMMUNOL, V18, P2095, DOI 10.1128/CVI.05285-11
+   Buonora SN, 2016, BMC INFECT DIS, V16, DOI 10.1186/s12879-016-1368-7
+   BYRT T, 1993, J CLIN EPIDEMIOL, V46, P423, DOI 10.1016/0895-4356(93)90018-V
+   Colombo TE, 2013, J CLIN VIROL, V58, P710, DOI 10.1016/j.jcv.2013.10.021
+   DUSSART P, 2008, PLOS NEGLECT TROP D, V2, DOI DOI 10.1371/J0URNALTNTD.0000280
+   Sea VRF, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064056
+   Ferraz FO, 2013, J CLIN VIROL, V58, P41, DOI 10.1016/j.jcv.2013.06.015
+   Fry SR, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001199
+   Gan VC, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090037
+   Hunsperger EA, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003171
+   Passos SRL, 2017, EMERG INFECT DIS, V23, P2120, DOI 10.3201/eid2312.171375
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   LIMA MDQ, 2010, PLOS NEGLECT TROP D, V4, DOI DOI 10.1371/JOURNALPNTD.0000738
+   LOPES N, 2014, REV PAN-AMAZ SAUDE, V5, P55, DOI DOI 10.5123/S2176-62232014000300007
+   Low JGH, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001191
+   MATA VE, 2017, BMC INFECT DIS, V17, DOI DOI 10.1186/S17879-017-7679-Z
+   Orangelife comercio e indUstria Ltda. Brazil, 2016, IVB DENG AG NS1 OR
+   Osorio L, 2015, MEM I OSWALDO CRUZ, V110, P510, DOI 10.1590/0074-02760140359
+   Osorio L, 2010, VIROL J, V7, DOI 10.1186/1743-422X-7-361
+   Pai NP, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001306
+   Pal S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113411
+   Pok KY, 2010, VECTOR-BORNE ZOONOT, V10, P1009, DOI 10.1089/vbz.2008.0176
+   Lima MDQ, 2014, J VIROL METHODS, V204, P105, DOI 10.1016/j.jviromet.2014.02.031
+   Lima MDQ, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000738
+   Quibasa Quimica Basica Ltda Brazil, 2017, DENG NS1 K130 BIOCL
+   Ramirez AH, 2009, DIAGN MICR INFEC DIS, V65, P247, DOI 10.1016/j.diagmicrobio.2009.07.022
+   Shu PY, 2009, CLIN VACCINE IMMUNOL, V16, P589, DOI 10.1128/CVI.00475-08
+   Teixeira MG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002520
+   Trajman A, 2008, SCAND J CLIN LAB INV, V68, P77, DOI 10.1080/00365510701666031
+   Tricou V, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-142
+   Vazquez S, 2010, DIAGN MICR INFEC DIS, V68, P46, DOI 10.1016/j.diagmicrobio.2010.04.006
+   Wang SM, 2010, AM J TROP MED HYG, V83, P690, DOI 10.4269/ajtmh.2010.10-0117
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+   Zhang H, 2014, INT J INFECT DIS, V26, P57, DOI 10.1016/j.ijid.2014.02.002
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER BRAZIL
+PI RIO DE JANEIRO
+PA R SETE SETEMBRO, 111-16, RIO DE JANEIRO, RJ 20050-006, BRAZIL
+SN 1413-8670
+EI 1678-4391
+J9 BRAZ J INFECT DIS
+JI Braz. J. Infect. Dis.
+PD JAN-FEB
+PY 2020
+VL 24
+IS 1
+BP 58
+EP 64
+DI 10.1016/j.bjid.2019.12.004
+PG 7
+WC Infectious Diseases
+SC Infectious Diseases
+GA LG3SA
+UT WOS:000528023500009
+PM 31954721
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Pone, SM
+   Hokerberg, YHM
+   Brasil, P
+   Nicolai, CCD
+   Ferrari, R
+   de Oliveira, RDC
+AF Pone, Sheila Moura
+   Marques Hoekerberg, Yara Hahr
+   Brasil, Patricia
+   de Araujo Nicolai, Cecilia Carmen
+   Ferrari, Rogerio
+   Carvalhaes de Oliveira, Raquel de Vasconcellos
+TI Socio-demographic inequalities in the clinical characteristics of dengue
+   haemorrhagic fever in the city of Rio de Janeiro, Brazil, 2007-2008
+SO EPIDEMIOLOGY AND INFECTION
+LA English
+DT Article
+DE Child; dengue; dengue haemorrhagic fever; spatial analysis
+ID NEUROLOGICAL MANIFESTATIONS; CHILDREN; ADULTS; SEVERITY; FEATURES
+AB In 2007-2008, the city of Rio de Janeiro underwent an epidemiological change, with increases in the incidence in children and in severe forms of dengue. To describe the clinical profile and spatial distribution of dengue we performed an ecological study based on dengue surveillance data using the Brazilian classification (2005): dengue fever, dengue haemorrhagic fever (DHF) and dengue with complications. chi(2) test was used to describe the clinical and socio-demographic variables (P < 0.05). Spatial distribution of incidence and case-fatality was explored with thematic maps, Moran and Geary indices (P < 0.05). Of the total of 151 527 dengue cases, 38 808 met the inclusion criteria; 42.4% <18 years; 22.9% dengue with complications and 2.7% DHF. Case-fatality was higher in infants (1.4%) and in DHF (7.7%). Bleeding was more frequent in adolescents and adults while plasma leakage was more common in preschoolers and schoolchildren. The highest incidence was found in the West Zone of the city, in a different area from that of the worst case-fatality (P < 0.05). Although the incidence of DHF was higher in schoolchildren, infants showed higher case-fatality. The area with the highest case-fatality did not present the highest incidence, which suggests problems in the organization of health services.
+C1 [Pone, Sheila Moura] Fundacao Oswaldo Cruz, Inst Nacl Saude Mulher Crianca & Adolescente Fern, Dept Pediat, Rio De Janeiro, Brazil.
+   [Marques Hoekerberg, Yara Hahr; Ferrari, Rogerio; Carvalhaes de Oliveira, Raquel de Vasconcellos] Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Lab Epidemiol Clin, Rio De Janeiro, Brazil.
+   [Brasil, Patricia] Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Lab Doencas Febris Agudas, Rio De Janeiro, Brazil.
+   [de Araujo Nicolai, Cecilia Carmen] Secretaria Municipal Saude Rio de Janeiro, Inst Pereira Passos, Rio De Janeiro, Brazil.
+RP Hokerberg, YHM (corresponding author), Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Lab Epidemiol Clin, Rio De Janeiro, Brazil.
+EM yarahahr@ini.fiocruz.br
+RI Oliveira, Raquel de V C de/S-7443-2016; hokerberg, yara/K-2880-2016
+OI Oliveira, Raquel de V C de/0000-0001-9387-8645; Moura Pone,
+   Sheila/0000-0002-6246-8915; hokerberg, yara/0000-0001-7140-7172
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro - FAPERJCarlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ) [110.188/2014, E-26/110.964/2013]; Estacio de Sa
+   University [1352017]
+FX We thank the staff of the Health Department of the Rio de Janeiro city
+   who work to improve the quality of the free available databases. This
+   work was supported by the Fundacao de Amparo a Pesquisa do Estado do Rio
+   de Janeiro - FAPERJ (Grant number 110.188/2014 and E-26/110.964/2013).
+   YHMH was supported by Estacio de Sa University (Pesquisa Produtividade
+   1352017).
+CR Barreto Maurício L., 2008, Estud. av., V22, P53, DOI 10.1590/S0103-40142008000300005
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Blanton RE, 2008, EUR J HUM GENET, V16, P762, DOI 10.1038/ejhg.2008.4
+   Brazilian Ministry of Health, 2006, SIST INF AGR NOT SIN, V80
+   Brazilian Ministry of Health, 2006, PORT N 5 22 FEV 2006
+   Brazilian Ministry of Health, 2009, GUIA VIGILANCIA EPID, P816
+   Brazilian Ministry of Health, 2005, DENG DIAGN MAN CLIN, P24
+   Chen HL, 2008, AM J TROP MED HYG, V79, P495, DOI 10.4269/ajtmh.2008.79.495
+   Duarte HHP, 2006, REV SAUDE PUBL, V40, P134, DOI 10.1590/S0034-89102006000100021
+   Halsey ES, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001638
+   Halstead SB, 2006, REV PANAM SALUD PUBL, V20, P407, DOI 10.1590/S1020-49892006001100007
+   Hammond SN, 2005, AM J TROP MED HYG, V73, P1063
+   Instituto Brasileiro de Geografia e Estatistica, 2010, CENS 2010
+   Joob B, 2014, TRAVEL MED INFECT DI, V12, P195, DOI 10.1016/j.tmaid.2014.02.002
+   Kittigul L, 2007, J CLIN VIROL, V39, P76, DOI 10.1016/j.jcv.2007.04.006
+   MalhAo TA, 2010, THESIS
+   Martinez E, 2005, DENGUE
+   Monteiro SP, 2012, MEM I OSWALDO CRUZ, V107, P224, DOI 10.1590/S0074-02762012000200012
+   Neeraja M, 2014, ARCH VIROL, V159, P1567, DOI 10.1007/s00705-014-2010-x
+   Nguyen NM, 2013, P NATL ACAD SCI USA, V110, P9072, DOI 10.1073/pnas.1303395110
+   R Core Team, 2015, R LANG ENV STAT COMP
+   Sabchareon A, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001732
+   Siqueira JB, 2005, EMERG INFECT DIS, V11, P48, DOI 10.3201/eid1101.031091
+   SPSS Inc, 2007, SPSS WIND VERS 16 0
+   Teixeira MG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002520
+   Toledo Ana Lucia Araujo de, 2006, Cad. Saúde Pública, V22, P933, DOI 10.1590/S0102-311X2006000500006
+   The TD, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001679
+   United Nations Development Program, 2016, HUMAN DEV REPORT
+   Weeratunga PN, 2014, TRAVEL MED INFECT DI, V12, P189, DOI 10.1016/j.tmaid.2013.11.001
+   WHO, 1997, DENG HAEM FEV DIAGN, P1
+   Wichmann O, 2004, TROP MED INT HEALTH, V9, P1022, DOI 10.1111/j.1365-3156.2004.01295.x
+   Witayathawornwong Prasonk, 2005, Southeast Asian Journal of Tropical Medicine and Public Health, V36, P896
+   World Health Organization (WHO), 2012, HDB CLIN MAN DENG, P111
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0950-2688
+EI 1469-4409
+J9 EPIDEMIOL INFECT
+JI Epidemiol. Infect.
+PD FEB
+PY 2018
+VL 146
+IS 3
+BP 359
+EP 366
+DI 10.1017/S0950268817003119
+PG 8
+WC Public, Environmental & Occupational Health; Infectious Diseases
+SC Public, Environmental & Occupational Health; Infectious Diseases
+GA FV7CS
+UT WOS:000424741000013
+PM 29338803
+OA Bronze, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU de Oliveira, RDC
+   Shimakura, SE
+   Campos, DP
+   Hokerberg, YHM
+   Victoriano, FP
+   Ribeiro, S
+   Veloso, VG
+   Grinsztejn, B
+   Carvalho, MS
+AF Carvalhaes de Oliveira, Raquel de Vasconcellos
+   Shimakura, Silvia Emiko
+   Campos, Dayse Pereira
+   Marques Hokerberg, Yara Hahr
+   Victoriano, Flaviana Pavan
+   Ribeiro, Sayonara
+   Veloso, Valdilea G.
+   Grinsztejn, Beatriz
+   Carvalho, Marilia Sa
+TI Effects of antiretroviral treatment and nadir CD4 count in progression
+   to cardiovascular events and related comorbidities in a HIV Brazilian
+   cohort: a multi-stage approach
+SO AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV
+LA English
+DT Article
+DE Cardiovascular events; progression; HIV/AIDS; multi-stage model; cohort
+   study
+ID ACUTE MYOCARDIAL-INFARCTION; COMPETING RISKS; DISEASE; INFECTION;
+   MODELS; THERAPY; INDIVIDUALS; POPULATION; INHIBITORS; SURVIVAL
+AB The use of highly active antiretroviral therapy has resulted in changes of comorbidity profile in people living with HIV (PLHIV), increasing non-AIDS-related events. The occurrence of cardiovascular events is greater in PLHIV, but the mechanism responsible for it is still controversial. This article aimed to investigate factors associated with the progression to cardiovascular events in PLHIV using HAART. A 15-years cohort study with 1135 PLHIV was conducted in Rio de Janeiro-Brazil. Clinical progression was stratified in five states: No comorbidities (s(1)), arterial hypertension (s(2)), lipid abnormalities (s(3)), hypertension and lipid abnormalities (s(4)) and major cardiovascular events (stroke, coronary artery disease, thrombosis or death) (s(5)). Semi-Markov models evaluated the effects of cardiovascular traditional factors, treatment and clinical covariates on transitions between these states. Hazard Ratios (HR) and 95% confidence intervals (CI) were provided. In addition to traditional factors (age, sex, educational level and skin color), the development of one comorbidity (lipid abnormalities or hypertension) increased in patients with low nadir CD4 (<50 cells/mm(3)), (HR=1.59, CI 1.11-2.28 and 1.36, CI 1.11-1.66, respectively). The risk to experience a second comorbidity (s(3)s(4)) increased 75% with low nadir CD4. Age was the only factor that increased the risk of major cardiovascular events once having lipid abnormalities with or without hypertension (s(3),s(4)s(5)). The prolonged use of certain antiretroviral drugs (abacavir, didanosine, ritonavir, lopinavir, amprenavir and fosamprenavir) increased the risk of direct transition (s(1)s(5)) to major cardiovascular events (HR=5.29, CI 1.16-24.05). This analysis suggests that prolonged use of certain antiretroviral drugs led directly to major cardiovascular events, while low nadir CD4 only affected the occurrence of lipid abnormalities and hypertension. Management strategies, including rational use of complex exams (such as, computed-tomography angiography), statins and antihypertensives, should be developed based on the distinct roles of antiretroviral use and of HIV infection itself on the progression to cardiovascular events.
+C1 [Carvalhaes de Oliveira, Raquel de Vasconcellos; Campos, Dayse Pereira; Marques Hokerberg, Yara Hahr; Victoriano, Flaviana Pavan; Ribeiro, Sayonara; Veloso, Valdilea G.; Grinsztejn, Beatriz] Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Rio De Janeiro, RJ, Brazil.
+   [Shimakura, Silvia Emiko] Univ Fed Parana, Setor Ciencias Exatas, Curitiba, Parana, Brazil.
+   [Carvalho, Marilia Sa] Fundacao Oswaldo Cruz, Programa Comp Cient, Rio De Janeiro, RJ, Brazil.
+RP de Oliveira, RDC (corresponding author), Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Lab Epidemiol Clin, Ave Brasil 4365, Rio De Janeiro, RJ, Brazil.
+EM raquel.vasconcellos@ini.fiocruz.br
+RI CARVALHO, MARILIA/AAD-8283-2020; hokerberg, yara/K-2880-2016; Oliveira,
+   Raquel de V C de/S-7443-2016
+OI CARVALHO, MARILIA/0000-0002-9566-0284; hokerberg,
+   yara/0000-0001-7140-7172; Shimakura, Silvia/0000-0002-5468-2516;
+   Oliveira, Raquel de V C de/0000-0001-9387-8645
+CR Afridi I, 2003, J HYPERTENS, V21, P1983, DOI 10.1097/01.hjh.0000084751-37215.d2
+   Andersen PK, 2002, STAT METHODS MED RES, V11, P203, DOI 10.1191/0962280202sm281ra
+   Arildsen H, 2013, HIV MED, V14, P1, DOI 10.1111/j.1468-1293.2012.01027.x
+   Brasil. Ministerio da Saude, 2008, REC TER ANT AD INF P
+   Brignol S, 2015, CAD SAUDE PUBLICA, V31, P1035, DOI 10.1590/0102-311X00178313
+   Campos DP, 2005, AIDS, V19, pS22, DOI 10.1097/01.aids.0000191486.92285.1c
+   de Oliveira RDC, 2013, CAD SAUDE PUBLICA, V29, P801, DOI 10.1590/S0102-311X2013000400017
+   Core Team R, 2015, R LANG ENV STAT COMP
+   de Wreede LC, 2011, J STAT SOFTW, V38, P1
+   El-Sadr WM, 2006, NEW ENGL J MED, V355, P2283
+   Feinstein MJ, 2016, AM J CARDIOL, V117, P214, DOI 10.1016/j.amjcard.2015.10.030
+   Foucher Y, 2005, BIOMETRICAL J, V47, P825, DOI 10.1002/bimj.200410170
+   Gomo ZAR, 2014, AIDS RES THER, V11, DOI 10.1186/1742-6405-11-32
+   Albuquerque VMG, 2013, BMC INFECT DIS, V13, DOI 10.1186/1471-2334-13-274
+   Huzurbazar AV, 2005, FLOWGRAPH MODELS MUL
+   Islam FM, 2012, HIV MED, V13, P453, DOI 10.1111/j.1468-1293.2012.00996.x
+   Josephson F, 2010, J INTERN MED, V268, P530, DOI 10.1111/j.1365-2796.2010.02301.x
+   Kousignian I, 2003, JAIDS-J ACQ IMM DEF, V34, P50, DOI 10.1097/00126334-200309010-00007
+   Lawless JF, 2015, LIFETIME DATA ANAL, V21, P160, DOI 10.1007/s10985-014-9310-z
+   Lundgren D, 2015, NEW ENGL J MED, V373, P795, DOI 10.1056/NEJMoa1506816
+   Malta M, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-1530-y
+   Martin-Iguacel R, 2015, CURR HIV-AIDS REP, V12, P375, DOI 10.1007/s11904-015-0284-6
+   Mathieu E, 2007, METHODOL COMPUT APPL, V9, P389, DOI 10.1007/s11009-007-9033-7
+   Nam S, 2016, J CLIN HYPERTENS, V18, P572, DOI 10.1111/jch.12714
+   Negredo E, 2010, CLIN INFECT DIS, V50, P1300, DOI 10.1086/651689
+   Paisible AL, 2015, JAIDS-J ACQ IMM DEF, V68, P209, DOI 10.1097/QAI.0000000000000419
+   Reyskens KMSE, 2014, BBA-MOL BASIS DIS, V1842, P256, DOI 10.1016/j.bbadis.2013.11.019
+   Sabin CA, 2008, LANCET, V371, P1417, DOI 10.1016/S0140-6736(08)60423-7
+   Santos IS, 2015, ARTERIOSCL THROM VAS, V35, P2054, DOI 10.1161/ATVBAHA.115.305765
+   Titman AC, 2010, STAT METHODS MED RES, V19, P621, DOI 10.1177/0962280209105541
+   Trevillyan JM, 2015, AIDS, V29, P2309, DOI 10.1097/QAD.0000000000000848
+   Triant VA, 2007, J CLIN ENDOCR METAB, V92, P2506, DOI 10.1210/jc.2006-2190
+   Triant VA, 2012, J INFECT DIS, V205, pS355, DOI 10.1093/infdis/jis195
+   Wang SA, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017326
+   World Health Organization, 2006, ANT THER HIV INF AD
+   Zanni MV, 2014, AIDS, V28, P2061, DOI 10.1097/QAD.0000000000000360
+NR 36
+TC 3
+Z9 3
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0954-0121
+EI 1360-0451
+J9 AIDS CARE
+JI Aids Care-Psychol. Socio-Med. Asp. Aids-Hiv
+PY 2018
+VL 30
+IS 5
+BP 551
+EP 559
+DI 10.1080/09540121.2017.1391984
+PG 9
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychology, Multidisciplinary; Respiratory System; Social Sciences,
+   Biomedical
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychology; Respiratory System; Biomedical Social Sciences
+GA GA1QZ
+UT WOS:000428093200003
+PM 29058481
+DA 2020-11-24
+ER
+
+PT J
+AU Passos, SRL
+   dos Santos, MAB
+   Cerbino-Neto, J
+   Buonora, SN
+   Souza, TML
+   de Oliveira, RVC
+   Vizzoni, A
+   Barbosa-Lima, G
+   Vieira, YR
+   de Lima, MS
+   Hokerberg, YHM
+AF Lambert Passos, Sonia R.
+   Borges dos Santos, Maria A.
+   Cerbino-Neto, Jose
+   Buonora, Sibelle N.
+   Souza, Thiago M. L.
+   de Oliveira, Raquel V. C.
+   Vizzoni, Alexandre
+   Barbosa-Lima, Giselle
+   Vieira, Yasmine R.
+   de Lima, Marcondes Silva
+   Hokerberg, Yara H. M.
+TI Detection of Zika Virus in April 2013 Patient Samples, Rio de Janeiro,
+   Brazil
+SO EMERGING INFECTIOUS DISEASES
+LA English
+DT Letter
+ID TRANSMISSION; AMERICA
+AB We tested 210 dengue virus. negative samples collected from febrile patients during a dengue virus type 4 outbreak in Rio de Janeiro in April 2013 and found 3 samples positive for Zika virus. Our findings support previously published entomological data suggesting Zika virus was introduced into Brazil during October 2012-May 2013.
+C1 [Lambert Passos, Sonia R.; Souza, Thiago M. L.] Fundacao Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Lambert Passos, Sonia R.; Hokerberg, Yara H. M.] Estacio de Sa Univ, Rio De Janeiro, Brazil.
+   [Borges dos Santos, Maria A.] Fundacao Oswaldo Cruz, Escola Nacl Saude Publ, Rio De Janeiro, Brazil.
+   [Cerbino-Neto, Jose; Buonora, Sibelle N.; de Oliveira, Raquel V. C.; Vizzoni, Alexandre; Barbosa-Lima, Giselle; Vieira, Yasmine R.; de Lima, Marcondes Silva; Hokerberg, Yara H. M.] Evandro Chagas Natl Inst Infect Dis, Rio De Janeiro, Brazil.
+   [Buonora, Sibelle N.] Univ Fed Rio de Janeiro, Rio De Janeiro, Brazil.
+RP Passos, SRL (corresponding author), Evandro Chagas Natl Inst Infect Dis, Clin Epidemiol Lab, Av Brasil 4036 Sala 201 A, BR-21040361 Rio De Janeiro, RJ, Brazil.
+EM sonia.lambert@ini.fiocruz.br
+RI Neto, Jose Cerbino/P-3713-2018; Vizzoni, Alexandre/W-8718-2019; Lima,
+   Marcondes/C-5200-2018; Oliveira, Raquel de V C de/S-7443-2016
+OI Neto, Jose Cerbino/0000-0001-9254-917X; Vizzoni,
+   Alexandre/0000-0003-0004-5084; Passos, Sonia/0000-0001-9947-2291;
+   Buonora, Sibelle/0000-0002-0843-1783; Souza, Thiago/0000-0003-2212-3899;
+   Oliveira, Raquel de V C de/0000-0001-9387-8645
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico, Programa
+   de Excelencia em Pesquisa [402068/2012-2]; Conselho Nacional de
+   Desenvolvimento Cientifico e TecnologicoNational Council for Scientific
+   and Technological Development (CNPq) [310765/2016-1]; Universidade
+   Estacio de Sa Pesquisa Produtividade; Universidade Estacio de Sao
+   Pesquisa Produtividade; Fundacao de Amparo a Pesquisa do Estado do Rio
+   de JaneiroCarlos Chagas Filho Foundation for Research Support of the
+   State of Rio de Janeiro (FAPERJ) [E-26/110.188/2014]
+FX This work was funded by Conselho Nacional de Desenvolvimento Cientifico
+   e Tecnologico, Programa de Excelencia em Pesquisa 402068/2012-2.
+   S.R.L.P. was supported by Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico grant 310765/2016-1 and Universidade Estacio de
+   Sa Pesquisa Produtividade. Y.H.M.H. was supported by Universidade
+   Estacio de Sao Pesquisa Produtividade and Fundacao de Amparo a Pesquisa
+   do Estado do Rio de Janeiro (E-26/110.188/2014). S.R.L.P., M.A.B.S., and
+   J.C.N. are members of the Rede Nacional de Especialistas em Zika e
+   Doencas Correlatas (the Brazilian National Zika Network).
+CR Ayllon T, 2017, EMERG INFECT DIS, V23, P1411, DOI 10.3201/eid2308.162007
+   Brasil P, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004636
+   Buonora SN, 2016, BMC INFECT DIS, V16, DOI 10.1186/s12879-016-1368-7
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Faria NR, 2017, NATURE, V546, P406, DOI 10.1038/nature22401
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Massad E, 2017, EPIDEMIOL INFECT, V145, P2303, DOI 10.1017/S0950268817001200
+   Metsky HC, 2017, NATURE, V546, P411, DOI 10.1038/nature22402
+   Freitas ARR, 2016, REV INST MED TROP SP, V58, DOI 10.1590/S1678-9946201658024
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 10
+TC 16
+Z9 17
+U1 0
+U2 0
+PU CENTERS  DISEASE CONTROL
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1080-6040
+EI 1080-6059
+J9 EMERG INFECT DIS
+JI Emerg. Infect. Dis
+PD DEC
+PY 2017
+VL 23
+IS 12
+BP 2120
+EP 2121
+DI 10.3201/eid2312.171375
+PG 2
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA FO0PA
+UT WOS:000416446000040
+PM 28953451
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Mata, VE
+   Passos, SRL
+   Hokerberg, YHM
+   Berardinelli, GM
+   dos Santos, MAB
+   Fukuoka, LVB
+   Maciel, ACFSR
+   Rodrigues, CDD
+   Santos, AD
+   de Oliveira, RDC
+AF Mata, Vernica Elizabeth
+   Lambert Passos, Sonia Regina
+   Marques Hokerberg, Yara Hahr
+   Berardinelli, Guilherme Migueis
+   Borges dos Santos, Maria Angelica
+   Boas Fukuoka, Levy Vilas
+   Seixas Rangel Maciel, Anna Carolina Fontoura
+   dos Santos Rodrigues, Cintia Damasceno
+   Santos, Aline da Silva
+   Carvalhaes de Oliveira, Raquel de Vasconcellos
+TI Accuracy and reliability of an NS1 rapid immunochromatographic test for
+   DENV-1 diagnosis at point of care and in the laboratory (vol 17, pg 594,
+   2017)
+SO BMC INFECTIOUS DISEASES
+LA English
+DT Correction
+AB An error occurred during the publication of the original article [1].
+C1 [Mata, Vernica Elizabeth; Lambert Passos, Sonia Regina; Marques Hokerberg, Yara Hahr; Berardinelli, Guilherme Migueis; Boas Fukuoka, Levy Vilas; Seixas Rangel Maciel, Anna Carolina Fontoura; Carvalhaes de Oliveira, Raquel de Vasconcellos] Av Brasil 4036 Sala 201 A, BR-21040361 Rio De Janeiro, RJ, Brazil.
+   [Borges dos Santos, Maria Angelica] Rua Leopoldo Bulhoes 1480 Sala 601, BR-21040361 Rio De Janeiro, RJ, Brazil.
+   [dos Santos Rodrigues, Cintia Damasceno; Santos, Aline da Silva] Av Brasil 4365, BR-21040360 Rio De Janeiro, RJ, Brazil.
+RP Mata, VE (corresponding author), Av Brasil 4036 Sala 201 A, BR-21040361 Rio De Janeiro, RJ, Brazil.
+EM veronica.mata@ini.fiocruz.br
+OI Passos, Sonia/0000-0001-9947-2291
+CR Mata VE, 2017, BMC INFECT DIS, V17, DOI 10.1186/s12879-017-2679-z
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2334
+J9 BMC INFECT DIS
+JI BMC Infect. Dis.
+PD NOV 1
+PY 2017
+VL 17
+SU 1
+AR 710
+DI 10.1186/s12879-017-2804-z
+PG 3
+WC Infectious Diseases
+SC Infectious Diseases
+GA FL7AT
+UT WOS:000414398700001
+PM 29092715
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Mata, VE
+   Passos, SRL
+   Hokerberg, YHM
+   Berardinelli, GM
+   dos Santos, MAB
+   Fukuoka, LVB
+   Maciel, ACFSR
+   Rodrigues, CDD
+   Santos, AD
+   de Oliveira, RDC
+AF Mata, Veronica Elizabeth
+   Lambert Passos, Sonia Regina
+   Marques Hokerberg, Yara Hahr
+   Berardinelli, Guilherme Migueis
+   Borges dos Santos, Maria Angelica
+   Boas Fukuoka, Levy Vilas
+   Seixas Rangel Maciel, Anna Carolina Fontoura
+   dos Santos Rodrigues, Cintia Damasceno
+   Santos, Aline da Silva
+   Carvalhaes de Oliveira, Raquel de Vasconcellos
+TI Accuracy and reliability of an NS1 rapid immunochromatographic test for
+   DENV-1 diagnosis at the point of care and in the laboratory
+SO BMC INFECTIOUS DISEASES
+LA English
+DT Article
+DE Dengue; Sensitivity and specificity; Diagnosis; Point-of-care systems;
+   NS1; Reproducibility of results
+ID DENGUE DIAGNOSIS; SPECIFICITY; ANTIGEN
+AB Background: Rapid immunochromatographic tests (ICT) for dengue non-structural protein 1 (NS1) have shown good performance for diagnosing acute-phase dengue in serum in laboratory settings, but rarely have been assessed in whole blood and at point of care (POC). This study compare the accuracy and inter-and intra-observer reliability of the NS1 Bioeasy(TM) ICT in whole blood at POC versus serum in the laboratory, during a DENV-1 epidemic.
+   Methods: Cross-sectional study involving 144 adults spontaneously demanding care in an emergency department within 4 days of onset of acute febrile illness. Accuracy of NS1 Bioeasy (TM) ICT was compared in whole blood and serum, both at 15 and 30 min, blinded to the reference RT-PCR or NS1 ELISA. Non-dengue patients were also tested for Zika virus with RT-PCR. Reliability of whole blood and serum readings by the same or different observers was measured by simple kappa (95% CI).
+   Results: At 15 min, sensitivity (Sn) of NS1 Bioeasy (TM) ICT in whole blood/POC was 76.7% (95% CI: 68.0-84.1) and specificity (Sp) was 87.0% (95% CI: 66.4-97.2). Sn in serum/ laboratory was 82% (95% CI: 74.1-88.6) and Sp 100% (95% CI: 85.8-100). Positive likelihood ratio was 5.9 (95% CI: 2.0-17.0) for whole blood/POC and 19.8 (95% CI: 2.9-135.1) for serum/ laboratory. Reliability of matched readings of whole blood/POC and serum/ laboratory by the same observer (k = 0.83, 95% CI: 0.74-0.93) or different observers (k = 0.81, 95% CI: 0.72-0.92) was almost perfect, with higher discordant levels in the absence of dengue. Results did not differ statistically at 5%.
+   Conclusions: NS1 Bioeasy (TM) ICT in DENV-1 epidemics is a potentially confirmatory test. Invalid results at 15 min should be reread at 30 min. To optimize impact of implementing ICT in the management of false-negatives it should be incorporated into an algorithm according to setting and available specimen.
+C1 [Mata, Veronica Elizabeth; Lambert Passos, Sonia Regina; Marques Hokerberg, Yara Hahr; Berardinelli, Guilherme Migueis; Boas Fukuoka, Levy Vilas; Seixas Rangel Maciel, Anna Carolina Fontoura; Carvalhaes de Oliveira, Raquel de Vasconcellos] Av Brasil 4036 Sala 201 A, BR-21040361 Rio De Janeiro, RJ, Brazil.
+   [Borges dos Santos, Maria Angelica] Rua Leopoldo Bulhoes 1480 Sala 601, BR-21040361 Rio De Janeiro, RJ, Brazil.
+   [dos Santos Rodrigues, Cintia Damasceno; Santos, Aline da Silva] Av Brasil 4365, BR-21040360 Rio De Janeiro, RJ, Brazil.
+RP Mata, VE (corresponding author), Av Brasil 4036 Sala 201 A, BR-21040361 Rio De Janeiro, RJ, Brazil.
+EM veronica.mata@ini.fiocruz.br
+OI Passos, Sonia/0000-0001-9947-2291
+CR Abramson Joseph H, 2011, Epidemiol Perspect Innov, V8, P1, DOI 10.1186/1742-5573-8-1
+   Andries AC, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001993
+   [Anonymous], 2014, MEDCALC STAT SOFTW V
+   [Anonymous], 2015, DENG ED TEST BIOEAS
+   [Anonymous], 2016, IVB DENG AG NS1 ORAN
+   [Anonymous], 2012, SER EL CLASS DENG VI
+   [Anonymous], 2008, PLAT DENG NS1 AG
+   Martinez-Vega RA, 2009, BIOMEDICA, V29, P616, DOI 10.7705/biomedica.v29i4.139
+   Buonora SN, 2016, BMC INFECT DIS, V16, DOI 10.1186/s12879-016-1368-7
+   BYRT T, 1993, J CLIN EPIDEMIOL, V46, P423, DOI 10.1016/0895-4356(93)90018-V
+   Constenla Dagna, 2015, Value Health Reg Issues, V8, P80, DOI 10.1016/j.vhri.2015.06.001
+   Dussart P, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000280
+   FAGAN TJ, 1975, NEW ENGL J MED, V293, P257
+   Ferraz FO, 2013, J CLIN VIROL, V58, P41, DOI 10.1016/j.jcv.2013.06.015
+   Fry SR, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001199
+   Gan VC, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090037
+   Goodman C, 2005, ADV MED
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Hang VT, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000360
+   Hunsperger EA, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003171
+   Korevaar DA, 2015, RADIOLOGY, V274, P781, DOI 10.1148/radiol.14141160
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Matheus S, 2016, EMERG INFECT DIS, V22, P1691, DOI 10.3201/eid2209.160725
+   Organizacao Mundial da Saude, 2009, DENG DIR DIAGN TRAT, P11
+   Osorio L, 2010, VIROL J, V7, DOI 10.1186/1743-422X-7-361
+   Pai NP, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001306
+   Pal S, 2014, J INFLAMM-LOND, V11, DOI 10.1186/1476-9255-11-23
+   Palamountain KM, 2012, J INFECT DIS, V205, pS181, DOI 10.1093/infdis/jis203
+   Peeling RW, 2010, CLIN MICROBIOL INFEC, V16, P1062, DOI 10.1111/j.1469-0691.2010.03279.x
+   Pok KY, 2010, VECTOR-BORNE ZOONOT, V10, P1009, DOI 10.1089/vbz.2008.0176
+   Lima MDQ, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000738
+   R Core Team, 2015, R ID AMB COMP EST
+   Shepard DS, 2016, LANCET INFECT DIS, V16, P935, DOI 10.1016/S1473-3099(16)00146-8
+   Trajman A, 2007, SCAND J CLIN LAB INV, V68, P77
+   Tricou V, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-142
+NR 37
+TC 5
+Z9 5
+U1 0
+U2 4
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2334
+J9 BMC INFECT DIS
+JI BMC Infect. Dis.
+PD AUG 29
+PY 2017
+VL 17
+AR 594
+DI 10.1186/s12879-017-2679-z
+PG 7
+WC Infectious Diseases
+SC Infectious Diseases
+GA FF2IH
+UT WOS:000408720600002
+PM 28851293
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Cabral, VP
+   de Andrade, CAF
+   Passos, SRL
+   Martins, MDM
+   Hokerberg, YHM
+AF Cabral, Vanderlea Poeys
+   Ferreira de Andrade, Carlos Augusto
+   Lambert Passos, Sonia Regina
+   Moreira Martins, Maria de Fatima
+   Marques Hoekerberg, Yara Hahr
+TI Severe infection in patients with rheumatoid arthritis taking anakinra,
+   rituximab, or abatacept: a systematic review of observational studies
+SO REVISTA BRASILEIRA DE REUMATOLOGIA
+LA English
+DT Review
+DE Rheumatoid arthritis/therapy; Antirheumatic drugs/adverse effects;
+   Infection; Biological therapy/adverse effects; Review of literature as
+   topic
+ID COSTIMULATION MODULATOR ABATACEPT; DOUBLE-BLIND; ANTIRHEUMATIC DRUGS;
+   PHASE IIB; SAFETY; EFFICACY; RISK; BIOLOGICS
+AB A question is raised about an increased risk of severe infection from the use of biological drugs in patients with rheumatoid arthritis. This systematic review of observational studies aimed at assessing the risk of severe infection associated with the use of anakinra, rituximab, and abatacept in patients with rheumatoid arthritis. The following databases were searched: PubMed, Science Direct, Scopus, Web of Knowledge, Scirus, Cochrane, Exerpta Medica Database, Scielo, and Lilacs up to July 2010. Severe infections were defined as those life-threatening ones in need of the use of parenteral antibiotics or of hospitalization. Longitudinal observational studies were selected without language restriction, involving adult patients diagnosed with rheumatoid arthritis and who used anakinra, rituximab, or abatacept. In four studies related to anakinra, 129 (5.1%) severe infections were related in 2,896 patients, of which three died. With respect to rituximab, two studies reported 72 (5.9%) severe infections in 1,224 patients, of which two died. Abatacept was evaluated in only one study in which 25 (2.4%) severe infections were reported in 1046 patients. The main site of infection for these three drugs was the respiratory tract. One possible explanation for the high frequency of severe infections associated with anakinra may be the longer follow-up time in the selected studies. The high frequency of severe infections associated with rituximab could be credited to the less strict inclusion criteria for the patients studied. Therefore, infection monitoring should be cautious in patients with rheumatoid arthritis in use of these three drugs. (C) 2016 Published by Elsevier Editora Ltda.
+C1 [Cabral, Vanderlea Poeys] Fundacao Oswaldo Cruz Fiocruz, Comissao Controle Infeccao Hosp, Inst Nacl Infectol Evandro Chagas INI, Rio De Janeiro, RJ, Brazil.
+   [Ferreira de Andrade, Carlos Augusto; Lambert Passos, Sonia Regina; Marques Hoekerberg, Yara Hahr] Fundacao Oswaldo Cruz Fiocruz, Lab Epidemiol Clin, Inst Nacl Infectol Evandro Chagas INI, Rio De Janeiro, RJ, Brazil.
+   [Moreira Martins, Maria de Fatima] Fundacao Oswaldo Cruz Fiocruz, Inst Comunicacao & Informacao Cient & Tecnol Saud, Rio De Janeiro, RJ, Brazil.
+RP de Andrade, CAF (corresponding author), Fundacao Oswaldo Cruz Fiocruz, Lab Epidemiol Clin, Inst Nacl Infectol Evandro Chagas INI, Rio De Janeiro, RJ, Brazil.
+EM carlosandrade07@gmail.com
+OI Passos, Sonia/0000-0001-9947-2291
+FU Instituto Nacional de Infectologia Evandro Chagas, Fundacao Oswaldo Cruz
+FX Instituto Nacional de Infectologia Evandro Chagas, Fundacao Oswaldo
+   Cruz.
+CR Alamanos Y, 2006, SEMIN ARTHRITIS RHEU, V36, P182, DOI 10.1016/j.semarthrit.2006.08.006
+   Alonso-Ruiz A, 2008, BMC MUSCULOSKEL DIS, V9, DOI 10.1186/1471-2474-9-52
+   Bernatsky S, 2010, J RHEUMATOL, V37, P928, DOI 10.3899/jrheum.091107
+   Bertolo MB, 2007, REV BRAS REUMATOL, V47, P151
+   Brassard P, 2006, CLIN INFECT DIS, V43, P717, DOI 10.1086/506935
+   Cohen SB, 2004, ANN RHEUM DIS, V63, P1062, DOI 10.1136/ard.2003.016014
+   Cohen SB, 2006, ARTHRITIS RHEUM-US, V54, P2793, DOI 10.1002/art.22025
+   Curtis JR, 2014, ARTHRIT CARE RES, V66, P990, DOI 10.1002/acr.22281
+   Emery P, 2006, ARTHRITIS RHEUM, V54, P1390, DOI 10.1002/art.21778
+   Fleischmann RM, 2006, ANN RHEUM DIS, V65, P1006, DOI 10.1136/ard.2005.048371
+   Gartlehner G, 2006, J RHEUMATOL, V33, P2398
+   Genovese MC, 2009, ANN RHEUM DIS, V68, P1894, DOI 10.1136/ard.2008.101675
+   Keystone E, 2007, ARTHRITIS RHEUM-US, V56, P3896, DOI 10.1002/art.23059
+   Kremer JM, 2005, ARTHRITIS RHEUM, V52, P2263, DOI 10.1002/art.21201
+   Listing J, 2005, ARTHRITIS RHEUM-US, V52, P3403, DOI 10.1002/art.21386
+   Meyboom RHB, 1999, DRUG SAFETY, V21, P429, DOI 10.2165/00002018-199921060-00001
+   Moher D, 2009, BMJ-BRIT MED J, V339, DOI [10.1371/journal.pmed.1000097, 10.1136/bmj.b2535]
+   Moreland LW, 2002, ARTHRITIS RHEUM, V46, P1470, DOI 10.1002/art.10294
+   Nuki G, 2002, ARTHRITIS RHEUM, V46, P2838, DOI 10.1002/art.10578
+   Ramiro S, 2014, ANN RHEUM DIS, V73, P529, DOI 10.1136/annrheumdis-2013-204575
+   Salliot C, 2009, ANN RHEUM DIS, V68, P25, DOI 10.1136/ard.2007.083188
+   Schiff M, 2009, ANN RHEUM DIS, V68, P1708, DOI 10.1136/ard.2008.099218
+   Scott DL, 2010, LANCET, V376, P1094, DOI 10.1016/S0140-6736(10)60826-4
+   Singh JA, 2015, LANCET, V386, P258, DOI 10.1016/S0140-6736(14)61704-9
+   Storage Steven S., 2010, Korean Journal of Internal Medicine, V25, P1, DOI 10.3904/kjim.2010.25.1.1
+   Weinblatt M, 2006, ARTHRITIS RHEUM, V54, P2807, DOI 10.1002/art.22070
+   Wells G, NEWCASTLE OTTAWA SCA
+NR 27
+TC 20
+Z9 20
+U1 0
+U2 5
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0482-5004
+J9 REV BRAS REUMATOL
+JI Rev. Bras. Reumatol.
+PD NOV-DEC
+PY 2016
+VL 56
+IS 6
+BP 543
+EP 550
+DI 10.1016/j.rbre.2016.10.001
+PG 8
+WC Rheumatology
+SC Rheumatology
+GA EE4CG
+UT WOS:000389548800012
+PM 27914602
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Correa, LS
+   Hokerberg, YHM
+   de Vasconcellos, R
+   de Oliveira, C
+   Berms, DMD
+   Alexandria, HAF
+   Daumas, RP
+   de Andrade, CAF
+   Passos, SRL
+   Brasi, P
+AF Correa, Luana Sicuro
+   Marques Hokerberg, Yara Hahr
+   de Vasconcellos, Raquel
+   de Oliveira, Carvalhaes
+   de Souza Berms, Danielle Martins
+   Ferreira Alexandria, Helenara Abadia
+   Daumas, Regina Paiva
+   Ferreira de Andrade, Carlos Augusto
+   Lambert Passos, Sonia Regina
+   Brasi, Patricia
+TI Use of Warning Signs for Dengue by Pediatric Health Care Staff in Brazil
+SO PLOS ONE
+LA English
+DT Article
+ID HEMORRHAGIC-FEVER; RISK-FACTORS; CULTURAL-ADAPTATION; CASE
+   CLASSIFICATION; CLINICAL-FEATURES; SHOCK SYNDROME; PUERTO-RICO;
+   CHILDREN; DISEASE; INFECTION
+AB Objective
+   The aim of this study was to describe the use of dengue warning signs by pediatric health-care staff in the Brazilian public health care system.
+   Methods
+   Cross-sectional study (2012) with physicians, nurses, and nurse technicians assisting children in five health care facilities. Participants reported the use and importance of dengue warning signs in pediatrics clinical practice through a structured questionnaire. Differences in the use of signs (chi-square test) and in the ranking assigned to each of them (Kruskal-Wallis) were assessed according to health care occupation and level of care (p<0.05).
+   Results
+   The final sample comprised 474 participants (97%), mean age of 37 years (standard deviation = 10.3), mainly females (83.8%), physicians (40.1%) and from tertiary care (75.1%). The majority (91%) reported using warning signs for dengue in pediatrics clinical practice. The most widely used and highly valued signs were major hemorrhages (gastrointestinal, urinary), abdominal pain, and increase in hematocrit concurrent or not with rapid decrease in platelet count. Persistent vomiting as well as other signs of plasma leakage such as respiratory distress and lethargy/restlessness were not identified as having the same degree of importance, especially by nurse technicians and in primary or secondary care.
+   Discussion
+   Although most health care staff reported using dengue warning signs, it would be useful to extend the training for identifying easily recognizable signs of plasma leakage that occur regardless of bleeding.
+C1 [Correa, Luana Sicuro; de Souza Berms, Danielle Martins] Univ Estado Rio De Janeiro, Dept Pediat, Rio De Janeiro, RJ, Brazil.
+   [Marques Hokerberg, Yara Hahr; de Vasconcellos, Raquel; Ferreira de Andrade, Carlos Augusto; Lambert Passos, Sonia Regina] Fundacao Oswaldo Cruz, Evandro Chagas Natl Inst Infect Dis, Lab Clin Epidemiol, Rio De Janeiro, RJ, Brazil.
+   [Correa, Luana Sicuro; Marques Hokerberg, Yara Hahr] Univ Estacio Sa, Sch Med, Rio De Janeiro, RJ, Brazil.
+   [Ferreira Alexandria, Helenara Abadia] Univ Estado Rio De Janeiro, Dept Obstet & Gynecol, Rio De Janeiro, RJ, Brazil.
+   [Daumas, Regina Paiva] Fundacao Oswaldo Cruz, Natl Sch Publ Hlth, Germano Sinval Faria Teaching Primary Care Ctr, Rio De Janeiro, RJ, Brazil.
+   [Brasi, Patricia] Fundacao Oswaldo Cruz, Evandro Chagas Natl Inst Infect Dis, Acute Febrile Illnesses Lab, Rio De Janeiro, RJ, Brazil.
+RP Correa, LS (corresponding author), Univ Estado Rio De Janeiro, Dept Pediat, Rio De Janeiro, RJ, Brazil.; Correa, LS (corresponding author), Univ Estacio Sa, Sch Med, Rio De Janeiro, RJ, Brazil.
+EM luanascorrea@gmail.com
+RI DAUMAS, REGINA/M-9387-2013; Oliveira, Raquel de V C de/S-7443-2016
+OI DAUMAS, REGINA/0000-0002-8923-7711; Passos, Sonia/0000-0001-9947-2291;
+   Oliveira, Raquel de V C de/0000-0001-9387-8645
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro - FAPERJCarlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ) [110.188/2014, E-26/110.964/2013]; Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico CNPqNational Council for
+   Scientific and Technological Development (CNPq) [311414/2013-3]; Rede
+   Dengue Fiocruz
+FX This work was funded by the Fundacao de Amparo a Pesquisa do Estado do
+   Rio de Janeiro - FAPERJ (Grant number 110.188/2014 and
+   E-26/110.964/2013). SRLP was supported by Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico CNPq (311414/2013-3), and PB by
+   Rede Dengue Fiocruz. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Abeywardana S, 2012, CEYLON MED J, V57, P177, DOI 10.4038/cmj.v57i4.5091
+   Alexander N, 2011, TROP MED INT HEALTH, V16, P936, DOI 10.1111/j.1365-3156.2011.02793.x
+   Arora Shilpa Khanna, 2012, J Neurosci Rural Pract, V3, P228, DOI 10.4103/0976-3147.98267
+   Balasubramanian S, 2012, ARCH DIS CHILD, V97, P907, DOI 10.1136/archdischild-2012-301710
+   Balmaseda A, 2005, AM J TROP MED HYG, V73, P1059, DOI 10.4269/ajtmh.2005.73.1059
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Biswas HH, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001562
+   Brasil Ministerio da Saude Secretaria de Vigilancia em Saude, 2007, DENG DIAGN MAN CLIN
+   Brasil Ministerio da Saude Secretaria de Vigilancia em Saude, DIR TECN DENG DIAGN
+   Correa LS, 2015, CAD SAUDE PUBLICA, V31, P247, DOI 10.1590/0102-311X00213913
+   da Silva GM, 2009, REV BRAS ENFERM, V62, P362, DOI 10.1590/S0034-71672009000300005
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Ferreira JCDA, 2009, ACTA PAUL ENFERM, V22, P31, DOI 10.1590/S0103-21002009000100005
+   Figueiro AC, 2011, CAD SAUDE PUBLICA, V27, P2373, DOI 10.1590/S0102-311X2011001200009
+   Giraldo D, 2011, T ROY SOC TROP MED H, V105, P601, DOI 10.1016/j.trstmh.2011.07.007
+   Gupta V, 2011, J TROP PEDIATRICS, V57, P451, DOI 10.1093/tropej/fmr020
+   Guzman MG, 2002, LANCET INFECT DIS, V2, P33, DOI 10.1016/S1473-3099(01)00171-2
+   Halstead Scott B, 2009, F1000 Med Rep, V1, DOI 10.3410/M1-73
+   Hammond SN, 2005, AM J TROP MED HYG, V73, P1063
+   Herdman M, 1998, QUAL LIFE RES, V7, P323, DOI 10.1023/A:1024985930536
+   Ho TS, 2013, J FORMOS MED ASSOC, V112, P18, DOI 10.1016/j.jfma.2012.11.004
+   Horstick O, 2014, AM J TROP MED HYG, V91, P621, DOI 10.4269/ajtmh.13-0676
+   Kalayanarooj Siripen, 2011, Trop Med Health, V39, P83, DOI 10.2149/tmh.2011-S10
+   Kanade T, 2011, J VECTOR DIS, V48, P180
+   Kularatne Sam, 2005, Southeast Asian Journal of Tropical Medicine and Public Health, V36, P1198
+   Lee LK, 2011, ANN ACAD MED SINGAP, V40, P533
+   Martinez E, 2005, DENGUE
+   Narvaez F, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001397
+   Potts JA, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000769
+   Rigau-Perez JG, 2006, CLIN INFECT DIS, V42, P1241, DOI 10.1086/501355
+   Rottingen JA, 2013, LANCET, V382, P1286, DOI 10.1016/S0140-6736(13)61046-6
+   Shah I, 2004, J TROP PEDIATRICS, V50, P301, DOI 10.1093/tropej/50.5.301
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   Srikiatkhachorn A, 2010, CLIN INFECT DIS, V50, P1135, DOI 10.1086/651268
+   Tantracheewathorn Taweewong, 2007, Journal of the Medical Association of Thailand, V90, P272
+   Tomashek KM, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001614
+   Tran NBC, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000657
+   The TD, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001679
+   WHO, 2009, WHO TECH REP SER, V958, P1
+   WHO, 1997, DENG HAEM FEV DIAGN, P1
+   Wichmann O, 2004, TROP MED INT HEALTH, V9, P1022, DOI 10.1111/j.1365-3156.2004.01295.x
+   Ximenes Neto FRG, 2008, NURSING ASSISTANTS T, P51
+NR 43
+TC 1
+Z9 1
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 7
+PY 2016
+VL 11
+IS 10
+AR e0163946
+DI 10.1371/journal.pone.0163946
+PG 12
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DZ2UW
+UT WOS:000385698100013
+PM 27716812
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Pone, SM
+   Hokerberg, YHM
+   de Oliveira, RDC
+   Daumas, RP
+   Pone, TM
+   Pone, MVD
+   Brasil, P
+AF Pone, Sheila Moura
+   Marques Hokerberg, Yara Hahr
+   Carvalhaes de Oliveira, Raquel de Vasconcellos
+   Daumas, Regina Paiva
+   Pone, Tamiris Moura
+   da Silva Pone, Marcos Vinicius
+   Brasil, Patricia
+TI Clinical and laboratory signs associated to serious dengue disease in
+   hospitalized children
+SO JORNAL DE PEDIATRIA
+LA English
+DT Article
+DE Dengue; Children; Sensitivity and specificity; Validation studies
+ID SHOCK SYNDROME; HEMORRHAGIC-FEVER; RISK-FACTORS; CLASSIFICATION;
+   SEVERITY; ACCURACY; ILLNESS
+AB Objective: To evaluate the validity of clinical and laboratory signs to serious dengue disease in hospitalized children.
+   Methods: Retrospective cohort of children (<18 years) hospitalized with dengue diagnosis (2007-2008). Serious dengue disease was defined as death or use of advanced life support therapy. Accuracy measures and area under the receiver operating characteristic curve were calculated.
+   Results: Of the total (n=145), 53.1% were female, 69% aged 2-11 years, and 15.9% evolved to the worse outcome. Lethargy had the best accuracy (positive likelihood ratio >19 and negative likelihood ratio <0.6). Pleural effusion and abdominal distension had higher sensitivity (82.6%). History of bleeding (epistaxis, gingival or gastrointestinal bleeding) and severe hemorrhage (pulmonary or gastrointestinal bleeding) in physical examination were more frequent in serious dengue disease (p < 0.01), but with poor accuracy (positive likelihood ratio = 1.89 and 3.89; negative likelihood ratio = 0.53 and 0.60, respectively). Serum albumin was lower in serious dengue forms (p < 0.01). Despite statistical significance (p < 0.05), both groups presented thrombocytopenia. Platelets count, hematocrit, and hemoglobin parameters had area under the curve <0.5.
+   Conclusions: Lethargy, abdominal distension, pleural effusion, and hypoalbuminemia were the best clinical and laboratorial markers of serious dengue disease in hospitalized children, while bleeding, severe hemorrhage, hemoconcentration and thrombocytopenia did not reach adequate diagnostic accuracy. In pediatric referral hospitals, the absence of hemoconcentration does not imply absence of plasma leakage, particularly in children with previous fluid replacement. These findings may contribute to the clinical management of dengue in children at referral hospitals. (C) 2016 Published by Elsevier Editora Ltda. on behalf of Sociedade Brasileira de Pediatria.
+C1 [Pone, Sheila Moura; Marques Hokerberg, Yara Hahr; Carvalhaes de Oliveira, Raquel de Vasconcellos; Daumas, Regina Paiva; Pone, Tamiris Moura; da Silva Pone, Marcos Vinicius; Brasil, Patricia] Fundacao Oswaldo Cruz Fiocruz, Rio De Janeiro, RJ, Brazil.
+RP Pone, SM (corresponding author), Fundacao Oswaldo Cruz Fiocruz, Rio De Janeiro, RJ, Brazil.
+EM spone@iff.fiocruz.br
+RI DAUMAS, REGINA/M-9387-2013; da Silva Pone, Marcos Vinicius/N-1285-2019;
+   Oliveira, Raquel de V C de/S-7443-2016
+OI DAUMAS, REGINA/0000-0002-8923-7711; Oliveira, Raquel de V C
+   de/0000-0001-9387-8645; Moura Pone, Sheila/0000-0002-6246-8915; da Silva
+   Pone, Marcos Vinicius/0000-0002-5152-2242
+FU Rede Dengue FIOCRUZ; Fundacao de Amparo a Pesquisa do Estado do Rio de
+   Janeiro - FAPERJCarlos Chagas Filho Foundation for Research Support of
+   the State of Rio de Janeiro (FAPERJ) [E-26/110.964/2013 - APQ1]
+FX This research was supported by Rede Dengue FIOCRUZ and Fundacao de
+   Amparo a Pesquisa do Estado do Rio de Janeiro - FAPERJ [grant number
+   E-26/110.964/2013 - APQ1].
+CR Balmaseda A, 2005, AM J TROP MED HYG, V73, P1059, DOI 10.4269/ajtmh.2005.73.1059
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Bossuyt PM, 2003, BRIT MED J, V326, P41, DOI 10.1136/bmj.326.7379.41
+   Brasil. Ministerio da Saude Secretaria de Vigilancia em Saude, 2005, GUIA VIGILANCIA EPID
+   Brasil. Ministerio da Saude Secretaria de Vigilancia em Saude, 2013, DIR TECN GEST DENG D
+   Capeding RZ, 2010, AM J TROP MED HYG, V82, P330, DOI 10.4269/ajtmh.2010.09-0542
+   Elling R, 2013, PEDIATR INFECT DIS J, V32, P1020, DOI 10.1097/INF.0b013e31829fd0e9
+   Giraldo D, 2011, T ROY SOC TROP MED H, V105, P601, DOI 10.1016/j.trstmh.2011.07.007
+   Gupta P, 2010, J INFECT DEV COUNTR, V4, P150, DOI 10.3855/jidc.708
+   Gutierrez G, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002385
+   Halstead S. B., 2009, F1000 MED REP, V1, P73
+   Halstead SB, 2002, EMERG INFECT DIS, V8, P1474, DOI 10.3201/eid0812.020170
+   Halstead SB, 2012, PAEDIATR INT CHILD H, V32, P5, DOI 10.1179/2046904712Z.00000000045
+   Horstick O, 2012, PATHOG GLOB HEALTH, V106, P94, DOI 10.1179/2047773212Y.0000000017
+   Khan E, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012505
+   Kittigul L, 2007, J CLIN VIROL, V39, P76, DOI 10.1016/j.jcv.2007.04.006
+   Kohn MA, 2013, ACAD EMERG MED, V20, P1194, DOI 10.1111/acem.12255
+   Lora AJM, 2014, AM J TROP MED HYG, V90, P169, DOI 10.4269/ajtmh.13-0440
+   Malavige GN, 2006, ARCH DIS CHILD, V91, P396, DOI 10.1136/adc.2005.085191
+   Huy NT, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002412
+   Neto RDP, 2013, REV SOC BRAS MED TRO, V46, P765, DOI 10.1590/0037-8682-1716-2013
+   Pongpan S, 2013, ISRN PEDIAT, DOI DOI 10.1155/2013/845876
+   Potts JA, 2010, AM J TROP MED HYG, V83, P781, DOI 10.4269/ajtmh.2010.10-0135
+   Potts JA, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000769
+   Tanner L, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000196
+   Tantracheewathorn Taweewong, 2007, Journal of the Medical Association of Thailand, V90, P272
+   Teixeira MG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002520
+   Thein S, 1997, AM J TROP MED HYG, V56, P566, DOI 10.4269/ajtmh.1997.56.566
+   Witayathawornwong Prasonk, 2005, Southeast Asian Journal of Tropical Medicine and Public Health, V36, P896
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+NR 30
+TC 10
+Z9 11
+U1 0
+U2 4
+PU SOC BRASIL PEDIATRIA
+PI RIO DE JANEIRO, RJ
+PA RUA SANTA CLARA 292, RIO DE JANEIRO, RJ, CEP 22401-01, BRAZIL
+SN 0021-7557
+EI 1678-4782
+J9 J PEDIAT-BRAZIL
+JI J. Pediatr.
+PD SEP-OCT
+PY 2016
+VL 92
+IS 5
+BP 464
+EP 471
+DI 10.1016/j.jped.2015.12.005
+PG 8
+WC Pediatrics
+SC Pediatrics
+GA EA3VN
+UT WOS:000386537500005
+PM 27112034
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Arrue, AM
+   Neves, ET
+   Magnago, TSBD
+   Cabral, IE
+   da Gama, SGN
+   Hokerberg, YHM
+AF Arrue, Andrea Moreira
+   Neves, Eliane Tatsch
+   Bosi de Souza Magnago, Tania Solange
+   Cabral, Ivone Evangelista
+   Nogueira da Gama, Silvana Granado
+   Marques Hokerberg, Yara Hahr
+TI Translation and adaptation of the Children with Special Health Care
+   Needs Screener to Brazilian Portuguese
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Translating; Reproducibility of Results; Comprehensive Health Care;
+   Child
+ID AGREEMENT; VALIDITY
+AB This study aimed to elaborate the Brazilian version of the Children with Special Health Care Needs Screener to assess internal consistency and inter-observer agreement. The stages included translation, back-translation, expert committee review, and pretest. Participation included 140 family members of children 0-12 years of age at health services in southern Brazil. Reliability was assessed with kappa statistic and Cronbach's alpha. In the assessment of clarity with health professionals, 80% rated the questions very clear. Prevalence of children with special health needs was 36%. Mean time for applying the instrument was 3.5 minutes. The process identified difficulties in understanding question number two. The instrument showed satisfactory internal consistency and perfect agreement. Future research should add to the psychometric analyses of the instrument's adequacy for the Brazilian context, thereby contributing to a standardized definition of this young age group's epidemiological profile within the public health scenario in Brazil.
+C1 [Arrue, Andrea Moreira; Nogueira da Gama, Silvana Granado] Fundacao Oswaldo Cruz, Escola Nacl Saude Publ Sergio Arouca, Rio De Janeiro, Brazil.
+   [Neves, Eliane Tatsch; Bosi de Souza Magnago, Tania Solange] Univ Fed Santa Maria, Santa Maria, RS, Brazil.
+   [Cabral, Ivone Evangelista] Univ Fed Rio de Janeiro, Escola Enfermagem Anna Nery, Rio De Janeiro, Brazil.
+   [Marques Hokerberg, Yara Hahr] Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Rio De Janeiro, Brazil.
+RP Arrue, AM (corresponding author), Rua Toledo Piza 37, BR-27253250 Volta Redonda, RJ, Brazil.
+EM andrea.ensp@gmail.com
+CR Bethel CD, 2015, ACAD PEDIATR, V15, P165, DOI 10.1016/j.acap.2014.10.003
+   Cabral I. E., 2003, ESC ANNA NERY, V7, P211
+   Cade AC, 2011, ACAD PEDIATR, V11, P128, DOI 10.1016/j.acap.2009.11.006
+   Child and Adolescent Health Measurement Initiative, 2015, CHILDR SPEC HLTH CAR
+   Child and Adolescent Health Measurement Initiative, CHILDR SPEC HLTH CAR
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Goldfeld S, 2012, J DEV BEHAV PEDIATR, V33, P319, DOI 10.1097/DBP.0b013e31824a7b8e
+   GUILLEMIN F, 1993, J CLIN EPIDEMIOL, V46, P1417, DOI 10.1016/0895-4356(93)90142-N
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   McPherson M, 1998, PEDIATRICS, V102, P137, DOI 10.1542/peds.102.1.137
+   Neves ET, 2013, PROENF SAUDE CRIANCA, V7, P53
+   Pasquali L, 1999, INSTRUMENTOS PSICOLO
+   Read D, 2007, MATERN CHILD HLTH J, V11, P568, DOI 10.1007/s10995-007-0207-2
+   Reichenheim ME, 2014, CAD SAUDE PUBLICA, V30, P927, DOI 10.1590/0102-311X00143613
+NR 14
+TC 9
+Z9 9
+U1 0
+U2 2
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD JUN
+PY 2016
+VL 32
+IS 6
+AR e00130215
+DI 10.1590/0102-311X00130215
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DP6RS
+UT WOS:000378626800009
+PM 27333143
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Buonora, SN
+   Passos, SRL
+   do Carmo, CN
+   Quintela, FM
+   de Oliveira, DNR
+   dos Santos, FB
+   Hokerberg, YHM
+   Nogueira, RMR
+   Daumas, RP
+AF Buonora, Sibelle Nogueira
+   Lambert Passos, Sonia Regina
+   do Carmo, Cleber Nascimento
+   Quintela, Fernanda Moises
+   Rodrigues de Oliveira, Diana Neves
+   dos Santos, Flavia Barreto
+   Marques Hoekerberg, Yara Hahr
+   Ribeiro Nogueira, Rita Maria
+   Daumas, Regina Paiva
+TI Accuracy of clinical criteria and an immunochromatographic strip test
+   for dengue diagnosis in a DENV-4 epidemic
+SO BMC INFECTIOUS DISEASES
+LA English
+DT Article
+DE Dengue; Accuracy; Sensitivity; Specificity; Diagnosis; Point-of-care
+   systems; NS1
+ID RIO-DE-JANEIRO; FEBRILE ILLNESSES; CASE DEFINITIONS; EMERGENCY-ROOM; NS1
+   ANTIGEN; RAPID TEST; BRAZIL; CLASSIFICATION; SENSITIVITY; DISEASE
+AB Background: Early diagnosis of dengue infection is important for decision-making and timely implementation of therapeutic measures. Although rapid NS1 assays have been used for dengue diagnosis since 2008, their performance in DENV-4 cases has not yet been fully assessed.
+   Methods: We evaluated the accuracy of NS1 Bioeasy (TM) immunochromatographic strip test and of three clinical criteria for dengue diagnosis. Patients presenting at an emergency care center within 72 h of an acute febrile illness during the 2013 DENV-4 epidemic in Rio de Janeiro were consecutively enrolled for clinical and laboratory evaluation. We classified patients as suspected dengue or not according to three clinical criteria: WHO 2009, WHO 1997, and INI-FIOCRUZ. Dengue diagnosis was defined by RNA detection using RT-PCR and the negative cases were negative for all dengue serotypes and also Platelia (TM) NS1 ELISA. We obtained accuracy indices for NS1 Bioeasy (TM) alone and in combination with the clinical criteria.
+   Results: RT-PCR for DENV-4 was positive in 148 out of 325 patients. Positive likelihood ratio, sensitivity, and specificity of NS1 Bioeasy (TM) with WHO 2009, WHO 1997, and INI-FIOCRUZ criteria were 22.6 (95 % CI 7.2-70.6), 40.6 % (95 % CI 32.3-49.3), and 98.2 % (95 % CI 94.9-99.6); 18.3 (95 % CI 6.8-49.2), 44.2 (95 % CI 35.8-52.9), 97.6 (95 % CI 94.0-99.3); 26.2 (95 % CI 6.5-106.5), 29.7 (95 % CI 22.4-37.8), 98.9 (95 % CI 96.0-99.9), respectively. WHO 1997 clinical criteria presented high sensitivity to rule out disease, but extremely low specificity. INI-FIOCRUZ had moderate sensitivity and specificity, and could target a group to a more specific test.
+   Conclusions: Although the large rates of false negative results using NS1 Bioeasy (TM) rapid test advise against its use for triaging (rule out) purposes in DENV-4 epidemics, it could be used as a confirmatory tool in a bedside algorithm.
+C1 [Buonora, Sibelle Nogueira; Lambert Passos, Sonia Regina; Quintela, Fernanda Moises; Rodrigues de Oliveira, Diana Neves; Marques Hoekerberg, Yara Hahr] Fundacao Oswaldo Cruz, Evandro Chagas Natl Inst Infect Dis, Lab Clin Epidemiol, Rio De Janeiro, Brazil.
+   [do Carmo, Cleber Nascimento] Fundacao Oswaldo Cruz, Natl Sch Publ Hlth, Rio De Janeiro, Brazil.
+   [Daumas, Regina Paiva] Fundacao Oswaldo Cruz, Natl Sch Publ Hlth, Germano Sinval Faria Teaching Primary Care Ctr, Rio De Janeiro, Brazil.
+   [dos Santos, Flavia Barreto; Ribeiro Nogueira, Rita Maria] Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Flavivirus Lab, Rio De Janeiro, Brazil.
+RP Buonora, SN (corresponding author), Fundacao Oswaldo Cruz, Evandro Chagas Natl Inst Infect Dis, Lab Clin Epidemiol, Rio De Janeiro, Brazil.
+EM sibellebuonora@gmail.com
+RI DAUMAS, REGINA/M-9387-2013
+OI DAUMAS, REGINA/0000-0002-8923-7711; Passos, Sonia/0000-0001-9947-2291;
+   Buonora, Sibelle/0000-0002-0843-1783
+CR Allonso D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113634
+   [Anonymous], 2009, DENG DIAGN TREATM PR
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Blacksell SD, 2012, J BIOMED BIOTECHNOL, DOI 10.1155/2012/151967
+   Bossuyt PM, 2003, AM J CLIN PATHOL, V119, P18, DOI 10.1309/8EXCCM6YR1THUBAF
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude. Diretoria Tecnica de Gestao, 2011, DENG DIAGN MAN CLIN
+   Cecilia D, 2015, ARCH VIROL, V160, P323, DOI 10.1007/s00705-014-2217-x
+   Chaterji S, 2011, AM J TROP MED HYG, V84, P224, DOI 10.4269/ajtmh.2011.10-0316
+   Colombo TE, 2013, J CLIN VIROL, V58, P710, DOI 10.1016/j.jcv.2013.10.021
+   Conroy AL, 2014, BMC INFECT DIS, V14, DOI 10.1186/1471-2334-14-35
+   da Costa VG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0094655
+   Daumas RP, 2011, INFECTION, V39, P135, DOI 10.1007/s15010-011-0101-0
+   Daumas RP, 2013, BMC INFECT DIS, V13, DOI 10.1186/1471-2334-13-77
+   DIETZ VJ, 1990, AM J EPIDEMIOL, V131, P693
+   Domingo C, 2015, BMC INFECT DIS, V15, DOI 10.1186/s12879-015-0877-0
+   Failace RR, 2009, HEMOGRAMA MANUAL INT
+   Sea VRF, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064056
+   Ferraz FO, 2013, J CLIN VIROL, V58, P41, DOI 10.1016/j.jcv.2013.06.015
+   Fry SR, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001199
+   Gan VC, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0060946
+   Gregory CJ, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001400
+   Gutierrez G, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002385
+   Hang VT, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000360
+   Horstick O, 2014, AM J TROP MED HYG, V91, P621, DOI 10.4269/ajtmh.13-0676
+   Huang SY, 2014, BMC INFECT DIS, V14, DOI 10.1186/s12879-014-0623-z
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   LAURITSEN JM, 2003, COMPREHENSIVE TOOL V
+   Leo YS, 2013, BMC INFECT DIS, V13, DOI 10.1186/1471-2334-13-498
+   Lima MRQ, 2014, CLIN INSIGHTS DENGUE, P27
+   Low JGH, 2006, ANN ACAD MED SINGAP, V35, P783
+   San Martin JL, 2010, AM J TROP MED HYG, V82, P128, DOI 10.4269/ajtmh.2010.09-0346
+   Macedo GA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096314
+   Nogueira RMR, 2011, MEM I OSWALDO CRUZ, V106, P255, DOI 10.1590/S0074-02762011000300001
+   NOGUEIRA RMR, 1990, MEM I OSWALDO CRUZ, V85, P253, DOI 10.1590/S0074-02761990000200022
+   Nogueira RMR, 2005, EMERG INFECT DIS, V11, P1376
+   Nujum ZT, 2014, PATHOG GLOB HEALTH, V108, P103, DOI 10.1179/2047773214Y.0000000131
+   Pal S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113411
+   Paranavitane SA, 2014, BMC INFECT DIS, V14, DOI 10.1186/s12879-014-0570-8
+   Peeling RW, 2010, NAT REV MICROBIOL, pS30, DOI 10.1038/nrmicro2459
+   Lima MDQ, 2014, J VIROL METHODS, V204, P105, DOI 10.1016/j.jviromet.2014.02.031
+   Lima MDQ, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000738
+   Setiati TE, 2007, BMC INFECT DIS, V7, DOI 10.1186/1471-2334-7-22
+   Silva FG, 2011, BEPA, V8, P14
+   Tan LK, 2014, PLOS ONE, V9
+   Teixeira MG, 2009, CAD SAUDE PUBLICA, V25, pS7, DOI 10.1590/S0102-311X2009001300002
+   World Health Organization, 1997, DENG HAEM FEV DIAGN
+NR 46
+TC 12
+Z9 13
+U1 0
+U2 5
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2334
+J9 BMC INFECT DIS
+JI BMC Infect. Dis.
+PD JAN 29
+PY 2016
+VL 16
+AR 37
+DI 10.1186/s12879-016-1368-7
+PG 9
+WC Infectious Diseases
+SC Infectious Diseases
+GA DC0BC
+UT WOS:000368880600001
+PM 26822788
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Correa, LS
+   Hokerberg, YHM
+   Daumas, RP
+   Brasil, P
+AF Correa, Luana Sicuro
+   Marques Hoekerberg, Yara Hahr
+   Daumas, Regina Paiva
+   Brasil, Patricia
+TI Translation and cross-cultural adaptation of the World Health
+   Organization staff questionnaire on dengue warning signs for use in
+   Brazil
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Dengue; Questionnaires; Health Personnel
+ID CLASSIFICATION; MULTICENTER; INSTRUMENTS; COUNTRIES; INFECTION;
+   ATTITUDES; KNOWLEDGE
+AB Early recognition of warning signs and treatment of severe dengue cases is the main strategy for reducing case-fatality, especially in children, who usually present few symptoms and can progress rapidly to dengue shock syndrome. The objective of this study was to elaborate the Brazilian version of the World Health Organization (WHO) staff questionnaire on the use and value of dengue warning signs, through translation and back-translation of the WHO questionnaire, followed by an expert panel consensus, pretest (n = 13), and pilot study (n = 20) of the preliminary version. Comparison of the original questionnaire in English and the back-translation showed that 8 of the 49 items had been extensively or completely altered, and three were rephrased. The expert panel added the warning signs listed by the Brazilian Ministry of Health. In the final version of the questionnaire, the item "ranking of warning signs" was rephrased and the answer option "do not know" was excluded. The Brazilian version of the WHO staff questionnaire allows assessing health professionals' experience and perceptions regarding the use of warning signs included in the recent dengue guidelines.
+C1 [Correa, Luana Sicuro; Marques Hoekerberg, Yara Hahr; Brasil, Patricia] Fundacao Oswald Cruz, Inst Nacl Infectol Evandro Chagas, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Daumas, Regina Paiva] Fundacao Oswald Cruz, Escola Nacl Saude Publ Sergio Arouca, BR-21045900 Rio De Janeiro, RJ, Brazil.
+RP Hokerberg, YHM (corresponding author), Fundacao Oswald Cruz, Inst Nacl Infectol Evandro Chagas, Ave Brasil 4365, BR-21045900 Rio De Janeiro, RJ, Brazil.
+EM yarahahr@gmail.com
+RI DAUMAS, REGINA/M-9387-2013
+OI DAUMAS, REGINA/0000-0002-8923-7711
+CR Alexander N, 2011, TROP MED INT HEALTH, V16, P936, DOI 10.1111/j.1365-3156.2011.02793.x
+   Balasubramanian S, 2012, ARCH DIS CHILD, V97, P907, DOI 10.1136/archdischild-2012-301710
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Brasil, 2011, DENG DIAGN MAN CLIN
+   Fundagao Nacional de Saude, 2002, DENG DIAGN MAN CLIN
+   Herdman M, 1998, QUAL LIFE RES, V7, P323, DOI 10.1023/A:1024985930536
+   Kularatne Sam, 2005, Southeast Asian Journal of Tropical Medicine and Public Health, V36, P1198
+   Lee LK, 2011, ANN ACAD MED SINGAP, V40, P533
+   Naing C, 2011, J COMMUN HEALTH, V36, P1044, DOI 10.1007/s10900-011-9407-1
+   Reichenheim ME, 2007, REV SAUDE PUBL, V41, P665, DOI 10.1590/S0034-89102006005000035
+   Santos Solange Laurentino dos, 2011, Ciênc. saúde coletiva, V16, P1319, DOI 10.1590/S1413-81232011000700066
+   Shuaib F, 2010, W INDIAN MED J, V59, P139
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+NR 13
+TC 4
+Z9 4
+U1 0
+U2 7
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD FEB
+PY 2015
+VL 31
+IS 2
+BP 247
+EP 256
+DI 10.1590/0102-311X00213913
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA CF6IX
+UT WOS:000352661500005
+PM 25760159
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Hokerberg, YHM
+   Reichenheim, ME
+   Faerstein, E
+   Passos, SRL
+   Fritzell, J
+   Toivanen, S
+   Westerlund, H
+AF Marques Hoekerberg, Yara Hahr
+   Reichenheim, Michael Eduardo
+   Faerstein, Eduardo
+   Lambert Passos, Sonia Regina
+   Fritzell, Johan
+   Toivanen, Susanna
+   Westerlund, Hugo
+TI Cross-cultural validity of the demand-control questionnaire: Swedish and
+   Brazilian workers
+SO REVISTA DE SAUDE PUBLICA
+LA English
+DT Article
+DE Questionnaires; Working Conditions; Stress, Psychological;
+   Cross-Cultural Comparison; Validation Studies; Factor analysis,
+   Statistical
+ID JOB CONTENT QUESTIONNAIRE; CONTROL-SUPPORT QUESTIONNAIRE; PSYCHOMETRIC
+   PROPERTIES; CONSTRUCT-VALIDITY; SOCIAL SUPPORT; VERSION; RELIABILITY;
+   STRESS; SCALES
+AB OBJECTIVE: To evaluate the cross-cultural validity of the Demand-Control Questionnaire, comparing the original Swedish questionnaire with the Brazilian version.
+   METHODS: We compared data from 362 Swedish and 399 Brazilian health workers. Confirmatory and exploratory factor analyses were performed to test structural validity, using the robust weighted least squares mean and variance-adjusted (WLSMV) estimator. Construct validity, using hypotheses testing, was evaluated through the inspection of the mean score distribution of the scale dimensions according to sociodemographic and social support at work variables.
+   RESULTS: The confirmatory and exploratory factor analyses supported the instrument in three dimensions (for Swedish and Brazilians): psychological demands, skill discretion and decision authority. The best-fit model was achieved by including an error correlation between work fast and work intensely (psychological demands) and removing the item repetitive work (skill discretion). Hypotheses testing showed that workers with university degree had higher scores on skill discretion and decision authority and those with high levels of Social Support at Work had lower scores on psychological demands and higher scores on decision authority.
+   CONCLUSIONS: The results supported the equivalent dimensional structures across the two culturally different work contexts. Skill discretion and decision authority formed two distinct dimensions and the item repetitive work should be removed.
+C1 [Marques Hoekerberg, Yara Hahr; Lambert Passos, Sonia Regina] Fundacao Oswaldo Cruz, Lab Epidemiol Clin, Inst Nacl Infectol Evandro Chagas, BR-21040361 Rio De Janeiro, RJ, Brazil.
+   [Reichenheim, Michael Eduardo; Faerstein, Eduardo] Univ Estado Rio de Janeiro, Dept Epidemiol, Inst Social Med, BR-20550011 Rio De Janeiro, RJ, Brazil.
+   [Fritzell, Johan; Toivanen, Susanna] Stockholm Univ, Karolinska Inst, Ctr Hlth Equ Studies, S-10691 Stockholm, Sweden.
+   [Fritzell, Johan] Stockholm Univ, Karolinska Inst, Aging Res Center, S-10691 Stockholm, Sweden.
+   [Westerlund, Hugo] Stockholm Univ, Stress Res Inst, S-10691 Stockholm, Sweden.
+RP Hokerberg, YHM (corresponding author), Fundacao Oswaldo Cruz, Lab Epidemiol Clin, Inst Nacl Infectol, Av Brasil,4036 Sala 201-A Manguinhos, BR-21040361 Rio De Janeiro, RJ, Brazil.
+EM yarahahr@ipec.fiocruz.br
+RI Westerlund, Hugo/A-3049-2012; Passos, Sonia/C-5292-2013
+OI Westerlund, Hugo/0000-0002-8806-5698; Toivanen,
+   Susanna/0000-0002-3965-1666; Fritzell, Johan/0000-0003-0496-3085;
+   Passos, Sonia/0000-0001-9947-2291
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico -
+   CNPqNational Council for Scientific and Technological Development
+   (CNPq); Swedish Foundation for International Cooperation in Research and
+   Higher Education - STINT [drn IG2007-2 070]
+FX The first author was supported by the Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico - CNPq and the Swedish
+   Foundation for International Cooperation in Research and Higher
+   Education - STINT (drn IG2007-2 070) during the sandwich doctoral period
+   in Stockholm (January to April, 2009).
+CR Alves MGD, 2004, REV SAUDE PUBL, V38, P164, DOI 10.1590/s0034-89102004000200003
+   Backe EM, 2012, INT ARCH OCC ENV HEA, V85, P67, DOI 10.1007/s00420-011-0643-6
+   Brown T.A., 2006, CONFIRMATORY FACTOR
+   de Araujo TM, 2008, SCAND J WORK ENV HEA, P52
+   Edimansyah B. A., 2006, Southeast Asian Journal of Tropical Medicine and Public Health, V37, P412
+   Escriba-Aguir V, 2001, Gac Sanit, V15, P142
+   Finney SJ, 2006, QUANT METH EDUC BEHA, P269
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Fransson EI, 2012, BMC PUBLIC HEALTH, V12, DOI 10.1186/1471-2458-12-62
+   Griep RH, 2009, INT ARCH OCC ENV HEA, V82, P1163, DOI 10.1007/s00420-009-0460-3
+   Hair J.F., 2006, MULTIVAR DATA ANAL, P770
+   JOHNSON JV, 1988, AM J PUBLIC HEALTH, V78, P1336, DOI 10.2105/AJPH.78.10.1336
+   Karasek R, 1998, J Occup Health Psychol, V3, P322, DOI 10.1037/1076-8998.3.4.322
+   Karasek R, 2007, INT J BEHAV MED, V14, P189, DOI 10.1007/BF03002993
+   Kawakami N, 1996, IND HEALTH, V34, P295, DOI 10.2486/indhealth.34.295
+   Kline R. B, 2005, PRINCIPLES AND PRACT
+   Landsbergis P, 2000, OCCUP MED, V15, P163
+   Li J, 2004, IND HEALTH, V42, P260, DOI 10.2486/indhealth.42.260
+   Hokerberg YHM, 2010, INT ARCH OCC ENV HEA, V83, P407, DOI 10.1007/s00420-009-0488-4
+   Marsh HW, 2009, STRUCT EQU MODELING, V16, P439, DOI 10.1080/10705510903008220
+   Mase J, 2012, IND HEALTH, V50, P467, DOI 10.2486/indhealth.MS1282
+   Mokkink LB, 2010, QUAL LIFE RES, V19, P539, DOI 10.1007/s11136-010-9606-8
+   Muthen L. K., 1998, MPLUS STATISTICAL AN
+   Niedhammer I, 2002, INT ARCH OCC ENV HEA, V75, P129, DOI 10.1007/s004200100270
+   Sale JEM, 2002, INT ARCH OCC ENV HEA, V75, P145, DOI 10.1007/s004200100289
+   Sanne B, 2005, SCAND J PUBLIC HEALT, V33, P166, DOI 10.1080/14034940410019217
+   Schreurs PJG, 1998, WORK STRESS, V12, P66, DOI 10.1080/02678379808256849
+   Smith CS, 1997, J ORGAN BEHAV, V18, P225, DOI 10.1002/(SICI)1099-1379(199705)18:3<225::AID-JOB797>3.0.CO;2-E
+   Streiner D. L., 2008, HEALTH MEASUREMENT S
+   Theorell T, 1990, HEALTHY WORK STRESS
+   Theorell Tores, 1996, P69
+   Toivanen S, 2012, STROKE RES TREAT, V2012, DOI 10.1155/2012/873678
+NR 32
+TC 5
+Z9 6
+U1 0
+U2 7
+PU REVISTA DE SAUDE PUBLICA
+PI SAO PAULO
+PA FACULDADE SAUDE PUBL DA USP, AV DR ARNALDO 715, 01246-904SP SAO PAULO,
+   BRAZIL
+SN 0034-8910
+EI 1518-8787
+J9 REV SAUDE PUBL
+JI Rev. Saude Publica
+PD JUN
+PY 2014
+VL 48
+IS 3
+BP 486
+EP 496
+DI 10.1590/S0034-8910.2014048005126
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA AP0TX
+UT WOS:000341778900013
+PM 25119944
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Reichenheim, ME
+   Hokerberg, YHM
+   Moraes, CL
+AF Reichenheim, Michael E.
+   Hoekerberg, Yara Hahr M.
+   Moraes, Claudia Leite
+TI Assessing construct structural validity of epidemiological measurement
+   tools: a seven-step roadmap
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Article
+DE Epidemiologic Models; Validity of Tests; Methodology
+ID ITEM RESPONSE THEORY; RELIABILITY; INSTRUMENTS; QUALITY
+AB Guidelines have been proposed for assessing the quality of clinical trials, observational studies and validation studies of diagnostic tests. More recently, the COSMIN (COnsensus-based Standards for the selection of health Measurement INstruments) initiative extended those in regards to epidemiological measurement tools in general. Among various facets proposed for assessment is the validity of an instrument's dimensional structure (or structural validity). The purpose of this article is to extend these guidelines. A seven-step roadmap is proposed to examine (1) the hypothesized dimensional structure; (2) strength of component indicators regarding loading patterns and measurement errors; (3) measurement error correlations; (4) factor-based convergent and discriminant validity of scales; (5) item discrimination and intensity vis-a-vis the latent trait spectrum; and (6) the properties of raw scores; and (7) factorial invariance. The paper also holds that the suggested steps still require debate and are open to refinements.
+C1 [Reichenheim, Michael E.; Moraes, Claudia Leite] Univ Estado Rio de Janeiro, Inst Med Social, BR-20559900 Rio De Janeiro, RJ, Brazil.
+   [Hoekerberg, Yara Hahr M.] Fundacao Oswaldo Cruz, Inst Pesquisa Clin Evandro Chagas, Rio De Janeiro, Brazil.
+   [Moraes, Claudia Leite] Univ Estacio Sa, Programa Saude Familia, Rio De Janeiro, Brazil.
+RP Reichenheim, ME (corresponding author), Univ Estado Rio de Janeiro, Inst Med Social, Dept Epidemiol, Rua Sao Francisco Xavier 524,7 Andar,Bloco D, BR-20559900 Rio De Janeiro, RJ, Brazil.
+EM michael@ims.uerj.br
+RI Moraes, claudia/AAK-9418-2020
+OI Moraes, claudia/0000-0002-3223-1634
+FU CNPqNational Council for Scientific and Technological Development (CNPq)
+   [301221/2009-0, 302851/2008-9]; FaperjCarlos Chagas Filho Foundation for
+   Research Support of the State of Rio de Janeiro (FAPERJ)
+   [E-26/110.756/2010]
+FX M.E.R. was partially supported by the CNPq (process n. 301221/2009-0).
+   C.L.M. was partially supported by the CNPq (process n. 302851/2008-9)
+   and Faperj (process n. E-26/110.756/2010).
+CR Aaronson N, 2002, QUAL LIFE RES, V11, P193
+   Asparouhov T, STRUCT EQU IN PRESS
+   Ayala R., 2009, THEORY PRACTICE ITEM
+   Bossuyt PM, 2003, ANN INTERN MED, V138, P40, DOI 10.7326/0003-4819-138-1-200301070-00010
+   Brown T.A., 2006, CONFIRMATORY FACTOR
+   Byrne B. M., 2012, STRUCTURAL EQUATION
+   Cai L, 2010, PSYCHOMETRIKA, V75, P33, DOI 10.1007/s11336-009-9136-x
+   Cohen J., 2003, APPL MULTIPLE REGRES
+   De Boeck P, 2004, EXPLANATORY ITEM RES
+   Embretson S. E., 2000, ITEM RESPONSE THEORY
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Geiser C, 2003, DATA ANAL MPLUS
+   Gerbing DW, 1996, STRUCT EQU MODELING, V3, P62, DOI 10.1080/10705519609540030
+   Gorsuch R. L., 1983, FACTOR ANAL
+   Hair J.F., 2006, MULTIVAR DATA ANAL, P770
+   Hancock G. R., 2010, REVIEWERS GUIDE QUAN
+   Hardouin JB, 2007, STATA J, V7, P22, DOI 10.1177/1536867X0700700102
+   Hardouin JB, 2011, STATA J, V11, P30, DOI 10.1177/1536867X1101100102
+   Henson RK, 2001, MEAS EVAL COUNS DEV, V34, P177, DOI 10.1080/07481756.2002.12069034
+   HOLZINGER K, 1939, STUDY FACTOR ANAL ST
+   Joreskog K. G., 1993, TESTING STRUCTURAL E, P294
+   Kankaras M, 2011, SOCIOL METHOD RES, V40, P279, DOI 10.1177/0049124111405301
+   Kline R.B., 2011, PRINCIPLES PRACTICE
+   Lohr KN, 1996, CLIN THER, V18, P979, DOI 10.1016/S0149-2918(96)80054-3
+   Marsh HW, 2009, STRUCT EQU MODELING, V16, P439, DOI 10.1080/10705510903008220
+   Marsh HW, 1996, J PERS SOC PSYCHOL, V70, P810, DOI 10.1037/0022-3514.70.4.810
+   McDowell I, 1996, J Health Serv Res Policy, V1, P238
+   Meade AW, 2004, ORGAN RES METHODS, V7, P361, DOI 10.1177/1094428104268027
+   Milfont TL, 2010, INT J PSYCHOL RES, V3, P111
+   Mokkink LB, 2010, QUAL LIFE RES, V19, P539, DOI 10.1007/s11136-010-9606-8
+   Molenaar IW, 2000, MSP5 WINDOWS USERS M
+   Muthen B, 2002, MPLUS WEB NOTES 2002
+   Muthen B, 2013, MPLUS WEB NOTE
+   Muthen B, 2012, PSYCHOL METHODS, V17, P313, DOI 10.1037/a0026802
+   Muthen LK, 1998, MPLUS USERS GUIDE
+   Podsakoff PM, 2003, J APPL PSYCHOL, V88, P879, DOI 10.1037/0021-9010.88.5.879
+   Rabe-Hesketh S, 2008, STAT METHODS MED RES, V17, P5, DOI 10.1177/0962280207081236
+   Rasch G, 1960, PROBABLISTIC MODELS
+   Raykov T, 2002, STRUCT EQU MODELING, V9, P195, DOI 10.1207/S15328007SEM0902_3
+   Reichenheim ME, 2011, BMC MED RES METHODOL, V11, DOI 10.1186/1471-2288-11-93
+   REISE SP, 1993, PSYCHOL BULL, V114, P552, DOI 10.1037/0033-2909.114.3.552
+   Reise SP, 2007, QUAL LIFE RES, V16, P19, DOI 10.1007/s11136-007-9183-7
+   Samejima F., 1996, HDB MODERN ITEM RESP, P85, DOI DOI 10.1007/978-1-4757-2691-6_5
+   Sijtsma K., 2002, INTRO NONPARAMETRIC
+   Skrondal A., 2004, GEN LATENT VARIABLE
+   Skrondal A, 2007, SCAND J STAT, V34, P712, DOI 10.1111/j.1467-9469.2007.00573.x
+   Smith RM, 2002, J APPL MEAS, V4, P153
+   Streiner DL, 2008, HLTH MEASUREMENT SCA
+   Tabachnick BG, 2001, USING MULTIVARIATE S
+   TAKANE Y, 1987, PSYCHOMETRIKA, V52, P393, DOI 10.1007/BF02294363
+   van der Linden W. J., 1996, HDB MODERN ITEM RESP
+   Whiting Penny, 2003, BMC Med Res Methodol, V3, P25, DOI 10.1186/1471-2288-3-25
+   Wilson M., 2005, CONSTRUCTING MEASURE
+NR 53
+TC 15
+Z9 18
+U1 0
+U2 3
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD MAY
+PY 2014
+VL 30
+IS 5
+BP 927
+EP 939
+DI 10.1590/0102-311X00143613
+PG 13
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA AJ7WZ
+UT WOS:000337912800004
+PM 24936810
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Guimaraes, PM
+   Passos, SR
+   Calvet, GA
+   Hokerberg, YH
+   Lessa, JL
+   de Andrade, CA
+AF Guimaraes, Patricia M.
+   Passos, Sonia R.
+   Calvet, Guilherme A.
+   Hoekerberg, Yara H.
+   Lessa, Jose L.
+   de Andrade, Carlos A.
+TI Suicide risk and alcohol and drug abuse in outpatients with HIV
+   infection and Chagas disease
+SO REVISTA BRASILEIRA DE PSIQUIATRIA
+LA English
+DT Article
+DE Mental disorder; infectious disease; suicide; HIV; Chagas disease
+ID COMMON MENTAL-DISORDERS; FAMILY HEALTH-PROGRAM; PSYCHIATRIC-DISORDERS;
+   PREVALENCE; INDIVIDUALS; HIV/AIDS; ADULTS
+AB Objective: To evaluate psychiatric comorbidities in outpatients receiving care for HIV and Chagas disease at Instituto de Pesquisa Clinica Evandro Chagas (IPEC), Fundacao Oswaldo Cruz (Fiocruz), Rio de Janeiro, Brazil.
+   Methods: Cross-sectional study with a consecutive sample of 125 patients referred to an outpatient psychiatric clinic from February to December 2010. The Mini International Neuropsychiatric Interview (MINI) was used. Factors associated with more frequent mental disorders were estimated by odds ratios (OR) with 95% confidence intervals (95%Cl) by multiple logistic regression.
+   Results: Seventy-six (60.8%) patients with HIV, 40 (32%) patients with Chagas disease, and nine (7.2%) patients with human T-Iymphotropic virus were interviewed. The majority were women (64%), with up to 8 years of formal education (56%), and unemployed (81.6%). The median age was 49 years. Suicide risk (n=71) (56%), agoraphobia (n=65) (52%), major depressive episode (n=56) (44.8%), and alcohol/drug abuse (n=43) (34.4%) predominated, the latter being directly associated with lower family income (OR = 2.64; 95%Cl 1.03-6.75) and HIV infection (OR = 5.24; 95%Cl 1.56-17.61). Suicide risk was associated with non-white skin color (OR = 2.21; 95%Cl 1.03-4.75), unemployment (OR = 2.72; 95%Cl 1.01-7.34), and diagnosis of major depression (OR = 3.34; 95%Cl 1.54-7.44).
+   Conclusion: Measures targeting adverse socioeconomic conditions and psychiatric and psychological monitoring and care should be encouraged in this population, considering the association with abuse of alcohol/other psychoactive drugs and suicide risk.
+C1 [Guimaraes, Patricia M.; Passos, Sonia R.; Hoekerberg, Yara H.; de Andrade, Carlos A.] Fundacao Oswaldo Cruz Fiocruz, Inst Pesquisa Clin Evandro Chagas IPEC, Lab Clin Epidemiol, Rio De Janeiro, Brazil.
+   [Calvet, Guilherme A.] Fiocruz MS, IPEC, Lab HIV AIDS Clin Res, BR-21045900 Rio De Janeiro, Brazil.
+   [Lessa, Jose L.] Univ Fed Rio de Janeiro, Inst Psychiat, Rio de Janeiro, Brazil.
+RP Guimaraes, PM (corresponding author), Fiocruz MS, Lab Epidemiol Clin IPEC, Av Brasil,4036,Sala 201 A, BR-21045900 Rio De Janeiro, Brazil.
+EM patricia.machado@ipec.fiocruz.br
+RI Calvet, GA/G-6959-2013
+OI Calvet, GA/0000-0002-3545-5238; Passos, Sonia/0000-0001-9947-2291
+CR Amorim Patricia, 2000, Revista Brasileira de Psiquiatria, V22, P106
+   [Anonymous], 1992, MMWR Recomm Rep, V41, P1
+   [Anonymous], 1995, DSM 4 MAN DIAGN EST
+   Badiee J, 2012, J AFFECT DISORDERS, V136, P993, DOI 10.1016/j.jad.2011.06.044
+   Bertolote JM, 2003, BRIT J PSYCHIAT, V183, P382, DOI 10.1192/bjp.183.5.382
+   Bertolote JM, 2010, REV BRAS PSIQUIATR, V32, pS87, DOI 10.1590/S1516-44462010000600005
+   Bing EG, 2001, ARCH GEN PSYCHIAT, V58, P721, DOI 10.1001/archpsyc.58.8.721
+   Botega N., 2006, PRATICA PSIQUIATRICA
+   Botega NJ, 2010, GEN HOSP PSYCHIAT, V32, P396, DOI 10.1016/j.genhosppsych.2010.02.004
+   Brasil. Ministerio da Previdencia Social, 2010, EST PREV SOC
+   Brasil. Ministerio da Sande Secretaria de Vigilancia em Saude Coordenagao Nacional de DST e AIDS, REC TER ANTRR AD AD
+   Brasil. Ministerio da Saude Secretaria de Vigilancia em Saude, 2003, MIN SAUD SER MAN, V3
+   Chander G, 2006, DRUGS, V66, P769, DOI 10.2165/00003495-200666060-00004
+   Chikezie UE, 2012, AIDS CARE, V24, P843, DOI 10.1080/09540121.2011.645008
+   Ciesla JA, 2001, AM J PSYCHIAT, V158, P725, DOI 10.1176/appi.ajp.158.5.725
+   Cooperman NA, 2005, J BEHAV MED, V28, P149, DOI 10.1007/s10865-005-3664-3
+   Costa Albanita Gomes da, 2005, Cad Saude Publica, V21, P73, DOI 10.1590/S0102-311X2005000100009
+   Coelho FMD, 2009, CAD SAUDE PUBLICA, V25, P59, DOI 10.1590/S0102-311X2009000100006
+   Ferrando SJ, 2008, CRIT CARE CLIN, V24, P889, DOI 10.1016/j.ccc.2008.05.007
+   Fiellin David A, 2004, Top HIV Med, V12, P77
+   Fortes S, 2008, REV BRAS PSIQUIATR, V30, P32, DOI 10.1590/S1516-44462006005000066
+   Goncalves DM, 2008, CAD SAUDE PUBLICA, V24, P2043, DOI 10.1590/S0102-311X2008000900010
+   Himelhoch S, 2009, AIDS, V23, P1735, DOI 10.1097/QAD.0b013e32832b428f
+   Hosmer DW, 2000, APPL LOGISTIC REGRES
+   de Carvalho AGJ, 2009, BRAZ J INFECT DIS, V13, P5, DOI 10.1590/S1413-86702009000100003
+   Komiti A, 2001, AUST NZ J PSYCHIAT, V35, P747, DOI 10.1046/j.1440-1614.2001.00943.x
+   Maccaferri G E, 2012, Rev Med Suisse, V8, P362
+   Ministerio da Saude. Secretaria de Vigilancia em Saude, 2005, Rev Soc Bras Med Trop, V38 Suppl 3, P7
+   Myer L, 2008, AIDS PATIENT CARE ST, V22, P147, DOI 10.1089/apc.2007.0102
+   Ozaki Y, 2011, QUAL LIFE RES, V20, P133, DOI 10.1007/s11136-010-9726-1
+   Reichenheim ME, 2010, BMC MED RES METHODOL, V10, DOI 10.1186/1471-2288-10-66
+   Rocha Saulo Vasconcelos, 2010, Rev. bras. epidemiol., V13, P630, DOI 10.1590/S1415-790X2010000400008
+   Santos Élem Guimarães dos, 2010, J. bras. psiquiatr., V59, P238, DOI 10.1590/S0047-20852010000300011
+   Sewell MC, 2000, PSYCHOSOMATICS, V41, P294, DOI 10.1176/appi.psy.41.4.294
+   Silveira Marysabel Pinto Telis, 2002, Braz J Infect Dis, V6, P164, DOI 10.1590/S1413-86702002000400003
+   Stumpf BP, 2008, INT J PSYCHIAT MED, V38, P345, DOI 10.2190/PM.38.3.i
+   Wackemann PV, 2008, J NEUROL SCI, V269, P152, DOI 10.1016/j.jns.2008.01.006
+   World Health Organization, 2013, SUIC PREV SUPRE
+NR 38
+TC 8
+Z9 8
+U1 0
+U2 8
+PU ASSOC BRASILEIRA PSIQUIATRIA
+PI SAO PAULO
+PA SUBSCRIPTION DEPARTMENT, RUA PEDRO DE TOLEDO, 967 - CASA 01, SAO PAULO,
+   SP 04039-032  A, BRAZIL
+SN 1516-4446
+EI 1809-452X
+J9 REV BRAS PSIQUIATR
+JI Rev. Bras. Psiquiatr.
+PD APR-JUN
+PY 2014
+VL 36
+IS 2
+BP 131
+EP 137
+DI 10.1590/1516-4446-2013-1219
+PG 7
+WC Psychiatry
+SC Psychiatry
+GA AI8ZJ
+UT WOS:000337215200006
+PM 24845116
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Castro, MMLD
+   Hokerberg, YHM
+   Passos, SRL
+AF Lobo Dinis Castro, Marcelle Maria
+   Marques Hoekerberg, Yara Hahr
+   Lambert Passos, Sonia Regina
+TI Dimensional validity of WHOQOL-BREF in health workers
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Validation Studies; Health Personnel; Quality of Life; Working
+   Environment
+ID QUALITY-OF-LIFE; PSYCHOMETRIC PROPERTIES; OLDER-ADULTS;
+   GENERAL-POPULATION; SHORT VERSION; ORGANIZATION; INSTRUMENT;
+   OUTPATIENTS; DEPRESSION; RELIABILITY
+AB This study's objective was to revisit the internal consistency and convergent and discriminant factorial validity of the Brazilian version of WHOQOL-BREF, in a cross-sectional study of 386 health workers. Confirmatory factor analysis was used to test WHOQOL-BREF's structure (24 and 26 items) and the model suggested by exploratory factor analysis. Internal consistency was measured through composite reliability; convergent and discriminant validity by average variance extracted and factor correlations. The best-fit model, suggested by exploratory factor analysis (26 items), had 6 factors: 4 theoretically proposed (general, psychological, social relationships, and environment) and 2 obtained by subdividing the physical domain. Items "energy" and "security" (from physical and environment domains) were relocated to the psychological domain. Composite reliability was good (> 0.70), except for the general factor. Convergent and discriminant validity were adequate for social relationships and physical 2. Controversies on WHOQOL-BREF's dimensionality persist, particularly in the physical domain.
+C1 [Lobo Dinis Castro, Marcelle Maria; Marques Hoekerberg, Yara Hahr; Lambert Passos, Sonia Regina] Fundacao Oswaldo Cruz, Inst Pesquisa Clin Evandro Chagas, BR-21040900 Rio De Janeiro, RJ, Brazil.
+   [Lobo Dinis Castro, Marcelle Maria] Fundacao Oswaldo Cruz, Escola Nacl Saude Publ Sergio Arouca, BR-21040900 Rio De Janeiro, RJ, Brazil.
+RP Castro, MMLD (corresponding author), Fundacao Oswaldo Cruz, Inst Pesquisa Clin Evandro Chagas, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM lobodinis@gmail.com
+RI Passos, Sonia/C-5292-2013
+OI Passos, Sonia/0000-0001-9947-2291
+CR [Anonymous], 1998, PSYCHOL MED, V28, P551
+   Berlim MT, 2007, PSYCHIAT RES, V153, P253, DOI 10.1016/j.psychres.2006.07.006
+   Berlim MT, 2003, PSYCHIAT SERV, V54, P254, DOI 10.1176/appi.ps.54.2.254
+   Blay SL, 2011, CAD SAUDE PUBLICA, V27, P677, DOI 10.1590/S0102-311X2011000400007
+   Brasil Ministerio do Trabalho e do Emprego, 2002, CLASS BRAS OC CBO 20
+   Brown T.A., 2006, CONFIRMATORY FACTOR
+   Calumbi RA, 2010, REV BRAS ANESTESIOL, V60, P42, DOI 10.1590/S0034-70942010000100005
+   Chachamovich E, 2008, GERONTOLOGIST, V48, P593, DOI 10.1093/geront/48.5.593
+   Chacharnovich E, 2009, J CLIN EPIDEMIOL, V62, P37, DOI 10.1016/j.jclinepi.2008.03.002
+   Chen KH, 2006, SOC INDIC RES, V79, P215, DOI 10.1007/s11205-005-0211-0
+   Chung WS, 2012, BMC PUBLIC HEALTH, V12, DOI 10.1186/1471-2458-12-630
+   DIVISION OF MENTAL HEALTH AND PREVENTION OF SUBSTANCE ABUSE WORLD HEALTH ORGANIZATION, 1998, PROGR MENT HLTH WHOQ
+   Fang CT, 2002, QUAL LIFE RES, V11, P753, DOI 10.1023/A:1020870402019
+   Fleck MPA, 2000, REV SAUDE PUBL, V34, P178, DOI 10.1590/S0034-89102000000200012
+   Gazalle FK, 2005, J AFFECT DISORDERS, V86, P313, DOI 10.1016/j.jad.2005.01.003
+   Hair JF, 2009, SEM CONFIRMATORY FAC
+   Jaracz K, 2006, SCAND J CARING SCI, V20, P251, DOI 10.1111/j.1471-6712.2006.00401.x
+   Kalfoss MH, 2008, EUR J AGEING, V5, P77, DOI 10.1007/s10433-008-0070-z
+   KUYKEN W, 1995, SOC SCI MED, V41, P1403, DOI 10.1016/0277-9536(95)00112-k
+   Li KG, 2009, SOC INDIC RES, V90, P489, DOI 10.1007/s11205-008-9272-1
+   Min SK, 2002, QUAL LIFE RES, V11, P593, DOI 10.1023/A:1016351406336
+   Moreno Arlinda B., 2006, Cad. Saúde Pública, V22, P2585, DOI 10.1590/S0102-311X2006001200009
+   Muthen B. O., 1998, MPLUS TECHNICAL APPE
+   Ohaeri JU, 2007, BMC MED RES METHODOL, V7, DOI 10.1186/1471-2288-7-37
+   Ohaeri JU, 2009, ANN SAUDI MED, V29, P98, DOI 10.4103/0256-4947.51790
+   Paschoa Simone, 2007, Acta paul. enferm., V20, P305, DOI 10.1590/S0103-21002007000300010
+   Paskulin L, 2009, INT NURS REV, V56, P109, DOI 10.1111/j.1466-7657.2008.00671.x
+   Power M, 1998, SOC SCI MED, V46, P1569, DOI 10.1016/s0277-9536(98)00009-4
+   Rabin EG, 2008, EUR J ONCOL NURS, V12, P53, DOI 10.1016/j.ejon.2007.06.003
+   Reichenheim ME, 2007, REV SAUDE PUBL, V41, P665, DOI 10.1590/S0034-89102006005000035
+   Romao APMS, 2009, INT J CLIN PRACT, V63, P707, DOI 10.1111/j.1742-1241.2009.02034.x
+   Skevington SM, 2002, QUAL LIFE RES, V11, P135, DOI 10.1023/A:1015013312456
+   Skevington SM, 2004, QUAL LIFE RES, V13, P299, DOI 10.1023/B:QURE.0000018486.91360.00
+   Taylor WJ, 2004, ARTHRIT RHEUM-ARTHR, V51, P350, DOI 10.1002/art.20398
+   Trompenaars F, 2005, QUAL LIFE RES, V14, P151, DOI 10.1007/s11136-004-0787-x
+   Usefy AR, 2010, COMMUNITY MENT HLT J, V46, P139, DOI 10.1007/s10597-009-9282-8
+   von Steinbuchel Nicole, 2006, Eur J Ageing, V3, P116, DOI 10.1007/s10433-006-0024-2
+   What quality of life? The WHOQOL Group, 1996, WORLD HLTH FORUM, V17, P354
+   Xia P, 2012, BMC MED RES METHODOL, V12, DOI 10.1186/1471-2288-12-37
+NR 39
+TC 9
+Z9 10
+U1 0
+U2 12
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD JUL
+PY 2013
+VL 29
+IS 7
+BP 1357
+EP 1369
+PG 13
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 180VN
+UT WOS:000321627000010
+PM 23843003
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Orofino, DHG
+   Passos, SRL
+   de Andrade, CAF
+   Nigri, D
+   Werneck, LD
+   de Oliveira, RC
+   Hokerberg, YHM
+AF Goncalves Orofino, Dulce Helena
+   Lambert Passos, Sonia Regina
+   Ferreira de Andrade, Carlos Augusto
+   Nigri, Daniel
+   Werneck, Lucia dos Santos
+   de Oliveira, Raquel Carvalhaes
+   Marques Hoekerberg, Yara Hahr
+TI ACCURACY AND INTEROBSERVER VARIATION OF THREE CLINICAL DECISION RULES
+   FOR THE DIAGNOSIS OF STREPTOCOCCAL PHARYNGITIS
+SO PEDIATRIC INFECTIOUS DISEASE JOURNAL
+LA English
+DT Article
+DE validation study; sensitivity; specificity; test reproducibility;
+   streptococcal pharyngitis; rheumatic fever
+ID MANAGEMENT; CHILDREN
+AB We evaluated the accuracy and interobserver variation of 3 clinical decision rules for streptoccocal pharyngitis diagnosis. Oropharyngeal swab culture was the reference. The Abu Reesh rule had the highest sensitivity and the World Health Organization rule showed the highest specificity. The interobserver variation of those rules indicates the need for better training of clinicians.
+C1 [Goncalves Orofino, Dulce Helena; Lambert Passos, Sonia Regina; Ferreira de Andrade, Carlos Augusto; de Oliveira, Raquel Carvalhaes; Marques Hoekerberg, Yara Hahr] Fundacao Oswaldo Cruz, Lab Clin Epidemiol, Inst Pesquisa Clin Evandro Chagas, Rio De Janeiro, Brazil.
+   [Goncalves Orofino, Dulce Helena; Nigri, Daniel] Souza Marques Med Sch, Rio De Janeiro, Brazil.
+   [Werneck, Lucia dos Santos] Prontobaby Hosp, Rio De Janeiro, Brazil.
+RP Orofino, DHG (corresponding author), Fundacao Oswaldo Cruz, Lab Clin Epidemiol, Inst Pesquisa Clin Evandro Chagas, Ave Brasil 4036 Sala 301-A Manguinhos, Rio De Janeiro, Brazil.
+EM dulceorofino@yahoo.com.br
+RI Passos, Sonia/C-5292-2013; Oliveira, Raquel de V C de/S-7443-2016
+OI Passos, Sonia/0000-0001-9947-2291; Oliveira, Raquel de V C
+   de/0000-0001-9387-8645
+FU Technological Research and Development Program of the IPEC/FIOCRUZ;
+   Carlos Chagas Foundation of Research Support-FAPERJ [JCNE
+   E-26/101-511/2010]; Carlos Chagas Foundation of Research Support-FAPERJ
+   (PIBIC CNPq scholarship)
+FX This study was funded by the Technological Research and Development
+   Program (PIPDT-2011) of the IPEC/FIOCRUZ and the Carlos Chagas
+   Foundation of Research Support-FAPERJ (S. R. L. P. had a fellowship JCNE
+   E-26/101-511/2010, and D.N. had a PIBIC CNPq scholarship.). The funding
+   sources had no role in the following: study design and conduct; and data
+   collection, analysis and interpretation. D.H.G.O. had full access to all
+   data and final responsibility for the decision to submit for publication
+   on behalf of all authors. The authors have no other funding or conflicts
+   of interest to disclose.
+CR Donner-Banzhoff N, 2002, FAM PRACT, V19, P466, DOI 10.1093/fampra/19.5.466
+   Joachim L, 2010, PEDIATRICS, V126, pE608, DOI 10.1542/peds.2010-0569
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Rimoin AW, 2005, ARCH DIS CHILD, V90, P1066, DOI 10.1136/adc.2004.069120
+   Shaikh N, 2012, J PEDIATR-US, V160, P487, DOI 10.1016/j.jpeds.2011.09.011
+   Shaikh N, 2010, PEDIATRICS, V126, pE557, DOI 10.1542/peds.2009-2648
+   Steinhoff MC, 2005, ACTA PAEDIATR, V94, P1038, DOI 10.1080/08035250510027994
+   Steinhoff MC, 1997, LANCET, V350, P918, DOI 10.1016/S0140-6736(97)03317-5
+   Walker CLF, 2006, J PEDIATR-US, V149, P64, DOI 10.1016/j.jpeds.2006.03.005
+   World Health Organization, 1995, MAN AC RESP INF CHIL
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 3
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0891-3668
+EI 1532-0987
+J9 PEDIATR INFECT DIS J
+JI Pediatr. Infect. Dis. J.
+PD JUN
+PY 2013
+VL 32
+IS 6
+BP 686
+EP 687
+DI 10.1097/INF.0b013e3182868b32
+PG 2
+WC Immunology; Infectious Diseases; Pediatrics
+SC Immunology; Infectious Diseases; Pediatrics
+GA 147ZR
+UT WOS:000319211700026
+PM 23340556
+DA 2020-11-24
+ER
+
+PT J
+AU Luz, TCB
+   Luiza, VL
+   Avelar, FG
+   Hokerberg, YHM
+   Passos, SRL
+AF Borges Luz, Tatiana Chama
+   Luiza, Vera Lucia
+   Avelar, Fernando Genovez
+   Marques Hoekerberg, Yara Hahr
+   Lambert Passos, Sonia Regina
+TI Use of medication among hospital workers
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Use of medication; Associated factors; Workers
+ID SELF-RATED HEALTH; DRUG-USE; GENERAL-POPULATION; ADULT-POPULATION;
+   MENTAL-HEALTH; ASSOCIATION; STRESS; BRAZIL; MORBIDITY; SERVICES
+AB Although medication is acknowledged as a key element in treating health problems, there is little information available on the use of medication by hospital workers. To estimate the prevalence and describe the patterns of medication consumption by hospital workers and to identify the factors associated with such consumption in this population, data from the "PROSEC" baseline cohort were analyzed (n=417). The prevalence of overall medication consumption was 72.4%, most of which was for nervous complaints (25.4%), especially analgesics (17.8%). Use of any amount of medication was independently associated with gender, number of medically diagnosed conditions and health problem in the two weeks prior to the interview. Use of a drug was significantly associated with income whereas self-diagnosed health problems were independently related with the use of two or more pharmaceutical products. The high prevalence of medication usage in this population, with analgesics being the most consumed medication, should be seen as a cause for concern, since many consumers are unaware that these products are not exempt from risk. Women and individuals in poor health are the main candidates for intervention programs in order to promote adequate and proper use of these pharmaceutical products.
+C1 [Borges Luz, Tatiana Chama] Fundacao Oswaldo Cruz LEAM CpqRR Fiocruz, Ctr Pesquisa Rene Rachou, Lab Epidemiol & Antropol Med, BR-30190002 Belo Horizonte, MG, Brazil.
+   [Luiza, Vera Lucia; Avelar, Fernando Genovez] Fundacao Oswaldo Cruz NAF ENSP Fiocruz, Escola Nacl Saude Publ Sergio Arouca, Nucleo Assistencia Farmaceut, Rio De Janeiro, Brazil.
+   [Marques Hoekerberg, Yara Hahr; Lambert Passos, Sonia Regina] Fundacao Oswaldo Cruz IPEC Fiocruz, Inst Pesquisa Clin Evandro Chagas, Lab Epidemiol Clin, Rio De Janeiro, Brazil.
+RP Luz, TCB (corresponding author), Fundacao Oswaldo Cruz LEAM CpqRR Fiocruz, Ctr Pesquisa Rene Rachou, Lab Epidemiol & Antropol Med, Av Augusto de Lima 1715-609, BR-30190002 Belo Horizonte, MG, Brazil.
+EM tatianachama@cpqrr.fiocruz.br
+RI Luiza, Vera Lucia/F-6070-2012; Passos, Sonia/C-5292-2013
+OI Luiza, Vera Lucia/0000-0001-6245-7522; Passos, Sonia/0000-0001-9947-2291
+CR Acurcio Francisco de Assis, 2006, Cad. Saúde Pública, V22, P87, DOI 10.1590/S0102-311X2006000100010
+   Agencia Nacional de Vigilancia Sanitaria (ANVISA), BANC DAD MED AG NAC
+   [Anonymous], 2007, CAD SAUDE PUBLICA, V23, P1423, DOI 10.1590/S0102-311X2007000600017
+   [Anonymous], 2004, DEF 2004 2005
+   Aquino Daniela Silva de, 2008, Ciênc. saúde coletiva, V13, P733
+   Arrais Paulo Sérgio Dourado, 2005, Cad. Saúde Pública, V21, P1737, DOI 10.1590/S0102-311X2005000600021
+   Boeuf-Cazou O, 2009, PHARMACOEPIDEM DR S, V18, P335, DOI 10.1002/pds.1713
+   Brasil. Ministerio do Trabalho e Emprego (MTE), CLASS BRAS OC CBO 20
+   Barros JAC, 2008, CIENC SAUDE COLETIVA, V13, P579, DOI 10.1590/S1413-81232008000700007
+   Carrasco-Garrido P, 2008, PHARMACOEPIDEM DR S, V17, P193, DOI 10.1002/pds.1455
+   Carvalho Marcelo Felga de, 2005, Cad. Saúde Pública, V21, pS100, DOI 10.1590/S0102-311X2005000700011
+   Cheng Y, 2005, SOC SCI MED, V61, P41, DOI 10.1016/j.socscimed.2004.11.039
+   De Lucia R, 1988, REV BRAS SAUDE OCUP, V16, P51
+   DeLucia R, 1987, AMB Rev Assoc Med Bras, V33, P215
+   Dewa CS, 2005, INT J LAW PSYCHIAT, V28, P496, DOI 10.1016/j.ijlp.2005.08.003
+   ESTRYNBEHAR M, 1990, BRIT J IND MED, V47, P20
+   Furu K, 1997, J CLIN EPIDEMIOL, V50, P341, DOI 10.1016/S0895-4356(96)00362-9
+   GRUPEMEF-Grupo dos Profissionais Executivos do Mercado Farmaceutico, VEND NOM R US 1000 U
+   Guerra AA, 2004, REV PANAM SALUD PUBL, V15, P168, DOI 10.1590/S1020-49892004000300005
+   Holmgren K, 2009, BMC PUBLIC HEALTH, V9, DOI 10.1186/1471-2458-9-73
+   Jinks Annette M, 2003, J Nurs Manag, V11, P343, DOI 10.1046/j.1365-2834.2003.00387.x
+   Katsarava Zaza, 2001, Drug Safety, V24, P921, DOI 10.2165/00002018-200124120-00005
+   Kawano Y, 2008, J OCCUP HEALTH, V50, P79, DOI 10.1539/joh.50.79
+   Kongkaew C, 2008, ANN PHARMACOTHER, V42, P1017, DOI 10.1345/aph.1L037
+   LAUKKANEN P, 1992, AGE AGEING, V21, P343, DOI 10.1093/ageing/21.5.343
+   LEFEVRE F, 1983, REV SAUDE PUBL, V17, P500, DOI 10.1590/S0034-89101983000600007
+   Leite SN, 2008, CIENC SAUDE COLETIVA, V13, P793, DOI 10.1590/S1413-81232008000700029
+   Lima J, 2009, REV ESC ENFERM USP, V43, P670, DOI 10.1590/S0080-62342009000300024
+   Long J. S., 2003, REGRESSION MODELS CA
+   Loyola Filho Antônio I. de, 2005, Cad. Saúde Pública, V21, P545, DOI 10.1590/S0102-311X2005000200021
+   Loyola Filho Antônio I. de, 2006, Cad. Saúde Pública, V22, P2657, DOI 10.1590/S0102-311X2006001200015
+   Lundberg L, 1998, HEALTH POLICY, V44, P123, DOI 10.1016/S0168-8510(98)00009-8
+   Luz Tatiana Chama Borges, 2006, Rev. bras. epidemiol., V9, P514, DOI 10.1590/S1415-790X2006000400012
+   Miilunpalo S, 1997, J CLIN EPIDEMIOL, V50, P517, DOI 10.1016/S0895-4356(97)00045-0
+   Moller L, 1996, J EPIDEMIOL COMMUN H, V50, P423, DOI 10.1136/jech.50.4.423
+   Organizacao Pan-Americana da Saude (Opas), 2005, AV ASS FARM BRAS EST
+   OSORIODECASTRO CG, 2000, ESTUDOS UTILIZACAO M
+   Pelfrene E, 2004, SOC SCI MED, V59, P433, DOI 10.1016/j.socscimed.2003.11.002
+   PERNEGER TV, 1994, NEW ENGL J MED, V331, P1675, DOI 10.1056/NEJM199412223312502
+   Piko BF, 2006, INT J NURS STUD, V43, P311, DOI 10.1016/j.ijnurstu.2005.05.003
+   Rothman KJ, 2008, MODERN EPIDEMIOLOGY
+   ROZEMBERG B, 1994, REV SAUDE PUBL, V28, P300, DOI 10.1590/S0034-89101994000400010
+   Sans S., 2002, Gac Sanit, V16, P121
+   Sihvo S, 2000, EUR J CLIN PHARMACOL, V56, P495, DOI 10.1007/s002280000145
+   Silveira Fernando Gaiger, 2002, Ciênc. saúde coletiva, V7, P719, DOI 10.1590/S1413-81232002000400009
+   Sinokki M, 2009, J AFFECT DISORDERS, V115, P36, DOI 10.1016/j.jad.2008.07.009
+   Stansfeld SA, 1999, OCCUP ENVIRON MED, V56, P302, DOI 10.1136/oem.56.5.302
+   Theme MM, 2008, REV SAUDE PUBL, V42, P73, DOI 10.1590/S0034-89102008000100010
+   Tolman KG, 1998, AM J MED, V105, P13, DOI DOI 10.1016/S0002-9343(98)00070-9
+   Tomasi Elaine, 2007, Rev. bras. epidemiol., V10, P66
+   VFA- Bio-Association of Research-Based Pharma-ceutical Companies, PHARM MARK
+   WHO Collaborating Centre for Drug Statistics Methodology, AN THER CHEM ATC CLA
+   Wolff T, 2009, ANN INTERN MED, V150, P405, DOI 10.7326/0003-4819-150-6-200903170-00009
+   World Health Organization, 2004, INV US MED CONS
+   World Health Organization, 2003, INTR DRUG UT RES
+NR 55
+TC 0
+Z9 1
+U1 0
+U2 3
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2012
+VL 17
+IS 2
+BP 499
+EP 509
+DI 10.1590/S1413-81232012000200023
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 880CX
+UT WOS:000299383400024
+PM 22267044
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Guimaraes, PMQ
+   de Andrade, CAF
+   Calvet, GA
+   Hokerberg, YHM
+   Castro, MMLD
+   Lessa, JLM
+   Passos, SRL
+AF Quintaes Guimaraes, Patricia Machado
+   Ferreira de Andrade, Carlos Augusto
+   Calvet, Guilherme Amaral
+   Marques Hoekerberg, Yara Hahr
+   Lobo Dinis Castro, Marcelle Maria
+   Martins Lessa, Jose Luiz
+   Lambert Passos, Sonia Regina
+TI Profile of psychiatric comorbidity in patients in diagnosis of HIV, HTLV
+   and Chagas' disease followed up in ambulatory psychiatric hospital of
+   reference in infectious diseases
+SO REVISTA BRASILEIRA DE PSIQUIATRIA
+LA Portuguese
+DT Meeting Abstract
+C1 [Quintaes Guimaraes, Patricia Machado; Ferreira de Andrade, Carlos Augusto; Calvet, Guilherme Amaral; Marques Hoekerberg, Yara Hahr; Lobo Dinis Castro, Marcelle Maria; Martins Lessa, Jose Luiz; Lambert Passos, Sonia Regina] Fiocruz MS, Inst Pesquisa Clin Evandro Chagas IPEC, BR-21045900 Rio De Janeiro, RJ, Brazil.
+RI Calvet, GA/G-6959-2013; Passos, Sonia/C-5292-2013
+OI Calvet, GA/0000-0002-3545-5238; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ASSOC BRASILEIRA PSIQUIATRIA
+PI SAO PAULO
+PA SUBSCRIPTION DEPARTMENT, RUA PEDRO DE TOLEDO, 967 - CASA 01, SAO PAULO,
+   SP 04039-032  A, BRAZIL
+SN 1516-4446
+J9 REV BRAS PSIQUIATR
+JI Rev. Bras. Psiquiatr.
+PD NOV
+PY 2011
+VL 33
+SI SI
+BP S21
+EP S21
+PG 1
+WC Psychiatry
+SC Psychiatry
+GA 884QM
+UT WOS:000299722600037
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Hokerberg, YHM
+   Faerstein, E
+   de Andrade, CAF
+   Fernandes, R
+   Passos, RL
+AF Hoekerberg, Y. H. M.
+   Faerstein, E.
+   de Andrade, C. A. F.
+   Fernandes, R.
+   Passos, R. L.
+TI DEMAND AND CONTROL AT WORK AND BLOOD PRESSURE: SYSTEMATIC REVIEW AND
+   META-ANALYSIS
+SO JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH
+LA English
+DT Meeting Abstract
+C1 [Hoekerberg, Y. H. M.; de Andrade, C. A. F.; Fernandes, R.; Passos, R. L.] Fundacao Oswaldo Cruz, Evandro Chagas Clin Res Inst, Rio De Janeiro, Brazil.
+   [Faerstein, E.] Univ Estado Rio De Janeiro, Inst Social Med, Rio De Janeiro, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0143-005X
+J9 J EPIDEMIOL COMMUN H
+JI J. Epidemiol. Community Health
+PD AUG
+PY 2011
+VL 65
+SU 1
+BP A252
+EP A252
+DI 10.1136/jech.2011.142976i.50
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 807MG
+UT WOS:000293901801214
+OA Bronze
+DA 2020-11-24
+ER
+
+PT J
+AU Vitorino, RL
+   Grinsztejn, BG
+   de Andrade, CAF
+   Hokerberg, YHM
+   de Souza, CTV
+   Friedman, RK
+   Passos, SRL
+AF Vitorino, Raquel Loja
+   Grinsztejn, Beatriz Gilda
+   Ferreira de Andrade, Carlos Augusto
+   Marques Hoekerberg, Yara Hahr
+   Vieira de Souza, Claudia Teresa
+   Friedman, Ruth Khalili
+   Lambert Passos, Sonia Regina
+TI Systematic review of the effectiveness and safety of assisted
+   reproduction techniques in couples serodiscordant for human
+   immunodeficiency virus where the man is positive
+SO FERTILITY AND STERILITY
+LA English
+DT Article
+DE Artificial insemination; assisted reproduction; HIV infection;
+   infertility; intracytoplasmic sperm injection (ICSI); in vitro
+   fertilization; reproductive techniques; systematic review
+ID INTRACYTOPLASMIC SPERM INJECTION; IN-VITRO FERTILIZATION; INFECTED MALE
+   PARTNER; INTRAUTERINE INSEMINATION; HEPATITIS-C; HIV; ICSI; CYCLES;
+   WOMEN; METAANALYSIS
+AB Objective: To evaluate the effectiveness and safety of assisted reproduction techniques (ART) in human immunodeficiency virus (HIV) serodiscordant couples.
+   Design: Systematic review of five databases of noncomparative open intervention and observational studies of serodiscordant couples undergoing ART, with study selection and data extraction performed independently and in duplicate.
+   Setting: Tertiary fertility centers.
+   Patient(s): HIV serodiscordant couples where the man is HIV positive.
+   Intervention(s): Intrauterine insemination (IUI), in vitro fertilization (IVF), or intracytoplasmic injection (ICSI) performed after washed semen viral testing.
+   Main Outcome Measure(s): Pregnancy rates per cycle, cumulative pregnancy, abortion rate, and HIV seroconversion in newborns or women.
+   Result(s): Of the 658 abstracts retrieved, 41 were selected for review, and 17 full articles were included (3,900 IUI cycles in 1,184 couples in 11 aggregated studies and 738 ICSI/IVF cycles in 579 couples across 10 studies). The IUI and ICSI results were, respectively: pregnancy rates per cycle, 18% and 38.1%; cumulative pregnancy, 50% and 52.9%; and abortion rate, 15.6% and 20.6%. No seroconversions in women or newborns were detectable at birth or after 3 to 6 months.
+   Conclusion(s): Cumulative evidence suggests that ART is safe and effective for avoiding horizontal and vertical transmission in HIV serodiscordant couples. (Fertil Steril (R) 2011;95:1684-90. (C)2011 by American Society for Reproductive Medicine.)
+C1 [Vitorino, Raquel Loja; Ferreira de Andrade, Carlos Augusto; Marques Hoekerberg, Yara Hahr; Vieira de Souza, Claudia Teresa; Lambert Passos, Sonia Regina] Fundacao Oswaldo Cruz, Lab Clin Epidemiol, BR-21045900 Rio De Janeiro, Brazil.
+   [Grinsztejn, Beatriz Gilda; Friedman, Ruth Khalili] Fundacao Oswaldo Cruz, Evandro Chagas Clin Res Inst IPEC, STD AIDS Clin Res Lab, BR-21045900 Rio De Janeiro, Brazil.
+RP Passos, SRL (corresponding author), Fundacao Oswaldo Cruz, Lab Clin Epidemiol, Av Brasil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM sonialambert@ipec.fiocruz.br
+RI Passos, Sonia/C-5292-2013
+OI Passos, Sonia/0000-0001-9947-2291
+FU Oswaldo Cruz Foundation (Fiocruz)
+FX Scholarship funding from the Oswaldo Cruz Foundation (Fiocruz) (to
+   R.L.V.).
+CR Andersen AN, 2009, HUM REPROD, V24, P1267, DOI 10.1093/humrep/dep035
+   Barreiro P, 2007, HUM REPROD, V22, P2353, DOI 10.1093/humrep/dem226
+   Bujan L, 2004, FERTIL STERIL, V82, P857, DOI 10.1016/j.fertnstert.2004.02.128
+   Louis B, 2007, EUR J OBSTET GYN R B, V135, P76, DOI 10.1016/j.ejogrb.2007.04.011
+   Chu MC, 2005, REPROD BIOMED ONLINE, V10, P130, DOI 10.1016/S1472-6483(10)60814-0
+   Chu Micheline C., 2006, Archives of Gynecology and Obstetrics, V274, P155, DOI 10.1007/s00404-006-0164-9
+   Dovey S, 2008, FERTIL STERIL, V90, P2281, DOI 10.1016/j.fertnstert.2007.10.057
+   Egger M, 1998, BRIT MED J, V316, P140
+   Egger M., 2008, SYSTEMATIC REV HLTH, P211, DOI [10.1002/9780470693926.ch12, DOI 10.1002/9780470693926.CH12]
+   *ETH COMM AM SOC R, 2004, FERTIL STERIL S1, V82
+   Farhi J, 2007, FERTIL STERIL, V88, P396, DOI 10.1016/j.fertnstert.2006.11.187
+   Garrido N, 2004, HUM REPROD, V19, P2581, DOI 10.1093/humrep/deh460
+   Kovacic B, 2010, FERTIL STERIL, V94, P511, DOI 10.1016/j.fertnstert.2009.03.077
+   Kowalska A., 2005, HIV AIDS REV, V4, P7
+   LEE S, 2001, J BRASIL REPROD ASSI, V5, P64
+   Liberati A, 2009, ANN INTERN MED, V151, pW65, DOI [10.1371/journal.pmed.1000100, 10.7326/0003-4819-151-4-200908180-00136]
+   Manigart Y, 2006, HUM REPROD, V21, P2935, DOI 10.1093/humrep/del277
+   Marina S, 1998, FERTIL STERIL, V70, P35, DOI 10.1016/S0015-0282(98)00102-2
+   Marina S, 2002, GINECOL OBSTET CLIN, V3, P146
+   Melo MAB, 2008, FERTIL STERIL, V89, P141, DOI 10.1016/j.fertnstert.2007.02.004
+   Mencaglia L, 2005, HUM REPROD, V20, P2242, DOI 10.1093/humrep/dei031
+   Nicopoullos JDM, 2004, FERTIL STERIL, V81, P670, DOI 10.1016/j.fertnstert.2003.08.019
+   Pena JE, 2003, FERTIL STERIL, V80, P356, DOI 10.1016/S0015-0282(03)00662-9
+   Prisant N, 2010, FERTIL STERIL, V93, P1020, DOI 10.1016/j.fertnstert.2009.07.1663
+   Queiroz P, 2008, REV BRAS GINECOL OBS, V30, P171, DOI 10.1590/S0100-72032008000400003
+   Royce RA, 1997, NEW ENGL J MED, V336, P1072, DOI 10.1056/NEJM199704103361507
+   Sauer MV, 2002, AM J OBSTET GYNECOL, V186, P627, DOI 10.1067/mob.2002.122125
+   Savasi V, 2007, HUM REPROD, V22, P772, DOI 10.1093/humrep/del422
+   SEMPRINI AE, 1992, LANCET, V340, P1317, DOI 10.1016/0140-6736(92)92495-2
+   Stroup DF, 2000, JAMA-J AM MED ASSOC, V283, P2008, DOI 10.1001/jama.283.15.2008
+   Tay Paul Y S, 2007, Med J Malaysia, V62, P286
+   Terriou P, 2005, HUM REPROD, V20, P2838, DOI 10.1093/humrep/dei119
+   van Leeuwen E, 2005, Ned Tijdschr Geneeskd, V149, P423
+   Veiga A, 1999, PRENAT NEONAT MED, V4, P356
+   World Health Organization United Nations International Children's Emergency Fund Joint United Nations Programme on HIV/AIDS, 2009, JOINT UN PROGR HIV A
+   Zadehmodarres S, 2009, J ASSIST REPROD GEN, V26, P7, DOI 10.1007/s10815-008-9273-7
+NR 36
+TC 31
+Z9 32
+U1 0
+U2 9
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0015-0282
+EI 1556-5653
+J9 FERTIL STERIL
+JI Fertil. Steril.
+PD APR
+PY 2011
+VL 95
+IS 5
+BP 1684
+EP 1690
+DI 10.1016/j.fertnstert.2011.01.127
+PG 7
+WC Obstetrics & Gynecology; Reproductive Biology
+SC Obstetrics & Gynecology; Reproductive Biology
+GA 738OA
+UT WOS:000288648000031
+PM 21324449
+DA 2020-11-24
+ER
+
+PT J
+AU Hokerberg, YHM
+   Aguiar, OB
+   Reichenheim, M
+   Faerstein, E
+   Valente, JG
+   Fonseca, MD
+   Passos, SRL
+AF Marques Hokerberg, Yara Hahr
+   Aguiar, Odaleia Barbosa
+   Reichenheim, Michael
+   Faerstein, Eduardo
+   Valente, Joaquim Goncalves
+   Fonseca, Maria de Jesus
+   Lambert Passos, Sonia Regina
+TI Dimensional structure of the demand control support questionnaire: a
+   Brazilian context
+SO INTERNATIONAL ARCHIVES OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+LA English
+DT Article
+DE Validation studies; Factor analysis; Stress, psychological; Demand
+   control model
+ID JOB CONTENT QUESTIONNAIRE; DECISION LATITUDE; PSYCHOMETRIC PROPERTIES;
+   CARDIOVASCULAR-DISEASE; CULTURAL-ADAPTATION; CONSTRUCT-VALIDITY;
+   JAPANESE VERSION; SOCIAL SUPPORT; FRENCH VERSION; CONTROL MODEL
+AB According to Karasek, job strain results from an interaction between high demands and low decision latitude.
+   To reassess the dimensional structure and evaluate the internal consistency of demand control support questionnaire (DCSQ), a shortened version of job content questionnaire that was not sufficiently evaluated in validation studies.
+   The study investigated 825 workers who completed the DCSQ in Rio de Janeiro, Brazil; to 399 workers, the questionnaire was self-administered at a hospital (2004-2005), and 426 workers were interviewed at nine restaurants (2006-2007). Confirmatory factor analysis using structural equation models was used to test theoretical structure of dimensionality. Internal consistency was evaluated by composite reliability and convergent validity by average variance extracted.
+   Confirmatory factor analysis supported the instrument in three dimensions: demands, skill discretion and decision authority. The best fit model was achieved by removing social support at work and the item repetitive work (skill discretion). A cross-loading from learning new things on demands and an error measurement correlation between work fast and work intense were confirmed. Composite reliability was acceptable for all dimensions, except for demands (0.58), which also showed inadequate average variance extracted (0.32). This final model was confirmed in separate analyses according to work setting, but the loadings of demands were lower for restaurant workers.
+   Our results indicated that skill discretion and decision authority formed two distinct dimensions. Additionally, the item repetitive work should be removed, as well as one of the items work fast or work intense (demands). Future research is still required to confirm these findings.
+C1 [Marques Hokerberg, Yara Hahr; Lambert Passos, Sonia Regina] Fundacao Oswaldo Cruz, Evandro Chagas Clin Res Inst, Clin Epidemiol Lab, BR-21040900 Rio De Janeiro, Brazil.
+   [Marques Hokerberg, Yara Hahr; Aguiar, Odaleia Barbosa; Reichenheim, Michael; Faerstein, Eduardo; Valente, Joaquim Goncalves] Univ Estado Rio De Janeiro, Inst Social Med, Rio De Janeiro, Brazil.
+   [Aguiar, Odaleia Barbosa] Univ Estado Rio De Janeiro, Inst Nutr, Rio De Janeiro, Brazil.
+   [Valente, Joaquim Goncalves; Fonseca, Maria de Jesus] Fundacao Oswaldo Cruz, Natl Sch Publ Hlth, BR-21040900 Rio De Janeiro, Brazil.
+RP Hokerberg, YHM (corresponding author), Fundacao Oswaldo Cruz, Evandro Chagas Clin Res Inst, Clin Epidemiol Lab, Av Brasil,4365 Manguinhos, BR-21040900 Rio De Janeiro, Brazil.
+EM yarahahr@ipec.fiocruz.br
+RI Passos, Sonia/C-5292-2013
+OI Passos, Sonia/0000-0001-9947-2291
+CR Alves MGD, 2004, REV SAUDE PUBL, V38, P164, DOI 10.1590/s0034-89102004000200003
+   Brisson C, 1998, WORK STRESS, V12, P322, DOI 10.1080/02678379808256870
+   Brisson C, 2001, CAN J PUBLIC HEALTH, V92, P468, DOI 10.1007/BF03404542
+   Brown T.A., 2006, CONFIRMATORY FACTOR
+   Cheng YW, 2003, INT J BEHAV MED, V10, P15, DOI 10.1207/S15327558IJBM1001_02
+   Choi BK, 2008, SCAND J WORK ENV HEA, P22
+   de Araujo TM, 2008, SCAND J WORK ENV HEA, P52
+   Edimansyah B. A., 2006, Southeast Asian Journal of Tropical Medicine and Public Health, V37, P412
+   Efron B., 1993, INTRO BOOTSTRAP
+   Escriba-Aguir V, 2001, Gac Sanit, V15, P142
+   Eum KD, 2007, INT ARCH OCC ENV HEA, V80, P497, DOI 10.1007/s00420-006-0156-x
+   Ferrario M, 2005, Med Lav, V96, P191
+   Ferrie JE, 2008, SCAND J WORK ENV HEA, P98
+   Finney SJ, 2006, QUANT METH EDUC BEHA, P269
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Gagne P, 2006, MULTIVAR BEHAV RES, V41, P65, DOI 10.1207/s15327906mbr4101_5
+   Hair J.F., 2006, MULTIVAR DATA ANAL, P770
+   Herdman M, 1998, QUAL LIFE RES, V7, P323, DOI 10.1023/A:1024985930536
+   Ibrahim SA, 2001, WOMEN HEALTH, V33, P105, DOI 10.1300/J013v33n01_07
+   *ISCO, 1988, INT STAND CLASS OCC
+   Johnson JV, 2008, SCAND J WORK ENV HEA, P15
+   JOHNSON JV, 1988, AM J PUBLIC HEALTH, V78, P1336, DOI 10.2105/AJPH.78.10.1336
+   KARASEK R, 1981, AM J PUBLIC HEALTH, V71, P694, DOI 10.2105/AJPH.71.7.694
+   Karasek R, 1998, J Occup Health Psychol, V3, P322, DOI 10.1037/1076-8998.3.4.322
+   Karasek R., 1990, HLTH WORK STRESS PRO
+   KARASEK RA, 1979, ADMIN SCI QUART, V24, P285, DOI 10.2307/2392498
+   Karasek R, 2007, INT J BEHAV MED, V14, P189, DOI 10.1007/BF03002993
+   Kawakami N, 1996, IND HEALTH, V34, P295, DOI 10.2486/indhealth.34.295
+   Kawakami N, 1995, INT J BEHAV MED, V2, P358, DOI 10.1207/s15327558ijbm0204_5
+   Kline R. B., 2005, PRINCIPLES PRACTICE
+   Landsbergis P, 2000, OCCUP MED, V15, P163
+   Li J, 2004, IND HEALTH, V42, P260, DOI 10.2486/indhealth.42.260
+   Muthen B. O., 1998, MPLUS TECHNICAL APPE
+   Muthen BO, 1993, TESTING STRUCTURAL E, P205, DOI DOI 10.1093/sf/73.3.1161
+   Muthen LK, 1998, MPLUS USERS GUIDE
+   Niedhammer I, 2002, INT ARCH OCC ENV HEA, V75, P129, DOI 10.1007/s004200100270
+   NIEDHAMMER I, 2006, SANTE PUBLIQUE, V19, P413
+   Pelfrene E, 2001, WORK STRESS, V15, P297, DOI 10.1080/02678370110086399
+   Reichenheim ME, 2007, REV SAUDE PUBL, V41, P665, DOI 10.1590/S0034-89102006005000035
+   Sale JEM, 2002, INT ARCH OCC ENV HEA, V75, P145, DOI 10.1007/s004200100289
+   Sanne B, 2005, SCAND J PUBLIC HEALT, V33, P166, DOI 10.1080/14034940410019217
+   SCHNALL PL, 1994, ANNU REV PUBL HEALTH, V15, P381, DOI 10.1146/annurev.pu.15.050194.002121
+   Schreurs PJG, 1998, WORK STRESS, V12, P66, DOI 10.1080/02678379808256849
+   Smith CS, 1997, J ORGAN BEHAV, V18, P225, DOI 10.1002/(SICI)1099-1379(199705)18:3<225::AID-JOB797>3.0.CO;2-E
+   Stewart AL, 2000, MED CARE, V38, P102
+   Tabanelli MC, 2008, INT ARCH OCC ENV HEA, V82, P1, DOI 10.1007/s00420-008-0312-6
+   THEORELL T, 1988, SCAND J WORK ENV HEA, V14, P189, DOI 10.5271/sjweh.1932
+   Theorell Tores, 1996, P69
+   Van der Doef M, 1999, WORK STRESS, V13, P87, DOI 10.1080/026783799296084
+NR 49
+TC 25
+Z9 27
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0340-0131
+EI 1432-1246
+J9 INT ARCH OCC ENV HEA
+JI Int. Arch. Occup. Environ. Health
+PD APR
+PY 2010
+VL 83
+IS 4
+BP 407
+EP 416
+DI 10.1007/s00420-009-0488-4
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 567QI
+UT WOS:000275461300006
+PM 19941002
+DA 2020-11-24
+ER
+
+PT J
+AU de Souza, CTV
+   Hokerberg, YHM
+   Pacheco, SJB
+   Rolla, VC
+   Passos, SRL
+AF Vieira de Souza, Claudia Teresa
+   Marques Hoekerberg, Yara Hahr
+   Bedoya Pacheco, Sandro Javier
+   Rolla, Valeria Cavalcanti
+   Lambert Passos, Sonia Regina
+TI Effectiveness and safety of isoniazid chemoprophylaxis for HIV-1
+   infected patients from Rio de Janeiro
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE tuberculosis; chemoprophylaxis; isoniazid; HIV-1; clinical trial
+   (publication type); treatment outcome
+ID HIV-INFECTED PATIENTS; LATENT TUBERCULOSIS INFECTION; CALMETTE-GUERIN
+   VACCINATION; PREVENTIVE THERAPY; RISK-FACTORS; VIRUS-INFECTION;
+   DRUG-USERS; METAANALYSIS; AFRICA
+AB The clinical and epidemiological characteristics, adverse events, treatment adherence and effectiveness of isoniazid chemoprophylaxis were analyzed in a cohort of 138 tuberculosis/HIV-coinfected patients. An open, non-randomized, pragmatic prophylactic trial was conducted on adult patients with a normal chest X-ray and positive tuberculin skin test (>= 5 mm) who received isoniazid chemoprophylaxis (300 mg/day) for six months. The mean of follow up was 2.8 years (SD 1.3). Adherence to chemoprophylaxis was 87.7% (121/138). Only one patient presented tuberculosis after the end of chemoprophylaxis, corresponding to 0.3 cases per 100 persons per year. The relative risk of some adverse effects was 4.6 times higher (95% CI: 1.9-11.5) in patients with positive anti-HCV serology (4/9, 44.4%) compared to those with negative serology (12/129, 9.6%) (p = 0.002). This study provides evidence regarding the effectiveness and safety of a short and self-administered isoniazid regimen. We recommend the implementation of this routine by health service practitioners.
+C1 [Vieira de Souza, Claudia Teresa; Marques Hoekerberg, Yara Hahr; Bedoya Pacheco, Sandro Javier; Lambert Passos, Sonia Regina] Fiocruz MS, Lab Epidemiol Clin, Inst Evandro Chagas, Fundacao Oswaldo Cruz, BR-21045900 Rio De Janeiro, Brazil.
+   [Rolla, Valeria Cavalcanti] Fiocruz MS, Lab Pesquisa Clin Micobacterioses, Inst Evandro Chagas, Fundacao Oswaldo Cruz, BR-21045900 Rio De Janeiro, Brazil.
+RP de Souza, CTV (corresponding author), Fiocruz MS, Lab Epidemiol Clin, Inst Evandro Chagas, Fundacao Oswaldo Cruz, Av Brasil 4-365, BR-21045900 Rio De Janeiro, Brazil.
+EM clau@fiocruz.br
+RI Passos, Sonia/C-5292-2013
+OI Passos, Sonia/0000-0001-9947-2291
+FU PAPES 3; Fiocruz; FAPERJCarlos Chagas Filho Foundation for Research
+   Support of the State of Rio de Janeiro (FAPERJ); CRPHF
+FX Financial support: PAPES 3, Fiocruz (2002/2003), FAPERJ (2004/2005),
+   CRPHF (2004)
+CR [Anonymous], 2007, GLOB TUB CONTR SURV
+   Blumberg HM, 2005, JAMA-J AM MED ASSOC, V293, P2776, DOI 10.1001/jama.293.22.2776
+   Bucher HC, 1999, AIDS, V13, P501, DOI 10.1097/00002030-199903110-00009
+   Casado JL, 2002, CLIN INFECT DIS, V34, P386, DOI 10.1086/324746
+   *CDCP AM THOR SOC, 2000, AM J RESP CRIT CARE, V161, pS221
+   Centers for Disease Control and Prevention (CDC), 2003, MMWR Morb Mortal Wkly Rep, V52, P735
+   Churchyard GJ, 2003, AIDS, V17, P2063, DOI 10.1097/00002030-200309260-00007
+   de Pinho AMF, 2001, AIDS, V15, P2129, DOI 10.1097/00002030-200111090-00008
+   Elzi L, 2007, CLIN INFECT DIS, V44, P1016
+   Golub JE, 2007, AIDS, V21, P1441, DOI 10.1097/QAD.0b013e328216f441
+   Gourevitch MN, 1999, AIDS, V13, P2069, DOI 10.1097/00002030-199910220-00009
+   Grant AD, 2005, JAMA-J AM MED ASSOC, V293, P2719, DOI 10.1001/jama.293.22.2719
+   Hiransuthikul N, 2005, INT J TUBERC LUNG D, V9, P270
+   Kann Laura, 1996, Morbidity and Mortality Weekly Report, V45, P1
+   Last J., 2001, DICT EPIDEMIOLOGY
+   Lienhardt C, 2003, AM J RESP CRIT CARE, V168, P448, DOI 10.1164/rccm.200212-1483OC
+   Moulton LH, 2007, CLIN TRIALS, V4, P190, DOI 10.1177/1740774507076937
+   *MS, 2007, REC TER ANT AD AD IN
+   Neuenschwander BE, 2002, AM J EPIDEMIOL, V155, P654, DOI 10.1093/aje/155.7.654
+   Rivero A, 2007, ENFERM INFEC MICR CL, V25, P305, DOI 10.1157/13102265
+   Sadaphal P, 2001, CLIN INFECT DIS, V33, P1687, DOI 10.1086/323896
+   San Sebastian M, 2000, RESP MED, V94, P648, DOI 10.1053/rmed.1999.0877
+   Santoro-Lopes G, 2002, CLIN INFECT DIS, V34, P543, DOI 10.1086/338641
+   Szakacs TA, 2006, BMC INFECT DIS, V6, DOI 10.1186/1471-2334-6-97
+   Tissot F, 2005, CLIN INFECT DIS, V40, P211, DOI 10.1086/426434
+   Toledo ACD, 2000, MEM I OSWALDO CRUZ, V95, P437, DOI 10.1590/S0074-02762000000400001
+   Volmink J, 2007, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD003510.pub2
+   Wang L, 2002, THORAX, V57, P804, DOI 10.1136/thorax.57.9.804
+   Whalen CC, 2005, JAMA-J AM MED ASSOC, V293, P2785, DOI 10.1001/jama.293.22.2785
+   Woldehanna S, 2004, COCHRANE DB SYST REV, DOI [10.1002/14651858.CD000171.pub2, DOI 10.1002/14651858.CD000171.PUB2]
+NR 30
+TC 15
+Z9 16
+U1 0
+U2 2
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD MAY
+PY 2009
+VL 104
+IS 3
+BP 462
+EP 467
+DI 10.1590/S0074-02762009000300011
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 462EX
+UT WOS:000267332000011
+PM 19547873
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Passos, SRL
+   Bedoya, SJ
+   Hokerberg, YHM
+   Maia, SC
+   Georg, I
+   Nogueira, RMR
+   Souza, RV
+   Marzochi, KBF
+AF Passos, S. R. L.
+   Bedoya, S. J.
+   Hoekerberg, Y. H. M.
+   Maia, S. C.
+   Georg, I.
+   Nogueira, R. M. R.
+   Souza, R. V.
+   Marzochi, K. B. F.
+TI Clinical and Laboratory Signs as Dengue Markers During an Outbreak in
+   Rio de Janeiro
+SO INFECTION
+LA English
+DT Article
+ID HEMORRHAGIC-FEVER; BRAZIL; SURVEILLANCE; INFECTION; EPIDEMIC;
+   CIRCULATION
+AB One of the main challenges for clinical research in dengue is the low validity of clinical diagnosis.
+   To analyze clinical and laboratory data as predicitve factors of dengue diagnosis at Evandro Chagas Clinical Research Institute, Oswaldo Cruz Foundation, during the 2001-2002 dengue outbreak in Rio de Janeiro.
+   Cross sectional study comparing clinical laboratory data collected from the National Information System for Compulsory Notification Diseases (SINAN) in two serologically confirmed groups: dengue D (N = 453) and non-dengue ND (N = 80).
+   Fever, exanthema, itching, mean platelet count < 150,000, WBC count < 4,000 and absence of vomiting and of abdominal pain help to distinguish D from ND groups. When considered individually, these signs and symptoms enhance diagnostic sensitivity and, when used in combination, improve specificity.
+   A combination of symptoms not necessarily considered indicative of dengue diagnosis could improve surveillance and medical decision-making in simple clinical settings.
+C1 [Passos, S. R. L.; Bedoya, S. J.; Hoekerberg, Y. H. M.; Maia, S. C.; Georg, I.; Nogueira, R. M. R.; Souza, R. V.; Marzochi, K. B. F.] Evandro Chagas Clin Res Inst, Clin Epidemiol Lab, BR-21045900 Rio De Janeiro, Brazil.
+RP Passos, SRL (corresponding author), Evandro Chagas Clin Res Inst, Clin Epidemiol Lab, Av Brasil 4365 Manguinhos, BR-21045900 Rio De Janeiro, Brazil.
+EM sonialambert@ipec.fiocruz.br
+RI Passos, Sonia/C-5292-2013
+OI Passos, Sonia/0000-0001-9947-2291
+FU Oswaldo Cruz Foundation [RDCL05]
+FX This work was supported by grants from the Oswaldo Cruz Foundation (
+   PDTSP, number RDCL05).
+CR Bandyopadhyay S, 2006, TROP MED INT HEALTH, V11, P1238, DOI 10.1111/j.1365-3156.2006.01678.x
+   Barbosa da Silva Jarbas Jr, 2002, Epidemiol Bull, V23, P3
+   Bossuyt PM, 2003, BRIT MED J, V326, P41, DOI 10.1136/bmj.326.7379.41
+   BRASIL MS, 2002, GUIA VIGILANCIA EPID, P201
+   CALISHER CH, 1989, J GEN VIROL, V70, P37, DOI 10.1099/0022-1317-70-1-37
+   Casali Clarisse Guimarães, 2004, Rev. Soc. Bras. Med. Trop., V37, P296, DOI 10.1590/S0037-86822004000400002
+   De Simone TS, 2004, T ROY SOC TROP MED H, V98, P553, DOI 10.1016/j.trstmh.2003.09.003
+   Díaz Fredi Alexander, 2006, Biomédica, V26, P22
+   DIETZ VJ, 1990, AM J EPIDEMIOL, V131, P693
+   Gibbons RV, 2002, BRIT MED J, V324, P1563, DOI 10.1136/bmj.324.7353.1563
+   GUBLER DJ, 1984, AM J TROP MED HYG, V33, P158, DOI 10.4269/ajtmh.1984.33.158
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   Guzman MG, 2002, LANCET INFECT DIS, V2, P33, DOI 10.1016/S1473-3099(01)00171-2
+   Phuong HL, 2006, BMC INFECT DIS, V6, DOI 10.1186/1471-2334-6-123
+   Hudson CP, 1997, INT J STD AIDS, V8, P393, DOI 10.1258/0956462971920325
+   Kuno Goro, 2003, Adv Virus Res, V61, P3, DOI 10.1016/S0065-3527(03)61001-8
+   Low JGH, 2006, ANN ACAD MED SINGAP, V35, P783
+   MARTINEZ RA, 2004, BIOMEDICA, V25, P412
+   Martinez-Vega RA, 2006, REV MED CHILE, V134, P1153, DOI 10.4067/S0034-98872006000900010
+   MARZOCHI KBF, 2004, REV SOC BRAS MED TRO, V375, P413
+   Nogueira RMR, 2005, EMERG INFECT DIS, V11, P1376
+   Nunes-Araujo FRF, 2003, ANN TROP MED PARASIT, V97, P415, DOI 10.1179/000349803235002263
+   Passos Maíla Naves Pereira, 2004, Rev. Soc. Bras. Med. Trop., V37, P293, DOI 10.1590/S0037-86822004000400001
+   Siqueira JB, 2004, AM J TROP MED HYG, V71, P646, DOI 10.4269/ajtmh.2004.71.646
+   Teixeira MD, 2002, TROP MED INT HEALTH, V7, P757, DOI 10.1046/j.1365-3156.2002.00930.x
+   Telles EE, 2002, ETHNIC RACIAL STUD, V25, P415, DOI 10.1080/01419870252932133
+   Torres EM, 2006, REV PANAM SALUD PUBL, V20, P60, DOI 10.1590/S1020-49892006000700013
+   Travassos Claudia, 2004, Cad. Saúde Pública, V20, P660, DOI 10.1590/S0102-311X2004000300003
+   Vasconcelos PFC, 1998, REV SAUDE PUBL, V32, P447, DOI 10.1590/S0034-89101998000500007
+   World Health Organization, 1997, DENG HAEM FEV DIAGN
+NR 30
+TC 8
+Z9 10
+U1 0
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0300-8126
+EI 1439-0973
+J9 INFECTION
+JI Infection
+PD DEC
+PY 2008
+VL 36
+IS 6
+BP 570
+EP 574
+DI 10.1007/s15010-008-7334-6
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA 397YI
+UT WOS:000262697900011
+PM 19020803
+DA 2020-11-24
+ER
+
+EF

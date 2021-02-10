@@ -1,0 +1,3696 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Baehre, E
+   Diniz, D
+AF Baehre, Erik
+   Diniz, Debora
+TI Women's rights and misogyny in Brazil An interview with Debora Diniz
+SO ANTHROPOLOGY TODAY
+LA English
+DT Editorial Material
+AB In 2018 anthropologist and feminist Debora Diniz appeared as an expert witness in a Supreme Court hearing that addressed decriminalizing abortion. After receiving death threats, she was placed under police protection and forced to go into hiding. The police discovered that a right-wing extremist gang plotted an attack against her, and Diniz had to go into exile abroad, a fate she shares with several other academics working on women's rights and economic and racial inequalities. In this interview, Diniz reflects on the Brazilian political climate and its consequences for academics, freedom, women's rights and healthcare.
+C1 [Baehre, Erik] Leiden Univ, Inst Cultural Anthropol & Dev Sociol, Leiden, Netherlands.
+   [Diniz, Debora] Univ Brasilia, Brasilia, DF, Brazil.
+   [Diniz, Debora] Anis Inst Bioet, Brasilia, DF, Brazil.
+RP Baehre, E (corresponding author), Leiden Univ, Inst Cultural Anthropol & Dev Sociol, Leiden, Netherlands.
+EM ebaehre@fsw.leidenuniv.nl
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Anis - Institute of Bioethics, 2019, AB WHY IS DECR NEC A
+   CPJ, 2019, BRAZ OUTL AZMINA FAC
+   Diniz D., 2014, DIREITO UNB REV DIRE, V1, P161
+   Diniz D., 2017, ZIKA BRAZILIAN BACKL
+   Diniz D, 2017, CIENC SAUDE COLETIVA, V22, P653, DOI 10.1590/1413-81232017222.23812016
+   Fischer M., 2019, NY TIMES
+   KOBBEN AJF, 1999, ONWELKOME BOODSCHAP
+   Scholars at Risk, 2019, FREE THINK
+   The Guardian, 2019, GUARDIAN
+NR 9
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0268-540X
+EI 1467-8322
+J9 ANTHROPOL TODAY
+JI Anthropol. Today
+PD APR
+PY 2020
+VL 36
+IS 2
+BP 17
+EP 20
+DI 10.1111/1467-8322.12563
+PG 4
+WC Anthropology
+SC Anthropology
+GA KZ0VJ
+UT WOS:000522989400005
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Ali, M
+   Ambrogi, I
+   Brito, L
+AF Diniz, Debora
+   Ali, Moazzam
+   Ambrogi, Ilana
+   Brito, Luciana
+TI Understanding sexual and reproductive health needs of young women living
+   in Zika affected regions: a qualitative study in northeastern Brazil
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Zika virus; Sexual and reproductive health; Public health; Young women;
+   Brazil
+ID PREGNANCY
+AB Background In 2016, the World Health Organization declared a Public Health Emergency of International Concern due to Zika's association with microcephaly and other neurological disorders. Brazil was the epicenter of this epidemic and the most affected region has the lowest Human Development Index and the highest rates of adolescent pregnancy. Despite the end of the epidemic, Brazil continues to be the epicenter of Zika illness. This study examined the barriers faced by young women who seek sexual and reproductive health (SRH) care services living in affected areas and their attitudes towards SRH needs and the available services. Methods Individual semi-structured interviews were conducted with 22 young women, aged 14-24 years in three Zika affected municipalities in the Brazilian Northeast. This qualitative research used thematic analysis for data analysis. Results Almost half (n = 10) of the participants had their first pregnancy during adolescence (from 12 to 19), all of which were unintended. Lack of information and barriers to access family planning were found to contribute to the unmet need for contraception. Participants reported knowledge gaps about contraception. Zika was not considered a health concern and participants were unaware of the possibility of Zika's sexual transmission. Conclusions The young women's knowledge and attitudes towards their SRH needs highlight the barriers to access care. It also implies that comprehensive, biopsychosocial and political, understanding is necessary in order to adequately provide SRH to this population and meet their needs. The government should place women at the center of any public health response to an emergency affecting women of reproductive age and focus on improving access to information and family planning services in a culturally and age appropriate manner.
+C1 [Diniz, Debora] IPPF WHR, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+   [Ali, Moazzam] World Hlth Org, Dept Reprod Hlth & Res RHR, Ave Appia 20, CH-1211 Geneva 27, Switzerland.
+   [Ambrogi, Ilana] Anis Inst Bioeth, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+   [Brito, Luciana] Anis Inst Bioeth, Res, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+RP Ali, M (corresponding author), World Hlth Org, Dept Reprod Hlth & Res RHR, Ave Appia 20, CH-1211 Geneva 27, Switzerland.; Brito, L (corresponding author), Anis Inst Bioeth, Res, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+EM alimoa@who.int; l.brito@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569; Brito, Luciana/0000-0001-8752-2386
+FU  [5149]
+FX The study is funded by Large Anonymous Donor under the Grant ID 5149 for
+   Women, Communities, and Health Systems in the Context of Zika. The
+   funding sources did not play a role in the study design, in the writing
+   of the report, or in the decision to submit the article for publication.
+CR [Anonymous], 2016, PROTOCOLOS ATENCAO B
+   Bahamondes L, 2017, HUM REPROD, V32, P88, DOI 10.1093/humrep/dew310
+   Braun V., 2006, QUALITATIVE RES PSYC, V3, DOI [10.1191/1478088706qp063oa, DOI 10.1191/1478088706qp063oa, https://doi.org/10.1191/1478088706qp063oa]
+   Castro MC, 2018, P NATL ACAD SCI USA, V115, P6177, DOI 10.1073/pnas.1718476115
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Conroy KN, 2016, J PEDIATR ADOL GYNEC, V29, P312, DOI 10.1016/j.jpag.2015.12.003
+   Corbin J., 2008, BASICS QUALITATIVE R
+   Crosby RA, 2002, AM J OBSTET GYNECOL, V186, P251, DOI 10.1067/mob.2002.120081
+   Curtis Siân L., 2012, Rev. bras. estud. popul., V29, P191, DOI 10.1590/S0102-30982012000100012
+   Diniz D, 2017, ZIKA BRAZIL WOMEN CH
+   Diniz D, 2017, DEV WORLD BIOETH, V17, P142, DOI 10.1111/dewb.12175
+   Diniz D, 2017, INT J GYNECOL OBSTET, V136, P105, DOI 10.1002/ijgo.12018
+   Farias MR, 2016, REV SAUDE PUBL, V50, DOI [10.1590/S1518-8787.2016050006176, 10.1590/s1518-8787.2016050006176]
+   Goodman M, 2017, AM J OBSTET GYNECOL, V216, DOI 10.1016/j.ajog.2016.12.015
+   Grace KT, 2018, TRAUMA VIOLENCE ABUS, V19, P371, DOI 10.1177/1524838016663935
+   Guttmacher Institute, 2016, COSTS BEN M CONTR NE, V19
+   Hadley A, 2016, J ADOLESCENT HEALTH, V59, P68, DOI 10.1016/j.jadohealth.2016.03.023
+   Le HH, 2014, INT J WOMENS HEALTH, V6, P663, DOI 10.2147/IJWH.S61543
+   Liang ELM, 2013, ADOLESCENT PREGNANCY
+   Makuch MY, 2011, CONTRACEPTION, V84, P622, DOI 10.1016/j.contraception.2011.03.010
+   Marteleto LJ, 2017, POPUL DEV REV, V43, P199, DOI 10.1111/padr.12074
+   Ministerio da Saude, SINASC SIST INF NASC
+   Ministerio da Saude, 2009, PESQ NAC DEM SAUD CR
+   Ministerio da Saude. Secretaria de Vigilancia em Saude, 2019, B EP, V50
+   Ministerio da Saude. Secretaria de Vigilancia em Saude, 2016, SECR VIG SAUD PROTOC
+   Ministerio da Saude. Secretaria de Vigilancia em Saude, 2019, B EP, V50
+   O'Connell C, 2019, INT J GYNECOL OBSTET, V144, P116, DOI 10.1002/ijgo.12693
+   Oringanje C, 2016, COCHRANE DB SYST REV, V2, DOI 10.1002/14651858.CD005215.pub3
+   de Leon RGP, 2019, LANCET GLOB HEALTH, V7, pE227, DOI 10.1016/S2214-109X(18)30481-9
+   Potter JE, 2010, POPUL DEV REV, V36, P283, DOI 10.1111/j.1728-4457.2010.00330.x
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Russo JA, 2013, J ADOLESCENT HEALTH, V52, pS14, DOI 10.1016/j.jadohealth.2013.02.003
+   Schuck-Paim C, 2016, PLOS CURR, DOI [10.1371/currents.outbreaks.7038a6813f734c1db547240c2a0ba291, DOI 10.1371/CURRENTS.0UTBREAKS.7038A6813F734C1DB547240C2A0BA291]
+   Sedgh G, 2016, UNMET NEED CONTRACEP, V115, P6177
+   Sheeder J, 2010, J PEDIATR ADOL GYNEC, V23, P86, DOI 10.1016/j.jpag.2009.06.002
+   Theme-Filha MM, 2016, REPROD HEALTH, V13, DOI 10.1186/s12978-016-0227-8
+   UNFPA, 2017, SIT POP MUND 2017
+   World Health Organization Fifth Meeting of the Emergency Committee under the International Health Regulations, 2005, 5 M EM COMM INT HLTH
+NR 38
+TC 0
+Z9 0
+U1 0
+U2 1
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD FEB 6
+PY 2020
+VL 17
+IS 1
+AR 22
+DI 10.1186/s12978-020-0869-4
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA KJ3YP
+UT WOS:000511995400001
+PM 32028969
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Carino, G
+   Diniz, D
+AF Carino, Giselle
+   Diniz, Debora
+TI Deforestation and Brazil's Indigenous population
+SO LANCET
+LA English
+DT Letter
+C1 [Carino, Giselle; Diniz, Debora] Int Planned Parenthood Western Hemisphere Reg, New York, NY 10028 USA.
+RP Diniz, D (corresponding author), Int Planned Parenthood Western Hemisphere Reg, New York, NY 10028 USA.
+EM ddiniz@ippfwhr.org
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Poirier C., 2019, INDIGENOUS WOMEN MOB
+   Rao N, 2019, CLIM DEV, V11, P14, DOI 10.1080/17565529.2017.1372266
+   Zimmermann TR., 2015, ESPACO AMERINDIO, V9, P105
+NR 3
+TC 4
+Z9 4
+U1 2
+U2 4
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD DEC 21
+PY 2019
+VL 394
+IS 10216
+BP 2241
+EP 2241
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA JX5QC
+UT WOS:000503788300025
+PM 31868629
+OA Bronze
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Enlarging bioethics imagination in humanitarian settings
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Acosta L. J., 2019, REUTERS
+   Albaladejo A, 2018, BMJ-BRIT MED J, V360, DOI 10.1136/bmj.k1197
+   [Anonymous], 2018, LANCET, V391, P1331, DOI 10.1016/S0140-6736(16)00277-4
+   [Anonymous], 2019, WASHINGTON POST
+   Garcia J, 2019, LANCET GLOB HEALTH, V7, pE331, DOI 10.1016/S2214-109X(18)30479-0
+   Human Rights Council, 2019, HUM RIGHTS BOL REP V
+   Hunt Matthew, 2014, PLoS Curr, V6, DOI 10.1371/currents.dis.8b3c24217d80f3975618fc9d9228a144
+   Hutchinson A, 2017, CONFL HEALTH, V11, DOI 10.1186/s13031-017-0117-x
+   Kislinger L., 2019, MUJERES LIMITE
+   O'Mathuna D, 2017, LANCET, V390, P2228, DOI 10.1016/S0140-6736(17)31276-X
+   Page KR, 2019, LANCET, V393, P1254, DOI 10.1016/S0140-6736(19)30344-7
+   Pan American Health Organization and World Health Organization, 2016, ZIK EP REP VEN BOL R
+   Profamilia and International Planned Parenthood Federation, 2019, EV UNM SEX REPR HLTH
+   Schopper D, 2015, BMC MED ETHICS, V16, DOI 10.1186/s12910-015-0002-3
+   Schuklenk U, 2014, DEV WORLD BIOETH, V14, pII, DOI 10.1111/dewb.12073
+   Zulver J., 2019, WASHINGTON POST
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD SEP
+PY 2019
+VL 19
+IS 3
+BP 124
+EP 125
+DI 10.1111/dewb.12243
+PG 2
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA IU6ON
+UT WOS:000483705700001
+PM 31475429
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Brito, L
+   Ambrogi, I
+   Tavares, AB
+   Ali, M
+AF Diniz, Debora
+   Brito, Luciana
+   Ambrogi, Ilana
+   Tavares, Adriano Bueno
+   Ali, Moazzam
+TI Understanding the sexual and reproductive health needs in Brazil's
+   Zika-affected region: placing women at the center of the discussion
+SO INTERNATIONAL JOURNAL OF GYNECOLOGY & OBSTETRICS
+LA English
+DT Article
+DE Brazil; Public Health; Sexual and Reproductive health; Unmet needs;
+   Young women; Zika virus
+AB Zika is no longer high on the public health agenda. There is a lack of information about Zika infection transmission, prevention, and its effects in Brazil.
+C1 [Diniz, Debora] Univ Brasilia, Law Sch Fac, Brasilia, DF, Brazil.
+   [Diniz, Debora] Int Planned Parenthood Federat, New York, NY USA.
+   [Brito, Luciana; Ambrogi, Ilana] Anis Inst Bioeth, Brasilia, DF, Brazil.
+   [Tavares, Adriano Bueno; Ali, Moazzam] WHO, Dept Reprod Hlth & Res RHR, Geneva, Switzerland.
+RP Diniz, D (corresponding author), Anis Inst Bioeth, Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+FU  [5149]
+FX The authors would like to acknowledge and thank all the young women who
+   spared their time in sharing their experiences on sexual and
+   reproductive health issues. This study was funded by a large anonymous
+   donor under the Grant ID 5149 for Women, Communities, and Health Systems
+   in the Context of Zika. The funding sources did not play a role in the
+   study design, in the writing of the report, nor in the decision to
+   submit the article for publication. This report contains the collective
+   views of an international group of experts and does not necessarily
+   represent the decisions or the stated policy of WHO.
+CR Bahamondes L, 2017, HUM REPROD, V32, P88, DOI 10.1093/humrep/dew310
+   Brady OJ, 2019, PLOS MED, V16, DOI 10.1371/journal.pmed.1002755
+   Castro MC, 2018, P NATL ACAD SCI USA, V115, P6177, DOI 10.1073/pnas.1718476115
+   desOliveira WK, 2017, LANCET, V390, P861
+   Diniz D, 2017, ZIKA BRAZIL WOMEN CH
+   Diniz D, 2017, INT J GYNECOL OBSTET, V136, P105, DOI 10.1002/ijgo.12018
+   Diniz D, 2017, CIENC SAUDE COLETIVA, V22, P653, DOI 10.1590/1413-81232017222.23812016
+   Farias MR, 2016, REV SAUDE PUBL, V50, DOI [10.1590/S1518-8787.2016050006176, 10.1590/s1518-8787.2016050006176]
+   IPEA Brazil, 2016, DES HUM NAS MACR BRA
+   Martines RB, 2016, LANCET, V388, P898, DOI 10.1016/S0140-6736(16)30883-2
+   Miller A, 2019, ZIKA BRAZILIAN SUPRE
+   Ministry of Health Brazil, 2017, OR INT VIG AT SAUD A
+   Ministry of Health Brazil, 2019, MIN HLTH EP B, V50
+   Ministry of Health Brazil, 2019, EPIDEMIOLOGICAL B, V50
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0020-7292
+EI 1879-3479
+J9 INT J GYNECOL OBSTET
+JI Int. J. Gynecol. Obstet.
+PD NOV
+PY 2019
+VL 147
+IS 2
+BP 268
+EP 270
+DI 10.1002/ijgo.12924
+EA AUG 2019
+PG 3
+WC Obstetrics & Gynecology
+SC Obstetrics & Gynecology
+GA JB1SF
+UT WOS:000479484800001
+PM 31314905
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Bioethics and empirical evidence
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+ID CHINA; MISTRUST; TRUST
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Chan CSC, 2018, DEV WORLD BIOETH, V18, P16, DOI 10.1111/dewb.12162
+   Den Hollander GC, 2018, DEV WORLD BIOETH, V18, P68, DOI 10.1111/dewb.12132
+   Diniz D., 2015, DEV WORLD BIOETH, V15, piii
+   Etheredge H, 2018, DEV WORLD BIOETH, V18, P119, DOI 10.1111/dewb.12154
+   Nie JB, 2018, DEV WORLD BIOETH, V18, P26, DOI 10.1111/dewb.12170
+   Pratt B, 2018, DEV WORLD BIOETH, V18, P76, DOI 10.1111/dewb.12136
+   Zhu W, 2018, DEV WORLD BIOETH, V18, P37, DOI 10.1111/dewb.12152
+   Zou X, 2018, DEV WORLD BIOETH, V18, P45, DOI 10.1111/dewb.12164
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD MAR
+PY 2019
+VL 19
+IS 1
+BP 2
+EP 2
+DI 10.1111/dewb.12221
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA HP7KB
+UT WOS:000461865700001
+PM 30891927
+DA 2020-12-09
+ER
+
+PT J
+AU Biehl, J
+   Socal, MP
+   Gauri, V
+   Diniz, D
+   Medeiros, M
+   Rondon, G
+   Amon, JJ
+AF Biehl, Joao
+   Socal, Mariana P.
+   Gauri, Varun
+   Diniz, Debora
+   Medeiros, Marcelo
+   Rondon, Gabriela
+   Amon, Joseph J.
+TI Judicialization 2.0: Understanding right-to-health litigation in real
+   time
+SO GLOBAL PUBLIC HEALTH
+LA English
+DT Article
+DE Right-to-health litigation; judicialization studies; open access data
+   and participatory research; universal health coverage; Latin America
+ID RIO-DE-JANEIRO; LAWSUITS; MEDICINES; STATE; ACCESS; BRAZIL; COURT
+AB Over the past two decades, debate over the whys, the hows, and the effects of the ever-expanding phenomenon of right-to-health litigation (judicialization') throughout Latin America have been marked by polarised arguments and limited information. In contrast to claims of judicialization as a positive or negative trend, less attention has been paid to ways to better understand the phenomenon in real time. In this article, we propose a new approachJudicialization 2.0that recognises judicialization as an integral part of democratic life. This approach seeks to expand access to information about litigation on access to medicines (and health care generally) in order to better characterise the complexity of the phenomenon and thus inform new research and more robust public discussions. Drawing from our multi-disciplinary perspectives and field experiences in highly judicialized contexts, we thus describe a new multi-source, multi-stakeholder mixed-method approach designed to capture the patterns and heterogeneity of judicialization and understand its medical and socio-political impact in real time, along with its counterfactuals. By facilitating greater data availability and open access, we can drive advancements towards transparent and participatory priority setting, as well as accountability mechanisms that promote quality universal health coverage.
+C1 [Biehl, Joao] Princeton Univ, Dept Anthropol, Princeton, NJ 08544 USA.
+   [Biehl, Joao; Amon, Joseph J.] Princeton Univ, Woodrow Wilson Sch Publ & Int Affairs, Princeton, NJ 08544 USA.
+   [Socal, Mariana P.] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Hlth Policy & Management, Baltimore, MD USA.
+   [Gauri, Varun] World Bank, Dev Res Grp, 1818 H St NW, Washington, DC 20433 USA.
+   [Gauri, Varun] World Bank, Mind Behav & Dev Unit, 1818 H St NW, Washington, DC 20433 USA.
+   [Diniz, Debora; Rondon, Gabriela] Univ Brasilia, Law Sch, Brasilia, DF, Brazil.
+   [Diniz, Debora; Rondon, Gabriela] ANIS Inst Bioeth Human Rights & Gender, Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] Univ Brasilia, Dept Sociol, Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] IPEA Inst Appl Econ Res, Brasilia, DF, Brazil.
+RP Biehl, J (corresponding author), Princeton Univ, Dept Anthropol, Princeton, NJ 08544 USA.; Biehl, J (corresponding author), Princeton Univ, Woodrow Wilson Sch Publ & Int Affairs, Princeton, NJ 08544 USA.
+EM jbiehl@princeton.edu
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR [Anonymous], 2017, IN APR COL DER SAL C
+   Azevedo S., 2007, REV EPOCA       1212
+   Biehl J, 2013, PEOPLE COME 1 CRITIC
+   Biehl J, 2016, HEALTH HUM RIGHTS, V18, P269
+   Biehl J, 2016, HEALTH HUM RIGHTS, V18, P209
+   Biehl J, 2012, HEALTH HUM RIGHTS, V14, P36
+   Biehl J, 2009, LANCET, V373, P2182, DOI 10.1016/S0140-6736(09)61172-7
+   Borges DDL, 2010, CAD SAUDE PUBLICA, V26, P59, DOI 10.1590/S0102-311X2010000100007
+   Brinks DM, 2014, PERSPECT POLIT, V12, P375, DOI 10.1017/S1537592714000887
+   Neto OHC, 2012, REV SAUDE PUBL, V46, P784, DOI [10.1590/S0034-89102012000500004, 10.1590/s0034-89102012000500004]
+   Chieffi AL, 2009, CAD SAUDE PUBLICA, V25, P1839, DOI 10.1590/S0102-311X2009000800020
+   DASILVA VA, 2008, CLAIMING RIGHT HLTH
+   Diniz D., 2017, BRAZILIAN BACKLANDS
+   Diniz D, 2014, CIENC SAUDE COLETIVA, V19, P591, DOI 10.1590/1413-81232014192.23072012
+   Dittrich R, 2016, HEALTH SYST REFORM, V2, P23, DOI 10.1080/23288604.2016.1124167
+   Pepe VLE, 2010, CAD SAUDE PUBLICA, V26, P461, DOI 10.1590/S0102-311X2010000300004
+   Ferraz Octavio Luiz Motta, 2009, Health Hum Rights, V11, P33
+   Gauri V, 2015, J POLIT, V77, P774, DOI 10.1086/681260
+   Gauri V, 2012, J POLIT PHILOS, V20, P407, DOI 10.1111/j.1467-9760.2012.00421.x
+   Gloppen Siri, 2008, Health Hum Rights, V10, P21
+   Hirschman A. O., 1998, CROSSING BORDERS SEL
+   Ventura DDL, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00033316
+   Messeder Ana Márcia, 2005, Cad. Saúde Pública, V21, P525, DOI 10.1590/S0102-311X2005000200019
+   Open Society Justice Initiative, 2009, REP ACC JUD INF
+   Pereira JR, 2010, CIENC SAUDE COLETIVA, V15, P3551, DOI 10.1590/S1413-81232010000900030
+   Reos Partners, 2013, WORLD BANK IN PROM R
+   Reveiz L, 2013, REV PANAM SALUD PUBL, V33, P213, DOI 10.1590/S1020-49892013000300008
+   United Nations General Assembly, 1966, INT COV CIV POL RIGH
+   United Nations General Assembly, 1976, INT COV EC SOC CULT
+   Vasconcellos J., 2015, PRATICA MEDIACAO ADO
+   Vieira Fabiola Sulpino, 2007, Rev. Saúde Pública, V41, P214, DOI [10.1590/S0034-89102007000200007, 10.1590/s0034-89102007000200007]
+   WANG Daniel W. Liang, 2013, SUR, V10, P159, DOI 10.2139/ssrn.2401199.
+   Wates J, 2005, J EUR ENVIRON PLAN L, V2, P2
+   Yamin Alicia, 2011, LITIGATING HLTH RIGH
+   Yamin AE, 2009, PLOS MED, V6, P147, DOI 10.1371/journal.pmed.1000032
+NR 35
+TC 5
+Z9 5
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1744-1692
+EI 1744-1706
+J9 GLOB PUBLIC HEALTH
+JI Glob. Public Health
+PY 2019
+VL 14
+IS 2
+BP 190
+EP 199
+DI 10.1080/17441692.2018.1474483
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HI3YN
+UT WOS:000456387700003
+PM 29781395
+OA Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Bioethicists under threat
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+ID ABORTION
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Amnesty International, 2018, AMN INT REP 2017 18
+   Diniz D, 2017, CIENC SAUDE COLETIVA, V22, P653, DOI 10.1590/1413-81232017222.23812016
+   Giubilini A, 2012, J MED ETHICS BL 0302
+   Giubilini A, 2013, J MED ETHICS, V39, P261, DOI 10.1136/medethics-2011-100411
+   GREER SL, 2017, BMJ-BRIT MED J, V356, DOI DOI 10.1136/BMJ.J511
+   Malkin E., 2018, NY TIMES
+   Phillips Dom., 2018, GUARDIAN
+   Savulescu J., 2012, J MED ETHICS BLOG
+   Schuklenk U, 2013, J MED ETHICS, V39, P303, DOI 10.1136/medethics-2012-100801
+   Singh S, 2018, ABORTION WORLDWIDE 2
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD DEC
+PY 2018
+VL 18
+IS 4
+BP 309
+EP 309
+DI 10.1111/dewb.12212
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA HE7FQ
+UT WOS:000453595900001
+PM 30548919
+OA Bronze
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Is there an end to an epidemic?
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD JUN
+PY 2018
+VL 18
+IS 2
+BP 67
+EP 67
+DI 10.1111/dewb.12195
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA GI2RC
+UT WOS:000434218300001
+PM 29864249
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Ambrogi, I
+AF Diniz, Debora
+   Ambrogi, Ilana
+TI Research ethics and the Zika legacy in Brazil
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+C1 [Diniz, Debora] Univ Brasilia, Fac Law, Brasilia, DF, Brazil.
+   [Ambrogi, Ilana] Fundacao Oswaldo Cruz, Brasilia, DF, Brazil.
+   [Ambrogi, Ilana] Anis Inst Bioeth, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Fac Law, Brasilia, DF, Brazil.
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Diniz D., 2017, ZIKA BRAZILIAN BACKL
+   Diniz Debora, ZIKA BRAZIL WOMEN CH
+   Schuklenk U., 2014, WILEY ONLINE LIB, V14, pii
+   Uruguay. Ministerio de Salud Publica. Direccion General de la Salud. Division Epidemiologia, 2017, B EPIDEMIOLOGICO
+   Ventura CV, 2016, LANCET, V387, P2502, DOI 10.1016/S0140-6736(16)30776-0
+NR 5
+TC 2
+Z9 2
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD DEC
+PY 2017
+VL 17
+IS 3
+BP 142
+EP 143
+DI 10.1111/dewb.12175
+PG 2
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA FM4HP
+UT WOS:000414975900001
+PM 29130259
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Dignity is a useful concept for bioethics
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Fassin Didier, 2006, THEOR CULT SOC, V26, P44
+   Lorey I., 2015, STATES INSECURITY GO
+   Macklin R, 2003, BRIT MED J, V327, P1419, DOI 10.1136/bmj.327.7429.1419
+   Siegel Reva B, 2008, FACULTY SCHOLARSHIP
+NR 4
+TC 2
+Z9 2
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD AUG
+PY 2017
+VL 17
+IS 2
+BP 62
+EP 62
+DI 10.1111/dewb.12151
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA FA6BW
+UT WOS:000405529300001
+PM 28707453
+DA 2020-12-09
+ER
+
+PT J
+AU Rasanathan, JJK
+   MacCarthy, S
+   Diniz, D
+   Torreele, E
+   Gruskin, S
+AF Rasanathan, Jennifer J. K.
+   MacCarthy, Sarah
+   Diniz, Debora
+   Torreele, Els
+   Gruskin, Sofia
+TI Engaging Human Rights in the Response to the Evolving Zika Virus
+   Epidemic
+SO AMERICAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID HEALTH
+AB In late 2015, an increase in the number of infants born with microcephaly in poor communities in northeast Brazil prompted investigation of antenatal Zika infection as the cause. Zika now circulates in 69 countries, and has affected pregnancies of women in 29 countries.
+   Public health officials, policymakers, and international organizations are considering interventions to address health consequences of the Zika epidemic. To date, public health responses have focused on mosquito vector eradication, sexual and reproductive health services, knowledge and technology including diagnostic test and vaccine development, and health system preparedness.
+   We summarize responses to date and apply human rights and related principles including nondiscrimination, participation, the legal and policy context, and accountability to identify shortcomings and to offer suggestions for more equitable, effective, and sustainable Zika responses.
+C1 [Rasanathan, Jennifer J. K.] Open Soc Fdn, Publ Hlth Program, New York, NY USA.
+   [MacCarthy, Sarah] RAND Corp, Santa Monica, CA USA.
+   [Diniz, Debora] Univ Brasilia, Fac Law, Brasilia, DF, Brazil.
+   [Torreele, Els] Open Soc Fdn, Publ Hlth Program, Access Med & Innovat, New York, NY USA.
+   [Gruskin, Sofia] Univ Southern Calif, Keck Sch Med, Gould Sch Law, Los Angeles, CA USA.
+   [Gruskin, Sofia] Univ Southern Calif, Program Global Hlth & Human Rights, Inst Global Hlth, Los Angeles, CA USA.
+RP Rasanathan, JJK (corresponding author), 224 W 57th St, New York, NY 10019 USA.
+EM jjkrasanathan@gmail.com
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Aiken A, 2016, BJOG
+   Aiken ARA, 2016, NEW ENGL J MED, V375, P396, DOI 10.1056/NEJMc1605389
+   [Anonymous], 2016, CDC FDN PARTN LAUNCH
+   [Anonymous], 2016, ALL WOM PREGN INF ZI
+   Bell BP, 2016, AM J PUBLIC HEALTH, V106, P589, DOI 10.2105/AJPH.2016.303124
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Brennan Hannah, 2013, HUMAN RIGHTS APPROAC
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Centers for Disease Control and Prevention, 2016, PREGN WOM LAB EV POS
+   Davies SE, 2016, INT AFF, V92, P1041, DOI 10.1111/1468-2346.12704
+   Diniz D, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00046316
+   Dye C, 2016, B WORLD HEALTH ORGAN, V94, P158, DOI 10.2471/BLT.16.170860
+   Fried ST, 2016, LANCET GLOB HLTH BLO
+   Gruskin S, 2007, LANCET, V370, P449, DOI 10.1016/S0140-6736(07)61200-8
+   Harris LH, 2016, AM J BIOETHICS, V16, P1, DOI 10.1080/15265161.2016.1177367
+   Hotez PJ, 2016, NY TIMES
+   Joint United Nations Programme on HIV/AIDS, 2015, SUST HUM RIGHTS RESP
+   Kindhauser MK, 2016, B WORLD HEALTH ORGAN, V94, P675, DOI 10.2471/BLT.16.171082
+   Maantay J, 2001, AM J PUBLIC HEALTH, V91, P1033, DOI 10.2105/AJPH.91.7.1033
+   McNeil Jr D., 2016, NY TIMES
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Mutero CM, 2015, ENVIRON HEALTH PERSP, V123, P1145, DOI 10.1289/ehp.1408748
+   Oster AM, 2016, MMWR-MORBID MORTAL W, V65, P120, DOI 10.15585/mmwr.mm6505e1
+   Programme of Action of the International Conference on Population and Development, 1994, INT C POP DEV CAIR E
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Sandy M., 2016, TIME             FEB
+   Sedgh G, 2014, STUD FAMILY PLANN, V45, P301, DOI 10.1111/j.1728-4465.2014.00393.x
+   Teixeira MG, 2016, AM J PUBLIC HEALTH, V106, P601, DOI 10.2105/AJPH.2016.303113
+   Thomas K, 2016, NY TIMES
+   Tobar G., 2016, NEWS NATL VICEMINIST
+   UN Committee on Economic Social and Cultural Rights (CESCR), 2000, GEN COMM NO 14 RIGHT
+   United Nations General Assembly, 1966, INT COV CIV POL RIGH
+   United Nations Human Rights Office of the High Commissioner, 2016, UPH WOM HUM RIGHTS E
+   Women Enabled International, 2016, TALK POINTS ZIK MICR
+   World Health Organization, ZIK VIR DIS
+   World Health Organization, PLATF TECHN R D PREP
+   World Health Organization, 2016, SIT REP ZIK VIR MICR, P1
+   Yale Law School, 2016, PET SEEKS PROT ZIK A
+NR 38
+TC 11
+Z9 11
+U1 2
+U2 8
+PU AMER PUBLIC HEALTH ASSOC INC
+PI WASHINGTON
+PA 800 I STREET, NW, WASHINGTON, DC 20001-3710 USA
+SN 0090-0036
+EI 1541-0048
+J9 AM J PUBLIC HEALTH
+JI Am. J. Public Health
+PD APR
+PY 2017
+VL 107
+IS 4
+BP 525
+EP 531
+DI 10.2105/AJPH.2017.303658
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA ER4NC
+UT WOS:000398775700024
+PM 28207337
+OA Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Medeiros, M
+   Madeiro, A
+AF Diniz, Debora
+   Medeiros, Marcelo
+   Madeiro, Alberto
+TI National Abortion Survey 2016
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Induced abortion; National Abortion Survey; Reproductive Experiences;
+   Ballot-box technique; Brazil
+ID BALLOT-BOX TECHNIQUE; BRAZIL
+AB We present the results of the Brazilian National Abortion Survey of 2016 (2016 PNA) and compare them to those obtained in the 2010 PNA as per the profile of women and the magnitude of abortion. The PNA is based on a random sample that combines ballot-box questionnaires with face-to-face interviews with women ages 18 to 39 in urban areas of Brazil. The results show that abortion is a common and persistent occurrence among women of all social classes, racial groups, educational levels, and religions: in 2016, almost 1 in every 5 women had undergone at least one abortion by the age of 40. In 2015, approximately 416,000 women had an abortion. There is, however, heterogeneity among the social groups, with abortions being more frequent among women of lower educational levels, women who are Black, Brown and Indigenous, and women living in the North, Northeastern and Mid-western regions of the country. In line with the 2010 PNA, half of all women took medicine to abort and almost half of them were hospitalized to complete the abortion.
+C1 [Diniz, Debora] Univ Brasilia, Fac Direito, Caixa Postal 8011, BR-70670973 Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] Univ Brasilia, Dept Sociol, Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Teresina, PI, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Fac Direito, Caixa Postal 8011, BR-70670973 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   IBGE- Instituto Brasileiro de Geografia e Estatisticas, 2015, PESQ NAC SAUD 2013 C
+   Lara D, 2004, SOCIOL METHOD RES, V32, P529, DOI 10.1177/0049124103262685
+   Madeiro AP, 2012, CIENC SAUDE COLETIVA, V17, P1735, DOI 10.1590/S1413-81232012000700012
+   Martins-MeloI FR, 2014, REV SAUDE PUBL, V48, P508, DOI 10.1590/S0034-8910.2014048004878
+   Medeiros M, 2012, CIENC SAUDE COLETIVA, V17, P1721, DOI 10.1590/S1413-81232012000700010
+   Monteiro M, 2006, REV SAUDE SEX REPROD, P1
+   OLINTO M, 1994, REV BRAS ESTUD POPUL, V11, P255
+   Olinto MTA, 2004, REV PANAM SALUD PUBL, V15, P331, DOI 10.1590/S1020-49892004000500008
+   Rossier C, 2003, STUD FAMILY PLANN, V34, P87, DOI 10.1111/j.1728-4465.2003.00087.x
+   Shellenberg KM, 2011, GLOB PUBLIC HEALTH, V6, pS111, DOI 10.1080/17441692.2011.594072
+   Silva R., 1993, ESTUD FEM, V1, P123
+   Singh S, 1994, INT FAMILY PLANNING, V20, P4, DOI DOI 10.2307/2133331
+   Singh S, 1991, INT FAM PLAN PERSPEC, V17, P8
+   Singh S, 2010, METHODOLOGIES ESTIMA
+   Zamudio L, 1999, ABORTION DEV WORLD, P149
+NR 17
+TC 41
+Z9 53
+U1 0
+U2 7
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2017
+VL 22
+IS 2
+BP 653
+EP 660
+DI 10.1590/1413-81232017222.23812016
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA EK8AU
+UT WOS:000394147100032
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Gumieri, S
+   Bevilacqua, BG
+   Cook, RJ
+   Dickens, BM
+AF Diniz, Debora
+   Gumieri, Sinara
+   Bevilacqua, Beatriz Galli
+   Cook, Rebecca J.
+   Dickens, Bernard M.
+TI Zika virus infection in Brazil and human rights obligations
+SO INTERNATIONAL JOURNAL OF GYNECOLOGY & OBSTETRICS
+LA English
+DT Article
+DE Children's rights; Congenital Zika virus syndrome; Disability rights;
+   Human rights; Public health; Women's rights; Zika infection
+ID HEALTH EQUITY; AMERICA
+AB The February 2016 WHO declaration that congenital Zika virus syndrome constitutes a Public Health Emergency of International Concern reacted to the outbreak of the syndrome in Brazil. Public health emergencies can justify a spectrum of human rights responses, but in Brazil, the emergency exposed prevailing inequities in the national healthcare system. The government's urging to contain the syndrome, which is associated with microcephaly among newborns, is confounded by lack of reproductive health services. Women with low incomes in particular have little access to such health services. The emergency also illuminates the harm of restrictive abortion legislation, and the potential violation of human rights regarding women's health and under the UN Conventions on the Rights of the Child and on the Rights of Persons with Disabilities. Suggestions have been proposed by which the government can remedy the widespread healthcare inequities among the national population that are instructive for other countries where congenital Zika virus syndrome is prevalent.
+C1 [Diniz, Debora] Univ Brasilia, Fac Law, Brasilia, DF, Brazil.
+   [Gumieri, Sinara] Anis Inst Bioeth, Brasilia, DF, Brazil.
+   [Bevilacqua, Beatriz Galli] Ipas, Rio De Janeiro, Brazil.
+   [Cook, Rebecca J.; Dickens, Bernard M.] Univ Toronto, Fac Med, Fac Law, Toronto, ON, Canada.
+   [Cook, Rebecca J.; Dickens, Bernard M.] Univ Toronto, Joint Ctr Bioeth, Toronto, ON, Canada.
+RP Dickens, BM (corresponding author), Univ Toronto, Fac Law, Toronto, ON, Canada.
+EM bernard.dickens@utoronto.ca
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Barreto ML, 2016, LANCET, V387, P919, DOI 10.1016/S0140-6736(16)00545-6
+   Barroso LR, 2014, PA STUD HUM RIGHTS, P258
+   Baum P, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00064416
+   Bayer R, 2004, BIOETHICS, V18, P473, DOI 10.1111/j.1467-8519.2004.00412.x
+   Boseley S, 2016, GUARDIAN
+   Braveman PA, 2011, AM J PUBLIC HEALTH, V101, pS149, DOI 10.2105/AJPH.2010.300062
+   Cao-Lormeau VM, 2016, LANCET, V387, P1531, DOI 10.1016/S0140-6736(16)00562-6
+   Chang C, 2016, J AUTOIMMUN, V68, P1, DOI 10.1016/j.jaut.2016.02.006
+   Cook Rebecca J., 2012, UN CONVENTION ELIMIN, P311
+   de Laval F, 2016, LANCET, V388, P868, DOI 10.1016/S0140-6736(16)31429-5
+   Diniz D., 2016, NY TIMES
+   Diniz D, 2016, DEV WORLD BIOETH, V16, P62, DOI 10.1111/dewb.12119
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Driggers RW, 2016, NEW ENGL J MED, V374, P2142, DOI 10.1056/NEJMoa1601824
+   Erdman JN, 2009, AM J LAW MED, V35, P365, DOI 10.1177/009885880903500207
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Galli B., 2011, U MIAMI L REV, V65, p[969, 970]
+   Haug CJ, 2016, NEW ENGL J MED, V374, P1801, DOI 10.1056/NEJMp1603734
+   Heukelbach J, 2016, LANCET, V388, P846, DOI 10.1016/S0140-6736(16)30931-X
+   Jenkins A., 1961, LAW RICH PLEA REFORM
+   Langer A, 2016, STUD FAMILY PLANN, V47, P179, DOI 10.1111/j.1728-4465.2016.00058.x
+   Lopes da Costa A., 2013, SUR, V19, P175
+   Maisonnave F., 2016, FOLHA SAO PAULO 0912
+   Maurice J, 2016, LANCET, V388, P449, DOI 10.1016/S0140-6736(16)31207-7
+   Maurice J, 2016, LANCET, V387, P733, DOI 10.1016/S0140-6736(16)00390-1
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Selgelid MJ, 2011, GLOBAL HEALTH AND GLOBAL HEALTH ETHICS, P89
+   Sun L., 2016, WASHINGTON POST
+   Tierney L., 2016, BIONEWS, V857
+   UN Committee on Economic Social and Cultural Rights, 2016, EC12GC22 UN COMM EC
+   United Nations, 1994, INT C POP DEV CAIR 5
+   Victora CG, 2016, LANCET, V387, P621, DOI 10.1016/S0140-6736(16)00273-7
+   Webb JLA, 2016, LANCET, V388, P556, DOI 10.1016/S0140-6736(16)31225-9
+   WHITEHEAD M, 1992, INT J HEALTH SERV, V22, P429, DOI 10.2190/986L-LHQ6-2VTE-YRRN
+   Willison HJ, 2016, LANCET, V388, P717, DOI 10.1016/S0140-6736(16)00339-1
+   Yamin AE, 2016, SUFFERING STRUGGLE D
+   Zika Diniz D., 2016, ZIKA SERTAO NORDESTI
+NR 37
+TC 15
+Z9 15
+U1 1
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0020-7292
+EI 1879-3479
+J9 INT J GYNECOL OBSTET
+JI Int. J. Gynecol. Obstet.
+PD JAN
+PY 2017
+VL 136
+IS 1
+BP 105
+EP 110
+DI 10.1002/ijgo.12018
+PG 6
+WC Obstetrics & Gynecology
+SC Obstetrics & Gynecology
+GA EP0SW
+UT WOS:000397098000021
+PM 28099714
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Medeiros, M
+   Madeiro, A
+AF Diniz, Debora
+   Medeiros, Marcelo
+   Madeiro, Alberto
+TI Brazilian women avoiding pregnancy during Zika epidemic
+SO JOURNAL OF FAMILY PLANNING AND REPRODUCTIVE HEALTH CARE
+LA English
+DT Letter
+C1 [Diniz, Debora] Univ Brasilia, Anis, Inst Bioet Direitos Humanos & Genero, Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] Univ Brasilia, IPEA, Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Res Ctr, Teresina, PI, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Extens Ctr Womens Hlth, Teresina, PI, Brazil.
+RP Madeiro, A (corresponding author), Univ Estadual Piaui, Res Ctr, Teresina, PI, Brazil.; Madeiro, A (corresponding author), Univ Estadual Piaui, Extens Ctr Womens Hlth, Teresina, PI, Brazil.
+EM d.diniz@anis.org.br; marcelo.medeiros.cs@gmail.com; madeiro@uol.com.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569; Madeiro, Alberto/0000-0002-5258-5982
+CR Ministerio da Saude Centro de Operacoes de Emergencias em Saude Publica sobre Microcefalias Brasil, 2016, 40 MIN SAUD CTR OP E
+   Ministerio da Saude Secretaria de Vigilancia em Saude Brasil, 2016, B EPIDEMIOLOGICO, V31
+NR 2
+TC 11
+Z9 13
+U1 0
+U2 6
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1471-1893
+EI 2045-2098
+J9 J FAM PLAN REPROD H
+JI J. Fam. Plan. Reprod. Health Care
+PD JAN
+PY 2017
+VL 43
+IS 1
+BP 80
+EP 80
+DI 10.1136/jfprhc-2016-101678
+PG 1
+WC Family Studies; Obstetrics & Gynecology; Social Sciences, Biomedical
+SC Family Studies; Obstetrics & Gynecology; Biomedical Social Sciences
+GA EL4WX
+UT WOS:000394622700023
+PM 28007828
+OA Bronze
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI THE PROTECTION TO WOMEN'S FUNDAMENTAL RIGHTS VIOLATED BY THE ZIKA VIRUS
+   EPIDEMIC
+SO AMERICAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Letter
+C1 [Diniz, Debora] Univ Brasilia, Fac Law, Brasilia, DF, Brazil.
+   [Diniz, Debora] Fundacao Oswaldo Cruz, Rio De Janeiro, Brazil.
+RP Diniz, D (corresponding author), Caixa Postal 8011, BR-70673970 Brasilia, DE, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Teixeira MG, 2016, AM J PUBLIC HEALTH, V106, P601, DOI 10.2105/AJPH.2016.303113
+NR 1
+TC 2
+Z9 3
+U1 0
+U2 3
+PU AMER PUBLIC HEALTH ASSOC INC
+PI WASHINGTON
+PA 800 I STREET, NW, WASHINGTON, DC 20001-3710 USA
+SN 0090-0036
+EI 1541-0048
+J9 AM J PUBLIC HEALTH
+JI Am. J. Public Health
+PD AUG
+PY 2016
+VL 106
+IS 8
+BP E9
+EP E9
+DI 10.2105/AJPH.2016.303246
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DY3HK
+UT WOS:000384981200002
+PM 27400363
+OA Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Minayo, MCD
+   Diniz, D
+   Gomes, R
+AF de Souza Minayo, Maria Ceclia
+   Diniz, Debora
+   Gomes, Romeu
+TI The qualitative article in focus
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 1
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD AUG
+PY 2016
+VL 21
+IS 8
+BP 2326
+EP 2326
+DI 10.1590/1413-81232015218.15592016
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DW6TY
+UT WOS:000383785400002
+PM 27557005
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Zika virus, women and ethics
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+ID ABORTION
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Ballantyne A, 2009, AM J BIOETHICS, V9, P48, DOI 10.1080/15265160902984996
+   Brasil. Ministerio da Saude. Centro de Operacoes de Emergencias em Saude Publica sobre Microcefalias, 2016, INF EP 19 SEM EP SE
+   Broutet N, 2016, NEW ENGL J MED, P1
+   Diniz D, 2016, NY TIMES MAGAZINE, P23
+   Editorial, 2016, NAT MICROBIOL, P1
+   Francis C. R., 2016, EMBO MOL MED, P1
+   Jesudason S, 2011, CONTRACEPTION, V84, P541, DOI 10.1016/j.contraception.2011.08.022
+   Rodrigues LC, 2016, AM J PUBLIC HEALTH, V106, P2016
+   Vogel G, 2016, SCIENCE, V351, P110, DOI 10.1126/science.351.6269.110
+   World Health Organisation, 2016, WHO DIR GEN SUMM OUT
+NR 10
+TC 8
+Z9 8
+U1 0
+U2 67
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD AUG
+PY 2016
+VL 16
+IS 2
+BP 62
+EP 63
+DI 10.1111/dewb.12119
+PG 2
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA DR5HY
+UT WOS:000379935300001
+PM 27378033
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Zika virus and women
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Editorial Material
+C1 [Diniz, Debora] Univ Brasilia, Fac Direito, Brasilia, DF, Brazil.
+   [Diniz, Debora] Anis Inst Bioet Direitos Humanos & Genero, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Anis Inst Bioet Direitos Humanos & Genero, Setor Sudoeste, CP 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Brasil P, 2016, N ENGL J MED
+   Cavarero Adriana, 2007, Rev. Estud. Fem., V15, P650
+   Centro de Operacoes de Emergencias em Saude Publica sobre Microcefalias Ministerio da Saude, 2016, MON CAS MICR BRAS
+   Corte Interamericana de Derechos Humanos, 2015, DEM EST EC REL JUEZ
+   LUGONES MARÍA, 2008, Tabula Rasa, P73
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Rubin EJ, 2016, NEW ENGL J MED, V374, P984, DOI 10.1056/NEJMe1601862
+   Sassaki RK, 2010, REACAO REV NACL REAB, VXIV, P14
+   Tetro JA, 2016, MICROBES INFECT, V18, P167, DOI 10.1016/j.micinf.2015.12.010
+NR 9
+TC 38
+Z9 38
+U1 0
+U2 19
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD MAY
+PY 2016
+VL 32
+IS 5
+AR e00046316
+DI 10.1590/0102-311X00046316
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DP6RB
+UT WOS:000378624900020
+PM 27192024
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Madeiro, AP
+   Diniz, D
+AF Madeiro, Alberto Pereira
+   Diniz, Debora
+TI Legal abortion services in Brazil - a national study
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Legal abortion; Census; Health services; Rape; Sexual violence
+ID SEXUAL ASSAULT; CARE; VICTIMS; WOMEN; PROFESSIONALS; PHYSICIANS;
+   PROVIDERS; VIOLENCE; RAPE
+AB This article presents the results of a mixed methods study of 68 legal abortion services in Brazil. The services were analyzed in two stages. The first stage was a census, in which all the institutions were sent an electronic questionnaire about the organization of the legal abortion services. The second stage was conducted in a sample of 5 reference services, one for each region of the country. In this stage, a form was used to collect data about the women and the abortions in the medical records, and 82 interviews with health professionals were conducted. Thirty-seven of the services informed they performed legal abortions, and the services were inactive in 7 states. Police reports, forensic reports, and court orders were required by 14%, 8% and 8% of the services, respectively. Women who underwent abortions were predominantly aged 15-29, single and Catholic. Most abortions were performed until 14 weeks in the case of rape-related pregnancy, by means of manual vacuum aspiration. According to the health professionals, the main difficulties faced in the services are the low availability of physicians to perform abortions and the insufficient training of the staff. The data reveal a discrepancy between the legal provision and the reality of the services. The implementation of more services and the strengthening of the existing services available are necessary.
+C1 [Madeiro, Alberto Pereira] Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, Ctr Ciencias Saude, R Olavo Bilac 2335, BR-64049460 Teresina, PI, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Direito, Brasilia, DF, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, Ctr Ciencias Saude, R Olavo Bilac 2335, BR-64049460 Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Ackerman DR, 2006, AM J OBSTET GYNECOL, V194, P1653, DOI 10.1016/j.ajog.2006.03.014
+   Andalaft Neto J, 2012, FEMINA, V40, P301
+   Bakhru A, 2010, CONTRACEPTION, V82, P168, DOI 10.1016/j.contraception.2010.01.005
+   Brasil. Ministerio da Saude, 2009, HOSP SERV REF AT MUL
+   Brasil. Ministerio da Saude (MS). Secretaria de Atencao a Saude. Departamento de Acoes Programaticas Estrategicas, 2005, AT HUM AB NORM AO TE
+   Brasil. Ministerio da Saude (MS). Secretaria de Atencao a Saude. Departamento de Acoes Programaticas Estrategicas. Area Tecnica de Saude da Mulher, 2011, PREV TRAT AGR RES VI
+   Brasil. Ministerio da Saude (MS). Secretaria de Politicas de Saude, 1999, PREV TRAT AGR RES VI
+   Brasil. Presidencia da Republica. Secretaria Especial de Direitos Humanos, 2010, PROGR NAC DIR HUM PN
+   COLAS OR, 1994, BIOETICA, V2, P81
+   Cybulska B, 2013, BEST PRACT RES CL OB, V27, P141, DOI 10.1016/j.bpobgyn.2012.08.013
+   de Oliveira SF, 2014, J FORENSIC LEG MED, V23, P49, DOI 10.1016/j.jflm.2014.01.011
+   De Zordo S, 2012, CIENC SAUDE COLETIVA, V17, P1745, DOI 10.1590/S1413-81232012000700013
+   Diniz Debora, 2014, Rev. Bioét., V22, P291, DOI 10.1590/1983-80422014222010
+   Diniz D, 2014, REPROD HEALTH MATTER, V22, P141, DOI 10.1016/S0968-8080(14)43754-6
+   Farias RS, 2012, CIENC SAUDE COLETIVA, V17, P1755, DOI 10.1590/S1413-81232012000700014
+   Faundes A, 2007, REV BRAS GINECOL OBS, V29, P192, DOI 10.1590/S0100-72032007000400005
+   Faundes Anibal, 2013, Int J Gynaecol Obstet, V123 Suppl 3, pS57, DOI 10.1016/S0020-7292(13)60003-X
+   Faúndes Anibal, 2007, Rev. bras. epidemiol., V10, P6, DOI 10.1590/S1415-790X2007000100002
+   Kiss LB, 2011, CIENC SAUDE COLETIVA, V16, P1943, DOI 10.1590/S1413-81232011000300028
+   Kulier R, 2001, COCHRANE DB SYST REV, DOI DOI 10.1002/14651858.CD002900
+   Ledray LE, 2002, ANN EMERG MED, V39, P61, DOI 10.1067/mem.2002.120227
+   Macha S, 2014, INT J GYNECOL OBSTET, V126, pS49, DOI 10.1016/j.ijgo.2014.03.010
+   Machado CL, 2015, CAD SAUDE PUBLICA, V31, P345, DOI 10.1590/0102-311X00051714
+   Martin LA, 2014, CONTRACEPTION, V90, P581, DOI 10.1016/j.contraception.2014.07.011
+   Organizacao Mundial de Saude (OMS), 2013, AB SEG OR TECN POL S
+   Oshikata CT, 2011, CAD SAUDE PUBLICA, V27, P701, DOI 10.1590/S0102-311X2011000400009
+   Ramos S, 2014, REPROD HEALTH, V11, DOI 10.1186/1742-4755-11-72
+   SOARES G. S., 2003, CAD SAUDE PUBLICA, V19, P399
+   Steinauer J, 2012, AM J OBSTET GYNECOL, V198, p39e1
+   TALIB RA, 2005, SERVICOS ABORTO LEGA
+NR 30
+TC 9
+Z9 9
+U1 0
+U2 10
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2016
+VL 21
+IS 2
+BP 563
+EP 572
+DI 10.1590/1413-81232015212.10352015
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DF1DO
+UT WOS:000371079000023
+PM 26910163
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Brito, L
+AF Diniz, Debora
+   Brito, Luciana
+TI Madness and crime: Zefinha, the longest confined woman in Brazil
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Article
+DE crime; insanity; forensic hospital; anthropology of mental illness
+AB Living in a forensic hospital for the last 38 years, Josefa da Silva is the longest female inhabitant surviving the penal and psychiatric regime in Brazil. This paper analyses dossier, judicial proceedings, interviews and photographs about her. The psychiatric report is the key component of the medical and penal doubling of criminal insanity. Twelve psychiatric reports illustrate three time frames of the court files: abnormality, danger, and abandonment. The psychiatric authority over confinement has moved from discipline to security, and from disciplinary security to social assistance. In the arrangement between the penal and psychiatric powers, the judge recognizes the medical authority over the truth of insanity. It is the medicine of the reasons for Zefinha's internment that altered over the decades.
+C1 [Diniz, Debora] Univ Brasilia UnB, CLSW 304,Bloco B,Sala 134, BR-70673632 Brasilia, DF, Brazil.
+   [Diniz, Debora; Brito, Luciana] Univ Brasilia, Anis Inst Bioet Direitos Humanos & Genero, CLSW 304,Bloco B,Sala 134, BR-70673632 Brasilia, DF, Brazil.
+   [Brito, Luciana] Univ Brasilia, Programa Posgrad Ciencias Saude, CLSW 304,Bloco B,Sala 134, BR-70673632 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia UnB, CLSW 304,Bloco B,Sala 134, BR-70673632 Brasilia, DF, Brazil.; Diniz, D; Brito, L (corresponding author), Univ Brasilia, Anis Inst Bioet Direitos Humanos & Genero, CLSW 304,Bloco B,Sala 134, BR-70673632 Brasilia, DF, Brazil.; Brito, L (corresponding author), Univ Brasilia, Programa Posgrad Ciencias Saude, CLSW 304,Bloco B,Sala 134, BR-70673632 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br; l.brito@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Agamben G., 2008, QUE RESTA AUSCHWITZ
+   AGAMBEN Giorgio, 2007, HOMOSACER PODER SOBE
+   BARCELLOS Caco, 2013, REDE GLOBO      0820
+   Derrida Jacques, 2001, MAL ARQUIVO IMPRESSA
+   Diniz D, 2015, CIENC SAUDE COLETIVA, V20, P2667, DOI 10.1590/1413-81232015209.02832015
+   DINIZ Debora, 2013, CUSTODIA TRATAMENTO
+   Farge Arlette, 2009, O SABOR DO ARQUIVO
+   FOUCAULT M, 2009, SEGURANCA TERRITORIO
+   Foucault M., 2010, DEFESA SOC CURSO COL
+   FOUCAULT Michel, 2010, ANORMAIS CURSO COLL
+   FOUCAULT Michel, 2012, HIST SEXUALIDADE VON, V1
+   FOUCAULT Michel, 2012, DITOS E ESCRITOS, P203
+   FOUCAULT Michel, 2006, PODER PSIQUIATRICO C
+   FOUCAULT Michel, 2012, DITOS E ESCRITOS, P1
+   Delgado PGG, 2011, ARQ BRAS PSICOL APL, V63, P114
+   HUERTAS Rafael, 2014, 13 C INT GEOCR 2014
+   KAFKA Franz, 2007, O PROCESSO
+   MACHADO Roberto, 1978, DANACAO NORMAL MED S
+NR 18
+TC 1
+Z9 3
+U1 0
+U2 2
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD JAN-MAR
+PY 2016
+VL 23
+IS 1
+BP 113
+EP 129
+DI 10.1590/S0104-59702016000100008
+PG 17
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA DM6TZ
+UT WOS:000376486700008
+PM 27008077
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Kinoshita, RT
+AF Diniz, Debora
+   Kinoshita, Roberto Tykanori
+TI Penrose hypothesis and ethical implications
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+C1 [Diniz, Debora; Kinoshita, Roberto Tykanori] Brazilian Minist Hlth, Natl Coordinator Mental Hlth Alcohol & Other Drug, Rio De Janeiro, Brazil.
+RP Diniz, D (corresponding author), Brazilian Minist Hlth, Natl Coordinator Mental Hlth Alcohol & Other Drug, Rio De Janeiro, Brazil.
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Mundt A. P., 2015, JAMA PSYCHIAT, V72
+   Penrose LS, 1939, BRIT J MED PSYCHOL, V18, P1, DOI 10.1111/j.2044-8341.1939.tb00704.x
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD DEC
+PY 2015
+VL 15
+IS 3
+DI 10.1111/dewb.12097
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA CV5ST
+UT WOS:000364332100001
+PM 26522684
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Zefinha - the name of abandonment
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Anonymity; Confidentiality; Research ethics; Forensic hospital; Insanity
+AB Zefinha has been living in a forensic hospital for the last 39 years. She is the longest female inhabitant surviving under compulsory psychiatric treatment in Brazil. This paper discusses how the ethical rule of anonymity might be revised in research concerning a unique case involving severe violations of human rights. My argument is that there are cases in which disclosing the names of research participants protects their interests and rights.
+C1 Univ Brasilia, Fac Direito, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Fac Direito, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Associacao Brasileira de Antropologia (ABA), 2011, COD ET ANTR ANTR
+   Baez B, 2002, QUALITATIVE RES, V2, P35, DOI DOI 10.1177/1468794102002001638
+   Butler J., 2010, MARCOS GUERRA VIDAS
+   Derrida Jacques, 2001, MAL ARQUIVO IMPRESSA
+   Diniz D, 2015, HIST CIENCIAS SAUDE
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   DINIZ Debora, 2013, CUSTODIA TRATAMENTO
+   Diniz Debora, 2008, A CASA DOS MORTOS, P1
+   Farge Arlette, 2009, O SABOR DO ARQUIVO
+   Feminismo Diniz D., 2015, FEMINISMOS
+   FOUCAULT Michel, 2010, ANORMAIS CURSO COLL
+   Gilliland AT, 2012, NO KENTUCKY LAW REV, V39, P189
+   Giordano J, 2007, QUAL HEALTH RES, V17, P264, DOI 10.1177/1049732306297884
+   Grinyer A, 2002, SOCIAL RES UPDATE, V36
+   Guenther KM, 2009, QUAL RES, V9, P411, DOI 10.1177/1468794109337872
+   Guerriero Iara Coelho Zito, 2013, Physis, V23, P763, DOI 10.1590/S0103-73312013000300006
+   Katz J, 2006, AM ETHNOL, V33, P499, DOI 10.1525/ae.2006.33.4.499
+   Nespor Jan, 2000, QUALITATIVE INQUIRY, V6, P546, DOI DOI 10.1177/107780040000600408
+   Rodrigues GM, 2011, ACERVO, V24, P257
+   Vainio A, 2013, QUAL RES, V13, P685, DOI 10.1177/1468794112459669
+NR 20
+TC 4
+Z9 5
+U1 0
+U2 0
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD SEP
+PY 2015
+VL 20
+IS 9
+BP 2667
+EP 2674
+DI 10.1590/1413-81232015209.02832015
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA CQ9UP
+UT WOS:000360961000008
+PM 26331499
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI RESEARCH EXPERIENCES IN PRISON
+SO REVISTA DIREITO GV
+LA Portuguese
+DT Article
+DE JAIL; PRISON; FORENSIC HOSPITAL; YOUTH DETENTION CENTER; LAW EMPIRICAL
+   RESEARCH
+AB This paper is a personal account of my research experiences in brazilian prisons. Prison is a figure of speech, which represents a punitive archipelago - forensic hospitals, jails, and youth detention centers. At the end, I provoke a debate over forms of seeing prisons and persons and writing about them. I dare say the studies about prison are male gendered based.
+C1 [Diniz, Debora] Univ Brasilia, Brasilia, DF, Brazil.
+   [Diniz, Debora] Inst BIot, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR AGAMBEN Giorgio, 2007, HOMOSACER SOBERANO V
+   ARTIERES Philippe, 2014, LIVRE VIES COUPABLES
+   BUTLER J., 2015, RELATAR SI MESMO CRI
+   Castillo Gomez A., 2005, LETRAS BAJO SOSPECHA
+   Debora DINIZ, 2015, CADERNOS CIENCIAS SO
+   Diniz D., 2015, CADEIA RELATOS MULHE
+   Diniz D., 2014, REV BRASILEIRA CIENC, V111, P313
+   Diniz D, 2015, CIENC SAUDE COLETIVA, V20, P2667, DOI 10.1590/1413-81232015209.02832015
+   DINIZ Debora, 2016, HIST CIENCIAS SAUDE
+   DINIZ Debora, 2013, CUSTODIA TRATAMENTO
+   DINIZ Debora, 2014, ETHICS AND THE ARTS, P79
+   DINIZ Debora, 2013, REV TRAMA INTERDISCI, V4, P21
+   Diniz Debora, 2008, A CASA DOS MORTOS, P1
+   DINIZ Debora, 2015, REV LIBERDADES IBCCR, V19, P104
+   Farge Arlette, 2009, O SABOR DO ARQUIVO
+   FOUCAULT Michel, 2010, ANORMAIS CURSO COLL
+   FOUCAULT Michel, 2012, ESTRATEGIA PODER SAB, P203
+   HARAWAY Donna, 1995, CAD PAGU
+   Levi Primo, 1988, E ISTO UM HOMEM
+NR 19
+TC 1
+Z9 2
+U1 0
+U2 4
+PU FUNDACAO GETULIO VARGAS, ESCOLA DIREITO
+PI SAO PAULO SP
+PA RUA ROCHA, 23 11 ANDAR, SAO PAULO SP, 01330-0000, BRAZIL
+SN 1808-2432
+EI 2317-6172
+J9 REV DIREITO GV
+JI Rev. Direito GV
+PD JUL-DEC
+PY 2015
+VL 11
+IS 2
+BP 573
+EP 586
+DI 10.1590/1808-2432201525
+PG 14
+WC Law
+SC Government & Law
+GA DG1EZ
+UT WOS:000371809700011
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI EMPIRICAL RESEARCH AND BIOETHICS
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD APR
+PY 2015
+VL 15
+IS 1
+DI 10.1111/dewb.12078
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA CD3LF
+UT WOS:000350979200002
+PM 25735826
+DA 2020-12-09
+ER
+
+PT J
+AU Madeiro, AP
+   Diniz, D
+AF Madeiro, Alberto Pereira
+   Diniz, Debora
+TI Induced abortion among Brazilian female sex workers: a qualitative study
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE Abortion; Prostitutes; Misoprostol; Reproductive health
+ID SEVERE MATERNAL MORBIDITY; MISOPROSTOL; PREGNANCY; COUNTRIES; DRUGS;
+   STATE
+AB Prostitutes are vulnerable to unplanned pregnancies and abortions. In Brazil, abortion is a crime and there is no data about unsafe abortions for this population. The study describes how prostitutes perform illegal abortions and the health consequences thereof. Semi-structured interviews with 39 prostitutes from three cities in Brazil with previous induced abortion experience were conducted. Sixty-six abortions, with between one and eight occurrences per woman, were recorded. The majority of the cases resulted from sexual activity with clients. The inconsistent use of condoms with regular clients and the consumption of alcohol during work were indicated as the main causes of unplanned pregnancies. The main method to perform abortion was the intravaginal and oral use of misoprostol, acquired in pharmacies or on the black market. Invasive measures were less frequently reported, however with more serious health complications. The fear of complaint to the police meant that most women do not inform the health team regarding induced abortion. The majority of prostitutes aborted with the use of illegally-acquired misoprostol, ending abortion in a public hospital with infection and hemorrhagic complications. The data indicate the need for a public policy focusing on the reproductive health of prostitutes.
+C1 [Madeiro, Alberto Pereira] Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, BR-64049460 Teresina, PI, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70910900 Brasilia, DF, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, R Olavo Bilac 2335, BR-64049460 Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Arilha MM, 2012, CIENC SAUDE COLETIVA, V17, P1785, DOI 10.1590/S1413-81232012000700017
+   Baral S, 2012, LANCET INFECT DIS, V12, P538, DOI 10.1016/S1473-3099(12)70066-X
+   Camargo RS, 2011, INT J GYNECOL OBSTET, V112, P88, DOI 10.1016/j.ijgo.2010.08.013
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1795, DOI 10.1590/S1413-81232012000700018
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Duff P, 2011, BMC PREGNANCY CHILDB, V11, DOI 10.1186/1471-2393-11-61
+   Elmore-Meegan M, 2004, REPROD HEALTH MATTER, V12, P50, DOI 10.1016/S0968-8080(04)23125-1
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Feldblum PJ, 2007, CONTRACEPTION, V76, P105, DOI 10.1016/j.contraception.2007.04.009
+   Hardy E, 1992, CAD SAUDE PUBLICA, V8, P454
+   Harper CC, 2007, INT J GYNECOL OBSTET, V98, P66, DOI 10.1016/j.ijgo.2007.03.009
+   MacKinnon CA, 2011, HARVARD CIVIL RIGHTS, V46, P271
+   Madeiro AP, 2012, CIENC SAUDE COLETIVA, V17, P1735, DOI 10.1590/S1413-81232012000700012
+   Morineau G, 2011, CONTRACEPTION, V84, P194, DOI 10.1016/j.contraception.2010.11.003
+   Pitpitan EV, 2013, CURR HIV-AIDS REP, V10, P65, DOI 10.1007/s11904-012-0142-8
+   Ruiz E, 2013, PROSTITUTAS NAO PODE
+   Santana DS, 2012, INT J GYNECOL OBSTET, V119, P44, DOI 10.1016/j.ijgo.2012.05.025
+   Sherris J, 2005, INT J GYNECOL OBSTET, V88, P76, DOI 10.1016/j.ijgo.2004.09.006
+   Todd CS, 2010, J WOMENS HEALTH, V19, P2057, DOI 10.1089/jwh.2010.1947
+   World Health Organization, 2012, SAF AB TECHN POL GUI
+   Zamberlin N, 2012, REPROD HEALTH, V9, DOI 10.1186/1742-4755-9-34
+NR 23
+TC 7
+Z9 7
+U1 1
+U2 5
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2015
+VL 20
+IS 2
+BP 587
+EP 593
+DI 10.1590/1413-81232015202.11202014
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA CE9DB
+UT WOS:000352142700029
+PM 25715152
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Madeiro, A
+   Rosasc, C
+AF Diniz, Debora
+   Madeiro, Alberto
+   Rosasc, Cristiao
+TI Conscientious objection, barriers, and abortion in the case of rape: a
+   study among physicians in Brazil
+SO REPRODUCTIVE HEALTH MATTERS
+LA English
+DT Article
+DE conscientious objection; abortion law and policy; barriers to abortion;
+   rape; sexual violence; provider-patient relations; Brazil
+AB In Brazil, to have a legal abortion in the case of rape, the woman's statement that rape has occurred is considered sufficient to guarantee the right to abortion. The aim of this study was to understand the practice and opinions about providing abortion in the case of rape among obstetricians-gynecologists (OBGYNs) in Brazil. A mixed-method study was conducted from April to July 2012 with 1,690 OBGYNs who responded to a structured, electronic, self-completed questionnaire. In the quantitative phase, 81.6% of the physicians required police reports or judicial authorization to guarantee the care requested. In-depth telephone interviews with 50 of these physicians showed that they frequently tested women's rape claim by making them repeat their story to several health professionals; 43.5% of these claimed conscientious objection when they were uncertain whether the woman was telling the truth. The moral environment of illegal abortion alters the purpose of listening to a patient from providing care to passing judgement on her. The data suggest that women's access to legal abortion is being blocked by these barriers in spite of the law. We recommend that FEBRASGO and the Ministry of Health work together to clarify to physicians that a woman's statement that rape occurred should allow her to access a legal abortion. (C) 2014 Reproductive Health Matters
+C1 [Diniz, Debora] Univ Brasilia UnB Anis, Grad Program Social Policy, Inst Bioeth Human Rights & Gender, Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Piaui State Univ Uespi, Res Ctr, Teresina, Brazil.
+   [Madeiro, Alberto] Piaui State Univ Uespi, Extens Program Womens Hlth, Teresina, Brazil.
+   [Madeiro, Alberto] Inst Bioeth Human Rights & Gender, Brasilia, DF, Brazil.
+   [Rosasc, Cristiao] Brazilian Federat Obstet & Gynaecol FEBRASGO, Sexual Violence Commiss, Sao Paulo, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia UnB Anis, Grad Program Social Policy, Inst Bioeth Human Rights & Gender, Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Amado ED, 2010, REPROD HEALTH MATTER, V18, P118, DOI 10.1016/S0968-8080(10)36531-1
+   Conselho Federal de Medicina, 2009, COD ET MED BRAS
+   Cook RJ, 2009, INT J GYNECOL OBSTET, V104, P249, DOI 10.1016/j.ijgo.2008.10.023
+   Curlin FA, 2007, NEW ENGL J MED, V356, P593, DOI 10.1056/NEJMsa065316
+   De Zordo S, 2012, CIENC SAUDE COLETIVA, V17, P1745, DOI 10.1590/S1413-81232012000700013
+   Diniz D, 2011, REV SAUDE PUBL, V45, P981, DOI 10.1590/s0034-89102011005000047
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Donohoe M., 2005, J AM MED WOMEN ASSOC, V60, P16
+   Downie Jocelyn, 2007, Health Law J, V15, P143
+   Faúndes Aníbal, 2004, Rev. Bras. Ginecol. Obstet., V26, P89, DOI 10.1590/S0100-72032004000200002
+   Faundes A, 2002, REPROD HEALTH MATTER, V10, P120, DOI 10.1016/S0968-8080(02)00017-4
+   Faundes A, 2013, REPROD HEALTH MATTER, V21, P165, DOI 10.1016/S0968-8080(13)42726-X
+   Finer L, 2013, AM J PUBLIC HEALTH, V103, P585, DOI 10.2105/AJPH.2012.301197
+   Goldman Lisa A, 2005, Reprod Health, V2, P10
+   Greenberg M, 2012, FAM MED, V44, P493
+   Grimes DA, 2006, AM J OBSTET GYNECOL, V194, P92, DOI 10.1016/j.ajog.2005.06.070
+   Harris LH, 2011, OBSTET GYNECOL, V118, P905, DOI 10.1097/AOG.0b013e31822f12b7
+   Magelssen M, 2012, J MED ETHICS, V38, P18, DOI 10.1136/jme.2011.043646
+   Ministerio da Sailde do Brasil, 2005, NORM TECN PREV TRAT
+   Rasinski KA, 2011, J MED ETHICS, V37, P711, DOI 10.1136/jme.2010.040782
+   Villela WV, 2000, REPROD HEALTH MATTER, V8, P77, DOI 10.1016/S0968-8080(00)90189-7
+NR 21
+TC 14
+Z9 16
+U1 1
+U2 17
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0968-8080
+EI 1460-9576
+J9 REPROD HEALTH MATTER
+JI Reprod. Health Matters
+PD MAY
+PY 2014
+VL 22
+IS 43
+BP 141
+EP 148
+DI 10.1016/S0968-8080(14)43754-6
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA AK4JU
+UT WOS:000338391800014
+PM 24908465
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI BIOETHICS AND FORENSIC PSYCHIATRY
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Agamben Giorgio, 2005, IL POTERE SOVRANO E
+   Diniz D, 2013, LANCET, V382, P1877, DOI 10.1016/S0140-6736(13)62623-9
+   Diniz Debora, THE HOUSE OF THE DEA
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD APR
+PY 2014
+VL 14
+IS 1
+BP II
+EP II
+DI 10.1111/dewb.12048
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA AC7KJ
+UT WOS:000332706900008
+PM 24628793
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Machado, TRD
+   Penalva, J
+AF Diniz, Debora
+   de Carvalho Machado, Teresa Robichez
+   Penalva, Janaina
+TI The judicialization of health in the Federal District of Brazil
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE The judicialization of health; Judicial decisions; Right to health;
+   Health policies
+ID STATE
+AB This paper seeks to analyze the Judiciary's approach with respect to demands for the judicialization of the right to health by means of a case study of civil lawsuits for access to health care in Brazil's Federal District. Judicialization of the right to health signifies the judicialization of various of the health services provided. This is a descriptive and exploratory case study that covers the Federal District and uses mixed techniques to gather and analyze data. This study analyzed 385 lawsuits (87% of the total number of cases of judicialization of health for the period from 2005 to 2010 that reached the Appellate court). The results indicate that the most judicialized service is access to intensive care unit, followed by drugs and health care. Almost all lawsuits are filed by public defenders, with medical prescriptions and recommendations from the public health service. The results of this study challenge some dominant themes in the national debate, particularly the claim that judicialization is a phenomenon of the elites and that the services judicialized are drugs. The study does not seek to make generalizations, but highlights the fact that the phenomenon of judicialization of health has different aspects encompassed under the same concept.
+C1 [Diniz, Debora; Penalva, Janaina] Univ Brasilia, Programa Posgrad Polit Social, BR-70673970 Brasilia, DF, Brazil.
+   [de Carvalho Machado, Teresa Robichez] Univ Brasilia, Fac Direito, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Programa Posgrad Polit Social, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Barroso LR, 2008, REV INTERESSE PUBLIC
+   Borges DCL, 2007, THESIS FIOCRUZ RIO D
+   Brasil. Tribunal de Contas da Uniao (TCU), 2005, AV TCU AC ASS FIN AQ
+   Cosendey M A, 2000, Cad Saude Publica, V16, P171, DOI 10.1590/S0102-311X2000000100018
+   Daniels N, 2002, CAN WE LEARN SHARE M
+   Baptista TWD, 2009, CIENC SAUDE COLETIVA, V14, P829
+   Diniz D, 2009, DEV WORLD BIOETH, V9, P2
+   Diniz D, 2009, SERIEANIS
+   Diniz D, 2012, CAD SAUDE PUBLICA, V28, P479, DOI 10.1590/S0102-311X2012000300008
+   HAM C, 2003, REASONABLE RATIONING
+   Korniz GEM, 2008, REV APS, V11, P85
+   Marques SB, 2007, REV SAUDE PUBL, V41, P101, DOI 10.1590/s0034-89102007000100014
+   Medeiros M, 2013, CIENC SAUDE COLETIVA, V18, P1089, DOI 10.1590/S1413-81232013000400022
+   Messeder Ana Márcia, 2005, Cad. Saúde Pública, V21, P525, DOI 10.1590/S0102-311X2005000200019
+   Pereira JR, 2010, CIENC SAUDE COLETIVA, V15, P3551, DOI 10.1590/S1413-81232010000900030
+   SARMENTO Daniel, 2008, DIREITOS SOCIAIS FUN
+   Syrett K, 2007, CAMB LAW MED ETH, P1, DOI 10.1017/CBO9780511495380
+   Vieira Fabiola Sulpino, 2007, Rev. Saúde Pública, V41, P214, DOI [10.1590/S0034-89102007000200007, 10.1590/s0034-89102007000200007]
+NR 18
+TC 19
+Z9 26
+U1 0
+U2 11
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2014
+VL 19
+IS 2
+BP 591
+EP 598
+DI 10.1590/1413-81232014192.23072012
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA AF3IH
+UT WOS:000334604800027
+PM 24863835
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Cavalcanti, MT
+AF Diniz, Debora
+   Cavalcanti, Maria Tavares
+TI Mental illness and crime in Brazil
+SO LANCET
+LA English
+DT Letter
+C1 [Diniz, Debora] Univ Brasilia, BR-70673970 Brasilia, DF, Brazil.
+   [Cavalcanti, Maria Tavares] Univ Fed Rio de Janeiro, Rio De Janeiro, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR [Anonymous], 2013, LANCET, V382, P1309, DOI 10.1016/S0140-6736(13)62125-X
+   Diniz D., 2013, CUSTODIA TRATMENTO P
+NR 2
+TC 2
+Z9 2
+U1 0
+U2 5
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD DEC 7
+PY 2013
+VL 382
+IS 9908
+BP 1877
+EP 1878
+DI 10.1016/S0140-6736(13)62623-9
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 269DX
+UT WOS:000328222400027
+PM 24315175
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Secular state, consciencious objection and public health policies
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Editorial Material
+ID CONSCIENTIOUS OBJECTION
+C1 [Diniz, Debora] Anis Inst Bioet Direitos Humanos & Genero, Setor Sudoeste, BR-70673970 Brasilia, DF, Brazil.
+   [Diniz, Debora] Univ Brasilia, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Anis Inst Bioet Direitos Humanos & Genero, Setor Sudoeste, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Diniz D, 2011, REV SAUDE PUBL, V45, P981, DOI 10.1590/s0034-89102011005000047
+   Diniz Debora, 2005, HIST SEVERINA
+   Oliveira Rosana Medeiros de, 2012, Vibrant, Virtual Braz. Anthr., V9, P535, DOI 10.1590/S1809-43412012000200019
+   Savulescu J, 2006, BRIT MED J, V332, P294, DOI 10.1136/bmj.332.7536.294
+NR 4
+TC 8
+Z9 9
+U1 0
+U2 4
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD SEP
+PY 2013
+VL 29
+IS 9
+BP 1704
+EP 1706
+DI 10.1590/0102-311XPE010913
+PG 3
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 224YS
+UT WOS:000324929900002
+PM 24068208
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Nunes, MD
+   Madeiro, A
+   Diniz, D
+AF Nunes, Maria das Dores
+   Madeiro, Alberto
+   Diniz, Debora
+TI Histories of induced abortion among adolescents from Teresina in the
+   State of Piaui, Brazil
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Adolescence; Induced abortion; Cytotec; Reproductive health; Uterine
+   curettage
+ID TRENDS; WOMEN; COMPLICATIONS; INTERRUPTION; MISOPROSTOL; PREGNANCY;
+   MATERNITY; CARE
+AB This paper analyses the methods, techniques and support networks taken by adolescents to perform illegal abortions. It is a descriptive and cross-sectional study involving interviews with 30 adolescents who had been hospitalized for uterine curettage in two public hospitals in Teresina between June and November 2011. Informed consent was given orally, and the interviews were recorded after the confirmation of the induced abortion. The adolescents were between 14 and 17 years old, single, and predominantly lived with their parents in urban areas, had little schooling and recorded a gestational age of 12 weeks. Between 3 and 6 tablets of Cytotec were taken orally and/or vaginally by 28 (94%) adolescents, and they were rushed to the hospital due to severe cramping, vaginal bleeding or both. They either bought Cytotec alone (43%, 13), or with the help of a friend or partner (40%, 12). Cytotec was sold to them in ordinary pharmacies, by the owner (45%, 13) or clerk (55%, 55), who provided instructions for use. They went to the hospital with their mother (40%, 12) or a girl friend (30%, 9). Three (10%) adolescents developed serious complications. The study revealed that Cytotec is the main method used to perform illegal abortions among adolescents.
+C1 [Nunes, Maria das Dores] Fac Saude Ciencias Humanas & Tecnol Piaui, BR-64057100 Teresina, PI, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Nucleo Pesquisa Extensao Saude Mulher, Teresina, PI, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70910900 Brasilia, DF, Brazil.
+RP Nunes, MD (corresponding author), Fac Saude Ciencias Humanas & Tecnol Piaui, R Vitorino Orthiges Fernandes 6123, BR-64057100 Teresina, PI, Brazil.
+EM m.dnunes@hotmail.com
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Ahman E, 2011, INT J GYNECOL OBSTET, V115, P121, DOI 10.1016/j.ijgo.2011.05.027
+   Aquino EML, 2012, CIENC SAUDE COLETIVA, V17, P1765, DOI 10.1590/S1413-81232012000700015
+   Chaves JHB, 2012, SAUDE SOC-SAO PAULO, V21, P246, DOI 10.1590/S0104-12902012000100023
+   Berquo E, 2012, REV SAUDE PUBL, V46, P685, DOI 10.1590/s0034-89102012005000048
+   Brasil. Ministerio da Saude (MS), 2006, EST MORT MULH 10 49
+   Brasil. Ministerio da Saude (MS), 2001, PART AB PUERP ASS HU
+   Correia DS, 2011, CIENC SAUDE COLETIVA, V16, P2469, DOI 10.1590/S1413-81232011000500016
+   Correa MCDV, 2012, CIENC SAUDE COLETIVA, V17, P1777, DOI 10.1590/S1413-81232012000700016
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1795, DOI 10.1590/S1413-81232012000700018
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Grimes DA, 2006, LANCET, V368, P1908, DOI 10.1016/S0140-6736(06)69481-6
+   Gupta N, 1999, INT FAM PLAN PERSPEC, V25, P125, DOI 10.2307/2991961
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2010, SIS 2010 MULH MAIS E
+   Bertolani GBM, 2010, SAUDE SOC-SAO PAULO, V19, P286, DOI 10.1590/S0104-12902010000200006
+   Mayi-Tsonga S, 2009, REPROD HEALTH MATTER, V17, P65, DOI 10.1016/S0968-8080(09)34465-1
+   Menezes Greice M. S., 2006, Cad. Saúde Pública, V22, P1431, DOI 10.1590/S0102-311X2006000700008
+   Nader Priscilla Rocha Araújo, 2007, Rev. bras. epidemiol., V10, P615, DOI 10.1590/S1415-790X2007000400019
+   Peres Simone Ouvinha, 2006, Cad. Saúde Pública, V22, P1411, DOI 10.1590/S0102-311X2006000700006
+   Sedgh G, 2012, LANCET, V379, P625, DOI 10.1016/S0140-6736(11)61786-8
+   Senanayake P, 2003, BEST PRACT RES CL OB, V17, P117, DOI 10.1053/ybeog.2003.0343
+   Shah IH, 2012, REPROD HEALTH MATTER, V20, P169, DOI 10.1016/S0968-8080(12)39598-0
+   Singh S, 1998, STUD FAMILY PLANN, V29, P117, DOI 10.2307/172154
+   Viggiano MGC, 1996, J BRAS GINECOL, V106, P55
+NR 26
+TC 5
+Z9 10
+U1 0
+U2 6
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD AUG
+PY 2013
+VL 18
+IS 8
+BP 2311
+EP 2318
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 191FV
+UT WOS:000322399400015
+PM 23896913
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Medeiros, M
+   Diniz, D
+   Schwartz, IVD
+AF Medeiros, Marcelo
+   Diniz, Debora
+   Doederlein Schwartz, Ida Vanessa
+TI The thesis of judicialization of health care by the elites: medication
+   for mucopolysaccharidosis
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Judicialization; Health policy; Mucopolysaccharidosis; Rare genetic
+   diseases
+ID ENZYME REPLACEMENT THERAPY; STATE; MEDICINES; ACCESS; BRAZIL
+AB This paper evaluates the hypothesis that the judicialization of medicine for mucopolysaccharidosis in Brazil is an action promoted by economic elites. Previous studies upholding the thesis of judicialization by elites in the case of other types of medication that are more costly for the Unified Health Service are discussed. An analysis of all 196 processes containing information about judicial processes brought to court between February 2006 and December 2010 that ended by determining that the State should provide such medication free of charge to patients was conducted. There is evidence that attorneys' fees were covered by entities interested in the results of judicialization, such as the distributors or pharmaceutical industries. Patients may also be migrating for diagnosis and treatment to university centers that are a benchmark for medical innovation in the country, as the option for public health services is related to their higher technical and scientific capacity. Therefore, the resort to private lawyers, indicators of social exclusion based on the address of patients and the use of public health services, are not adequate class information to corroborate or refute the thesis of judicialization by the elites.
+C1 [Medeiros, Marcelo] Univ Brasilia, Dept Sociol, BR-70673970 Brasilia, DF, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70673970 Brasilia, DF, Brazil.
+   [Doederlein Schwartz, Ida Vanessa] Univ Fed Rio Grande do Sul, Dept Genet, BR-90046900 Porto Alegre, RS, Brazil.
+RP Medeiros, M (corresponding author), Univ Brasilia, Dept Sociol, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Schwartz, Ida/M-1422-2015; Medeiros, Marcelo/C-8500-2009; Schwartz, Ida
+   Vanessa Doederlein/ABG-5471-2020; Schwartz, Ida V/H-5923-2016; Diniz,
+   Debora/K-9000-2012
+OI Schwartz, Ida/0000-0002-7933-6687; Medeiros,
+   Marcelo/0000-0001-7152-5996; Schwartz, Ida Vanessa
+   Doederlein/0000-0002-7933-6687; Diniz, Debora/0000-0001-6987-2569
+CR Borges DDL, 2010, CAD SAUDE PUBLICA, V26, P59, DOI 10.1590/S0102-311X2010000100007
+   Boy R, 2011, J MED ETHICS, V37, P233, DOI 10.1136/jme.2010.037150
+   Chieffi AL, 2010, REV SAUDE PUBL, V44, P421, DOI [10.1590/S0034-89102010000300005, 10.1590/s0034-89102010000300005]
+   Chieffi AL, 2009, CAD SAUDE PUBLICA, V25, P1839, DOI 10.1590/S0102-311X2009000800020
+   Machado MAD, 2011, REV SAUDE PUBL, V45, P590, DOI 10.1590/s0034-89102011000300018
+   Harmatz P, 2006, J PEDIATR-US, V148, P533, DOI 10.1016/j.jpeds.2005.12.014
+   Medeiros M, 2006, SOC INDIC RES, V78, P1, DOI 10.1007/s11205-005-7156-1
+   Messeder AM, 2005, CAD SAUDE PUBLICA, V21, P525
+   Muenzer J, 2006, GENET MED, V8, P465, DOI 10.1097/01.gim.0000232477.37660.fb
+   Pereira JR, 2010, CIENC SAUDE COLETIVA, V15, P3551, DOI 10.1590/S1413-81232010000900030
+   Ventura Miriam, 2010, Physis, V20, P77, DOI 10.1590/S0103-73312010000100006
+   Vieira FS, 2009, REV ASSOC MED BRAS, V55, P672, DOI 10.1590/S0104-42302009000600011
+   Wraith JE, 2004, J PEDIATR-US, V144, P581, DOI 10.1016/j.jpeds.2004.01.046
+NR 13
+TC 12
+Z9 14
+U1 1
+U2 7
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD APR
+PY 2013
+VL 18
+IS 4
+BP 1089
+EP 1098
+DI 10.1590/S1413-81232013000400022
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 158VT
+UT WOS:000320002500022
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Harm Reduction and Abortion
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Erdman J., 2012, HARVARD J LAW GENDER, V34, P413
+   Schuler SR, 1995, INT FAM PLAN PERSPEC, V21, P132, DOI 10.2307/2133319
+NR 3
+TC 3
+Z9 3
+U1 0
+U2 6
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD DEC
+PY 2012
+VL 12
+IS 3
+DI 10.1111/dewb.12003
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 031YK
+UT WOS:000310678400001
+PM 23121216
+DA 2020-12-09
+ER
+
+PT J
+AU Menezes, DDEG
+AF Menezes, Debora Diniz e Greice
+TI Abortion: Women's health
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUL
+PY 2012
+VL 17
+IS 7
+BP 1668
+EP 1668
+DI 10.1590/S1413-81232012000700001
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 984XY
+UT WOS:000307228200001
+PM 23035332
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Medeiros, M
+AF Diniz, Debora
+   Medeiros, Marcelo
+TI Itineraries and methods of illegal abortion in five Brazilian state
+   capitals
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Induced abortion; Misoprostol; Cytotec; Adolescent pregnancy;
+   Reproductive health
+AB This paper presents the results of the structured interview phase of the National Abortion Survey (PNA-interviews), describing the itineraries, methods and social and demographic profile of women who had at least one illegal abortion. Structured interviews were conducted during the years 2010 and 2011 in five state capitals (Belem, Brasilia, Porto Alegre, Rio de Janeiro and Salvador) with 122 women aged between 18 and 39 who had abortions. It is a non-probabilistic sample controlled by six parameters in accordance with level of education and age to reflect the social and demographic structure found in the PNA ballot-box questionnaire phase. The majority of women interviewed had had only one abortion, but 1 in every 4 had two abortions and 1 in every 17 had a third one. The majority of abortions are among women under 19 years of age who already had children and a higher incidence is found among black women. The most common test for pregnancy is beta-HCG blood test, the pharmacy urine test and ultrassound. The prevailing method for induction is a combination of teas and misoprostol (called Cytotec in Brazil), followed by hospital assistance after induction. Women are usually helped by a relative or their partners and several women reported helping other women to have abortions.
+C1 [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70673970 Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] Univ Brasilia, Dept Sociol, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Programa Posgrad Polit Social, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@gmx.com
+RI Medeiros, Marcelo/C-8500-2009; Diniz, Debora/K-9000-2012
+OI Medeiros, Marcelo/0000-0001-7152-5996; Diniz, Debora/0000-0001-6987-2569
+CR [Anonymous], 2011, NY TIMES        0330
+   de Mello FMB, 2011, CAD SAUDE PUBLICA, V27, P87, DOI 10.1590/S0102-311X2011000100009
+   Diniz D, 2008, RECIIS S1, V2, pS78
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Diniz D, 2009, CAD SAUDE PUBLICA, V25, P939, DOI 10.1590/S0102-311X2009000400025
+   Fonseca W, 1998, CAD SAUDE PUBLICA, V14, P279
+   Hardy E, 1992, CAD SAUDE PUBLICA, V8, P454
+   LEAL O. F., 1995, CORPO SIGNIFICADO EN, P57
+   Madeiro AP, 2012, CIENC SAUDE COLETIVA, V17, P1735, DOI 10.1590/S1413-81232012000700012
+   Menezes G, 2009, CAD SAUDE PUBLICA, V25, pS193, DOI 10.1590/S0102-311X2009001400002
+   Menezes Greice M. S., 2006, Cad. Saúde Pública, V22, P1431, DOI 10.1590/S0102-311X2006000700008
+   Monteiro M, 2006, REV SAUDE SEX REPROD, P1
+   Motta Flávia de Mattos, 2008, Rev. Estud. Fem., V16, P681, DOI 10.1590/S0104-026X2008000200024
+   Nader Priscilla Rocha Araújo, 2007, Rev. bras. epidemiol., V10, P615, DOI 10.1590/S1415-790X2007000400019
+   Rapp R. R., 2000, TESTING WOMEN TESTIN
+   Souza Al, 1996, J BRAS GINECOL, V106, P355
+NR 16
+TC 31
+Z9 38
+U1 0
+U2 4
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUL
+PY 2012
+VL 17
+IS 7
+BP 1671
+EP 1681
+DI 10.1590/S1413-81232012000700002
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 984XY
+UT WOS:000307228200002
+PM 22872325
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Medeiros, M
+   Diniz, D
+AF Medeiros, Marcelo
+   Diniz, Debora
+TI Recommendations for abortion surveys using the ballot-box technique
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE Induced abortion; Questionnaire design; Ballot-box technique; Brazilian
+   abortion survey; PNA
+ID SEXUAL-BEHAVIOR
+AB The article lists recommendations for dealing with methodological aspects of an abortion survey and makes suggestions for testing and validating the survey questionnaire. The recommendations are based on the experience of the Brazilian Abortion Survey (PNA), a random sample household survey that used the ballot-box technique and covered adult women in all urban areas of the country.
+C1 [Medeiros, Marcelo] Univ Brasilia, Dept Sociol, BR-70910900 Brasilia, DF, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70910900 Brasilia, DF, Brazil.
+RP Medeiros, M (corresponding author), Univ Brasilia, Dept Sociol, Campus Univ ICC Ctro, BR-70910900 Brasilia, DF, Brazil.
+EM mclmdr@unb.br
+RI Medeiros, Marcelo/C-8500-2009; Diniz, Debora/K-9000-2012
+OI Medeiros, Marcelo/0000-0001-7152-5996; Diniz, Debora/0000-0001-6987-2569
+CR Benson LE, 1941, PUBLIC OPIN QUART, V5, P79, DOI 10.1086/265464
+   Catania JA, 1996, PUBLIC OPIN QUART, V60, P345, DOI 10.1086/297758
+   Diniz D, 2009, CAD SAUDE PUBLICA, V25, P939, DOI 10.1590/S0102-311X2009000400025
+   Lara D, 2004, SOCIOL METHOD RES, V32, P529, DOI 10.1177/0049124103262685
+   Lara D, 2006, SOCIOLOGICAL METHODS, V35, P79
+   Olinto MTA, 2004, REV PANAM SALUD PUBL, V15, P331, DOI 10.1590/S1020-49892004000500008
+   Plummer ML, 2004, TROP MED INT HEALTH, V9, P737, DOI 10.1111/j.1365-3156.2004.01254.x
+   Zamudio L, 1999, ABORTION DEV WORLD, P149
+NR 8
+TC 5
+Z9 6
+U1 0
+U2 0
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUL
+PY 2012
+VL 17
+IS 7
+BP 1721
+EP 1724
+DI 10.1590/S1413-81232012000700010
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 984XY
+UT WOS:000307228200010
+PM 22872333
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Madeiro, A
+AF Diniz, Debora
+   Madeiro, Alberto
+TI Cytotec and Abortion: the police, the vendors and women
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Cytotec; Misoprostol; Abortion; Maternal Mortality
+ID BRAZIL; MISOPROSTOL; REGION
+AB This paper analyzes the illegal trade in misoprostol, the medication predominantly used for abortion in Brazil. The study analyzed ten cases that came to the attention of the Public Prosecution Service for the Federal District between 2004 and 2010. The cases were organized into three categories: 1. women's stories; 2. profile of the vendors; 3. maternal mortality cases. The research was reviewed by an ethics committee. The main outcomes were: 1. young women in steady relationships use misoprostol in the home or with the assistance of drug vendors. Of the seven women indicted, three were reported on arrival at the public hospital to finalize abortion; 2. the drug vendors work at the community drugstore and are local agents for the sale of misoprostol. They instruct women on how to use the drug and how to prevent infections, but refuse to provide them with care in case of emergency. Traffickers operate via the internet and have a larger inventory of drugs; 3. there were two cases of maternal mortality due to the combination of high risk methods, such as a vaginal probe and misoprostol. The main causes for maternal mortality are the delay in seeking medical care, as the women fear criminal prosecution, and the combined use of misoprostol with high risk methods.
+C1 [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70673970 Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Univ Brasilia, Dept Sociol, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Programa Posgrad Polit Social, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@gmx.com
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Albuquerque RM, 1998, REV BRAS GINECOL OBS, V20, P181
+   BARBOSA RM, 1993, STUD FAMILY PLANN, V24, P236, DOI 10.2307/2939191
+   Cecatti JG, 2010, REV BRAS GINECOL OBS, V32, P105, DOI 10.1590/S0100-72032010000300002
+   CHUMPITAZ V. A., 2003, THESIS FUNDACAO O CR, P140
+   COELHO HLL, 1993, LANCET, V341, P1261, DOI 10.1016/0140-6736(93)91157-H
+   Costa SH, 1998, INT J GYNECOL OBSTET, V63, pS131, DOI 10.1016/S0020-7292(98)00195-7
+   Costa SH, 1993, LANCET, V341, P1258
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Diniz D, 2009, CAD SAUDE PUBLICA, V25, P939, DOI 10.1590/S0102-311X2009000400025
+   Duarte GA, 2002, REV SAUDE PUBL, V36, P271, DOI [10.1590/S0034-89102002000300003, 10.1590/s0034-89102002000300003]
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Fonseca W, 1996, REV SAUDE PUBL, V30, P13, DOI 10.1590/S0034-89101996000100003
+   Fonseca W, 1998, CAD SAUDE PUBLICA, V14, P279
+   Fusco Carmen L. B., 2008, Rev. bras. epidemiol., V11, P78, DOI 10.1590/S1415-790X2008000100007
+   Hardy E, 1992, CAD SAUDE PUBLICA, V8, P454
+   LAGUARDIA KD, 1990, OBSTET GYNECOL, V75, P27
+   Andrade ATL, 2006, REV BRAS GINECOL OBS, V28, P380, DOI 10.1590/S0100-72032006000700002
+   Lima B G, 2000, Rev Panam Salud Publica, V7, P168
+   Martins I R, 1991, Cad Saude Publica, V7, P251
+   Nader Priscilla Rocha Araújo, 2007, Rev. bras. epidemiol., V10, P615, DOI 10.1590/S1415-790X2007000400019
+   Organizacao Mundial da Sande (OMS), 2004, AB INS OR TECN POL S
+   Ramos José Geraldo Lopes, 2003, Rev. Bras. Ginecol. Obstet., V25, P431, DOI 10.1590/S0100-72032003000600008
+   Silva RDE, 1998, REV SAUDE PUBL, V32, P7, DOI 10.1590/S0034-89101998000100002
+   Souza Al, 1996, J BRAS GINECOL, V106, P355
+   Viggiano MGC, 1996, J BRAS GINECOL, V3, P55
+NR 26
+TC 21
+Z9 25
+U1 0
+U2 6
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUL
+PY 2012
+VL 17
+IS 7
+BP 1795
+EP 1804
+DI 10.1590/S1413-81232012000700018
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 984XY
+UT WOS:000307228200018
+PM 22872341
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Medeiros, M
+   Schwartz, IVD
+AF Diniz, Debora
+   Medeiros, Marcelo
+   Schwartz, Ida Vanessa D.
+TI Consequences of the judicialization of health policies: the cost of
+   medicines for mucopolysaccharidosis
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Jurisprudence; Mucopolysaccharidoses; Health Policy
+ID ENZYME REPLACEMENT THERAPY
+AB This study analyzes expenditures backed by court rulings to ensure the public provision of medicines for treatment of mucopolysaccharidosis (MPS), a rare disease that requires high-cost drugs not covered by the Brazilian government's policy for pharmaceutical care and which have disputed clinical efficacy. The methodology included a review of files from 196 court rulings ordering the Brazilian Ministry of Health to provide the medicines, in addition to Ministry of Health administrative records. According to the analysis, the "judicialization" of the health system subjected the Brazilian government to a monopoly in the distribution of medicines and consequently the loss of its capacity to manage drug purchases. The study also indicates that the imposition of immediate, individualized purchases prevents obtaining economies of scale with planned procurement of larger amounts of the medication, besides causing logistic difficulties in controlling the amounts consumed and stored. In conclusion, litigation results from the lack of a clear policy in the health system for rare diseases in general, thereby leading to excessive expenditures for MPS treatment.
+C1 [Diniz, Debora] Anis Inst Bioet Direitos Humanos & Genero, BR-70673970 Brasilia, DF, Brazil.
+   [Diniz, Debora; Medeiros, Marcelo] Univ Brasilia, Brasilia, DF, Brazil.
+   [Schwartz, Ida Vanessa D.] Univ Fed Rio Grande do Sul, Porto Alegre, RS, Brazil.
+   [Schwartz, Ida Vanessa D.] Hosp Clin Porto Alegre, Serv Genet Med, Porto Alegre, RS, Brazil.
+RP Diniz, D (corresponding author), Anis Inst Bioet Direitos Humanos & Genero, CP 8011,Setor Sudoeste, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@gmx.com
+RI Schwartz, Ida/M-1422-2015; Medeiros, Marcelo/C-8500-2009; Schwartz, Ida
+   Vanessa Doederlein/ABG-5471-2020; Schwartz, Ida V/H-5923-2016; Diniz,
+   Debora/K-9000-2012
+OI Schwartz, Ida/0000-0002-7933-6687; Medeiros,
+   Marcelo/0000-0001-7152-5996; Schwartz, Ida Vanessa
+   Doederlein/0000-0002-7933-6687; Diniz, Debora/0000-0001-6987-2569
+CR ANDRADE E. I. G., 2008, REV MED MINAS GER S4, V18, pS46
+   [Anonymous], 2009, ULTRA ORPHAN DRUGS L
+   Boy R, 2011, J MED ETHICS, V37, P233, DOI 10.1136/jme.2010.037150
+   Harmatz P, 2006, J PEDIATR-US, V148, P533, DOI 10.1016/j.jpeds.2005.12.014
+   Muenzer J, 2006, GENET MED, V8, P465, DOI 10.1097/01.gim.0000232477.37660.fb
+   Neufeld EF, 2001, METABOLIC MOL BASES, P3421, DOI DOI 10.1036/OMMBID.165
+   Ventura Miriam, 2010, Physis, V20, P77, DOI 10.1590/S0103-73312010000100006
+   Vieira T, 2008, AM J MED GENET A, V146A, P1741, DOI 10.1002/ajmg.a.32320
+   Wraith JE, 2004, J PEDIATR-US, V144, P581, DOI 10.1016/j.jpeds.2004.01.046
+NR 9
+TC 29
+Z9 37
+U1 0
+U2 12
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD MAR
+PY 2012
+VL 28
+IS 3
+BP 479
+EP 489
+DI 10.1590/S0102-311X2012000300008
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 907ZN
+UT WOS:000301459700008
+PM 22415180
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Conscientious objection and abortion: rights and duties of public sector
+   physicians
+SO REVISTA DE SAUDE PUBLICA
+LA Portuguese
+DT Editorial Material
+DE Abortion, Legal; Physicians, ethics; Health Knowledge, Attitudes,
+   Practice; Health Law; Conscientious Objection
+AB The paper analyzes conscientious objection by physicians, through the concrete situation of legal abortion in Brazil. It reviews the two main ethical frameworks about conscientious objection in public health, the incompatibility thesis and the integrity thesis, to analyze the reality of legal abortion services in the referral services of the Brazilian public health care system. From these two perspectives, a third perspective is proposed-the justification thesis, to manage the right to conscientious objection among physicians in referral services. This analysis may contribute to the organization of services for legal abortion and to the education of future physicians working in emergency obstetric care.
+C1 [Diniz, Debora] Univ Brasilia, Anis Inst Bioet Direitos Humanos & Genero, Programa Posgrad Polit Social, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Antommaria AHM, 2008, THEOR MED BIOETH, V29, P201, DOI 10.1007/s11017-008-9077-x
+   Asch A, 2006, HASTINGS CENT REP, V36, P11, DOI 10.1353/hcr.2006.0087
+   Brock DW, 2008, THEOR MED BIOETH, V29, P187, DOI 10.1007/s11017-008-9076-y
+   Cook RJ, 2009, INT J GYNECOL OBSTET, V104, P249, DOI 10.1016/j.ijgo.2008.10.023
+   Frader J, 2009, AM J MED GENET C, V151C, P62, DOI 10.1002/ajmg.c.30200
+   PELLEGRINO ED, 1990, KAR INS NCS, P3
+   Savulescu J, 2006, BRIT MED J, V332, P294, DOI 10.1136/bmj.332.7536.294
+   Wicclair MR, 2008, THEOR MED BIOETH, V29, P171, DOI 10.1007/s11017-008-9075-z
+   Wicclair MR, 2000, BIOETHICS, V14, P205, DOI 10.1111/1467-8519.00191
+NR 9
+TC 10
+Z9 14
+U1 1
+U2 16
+PU REVISTA DE SAUDE PUBLICA
+PI SAO PAULO
+PA FACULDADE SAUDE PUBL DA USP, AV DR ARNALDO 715, 01246-904SP SAO PAULO,
+   BRAZIL
+SN 0034-8910
+EI 1518-8787
+J9 REV SAUDE PUBL
+JI Rev. Saude Publica
+PD OCT
+PY 2011
+VL 45
+IS 5
+BP 981
+EP 985
+DI 10.1590/S0034-89102011005000047
+PG 5
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 829AU
+UT WOS:000295547800021
+PM 21808831
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI VISUAL BIOETHICS
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Niccol Andrew, 1997, GATTACA
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1471-8731
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD AUG
+PY 2011
+VL 11
+IS 2
+BP II
+EP II
+DI 10.1111/j.1471-8847.2011.00307.x
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 801PI
+UT WOS:000293452100001
+PM 21790959
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Castro, R
+AF Diniz, Debora
+   Castro, Rosana
+TI The illegal market for gender-related drugs as portrayed in the
+   Brazilian news media: the case of misoprostol and women
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Induced Abortion; Abortifacient Agents; Misoprostol; News
+ID MATERNAL MORTALITY; ABORTION
+AB This article analyzes how the Brazilian news media covers the illegal market for misoprostol, the main drug used to induce abortion. A total of 1,429 news stories were retrieved from 220 print and electronic media channels from 2004 to 2009. The analysis included 524 stories from 62 regional and national newspapers. Misoprostol appeared repeatedly in the news, but was usually approached from a criminal perspective, unlike abortion as a whole, which the Brazilian media routinely covers as a religious, political, and public health issue. Misoprostol is part of the illegal gender-related drug market, along with drugs for weight loss and erectile dysfunction and anabolic steroids. Sixty-four (12%) of the news stories told life histories of women who had aborted with misoprostol. The women's ages ranged from 13 to 46 years, and socioeconomic status was associated with different experiences with abortion. Three characters appeared in the women's abortion itineraries: girlfriends (confidantes), go-betweens, and physicians. Stories of late-stage abortion are confused with the criminal characterization of infanticide and provide the extreme cases in the media's narrative on abortion.
+C1 [Diniz, Debora; Castro, Rosana] Ants Inst Bioet Direitos Humanos & Genero, BR-70673970 Brasilia, DF, Brazil.
+   [Diniz, Debora; Castro, Rosana] Univ Brasilia, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Ants Inst Bioet Direitos Humanos & Genero, CP 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR ALMEIDA LM, ABORTO PAUTA INFORM
+   *AN I BIOET DIR HU, 2010, PESQ QUAND AB SE APR
+   BARBOSA RM, 1993, ESTUD FEM, V1, P408
+   *COM CID REPR, 2002, OLH MID
+   DEFREITAS S, 2004, FOLHA S PAULO   0702
+   DINIZ D, 2008, RECIIS S1, V2, P78
+   ENTMAN RM, 1993, J COMMUN, V43, P51, DOI 10.1111/j.1460-2466.1993.tb01304.x
+   Esacove AW, 2004, SOCIOL INQ, V74, P70, DOI 10.1111/j.1475-682X.2004.00080.x
+   *FED LAT SOC OBST, MIS OBST GIN
+   Fernandez MM, 2009, INT J GYNECOL OBSTET, V105, P180, DOI 10.1016/j.ijgo.2008.12.016
+   Ferree MM, 2003, AM J SOCIOL, V109, P304, DOI 10.1086/378343
+   FERREIRA RG, 1994, J BRAS GINECOL, V104, P291
+   GUANDALINE L, 2009, GLOBO           0304
+   Harper CC, 2007, INT J GYNECOL OBSTET, V98, P66, DOI 10.1016/j.ijgo.2007.03.009
+   *INT CONS MED AB, MED AB
+   Kumar A, 2009, CULT HEALTH SEX, V11, P625, DOI 10.1080/13691050902842741
+   Andrade ATL, 2006, REV BRAS GINECOL OBS, V28, P380, DOI 10.1590/S0100-72032006000700002
+   Li YT, 2008, INT J GYNECOL OBSTET, V101, P301, DOI 10.1016/j.ijgo.2007.12.003
+   MELO J, ABORTO IMPRENSA BRAS
+   *MIN SAUD DEP AC P, 2005, AT HUM AB NORM TECN
+   *MIN SAUD SECR CIE, 2009, 20 AN PESQ AB BRAS
+   Mouw T, 2001, AM J SOCIOL, V106, P913, DOI 10.1086/320294
+   *ORG MUND SAUD, AB SEG OR TECN POL S
+   PICHONELLY M, 2008, FOLHA S PAULO   0406
+   Pruitt SL, 2005, CONTRACEPTION, V71, P14, DOI 10.1016/j.contraception.2004.07.012
+   Reese SD, 2007, J COMMUN, V57, P148, DOI 10.1111/j.1460-2466.2006.00334.x
+   Rohlinger DA, 2002, SOCIOL QUART, V43, P479, DOI 10.1111/j.1533-8525.2002.tb00063.x
+   Rohlinger DA, 2006, SOC PROBL, V53, P537, DOI 10.1525/sp.2006.53.4.537
+   WARRINER IK, 2006, PREVENTING UNSAFE AB
+   Woodward K. L, 2005, NOTRE DAME J LAW ETH, V19, P427
+   World Health Organization, 2007, UNS AB GLOB REG EST
+NR 31
+TC 11
+Z9 17
+U1 0
+U2 6
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD JAN
+PY 2011
+VL 27
+IS 1
+BP 94
+EP 102
+DI 10.1590/S0102-311X2011000100010
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 729BO
+UT WOS:000287922700010
+PM 21340108
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI BIOETHICS AND CULTURE
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Fox R. C., 2008, OBSERVING BIOETHICS
+   Okin S, 1999, IS MULTICULTURALISM
+NR 2
+TC 1
+Z9 1
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD DEC
+PY 2010
+VL 10
+IS 3
+BP II
+EP III
+DI 10.1111/j.1471-8847.2010.00291.x
+PG 2
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 678YJ
+UT WOS:000284119200001
+PM 20433463
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Medeiros, M
+AF Diniz, Debora
+   Medeiros, Marcelo
+TI Abortion in Brazil: a household survey using the ballot box technique
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Induced abortion; Abortion surveys; Medical abortion; Reproductive
+   history; Ballot box technique; Brazil
+ID SEXUAL-BEHAVIOR; QUESTIONNAIRE; MEXICO
+AB This study presents the first results of the National Abortion Survey (PNA, Pesquisa Nacional de Aborto), a household random sample survey fielded in 2010 covering urban women in Brazil aged 18 to 39 years. The PNA combined two techniques, interviewer-administered questionnaires and self-administered ballot box questionnaires. The results of PNA show that at the end of their reproductive health one in five women has performed an abortion, with abortions being more frequent in the main reproductive ages, that is, from 18 to 29 years old. No relevant differentiation was observed in the practice of abortion among religious groups, but abortion was found to be more common among people with lower education. The use of medical drugs to induce abortion occurred in half of the abortions, and post-abortion hospitalization was observed among approximately half of the women who aborted. Such results lead to conclude that abortion is a priority in the Brazilian public health agenda.
+C1 [Diniz, Debora] Anis Inst Bioet Direitos Humanos & Genero, Setor Sudoeste, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Anis Inst Bioet Direitos Humanos & Genero, Setor Sudoeste, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012; Medeiros, Marcelo/C-8500-2009
+OI Diniz, Debora/0000-0001-6987-2569; Medeiros, Marcelo/0000-0001-7152-5996
+CR BARBOSA RM, 1993, ESTUD FEM, V1, P408
+   BARRETO T, 1992, STUD FAMILY PLANN, V23, P159, DOI 10.2307/1966725
+   Benson LE, 1941, PUBLIC OPIN QUART, V5, P79, DOI 10.1086/265464
+   Bishop GF, 1995, PUBLIC OPIN QUART, V59, P568, DOI 10.1086/269494
+   Bradley KA, 2001, ALCOHOL CLIN EXP RES, V25, P1472, DOI 10.1097/00000374-200110000-00010
+   Brasil. Ministerio da Saude, 2009, 20 AN PESQ AB BRAS
+   Catania JA, 1996, PUBLIC OPIN QUART, V60, P345, DOI 10.1086/297758
+   Diskin A., 1981, INT POLITICAL SCI RE, V2, P407
+   Fonseca W, 1996, REV SAUDE PUBL, V30, P13, DOI 10.1590/S0034-89101996000100003
+   Fonseca W, 1998, CAD SAUDE PUBLICA, V14, P279
+   Instituto Brasileiro de Geografia e Estatistica, 2008, PESQ NAC AM DOM 2008
+   Lara D, 2004, SOCIOL METHOD RES, V32, P529, DOI 10.1177/0049124103262685
+   Lara D, 2006, SOCIOL METHOD RES, V35, P279, DOI 10.1177/0049124106290442
+   LUCENA RCB, 2000, THESIS CTR PESQUISAS
+   Menezes G, 2009, CAD SAUDE PUBLICA, V25, pS193, DOI 10.1590/S0102-311X2009001400002
+   Montes de Oca MA, 2006, LECT NOTES COMPUT SC, V4150, P1
+   OLINTO M, 1994, REV BRAS ESTUD POPUL, V11, P255
+   Olinto MTA, 2004, REV PANAM SALUD PUBL, V15, P331, DOI 10.1590/S1020-49892004000500008
+   Plummer ML, 2004, TROP MED INT HEALTH, V9, P737, DOI 10.1111/j.1365-3156.2004.01254.x
+   Rossier C, 2003, STUD FAMILY PLANN, V34, P87, DOI 10.1111/j.1728-4465.2003.00087.x
+   SCHOR N, 1990, REV SAUDE PUBL, V24, P144, DOI 10.1590/S0034-89101990000200010
+   Silva R., 1993, ESTUD FEM, V1, P123
+   Silva RS, 1993, REV BRAS ESTUDOS POP, V10, P41
+   Singh S, 1991, INT FAM PLAN PERSPEC, V17, P8
+   Zamudio L, 1999, ABORTION DEV WORLD, P149
+NR 25
+TC 79
+Z9 103
+U1 0
+U2 11
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUN
+PY 2010
+VL 15
+SU 1
+BP 959
+EP 966
+DI 10.1590/S1413-81232010000700002
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 662QP
+UT WOS:000282826700002
+PM 20640252
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI BIOETHICS FOR HEALTH PROFESSIONALS
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Book Review
+C1 [Diniz, Debora] Univ Brasilia, Brasilia, DF, Brazil.
+   [Diniz, Debora] Anis Inst Bioet Direitos Humanos & Genero, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Brasilia, DF, Brazil.
+RI Diniz, Debora/K-9000-2012; PALACIOS, MARISA/L-9081-2015
+OI Diniz, Debora/0000-0001-6987-2569; PALACIOS, MARISA/0000-0001-6507-4199
+CR BRAGA KS, 2009, THESIS U BRASILIA
+   REGO S, 2009, BIOETICA PARA PROFES
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD MAY
+PY 2010
+VL 26
+IS 5
+BP 1052
+EP U224
+DI 10.1590/S0102-311X2010000500028
+PG 2
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 613DW
+UT WOS:000278959100028
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI CONSCIENTIOUS OBJECTION IN DEVELOPING COUNTRIES
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Brock DW, 2008, THEOR MED BIOETH, V29, P187, DOI 10.1007/s11017-008-9076-y
+   Casas L, 2009, REPROD HEALTH MATTER, V17, P78, DOI 10.1016/S0968-8080(09)34473-0
+   DINIZ D, 2008, INT J FEM APPROACHES, V1, P23
+   MANIAN M, 2009, DUKE J GENDER LAW PO, V16, P224
+   van Bogaert Louis-Jacques, 2002, Dev World Bioeth, V2, P131, DOI 10.1111/1471-8847.00046
+   Wicclair MR, 2010, CAMB Q HEALTHC ETHIC, V19, P38, DOI 10.1017/S0963180109990235
+NR 6
+TC 1
+Z9 1
+U1 0
+U2 2
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1471-8731
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD APR
+PY 2010
+VL 10
+IS 1
+DI 10.1111/j.1471-8847.2010.00279.x
+PG 1
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 564KU
+UT WOS:000275213900001
+PM 20433463
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Penalva, J
+   Faundes, A
+   Rosas, C
+AF Diniz, Debora
+   Penalva, Janaina
+   Faundes, Anibal
+   Rosas, Cristiao
+TI Anencephaly: the magnitude of the judicial authorization among medical
+   doctors in Brazil
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Abortion; Anencephaly; Therapeutic Abortion; Interruption of Pregnancy
+AB This paper describes the magnitude of the medical care for pregnant women with an anencephalic fetus. Anencephaly is an abnormality incompatible with life. The right to abort in this case is under litigation at the Brazilian Supreme Court. This survey was conducted among 1,814 medical doctors, all of them affiliated to the Brazilian Federation of Gynecology and Obstetrics (Febrasgo), corresponding to 12% of the doctors within this federation. The results show that, in a group of 9,730 women cared by the physicians over the last 20 years, 85% preferred to interrupt pregnancy in case of anencephaly. This fact reveals how common the experience of assist women pregnant with an anencephalic fetus is in health care services, as well as the ethical challenge imposed by the restrictive Brazilian legislation on abortion.
+C1 [Diniz, Debora; Penalva, Janaina] Anis Inst Bioet, Direitos Humanos & Genero, BR-70673970 Brasilia, DF, Brazil.
+   [Faundes, Anibal] Univ Estadual Campinas, BR-13081970 Campinas, SP, Brazil.
+RP Diniz, D (corresponding author), Anis Inst Bioet, Direitos Humanos & Genero, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR BARROSO LR, 2004, ANENCEFALIA SUPREMO, P69
+   *BRAS MIN SAUD, 2009, 20 PESQ AB BRAS
+   CUNNINGHAM FG, 2000, TRATADO OBSTET WILLI
+   DINIZ D, 2006, OLHARES FEMININOS MU, P45
+   Diniz D, 2007, DEV WORLD BIOETH, V7, P64, DOI 10.1111/j.1471-8847.2007.00202.x
+   Diniz Debora, 2003, Physis, V13, P251, DOI 10.1590/S0103-73312003000200003
+   FRIGERIO M, 2003, REV BRAS CIENC CRIM, V11, P268
+   GOLLOP TR, 2006, DEFESA VIDA ABORTO D, P69
+   GONCALVES TA, 2008, ABORTO RELIG TRIBUNA
+   PANIGASSI AP, 2008, AN 13 C PAUL OBST GI, pR2
+   SWAIMAN K, 2003, PEDIAT NEUROLOGY PRI, V1, P250
+NR 11
+TC 12
+Z9 15
+U1 0
+U2 2
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD SEP-OCT
+PY 2009
+VL 14
+SU 1
+BP 1619
+EP 1624
+DI 10.1590/S1413-81232009000800035
+PG 6
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 493OL
+UT WOS:000269746800035
+PM 19750371
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI RATIONING THE ACCESS TO HIGH COST MEDICINES IN DEVELOPING COUNTRIES
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Correa C, 2000, INTELLECTUAL PROPERT
+   Daniels N, 2002, CAN WE LEARN SHARE M
+   Grangeiro A, 2006, REV SAUDE PUBL, V40, P60, DOI 10.1590/S0034-89102006000800009
+   HAM C, 2003, REASONABLE RATIONING
+   KEITH S, 2007, LAW LEGITIMACY RATIO, P1
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1471-8731
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD AUG
+PY 2009
+VL 9
+IS 2
+BP II
+EP III
+DI 10.1111/j.1471-8847.2009.00260.x
+PG 2
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 471JG
+UT WOS:000268052800001
+PM 19645716
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Avelino, D
+AF Diniz, Debora
+   Avelino, Daniel
+TI International perspective on embryonic stem cell research
+SO REVISTA DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Embryonic Stem Cells; Embryo Research, legislation & jurisprudence;
+   Legislation Science and Technology; Legislation; Ethics, Research;
+   Bioethics, trends
+ID POTENTIALITY; LINES
+AB OBJECTIVE: To comparatively analyze governmental regulations on embryonic stem cell research among countries.
+   METHODS: The study was performed between March and May 2008, using a direct electronic search through official databases of legislative documents from 25 selected countries, confirmed by email consultation with researchers and authorities from these countries, when necessary.
+   RESULTS: Results showed a trend to allow the practice of embryonic stem cell research, though with strict ethical restrictions. Among the countries analyzed, only Italy and Germany explicitly condemned the extraction of stem cells and only Italy prohibits their subsequent use. Recent judicial decisions in Brazil are in accordance with the international regulatory context of embryo research.
+   CONCLUSIONS: The trend observed represents freedom of research to promote knowledge as a public good, emphasized by the expectation of therapeutic potentiality of embryonic stem cell research to treat and cure diseases without any medical care.
+C1 [Diniz, Debora; Avelino, Daniel] Anis Inst Bioet Direitos Humanos & Genero, BR-70673970 Brasilia, DF, Brazil.
+RP Avelino, D (corresponding author), Anis Inst Bioet Direitos Humanos & Genero, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM davelino@ig.com.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Bjuresten K, 2003, HUM REPROD, V18, P1353, DOI 10.1093/humrep/deg265
+   Burton PJ, 2004, MED J AUSTRALIA, V180, P559, DOI 10.5694/j.1326-5377.2004.tb06091.x
+   Deckers J, 2005, BIOETHICS, V19, P251, DOI 10.1111/j.1467-8519.2005.00440.x
+   Devolder K, 2005, BIOETHICS, V19, P167, DOI 10.1111/j.1467-8519.2005.00432.x
+   Gross ML, 2003, CAMB Q HEALTHC ETHIC, V12, P247, DOI 10.1017/S0963180103123055
+   Guhr A, 2006, STEM CELLS, V24, P2187, DOI 10.1634/stemcells.2006-0053
+   Hanafin P., 2006, FEM LEGAL STUD, V14, P329, DOI DOI 10.1007/S10691-006-9031-0
+   Heinemann T, 2002, BIOETHICS, V16, P530, DOI 10.1111/1467-8519.00309
+   Hug K, 2008, FERTIL STERIL, V89, P263, DOI 10.1016/j.fertnstert.2007.09.017
+   Jain T, 2008, FERTIL STERIL, V90, P506, DOI 10.1016/j.fertnstert.2007.07.1311
+   LARIJANI B, 2006, DARU S, V1, P7
+   Pasotti J, 2006, NATURE, V442, P229, DOI 10.1038/442229a
+   Prainsack B, 2006, SOC STUD SCI, V36, P173, DOI 10.1177/0306312706053348
+   Takala T, 2007, BIOETHICS, V21, P150, DOI 10.1111/j.1467-8519.2007.00538.x
+   Warnock M, 1984, REPORT COMMITTEE INQ
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU REVISTA DE SAUDE PUBLICA
+PI SAO PAULO
+PA FACULDADE SAUDE PUBL DA USP, AV DR ARNALDO 715, 01246-904SP SAO PAULO,
+   BRAZIL
+SN 0034-8910
+EI 1518-8787
+J9 REV SAUDE PUBL
+JI Rev. Saude Publica
+PD JUN
+PY 2009
+VL 43
+IS 3
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 446TG
+UT WOS:000266143500019
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Correa, M
+   Squinca, F
+   Braga, KS
+AF Diniz, Debora
+   Correa, Marilena
+   Squinca, Flavia
+   Braga, Katia Soares
+TI Abortion: 20 years of Brazilian research
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Abortion; Empirical Research; Women
+AB The aim of this paper is to discuss the main characteristics of the scientific literature on abortion in Brazil. Data were collected from 88 literature bases, and 2,109 documents from 1987 to 2008 were retrieved. Based on the findings, the field of abortion in Brazil is dominated by female researchers affiliated with public universities and nongovernmental organizations from the Southeast, with training in health sciences. There is no research on abortion in the North, while 14% of the studies were conducted in the Northeast and 4% in the Central-West. Abortion has been a constant theme in the scientific literature in Brazil, increasing in the mid-20th century.
+C1 [Diniz, Debora; Squinca, Flavia; Braga, Katia Soares] Univ Brasilia, BR-70673970 Brasilia, DF, Brazil.
+   [Correa, Marilena] Univ Estado Rio de Janeiro, BR-20550011 Rio De Janeiro, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, CP 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Correa, Marilena/W-4995-2019; Diniz, Debora/K-9000-2012
+OI Correa, Marilena/0000-0003-1742-8639; Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 13
+Z9 15
+U1 0
+U2 4
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD APR
+PY 2009
+VL 25
+IS 4
+BP 939
+EP 942
+DI 10.1590/S0102-311X2009000400025
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 429DH
+UT WOS:000264900500025
+PM 19347220
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Guedes, C
+   Barbosa, L
+   Tauil, PL
+   Magalhaes, I
+AF Diniz, Debora
+   Guedes, Cristiano
+   Barbosa, Livia
+   Tauil, Pedro Luiz
+   Magalhaes, Isis
+TI Prevalence of sickle cell trait and sickle cell anemia among newborns in
+   the Federal District, Brazil, 2004 to 2006
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Sickle Cell Trait; Sickle Cell Anemia; Neonatal Screening; Newborn
+   Infant
+ID HEMOGLOBIN-S; POPULATION; DISEASE
+AB To determine the prevalence of sickle cell trait and sickle cell anemia among newborns in the Federal District, Brazil, a cross-sectional prevalence study covering the years 2004 to 2006 was conducted. Test results reported from the Neonatal Screening Program in the Federal District Health Department from 2004 to 2006 were analyzed, and prevalence rates were calculated. Neonatal blood samples were tested by isoelectric focalization. From January 2004 to December 2006, 116,271 newborns were tested for hemoglobinopathies, corresponding to 85% of all live births from mothers residing in the Federal District. The study identified 3,760 newborns with sickle cell trait (Hb AS) and 109 with sickle cell anemia (Hb SS). The prevalence rates were 323 (Hb AS) and 9 (Hb SS) per 10,000 live births. The high prevalence of sickle cell trait highlights the importance of neonatal screening in the Federal District to support work by health managers and professionals for planning educational measures and reducing the morbidity associated with sickle cell disease.
+C1 [Diniz, Debora; Guedes, Cristiano; Barbosa, Livia] Anis Inst Bioet, Direitos Humanos & Genero, BR-70673970 Brasilia, DF, Brazil.
+   [Diniz, Debora; Guedes, Cristiano; Barbosa, Livia] Univ Brasilia, Programa Posgrad Ciencias Saude, Brasilia, DF, Brazil.
+   [Tauil, Pedro Luiz] Univ Brasilia, Programa Posgrad Med Trop, Brasilia, DF, Brazil.
+   [Magalhaes, Isis] Secretaria Estado Saude Dist, Nucleo Oncol Hematol Pediat, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Anis Inst Bioet, Direitos Humanos & Genero, CP 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR ANIONWU E, 2001, POLITICS SICKLE CELL, P8
+   [Anonymous], 2008, AM FAM PHYSICIAN, V77, P1300
+   Auricchio MTBDM, 2007, HUM BIOL, V79, P667
+   Bandeira Flavia Miranda Gomes C, 2008, Rev. Saúde Pública, V42, P234, DOI 10.1590/s0034-89102008000200007
+   Brandelise S, 2004, CLIN LAB HAEMATOL, V26, P15, DOI 10.1111/j.0141-9854.2003.00576.x
+   CAIADO M. C. S., 2005, REV BRASILEIRA ESTUD, V22, P55
+   Cançado Rodolfo D., 2007, Rev. Bras. Hematol. Hemoter., V29, P204, DOI 10.1590/S1516-84842007000300002
+   Carvalho T, 2005, REV MED MINAS GER S1, V15, P20
+   Diniz Debora, 2003, Cad. Saúde Pública, V19, P1761, DOI 10.1590/S0102-311X2003000600020
+   Ferraz Maria Helena C., 2007, Rev. Bras. Hematol. Hemoter., V29, P218, DOI 10.1590/S1516-84842007000300005
+   GUEDES C, 2006, THESIS U BRASILIA BR
+   Lobo Clarisse Lopes de Castro, 2003, Rev Panam Salud Publica, V13, P154
+   McCabe LL, 2002, MOL GENET METAB, V75, P299, DOI 10.1016/S1096-7192(02)00005-7
+   *MIN SAUD, 2005, MAN NORM TECN ROT OP
+   NAOUM PC, 1985, REV SAUDE PUBL, V19, P364, DOI 10.1590/S0034-89101985000400008
+   Naoum PC, 2000, REV BRAS HEMATOL HEM, V22, P142
+   Ofori-Acquah SF, 2007, RENAISSANCE SICKLE C, P333
+   PACE B, 2007, RENAISSANCE SICKLE C
+   PEREIRA MG, 2000, EPIDEMIOLOGIA TEORIA
+   Ramalho Antonio Sérgio, 2003, Cad. Saúde Pública, V19, P1195, DOI 10.1590/S0102-311X2003000400040
+   RAMALHO AS, 1997, CAD SAUDE PUBLICA, V13, P285
+   Serjeant GR, 2000, LANCET, V356, P168, DOI 10.1016/S0140-6736(05)73186-X
+   Silva Wellington dos Santos, 2006, Cad. Saúde Pública, V22, P2561, DOI 10.1590/S0102-311X2006001200006
+   Smith-Whitley K, 2007, RENAISSANCE SICKLE C, P45
+   Souza CFM, 2002, CIENC SAUDE COLETIVA, V7, P129
+   STEINBERG M, 2007, RENAISSANCE SICKLE C, P193
+   VERAS M, 1998, REV SAUDE DIST FED, V9, P9
+   Watanabe AM, 2008, CAD SAUDE PUBLICA, V24, P993, DOI 10.1590/S0102-311X2008000500006
+   ZAGO M, 2001, MANUAL DOENCAS MAIS, P13
+   Zago Marco Antonio, 2007, Rev. Bras. Hematol. Hemoter., V29, P207, DOI 10.1590/S1516-84842007000300003
+NR 30
+TC 9
+Z9 15
+U1 0
+U2 1
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD JAN
+PY 2009
+VL 25
+IS 1
+BP 188
+EP 194
+DI 10.1590/S0102-311X2009000100020
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 402EI
+UT WOS:000262996600020
+PM 19180301
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI EMBRYONIC STEM CELL RESEARCH: ETHICAL CHALLENGES FOR DEVELOPING WORLD
+   BIOETHICS
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+ID POTENTIALITY
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Deckers J, 2005, BIOETHICS, V19, P251, DOI 10.1111/j.1467-8519.2005.00440.x
+   Devolder K, 2005, BIOETHICS, V19, P167, DOI 10.1111/j.1467-8519.2005.00432.x
+   Gross ML, 2003, CAMB Q HEALTHC ETHIC, V12, P247, DOI 10.1017/S0963180103123055
+   Hanafin P., 2006, FEM LEGAL STUD, V14, P329, DOI DOI 10.1007/S10691-006-9031-0
+   Heinemann T, 2002, BIOETHICS, V16, P530, DOI 10.1111/1467-8519.00309
+   LARIJANI B, 2006, DARU S, V1, P7
+   Pasotti J, 2006, NATURE, V442, P229, DOI 10.1038/442229a
+   Prainsack B, 2006, SOC STUD SCI, V36, P173, DOI 10.1177/0306312706053348
+   Takala T, 2007, BIOETHICS, V21, P150, DOI 10.1111/j.1467-8519.2007.00538.x
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD DEC
+PY 2008
+VL 8
+IS 3
+BP II
+EP IV
+DI 10.1111/j.1471-8847.2008.00246.x
+PG 3
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 377KB
+UT WOS:000261249000001
+PM 19046254
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Research ethics in social sciences - new challenges
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Research ethics; Social sciences; Ethics commission; Abortion
+ID FIELDWORK; IRBS
+AB This paper aims to discuss how already established principles of research ethics can be incorporated to the ethical review of research projects in Social Sciences, particularly ethnographic studies or studies using the techniques of participant observation and open interviews. The discussion is guided by an analysis of the methodological and ethical procedures used in the production of the ethnographic documentary "Severina's Story". The analysis of the film shows the urgent need to expand the horizons of the debate around research ethics beyond the biomedical fundaments of this field.
+C1 Univ Brasilia, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR ASCH T, 1996, CADERNOS ANTROPOLOGI, V3, P85
+   Banks M., 1997, RETHINKING VISUAL AN
+   BEAUCHAMP TL, 1982, ETHICAL ISSUES SOCIA
+   Bosk CL, 2000, BIOETHICS IN SOCIAL CONTEXT, P199
+   *BRAS MIN SAUD CON, 1996, NORM REG PESQ EMS HU
+   Caplan P., 2003, ETHICS ANTHR DEBATES
+   CASSELL J, 1980, SOC PROBL, V27, P259, DOI 10.1525/sp.1980.27.3.03a00010
+   CHAGNON NA, 1968, YANOMAMO FIERCE PEOP
+   CHAMBERS E, 1980, SOC PROBL, V27, P330, DOI 10.1525/sp.1980.27.3.03a00080
+   COIMBRA C, REL REUN ET PESQ QUA
+   Corrigan O, 2003, SOCIOL HEALTH ILL, V25, P768, DOI 10.1046/j.1467-9566.2003.00369.x
+   DARIN S, 2004, ESPELHO PARTIDO TRAD
+   DESHAYES P, 1996, CADERNOS ANTROPOLOGI, V3, P53
+   DINIZ D, 2006, QUEM SAO ELAS
+   DINIZ D, 2004, HIST SEVERINA
+   Diniz D, 2007, DEV WORLD BIOETH, V7, P64, DOI 10.1111/j.1471-8847.2007.00202.x
+   ELGUINDI F, 2004, VISUAL ANTHR ESSENTI
+   Emanuel EJ, 2003, ETHICAL REGULATORY A
+   Feld Steven, 2003, CINE ETHNOGRAPHY, P1
+   Gordon EJ, 2003, ANTHROPOL QUART, V76, P299, DOI 10.1353/anq.2003.0023
+   Gross Larry, 1991, IMAGE ETHICS MORAL R
+   GUBRIM JF, 2002, HDB INTERVIEW RES CO
+   GUILHEM D, 2006, ETICA PESQUISA EXPEI
+   Hamilton A, 2005, J APPL COMMUN RES, V33, P189, DOI 10.1080/00909880500149353
+   HENLEY P, 1999, CADERNOS ANTROPOLOGI, V9, P29
+   Hesse-Biber S. N., 2004, FEMINIST PERSPECTIVE
+   Hockings P., 2003, PRINCIPLES VISUAL AN, P507
+   Hoeyer K, 2005, SOC SCI MED, V61, P1741, DOI 10.1016/j.socscimed.2005.03.026
+   *I BIOET DIR HUM G, 2004, AN PENS BRAS SUA PLU
+   LINS C, 2004, DOCUMENTARIO EDUARDO
+   LUNA N, 2007, PROVETAS CLONES ANTR
+   MACHADO LZ, 2007, ETICA PESQUISA SAUDE, P119
+   MACKLIN R, 1982, ETHICAL ISSUES SOCIA
+   Marshall PA, 2003, ANTHROPOL QUART, V76, P269, DOI 10.1353/anq.2003.0028
+   Mead M., 2003, PRINCIPLES VISUAL AN
+   Miller FG, 2003, HASTINGS CENT REP, V33, P19, DOI 10.2307/3528434
+   MONTEMOR P, 1994, CINEMA ANTROPOLOGIA
+   OKI GF, 2006, I REV BOARD MANAGEME, P97
+   Palys T., 2000, CANADIAN J LAW SOC, V15, P39
+   PRENTICE ED, 2006, I REV BOARD MANAGEME, P93
+   RIBBENS J, 2000, FEMINIST DILEMMAS QU
+   Robert Borofsky, 2005, YANOMAMI FIERCE CONT
+   ROSSET Clement, 2002, PRINCIPIO CRUELDADE
+   ROUCH J, 2003, CINE ETHNOGRAPHY J R, P129
+   Rouch Jean, 2003, CINE ETHNOGRAPHY, P29
+   SCHROEDER D, 2006, DEV WORLD BIOETH, V6, pR1
+   SIEBER JE, 1984, NIH READINGS PROTECT
+   Silverman D., 2004, QUALITATIVE RES THEO
+   SWAIMAN K, 2003, PEDIAT NEUROLOGY PRI, V1, P250
+   THORNE B, 1980, SOC PROBL, V27, P284, DOI 10.1525/sp.1980.27.3.03a00040
+   VANDELL DL, 1984, NIH READINGS PROTECT, P89
+   VERTOV D, 1983, KINO EYE WRITINGS DZ
+   VICTORA Ceres, 2004, ANTROPOLOGIA ETICA D
+   Waldman D., 1999, FEMINISM DOCUMENTARY
+   Wolf S. M., 1996, FEMINISM BIOETHICS R
+NR 55
+TC 6
+Z9 11
+U1 0
+U2 9
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD MAR-APR
+PY 2008
+VL 13
+IS 2
+BP 417
+EP 426
+DI 10.1590/S1413-81232008000200017
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 385LX
+UT WOS:000261816800017
+PM 18813558
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Squinca, F
+   Medeiros, M
+AF Diniz, Debora
+   Squinca, Flavia
+   Medeiros, Marcelo
+TI Which disability? Medical evaluation and social assistance in Brazil
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE social assistance; disabled persons; social security
+AB This article examines the concept of disability adopted by the most important cash transfer program targeting the disabled population in Brazil, the Continuous Cash Benefit (Beneficio de Prestacao Continuada - BPC). The study compares the eligibility criteria established by law and the criteria used by medical examiners in the beneficiary selection process. The data are from a sample survey of 16% of the medical examiners working in the program. The questionnaire aims to assess the instructions, forms, and procedures for selecting disabled beneficiaries. The results show a discrepancy between the formal program criteria and actual practice by the examiners, suggesting an expanded concept of disability aimed at including beneficiaries with genetic, chronic, and severe infectious diseases.
+C1 [Diniz, Debora; Squinca, Flavia] Univ Brasilia, BR-70673970 Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] UN Dev Programme, Int Poverty Ctr, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, CP 8011, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Medeiros, Marcelo/C-8500-2009; Diniz, Debora/K-9000-2012
+OI Medeiros, Marcelo/0000-0001-7152-5996; Diniz, Debora/0000-0001-6987-2569
+CR Abberley P, 1987, DISABILITY HANDICAP, V2, P5, DOI DOI 10.1080/02674648766780021
+   *ASS NAC MED PER, EST MED PER INSS
+   Barton L., 2002, DISABILITY STUDIES T
+   BARTON L, 1997, DISABILITY STUDIES P, pR9
+   BOSCHETTI I, 2001, ASSISTENCIA SOCIAL B
+   DAVIS D, 2001, GENETIC DILEMMAS REP, P49
+   Diniz D, 2007, QUE DEFICIENCIA
+   Diniz D, 2006, TOPICOS BIOETICA, P82
+   Dworkin Ronald, 2005, VIRTUDE SOBERANA TEO
+   Francis L. Pickering, 2000, AM DISABILITIES EXPL
+   Gleeson BJ, 1997, DISABIL SOC, V12, P179, DOI 10.1080/09687599727326
+   *I PESQ EC APL, 2006, EMPR TECN INF PREV S
+   Kittay E. F., 1999, LOVES LABOR ESSAYS W
+   *MIN DES SOC COMB, BEN PREST CONT
+   *MIN PREV SOC ASS, 2002, REL PROC REV
+   Oliver M., 1990, POLITICS DISABLEMENT
+   Oliver M., 1998, DISABLED PEOPLE SOCI
+   Organizacao Mundial de Saude, 2001, CLASS INT FUNC INC S
+   PEREIRA P., 1996, ASSISTENCIA SOCIAL P
+   *UN PHYS IMP SEGR, 1976, FUND PRINC DIS
+   Wendell S., 1996, REJECTED BODY FEMINI
+NR 21
+TC 8
+Z9 11
+U1 0
+U2 7
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD NOV
+PY 2007
+VL 23
+IS 11
+BP 2589
+EP 2596
+DI 10.1590/S0102-311X2007001100006
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 271RM
+UT WOS:000253806400006
+PM 17952251
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   MedeiroS, M
+   Squinca, F
+AF Diniz, Debora
+   MedeiroS, Marcelo
+   Squinca, Flavia
+TI Comments on the Portuguese translation of the international
+   classification of functioning, disability and health
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE terminology; diseases classification; public policies
+AB An analysis of the World Health Organization terminology for disability indicates the influence of the social model of disability in the International Classification of Functioning, Disability, and Health. This theoretical framework should guide any translations of the document. In Brazil, the document was translated as Classificacao Internacional de Funcionalidade, Incapacidade e Sailde. We argue that more appropriate than translating disability as "incapacidade" and impairments as "deficiencias" would be to use the term "deficiencia" for disability and "lesao" for impairment. Considering the normative impact of a WHO document for social policy and international research, the translation should accurately reflect the concepts and their theoretical basis.
+C1 [Diniz, Debora] Univ Brasilia, Programa Posgrad Politica Social, BR-70673970 Brasilia, DF, Brazil.
+   [Diniz, Debora; MedeiroS, Marcelo; Squinca, Flavia] Direitos Humanos & Genero, Inst Bioetica, Brasilia, DF, Brazil.
+   [MedeiroS, Marcelo] Int Poverty Ctr, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Programa Posgrad Politica Social, BR-70673970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012; Medeiros, Marcelo/C-8500-2009
+OI Diniz, Debora/0000-0001-6987-2569; Medeiros, Marcelo/0000-0001-7152-5996
+CR Albrecht Gary L, 2001, HDB DISABILITY STUDI
+   Centro Colaborador da Organizacao Mundial da Sau-de para a Familia de Classificacoes Internacionais organizador, 2003, CIF CLASS INT FUNC I
+   Edwards SD, 1997, J MED PHILOS, V22, P589
+   STIKER HJ, 1997, HIST DISABILITY
+   Wendell S., 1996, REJECTED BODY FEMINI
+   WHO, 1980, INT CLASS IMP DIS HA
+   World Health Organization, 2001, INT CLASS FUNCT DIS
+NR 7
+TC 11
+Z9 20
+U1 0
+U2 6
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD OCT
+PY 2007
+VL 23
+IS 10
+BP 2507
+EP 2510
+DI 10.1590/S0102-311X2007001000025
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 271RK
+UT WOS:000253806200025
+PM 17891310
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Abortion and public health in Brazil
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Editorial Material
+C1 Univ Brasilia, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 13
+Z9 15
+U1 0
+U2 1
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD SEP
+PY 2007
+VL 23
+IS 9
+BP 1993
+EP 1993
+DI 10.1590/S0102-311X2007000900001
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 348KW
+UT WOS:000259210400001
+PM 17700928
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Rego, S
+   Cecilio, LCD
+   Diniz, D
+   Dallari, SG
+   Nogueira, VMR
+   Selli, L
+   Correia, LC
+   Lima, IMSO
+   Alves, VS
+AF Rego, Sergio
+   de Oliveira Cecilio, Luiz Carlos
+   Diniz, Debora
+   Dallari, Sueli Gandolfi
+   Ribeiro Nogueira, Vera Maria
+   Selli, Lucilda
+   Correia, Ludmila Cerqueira
+   Sampaio Oliveira Lima, Isabel Maria
+   Alves, Vania Sampaio
+TI Debate on the paper by Correia et al.
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Editorial Material
+C1 [Rego, Sergio] Fundacao Oswaldo Cruz, Escola Nacl Saude Publ Sergio Arouca, Rio De Janeiro, Brazil.
+   [de Oliveira Cecilio, Luiz Carlos] Univ Fed Sao Paulo, Dept Prevent Med, Sao Paulo, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, Brasilia, DF, Brazil.
+   [Dallari, Sueli Gandolfi] Univ Sao Paulo, Nucleo Pesquisas Direito Sanit, Sao Paulo, Brazil.
+   [Ribeiro Nogueira, Vera Maria] Univ Fed Santa Catarina, Univ Catolica Pelotas, Florianopolis, SC, Brazil.
+   [Selli, Lucilda] Univ Vale Rio dos Sinos, Programa Posgrad Saude Colet, Sao Leopoldo, Brazil.
+RP Rego, S (corresponding author), Fundacao Oswaldo Cruz, Escola Nacl Saude Publ Sergio Arouca, Rio De Janeiro, Brazil.
+EM rego@ensp.fiocruz.br; lcc@edprev.epm.br; anis@anis.org.br;
+   sdallari@uol.com.br; vera@mbox1.ufsc.br; lucilda@unisinos.br
+RI Rego, Sergio/S-2237-2019; Diniz, Debora/K-9000-2012
+OI Rego, Sergio/0000-0002-0584-3707; Diniz, Debora/0000-0001-6987-2569
+CR BARROS FO, 2003, CONSELHO FEDERAL PSI, P112
+   Beauchamp T. L ., 1994, PRINCIPLES BIOMEDICA
+   BIONDI E, REINSERCAO SOCIAL PO
+   BRASIL. Ministerio da Saude, 2004, HUMANIZASUS POL NAC
+   *CONS FED PSIC ORD, 2004, INSP NAC UN PSIQ PRO
+   *DEP AC PROGR EST, 2004, AR TECN SAUD SIST PE
+   *DIAR OF UN, 2001, DISP PROT DIR PESS P
+   GARRAFA V, 1998, BIOETICA, P28
+   GOLDIN JR, PESQUISA PRISIONEIRO
+   Goncalves A M, 2001, Rev Lat Am Enfermagem, V9, P48, DOI 10.1590/S0104-11692001000200007
+   HABERMAS Jurgen, 1996, DROIT DEMOCRATIE ENT
+   Kottow MH, 2003, BIOETHICS, V17, P460, DOI 10.1111/1467-8519.00361
+   LIGUORI G, 2000, ESTADO MUNDIALIZACAO
+   MIRABETE Julio Fabbrini, 2001, PROCESSO PENAL
+   *ORD ADV BRAS, PRIM ANOS
+   Peres Maria Fernanda Tourinho, 2002, Hist. cienc. saude-Manguinhos, V9, P335, DOI 10.1590/S0104-59702002000200006
+   RECASENSSICHES L, 1986, TRATADO GEN FILOSOFI
+   Rothman D. J., 1991, STRANGERS BEDSIDE
+   ROXIM C, 2002, POLITICA CRIMINAL SI
+   SCHRAMM FR, 2005, REV BRASILEIRA BIOET, V1, P18
+   Taborda JGV, 2002, CURR OPIN PSYCHIATR, V15, P599, DOI 10.1097/00001504-200211000-00007
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD SEP
+PY 2007
+VL 23
+IS 9
+BP 2003
+EP 2012
+DI 10.1590/S0102-311X2007000900003
+PG 15
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 348KW
+UT WOS:000259210400003
+PM 17700930
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Perea, JGF
+   Luna, F
+AF Diniz, Debora
+   Perea, Juan-Guillermo Figueroa
+   Luna, Florencia
+TI Reproductive health ethics: Latin American perspectives
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 1471-8731
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD AUG
+PY 2007
+VL 7
+IS 2
+BP II
+EP III
+DI 10.1111/j.1471-8847.2007.00203.x
+PG 2
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 219ZM
+UT WOS:000250126700001
+PM 17614989
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Selective abortion in Brazil: The anencephaly case
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Article
+DE abortion; selective abortion; anencephaly
+AB This paper discusses the Brazilian Supreme Court ruling on the case, of anencephaly. In Brazil, abortion is a crime against the life of a fetus, and selective abortion of non-viable fetuses is prohibited. Following a paradigmatic case discussed by the Brazilian Supreme Court in 2004, the use of abortion was authorized in the case of a fetus with anencephaly. The objective of this paper is to analyze the ethical arguments of the case, in particular the strategy of avoiding the moral status of the fetus, the cornerstone thesis of the Catholic Church.
+RP Diniz, D (corresponding author), Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR BECKER M, 2004, ANENCEFALIA PENSAMEN, P32
+   BIANCARELLI A, 2004, FOLHA SAO PAULO 0702
+   BOONIN D, 2003, DEFENSE ABORTION
+   DINIZ D, 2005, CADERNOS SAUDE PUBLI, V21, P675
+   FRIGERIO M, 2001, J BRAZILIAN SOC FETA, V7, P12
+   GOLLOP T, 2004, J FEBRASGO, V9, P10
+   HOROVITZ D, 2004, ANENCEFALIA PENSAMEN, P29
+   MEDEIROS M, ANESCEFALIA PENSAMEN, P21
+   *NINDS, NINDS AN INF PAG
+   *SECR ESP POL MULH, 2004, PLAN NAC POL MULH
+   SWAIMAN K, 2003, PEDIAT NEUROLOGY PRI, V1, P250
+   WHO, 2003, WORLD ATL BIRTH DEF
+NR 12
+TC 16
+Z9 19
+U1 0
+U2 6
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 1471-8731
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD AUG
+PY 2007
+VL 7
+IS 2
+BP 64
+EP 67
+DI 10.1111/j.1471-8847.2007.00202.x
+PG 4
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA 219ZM
+UT WOS:000250126700003
+PM 17614991
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Artificial womb
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Book Review
+C1 [Diniz, Debora] Univ Brasilia, Program Posgrad & Polit Social, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Program Posgrad & Polit Social, Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR ATLAN H, 2006, UTERO ARTIFICIAL
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 12
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD MAY
+PY 2007
+VL 23
+IS 5
+BP 1241
+EP 1243
+DI 10.1590/S0102-311X2007000500028
+PG 3
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 271RD
+UT WOS:000253805500029
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, Debora
+TI Forum - Sexual violence and health. Postscript
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Editorial Material
+C1 Univ Brasilia, Programa Posgrad Polit Social, BR-70683970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Programa Posgrad Polit Social, CP 8011, BR-70683970 Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+NR 0
+TC 2
+Z9 4
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD FEB
+PY 2007
+VL 23
+IS 2
+BP 477
+EP 478
+DI 10.1590/S0102-311X2007000200026
+PG 2
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 271QW
+UT WOS:000253804800026
+PM 17221099
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, D
+TI Abortion in Brazilian bioethics
+SO CAMBRIDGE QUARTERLY OF HEALTHCARE ETHICS
+LA English
+DT Article
+C1 Fed Univ Rio De Janeiro, Brasilia, DF, Brazil.
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR *A GUTTM I, 1994, AB CLAND
+   Andre J., 2002, BIOETHICS PRACTICE
+   ANJOS MF, 2001, BIOETHICA ALGUNS DES, P65
+   BALTAR MI, 1996, ESTUDOS FEMINISTAS, V4, P381
+   *CDD, 2002, AB LEG IMPL ET REL
+   Diniz D, 1999, BIOETHICS, V13, P244, DOI 10.1111/1467-8519.00152
+   DINIZ Debora, 2002, QUE BIOETICA
+   DINIZ Debora, 2003, ABORTO ANOMALIA FETA
+   Garrafa V, 1999, Cad Saude Publica, V15 Suppl 1, P35
+   Parens E, 2000, PRENATAL TESTING DIS
+   PESSINI L, 1998, INICIACAO BIOETICA, P81
+NR 11
+TC 0
+Z9 1
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0963-1801
+J9 CAMB Q HEALTHC ETHIC
+JI Camb. Q. Healthc. Ethics
+PD SUM
+PY 2004
+VL 13
+IS 3
+BP 275
+EP 279
+PG 5
+WC Health Care Sciences & Services; Health Policy & Services; Social
+   Sciences, Biomedical
+SC Health Care Sciences & Services; Biomedical Social Sciences
+GA 829VJ
+UT WOS:000222078100010
+PM 15283552
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+AF Diniz, D
+TI Guest editors' note
+SO BIOETHICS
+LA English
+DT Editorial Material
+RI Szigetvari, Peter/H-3334-2017; Steurer, Walter/B-6929-2008; Siptar,
+   Peter/I-3126-2018; Gosy, Maria/I-4620-2017; Steurer, Walter/A-3278-2008;
+   Newson, Mark/L-9660-2018; Hudek-Knezevic, Jasna/Q-1598-2018; Petzelt,
+   Jan/G-6142-2014; Diniz, Debora/K-9000-2012; Xiao, Honggen/B-1145-2014;
+   Mann, Eric/J-3413-2019; Song, Zibin/C-7780-2015
+OI Szigetvari, Peter/0000-0001-6045-2859; Steurer,
+   Walter/0000-0003-0211-7088; Siptar, Peter/0000-0002-4878-6722; Gosy,
+   Maria/0000-0003-4336-3007; Newson, Mark/0000-0002-7127-6448;
+   Hudek-Knezevic, Jasna/0000-0002-7710-652X; Petzelt,
+   Jan/0000-0001-8562-2148; Diniz, Debora/0000-0001-6987-2569; Xiao,
+   Honggen/0000-0003-4621-7232; Mann, Eric/0000-0001-9439-7800; Song,
+   Zibin/0000-0002-9584-7452
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 1
+PU BLACKWELL PUBL LTD
+PI OXFORD
+PA 108 COWLEY RD, OXFORD OX4 1JF, OXON, ENGLAND
+SN 0269-9702
+J9 BIOETHICS
+JI Bioethics
+PD JUN
+PY 2001
+VL 15
+IS 3
+BP III
+EP V
+PG 3
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues;
+   Biomedical Social Sciences
+GA 436FU
+UT WOS:000168926500001
+DA 2020-12-09
+ER
+
+PT J
+AU Diniz, D
+   Guilhem, DB
+   Garrafa, V
+AF Diniz, D
+   Guilhem, DB
+   Garrafa, V
+TI Bioethics in Brazil
+SO BIOETHICS
+LA English
+DT Article; Proceedings Paper
+CT IV World Congress of the International-Association-of-Bioethics
+CY NOV, 1998
+CL TOKYO, JAPAN
+SP Int Assoc Bioethics
+AB In this article the authors briefly sketch the nature of Brazilian bioethics. Bioethics emerged in Brazil later than it other Western countries and the 1990's were the most important period for the spread of the discipline in the country. It is in this period that some structural elements of bioethics were established, such as research groups, regulation of Local Research Ethics Committees (Comites Locais de Etica em Pesquisa - CEP), the creation of the National Commission of Ethics in Research with Human Beings (Comissao Nacional de Etica em Pesquisa com Seres Humanos - CONEP) and the Brazilian Bioethics Society (Sociedade Brazileira de Bioetica - SBB). With regard to theoretical work, Brazilian bioethics is clearly an important of theories from countries central to the studies of bioethics, or, in another words, countries where bioethics first emerged and was established, The most commonly used theory among Brazilian researchers is principlism.
+C1 Univ Brasilia, Fac Hlth Sci, BR-70910900 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Fac Hlth Sci, BR-70910900 Brasilia, DF, Brazil.
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Beauchamp T. L ., 1994, PRINCIPLES BIOMEDICA
+   CHILDRESS J, MATTER PRINCIPLES FE, P72
+   FOX RC, 1994, MATTER PRINCIPLES FE, P21
+   GARCIA D, 1996, J MED PHILOS, V21, P593
+   GARRAFA V, IN PRESS CADERNOS SA
+   GERT B, 1997, BIOETHICS RETURN FUN, P71
+   *MIN HLTH NAT HLTH, 1997, RUL REG NORMS RES IN
+NR 7
+TC 10
+Z9 13
+U1 0
+U2 10
+PU BLACKWELL PUBL LTD
+PI OXFORD
+PA 108 COWLEY RD, OXFORD OX4 1JF, OXON, ENGLAND
+SN 0269-9702
+J9 BIOETHICS
+JI Bioethics
+PD JUL
+PY 1999
+VL 13
+IS 3-4
+BP 244
+EP 248
+DI 10.1111/1467-8519.00152
+PG 5
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues;
+   Biomedical Social Sciences
+GA 212BM
+UT WOS:000081196500009
+PM 11657234
+DA 2020-12-09
+ER
+
+EF

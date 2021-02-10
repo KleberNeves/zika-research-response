@@ -1,0 +1,872 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Leyser, M
+   Marques, F
+   Amarante, C
+   Elias, MA
+   Klein, R
+   Nascimento, OJM
+AF Leyser, Marcio
+   Marques, Fernanda
+   Amarante, Claret
+   Elias, Marco Aurelio
+   Klein, Renata
+   Nascimento, Osvaldo J. M.
+TI Developmental Outcomes in a Cohort of Infants Born With Congenital ZIKA
+   Syndrome
+SO JOURNAL OF DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS
+LA English
+DT Meeting Abstract
+C1 [Leyser, Marcio] Univ Iowa, Iowa City, IA USA.
+   [Marques, Fernanda; Amarante, Claret; Elias, Marco Aurelio; Klein, Renata] SARAH Network Rehabil Hosp, Rio De Janeiro, Brazil.
+   [Nascimento, Osvaldo J. M.] Fluminense Fed Univ, Niteroi, RJ, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0196-206X
+EI 1536-7312
+J9 J DEV BEHAV PEDIATR
+JI J. Dev. Behav. Pediatr.
+PD FEB-MAR
+PY 2020
+VL 41
+IS 2
+MA 79
+BP S18
+EP S19
+PG 2
+WC Behavioral Sciences; Psychology, Developmental; Pediatrics
+SC Behavioral Sciences; Psychology; Pediatrics
+GA LE6SH
+UT WOS:000526852800042
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Marques, F
+   Teixeira, MC
+   Barra, R
+   Almeida, A
+   Penna, P
+   Carvalho, R
+   Gonsalves, M
+   Nascimento, OJM
+AF Leyser, Marcio
+   Marques, Fernanda
+   Teixeira, Marta Cristina
+   Barra, Rafael
+   Almeida, Alexandre
+   Penna, Patricia
+   Carvalho, Ricardo
+   Gonsalves, Marcia
+   Nascimento, Osvaldo J. M.
+TI Clinical and Brain-Related Anatomo-Physiological Findings in a Cohort of
+   Infants Born with Congenital ZIKA Syndrome
+SO JOURNAL OF DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS
+LA English
+DT Meeting Abstract
+C1 [Leyser, Marcio] Univ Iowa, Iowa City, IA USA.
+   [Marques, Fernanda; Teixeira, Marta Cristina; Barra, Rafael; Almeida, Alexandre; Penna, Patricia; Carvalho, Ricardo; Gonsalves, Marcia] SARAH Network Rehabil Hosp, Rio De Janeiro, Brazil.
+   [Nascimento, Osvaldo J. M.] Fluminense Fed Univ, Niteroi, RJ, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0196-206X
+EI 1536-7312
+J9 J DEV BEHAV PEDIATR
+JI J. Dev. Behav. Pediatr.
+PD FEB-MAR
+PY 2020
+VL 41
+IS 2
+MA 80
+BP S19
+EP S19
+PG 1
+WC Behavioral Sciences; Psychology, Developmental; Pediatrics
+SC Behavioral Sciences; Psychology; Pediatrics
+GA LE6SH
+UT WOS:000526852800043
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Marques, FJP
+   Nascimento, OJM
+AF Leyser, Marcio
+   Marques, Fernanda J. P.
+   Nascimento, Osvaldo J. M.
+TI A multilevel-based research framework on congenital Zika syndrome
+SO PEDIATRIC RESEARCH
+LA English
+DT Editorial Material
+C1 [Leyser, Marcio] Univ Iowa, Dept Pediat, Iowa City, IA 52242 USA.
+   [Marques, Fernanda J. P.; Nascimento, Osvaldo J. M.] Fluminense Fed Univ, Antonio Pedro Univ Hosp, Dept Neurol, Niteroi, RJ, Brazil.
+RP Leyser, M (corresponding author), Univ Iowa, Dept Pediat, Iowa City, IA 52242 USA.
+EM marcio-leyser@uiowa.edu
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR Bailey DB, 2018, PEDIATRICS, V141, pS180, DOI 10.1542/peds.2017-2038G
+   Chimelli L, 2017, ACTA NEUROPATHOL, V133, P983, DOI 10.1007/s00401-017-1699-5
+   Marques FJP, 2019, J CHILD NEUROL, V34, P81, DOI 10.1177/0883073818811234
+   Ribeiro BG, 2017, RADIOGRAPHICS, V37, P1840, DOI 10.1148/rg.2017170023
+   Wheeler AC, 2018, PEDIATRICS, V141, pS154, DOI [10.1542/peds.2017-2038D, 10.1542/peds.2017-2038d]
+   2018, CHILDS NERV SYST, V34, P63
+   2018, NAT MICROBIOL, V3, P1214
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 0031-3998
+EI 1530-0447
+J9 PEDIATR RES
+JI Pediatr. Res.
+PD MAY
+PY 2019
+VL 85
+IS 6
+BP 745
+EP 746
+DI 10.1038/s41390-019-0349-0
+PG 2
+WC Pediatrics
+SC Pediatrics
+GA HW0YI
+UT WOS:000466408300005
+PM 30791041
+OA Bronze
+DA 2020-12-14
+ER
+
+PT J
+AU Marques, FJP
+   Teixeira, MCS
+   Barra, RR
+   de Lima, FM
+   Dias, BLS
+   Pupe, C
+   Nascimento, OJM
+   Leyser, M
+AF Marques, Fernanda J. P.
+   Teixeira, Marta C. S.
+   Barra, Rafael R.
+   de Lima, Fernanda M.
+   Scofano Dias, Bruno L.
+   Pupe, Camila
+   Nascimento, Osvaldo J. M.
+   Leyser, Marcio
+TI Children Born With Congenital Zika Syndrome Display Atypical Gross Motor
+   Development and a Higher Risk for Cerebral Palsy
+SO JOURNAL OF CHILD NEUROLOGY
+LA English
+DT Article
+DE congenital Zika syndrome; cerebral palsy; gross motor development
+ID VIRUS-INFECTION; CHILDHOOD; SPECTRUM
+AB Importance: Congenital Zika syndrome virus infection is said to interfere in children's development. Objective: evaluate gross motor trajectories and the frequency of cerebral palsy in children with congenital Zika syndrome. Design: Cohort study applying the Alberta Infant Motor Scale (AIMS) and the Bayley III Scales in infants from 6 to 18 months of age. Setting: The SARAH network, Rio de Janeiro. Participants: Thirty-nine infants whose diagnoses were established through clinical history, serology tests, and neuroimaging findings. Main outcomes and measures: Congenital Zika syndrome is associated with severe motor delays and is a risk factor to the diagnosis of cerebral palsy. Results: The Alberta Infant Motor Scale mean raw score at 6 months was 9.74 (SD 4.80) or equivalent to 2 to 3 months of motor developmental age. At the age of 12 months, 14.13 (SD 11.90), corresponding to 3 to 4 months of motor development age; the Bayley III Scales results correlated to the Alberta Infant Motor Scale (P < .001) at this age. At 18 months, 15.77 (SD 13.80) or a motor development equivalent to 4 to 5 months of age. Thirty-five of 39 children (89.7%) met criteria for the diagnosis of cerebral palsy. Conclusions and relevance: Gross motor development marginally progresses from 6 to 18 months of age. These individuals also displayed a high frequency of cerebral palsy.
+C1 [Marques, Fernanda J. P.; Teixeira, Marta C. S.; Barra, Rafael R.; de Lima, Fernanda M.; Scofano Dias, Bruno L.] SARAH Network Rehabil Hosp, Av Canal Arroio Pavuna S-N, BR-22261001 Rio De Janeiro, Brazil.
+   [Marques, Fernanda J. P.; Pupe, Camila; Nascimento, Osvaldo J. M.] Fed Fluminense Univ, Niteroi, RJ, Brazil.
+   [Leyser, Marcio] Univ Iowa, Stead Family Dept Pediat, Iowa City, IA USA.
+RP Marques, FJP (corresponding author), SARAH Network Rehabil Hosp, Av Canal Arroio Pavuna S-N, BR-22261001 Rio De Janeiro, Brazil.
+EM fernandajpmarques@gmail.com
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR Braga LW, 2005, CHILD TRAUMATIC BRAI
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Chimelli L, 2017, ACTA NEUROPATHOL, V133, P983, DOI 10.1007/s00401-017-1699-5
+   Pone MVD, 2018, CHILD NERV SYST, V34, P63, DOI 10.1007/s00381-017-3635-3
+   Melo ASD, 2016, JAMA NEUROL, V73, P1407, DOI 10.1001/jamaneurol.2016.3720
+   DOLK H, 1991, DEV MED CHILD NEUROL, V33, P974
+   Gale CR, 2006, PEDIATRICS, V118, P1486, DOI 10.1542/peds.2005-2629
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Jacobsson B, 2004, BEST PRACT RES CL OB, V18, P425, DOI 10.1016/j.bpobgyn.2004.02.011
+   Leyser M, 2017, JAMA NEUROL, V74, P610, DOI 10.1001/jamaneurol.2017.0048
+   Leyser M, 2017, J NEUROL SCI, V372, P73, DOI 10.1016/j.jns.2016.11.030
+   Martinot AJ, 2018, CELL, V173, P1111, DOI 10.1016/j.cell.2018.03.019
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   Novak I, 2017, JAMA PEDIATR, V171, P897, DOI 10.1001/jamapediatrics.2017.1689
+   PIPER MC, 1992, CAN J PUBLIC HEALTH, V83, pS46
+   Ribeiro BG, 2017, RADIOGRAPHICS, V37, P1840, DOI 10.1148/rg.2017170023
+   Rintala P, 2013, PERCEPT MOTOR SKILL, V116, P294, DOI 10.2466/25.10.PMS.116.1.294-303
+   Satterfield-Nash A, 2017, MMWR-MORBID MORTAL W, V66, P1347, DOI 10.15585/mmwr.mm6649a2
+   Silva NDSH, 2011, REV BRAS CRESC DESEN, V21, P85, DOI DOI 10.7322/JHGD.19998
+   UNICEF, EARL CHILDH DEV KEY
+   Valentini Nadia Cristina, 2011, Rev. paul. pediatr., V29, P231, DOI 10.1590/S0103-05822011000200015
+   Aragao MDV, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1901
+   Von der Hagen M, 2014, DEV MED CHILD NEUROL, V56, P732, DOI 10.1111/dmcn.12425
+NR 24
+TC 11
+Z9 11
+U1 0
+U2 16
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0883-0738
+EI 1708-8283
+J9 J CHILD NEUROL
+JI J. Child Neurol.
+PD FEB
+PY 2019
+VL 34
+IS 2
+BP 81
+EP 85
+DI 10.1177/0883073818811234
+PG 5
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA HG4JF
+UT WOS:000454940800004
+PM 30421639
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+AF Leyser, Marcio
+TI Child Neurology: A Fragile Future
+SO JOURNAL OF CHILD NEUROLOGY
+LA English
+DT Editorial Material
+C1 [Leyser, Marcio] Univ Iowa, Ctr Disabil & Dev, 100 Hawkins Dr, Iowa City, IA 52242 USA.
+RP Leyser, M (corresponding author), Univ Iowa, Ctr Disabil & Dev, 100 Hawkins Dr, Iowa City, IA 52242 USA.
+EM marcio-leyser@uiowa.edu
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR Roberts M, 2012, AM J PSYCHIAT, V169, P1141, DOI 10.1176/appi.ajp.2012.12070916
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0883-0738
+EI 1708-8283
+J9 J CHILD NEUROL
+JI J. Child Neurol.
+PD MAY
+PY 2018
+VL 33
+IS 6
+BP 432
+EP 432
+DI 10.1177/0883073818760920
+PG 1
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA GD1AJ
+UT WOS:000430232100010
+PM 29514534
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Nascimento, OJM
+AF Leyser, Marcio
+   Nascimento, Osvaldo J. M.
+TI Congenital Zika Virus Infection: Beyond Neonatal Microcephaly
+SO JAMA NEUROLOGY
+LA English
+DT Letter
+C1 [Leyser, Marcio; Nascimento, Osvaldo J. M.] Fed Fluminense Univ, Antonio Pedro Univ Hosp, Niteroi, RJ, Brazil.
+RP Nascimento, OJM (corresponding author), Fed Fluminense Univ, Antonio Pedro Univ Hosp, NeuroUPC Clin Res Unit Neurol & Neurosci, Niteroi, RJ, Brazil.
+EM osvaldo_nascimento@hotmail.com
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR Melo ASD, 2016, JAMA NEUROL, V73, P1407, DOI 10.1001/jamaneurol.2016.3720
+   Leyser M, 2017, J NEUROL SCI, V372, P73, DOI 10.1016/j.jns.2016.11.030
+   Martines RB, 2016, LANCET, V388, P898, DOI 10.1016/S0140-6736(16)30883-2
+   van der Linden V, 2016, BMJ-BRIT MED J, V354, DOI 10.1136/bmj.i3899
+NR 4
+TC 3
+Z9 3
+U1 0
+U2 3
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 2168-6149
+EI 2168-6157
+J9 JAMA NEUROL
+JI JAMA Neurol.
+PD MAY
+PY 2017
+VL 74
+IS 5
+BP 610
+EP 610
+DI 10.1001/jamaneurol.2017.0048
+PG 1
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA EU2EE
+UT WOS:000400838900027
+PM 28319237
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Fernandes, A
+   Passos, P
+   Pupe, C
+   Matta, APC
+   Vasconcelos, MM
+   Nascimento, OJM
+AF Leyser, Marcio
+   Fernandes, Alexandre
+   Passos, Pamela
+   Pupe, Camila
+   Matta, Andre P. C.
+   Vasconcelos, Marcio Moacyr
+   Nascimento, Osvaldo J. M.
+TI Microcephaly and arthrogryposis multiplex congenita: The full-blown CNS
+   spectrum in newborns with ZIKV infection
+SO JOURNAL OF THE NEUROLOGICAL SCIENCES
+LA English
+DT Article
+ID VIRUS
+AB The recent alarming statements concerning the newborn ZIKV-induced microcephaly epidemics in the Northeast of Brazil, released by the Brazilian Ministry of Health, as well as important international health agencies, such as the World Health Organization and the Pan American Health Organization, raised many "why and how" questions so far, that will hopefully be scientifically answered, as more researches in that regard come up in the long term.
+   In this paper, we describe another potentially ZIKV-induced central nervous system and musculoskeletal disorder that has accompanied microcephaly in these children: atrhogryposis multiplex congenita.
+   The goal is to bring up some hypotheses for possible underlying molecular mechanisms based on published data taken from animal models, such as ovine and cattle, which once infected by other types of arboviroses and viruses that also belong to the Flaviviridae family, presented, too, with the full-blown CNS spectrum of malformations at birth. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Leyser, Marcio; Fernandes, Alexandre; Passos, Pamela; Pupe, Camila; Matta, Andre P. C.; Vasconcelos, Marcio Moacyr; Nascimento, Osvaldo J. M.] Univ Fed Fluminense, Antonio Pedro Univ Hosp, BR-24033900 Niteroi, RJ, Brazil.
+RP Leyser, M (corresponding author), Univ Fed Fluminense, Antonio Pedro Univ Hosp, BR-24033900 Niteroi, RJ, Brazil.
+EM marcioley@icloud.com
+RI Leyser, Marcio/Z-4422-2019; Fernandes, Alexandre R/K-3341-2016
+OI Leyser, Marcio/0000-0002-2929-8416; Fernandes,
+   Alexandre/0000-0001-6253-265X
+CR Adibi JJ, 2016, LANCET, V387, P1587, DOI 10.1016/S0140-6736(16)00650-4
+   Agerholm JS, 2015, ACTA VET SCAND, V57, DOI 10.1186/s13028-015-0145-8
+   Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Broutet N, 2016, NEW ENGL J MED, V374, P1506, DOI 10.1056/NEJMp1602708
+   Calvet G, 2016, LANCET INFECT DIS
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Hamel R, 2015, J VIROL, V89, P8880, DOI 10.1128/JVI.00354-15
+   Kul O, 2008, VET PATHOL, V45, P191, DOI 10.1354/vp.45-2-191
+   Mlakar J., 2016, NEW ENGL J MED
+   Moller-Madsen B, 2015, J CHILD ORTHOP, V9, P425, DOI 10.1007/s11832-015-0688-2
+   Peperkamp NH, 2015, VET PATHOL, V52, P1057, DOI 10.1177/0300985814560231
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Tetro J.A., 2016, MICROBES INFECT, P1
+NR 13
+TC 7
+Z9 7
+U1 0
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0022-510X
+EI 1878-5883
+J9 J NEUROL SCI
+JI J. Neurol. Sci.
+PD JAN 15
+PY 2017
+VL 372
+BP 73
+EP 74
+DI 10.1016/j.jns.2016.11.030
+PG 2
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA EJ1WZ
+UT WOS:000393002500016
+PM 28017252
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   de Camargo, OK
+   Matta, APC
+   Vasconcelos, MM
+   Nascimento, OJM
+AF Leyser, Marcio
+   de Camargo, Olaf Kraus
+   Matta, Andre P. C.
+   Vasconcelos, Marcio Moacyr
+   Nascimento, Osvaldo J. M.
+TI The International Classification of Functioning framework in
+   Zika-related disabilities
+SO EUROPEAN JOURNAL OF PAEDIATRIC NEUROLOGY
+LA English
+DT Letter
+ID CHILDHOOD
+C1 [Leyser, Marcio; Matta, Andre P. C.; Vasconcelos, Marcio Moacyr; Nascimento, Osvaldo J. M.] Univ Fed Fluminense, Antonio Pedro Univ Hosp, Niteroi, RJ, Brazil.
+   [de Camargo, Olaf Kraus] McMaster Univ, Hamilton, ON, Canada.
+RP Leyser, M (corresponding author), Antonio Pedro Univ Hosp, NeuroUPC, R Marques Parana,303-5th Floor Ctr, BR-24033900 Niteroi, RJ, Brazil.
+EM marcioley@hotmail.com
+RI de Camargo, Olaf Kraus/G-8419-2011; Leyser, Marcio/Z-4422-2019
+OI de Camargo, Olaf Kraus/0000-0002-7927-7189; Leyser,
+   Marcio/0000-0002-2929-8416
+CR DOLK H, 1991, DEV MED CHILD NEUROL, V33, P974
+   Kraus de Camargo O., 2016, BRAZ J MED HUM HLTH, V4, P29
+   Mecharles S, 2016, LANCET, V387, P1481, DOI 10.1016/S0140-6736(16)00644-9
+   Rosenbaum P, 2012, CHILD CARE HLTH DEV, V38, P457, DOI 10.1111/j.1365-2214.2011.01338.x
+   Rosenbaum P, 2009, NEUROPEDIATRICS, V40, P56, DOI 10.1055/s-0029-1234104
+   Von der Hagen M, 2014, DEV MED CHILD NEUROL, V56, P732, DOI 10.1111/dmcn.12425
+   Willison HJ, 2016, LANCET, V388, P717, DOI 10.1016/S0140-6736(16)00339-1
+NR 7
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1090-3798
+EI 1532-2130
+J9 EUR J PAEDIATR NEURO
+JI Eur. J. Paediatr. Neurol.
+PD NOV
+PY 2016
+VL 20
+IS 6
+BP 946
+EP 947
+DI 10.1016/j.ejpn.2016.08.001
+PG 2
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA EA1BC
+UT WOS:000386322300021
+PM 27558313
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Dias, BL
+   Coelho, AL
+   Vasconcelos, M
+   Nascimento, OJM
+AF Leyser, Marcio
+   Dias, Bruno Leonardo
+   Coelho, Ana Luiza
+   Vasconcelos, Marcio
+   Nascimento, Osvaldo J. M.
+TI 12p deletion spectrum syndrome: a new case report reinforces the
+   evidence regarding the potential relationship to autism spectrum
+   disorder and related developmental impairments
+SO MOLECULAR CYTOGENETICS
+LA English
+DT Article
+DE Autism spectrum disorder; 12p13.2 microdeletion; 12p microdeletion
+   spectrum; Developmental delay
+ID MB TERMINAL DELETION; SHORT ARM; INTERSTITIAL DELETION; CHROMOSOME 12P;
+   SUBTELOMERIC DELETION; MENTAL-RETARDATION; RECEPTOR; PATIENT;
+   ABNORMALITIES; RESOLUTION
+AB Background: Autism Spectrum Disorders (ASD) now encompass a broad heterogeneous group of people who present in the early developmental years with a wide range of social and communication deficits, which are typically also associated with complex repetitive behaviors and circumscribed interests.
+   The target goal is to heighten readers' perception into the trend to personalize the distinct autistic and related developmental conditions encompassing the 12p region.
+   Case Presentation: This is a case-report of a 4-year-old male who presented the core signs of ASD, which were thought to be related to a rare 12p13.2 deletion. We further reviewed the literature in order to outline the related developmental conditions in the 12p region.
+   Aside from this patient reported here, we found an additional number of 43 cases described in the medical literature since 1974, that have been related to deletions in the 12p region. However, to the best of our knowledge, none of the previous had been specifically linked to the 12p13.2 band.
+   Conclusions: The 12p deletion spectrum is rarely described as part of the selective genotypes thought to be related to ASD. Even inside of a small piece of the puzzle, there might be ample variation in the behavioral and clinical phenotypes of children and adults presenting with this particular genetic profile.
+   In that regard, the particular 12p13.2 distal deletion presentation is one of the possible genotypes encompassed by the "12p deletion spectrum syndrome", that might be potentially connected to the diagnosis of ASD and related developmental disorders.
+C1 [Leyser, Marcio; Dias, Bruno Leonardo; Coelho, Ana Luiza] Hosp SARAH Int Ctr Neurorehabil & Neurosci, SARAH Network Neurorehabil, Ave Abelardo Bueno 1500, BR-22775040 Rio De Janeiro, RJ, Brazil.
+   [Vasconcelos, Marcio; Nascimento, Osvaldo J. M.] Univ Fed Fluminense, Antonio Pedro Univ Hosp, Niteroi, RJ, Brazil.
+RP Leyser, M (corresponding author), Hosp SARAH Int Ctr Neurorehabil & Neurosci, SARAH Network Neurorehabil, Ave Abelardo Bueno 1500, BR-22775040 Rio De Janeiro, RJ, Brazil.
+EM marcioleyser@me.com
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR Abdelmoity AT, 2011, EUR J MED GENET, V54, P198, DOI 10.1016/j.ejmg.2010.11.010
+   Anagnostou E, 2014, CAN MED ASSOC J, V186, P509, DOI 10.1503/cmaj.121756
+   Bahring S, 1997, AM J HUM GENET, V60, P732
+   Baker E, 2002, CLIN GENET, V61, P198, DOI 10.1034/j.1399-0004.2002.610305.x
+   BARONCINI A, 1990, AM J MED GENET, V36, P358, DOI 10.1002/ajmg.1320360324
+   Behrends C, 2010, NATURE, V466, P68, DOI 10.1038/nature09204
+   Billeke Pablo, 2013, Front Psychiatry, V4, P4, DOI 10.3389/fpsyt.2013.00004
+   BOILLYDARTIGALONGUE B, 1985, ANN GENET-PARIS, V28, P55
+   Brown GD, 2001, NATURE, V413, P36, DOI 10.1038/35092620
+   Butler MG, 2015, INT J MOL SCI, V16, P6464, DOI 10.3390/ijms16036464
+   Carter M, 2005, P NATL ACAD SCI USA, V102, P12843, DOI 10.1073/pnas.0501963102
+   Chang J, 2015, NAT NEUROSCI, V18, P191, DOI 10.1038/nn.3907
+   Colonna M, 2000, EUR J IMMUNOL, V30, P697
+   de Ligt J, 2012, NEW ENGL J MED, V367, P1921, DOI 10.1056/NEJMoa1206524
+   Dimassi S, 2013, AM J MED GENET A, V161, P2564, DOI 10.1002/ajmg.a.36079
+   Endele S, 2010, NAT GENET, V42, P1021, DOI 10.1038/ng.677
+   FRYNS JP, 1990, ANN GENET-PARIS, V33, P43
+   Glaser B, 2003, AM J MED GENET A, V116A, P66, DOI 10.1002/ajmg.a.10878
+   Goldani AAS, 2014, FRONT PSYCHIATRY, V5, DOI 10.3389/fpsyt.2014.00100
+   Hansen SN, 2014, INT J EPIDEMIOL, V43, P1988, DOI 10.1093/ije/dyu213
+   Hoppe A, 2014, META GENE, V2, P72, DOI 10.1016/j.mgene.2013.10.014
+   KIVLIN JD, 1985, AM J MED GENET, V22, P769, DOI 10.1002/ajmg.1320220412
+   Lai MC, 2014, LANCET, V383, P896, DOI 10.1016/S0140-6736(13)61539-1
+   Landgraf MN, 2013, EUR J PAEDIATR NEURO, V17, P437, DOI 10.1016/j.ejpn.2013.03.008
+   Liu CC, 2014, NEURON, V84, P63, DOI 10.1016/j.neuron.2014.08.048
+   Liu L, 2004, CANCER RES, V64, P3491, DOI 10.1158/0008-5472.CAN-03-2106
+   Lord C, 2015, AM J MED GENET C, V169, P198, DOI 10.1002/ajmg.c.31440
+   Lu HY, 2009, AM J MED GENET A, V149A, P2321, DOI 10.1002/ajmg.a.33030
+   MacDonald AH, 2010, AM J MED GENET A, V152A, P1561, DOI 10.1002/ajmg.a.33401
+   MAGENIS E, 1981, AM J MED GENET, V9, P95, DOI 10.1002/ajmg.1320090203
+   MAGNELLI NC, 1975, J MED GENET, V12, P105, DOI 10.1136/jmg.12.1.105
+   MALPUECH G, 1975, LYON MED, V233, P275
+   Marshall ASJ, 2004, J BIOL CHEM, V279, P14792, DOI 10.1074/jbc.M313127200
+   MAYEDA K, 1974, AM J HUM GENET, V26, P59
+   Micheau O, 2003, CELL, V114, P181, DOI 10.1016/S0092-8674(03)00521-X
+   Murdoch JD, 2013, CURR OPIN GENET DEV, V23, P310, DOI 10.1016/j.gde.2013.02.003
+   NAGAI T, 1995, AM J MED GENET, V55, P16, DOI 10.1002/ajmg.1320550106
+   O'Roak BJ, 2011, NAT GENET, V43, P585, DOI 10.1038/ng.835
+   ORYE E, 1975, HUMANGENETIK, V28, P335
+   Rogers TD, 2013, FRONT SYST NEUROSCI, V7, DOI 10.3389/fnsys.2013.00015
+   ROMAIN DR, 1987, J MED GENET, V24, P434, DOI 10.1136/jmg.24.7.434
+   Rooryck C, 2009, EUR J MED GENET, V52, P446, DOI 10.1016/j.ejmg.2009.08.005
+   SCHOPLER E, 1980, J AUTISM DEV DISORD, V10, P91, DOI 10.1007/BF02408436
+   Silva IMW, 2014, GENE, V542, P83, DOI 10.1016/j.gene.2014.02.058
+   Soysal Y, 2011, AM J MED GENET A, V155A, P1745, DOI 10.1002/ajmg.a.34101
+   Stumm M, 2007, PRENATAL DIAG, V27, P475, DOI 10.1002/pd.1703
+   Swanwick CC, 2011, AUTISM SPECTRUM DISO, P65
+   Talkowski ME, 2012, CELL, V149, DOI 10.1016/j.cell.2012.03.028
+   Tarabeux J, 2011, TRANSL PSYCHIAT, V1, DOI 10.1038/tp.2011.52
+   TENCONI R, 1975, ANN GENET-PARIS, V18, P95
+   Thebault P, 2009, J IMMUNOL, V183, P3099, DOI 10.4049/jimmunol.0803767
+   Thevenon J, 2013, EUR J HUM GENET, V21, P82, DOI 10.1038/ejhg.2012.116
+   Tsang TW, 2016, PEDIATRICS, V137, DOI 10.1542/peds.2015-2542
+   Vargas H, 2012, EUR J MED GENET, V55, P573, DOI 10.1016/j.ejmg.2012.04.012
+   Velinov M, 2008, CNS SPECTRUMS, V13, P515, DOI 10.1017/S1092852900016758
+   Volkmar F, 2014, J AM ACAD CHILD PSY, V53, P237, DOI 10.1016/j.jaac.2013.10.013
+   Wiemels JL, 2008, CANCER RES, V68, P9935, DOI 10.1158/0008-5472.CAN-08-2139
+NR 57
+TC 3
+Z9 4
+U1 0
+U2 6
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1755-8166
+J9 MOL CYTOGENET
+JI Mol. Cytogenet.
+PD OCT 4
+PY 2016
+VL 9
+AR 75
+DI 10.1186/s13039-016-0278-0
+PG 12
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA DX7YD
+UT WOS:000384604400001
+PM 27708715
+OA DOAJ Gold, Green Published
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Gonsalvez, MDD
+   Vianna, PED
+   Fernandes, PA
+   Carvalho, RS
+   Vasconcelos, MM
+   Nascimento, OJM
+AF Leyser, Marcio
+   Diniz Gonsalvez, Marcia de Castro
+   de Souza Vianna, Pedro Erthal
+   Fernandes, Paulo Andre
+   Carvalho, Ricardo Silva
+   Vasconcelos, Marcio Moacyr
+   Nascimento, Osvaldo J. M.
+TI Scrutinizing brain magnetic resonance imaging patterns in Angelman
+   syndrome
+SO NEUROLOGY INDIA
+LA English
+DT Article
+DE Angelman syndrome; magnetic resonance imaging; periventricular
+   leukomalacia; psychomotor disorders
+ID HAPPY PUPPET SYNDROME; CRITERIA; CHILDREN
+AB Background: Global developmental delay, lack of speech, and severe epilepsy are the characteristic hallmarks of Angelman syndrome (AS). The purpose of this study was to explore the utility of brain magnetic resonance imaging (MRI) as an ancillary tool for the diagnosis of AS.
+   Material and Methods: Brain MRI images of nine laboratory-confirmed patients with AS from a neurorehabilitation center in Rio de Janeiro were reviewed. Each MRI was assessed by a set of two experienced neuroradiologists following a predefined protocol.
+   Results: The main neuroimaging findings revealed in our study were: Thinning of the corpus callosum in five patients; enlargement of lateral ventricles in four patients; and, cerebral atrophy with frontal and temporal predominance in one patient. All patients presented with an increased signal intensity in T2-weighted images and fluid-attenuated inversion recovery (FLAIR) sequences.
+   Conclusion: The lack of specific changes in the brain MRI of children with AS observed in this case series rendered brain MRI a less helpful complementary test. Thus, a definitive diagnosis of AS could only be established on molecular biology that was undertaken based on the clinical suspicion of AS.
+C1 [Leyser, Marcio] SARAH Network Rehabil Hosp, SARAH Int Ctr Neurorehabil & Neurosci, Dept Dev Pediat, Brasilia, DF, Brazil.
+   [Diniz Gonsalvez, Marcia de Castro; de Souza Vianna, Pedro Erthal; Fernandes, Paulo Andre; Carvalho, Ricardo Silva] SARAH Network Rehabil Hosp, SARAH Int Ctr Neurorehabil & Neurosci, Dept Neuroradiol, Brasilia, DF, Brazil.
+   [Vasconcelos, Marcio Moacyr] Univ Fed Fluminense, Antonio Pedro Univ Hosp, Dept Child Neurol, BR-24220000 Niteroi, RJ, Brazil.
+   [Nascimento, Osvaldo J. M.] Univ Fed Fluminense, Antonio Pedro Univ Hosp, Dept Neurol, BR-24220000 Niteroi, RJ, Brazil.
+RP Leyser, M (corresponding author), Ave Arroio Pavuna S-N, BR-22775020 Rio De Janeiro, RJ, Brazil.
+EM marcioley@me.com
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR ANGELMAN H, 1965, DEV MED CHILD NEUROL, V7, P681
+   Barkovich AJ, 2012, PEDIAT NEUROIMAGING
+   Buoni S, 1999, BRAIN DEV-JPN, V21, P296, DOI 10.1016/S0387-7604(99)00007-8
+   Castro-Gago M, 2010, EUR J PAEDIATR NEURO, V14, P292, DOI 10.1016/j.ejpn.2009.07.007
+   Chamberlain SJ, 2010, J NEUROSCI, V30, P9958, DOI 10.1523/JNEUROSCI.1728-10.2010
+   CLAYTONSMITH J, 1992, ARCH DIS CHILD, V67, P889, DOI 10.1136/adc.67.7.889
+   Dan B, 2009, EUR J PAEDIATR NEURO, V13, P269, DOI 10.1016/j.ejpn.2008.08.005
+   DORRIES A, 1988, EUR J PEDIATR, V148, P270, DOI 10.1007/BF00441419
+   Guerrini Renzo, 2003, Paediatr Drugs, V5, P647, DOI 10.2165/00148581-200305100-00001
+   Harting I, 2009, EUR J PAEDIATR NEURO, V13, P271, DOI 10.1016/j.ejpn.2008.04.005
+   INCORPORA G, 1994, AM J MED GENET, V52, P246, DOI 10.1002/ajmg.1320520229
+   LEONARD CM, 1993, AM J MED GENET, V46, P26, DOI 10.1002/ajmg.1320460107
+   Leyser M, 2014, NEUROL SCI, V35, P701, DOI 10.1007/s10072-013-1586-3
+   Mabb AM, 2011, TRENDS NEUROSCI, V34, P293, DOI 10.1016/j.tins.2011.04.001
+   Paprocka J, 2007, NEUROLOGIST, V13, P305, DOI 10.1097/01.nrl.0000253067.32759.aa
+   Peters SU, 2011, DEV MED CHILD NEUROL, V53, P361, DOI 10.1111/j.1469-8749.2010.03838.x
+   Philpot BD, 2011, J NEURODEV DISORD, V3, P50, DOI 10.1007/s11689-010-9066-z
+   Scheiffele P, 2010, NATURE, V468, P907, DOI 10.1038/468907a
+   Tiwari VN, 2012, NEUROIMAGE, V59, P349, DOI 10.1016/j.neuroimage.2011.07.067
+   Williams CA, 2006, AM J MED GENET A, V140A, P413, DOI 10.1002/ajmg.a.31074
+   WILLIAMS CA, 1982, AM J MED GENET, V11, P453, DOI 10.1002/ajmg.1320110411
+   Williams CA, 2005, BRAIN DEV-JPN, V27, P88, DOI 10.1016/j.braindev.2003.09.014
+   Wilson BJ, 2011, PEDIATR NEUROL, V44, P350, DOI 10.1016/j.pediatrneurol.2010.12.002
+NR 23
+TC 1
+Z9 1
+U1 0
+U2 5
+PU MEDKNOW PUBLICATIONS & MEDIA PVT LTD
+PI MUMBAI
+PA B-9, KANARA BUSINESS CENTRE, OFF LINK RD, GHAKTOPAR-E, MUMBAI, 400075,
+   INDIA
+SN 0028-3886
+EI 1998-4022
+J9 NEUROL INDIA
+JI Neurol. India
+PD MAR-APR
+PY 2016
+VL 64
+IS 2
+BP 228
+EP 232
+DI 10.4103/0028-3886.177615
+PG 5
+WC Neurosciences
+SC Neurosciences & Neurology
+GA DG6DN
+UT WOS:000372172500007
+PM 26954797
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Penna, PS
+   de Almeida, AC
+   Vasconcelos, MM
+   Nascimento, OJM
+AF Leyser, Marcio
+   Penna, Patricia Sola
+   de Almeida, Alexandre Cardozo
+   Vasconcelos, Marcio Moacyr
+   Nascimento, Osvaldo J. M.
+TI Revisiting epilepsy and the electroencephalogram patterns in Angelman
+   syndrome
+SO NEUROLOGICAL SCIENCES
+LA English
+DT Article
+DE Angelman syndrome; Neurodevelopment; Epilepsy; EEG
+ID EEG; DIAGNOSIS; EVOLUTION; SEIZURES; DELETION
+AB Angelman syndrome is a neurogenetic disorder that severely affects global neurodevelopment due to modifications in the structure or functioning of UBE3A gene. Its prevalence ranges from 1: 10,000 to 1:40,000. There are four main genetic types of AS transmission. A maternal deletion in 15q11.2-q13 is the most common type. There are three well-established electroencephalogram (EEG) patterns used as an ancillary tool for AS diagnosis. The main objectives are to scrutinize the EEG patterns in Angelman syndrome, their correlation to different types of seizures and to review the role of the EEG as an ancillary screening tool in the diagnosis of clinically suspected patients. Forty-three patients' charts and their previously recorded EEGs were reviewed. A set of 34 patients with deletion type, paternal uniparental disomy type and imprint defect type AS were enrolled. AS diagnosis was confirmed either by fluorescent in situ hybridization test or Methylation Specific-Multiplex Ligation Probe Amplification test. Sequencing of UBE3A was not available. Frequencies and Chi-square tests were used for statistic analysis. Pattern I type EEG was observed in 22 (64.7 %) individuals. Pattern II accounted for 6 (17.6 %); Pattern III was evident in 11 (32.4 %). The three distinguished EEG patterns, more frequently Pattern I, when observed in the appropriate clinical setting, may heighten the index of suspicion for selecting patients who will need a molecular biology test to confirm the diagnosis of AS.
+C1 [Leyser, Marcio; Penna, Patricia Sola; de Almeida, Alexandre Cardozo] SARAH Network Neurorehabil Hosp, SARAH Int Ctr Neurorehabil & Neurosci, BR-22775040 Rio De Janeiro, RJ, Brazil.
+   [Vasconcelos, Marcio Moacyr; Nascimento, Osvaldo J. M.] Univ Fed Fluminense, Antonio Pedro Univ Hosp, Niteroi, RJ, Brazil.
+RP Leyser, M (corresponding author), SARAH Network Neurorehabil Hosp, SARAH Int Ctr Neurorehabil & Neurosci, Ave Abelardo Bueno 1500, BR-22775040 Rio De Janeiro, RJ, Brazil.
+EM marcioley@hotmail.com
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR ANGELMAN H, 1965, DEV MED CHILD NEUROL, V7, P681
+   BOWER BD, 1967, ARCH DIS CHILD, V42, P298, DOI 10.1136/adc.42.223.298
+   BOYD SG, 1988, EUR J PEDIATR, V147, P508, DOI 10.1007/BF00441976
+   BUITING K, 1995, NAT GENET, V9, P395, DOI 10.1038/ng0495-395
+   Buiting K, 2010, AM J MED GENET C, V154C, P365, DOI 10.1002/ajmg.c.30273
+   Buoni S, 1999, BRAIN DEV-JPN, V21, P296, DOI 10.1016/S0387-7604(99)00007-8
+   Butler MG, 2009, J ASSIST REPROD GEN, V26, P477, DOI 10.1007/s10815-009-9353-3
+   Chamberlain SJ, 2010, J NEUROSCI, V30, P9958, DOI 10.1523/JNEUROSCI.1728-10.2010
+   Dan B, 2003, NEUROPEDIATRICS, V34, P169
+   Fiumara A, 2010, ITAL J PEDIATR, V36, DOI 10.1186/1824-7288-36-31
+   Korff CM, 2005, J CLIN NEUROPHYSIOL, V22, P238, DOI 10.1097/01.WNP.0000167930.90824.0F
+   Laan LAEM, 2005, BRAIN DEV-JPN, V27, P80, DOI 10.1016/j.braindev.2003.09.013
+   Laan LAEM, 1999, CLIN NEUROL NEUROSUR, V101, P161, DOI 10.1016/S0303-8467(99)00030-X
+   Laan LAEM, 1997, EPILEPSIA, V38, P195, DOI 10.1111/j.1528-1157.1997.tb01097.x
+   Munoz-Cabello B, 2008, REV NEUROLOGIA, V47, P113, DOI 10.33588/rn.4703.2007524
+   Pelc K, 2008, SEIZURE-EUR J EPILEP, V17, P211, DOI 10.1016/j.seizure.2007.08.004
+   PETERSEN MB, 1995, AM J MED GENET, V60, P261, DOI 10.1002/ajmg.1320600317
+   Uemura N, 2005, BRAIN DEV-JPN, V27, P383, DOI 10.1016/j.braindev.2004.01.009
+   Valente KD, 2006, ARCH NEUROL-CHICAGO, V63, P122, DOI 10.1001/archneur.63.1.122
+   Valente KD, 2005, EPILEPSY RES, V67, P163, DOI 10.1016/j.eplepsyres.2005.09.003
+   Valente KD, 2003, EPILEPSIA, V44, P1051, DOI 10.1046/j.1528-1157.2003.66502.x
+   Vendrame M, 2012, EPILEPSY BEHAV, V23, P261, DOI 10.1016/j.yebeh.2011.11.027
+   Williams CA, 2006, AM J MED GENET A, V140A, P413, DOI 10.1002/ajmg.a.31074
+   Yum MS, 2013, BRAIN DEV-JPN, V35, P245, DOI 10.1016/j.braindev.2012.04.006
+NR 24
+TC 12
+Z9 14
+U1 0
+U2 8
+PU SPRINGER-VERLAG ITALIA SRL
+PI MILAN
+PA VIA DECEMBRIO, 28, MILAN, 20137, ITALY
+SN 1590-1874
+EI 1590-3478
+J9 NEUROL SCI
+JI Neurol. Sci.
+PD MAY
+PY 2014
+VL 35
+IS 5
+BP 701
+EP 705
+DI 10.1007/s10072-013-1586-3
+PG 5
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA AI4BJ
+UT WOS:000336810100009
+PM 24395242
+DA 2020-12-14
+ER
+
+PT J
+AU Leyser, M
+   Marques, FJP
+   Elias, MAC
+   Gonsalves, MCD
+   da Silva, OS
+   Carvalho, RS
+   Silva, CCE
+   de Vasconcelos, MM
+   Nascimento, OJM
+AF Leyser, Marcio
+   Marques, Fernanda J. P.
+   Elias, Marco Aurelio C.
+   Diniz Gonsalves, Marcia C.
+   da Silva, Odilon Soares, Jr.
+   Carvalho, Ricardo S.
+   Costa e Silva, Cynthia
+   de Vasconcelos, Marcio Moacyr
+   Nascimento, Osvaldo J. M.
+TI Classic manifestations of Duchenne dystrophy in a young female patient:
+   A case report
+SO EUROPEAN JOURNAL OF PAEDIATRIC NEUROLOGY
+LA English
+DT Article
+DE Duchenne; Becker; Muscular dystrophy; Female
+ID BECKER MUSCULAR-DYSTROPHY; MUTATIONS; CARRIERS; GENE; MOSAICISM
+AB Duchenne and Becker muscular dystrophies (DMD/DMB) are neuromuscular diseases linked to chromosome X and affect mainly male individuals. Duchenne muscular dystrophy is the most severe form of the disease, leading to a decreased patient survival compared with individuals with Becker type and female carriers of the mutated gene. In this paper we present the case of a female adolescent whose clinical picture and disease course closely resembled male individuals. (C) 2012 European Paediatric Neurology Society. Published by Elsevier Ltd. All rights reserved.
+C1 [de Vasconcelos, Marcio Moacyr; Nascimento, Osvaldo J. M.] Univ Fed Fluminense, Hosp Univ Antonio Pedro, BR-24220000 Niteroi, RJ, Brazil.
+RP Leyser, M (corresponding author), Ave Abelardo Bueno 1500, BR-22775040 Rio De Janeiro, RJ, Brazil.
+EM marcioley@hotmail.com
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR ALLEN RC, 1992, AM J HUM GENET, V51, P1229
+   BAKKER E, 1989, J MED GENET, V26, P553, DOI 10.1136/jmg.26.9.553
+   Bushby K, 2010, LANCET NEUROL, V9, P77, DOI 10.1016/S1474-4422(09)70271-6
+   D'Angelo MG, 2006, MUSCLE NERVE, V34, P16, DOI 10.1002/mus.20535
+   Fujii K, 2009, AM J MED GENET A, V149A, P1052, DOI 10.1002/ajmg.a.32808
+   Giliberto F, 2003, J BIOCHEM MOL BIOL, V36, P179
+   Helderman-van den Enden ATJM, 2010, NEUROMUSCULAR DISORD, V20, P251, DOI 10.1016/j.nmd.2010.01.013
+   Hoogerwaard EM, 1999, LANCET, V353, P2116, DOI 10.1016/S0140-6736(98)10028-4
+   Katayama Y, 2006, HUM GENET, V119, P516, DOI 10.1007/s00439-006-0159-4
+   Medical Research Council, 1981, 45 MED RES COUNC
+   Nolan MA, 2003, NEUROMUSCULAR DISORD, V13, P129, DOI 10.1016/S0960-8966(02)00197-9
+   Ou ZH, 2010, TOHOKU J EXP MED, V222, P149, DOI 10.1620/tjem.222.149
+   Seemann N, 2010, BRAIN PATHOL, V20, P255, DOI 10.1111/j.1750-3639.2009.00344.x
+   Soltanzadeh P, 2010, NEUROMUSCULAR DISORD, V20, P499, DOI 10.1016/j.nmd.2010.05.010
+   Steffensen B, 2001, Physiother Res Int, V6, P119, DOI 10.1002/pri.221
+   van Essen AJ, 2003, AM J MED GENET A, V118A, P296, DOI 10.1002/ajmg.a.10056
+NR 16
+TC 1
+Z9 2
+U1 1
+U2 9
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1090-3798
+J9 EUR J PAEDIATR NEURO
+JI Eur. J. Paediatr. Neurol.
+PD MAR
+PY 2013
+VL 17
+IS 2
+BP 212
+EP 218
+DI 10.1016/j.ejpn.2012.08.002
+PG 7
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA 106TF
+UT WOS:000316166900015
+PM 22959238
+DA 2020-12-14
+ER
+
+PT J
+AU Matta, APD
+   Chiacchio, SVB
+   Leyser, M
+AF da Cunha Matta, Andre Palma
+   Bonacorsi Chiacchio, Soraya Vilani
+   Leyser, Marcio
+TI Possible etiologies of West syndrome: evaluation of 95 patients
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA English
+DT Article
+DE West syndrome; epilepsy; etiology
+ID INFANTILE SPASMS; VIGABATRIN
+AB Objective: To describe the etiologies of West syndrome (WS) among children followed in a rehabilitation center. Method., Retrospective study with emphasis in the following items: gender, age at the diagnosis of WS and its etiology. The etiologies were divided into three categories: symptomatic, cryptogenic and idiopathic. Symptomatic cases were classified as follows: pre, post and perinatal. Results: Ninety-five patients were included. Fifty-nine were boys (62%). Mean age at the diagnosis was 4.9 ( +/- 5.0) months. There were 25 cryptogenic (26.3%), one idiopathic (1.1%) and 69 (72.6%) symptomatic cases, most of them of perinatal origin. Conclusion: Our findings are in agreement with the literature. In the future, as our knowledge in the field of WS and its diagnostic methods increase, there will be a small number of cryptogenic and idiopathic cases.
+C1 Rede Sarah Hosp Reabilitacao, Ctr Reabilitacao Infantil Evandro Carlos Andrade, Rio De Janeiro, Brazil.
+RP Matta, APD (corresponding author), Rua Antonio Callado 175-106, BR-22793084 Rio De Janeiro, Brazil.
+EM andrepcmatta@sarah.br
+RI Leyser, Marcio/Z-4422-2019
+OI Leyser, Marcio/0000-0002-2929-8416
+CR Antoniuk SA, 2000, ARQ NEURO-PSIQUIAT, V58, P683, DOI 10.1590/S0004-282X2000000400014
+   Campistol J, 2003, REV NEUROLOGIA, V37, P345, DOI 10.33588/rn.3704.2003181
+   Lux AL, 2004, EPILEPSIA, V45, P1416, DOI 10.1111/j.0013-9580.2004.02404.x
+   Mackay MT, 2004, NEUROLOGY, V62, P1668, DOI 10.1212/01.WNL.0000127773.72699.C8
+   Matta APC, 2006, ARQ NEURO-PSIQUIAT, V64, P181, DOI 10.1590/S0004-282X2006000200002
+   Moraes MHP, 2005, ARQ NEURO-PSIQUIAT, V63, P469, DOI 10.1590/S0004-282X2005000300019
+   Ohtsuka Y, 2000, PEDIATR NEUROL, V23, P202, DOI 10.1016/S0887-8994(00)00185-5
+   Riikonen R, 2005, CURR OPIN NEUROL, V18, P91, DOI 10.1097/01.wco.0000162847.91531.9c
+   Stromme P, 2002, BRAIN DEV-JPN, V24, P266, DOI 10.1016/S0387-7604(02)00079-7
+   West WJ, 1841, LANCET, V35, P724, DOI [10.1016/S0140-6736(00)40184-4, DOI 10.1016/S0140-6736(00)40184-4]
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ASSOC ARQUIVOS NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+EI 1678-4227
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 2007
+VL 65
+IS 3A
+BP 659
+EP 662
+DI 10.1590/S0004-282X2007000400022
+PG 4
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 210KA
+UT WOS:000249453900022
+PM 17876410
+OA DOAJ Gold
+DA 2020-12-14
+ER
+
+EF

@@ -1,0 +1,3537 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Frutuoso, LCV
+   Freitas, ARR
+   Cavalcanti, LPD
+   Duarte, EC
+AF Vinhal Frutuoso, Livia Carla
+   Ribas Freitas, Andre Ricardo
+   de Goes Cavalcanti, Luciano Pamplona
+   Duarte, Elisabeth Carmen
+TI Estimated mortality rate and leading causes of death among individuals
+   with chikungunya in 2016 and 2017 in Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Chikungunya fever; Mortality; Matched-pair analysis; Death certificate
+ID VIRUS-INFECTION; EPIDEMIC; OUTBREAK
+AB Introduction: In 2014, the first cases of autochthonous chikungunya (CHIK) were recorded in Brazil. Lethality associated with this disease is underestimated. Thus, this study aimed to analyze the causes of death among individuals with CHIK in Brazil. Methods: A descriptive observational study was conducted on individuals with CHIK who died within 6 months from symptom onset. Data pairing between the Information System for Notifiable Diseases and the Mortality Information System was performed. Deaths were classified according to case confirmation criterion, mention of CHIK in the death certificates (DCs), and disease phase. The lethality rate per 1,000 cases was corrected for underreporting and was estimated according to region, sex, age, years of education, race/color, and cause groups. Results: We identified 3,135 deaths (mention of CHIK in the DCs, 764 [24.4%]). In 17.6% of these cases, CHIK was the underlying cause. Most deaths occurred in the acute (38.1%) and post-acute (29.6%) phases. The corrected LR (5.7; x1,000) was 6.8 times higher than that obtained from the Information System for Notifiable Diseases (0.8). The highest corrected LRs were estimated for among individuals living in the Northeast region (6.2), men (7.4), those with low years of education and those aged <1 year (8.6), 65-79 years (20.7), and >80 years (75.4). Conclusions: The LR of CHIK estimates based on information system linkage help to reveal the relevance of this disease as the direct cause or as a cause associated with serious or fatal events, provide timely interventions, and increase the knowledge about this disease.
+C1 [Vinhal Frutuoso, Livia Carla] Minist Saude, Secretaria Vigilancia Saude, Brasilia, DF, Brazil.
+   [Ribas Freitas, Andre Ricardo] Secretaria Municipal Saude Campinas, Programa Municipal Controle Arboviroses, Dept Vigilancia Saude, Campinas, SP, Brazil.
+   [Ribas Freitas, Andre Ricardo] Fac Med Sao Leopoldo Mandic, Campinas, SP, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [Duarte, Elisabeth Carmen] Univ Brasilia, Programa Posgrad Med Trop, Brasilia, DF, Brazil.
+RP Frutuoso, LCV (corresponding author), Minist Saude, Secretaria Vigilancia Saude, Brasilia, DF, Brazil.
+EM liviavinhal@gmail.com
+RI Freitas, Andre Ricardo Ribas/L-1969-2016; Frutuoso, Livia
+   Vinhal/AAP-2745-2020; Cavalcanti, Luciano/N-4391-2015
+OI Freitas, Andre Ricardo Ribas/0000-0003-0291-7771; Frutuoso, Livia
+   Vinhal/0000-0001-7926-1075; Cavalcanti, Luciano/0000-0002-3440-1182
+CR Alvarez MF, 2017, F1000 FAC REV, P1
+   [Anonymous], 2016, P ASME 2016 INT MECH
+   de Brito CAA, 2017, REV SOC BRAS MED TRO, V50, P585, DOI 10.1590/0037-8682-0479-2016
+   de Brito CAA, 2017, MEM I OSWALDO CRUZ, V112, P650, DOI 10.1590/0074-02760170124
+   Badawi A, 2018, INT J INFECT DIS, V67, P107, DOI 10.1016/j.ijid.2017.12.018
+   Burt FJ, 2017, LANCET INFECT DIS, V17, pE107, DOI 10.1016/S1473-3099(16)30385-1
+   Caglioti C, 2013, NEW MICROBIOL, V36, P211
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cardona-Ospina JA, 2015, J CLIN VIROL, V70, P14, DOI 10.1016/j.jcv.2015.07.001
+   Cavalcanti LPG, 2019, EPIDEMIOL SERV SAUDE, V28, P1
+   Cerny T, 2017, NEUROCRIT CARE, V27, P447, DOI 10.1007/s12028-017-0413-8
+   Crosby L, 2016, INT J INFECT DIS, V48, P78, DOI 10.1016/j.ijid.2016.05.010
+   da Cunha RV, 2017, MEM I OSWALDO CRUZ, V112, P523, DOI 10.1590/0074-02760170044
+   da Silva GB, 2019, T ROY SOC TROP MED H, V113, P221, DOI 10.1093/trstmh/try127
+   Barreto FKD, 2018, DIABETOL METAB SYNDR, V10, DOI 10.1186/s13098-018-0329-2
+   Cavalcanti LPD, 2018, REV SOC BRAS MED TRO, V51, P63, DOI 10.1590/0037-8682-0440-2017
+   Cavalcanti LPD, 2017, MEM I OSWALDO CRUZ, V112, P583, DOI 10.1590/0074-02760160537
+   Dias JP, 2018, EMERG INFECT DIS, V24, P617, DOI 10.3201/eid2404.171370
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Freitas ARR, 2017, PLOS CURR, V9, P1
+   Gallian P, 2017, PLOS NEGLECTED TROP, V11, P1
+   Hsu CH, 2019, PLOS NEGLECTED TROP, V13, P1
+   Josseran L, 2006, EMERG INFECT DIS, V12, P1994
+   Lima Neto AS, 2019, PLOS NEGLECT TROP D, V13, P1
+   LUMSDEN W. H. R., 1955, TANGANYIKA TERRITORY IN 1952 53 II TRANS ROY SOC TROP MED AND HYG, V49, P33, DOI 10.1016/0035-9203(55)90081-X
+   Mavalankar D, 2007, LANCET INFECT DIS, V7, P306, DOI 10.1016/S1473-3099(07)70091-9
+   Ministerio da Saude (MS), 2017, 2016 B EPIDEMIOLOGIC, V48, P1
+   Ministerio da Saude (MS), 2016, 2015 B EPIDEMIOLOGIC, V47, P1
+   Ministerio da Saude (MS), 2006, SIST INF AGR NOT SIN
+   Ministerio da Saude (MS), 2015, FEBR CHIK MAN CLIN
+   Ministerio da Saude (MS), 2014, GUIA VIG SAUD, P483
+   Ministerio da Saude (MS), 2015, 2014 B EPIDEMIOLOGIC, V46, P1
+   Ministerio da Saude (MS), 2018, 2017 B EPIDEMIOLOGIC, V49, P1
+   Figueiredo LTM, 2017, REV SOC BRAS MED TRO, V50, P583, DOI 10.1590/0037-8682-0397-2017
+   Pan American Health Organization (PAHO), 2015, NUMB REP CAS CHIK FE
+   Pan American Health Organization ( PAHO)/ World Health Organization (WHO), 2013, NUMB REP CAS CHIK FE
+   Pialoux G, 2007, LANCET INFECT DIS, V7, P319, DOI 10.1016/S1473-3099(07)70107-X
+   Rajapakse S, 2010, T ROY SOC TROP MED H, V104, P89, DOI 10.1016/j.trstmh.2009.07.031
+   Freitas ARR, 2019, PATHOG GLOB HEALTH, V113, P27, DOI 10.1080/20477724.2019.1574111
+   Freitas ARR, 2018, T ROY SOC TROP MED H, V112, P443, DOI 10.1093/trstmh/try072
+   Schnell R, 2009, BMC MED INFORM DECIS, V9, DOI 10.1186/1472-6947-9-41
+   Schwartz O, 2010, NAT REV MICROBIOL, V8, P491, DOI 10.1038/nrmicro2368
+   Simiao AR, 2019, REV SOC BRAS MED TRO, P1
+   Simon F, 2015, MED MALADIES INFECT, V45, P243, DOI 10.1016/j.medmal.2015.05.007
+   Sow A, 2009, OPEN FORUM INFECT DI, V5, P1
+   Teixeira MG, 2015, EMERG INFECT DIS, V21, P906, DOI 10.3201/eid2105.141727
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PY 2020
+VL 53
+AR e20190580
+DI 10.1590/0037-8682-0580-2019
+PG 9
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA LD5LA
+UT WOS:000526070000001
+PM 32294696
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Candido, EL
+   da Silva, UM
+   Cavalcanti, LPD
+AF Candido, Estelita Lima
+   da Silva, Ulisses Mariano
+   de Goes Cavalcanti, Luciano Pamplona
+TI New record and extended geographical distribution of Aedes fluviatilis
+   (Lutz, 1904) in Ceara, northeastern Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Aedes; Entomology; Arbovirus
+AB Introduction: Aedes fluviatilis (Lutz, 1904) is considered a potential vector of yellow fever and dengue viruses and is naturally infected by Wolbachia. Methods: In March 2018, during a field activity in the municipality of Sabociro, 163 mosquito larvae were collected in a dammed area of the Jaguaribe River. Results: Of the larvae collected, 143 (87.7%) were identified as Ae. fluviatilis. Conclusions: We report the first documentation of Ae. fluviatilis in the municipality of Saboeiro, northeastern Brazil. It is important to conduct additional entomological surveys to characterize the local Culicidae fauna. Ignoring the presence and dispersion of this vector could be a public health risk.
+C1 [Candido, Estelita Lima] Univ Fed Cariri, Juazeiro Do Norte, CE, Brazil.
+   [da Silva, Ulisses Mariano] Ctr Entomol Med Cariri, Juazeiro Do Norte, CE, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, CE, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, CE, Brazil.
+EM Pamplona.luciano@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Araujo MO, 2003, MONOGRAPH
+   Cardoso JD, 2005, REV BRAS ENTOMOL, V49, P275, DOI 10.1590/S0085-56262005000200013
+   CAVALLAZZI RODRIGO SILVA, 2002, J. Pneumologia, V28, P100, DOI 10.1590/S0102-35862002000200007
+   Consoli R.A.G.B, 1994, PRINCIPAIS MOSQUITOS
+   FORATTINI O P, 1960, Arq Fac Hig Saude Publica Univ Sao Paulo, V14, P87
+   Forattini OP, 2002, CULICIDOLOGIA MED ID, V2
+   Guimaraes A.E., 1985, MEM I O CRUZ, V80, P171, DOI DOI 10.1590/S0074-02761985000200008
+   LOPES J, 1993, REV SAUDE PUBL, V27, P326, DOI 10.1590/S0034-89101993000500002
+   Silva JBL, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181678
+   Multini LC, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0162328
+   Naves HAM, 1996, REV PATOTOGIA TROPIC, V25, P31
+   Barbosa MGV, 2009, REV SOC BRAS MED TRO, V42, P213, DOI 10.1590/S0037-86822009000200025
+   Vezzani D, 2006, VET PARASITOL, V136, P259, DOI 10.1016/j.vetpar.2005.10.026
+   XAVIER S H, 1983, Mosquito Systematics, V15, P127
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PY 2019
+VL 52
+AR UNSP e20180286
+DI 10.1590/0037-8682-0286-2018
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA HN0XX
+UT WOS:000459912800001
+PM 30810656
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Mota, VM
+   Delfino, AD
+   Lopes, TECF
+   Pessoa, ALS
+   Ribeiro, EM
+   Cavalcanti, LPD
+AF Ribeiro Mota, Vivian Maria
+   Delfino, Alanna dos Santos
+   Costa Figueiredo Lopes, Thayse Elaine
+   Santos Pessoa, Andre Luiz
+   Ribeiro, Erlane Marques
+   de Goes Cavalcanti, Luciano Pamplona
+TI Answer - Abortion and Zika Virus Congenital Infection
+SO REVISTA BRASILEIRA DE GINECOLOGIA E OBSTETRICIA
+LA English
+DT Article
+ID MISCARRIAGE
+C1 [Ribeiro Mota, Vivian Maria] Univ Fortaleza, Rua Vasco de Ataide 895, Fortaleza, CE, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Fortaleza, CE, Brazil.
+   [Delfino, Alanna dos Santos] Univ Estadual Ceara, Fortaleza, CE, Brazil.
+   [Costa Figueiredo Lopes, Thayse Elaine; Ribeiro, Erlane Marques] Ctr Univ Christus, Fac Med, Fortaleza, CE, Brazil.
+   [Santos Pessoa, Andre Luiz] Hosp Infantil Albert Sabin, Fortaleza, CE, Brazil.
+RP Mota, VM (corresponding author), Univ Fortaleza, Rua Vasco de Ataide 895, Fortaleza, CE, Brazil.
+EM vivianmariaribeiromota@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Gonce A, 2018, EMERG INFECT DIS, V24, P933, DOI 10.3201/eid2405.171479
+   Mota VMR, 2018, REV BRAS GINECOL OBS, V40, P417, DOI 10.1055/s-0038-1648219
+   Schaub B, 2016, EUR J OBSTET GYN R B, V207, P240, DOI 10.1016/j.ejogrb.2016.10.041
+   van der Eijk AA, 2016, NEW ENGL J MED, V375, P1002, DOI 10.1056/NEJMc1605898
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FEDERACAO BRASILEIRA SOC GINECOLOGIA & OBSTETRICIA-FEBRASGO
+PI RIO DE JANEIRO RJ
+PA AV DAS AMERICAS, 8445, SALA 711-BARRA DA TIJUCA, RIO DE JANEIRO RJ,
+   22793-081, BRAZIL
+SN 0100-7203
+EI 1806-9339
+J9 REV BRAS GINECOL OBS
+JI Rev. Bras. Ginecol. Obstet.
+PD AUG
+PY 2018
+VL 40
+IS 8
+BP 498
+EP 498
+DI 10.1055/s-0038-1668532
+PG 1
+WC Obstetrics & Gynecology
+SC Obstetrics & Gynecology
+GA GR5GJ
+UT WOS:000442655200012
+PM 30142670
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Oliveira, RDAB
+   Barreto, FKD
+   Maia, AMPC
+   Gomes, IP
+   Simiao, AR
+   Barbosa, RB
+   Rodrigues, ASR
+   Lopes, KW
+   Araujo, FMD
+   do Valet, RLS
+   Cavalcante, JW
+   Cavalcanti, LPD
+AF Alves Barbosa Oliveira, Rhaquel de Morais
+   de Almeida Barreto, Francisca Kalline
+   Peixoto Cabral Maia, Ana Maria
+   Gomes, Ileana Pitombeira
+   Simiao, Adriana Rocha
+   Barbosa, Rebeca Bandeira
+   Romeiro Rodrigues, Adilina Soares
+   Lopes, Kilma Wanderley
+   de Carvalho Araujo, Fernanda Montenegro
+   Sousa do Valet, Regina Lucia
+   Cavalcante, John Washington
+   de Goes Cavalcanti, Luciano Pamplona
+TI Maternal and infant death after probable vertical transmission of
+   chikungunya virus in Brazil - case report
+SO BMC INFECTIOUS DISEASES
+LA English
+DT Article
+DE Chikungunya virus; Arbovirus infection; Deaths; Vertical transmission
+ID MANIFESTATIONS; SURVEILLANCE; INFECTIONS; DENGUE; FEVER
+AB Background: Chikungunya virus infection in neonates is relatively rare and can lead to death.
+   Case presentation: We report the occurrence of the first death of a mother and child after probable vertical transmission of chikungunya virus in Brazil. A 28-year-old pregnant woman with hypertension presented with symptoms compatible with an arboviral disease at 34 weeks' gestation. She developed preeclampsia with severe respiratory failure which resulted in the emergency cesarean section, and the patient died 12 days after the onset of symptoms. The pre-term newborn weighed 2535 g, with an Apgar score of 4/8. He was referred to the neonatal ICU with neutrophilia and thrombocytopenia, several seizure episodes, and hemorrhagic disorders, which resulted in death. Chikungunya IgM antibody was detected in the cerebrospinal fluid.
+   Conclusions: We present the first documented maternal and neonatal death in Brazil after probable chikungunya infection during pregnancy.
+C1 [Alves Barbosa Oliveira, Rhaquel de Morais; de Almeida Barreto, Francisca Kalline; Peixoto Cabral Maia, Ana Maria; Gomes, Ileana Pitombeira; Simiao, Adriana Rocha; Barbosa, Rebeca Bandeira; Romeiro Rodrigues, Adilina Soares] Fed Univ Ceara UFC, Collect Hlth, Fortaleza, Ceara, Brazil.
+   [Simiao, Adriana Rocha; Lopes, Kilma Wanderley; de Carvalho Araujo, Fernanda Montenegro; Sousa do Valet, Regina Lucia; de Goes Cavalcanti, Luciano Pamplona] Invest Comm Arbovirus Deaths, Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro] Cent Lab Publ Hlth Ceara LACEN, Fortaleza, Ceara, Brazil.
+   [Cavalcante, John Washington] Fed Univ Ceara UFC, Pathol, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Fed Univ Ceara UFC, Fac Med, Collect Hlth Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), Invest Comm Arbovirus Deaths, Fortaleza, Ceara, Brazil.; Cavalcanti, LPD (corresponding author), Fed Univ Ceara UFC, Fac Med, Collect Hlth Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI amsalu, ribka/G-8780-2019; Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Bandeira AC, 2016, IDCases, V5, P57, DOI 10.1016/j.idcr.2016.07.008
+   Burt FJ, 2012, LANCET, V379, P662, DOI 10.1016/S0140-6736(11)60281-X
+   Carvalho FHC, 2016, REVISTA DE MEDICINA, V56, P6
+   Clouet-Huerta D, 2014, REV CHIL INFECTOL, V31, P761, DOI 10.4067/S0716-10182014000600022
+   Crosby L, 2016, INT J INFECT DIS, V48, P78, DOI 10.1016/j.ijid.2016.05.010
+   Barreto FKD, 2018, DIABETOL METAB SYNDR, V10, DOI 10.1186/s13098-018-0329-2
+   Cavalcanti LPD, 2018, REV SOC BRAS MED TRO, V51, P63, DOI 10.1590/0037-8682-0440-2017
+   Cavalcanti LPD, 2017, MEM I OSWALDO CRUZ, V112, P583, DOI 10.1590/0074-02760160537
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Bedoya-Arias JE, 2015, J INFECT DEV COUNTR, V9, P330, DOI 10.3855/jidc.6445
+   Evans-Gilbert T, 2017, AM J TROP MED HYG, V96, P913, DOI 10.4269/ajtmh.16-0491
+   Fortaleza Ceara, 2017, B SEMANAL CHIKUNGUNY
+   Gerardin P, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002996
+   Gerardin P, 2008, PLOS MED, V5, P413, DOI 10.1371/journal.pmed.0050060
+   Gopakumar H, 2012, J CLIN NEONATOL, V1, P155, DOI 10.4103/2249-4847.101704
+   Lee GR, 1998, WINTROBE HEMATOLOGIA
+   Nigam Aruna, 2016, J Assoc Physicians India, V64, P76
+   Passi GR, 2008, INDIAN PEDIATR, V45, P240
+   Ramful D, 2007, PEDIATR INFECT DIS J, V26, P811, DOI 10.1097/INF.0b013e3180616d4f
+   Robillard PY, 2006, PRESSE MED, V35, P785, DOI 10.1016/S0755-4982(06)74690-5
+   Rodriguez-Morales AJ, 2015, ONE HLTH, V8, P22
+   Rodriguez-Morales AJ, 2015, J CLIN VIROL, V66, P60, DOI 10.1016/j.jcv.2015.02.020
+   Taksande A, 2015, J PREVENTION INFECT, V1, P8
+   Torres JR, 2016, INT J INFECT DIS, V51, P85, DOI 10.1016/j.ijid.2016.09.009
+   Villamil-Gomez W, 2015, J TROP PEDIATRICS, V61, P386, DOI 10.1093/tropej/fmv051
+   Wahid B, 2017, INT J INFECT DIS, V58, P69, DOI 10.1016/j.ijid.2017.03.006
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 2
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2334
+J9 BMC INFECT DIS
+JI BMC Infect. Dis.
+PD JUL 16
+PY 2018
+VL 18
+AR 333
+DI 10.1186/s12879-018-3243-1
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA GN4JE
+UT WOS:000438987300006
+PM 30012112
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Juca, E
+   Pessoa, A
+   Cavalcanti, LP
+AF Juca, Eduardo
+   Pessoa, Andre
+   Cavalcanti, Luciano Pamplona
+TI Reply to the letter by Joob and Wiwanitkit regarding our article on
+   congenital Zika syndrome and hydrocephalus
+SO CHILDS NERVOUS SYSTEM
+LA English
+DT Letter
+C1 [Juca, Eduardo; Pessoa, Andre] Hosp Infantil Albert Sabin, Fortaleza, Ceara, Brazil.
+   [Juca, Eduardo] Ctr Univ Christus Unichristus, Fortaleza, Ceara, Brazil.
+   [Juca, Eduardo] Univ Fortaleza UNIFOR, Fortaleza, Ceara, Brazil.
+   [Pessoa, Andre] Univ Estadual Ceara UECE, Fortaleza, Ceara, Brazil.
+   [Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+RP Juca, E (corresponding author), Hosp Infantil Albert Sabin, Fortaleza, Ceara, Brazil.; Juca, E (corresponding author), Ctr Univ Christus Unichristus, Fortaleza, Ceara, Brazil.; Juca, E (corresponding author), Univ Fortaleza UNIFOR, Fortaleza, Ceara, Brazil.
+EM eduardojuca@gmail.com
+RI Juca, Eduardo/AAF-7029-2019; Cavalcanti, Luciano/N-4391-2015
+OI Juca, Eduardo/0000-0003-3269-2577; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR Bale JF, 2009, CLIN PERINATOL, V36, P639, DOI 10.1016/j.clp.2009.06.005
+   Chimelli L, 2017, ACTA NEUROPATHOL, V133, P983, DOI 10.1007/s00401-017-1699-5
+   Cugola FR, 2016, NATURE, V534, P267, DOI 10.1038/nature18296
+   Joob B, 2017, CHILDS NERV SYST
+   Juca E, 2017, CHILDS NERV SYST
+   Petersen LR, 2016, NEW ENGL J MED, V374, P1552, DOI 10.1056/NEJMra1602113
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Ribeiro EM, 2017, J VENOM ANIM TOXINS, V23, DOI 10.1186/s40409-017-0107-x
+   Zhu Z, 2016, EMERG MICROBES INFEC, V5, DOI 10.1038/emi.2016.48
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0256-7040
+EI 1433-0350
+J9 CHILD NERV SYST
+JI Childs Nerv. Syst.
+PD FEB
+PY 2018
+VL 34
+IS 2
+BP 185
+EP 186
+DI 10.1007/s00381-017-3683-8
+PG 2
+WC Clinical Neurology; Pediatrics; Surgery
+SC Neurosciences & Neurology; Pediatrics; Surgery
+GA FT8IA
+UT WOS:000423394800003
+PM 29209886
+DA 2020-12-08
+ER
+
+PT J
+AU Leite, RFP
+   Santos, MSA
+   Ribeiro, EM
+   Pessoa, ALS
+   Lewis, DR
+   Giacheti, CM
+   Cavalcanti, LPD
+AF Pequeno Leite, Rebeka Ferreira
+   Aragao Santos, Marinisi Sales
+   Ribeiro, Erlane Marques
+   Santos Pessoa, Andre Luiz
+   Lewis, Doris Ruthy
+   Giacheti, Celia Maria
+   de Goes Cavalcanti, Luciano Pamplona
+TI Hearing Screening in children with Congenital Zika Virus Syndrome in
+   Fortaleza, Ceara, Brazil, 2016
+SO EPIDEMIOLOGIA E SERVICOS DE SAUDE
+LA English
+DT Article
+DE Epidemiology, Descriptive; Zika Virus Infection; Microcephaly;
+   Arboviruses; Hearing Loss
+ID INFECTION; OUTBREAK
+AB Objective: to describe the results of hearing screening performed in children with Congenital Zika Virus Syndrome (CZS) in Fortaleza, Ceara, Brazil. Methods: this was a descriptive cross-sectional study involving children with CZS receiving health care in Fortaleza, 2016; the hearing screening tests performed were immittance audiometry, transient otoacoustic emissions (TOAE), acoustic reflexes, and cochleopalpebral reflex (CPR). Results: The study included 45 children with an average age of 10 months. 44 of them underwent tympanometric screening, with 16 of these having the right ear within the normal range and 22 having the left ear within the normal range. Among the 43 children evaluated by TOAE, 30 "passed" in both ears, nine "refered" in both ears and four "refered" just in ear; 13/43 "refered" and needed to repeat screening. 43 children evaluated by CPR, 37 showed responses. Conclusion: most of the children evaluated had completed cochlear function and middle ear results refer in compatible with their age range.
+C1 [Pequeno Leite, Rebeka Ferreira; Aragao Santos, Marinisi Sales; Santos Pessoa, Andre Luiz] Hosp Infantil Albert Sabin, Secretaria Saude Estado Ceara, Fortaleza, CE, Brazil.
+   [Ribeiro, Erlane Marques] Ctr Univ Christus, Fac Med, Fortaleza, CE, Brazil.
+   [Lewis, Doris Ruthy] Pontificia Univ Catolica Sao Paulo, Programa Posgrad Fonoaudiol, Sao Paulo, Brazil.
+   [Giacheti, Celia Maria] Univ Estadual Paulista, Dept Fonoaudiol, Sao Paulo, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, CE, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, CE, Brazil.
+EM pamplona.luciano@gmail.com
+RI Giacheti, Celia M/I-4863-2012; Cavalcanti, Luciano/N-4391-2015
+OI Giacheti, Celia M/0000-0001-9691-4672; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR American Academy of Pediatrics, 2007, PEDIATRICS
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cohen BE, 2014, TRENDS HEAR, V18, DOI 10.1177/2331216514541361
+   de Carvalho Leal M, 2016, BRAZ J OTORHINOLAR, V30, P30127
+   Di Francesco Renata Cantisani, 2016, Rev. paul. pediatr., V34, P148, DOI [10.1016/j.rpped.2015.08.005, 10.1016/j.rppede.2016.01.003]
+   Eickmann SH, 2016, ZIKA VIRUS CONGENITA
+   Garcia Michele Vargas, 2009, Braz J Otorhinolaryngol, V75, P80
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   JERGER J, 1970, ARCHIV OTOLARYNGOL, V92, P311
+   Leal MC, 2016, MMWR-MORBID MORTAL W, V65, P917, DOI 10.15585/mmwr.mm6534e3
+   Lewis DR, 2010, BRAZ J OTORHINOLAR, V76, P121, DOI 10.1590/S1808-86942010000100020
+   Linares Ana Emilia, 2008, Braz J Otorhinolaryngol, V74, P410
+   Ministerio da Saude, 2015, PROT VIG RESP OC MIC
+   Ministerio da Saude (BR), 2017, B EP
+   Ministerio da Saude (BR), 2015, MIN SAUD CONF REL EN
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   MOLLER AAGE R., 1962, JOUR ACOUSTICAL SOC AMER, V34, P1524, DOI 10.1121/1.1918384
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Redondo MC, 2015, MANUAL AUDIOLOGIA PE, P58
+   Saes Sandra de O, 2005, J Pediatr (Rio J), V81, P133
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Aragao MDV, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1901
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 2
+PU MINISTERIO DA SAUDE
+PI BRASILIA
+PA ESPLANADA MINISTERIOS, BLOCO G, BRASILIA, DF 70058-900, BRAZIL
+SN 1679-4974
+EI 2237-9622
+J9 EPIDEMIOL SERV SAUDE
+JI Epidemiol. Serv. Saude
+PY 2018
+VL 27
+IS 4
+AR UNSP e2017553
+DI 10.5123/S1679-49742018000400002
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HI8FE
+UT WOS:000456689900012
+PM 30427400
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Ramalho, ILC
+   Araujo, FMD
+   Cavalcanti, LPD
+   Braga, DNM
+   Perdigao, ACB
+   dos Santos, FB
+   Nogueira, FD
+   da Escossia, KNF
+   Guedes, MIF
+AF Cavalcante Ramalho, Izabel Leticia
+   de Carvalho Araujo, Fernanda Montenegro
+   de Goes Cavalcanti, Luciano Pamplona
+   Melo Braga, Deborah Nunes
+   Bezerra Perdigao, Anne Carolinne
+   dos Santos, Flavia Barreto
+   Nogueira, Fernanda de Bruycker
+   Farias da Escossia, Kiliana Nogueira
+   Florindo Guedes, Maria Izabel
+TI Dengue 4 in Ceara, Brazil: characterisation of epidemiological and
+   laboratorial aspects and causes of death during the first epidemic in
+   the state
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE dengue 4; epidemiology; deaths; genotyping; Ceara/Brazil
+ID VIRUS SEROTYPE 4; SURVEILLANCE; SAMPLES; TYPE-4
+AB BACKGROUND The first dengue cases in Brazil with laboratory confirmation occurred in the northern region of the country, with the isolation of two serotypes, dengue virus 1 (DENV-1) and DEN V-4. In Ceara, the introduction of DENV-4 was reported during a DENV-1 epidemic in 2011, with only two isolations.
+   OBJECTIVES The aim of this study was to characterise the first DENV-4 epidemic in the state of Ceara, Brazil.
+   METHODS The study population was composed of patients with suspected dengue that were reported to health care units from January to December 2012. The laboratory confirmation of infection was made by viral isolation, reverse transcription polymerase chain reaction (RT-PCR), AgNS1, immunohistochemistry and IgM enzyme-linked immunosorbent assay (ELISA).
+   MAIN CONCLUSIONS In the study year, 72,211 suspected dengue cases were reported and 51,865 of these cases (71.8%) were confirmed to be positive. Co-circulation of three serotypes, DENV-1, DENV-3 and DENV-4, was detected with a predominance of DEN V-4 (95.3%). Most cases were not severe, but there were 44 fatal outcomes. DENV-4 Genotype II was identified for the first time in Ceara.
+C1 [Cavalcante Ramalho, Izabel Leticia; de Carvalho Araujo, Fernanda Montenegro] Lab Cent Saude Publ, Setor Virol, Fortaleza, Ceara, Brazil.
+   [Cavalcante Ramalho, Izabel Leticia; Florindo Guedes, Maria Izabel] Univ Estadual Ceara, Rede Nordeste Biotecnol, Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro; Bezerra Perdigao, Anne Carolinne] Ctr Univ Christus, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [Melo Braga, Deborah Nunes] Inst Prevencao Canc, Fortaleza, Ceara, Brazil.
+   [dos Santos, Flavia Barreto; Nogueira, Fernanda de Bruycker] Inst Oswaldo Cruz, Lab Imunol Viral, Fiocruz, Rio De Janeiro, RJ, Brazil.
+   [Farias da Escossia, Kiliana Nogueira] Secretaria Saude Estado Ceara, Nucleo Vigilancia Epidemiol, Fortaleza, Ceara, Brazil.
+RP Araujo, FMD (corresponding author), Lab Cent Saude Publ, Setor Virol, Fortaleza, Ceara, Brazil.; Araujo, FMD (corresponding author), Ctr Univ Christus, Fortaleza, Ceara, Brazil.
+EM fenanda.montenegro@lacen.ce.gov.br
+RI ; Cavalcanti, Luciano/N-4391-2015
+OI Santos, Flavia/0000-0002-1309-5366; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR Araujo FMC, 2012, NEUROLOGY, V78, P736, DOI 10.1212/WNL.0b013e31824b94e9
+   Araujo FMC, 2011, J VIROL METHODS, V177, P128, DOI 10.1016/j.jviromet.2011.07.003
+   Basílio-de-Oliveira C.A., 2005, Braz J Infect Dis, V9, P341, DOI 10.1590/S1413-86702005000400012
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Chen RB, 2011, VIRUSES-BASEL, V3, P1562, DOI 10.3390/v3091562
+   Cunha PEL, 2008, REV BRAS MED FAM COM, V7, P247
+   Cavalcanti LPD, 2016, AM J TROP MED HYG, V94, P187, DOI 10.4269/ajtmh.15-0392
+   do Nascimento LB, 2015, EPIDEMIOL SERV SAUDE, V24, P475, DOI 10.5123/S1679-49742015000300013
+   FONSECA I. S. S., 2014, CIENCIAS BIOL SAUDE, V2, P69
+   GUBLER DJ, 1984, AM J TROP MED HYG, V33, P158, DOI 10.4269/ajtmh.1984.33.158
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   HALL WC, 1991, AM J TROP MED HYG, V45, P408, DOI 10.4269/ajtmh.1991.45.408
+   Holmes EC, 2003, INFECT GENET EVOL, V3, P19, DOI 10.1016/S1567-1348(03)00004-2
+   IGARASHI A, 1978, J GEN VIROL, V40, P531, DOI 10.1099/0022-1317-40-3-531
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Leo YS, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-123
+   Miagostovich MP, 2006, MEM I OSWALDO CRUZ, V101, P307, DOI 10.1590/S0074-02762006000300015
+   MS/SAS -Ministerio da Saude/Secretaria de Atencao a Saude, 2013, DIR ORG SERV AT SAUD
+   Nogueira RMR, 2011, MEM I OSWALDO CRUZ, V106, P255, DOI 10.1590/S0074-02762011000300001
+   Osanai C H, 1983, Rev Inst Med Trop Sao Paulo, V25, P53
+   de Figueiredo RMP, 2008, EMERG INFECT DIS, V14, P667, DOI 10.3201/eid1404.071185
+   Soares CN, 2006, J NEUROL SCI, V249, P19, DOI 10.1016/j.jns.2006.05.068
+   Nunes MRT, 2012, EMERG INFECT DIS, V18, P1858, DOI 10.3201/eid1811.120217
+   Temporao JG, 2011, EMERG INFECT DIS, V17, P938, DOI 10.3201/eid1705.101681
+   Travassos Cláudia, 2002, Rev Panam Salud Publica, V11, P365, DOI 10.1590/S1020-49892002000500011
+   Viana DV, 2013, REV BRAS EPIDEMIOL, V16, P2401
+   Vicente CR, 2018, EPIDEMIOL INFECT, V146, P100, DOI 10.1017/S0950268817002618
+   Villabona-Arenas CJ, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002620
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PY 2018
+VL 113
+IS 11
+AR e180320
+DI 10.1590/0074-02760180320
+PG 7
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA GY8KU
+UT WOS:000448876500001
+PM 30365646
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPD
+   D'angelo, SM
+   Lemos, DRQ
+   Barreto, FKD
+   Siqueira, AM
+   Miyajima, F
+AF de Goes Cavalcanti, Luciano Pamplona
+   D'angelo, Sara Mendes
+   Queiroz Lemos, Daniele Rocha
+   de Almeida Barreto, Francisca Kalline
+   Siqueira, Andre Machado
+   Miyajima, Fabio
+TI Is the recent increment in attributable deaths to type-2 diabetes (T2D)
+   associated with the latest chikungunya outbreak in a major epidemic area
+   in Brazil?
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Chikungunya; Diabetes; Arbovirus; Deaths
+ID INFECTIOUS REPORTER VIRUS; YELLOW-FEVER-VIRUS; PARTICLES; EFFICIENT;
+   17DD
+AB Introduction: Chikungunya virus (CHIKV) can negatively influence outcomes in patients with pre-existing conditions. We investigated the association between the recent CHIKV outbreak and increased type 2 diabetes (T2D)-attributable deaths. Methods: Monthly averages of T2D-attributable deaths between 2001 and 2016 were determined and compared to the equivalent data for 2017 and the recent CHIKV outbreak. Results: CHKV outbreak peaked in April 2017 with 4,394.4 cases/100,000 inhabitants, while T2D-attributable deaths in the same period increased by 35.2%. Conclusions: T2D-attributable deaths significantly increased compared to the previous data, which overlapped with CHIKV incidence. The pathophysiology of this association warrants further investigations.
+C1 [de Goes Cavalcanti, Luciano Pamplona; D'angelo, Sara Mendes; de Almeida Barreto, Francisca Kalline] Univ Fed Ceara, Programa Posgrad Saude Publ, Fortaleza, Ce, Brazil.
+   [Queiroz Lemos, Daniele Rocha] Ctr Univ Christus, Fortaleza, CE, Brazil.
+   [Siqueira, Andre Machado] Fundacao Oswaldo Cruz, Inst Nacl Infectol Evandro Chagas, Rio De Janeiro, RJ, Brazil.
+   [Miyajima, Fabio] Univ Fed Ceara, Ctr Pesquisas Desenvolvimento Medicamentos, Fortaleza, CE, Brazil.
+   [Miyajima, Fabio] Univ Liverpool, Inst Translat Med, Liverpool, Merseyside, England.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Programa Posgrad Saude Publ, Fortaleza, Ce, Brazil.
+EM pamplona.luciano@gmail.com
+RI Siqueira, Andre M/G-1340-2010; Cavalcanti, Luciano/N-4391-2015
+OI Siqueira, Andre M/0000-0003-2208-0294; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq); Instituto Aggeu Magalhaes/Fundacao Oswaldo Cruz (Fiocruz, PE)
+FX Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq) and
+   Instituto Aggeu Magalhaes/Fundacao Oswaldo Cruz (Fiocruz, PE).
+CR Delekta PC, 2015, J BIOMOL SCREEN, V20, P673, DOI 10.1177/1087057114564868
+   Gardner CL, 2010, CLIN LAB MED, V30, P237, DOI 10.1016/j.cll.2010.01.001
+   Lindenbach B., 2013, FIELDS VIROLOGY, V1, P712
+   Mason PW, 2006, VIROLOGY, V351, P432, DOI 10.1016/j.virol.2006.04.003
+   Ministerio da Saude (MS). Secretaria de Vigilancia em Saude. COES-Febre Amarela. Portal da Saude, 2017, 392017 MS SECR VIG S
+   Mukherjee S, 2014, METHODS MOL BIOL, V1138, P75, DOI 10.1007/978-1-4939-0348-1_6
+   Patkar CG, 2007, J VIROL, V81, P6471, DOI 10.1128/JVI.02120-06
+   Pereira RC, 2015, VACCINE, V33, P4261, DOI 10.1016/j.vaccine.2015.03.077
+   Shustov AV, 2007, J VIROL, V81, P11737, DOI 10.1128/JVI.01112-07
+   Shustov AV, 2010, VIROLOGY, V400, P8, DOI 10.1016/j.virol.2009.12.015
+   Silva JVJ, 2014, BRAZ J MICROBIOL, V45, P1555, DOI 10.1590/S1517-83822014000400054
+   Suzuki R, 2009, J VIROL, V83, P1870, DOI 10.1128/JVI.01891-08
+   Thomas RE, 2012, AM J TROP MED HYG, V86, P359, DOI 10.4269/ajtmh.2012.11-0525
+   Yoshii K, 2005, VACCINE, V23, P3946, DOI 10.1016/j.vaccine.2005.03.004
+   Zhang HL, 2017, ANTIVIR RES, V141, P38, DOI 10.1016/j.antiviral.2017.02.006
+NR 15
+TC 8
+Z9 8
+U1 0
+U2 2
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD JAN-FEB
+PY 2018
+VL 51
+IS 1
+BP 63
+EP 70
+DI 10.1590/0037-8682-0440-2017
+PG 8
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA FY6FP
+UT WOS:000426938800011
+PM 29513844
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Oliveira, RDAB
+   Araujo, FMD
+   Cavalcanti, LPD
+AF Alves Barbosa Oliveira, Rhaquel de Morais
+   de Carvalho Araujo, Fernanda Montenegro
+   de Goes Cavalcanti, Luciano Pamplona
+TI Entomological and epidemiological aspects of dengue epidemics in
+   Fortaleza, Ceara, Brazil, 2001-2012
+SO EPIDEMIOLOGIA E SERVICOS DE SAUDE
+LA English
+DT Article
+DE Dengue; Epidemiological Surveillance; Aedes; Epidemiology; Descriptive
+ID NORTHEASTERN BRAZIL; AMERICA; PATTERN
+AB Objective: to characterize the entomological and epidemiological aspects of dengue epidemics occurred in Fortaleza, Ceara, Brazil, from 2001 to 2012. Methods: descriptive study with data from the Information System for Notifiable Diseases (Sinan), Information System of Hospitalizations due to Yellow Fever and Dengue (2001-2009), National Program for Dengue Control (2010-2012), and Rapid Survey of Aedes aegypti Infestation Index, referring to the years in which the incidence of dengue was above 75%. Results: from 2001 to 2012, 194,446 cases of suspected dengue were notified; the epidemic years were 2001, 2006, 2008, 2011 and 2012; there was a progressive increase in the incidence of the disease (587.0/100 thousand inhabitants in 2001 and 1,561.1/100 inhabitants in 2012); there was co-circulation of up to three serotypes and high vector infestation, especially in water tanks. Conclusion: after a long period of virus circulation in Fortaleza, dengue remains as an important health issue, with severe cases and high fatality rate.
+C1 [Alves Barbosa Oliveira, Rhaquel de Morais; de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Programa Posgrad Saude Colet, Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro] Secretaria Saude Estado Ceara, Lab Cent Saude Publ, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro] Ctr Univ Christus, Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+FU Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnologico
+   (FUNCAP) [03/2012-PPSUS-MS/CNPq/FUNCAP]
+FX This study was funded by Fundacao Cearense de Apoio ao Desenvolvimento
+   Cientifico e Tecnologico (FUNCAP): Public Notice
+   03/2012-PPSUS-MS/CNPq/FUNCAP.
+CR Barbosa IR, 2012, EPIDEMIOL SERV SAUDE, V21, P149, DOI 10.5123/S1679-49742012000100015
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude, 2014, GUIA VIG SAUD
+   Carvalho ACP, 2016, REV PATOL TROP, V45, P243
+   Carvalho FHC, 2016, REVISTA DE MEDICINA, V56, P6
+   Cavalcanti LPG, 2018, J HLTH BIOL SCI, V6, P65, DOI DOI 10.12662/2317-3076JHBS.V6I1.1415.P65-82.2018
+   Cavalcanti LP, 2011, EMERG INFECT DIS, V17, P132, DOI 10.3201/eid1701.100321
+   Monteiro ESC, 2009, EPIDEMIOL SERV SAUDE, V18, P365
+   da Cunha R V, 1997, Rev Soc Bras Med Trop, V30, P379, DOI 10.1590/S0037-86821997000500005
+   Cavalcanti LPD, 2016, REV SOC BRAS MED TRO, V49, P498, DOI 10.1590/0037-8682-0044-2016
+   Cavalcanti LPD, 2016, AM J TROP MED HYG, V94, P187, DOI 10.4269/ajtmh.15-0392
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Goncalves Neto Vicente Silva, 2004, Cad Saude Publica, V20, P1424, DOI 10.1590/S0102-311X2004000500039
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   Huits R, 2017, OPEN FORUM INFECT DI, V4, DOI 10.1093/ofid/ofw273
+   Leite RD, 2015, EMERG INFECT DIS, V21, P1681, DOI 10.3201/eid2109.150391
+   Lima EP, 2013, REV BRAS PROMOC SAUD, V26, P340, DOI DOI 10.5020/18061230.2013.P340
+   MINISTERIO DA SAUDE, 2005, DIAGN RAP NOS MUN VI
+   Ministerio da Saude (BR), 2017, DAT POP RES BRAS
+   Ministerio da Saude (BR), 2011, VIG SAUD 1
+   Pan American Health Organization. World Health Organization, 2017, NEGL TROP VECT BORN
+   Roque ACM, 2015, REV CIENC PLURAL, V1, P51
+   SANTOS L. A. V., 2016, THESIS, P95
+   Shepard DS, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002055
+   Shepard DS, 2011, AM J TROP MED HYG, V84, P200, DOI 10.4269/ajtmh.2011.10-0503
+   Shukla MK, 2017, J MED VIROL, V89, P1146, DOI 10.1002/jmv.24764
+   Siqueira JB, 2004, AM J TROP MED HYG, V71, P646, DOI 10.4269/ajtmh.2004.71.646
+   Suaya JA, 2009, AM J TROP MED HYG, V80, P846, DOI 10.4269/ajtmh.2009.80.846
+   Vasconcelos PFC, 1998, REV SAUDE PUBL, V32, P447, DOI 10.1590/S0034-89101998000500007
+NR 29
+TC 6
+Z9 6
+U1 0
+U2 0
+PU MINISTERIO DA SAUDE
+PI BRASILIA
+PA ESPLANADA MINISTERIOS, BLOCO G, BRASILIA, DF 70058-900, BRAZIL
+SN 1679-4974
+EI 2237-9622
+J9 EPIDEMIOL SERV SAUDE
+JI Epidemiol. Serv. Saude
+PY 2018
+VL 27
+IS 1
+AR UNSP e201704414
+DI 10.5123/S1679-49742018000100014
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA GJ3PL
+UT WOS:000435208700007
+PM 29451615
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Juca, E
+   Pessoa, A
+   Ribeiro, E
+   Menezes, R
+   Kerbage, S
+   Lopes, T
+   Cavalcanti, LP
+AF Juca, Eduardo
+   Pessoa, Andre
+   Ribeiro, Erlane
+   Menezes, Rafaela
+   Kerbage, Saile
+   Lopes, Thayse
+   Cavalcanti, Luciano Pamplona
+TI Hydrocephalus associated to congenital Zika syndrome: does shunting
+   improve clinical features?
+SO CHILDS NERVOUS SYSTEM
+LA English
+DT Article
+DE Zika virus; Microcephaly; Hydrocephalus; Ventriculoperitoneal shunt
+ID VIRUS-INFECTION; BRAZIL; SPECTRUM; BRAIN
+AB Congenital Zika syndrome (CZS) is a new entity with little information about its course and natural history. It is known that prenatal infection by Zika virus is associated to disrupted nervous system development, leading to typical neurological disabilities and deformities. Some children present progressive ventriculomegaly and hydrocephalus associated to aggravation of seizures and neurological impairment. The aim of this study is to evaluate the development of hydrocephalus and the impact of ventriculoperitoneal shunt insertion in the clinical condition of these children.
+   Data was obtained from chart review, direct interviews with patients' parents, direct neurological examination, and analysis of pre- and postoperative neuroimages.
+   A group of 115 patients had CZS diagnosis from November 2015 to July 2017. Among them, 21 (18.3%) patients had ventricular enlargement noted on follow-up CT scans. Six children (28.6%) underwent a ventriculoperitoneal shunt and all had some improvement after surgery concerning either waking time during the day and better interaction. Overall improvement was also noted in seizures. Spasticity decrease and more cervical control were also achieved. In two out of six cases, a slight increase in parenchymal length could be noted on the CT scans.
+   This series points out the possibility of hypertensive hydrocephalus development in CZS patients. Affected children may benefit from VP shunt insertion. These findings suggest a dual pathology association: fetal brain disruption and primary cortical malformation by the virus itself and hypertensive hydrocephalus. This is already seen in some cases of congenital rubella, toxoplasmosis, or cytomegalovirus-associated hydrocephalus.
+C1 [Juca, Eduardo] Univ Fortaleza UNIFOR, Fortaleza, Ceara, Brazil.
+   [Juca, Eduardo; Pessoa, Andre; Ribeiro, Erlane; Kerbage, Saile] Hosp Infantil Albert Sabin, Fortaleza, Ceara, Brazil.
+   [Juca, Eduardo; Ribeiro, Erlane; Menezes, Rafaela; Lopes, Thayse] Ctr Univ Christus, Fortaleza, Ceara, Brazil.
+   [Pessoa, Andre] Univ Estadual Ceara UECE, Fortaleza, Ceara, Brazil.
+   [Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+RP Juca, E (corresponding author), Univ Fortaleza UNIFOR, Fortaleza, Ceara, Brazil.; Juca, E (corresponding author), Hosp Infantil Albert Sabin, Fortaleza, Ceara, Brazil.; Juca, E (corresponding author), Ctr Univ Christus, Fortaleza, Ceara, Brazil.
+EM eduardojuca@gmail.com
+RI Juca, Eduardo/AAF-7029-2019; Cavalcanti, Luciano/N-4391-2015
+OI Juca, Eduardo/0000-0003-3269-2577; Soares Barros de Menezes,
+   Rafaela/0000-0002-7115-4010; Cavalcanti, Luciano/0000-0002-3440-1182
+CR Alves LV, 2016, REV BRAS SAUDE MATER, V16, P33
+   Bale J F Jr, 1985, Pediatr Neurol, V1, P42, DOI 10.1016/0887-8994(85)90008-6
+   Bale JF, 2009, CLIN PERINATOL, V36, P639, DOI 10.1016/j.clp.2009.06.005
+   Cavalcanti P. G., 2017, REV MED UFC, V57, P30, DOI 10.20513/2447-6595.2017v57n1p30-35
+   Cavalheiro S, 2016, CHILD NERV SYST, V32, P1057, DOI 10.1007/s00381-016-3074-6
+   del Campo M, 2017, AM J MED GENET A, V173, P841, DOI 10.1002/ajmg.a.38170
+   FITZ CR, 1992, AM J NEURORADIOL, V13, P551
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   Hutson SL, 2015, CLIN INFECT DIS, V61, P1831, DOI 10.1093/cid/civ720
+   Jones J, 2003, AM FAM PHYS
+   KAISER G, 1985, Z KINDERCHIR, V40, P10
+   Malinger G, 2003, AM J NEURORADIOL, V24, P28
+   Moore C., 2016, J FAMILY VIOLENCE, P1
+   Moorthy RK, 2011, NEUROL INDIA, V59, P848, DOI 10.4103/0028-3886.91364
+   Nishiyama K, 2015, NEUROL MED-CHIR, V55, P611, DOI 10.2176/nmc.ra.2014-0433
+   Olagnier D, 2016, DNA CELL BIOL, V35, P367, DOI 10.1089/dna.2016.3404
+   Pastula DM, 2017, JAMA NEUROL
+   Petersen LR, 2016, NEW ENGL J MED, V374, P1552, DOI 10.1056/NEJMra1602113
+   Ribeiro EM, 2017, J VENOM ANIM TOXINS, V23, DOI 10.1186/s40409-017-0107-x
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Toma AK, 2015, SURGERY, V33, P384
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   Venkataramana NK, 2011, J PEDIATR NEUROSCI, V6, P11, DOI 10.4103/1817-1745.85704
+   Ventura CV, 2016, LANCET, V387, P2502, DOI 10.1016/S0140-6736(16)30776-0
+   Vercosa I, 2017, J AM ASS PEDIAT OPHT
+   Younger DS, 2016, NEUROL CLIN, V34, P1049, DOI 10.1016/j.ncl.2016.06.008
+NR 26
+TC 7
+Z9 7
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0256-7040
+EI 1433-0350
+J9 CHILD NERV SYST
+JI Childs Nerv. Syst.
+PD JAN
+PY 2018
+VL 34
+IS 1
+BP 101
+EP 106
+DI 10.1007/s00381-017-3636-2
+PG 6
+WC Clinical Neurology; Pediatrics; Surgery
+SC Neurosciences & Neurology; Pediatrics; Surgery
+GA FS7GQ
+UT WOS:000419966300019
+PM 29086073
+DA 2020-12-08
+ER
+
+PT J
+AU de Sousa, LLF
+   de Alencar, CHM
+   de Almeida, AMP
+   Cavalcanti, LPD
+AF Ferrer de Sousa, Larissa Leao
+   Morais de Alencar, Carlos Henrique
+   Paiva de Almeida, Alzira Maria
+   de Goes Cavalcanti, Luciano Pamplona
+TI Seroprevalence and spatial distribution dynamics of Yersinia pestis
+   antibodies in dogs and cats from plague foci in the State of Ceara,
+   Northeastern Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Yersinia pestis; Domestic carnivores; Reservoirs; Time series;
+   Surveillance
+ID DOMESTIC ANIMALS; SEROLOGIC SURVEY; UNITED-STATES; EPIDEMIOLOGY;
+   SURVEILLANCE; CARNIVORES; COLORADO; HISTORY; CLIMATE; DISEASE
+AB Introduction: In Brazil, the plague is established in several foci located mainly in the northeastern part of the country, where it alternates between active and quiescent periods. These foci in the State of Ceara have high epidemiological importance. In addition to other plague detection activities, plague areas can be monitored through serological surveys of dogs and cats (domestic carnivores), which, following feeding on plague-infected rodents, can develop mild to severe forms of the disease and produce long-lasting antibodies. This study aimed to characterize the circulation dynamics and spatial distribution of Yersinia pestis antibodies in dogs and cats in plague foci areas of Ceara. Methods: An ecological study was conducted to analyze the temporal series and spatial distribution of secondary data obtained from domestic carnivore serum surveillance in Ceara's plague areas from 1990 to 2014. Results: Joinpoint analysis revealed that the overall trend was a reduction in antibody-positive animals. The mean proportion of antibody-positivity during the whole study period was 1.5% (3,023/203,311) for dogs, and 0.7% (426/61,135) for cats, with more than 4% antibody-positivity in dogs in 1997 and 2002. Antibody titers ranging from 1/16 to 1/64 were frequent. Despite fluctuations and a significant reduction, in recent years, there were antibody-positive animals annually throughout the study period, and the localities containing antibody-positive animals increased in number. Conclusion: Yersinia pestis is actively circulating in the study areas, posing a danger to the human population.
+C1 [Ferrer de Sousa, Larissa Leao] Secretaria Saude Estado Ceara, Fortaleza, CE, Brazil.
+   [Ferrer de Sousa, Larissa Leao; Morais de Alencar, Carlos Henrique; de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, CE, Brazil.
+   [Paiva de Almeida, Alzira Maria] Fundacao Oswaldo Cruz, Ctr Pesquisa Aggeu Magalhaes, Recife, PE, Brazil.
+RP de Almeida, AMP (corresponding author), Fundacao Oswaldo Cruz, Ctr Pesquisa Aggeu Magalhaes, Recife, PE, Brazil.
+EM aalmeida@cpqam.fiocruz.br
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182; Alencar, Carlos
+   Henrique/0000-0003-2967-532X
+CR Almeida AMP, 1998, CAD SAUDE PUBLICA, V4, P49
+   [Anonymous], 2016, Wkly Epidemiol Rec, V91, P89
+   [Anonymous], 2005, INT HLTH REG
+   Aragao AI, 2007, CAD SAUDE PUBLICA, V23, P715, DOI 10.1590/S0102-311X2007000300029
+   Aragao AI, 2009, REV SOC BRAS MED TRO, V42, P711, DOI 10.1590/S0037-86822009000600019
+   Baltazard M, 2004, B SOC PATHOL EXOT S, V97, P93
+   Barnes A.M., 1982, Symposia of the Zoological Society of London, V50, P237
+   Ben Ari T, 2008, BIOL LETTERS, V4, P737, DOI 10.1098/rsbl.2008.0363
+   Butler T, 2014, CLIN MICROBIOL INFEC, V20, P202, DOI 10.1111/1469-0691.12540
+   Butler T, 2013, AM J TROP MED HYG, V89, P788, DOI 10.4269/ajtmh.13-0191
+   Dennis DT, 1999, PLAGUE MANUAL EPIDEM
+   Enscore RE, 2002, AM J TROP MED HYG, V66, P186, DOI 10.4269/ajtmh.2002.66.186
+   Gage KL, 2012, ADV EXP MED BIOL, V954, P79, DOI 10.1007/978-1-4614-3561-7_11
+   Gage KL, 2005, ANNU REV ENTOMOL, V50, P505, DOI 10.1146/annurev.ento.50.071803.130337
+   GASPER PW, 1993, J MED ENTOMOL, V30, P20, DOI 10.1093/jmedent/30.1.20
+   Giles J, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0000925
+   Gould LH, 2008, ZOONOSES PUBLIC HLTH, V55, P448, DOI 10.1111/j.1863-2378.2008.01132.x
+   Kim HJ, 2000, STAT MED, V19, P335, DOI 10.1002/(SICI)1097-0258(20000215)19:3<335::AID-SIM336>3.3.CO;2-Q
+   Kreppel KS, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003155
+   Li B, 2008, AM J TROP MED HYG, V79, P799, DOI 10.4269/ajtmh.2008.79.799
+   Lowell JL, 2009, J VECTOR ECOL, V34, P22, DOI [10.1111/j.1948-7134.2009.00004.x, 10.3376/038.034.0104]
+   Malmlov A, 2014, J WILDLIFE DIS, V50, P946, DOI 10.7589/2014-03-065
+   Parmenter RR, 1999, AM J TROP MED HYG, V61, P814, DOI 10.4269/ajtmh.1999.61.814
+   PAULMURPHY J, 1994, J WILDLIFE DIS, V30, P205, DOI 10.7589/0090-3558-30.2.205
+   RUST JH, 1971, J INFECT DIS, V124, P522, DOI 10.1093/infdis/124.5.522
+   RUST JH, 1971, J INFECT DIS, V124, P527, DOI 10.1093/infdis/124.5.527
+   Salkeld DJ, 2006, VECTOR-BORNE ZOONOT, V6, P231, DOI 10.1089/vbz.2006.6.231
+   Stenseth NC, 2008, PLOS MED, V5, P9, DOI 10.1371/journal.pmed.0050003
+   Tavares C, 2012, ADV EXP MED BIOL, V954, P69, DOI 10.1007/978-1-4614-3561-7_10
+   da Costa EDV, 2017, J INFECT DEV COUNTR, V11, P426, DOI 10.3855/jidc.8271
+   Wang H, 2011, CLIN INFECT DIS, V52, P185, DOI 10.1093/cid/ciq107
+NR 31
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD NOV-DEC
+PY 2017
+VL 50
+IS 6
+BP 769
+EP 776
+DI 10.1590/0037-8682-0278-2017
+PG 8
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA FT2CF
+UT WOS:000422945300005
+PM 29340453
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Ferreira, MJM
+   de Lima, RKS
+   da Silva, AMC
+   Bezerra, JG
+   Cavalcanti, LPD
+AF Monteiro Ferreira, Marcelo Jose
+   Soares de Lima, Romenia Kelly
+   Candido da Silva, Ageo Mario
+   Bezerra Filho, Jose Gomes
+   de Goes Cavalcanti, Luciano Pamplona
+TI Surveillance of occupational accidents by sentinel workers' health
+   centers in the municipality of Fortaleza, Northeast of Brazil
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE Occupational accidents; Notification of occupational accidents; Workers'
+   Surveillance; Health information systems; Occupational health
+AB This article examines the factors associated with the notification of occupational accidents by sentinel workers' health centers in the municipality of Fortaleza in the northeast of Brazil. An analytical cross-sectional study was conducted of five sentinel workers' health centers for serious and fatal occupational accidents. A total of 354 interviews were conducted with professionals responsible for notifying occupational accidents. Bivariate analysis was conducted using Pearson's chi-square test and/or Fisher's exact test using prevalence ratios and 95% confidence intervals, followed by stratified analysis and multivariate Poisson regression adopting the stepwise forward method. Variables that obtained a p-value of less than or equal to the chosen significance level (0.05) were maintained in the final model. Professionals who had a greater number of years of work experience, had undertaken three training courses, had knowledge of policy directives concerning occupational accidents, were familiar with the SINAN notification form, were aware that occupational accidents are reportable, and discussed the theme of occupational accidents in the workplace were statistically more likely to notify occupational accidents. Education and training helps raise awareness among health professionals.
+C1 [Monteiro Ferreira, Marcelo Jose; Soares de Lima, Romenia Kelly; Bezerra Filho, Jose Gomes; de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Fac Med, Av Univ 2853, BR-60020180 Fortaleza, CE, Brazil.
+   [Candido da Silva, Ageo Mario] Univ Fed Mato Grosso, Programa Posgrad Saude Colet, Cuiaba, MT, Brazil.
+RP Ferreira, MJM (corresponding author), Univ Fed Ceara, Fac Med, Av Univ 2853, BR-60020180 Fortaleza, CE, Brazil.
+EM marceloferreira@ufc.br
+RI Ferreira, Marcelo/AAJ-8227-2020; Cavalcanti, Luciano/N-4391-2015
+OI Ferreira, Marcelo/0000-0001-5187-4195; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR Almeida Paulo César Andrade, 2011, Rev. bras. saúde ocup., V36, P195, DOI 10.1590/S0303-76572011000200003
+   Bastos-Ramos TP, 2015, EPIDEMIOL SERV SAUDE, V24, P641, DOI 10.5123/S1679-49742015000400006
+   Brasil, 2004, POL NAC SEG SAUD TRA
+   Brasil. Ministerio da Saude (MS), 2011, B EP AC TRAB FAT BRA
+   Brasil. Ministerio da Saude (MS), 2006, NOT AC TRAB FAT GRAV
+   Brasil. Ministerio do Trabalho e Previdencia Social (MTPS). Empresa de Tecnologia e Informacao da Previdencia Social (DATAPREV), 2014, AN EST PREV SOC
+   Cavalcante CAA, 2015, REV ATENCAO SAUDE, V13, P100
+   Cortez EA, 2017, REV ENFERM UEPE S1, V11, P429
+   Dias Elizabeth Costa, 2005, Ciênc. saúde coletiva, V10, P817, DOI 10.1590/S1413-81232005000400007
+   Dias Maria Dionísia do Amaral, 2013, Rev. bras. saúde ocup., V38, P69, DOI 10.1590/S0303-76572013000100010
+   Fernandes Marcela Costa, 2016, Esc. Anna Nery, V20, pe20160074, DOI 10.5935/1414-8145.20160074
+   Galdino A, 2012, CAD SAUDE PUBLICA, V28, P145, DOI 10.1590/S0102-311X2012000100015
+   Gomes Jomara Brandini, 2002, Rev. Latino-Am. Enfermagem, V10, P696, DOI 10.1590/S0104-11692002000500011
+   Goncalves J. R., 2007, THESIS
+   International Labour Office (ILO), 2016, WORD EMPL SOC OUTL T
+   Keppler ILS, 2016, REV PSICOLOGIA ORG T, V16, P48
+   Lacaz F. A. C., 2010, REV MEDICA MINAS GER, V20, P5
+   Leopoldino JM, 2013, CADERNOS BRASILEIROS, V5, P44
+   Lima RJV, 2015, REV ENFERM UFPI, V4, P89
+   Medina F. S., 2016, Revista Brasileira de Saude Ocupacional, V41, pe8
+   Ferreira MJM, 2016, CIENC SAUDE COLETIVA, V21, P743, DOI 10.1590/1413-81232015213.21012015
+   Ribeiro Iramara Lima, 2016, Trab. educ. saúde, V14, P33, DOI 10.1590/1981-7746-sip00099
+   Rodrigues FMS, 2015, REV ENF UFJF, V1, P145
+   Silva A., 2016, Revista Brasileira de Saude Ocupacional, V41, pe16
+NR 24
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD OCT
+PY 2017
+VL 22
+IS 10
+BP 3393
+EP 3402
+DI 10.1590/1413-812320172210.17422017
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FK6ZI
+UT WOS:000413653300024
+PM 29069193
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPD
+   Freitas, ARR
+   Brasil, P
+   da Cunha, RV
+AF de Goes Cavalcanti, Luciano Pamplona
+   Ribas Freitas, Andre Ricardo
+   Brasil, Patricia
+   da Cunha, Rivaldo Venancio
+TI Surveillance of deaths caused by arboviruses in Brazil: from dengue to
+   chikungunya
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Letter
+DE surveillance; death; arboviruses; dengue; chikungunya
+ID VIRUS; INFECTION
+AB Did death occur DUE TO dengue, or in a patient WITH dengue virus infection? It seems a matter of semantics, but in fact, it underscores how challenging it is to distinguish whether the disease contributed to death, or was itself the underlying cause of death. Can a death be attributed to chikungunya virus, when some deaths occur after the acute phase? Did the virus decompensate the underlying diseases, leading to death? Did prolonged hospitalisation lead to infection, resulting in the patient's progression to death? Were there iatrogenic complications during patient care? The dengue question, for which there has not yet been a definitive response, resurfaces prominently under the chikungunya surveillance scenario. We are facing an epidemic of a disease that seems to be more lethal than previously thought. The major challenge ahead is to investigate deaths suspected of occurring due to arbovirus infections and to understand the role of each infection in the unfavourable outcome.
+C1 [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [Ribas Freitas, Andre Ricardo] Fac Sao Leopoldo Mand, Campinas, SP, Brazil.
+   [Ribas Freitas, Andre Ricardo] Secretaria Municipal Saude, Dept Vigilancia Saude, Campinas, SP, Brazil.
+   [Brasil, Patricia] Fdn Oswaldo Cruz Fiocruz, Inst Nacl Infectol Evandro Chagas, Rio De Janeiro, Brazil.
+   [da Cunha, Rivaldo Venancio] Fdn Oswaldo Cruz Fiocruz, Campo Grande, MS, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Freitas, Andre Ricardo Ribas/L-1969-2016; Cavalcanti,
+   Luciano/N-4391-2015
+OI Freitas, Andre Ricardo Ribas/0000-0003-0291-7771; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR Barbosa da Silva Jarbas Jr, 2002, Epidemiol Bull, V23, P3
+   Braga DNM, 2014, THESIS
+   Campos KB, 2015, TROP MED INT HEALTH, V20, P211, DOI 10.1111/tmi.12425
+   Carvalho FHC, 2016, REVISTA DE MEDICINA, V56, P6
+   Coelho GE, 2016, PROTOCOLO INVESTIGAC
+   Couderc T, 2015, ANTIVIR RES, V121, P120, DOI 10.1016/j.antiviral.2015.07.002
+   Cunha RV, 2015, DENGUE TEORIAS PRATI, P221
+   Cavalcanti LPD, 2016, AM J TROP MED HYG, V94, P187, DOI 10.4269/ajtmh.15-0392
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   de la Hoz JM, 2015, J CLIN VIROL, V69, P27, DOI 10.1016/j.jcv.2015.05.021
+   Donalisio Maria Rita, 2015, Rev. bras. epidemiol., V18, P283, DOI 10.1590/1980-5497201500010022
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Gerardin P, 2008, PLOS MED, V5, P413, DOI 10.1371/journal.pmed.0050060
+   Honorio NA, 2015, CAD SAUDE PUBLICA, V31, P906, DOI 10.1590/0102-311XPE020515
+   Josseran L, 2006, EMERG INFECT DIS, V12, P1994
+   MARIANO Francisco, 1917, Arch. Brasileiros de Med., V7, P272
+   Ministerio da Saude (BR), 2016, B EPIDEMIOL, V47, P1
+   MS/ SVS-Ministerio da Saude/Secretaria de Vigilancia em Saude, 2014, PREP RESP INTR VIR C
+   Osanai C H, 1983, Rev Inst Med Trop Sao Paulo, V25, P53
+   Osanai C. H., 1984, THESIS
+   PAHO, 2011, PREP RESP CHIK VIR I
+   Pedro A., 1923, BRAZIL MED, V1, P174
+   Rego JP, 1872, RIO DE JANEIRO TYPHO, V2, P44
+   Reis TJ, 1896, GAZETA MED BAHIA, V97, P163
+   Schatzmayr HG, 2000, MEM I OSWALDO CRUZ, V95, P179, DOI 10.1590/S0074-02762000000700030
+   Teixeira MG, 2015, EMERG INFECT DIS, V21, P906, DOI 10.3201/eid2105.141727
+   Teixeira MG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002520
+   Teixeira MG, 1999, INF EPIDEMIOL SUS, V8, P5, DOI DOI 10.5123/S0104-16731999000400002
+   VASCONCELOS PFD, 2014, REV PAN-AMAZ SAUDE, V5, P9, DOI DOI 10.5123/S2176-62232014000300001
+   Yakob L, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0057448
+NR 30
+TC 17
+Z9 17
+U1 0
+U2 6
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD AUG
+PY 2017
+VL 112
+IS 8
+BP 583
+EP 585
+DI 10.1590/0074-02760160537
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA FC4JY
+UT WOS:000406807300011
+PM 28767985
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Perdigao, ACB
+   Ramalho, ILC
+   Guedes, MIF
+   Braga, DNM
+   Cavalcanti, LPG
+   de Melo, MEL
+   Araujo, RMD
+   Lima, EG
+   da Silva, LAB
+   Araujo, LD
+   Araujo, FMD
+AF Bezerra Perdigao, Anne Carolinne
+   Cavalcante Ramalho, Izabel Leticia
+   Florindo Guedes, Maria Izabel
+   Melo Braga, Deborah Nunes
+   Goes Cavalcanti, Luciano Pamplona
+   Lisboa de Melo, Maria Elisabeth
+   de Carvalho Araujo, Rafael Montenegro
+   Lima, Elza Gadelha
+   Bie da Silva, Luciene Alexandre
+   Araujo, Lia de Carvalho
+   de Carvalho Araujo, Fernanda Montenegro
+TI Coinfection with influenza A(H1N1)pdm09 and dengue virus in fatal cases
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE dengue; fatal case; influenza A(H1N1)pdm09
+ID A H1N1 2009
+AB We report on four patients with fatal influenza A(H1N1)pdm09 and dengue virus coinfections. Clinical, necropsy and histopathologic findings presented in all cases were characteristic of influenza-dengue coinfections, and all were laboratory-confirmed for both infections. The possibility of influenza and dengue coinfection should be considered in locations where these two viruses' epidemic periods coincide to avoid fatal outcomes. Dengue is a mosquito-borne viral infection caused by one of the four dengue viruses (DENV-1 to 4). Each of these viruses is capable of causing nonspecific febrile illnesses, classic dengue fever and dengue haemorrhagic fever (Gubler 1998). As a result, dengue is often difficult to diagnose clinically, especially because peak dengue season often coincides with that of other common febrile illnesses in tropical regions (Chacon et al. 2015). In April 2009, a new virus, influenza A/H1N1/pandemic (FluA/H1N1/09pdm), caused a severe outbreak in Mexico. The virus quickly spread throughout the world, and in June 2009, the World Health Organization declared a pandemic (WHO 2010). In Brazil, the first laboratory confirmed case of FluA/H1N1/09pdm was in July 2009 (Pires Neto et al. 2013). The state of Ceara, in Northeast Brazil, is a dengue endemic area. In this state, the virus influenza A(H1N1)pdm09 has circulated since 2009, and through the first half of 2012, 11 deaths caused by the virus were confirmed (Pires Neto et al. 2013). The influenza and dengue seasons in Ceara overlap, which led to diagnostic difficulties. We report four cases of laboratory-confirmed coinfection of deadly influenza A(H1N1)pdm09 with DENV, which occurred during the dengue and influenza season in 2012 and 2013 in Ceara.
+C1 [Bezerra Perdigao, Anne Carolinne; Cavalcante Ramalho, Izabel Leticia; Lisboa de Melo, Maria Elisabeth; Lima, Elza Gadelha; Bie da Silva, Luciene Alexandre; de Carvalho Araujo, Fernanda Montenegro] Lab Cent Saude Publ, Setor Virol, Fortaleza, Ceara, Brazil.
+   [Bezerra Perdigao, Anne Carolinne; Cavalcante Ramalho, Izabel Leticia; Florindo Guedes, Maria Izabel; Lima, Elza Gadelha; de Carvalho Araujo, Fernanda Montenegro] Univ Estadual Ceara, Rede Nordeste Biotecnol, Fortaleza, Ceara, Brazil.
+   [Bezerra Perdigao, Anne Carolinne] Ctr Univ Christus, Fortaleza, Ceara, Brazil.
+   [Araujo, Lia de Carvalho] Univ Fortaleza, Fortaleza, Ceara, Brazil.
+   [Melo Braga, Deborah Nunes; Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Melo Braga, Deborah Nunes] Inst Prevencao Canc, Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Rafael Montenegro] Hosp Santa Casa de Misericordia, Fortaleza, Ceara, Brazil.
+RP Araujo, FMD (corresponding author), Lab Cent Saude Publ, Setor Virol, Fortaleza, Ceara, Brazil.; Araujo, FMD (corresponding author), Univ Estadual Ceara, Rede Nordeste Biotecnol, Fortaleza, Ceara, Brazil.
+EM fernanda.montenegro@lacen.ce.gov.br
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Perez MA, 2010, PEDIATR INFECT DIS J, V29, P1052, DOI 10.1097/INF.0b013e3181e6c69b
+   Araujo FMC, 2011, J VIROL METHODS, V177, P128, DOI 10.1016/j.jviromet.2011.07.003
+   Behera V, 2015, LUNG INDIA, V32, P299, DOI 10.4103/0970-2113.156263
+   CDC - Centers for Disease Control and Prevention, 2013, CDC DENV 1 4 REAL TI
+   Chacon R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0140890
+   Cavalcanti LPD, 2016, AM J TROP MED HYG, V94, P187, DOI 10.4269/ajtmh.15-0392
+   Doctor TH, 2010, LUNG INDIA, V27, P145, DOI 10.4103/0970-2113.68317
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   Gupta KB, 2009, PULMON, V11, P15
+   HALL WC, 1991, AM J TROP MED HYG, V45, P408, DOI 10.4269/ajtmh.1991.45.408
+   Kwong JC, 2011, CLIN INFECT DIS, V53, P413, DOI 10.1093/cid/cir442
+   Morgan OW, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009694
+   Pebody RG, 2010, EUROSURVEILLANCE, V15
+   Neto RDP, 2013, REV SOC BRAS MED TRO, V46, P141, DOI 10.1590/0037-8682-0016-2012
+   Ribeiro AF, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118772
+   Rodriguez EL, 2010, EMERG INFECT DIS, V16, P882, DOI 10.3201/eid1605.091920
+   WHO/CDC - World Health Organization/Center for Disease Control and Prevention, 2009, CDC PROT REAL TIM RT
+   Wiwanitkit S, 2013, ANN TROP MED PUBLIC, V6, DOI 10.4103/1755-6783.115199
+NR 18
+TC 10
+Z9 12
+U1 0
+U2 3
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD SEP
+PY 2016
+VL 111
+IS 9
+BP 588
+EP 591
+DI 10.1590/0074-02760160140
+PG 4
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA DW0NC
+UT WOS:000383336100008
+PM 27598244
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Braga, RR
+   Teixeira, AC
+   Oliveira, JAA
+   Cavalcanti, LPG
+AF Braga, R. R.
+   Teixeira, A. C.
+   Oliveira, J. A. A.
+   Cavalcanti, L. P. G.
+TI Prevalence of Platynosomum fastosum infection in free roaming cats in
+   northeastern Brazil: Fluke burden and grading of lesions
+SO VETERINARY PARASITOLOGY
+LA English
+DT Article
+DE Cats; Cholangitis; Trematode
+ID LIVER-DISEASE; OPISTHORCHIS-VIVERRINI; CONCINNUM INFECTION
+AB The objective of this paper was to investigate prevalence and parasite load of the trematode Platynosomum fastosum infection and the risk of developing cholangitis/cholangiohepatitis among infected domestic cats in a city of northeastern Brazil, and to characterize the influence of fluke burden in the formation of lesions in liver and gallbladder. A total of 141 cats was necropsied and examined for the presence of P. fastosum. The observed prevalence was 42.6% (60/141, 95% CI = 34.2-50.9). Parasite load varied from 1 to 219 flukes per animal. Adult cats were more frequently infected than kittens (p < 0.01). Risk of cholangitis was about three times higher in infected animals (RR = 3.23, 95% CI = 2.01-5.07, p < 0.01). Centrolobular congestion, portal cholangitis and cholestasis was significantly more common in infected as compared to non-infected cats (p < 0.01). Similarly, fibrosis, cholangitis and mucous gland hyperplasia were significantly more prevalent in the bile duct of infected animals (p < 0.01). Mild fibrosis and cholecystitis were observed principally in infected cats. Hyperplastic precursor lesions of cholangiocarcinoma were observed, but no solid tumor was diagnosed. These results reveal high prevalence of P. fastosum in free roaming cats in northeastern Brazil, with increased risk of liver disease. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Braga, R. R.; Teixeira, A. C.; Cavalcanti, L. P. G.] Univ Fed Ceara, Dept Patol & Med Legal, Fortaleza, Ceara, Brazil.
+   [Braga, R. R.; Oliveira, J. A. A.] Univ Fed Ceara, Dept Biol, Fortaleza, Ceara, Brazil.
+   [Cavalcanti, L. P. G.] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+RP Braga, RR (corresponding author), Univ Fed Ceara, Dept Patol & Med Legal, Fortaleza, Ceara, Brazil.
+EM robertarocha@ufc.br
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182; Andrade Oliveira, John
+   Allyson/0000-0003-2222-1632
+FU Health Department of Maracanau; Postgraduation Support Program
+   (PROAP-CAPES)
+FX We are grateful to NUROF-UFC for the facilities; Argos Laboratory for
+   the histological staining; the Health Department of Maracanau for its
+   support; and Dr. Daianna Miquelotti for her kind assistance. This work
+   was partially supported by the Postgraduation Support Program
+   (PROAP-CAPES), and we would like to thank Dr. Fernando Schemelzer de
+   Moraes Bezerra for his mediation.
+CR Andrade RLFS, 2012, VET PARASITOL, V190, P277, DOI 10.1016/j.vetpar.2012.04.015
+   Basu AK, 2014, VET PARASITOL, V200, P1, DOI 10.1016/j.vetpar.2013.12.016
+   Carreira Vinicius S, 2008, Rev Bras Parasitol Vet, V17 Suppl 1, P184
+   Cullen JM, 2009, VET CLIN N AM-SMALL, V39, P395, DOI 10.1016/j.cvsm.2009.02.003
+   Daniel A. G. T., 2012, Brazilian Journal of Veterinary Pathology, V5, P137
+   Ramos DGD, 2013, REV BRAS PARASITOL V, V22, P201, DOI 10.1590/S1984-29612013000200040
+   DOSSANTOS JA, 1981, PESQUI VET BRASIL, V1, P31
+   Ferreira AMR, 1999, FELINE PRACT, V27, P19
+   FOLEY RH, 1994, COMP CONT EDUC PRACT, V16, P1271
+   Gennari S. M., 1999, BRAZ J VET RES ANIM, V36, P1
+   HAMMOND JA, 1972, T ROY SOC TROP MED H, V66, P547
+   Headley S. A., 2011, Brazilian Journal of Veterinary Pathology, V4, P227
+   Ho ML, 1998, ACTA PAEDIATR, V87, P799, DOI 10.1080/080352598750013914
+   Ishizaki M. N., 2006, Ars Veterinaria, V22, P212
+   Jesus M. F. P., 2015, Brazilian Journal of Veterinary Pathology, V8, P25
+   Kim Jong Min, 2010, Laboratory Animal Research, V26, P307
+   Leary S., 2013, AVMA GUIDELINES EUTH
+   LOVELACE K. M, 2006, THE FELINE PATIENT, P687
+   MacLachlan N.J., 1990, PATOLOGIA VET ESPECI, P265
+   Maldonado Jose F., 1945, PUERTO RICO JOUR PUBL HEALTH AND TROP MED, V21, P17
+   MENDES DE ALMEIDA F., 2007, VET PARASITOL, V147, P9
+   Michaelsen R., 2012, Veterinaria em foco, V10, P53
+   Montserin SAS, 2013, REV MED VET-TOULOUSE, V164, P9
+   Mundim TCD, 2004, ARQ BRAS MED VET ZOO, V56, P562, DOI 10.1590/S0102-09352004000400022
+   Ogassawara S., 1986, Revista da Faculdade de Medicina Veterinaria e Zootecnia da Universidade de Sao Paulo, V23, P145
+   Pinto HA, 2015, VET PARASITOL, V211, P40, DOI 10.1016/j.vetpar.2015.04.021
+   Pinto HA, 2014, PARASITOL RES, V113, P2701, DOI 10.1007/s00436-014-3926-5
+   R Development Core Team, 2011, R LANG ENV STAT COMP
+   Ragozo A. M. A., 2002, Brazilian Journal of Veterinary Research and Animal Science, V39, P244, DOI 10.1590/S1413-95962002000500005
+   Rodrigues H. de O., 1963, Memorias do Instituto Oswaldo Cruz, V61, P507
+   Rodriguez-Vivas RI, 2004, VET REC, V154, P693, DOI 10.1136/vr.154.22.693
+   Salomao M., 2005, J APPL RES VET MED, V3, P271
+   Sampaio MAS, 2006, BRAZ J PUB HLTH ANIM, V7, P1
+   SILVA HCS, 2001, SEMIN-CIENC AGRAR, V22, P63
+   SITHITHAWORN P, 1991, T ROY SOC TROP MED H, V85, P765, DOI 10.1016/0035-9203(91)90449-9
+   Sousa Filho R. P., 2015, ARQ CI VET ZOO UNIPA, V10, P59
+   Sripa B, 2003, ACTA TROP, V88, P209, DOI 10.1016/j.actatropica.2003.08.002
+   Sripa B, 2002, ACTA TROP, V83, P29, DOI 10.1016/S0001-706X(02)00052-9
+   Sripa B., 2003, ACTA TROP, V88, P224
+   Torres C. M., 1936, MEM I O CRUZ, V31, P732
+   Vieira A. L. S., 2016, BRAZ J VET PATHOL, V2, P45
+   Warren A., 2010, VET PATHOL, P1
+   Xavier FG, 2007, J FELINE MED SURG, V9, P51, DOI 10.1016/j.jfms.2006.08.006
+   Zamrii-Saad M., 1984, PERTANIKA, V7, P87
+NR 44
+TC 7
+Z9 7
+U1 0
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-4017
+EI 1873-2550
+J9 VET PARASITOL
+JI Vet. Parasitol.
+PD AUG 30
+PY 2016
+VL 227
+BP 20
+EP 25
+DI 10.1016/j.vetpar.2016.07.021
+PG 6
+WC Parasitology; Veterinary Sciences
+SC Parasitology; Veterinary Sciences
+GA DV3EK
+UT WOS:000382803600004
+PM 27523932
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPD
+   Oliveira, RDAB
+   Alencar, CH
+AF de Goes Cavalcanti, Luciano Pamplona
+   Alves Barbosa Oliveira, Rhaquel de Morais
+   Alencar, Carlos Henrique
+TI Changes in infestation sites of female Aedes aegypti in Northeast Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Oviposition; Aedes aegypti; Prevailing reservoir
+ID CONTAINERS; FISH
+AB Introduction: We report the behavioral changes in use of oviposition sites in Aedes aegypti in Fortaleza, Brazil. Methods: We evaluated the relationship between different types of breeding sites and changes in use from 2001 to 2012. Results: More than 40% of the infested breeding sites were used to store water. We observed a three-fold reduction in the infestation of water tanks (p = 0.038) and more than nine-fold in tires (p = 0.035). The proportion of infested plant pots increased six-fold (p < 0.001). Conclusions: Infested breeding sites changed over time from domestic water tanks to small-volume breeding sites.
+C1 [de Goes Cavalcanti, Luciano Pamplona; Alencar, Carlos Henrique] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona; Alves Barbosa Oliveira, Rhaquel de Morais; Alencar, Carlos Henrique] Univ Fed Ceara, Programa Posgrad Saude Colet, Fortaleza, Ceara, Brazil.
+   [Alves Barbosa Oliveira, Rhaquel de Morais] Secretaria Saude Estado Ceara, Nucleo Vigilancia Epidemiol, Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.; Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Programa Posgrad Saude Colet, Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182; Alencar, Carlos
+   Henrique/0000-0003-2967-532X
+CR Barbosa da Silva Jarbas Jr, 2002, Epidemiol Bull, V23, P3
+   Barreto Maurício L., 2008, Estud. av., V22, P53, DOI 10.1590/S0103-40142008000300005
+   Pamplona LDC, 2009, TROP MED INT HEALTH, V14, P1347, DOI 10.1111/j.1365-3156.2009.02377.x
+   Chiaravalloti Neto Francisco, 1997, Revista da Sociedade Brasileira de Medicina Tropical, V30, P279, DOI 10.1590/S0037-86821997000400002
+   Lima JWD, 2010, TROP MED INT HEALTH, V15, P1525, DOI 10.1111/j.1365-3156.2010.02658.x
+   Domingos MF, 2013, J HLTH BIOL SCI, V1, P122
+   Hiragi C, 2009, NEOTROP ENTOMOL, V38, P542, DOI 10.1590/S1519-566X2009000400018
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2010, PESQ NAC AM DOM PNAD
+   Lima EP, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-2199-y
+   Ministerio da Saude, 2013, LEV RAP IND AED AEG
+   Oliveira R. S., 2014, THESIS
+   PINHEIRO Valéria Cristina Soares, 2002, Rev. Inst. Med. trop. S. Paulo, V44, P245, DOI 10.1590/S0036-46652002000500002
+   Silva HHG, 1999, REV SOC BRAS MED TRO, V32, P349, DOI DOI 10.1590/S0037-86821999000400003
+   VASCONCELOS PFD, 2015, REV PAN-AMAZ SAUDE, V6, P9, DOI DOI 10.5123/S2176-62232015000200001
+   Vega-Rua A, 2014, J VIROL, V88, P6294, DOI 10.1128/JVI.00370-14
+NR 15
+TC 3
+Z9 4
+U1 0
+U2 1
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD JUL-AUG
+PY 2016
+VL 49
+IS 4
+BP 498
+EP 501
+DI 10.1590/0037-8682-0044-2016
+PG 4
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA DU8IT
+UT WOS:000382457200017
+PM 27598639
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Heukelbach, J
+   Alencar, CH
+   Kelvin, AA
+   de Oliveira, WK
+   Cavalcanti, LPD
+AF Heukelbach, Jorg
+   Alencar, Carlos Henrique
+   Kelvin, Alyson Ann
+   de Oliveira, Wanderson Kleber
+   de Goes Cavalcanti, Luciano Pamplona
+TI Zika virus outbreak in Brazil
+SO JOURNAL OF INFECTION IN DEVELOPING COUNTRIES
+LA English
+DT Article
+DE Zika virus; Flavivirus; Chikungunya; Dengue virus; Brazil; microcephaly
+ID DENGUE VIRUSES; TRANSMISSION; CHIKUNGUNYA; INFECTION
+AB Zika virus (ZIKV) infection is spreading rapidly within the Americas after originating from an outbreak in Brazil. We describe the current ZIKV infection epidemic in Brazil and the neurological symptoms arising. First cases of an acute exanthematic disease were reported in Brazil's Northeast region at the end of 2014. In March 2015, autochthonous ZIKV was determined to be the causative agent of the exanthematic disease. As cases of neurological syndromes in regions where ZIKV, dengue and/or Chikungunya viruses co-circulate were reported, ZIKV was also identified in the cerebrospinal fluid of patients with acute neurological syndromes and previous exanthematic disease. By the end of September 2015, an increasing number of infants with small head circumference or microcephaly were noted in Brazil's Northeast which was estimated to be 29 cases between August and October. ZIKV was identified in blood and tissue samples of a newborn and in mothers who had given birth to infants with microcephaly and ophthalmological anomalies. In 2015, there were an estimated 440,000-1,300,000 Zika cases in Brazil. There have been 4,783 suspected cases of microcephaly, most of them in the Northeast of Brazil associated with 76 deaths. The Ministry of Health is intensifying control measures against the mosquito Aedes aegypti and implemented intensive surveillance actions. Further studies are needed to confirm the suspected association between ZIKV infection and microcephaly; to identify antiviral, immunotherapy, or prophylactic vaccine; to introduce diagnostic ELISA testing. Clinical and epidemiological studies must be performed to describe viral dynamics and expansion of the outbreak.
+C1 [Heukelbach, Jorg; Alencar, Carlos Henrique; de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Sch Med, Dept Community Hlth, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, CE, Brazil.
+   [Heukelbach, Jorg] James Cook Univ, Anton Breinl Ctr Publ Hlth, Townsville, Qld 4811, Australia.
+   [Heukelbach, Jorg] James Cook Univ, Coll Publ Hlth Med & Vet Sci, Div Trop Hlth & Med, Townsville, Qld 4811, Australia.
+   [Kelvin, Alyson Ann] IDR, Toronto, ON, Canada.
+   [de Oliveira, Wanderson Kleber] Minist Saude Brasil, Coordenacao Geral Vigilancia & Resposta Emergenci, Brasilia, DF, Brazil.
+RP Heukelbach, J (corresponding author), Univ Fed Ceara, Sch Med, Dept Community Hlth, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, CE, Brazil.
+EM heukelbach@web.de
+RI Oliveira, Wanderson/AAF-5182-2019; Cavalcanti, Luciano/N-4391-2015
+OI Oliveira, Wanderson/0000-0002-9662-1930; Alencar, Carlos
+   Henrique/0000-0003-2967-532X; Heukelbach, Jorg/0000-0002-7845-5510;
+   Cavalcanti, Luciano/0000-0002-3440-1182
+CR [Anonymous], 2015, PROT VIG RESP OC MIC
+   Aracaju, 2015, SAUD AR ESCL BOAT EP
+   Brasil. Ministerio da Saude do Brasil, 2015, MIN SAUD CONF REL EN
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cao-Lormeau V-M, 2014, EMERG INFEC DIS, V20, P2
+   Cardoso CW, 2015, EMERG INFECT DIS, V21, P2274, DOI 10.3201/eid2112.151167
+   Caxias, 2015, SECR SAUD AD PROV SU
+   CDC, 2016, UPD DIAGN TEST ZIK C
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Dupont-Rouzeyrol M, 2015, EMERG INFECT DIS, V21, P381, DOI 10.3201/eid2102.141553
+   ECDC European Centre for Disease Prevention and Control, 2014, RAP RISK ASS ZIK VIR
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Hayes EB, 2009, EMERG INFECT DIS, V15, P1347, DOI 10.3201/eid1509.090442
+   Heang V, 2012, EMERG INFECT DIS, V18, P349, DOI 10.3201/eid1802.111224
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Marcondes CB, 2015, REV SOC BRAS MED TRO
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Ministerio da Saude-Brasil, 2015, PROT AT SAUD RESP OC, V2015
+   Ministerio da Saude-Brasil, 2016, SAUD INV 3 670 CAS S
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Pan American Health Organization (PAHO), 2016, EP UPD NEUR SYNDR CO
+   Roth A, 2014, EUROSURVEILLANCE, V19, P2, DOI 10.2807/1560-7917.ES2014.19.41.20929
+   Schuler-Faccini L, 2016, MMWR MORB MORT WKLY, P65
+   Secretaria estadual de saude de Pernambuco (BR). Secretaria executiva de vigilancia em saude, 2015, PROT CLIN EP INV CAS
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+   World Health Organisation, 2016, WHO DIR GEN SUMM OUT
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 28
+TC 93
+Z9 97
+U1 1
+U2 49
+PU J INFECTION DEVELOPING COUNTRIES
+PI TRAMANIGLIO
+PA JIDC CENT OFF PORTO CONTE RICERCHE RES CTR, S P 55, PORTO CONTE CAPO
+   CACCIA KM 8.400 LOC, TRAMANIGLIO, 07041, ITALY
+SN 1972-2680
+J9 J INFECT DEV COUNTR
+JI J. Infect. Dev. Ctries.
+PD FEB
+PY 2016
+VL 10
+IS 2
+BP 116
+EP 120
+DI 10.3855/jidc.8217
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA DI4AV
+UT WOS:000373443300002
+PM 26927450
+OA DOAJ Gold, Green Accepted
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPD
+   Braga, DND
+   da Silva, LMA
+   Aguiar, MG
+   Castiglioni, M
+   Silva, JU
+   Araujo, FMD
+   Pereira, RAD
+   Malta, DL
+   Pompeu, MMD
+AF de Goes Cavalcanti, Luciano Pamplona
+   de Melo Braga, Deborah Nunes
+   Alexandre da Silva, Livia Maria
+   Aguiar, Marina Gondim
+   Castiglioni, Mariana
+   Silva-Junior, Jose Udevanier
+   de Carvalho Araujo, Fernanda Montenegro
+   da Costa Pereira, Renata Allana
+   Malta, Danielle Lima
+   de Lima Pompeu, Margarida Maria
+TI Postmortem Diagnosis of Dengue as an Epidemiological Surveillance Tool
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID HEMORRHAGIC-FEVER; AGE PATTERN; BRAZIL; NORTHEASTERN; POPULATION;
+   MORTALITY; VIRUSES; SAMPLES
+AB Dengue remains a problem in Brazil, and a substantial number of cases that progress to death are not diagnosed by health services. We evaluated the impact of a protocol adopted by the Coroner's Office Rocha Furtado (CO-RF) for the detection of unreported deaths from dengue in Brazil. We evaluated prospectively cases of deaths referred to the CO-RF with suspicion of dengue and those referred with other diagnosis in which the pathologists suspected dengue as the cause of death. Biological material was collected from all bodies autopsied, for which the suspected cause of death was dengue, between January 2011 and December 2012. Of the 214 bodies autopsied, 134 (62.6%) tested positive for dengue; of these cases, 121 were classified as dengue according to the World Health Organization's case definition (1997 or 2009, as appropriate). Thus, CO-RF detected 90 deaths from dengue, which were not suspected during disease progression. This CO-RE protocol, through a combined effort of the surveillance and laboratory teams, increased the detection of fatal dengue cases by 5-fold. This is the largest series of autopsies performed in cases of death related to dengue in the world to date.
+C1 [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, BR-60430140 Fortaleza, Ceara, Brazil.
+   [de Melo Braga, Deborah Nunes] Univ Fed Ceara, Dept Patol, BR-60430140 Fortaleza, Ceara, Brazil.
+   [Alexandre da Silva, Livia Maria; Aguiar, Marina Gondim; Castiglioni, Mariana] Ctr Univ Christus, Fac Med, Fortaleza, Ceara, Brazil.
+   [Silva-Junior, Jose Udevanier; da Costa Pereira, Renata Allana] Univ Fed Ceara, Fac Med, BR-60430140 Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro] Dept Hlth Ceara State, Cent Publ Hlth Lab, Fortaleza, Ceara, Brazil.
+   [Malta, Danielle Lima] Univ Fortaleza, Curs Med, Fortaleza, Ceara, Brazil.
+   [de Lima Pompeu, Margarida Maria] Univ Fed Ceara, Dept Patol, Programa Posgrad Patol, BR-60430140 Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes,1608 Bloco Didat 5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com; deborahninb@gmail.com;
+   livinhalexandre@hotmail.com; ina_aguiar@hotmail.com;
+   marianacastglioni@gmail.com; udevanier_reboucas@hotmail.com;
+   fernanda.montenegro@lacen.ce.gov.br; renata.allana1@gmail.com;
+   danimalta37@gmail.com; margarida.pompeu@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015; Lima, Danielle/A-6108-2013
+OI Cavalcanti, Luciano/0000-0002-3440-1182; Lima,
+   Danielle/0000-0003-2734-6768
+FU Ceara State Foundation for Research Support (FUNCAP) through
+   PPSUS-NETWORK-MS/CNPq/FUNCAP/HS; University Center Christus
+   (UNICHRISTUS) scholarships by SI of the medical school
+FX This study was supported by the Ceara State Foundation for Research
+   Support (FUNCAP) through notice PPSUS-NETWORK-MS/CNPq/FUNCAP/HS 03/2012
+   and University Center Christus (UNICHRISTUS) scholarships by SI of the
+   medical school.
+CR Amancio FF, 2014, J INFECT PUBLIC HEAL, V7, P547, DOI 10.1016/j.jiph.2014.07.016
+   Araujo FMC, 2012, NEUROLOGY, V78, P736, DOI 10.1212/WNL.0b013e31824b94e9
+   Araujo FMC, 2011, J VIROL METHODS, V177, P128, DOI 10.1016/j.jviromet.2011.07.003
+   Araujo F, 2012, EMERG INFECT DIS, V18, P677, DOI [10.3201/eid1804.111522, 10.3201/eid1804.111552]
+   Cavalcanti LP, 2011, EMERG INFECT DIS, V17, P132, DOI 10.3201/eid1701.100321
+   CEARA, 2013, INF SEM DENG SECR SA
+   CHEN W-J, 1991, Southeast Asian Journal of Tropical Medicine and Public Health, V22, P659
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Sea VRF, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064056
+   Figueiro AC, 2011, CAD SAUDE PUBLICA, V27, P2373, DOI 10.1590/S0102-311X2011001200009
+   GUBLER DJ, 1984, AM J TROP MED HYG, V33, P158, DOI 10.4269/ajtmh.1984.33.158
+   Guha-Sapir D, 2005, EMERG THEMES EPIDEMI, V2, DOI 10.1186/1742-7622-2-1
+   HALL WC, 1991, AM J TROP MED HYG, V45, P408, DOI 10.4269/ajtmh.1991.45.408
+   Jessie K, 2004, J INFECT DIS, V189, P1411, DOI 10.1086/383043
+   Lahiri M, 2008, T ROY SOC TROP MED H, V102, P1011, DOI 10.1016/j.trstmh.2008.06.005
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Leo YS, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-123
+   Lumbiganon P, 2012, J MED ASS THAI, V95, P1
+   Lye DC, 2010, INT J INFECT DIS, V14, pE410, DOI 10.1016/j.ijid.2009.06.026
+   Ministerio da Saude, 2009, GUIA VIGILANCIA EPID, V9, P17
+   Moraes GH, 2013, AM J TROP MED HYG, V88, P670, DOI 10.4269/ajtmh.11-0774
+   Passos MC, 2011, REV BAIANA SAUDE PUB, V35, P687
+   Pelegrino J L, 1997, Rev Cubana Med Trop, V49, P100
+   Lima MDQ, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001147
+   Nogueira RMR, 2007, REV PANAM SALUD PUBL, V22, P358, DOI 10.1590/S1020-49892007001000009
+   Runge-Ranzinger S, 2014, TROP MED INT HEALTH, V19, P1116, DOI 10.1111/tmi.12333
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   Teixeira MG, 2008, EMERG INFECT DIS, V14, P1663, DOI 10.3201/eid1410.071164
+   Teixeira MG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002520
+   Thein TL, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081060
+   Tomashek KM, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001614
+   Verhagen LM, 2014, J INFECTION, V69, pS77, DOI 10.1016/j.jinf.2014.07.020
+   World Health Organization, 1997, DENG HEM FEV DIAGN T
+NR 33
+TC 19
+Z9 19
+U1 0
+U2 4
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD JAN
+PY 2016
+VL 94
+IS 1
+BP 187
+EP 192
+DI 10.4269/ajtmh.15-0392
+PG 6
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA DA3NX
+UT WOS:000367705500034
+PM 26598561
+OA Green Published, Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPD
+   Braga, DND
+   Pompeu, MMD
+   Lima, AAB
+   da Silva, LMA
+   Aguiar, MG
+   Castiglioni, M
+   Araujo, FMD
+   Malta, DL
+   Queiroz, A
+AF de Goes Cavalcanti, Luciano Pamplona
+   de Melo Braga, Deborah Nunes
+   de Lima Pompeu, Margarida Maria
+   Bezerra Lima, Antonio Afonso
+   Alexandre da Silva, Livia Maria
+   Aguiar, Marina Gondim
+   Castiglioni, Mariana
+   de Carvalho Araujo, Fernanda Montenegro
+   Malta, Daniele Lima
+   Queiroz, Anastacio
+TI Evaluation of the World Health Organization 2009 classification of
+   dengue severity in autopsied individuals, during the epidemics of 2011
+   and 2012 in Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Dengue fever; Classification criteria; Warning signs; Vigilance and
+   Control
+ID HEMORRHAGIC-FEVER; ATYPICAL MANIFESTATIONS; DISEASE SEVERITY;
+   NORTHEASTERN; MORTALITY; SINGAPORE; INFECTION; CHILDREN; ANTIGEN; ADULTS
+AB The dengue classification proposed by the World Health Organization (WHO) in 2009 is considered more sensitive than the classification proposed by the WHO in 1997. However, no study has assessed the ability of the WHO 2009 classification to identify dengue deaths among autopsied individuals suspected of having dengue. In the present study, we evaluated the ability of the WHO 2009 classification to identify dengue deaths among autopsied individuals suspected of having dengue in Northeast Brazil, where the disease is endemic. Methods: This retrospective study included 121 autopsied individuals suspected of having dengue in Northeast Brazil during the epidemics of 2011 and 2012. All the autopsied individuals included in this study were confirmed to have dengue based on the findings of laboratory examinations. Results: The median age of the autopsied individuals was 34 years (range, 1 month to 93 years), and 54.5% of the individuals were males. According to the WHO 1997 classification, 9.1% (11/121) of the cases were classified as dengue hemorrhagic fever (DHF) and 3.3% (4/121) as dengue shock syndrome. The remaining 87.6% (106/121) of the cases were classified as dengue with complications. According to the 2009 classification, 100% (121/121) of the cases were classified as severe dengue. The absence of plasma leakage (58.5%) and platelet counts <100,000/mm(3) (47.2%) were the most frequent reasons for the inability to classify cases as DHF. Conclusions: The WHO 2009 classification is more sensitive than the WHO 1997 classification for identifying dengue deaths among autopsied individuals suspected of having dengue.
+C1 [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, BR-60430140 Fortaleza, Ceara, Brazil.
+   [de Melo Braga, Deborah Nunes; de Lima Pompeu, Margarida Maria; Queiroz, Anastacio] Univ Fed Ceara, Dept Patol, BR-60430140 Fortaleza, Ceara, Brazil.
+   [Bezerra Lima, Antonio Afonso; Queiroz, Anastacio] Hosp Sao Jose Doencas Infecciosas, Fortaleza, Ceara, Brazil.
+   [Alexandre da Silva, Livia Maria; Aguiar, Marina Gondim; Castiglioni, Mariana] Ctr Univ Christus, Fac Med, Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro] Lab Cent Saude Publ Ceara, Fortaleza, Ceara, Brazil.
+   [Malta, Daniele Lima] Univ Fortaleza, Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608-5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Malta, Deborah C/H-7880-2012; Cavalcanti, Luciano/N-4391-2015
+OI Malta, Deborah C/0000-0002-8214-5734; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+FU Christus Academic Center (Centro Universitario Christus) (UNICHRISTUS);
+   Ceara Foundation for Research Support (FUNCAP) [FUNCAP 12535699-4,
+   03/2012 - PPSUS - REDE-MS/CNPa/FUNCAP/SESA]
+FX This study was supported by scholarships from Christus Academic Center
+   (Centro Universitario Christus) (UNICHRISTUS) and the Ceara Foundation
+   for Research Support (FUNCAP); process no. FUNCAP 12535699-4, edital no.
+   03/2012 - PPSUS - REDE-MS/CNPa/FUNCAP/SESA.
+CR Alexander N, 2011, TROP MED INT HEALTH, V16, P936, DOI 10.1111/j.1365-3156.2011.02793.x
+   [Anonymous], 2009, DENG GUID DIAGN TREA
+   Araujo FMC, 2012, NEUROLOGY, V78, P736, DOI 10.1212/WNL.0b013e31824b94e9
+   Araujo FMC, 2011, J VIROL METHODS, V177, P128, DOI 10.1016/j.jviromet.2011.07.003
+   Araujo F, 2012, EMERG INFECT DIS, V18, P677, DOI [10.3201/eid1804.111522, 10.3201/eid1804.111552]
+   Araujo SA, 2010, AM J TROP MED HYG, V83, P679, DOI 10.4269/ajtmh.2010.10-0009
+   Aye KS, 2014, HUM PATHOL, V45, P1221, DOI 10.1016/j.humpath.2014.01.022
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Brasil, 2011, DENG DIAGN MAN CLIN
+   Campos KB, 2015, TROP MED INT HEALTH, V20, P211, DOI 10.1111/tmi.12425
+   Cavalcanti LPG, 2015, AM J TROP MED HYG, V23
+   Cavalcanti LP, 2011, EMERG INFECT DIS, V17, P132, DOI 10.3201/eid1701.100321
+   de Andrade SMO, 2014, OPEN J CLIN DIAG, V4, P12
+   Cavalcanti LPD, 2014, MEM I OSWALDO CRUZ, V109, P93, DOI 10.1590/0074-0276140384
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Souza Luiz José de, 2005, Braz J Infect Dis, V9, P257, DOI 10.1590/S1413-86702005000300009
+   Figueiro AC, 2011, CAD SAUDE PUBLICA, V27, P2373, DOI 10.1590/S0102-311X2011001200009
+   Ribeiro BNF, 2015, INT J SURG CASE REP, V8, P38, DOI 10.1016/j.ijscr.2014.10.057
+   Guha-Sapir D, 2005, EMERG THEMES EPIDEMI, V2, DOI 10.1186/1742-7622-2-1
+   Gulati S, 2007, TROP MED INT HEALTH, V12, P1087, DOI 10.1111/j.1365-3156.2007.01891.x
+   Gutierrez G, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002385
+   Horstick O, 2012, PATHOG GLOB HEALTH, V106, P94, DOI 10.1179/2047773212Y.0000000017
+   Kamath Shrishu R., 2006, Indian Journal of Pediatrics, V73, P889, DOI 10.1007/BF02859281
+   Kularatne SAM, 2014, BMC INFECT DIS, V14, DOI 10.1186/1471-2334-14-141
+   Leo YS, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-123
+   Lima FR, 2013, CLINICS, V68, P1299, DOI 10.6061/clinics/2013(10)02
+   Ling LM, 2007, J CLIN VIROL, V38, P265, DOI 10.1016/j.jcv.2006.12.011
+   Lye DC, 2010, INT J INFECT DIS, V14, pE410, DOI 10.1016/j.ijid.2009.06.026
+   Macedo GA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096314
+   Moraes GH, 2013, AM J TROP MED HYG, V88, P670, DOI 10.4269/ajtmh.11-0774
+   Moraes GH, 2009, CAD SAUDE PUBLICA, V25, P2354, DOI 10.1590/S0102-311X2009001100006
+   Narvaez F, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001397
+   Ong A, 2007, INT J INFECT DIS, V11, P263, DOI 10.1016/j.ijid.2006.02.012
+   Passos MC, 2011, REV BAIANA SAUDE PUB, V35, P687
+   Prasad D, 2013, INFECTION, V41, P775, DOI 10.1007/s15010-013-0405-3
+   Rivera J, 2014, BIOMEDICA, V34, P514, DOI [10.7705/biomedica.v34i4.2169, 10.1590/S0120-41572014000400003]
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   Siqueira JB, 2005, EMERG INFECT DIS, V11, P48, DOI 10.3201/eid1101.031091
+   Srikiatkhachorn A, 2010, CLIN INFECT DIS, V50, P1135, DOI 10.1086/651268
+   Teixeira MG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002520
+   Teixeira MG, 2009, BRAZIL EMERG INFECT, V14, P1663
+   Thein TL, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081060
+   Tomashek KM, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001614
+   Verhagen LM, 2014, J INFECTION, V69, pS77, DOI 10.1016/j.jinf.2014.07.020
+   World Health Organization, 1997, DENG HEM FEV DIAGN T
+   Yacoub S, 2014, NAT REV CARDIOL, V11, P335, DOI 10.1038/nrcardio.2014.40
+NR 46
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD NOV-DEC
+PY 2015
+VL 48
+IS 6
+BP 658
+EP 664
+DI 10.1590/0037-8682-0287-2015
+PG 7
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA CZ5RA
+UT WOS:000367158500004
+PM 26676489
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Perdigao, ACB
+   Araujo, FMC
+   Melo, MEL
+   Lemos, DRQ
+   Cavalcanti, LP
+   Ramalho, ILC
+   Araujo, LC
+   Sousa, DM
+   Siqueira, MM
+   Guedes, MIF
+AF Perdigao, Anne C. B.
+   Araujo, Fernanda M. C.
+   Melo, Maria E. L.
+   Lemos, Daniele R. Q.
+   Cavalcanti, Luciano P.
+   Ramalho, Izabel L. C.
+   Araujo, Lia C.
+   Sousa, Deborah M.
+   Siqueira, Marilda M.
+   Guedes, Maria I. F.
+TI Post-pandemic influenza A (H1N1) 2009 virus infection in pregnant women
+   in Ceara, Brazil
+SO INFLUENZA AND OTHER RESPIRATORY VIRUSES
+LA English
+DT Article
+DE Placental transmission; post-pandemic influenza A; pregnant
+ID POSTPARTUM WOMEN; ILLNESS; RISK; VACCINE
+AB Objective The aim of this study was to present results of the post-pandemic phase of A(H1N1) pdm09 virus infection in pregnant women in Ceara, Brazil, during the January-June 2012 influenza season.
+   Results One hundred and fifty-four nasopharyngeal swab samples were collected from pregnant women admitted to hospitals with suspected severe acute respiratory infection (SARI). Fifty-three (34.4%) had laboratory-confirmed A(H1N1) pdm09 virus infection with 15 (28.3%) outpatients and 38 (71.7%) hospitalized. Five (9.4%) women were in the first trimester of pregnancy, 20 (37.7%) in the second trimester of pregnancy, and 24 (45.2%) in the third trimester of pregnancy. Three had no information about the time of pregnancy. Six samples from newborns were also analyzed, of which three were nasopharyngeal swab positive for A(H1N1) pdm09. These swabs were collected immediately after birth, with the exception of one that was collected on the day after birth.
+   Conclusion Our findings suggest that transplacental transfer of influenza viruses could occur as a result of severe illness in pregnancy. It is therefore important to encourage women to be vaccinated against influenza in order to avoid pregnancy complications.
+C1 [Perdigao, Anne C. B.; Araujo, Fernanda M. C.; Melo, Maria E. L.; Ramalho, Izabel L. C.] Cent Publ Hlth Lab Ceara, Fortaleza, Ceara, Brazil.
+   [Perdigao, Anne C. B.; Ramalho, Izabel L. C.; Guedes, Maria I. F.] Univ Estadual Ceara, Northeast Biotechnol Network, Fortaleza, Ceara, Brazil.
+   [Perdigao, Anne C. B.; Lemos, Daniele R. Q.; Sousa, Deborah M.] Christus Univ Ctr, Unichristus, Fortaleza, Ceara, Brazil.
+   [Araujo, Fernanda M. C.; Melo, Maria E. L.; Lemos, Daniele R. Q.; Ramalho, Izabel L. C.] State Hlth Secretariat Ceara, Fortaleza, Ceara, Brazil.
+   [Cavalcanti, Luciano P.] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Araujo, Lia C.] Univ Fortaleza UNIFOR, Fortaleza, Ceara, Brazil.
+   [Siqueira, Marilda M.] Fiocruz MS, Inst Oswaldo Cruz, IOC, BR-21045900 Rio De Janeiro, Brazil.
+RP Perdigao, ACB (corresponding author), Ave Barao de Studart, BR-60120002 Fortaleza, Ceara, Brazil.
+EM carolbperdigao@gmail.com
+RI Guedes, Maria Izabel Florindo/C-3755-2016; Cavalcanti,
+   Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Bogers H, 2012, INFLUENZA OTHER RESP, V6, P309, DOI 10.1111/j.1750-2659.2011.00315.x
+   Bone A, 2010, VACCINE, V28, P8157, DOI 10.1016/j.vaccine.2010.09.096
+   Centers for Disease Control and Prevention (CDC), 2009, SWIN INFL H1N1 INF 2
+   Cetinkaya M, 2011, TURKISH J PEDIATR, V53, P441
+   Creanga Andreea A, 2010, Indian J Med Sci, V64, P529, DOI 10.4103/0019-5359.76342
+   Creanga AA, 2010, OBSTET GYNECOL, V115, P717, DOI 10.1097/AOG.0b013e3181d57947
+   Dawood FS, 2009, NEW ENGL J MED, V361, P1
+   Dulyachai W, 2010, EMERG INFECT DIS, V16, P343, DOI 10.3201/eid1602.091733
+   Gu J, 2007, LANCET, V370, P1137, DOI 10.1016/S0140-6736(07)61515-3
+   Haberg SE, 2013, NEW ENGL J MED, V368, P333, DOI 10.1056/NEJMoa1207210
+   Irving WL, 2000, BRIT J OBSTET GYNAEC, V107, P1282, DOI 10.1111/j.1471-0528.2000.tb11621.x
+   Ison MG, 2010, CLEV CLIN J MED, V77, P812, DOI 10.3949/ccjm.77a.10135
+   Jamieson DJ, 2006, EMERG INFECT DIS, V12, P1638, DOI 10.3201/eid1211.060152
+   Jamieson DJ, 2009, LANCET, V374, P451, DOI 10.1016/S0140-6736(09)61304-0
+   Kanmaz HG, 2011, FETAL PEDIATR PATHOL, V30, P280, DOI 10.3109/15513815.2011.572956
+   Lieberman RW, 2011, EMERG INFECT DIS, V16, P343
+   Louie JK, 2010, NEW ENGL J MED, V362, P27, DOI 10.1056/NEJMoa0910444
+   Neto RDP, 2013, REV SOC BRAS MED TRO, V46, P141, DOI 10.1590/0037-8682-0016-2012
+   Rasmussen SA, 2008, EMERG INFECT DIS, V14, P95, DOI 10.3201/eid1401.070667
+   Siston AM, 2010, JAMA-J AM MED ASSOC, V303, P1517, DOI 10.1001/jama.2010.479
+   Varner MW, 2011, OBSTET GYNECOL, V118, P593, DOI 10.1097/AOG.0b013e318229e484
+   Vásquez Rubén D., 2010, Rev. perú. med. exp. salud publica, V27, P466, DOI 10.1590/s1726-46342010000300022
+   White SW, 2010, MED J AUSTRALIA, V193, P405, DOI 10.5694/j.1326-5377.2010.tb03970.x
+   World Health Organization, DON REP 1 MARCH 2011
+   World Health Organization, GLOB EP SURV STAND I
+   World Health Organization, INFL UPD 119
+   World Health Organization (WHO), 2009, CDC PROT REAL TIM RT
+   YAWN DH, 1971, J AMER MED ASSOC, V216, P1022, DOI 10.1001/jama.216.6.1022
+   Yu HJ, 2011, CLIN INFECT DIS, V52, P457, DOI 10.1093/cid/ciq144
+   Zarocostas J, 2009, BMJ, V338
+NR 30
+TC 1
+Z9 1
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1750-2640
+EI 1750-2659
+J9 INFLUENZA OTHER RESP
+JI Influenza Other Respir. Viruses
+PD NOV
+PY 2015
+VL 9
+IS 6
+BP 293
+EP 297
+DI 10.1111/irv.12347
+PG 5
+WC Infectious Diseases; Virology
+SC Infectious Diseases; Virology
+GA CT6ID
+UT WOS:000362915800003
+PM 26290133
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Freitas, EC
+   Oliveira, MD
+   Andrade, MC
+   Vasconcelos, ASOD
+   da Silva, JD
+   Candido, DD
+   Pereira, LD
+   Correia, JPR
+   da Cruz, JNM
+   Cavalcanti, LPD
+AF Freitas, Erlane Chaves
+   Oliveira, Maria de Fatima
+   Andrade, Monica Coelho
+   Ortet de Barros Vasconcelos, Arduina Sofia
+   da Silva Filho, Jose Damiao
+   Candido, Darlan da Silva
+   Pereira, Laise dos Santos
+   Ramalho Correia, Joao Paulo
+   Monte da Cruz, Jose Napoleao
+   de Goes Cavalcanti, Luciano Pamplona
+TI PREVALENCE OF CHAGAS DISEASE IN A RURAL AREA IN THE STATE OF CEARA,
+   BRAZIL
+SO REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SAO PAULO
+LA English
+DT Article
+DE Chagas disease; Epidemiology; Health survey
+ID SEROPREVALENCE; EPIDEMIOLOGY; INFECTION
+AB Chagas disease is caused by Trypanosoma cruzi and affects about two to three million people in Brazil, still figuring as an important public health problem. A study was conducted in a rural area of the municipality of Limoeiro do Norte - CE, northeastern Brazil, aiming to determine the prevalence of T. cruzi infection. Of the inhabitants, 52% were examined, among whom 2.6% (4/154) were seropositive in at least two serological tests. All seropositive individuals were older than 50 years, farmers, with a low education and a family income of less than three minimum wages. Active surveillance may be an alternative for early detection of this disease.
+C1 [Freitas, Erlane Chaves; de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Patol & Med Legal, BR-60430140 Fortaleza, Ceara, Brazil.
+   [Oliveira, Maria de Fatima; Andrade, Monica Coelho; Ortet de Barros Vasconcelos, Arduina Sofia; da Silva Filho, Jose Damiao; Candido, Darlan da Silva; Pereira, Laise dos Santos; Ramalho Correia, Joao Paulo] Univ Fed Ceara, Fac Farm, Dept Anal Clin & Toxicol, BR-60430140 Fortaleza, Ceara, Brazil.
+   [Monte da Cruz, Jose Napoleao] Lab Cent Saude Publ Ceara, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Fac Med, Dept Saude Comunitaria, BR-60430140 Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, R Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Candido, Darlan/F-7209-2017; Cavalcanti, Luciano/N-4391-2015
+OI da Silva Candido, Darlan/0000-0002-5080-3130; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR Alencar JE, 1987, HIST NATURAL DOENCA
+   Andrade MC, 2013, REV SOC BRAS MED TRO, V46, P776, DOI 10.1590/0037-8682-1646-2013
+   Borges-Pereira J, 2008, REV SOC BRAS MED TRO, V41, P345, DOI 10.1590/S0037-86822008000400005
+   CAMARGO ME, 1984, REV I MED TROP, V26, P192, DOI 10.1590/S0036-46651984000400003
+   CANÇADO J. Romeu, 2002, Rev. Inst. Med. trop. S. Paulo, V44, P29, DOI 10.1590/S0036-46652002000100006
+   Carvalho RB, 2013, REV BAIANA SAUDE S1, V37, P133
+   Castro C, 2005, REV SOC BRAS MED TRO, V38, P1, DOI 10.1590/S0037-86822005000100001
+   Dias JCP, 2007, CAD SAUDE PUBLICA, V23, P13
+   DIAS JCP, 2002, CONTROLE DOENCA CHAG, P145
+   Diotaiuti L, 2000, Cad Saude Publica, V16 Suppl 2, P61, DOI 10.1590/S0102-311X2000000800006
+   Fabbro D, 2013, REV INST MED TROP SP, V55, P167, DOI 10.1590/S0036-46652013000300005
+   IPECE. Instituto de Pesquisa e Estrategia Economica do Ceara, 2013, GOV EST CEAR PERF BA
+   Martinez-Tovar JG, 2014, REV INST MED TROP SP, V56, P169, DOI 10.1590/S0036-46652014000200014
+   Martins-Melo FR, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001508
+   Oliveira MF, 2008, REV PATOLOGIA TROPIC, V37, P209
+   Ostermayer AL, 2011, REV SOC BRAS MED TRO, V44, P108, DOI 10.1590/S0037-86822011000800015
+   Vasconcelos ASOB, 2013, REV I A LUTZ, V72, P295
+   Vasconcelos ASOB, 2013, THESIS
+NR 18
+TC 3
+Z9 3
+U1 0
+U2 3
+PU INST MEDICINA TROPICAL SAO PAULO
+PI SAO PAULO
+PA AV DR ENEAS CARVALHO DE AGUIAR, 470, C CESAR, SAO PAULO, 05403-000,
+   BRAZIL
+SN 0036-4665
+EI 1678-9946
+J9 REV INST MED TROP SP
+JI Rev. Inst. Med. Trop. Sao Paulo
+PD SEP-OCT
+PY 2015
+VL 57
+IS 5
+BP 431
+EP 433
+DI 10.1590/S0036-46652015000500011
+PG 3
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA CW9ON
+UT WOS:000365328200011
+PM 26603232
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Fontes, RM
+   Cavalcanti, LPD
+   Oliveira, ACA
+   Bezerra, LFD
+   Gomes, AMM
+   Colares, JKB
+   Lima, DM
+AF Fontes, Raissa Matos
+   de Goes Cavalcanti, Luciano Pamplona
+   Aragao Oliveira, Augusto Cesar
+   de Melo Bezerra, Laiane Fernanda
+   Monteiro Gomes, Almira Maria
+   Baima Colares, Jeova Keny
+   Lima, Danielle Malta
+TI A NEW POSSIBILITY FOR SURVEILLANCE: DO WE IDENTIFY ALL CASES OF
+   LEPTOSPIROSIS?
+SO REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SAO PAULO
+LA English
+DT Article
+DE Leptospirosis; Dengue; Estimation techniques; Epidemiological
+   surveillance; Sentinel surveillance
+ID DENGUE-FEVER; PUERTO-RICO; BRAZIL; INFECTION; ILLNESS; DISEASE
+AB Leptospirosis is a febrile disease with a typically underestimated global incidence, especially in regions where dengue is endemic. Therefore, it is difficult to accurately determine the number of leptospirosis cases in these areas, which contributes to significant under-reporting this disease. In this study, we estimated the number of possible leptospirosis cases among dengue-like cases that were reported during 2008, 2010, and 2012 in the city of Fortaleza, northeast Brazil. Patients were evaluated for dengue and leptospirosis using immunoenzymatic tests for IgM antibodies that were specific to each pathogen. Among the suspected cases of dengue that resulted as negative in laboratory tests, 10.8% (2008), 19.2% (2010), and 30.8% (2012) were confirmed to be leptospirosis. Considering the cases reported by the surveillance authority as dengue that were subsequently discarded based on the laboratory test results, we estimate that the number of actual leptospirosis cases may be 26 to 49 times higher than those diagnosed and reported by the Health Services. Furthermore, we believe that approximately 20% of dengue-like cases may be leptospirosis cases in areas where the two diseases are endemic.
+C1 [Fontes, Raissa Matos; de Goes Cavalcanti, Luciano Pamplona; Aragao Oliveira, Augusto Cesar; de Melo Bezerra, Laiane Fernanda; Monteiro Gomes, Almira Maria; Baima Colares, Jeova Keny; Lima, Danielle Malta] Univ Fed Ceara, Postgrad Program Pathol, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Community Hlth, Fortaleza, Ceara, Brazil.
+   [Baima Colares, Jeova Keny] Hosp Sao Jose Doencas Infecciosas, Fortaleza, Ceara, Brazil.
+   [Baima Colares, Jeova Keny; Lima, Danielle Malta] Univ Fortaleza UNIFOR, Postgrad Program Med Sci, Fortaleza, Ceara, Brazil.
+RP Lima, DM (corresponding author), Desembargador Floriano Benevides 221, BR-60811905 Fortaleza, Ceara, Brazil.
+EM danimalta.pq@gmail.com
+RI Colares, Jeova Keny Baima/C-5257-2014; Cavalcanti, Luciano/N-4391-2015
+OI Colares, Jeova Keny Baima/0000-0003-1367-6272; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+FU Cearense Foundation for the Support of Scientific and Technological
+   Development (FUNCAP); National Council for Scientific and Technological
+   Development (CNPq)National Council for Scientific and Technological
+   Development (CNPq); Coordination for the Improvement of Higher Education
+   Personnel (CAPES), BrazilCAPES
+FX The Cearense Foundation for the Support of Scientific and Technological
+   Development (FUNCAP), the National Council for Scientific and
+   Technological Development (CNPq), and the Coordination for the
+   Improvement of Higher Education Personnel (CAPES), Brazil.
+CR Abela-Ridder B, 2010, INT J ANTIMICROB AG, V36, pS5, DOI 10.1016/j.ijantimicag.2010.06.012
+   Adler B, 2010, VET MICROBIOL, V140, P287, DOI 10.1016/j.vetmic.2009.03.012
+   Bharti AR, 2003, LANCET INFECT DIS, V3, P757, DOI 10.1016/S1473-3099(03)00830-2
+   Bounlu K, 1998, CLIN INFECT DIS, V27, P717, DOI 10.1086/514948
+   Brown MG, 2010, TROP DOCT, V40, P92, DOI 10.1258/td.2009.090340
+   Bruce MG, 2005, ACTA TROP, V96, P36, DOI 10.1016/j.actatropica.2005.07.001
+   Castro-Jorge LA, 2010, J MED VIROL, V82, P1400, DOI 10.1002/jmv.21814
+   Daher Elizabeth De Francesco, 2010, J. Bras. Nefrol., V32, P408, DOI 10.1590/S0101-28002010000400010
+   de Souza AI, 2007, REV SOC BRAS MED TRO, V40, P431, DOI 10.1590/S0037-86822007000400012
+   Ellis T, 2008, VECTOR-BORNE ZOONOT, V8, P541, DOI 10.1089/vbz.2007.0241
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Hartskeerl RA, 2011, CLIN MICROBIOL INFEC, V17, P494, DOI 10.1111/j.1469-0691.2011.03474.x
+   Kalayanarooj S, 1997, J INFECT DIS, V176, P313, DOI 10.1086/514047
+   KEE SH, 1994, J CLIN MICROBIOL, V32, P1035, DOI 10.1128/JCM.32.4.1035-1039.1994
+   Ko AI, 1999, LANCET, V354, P820, DOI 10.1016/S0140-6736(99)80012-9
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Levett PN, 1999, J MED MICROBIOL, V48, P417, DOI 10.1099/00222615-48-5-417
+   Lima DM, 2011, REV SOC BRAS MED TRO, V44, P795, DOI 10.1590/S0037-86822011000600031
+   Macedo RN, 2012, REV SOC BRAS MED TRO, V45, P132, DOI 10.1590/S0037-86822012000100028
+   Ministerio da Saude, 2010, DOENC INF PAR GUIA B
+   Ministerio da Saude, 2013, DENG DIAGN MAN CLIN
+   Ministerio da Saude, SIST INF AGR NOT SIN
+   Oliveira ACA, 2014, AFR J MICROBIOL RES, V8, P1789
+   Rafizab AAN, 2013, INT J INFECT DIS, V17, P394
+   Sanders EJ, 1999, AM J TROP MED HYG, V61, P399, DOI 10.4269/ajtmh.1999.61.399
+   WHO, 2003, HUM LEPT GUID DIAGN
+NR 26
+TC 6
+Z9 6
+U1 0
+U2 3
+PU INST MEDICINA TROPICAL SAO PAULO
+PI SAO PAULO
+PA AV DR ENEAS CARVALHO DE AGUIAR, 470, C CESAR, SAO PAULO, 05403-000,
+   BRAZIL
+SN 0036-4665
+EI 1678-9946
+J9 REV INST MED TROP SP
+JI Rev. Inst. Med. Trop. Sao Paulo
+PD SEP-OCT
+PY 2015
+VL 57
+IS 5
+BP 443
+EP 446
+DI 10.1590/S0036-46652015000500014
+PG 4
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA CW9ON
+UT WOS:000365328200014
+PM 26603235
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Liborio, AB
+   Braz, MBM
+   Seguro, AC
+   Meneses, GC
+   Neves, FMD
+   Pedrosa, DC
+   Cavalcanti, LPD
+   Martins, AMC
+   Daher, ED
+AF Liborio, Alexandre Braga
+   Munoz Braz, Marcelo Boecker
+   Seguro, Antonio Carlos
+   Meneses, Gdayllon C.
+   de Oliveira Neves, Fernanda Macedo
+   Pedrosa, Danielle Carvalho
+   de Goes Cavalcanti, Luciano Pamplona
+   Costa Martins, Alice Maria
+   Daher, Elizabeth de Francesco
+TI Endothelial Glycocalyx Damage Is Associated with Leptospirosis Acute
+   Kidney Injury
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID RENAL-DISEASE; PREDICTORS; EXPRESSION; CELLS
+AB Leptospirosis is a common disease in tropical countries, and the kidney is one of the main target organs. Membrane proteins of Leptospira are capable of causing endothelial damage in vitro, but there have been no studies in humans evaluating endothelial glycocalyx damage and its correlation with acute kidney injury (AKI). We performed a cohort study in an outbreak of leptospirosis among military personnel. AKI was diagnosed in 14 of 46 (30.4%) patients. Leptospirosis was associated with higher levels of intercellular adhesion molecule-1 (ICAM-1; 483.1 +/- 31.7 versus 234.9 +/- 24.4 mg/L, P < 0.001) and syndecan-1 (73.7 +/- 15.9 versus 21.2 +/- 7.9 ng/mL, P < 0.001) compared with exposed controls. Patients with leptospirosis-associated AKI had increased level of syndecan-1 (112.1 +/- 45.4 versus 41.5 +/- 11.7 ng/mL, P = 0.021) and ICAM-1 (576.9 +/- 70.4 versus 434.9 +/- 35.3, P = 0.034) compared with leptospirosis patients with no AKI. Association was verified between syndecan-1 and ICAM-1 with serum creatinine elevation and neutrophil gelatinase-associated lipocalin (NGAL) levels. This association remained even after multivariate analysis including other AKI-associated characteristics. Endothelial injury biomarkers are associated with leptospirosis-associated renal damage.
+C1 [Liborio, Alexandre Braga; Daher, Elizabeth de Francesco] Univ Fed Ceara, Dept Clin Med, Fac Med, BR-60165083 Fortaleza, Ceara, Brazil.
+   [Munoz Braz, Marcelo Boecker; de Oliveira Neves, Fernanda Macedo; Pedrosa, Danielle Carvalho] Univ Fed Ceara, Dept Clin Med, Med Sci Postgrad Program, Fortaleza, Ceara, Brazil.
+   [Seguro, Antonio Carlos] Univ Sao Paulo, Fac Med, Hosp Clin, Lab Invest Med LIM 12, BR-09500900 Sao Paulo, SP, Brazil.
+   [Meneses, Gdayllon C.; Costa Martins, Alice Maria] Univ Fed Ceara, Dept Clin & Toxicol Anal, Fac Pharm, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+RP Liborio, AB (corresponding author), Univ Fed Ceara, Dept Clin Med, Fac Med, Ave Abolicao 4043,Ap 1203, BR-60165083 Fortaleza, Ceara, Brazil.
+EM alexandreliborio@yahoo.com.br; boecker@oi.com.br; trulu@usp.br;
+   gdayllon@yahoo.com.br; fepinhal@ig.com.br; dannycpmed@hotmail.com;
+   pamplona.luciano@gmail.com; martinsalice@gmail.com; ef.daher@uol.com.br
+RI Martins, Alice Maria Costa/AAX-3093-2020; MENESES, GDAYLLON
+   CAVALCANTE/I-9803-2019; Cavalcanti, Luciano/N-4391-2015; Daher,
+   Elizabeth/G-2210-2012
+OI MENESES, GDAYLLON CAVALCANTE/0000-0002-0160-5728; Cavalcanti,
+   Luciano/0000-0002-3440-1182; Daher, Elizabeth/0000-0003-4189-1738
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq)
+FX A.B.L., A.M.C.M. and E.d.F.D. are recipients of a grant from the
+   Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq).
+CR Andrade L, 2008, SEMIN NEPHROL, V28, P383, DOI 10.1016/j.semnephrol.2008.04.008
+   Becker BF, 2010, CARDIOVASC RES, V87, P300, DOI 10.1093/cvr/cvq137
+   Cerqueira GM, 2009, INFECT GENET EVOL, V9, P760, DOI 10.1016/j.meegid.2009.06.009
+   Coursin DB, 2000, INTENS CARE MED, V26, P808, DOI 10.1007/s001340051252
+   Daher EF, 2011, AM J TROP MED HYG, V85, P479, DOI 10.4269/ajtmh.2011.11-0080
+   Daher EF, 2009, NEPHRON CLIN PRACT, V112, pC25, DOI 10.1159/000210571
+   De Brito T, 2006, VIRCHOWS ARCH, V448, P576, DOI 10.1007/s00428-006-0163-z
+   De Brito T, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0071743
+   DEBRITO T, 1979, J PATHOL, V128, P177, DOI 10.1002/path.1711280403
+   Evangelista K, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002672
+   Gomez RM, 2008, MICROB PATHOGENESIS, V45, P315, DOI 10.1016/j.micpath.2008.08.004
+   Ko AI, 2009, NAT REV MICROBIOL, V7, P736, DOI 10.1038/nrmicro2208
+   Padberg JS, 2014, ATHEROSCLEROSIS, V234, P335, DOI 10.1016/j.atherosclerosis.2014.03.016
+   Palaiologou M, 2014, HISTOL HISTOPATHOL, V29, P177, DOI 10.14670/HH-29.177
+   PENNA D, 1963, AM J TROP MED HYG, V12, P896, DOI 10.4269/ajtmh.1963.12.896
+   RAOULT D, 1983, AM J TROP MED HYG, V32, P1464, DOI 10.4269/ajtmh.1983.32.1464
+   Reis EAG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002457
+   Silva GB, 2011, NEPHROLOGY, V16, P269, DOI 10.1111/j.1440-1797.2010.01391.x
+   SITPRIJA V, 1980, KIDNEY INT, V17, P827, DOI 10.1038/ki.1980.95
+   Tubiana S, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0001991
+   Vieira ML, 2007, FEMS MICROBIOL LETT, V276, P172, DOI 10.1111/j.1574-6968.2007.00924.x
+   Vlahu CA, 2012, J AM SOC NEPHROL, V23, P1900, DOI 10.1681/ASN.2011121181
+   Yang CW, 2007, KIDNEY INT, V72, P918, DOI 10.1038/sj.ki.5002393
+NR 23
+TC 20
+Z9 20
+U1 0
+U2 5
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD MAR
+PY 2015
+VL 92
+IS 3
+BP 611
+EP 616
+DI 10.4269/ajtmh.14-0232
+PG 6
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA CC7EB
+UT WOS:000350529400032
+PM 25624405
+OA Green Published, Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU Bezerra, CM
+   Cavalcanti, LPD
+   de Souza, RDM
+   Barbosa, SE
+   Xavier, SCD
+   Jansen, AM
+   Ramalho, RD
+   Diotaiuti, L
+AF Bezerra, Claudia Mendonca
+   de Gose Cavalcanti, Luciano Pamplona
+   Moreira de Souza, Rita de Cassia
+   Barbosa, Silvia Ermelinda
+   das Chagas Xavier, Samanta Cristina
+   Jansen, Ana Maria
+   Ramalho, Relrison Dias
+   Diotaiuti, Lileia
+TI Domestic, peridomestic and wild hosts in the transmission of Trypanosoma
+   cruzi in the Caatinga area colonised by Triatoma brasiliensis
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE Triatominae; Triatoma brasiliensis; Trypanosoma cruzi; hosts; semiarid
+ID CHAGAS-DISEASE; INFECTION; MAMMALS; BRAZIL; DOGS; BIODIVERSITY;
+   POPULATIONS; REDUVIIDAE; HEMIPTERA; RISK
+AB The role played by different mammal species in the maintenance of Trypanosoma cruzi is not constant and varies in time and place. This study aimed to characterise the importance of domestic, wild and peridomestic hosts in the transmission of T. cruzi in Taua, state of Ceara, Caatinga area, Brazil, with an emphasis on those environments colonised by Triatoma brasiliensis. Direct parasitological examinations were performed on insects and mammals, serologic tests were performed on household and outdoor mammals and multiplex polymerase chain reaction was used on wild mammals. Cytochrome b was used as a food source for wild insects. The serum prevalence in dogs was 38% (20/53), while in pigs it was 6% (2/34). The percentages of the most abundantly infected wild animals were as follows: Thrichomys laurentius 74% (83/112) and Kerodon rupestris 10% (11/112). Of the 749 triatomines collected in the household research, 49.3% (369/749) were positive for T. brasiliensis, while 6.8% were infected with T. cruzi (25/369). In captured animals, T. brasiliensis shares a natural environment with T. laurentius, K. rupestris, Didelphis albiventris, Monodelphis domestica, Galea spixii, Wiedomys pyrrhorhinos, Conepatus semistriatus and Mus musculus. In animals identified via their food source, T. brasiliensis shares a natural environment with G. spixii, K. rupestris, Capra hircus, Gallus gallus, Tropidurus oreadicus and Tupinambis merianae. The high prevalence of T. cruzi in household and peridomiciliar animals reinforces the narrow relationship between the enzootic cycle and humans in environments with T. brasiliensis and characterises it as ubiquitous.
+C1 [Bezerra, Claudia Mendonca] Univ Fed Ceara, Programa Posgrad Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [de Gose Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [Bezerra, Claudia Mendonca; Ramalho, Relrison Dias] Secretaria Saude Estado Ceara, Fortaleza, Ceara, Brazil.
+   [de Gose Cavalcanti, Luciano Pamplona] Ctr Univ Christus, Fortaleza, Ceara, Brazil.
+   [Moreira de Souza, Rita de Cassia; Barbosa, Silvia Ermelinda] Fiocruz MS, Ctr Pesquisas Rene Rachou, Belo Horizonte, MG, Brazil.
+   [das Chagas Xavier, Samanta Cristina; Jansen, Ana Maria] Fiocruz MS, Inst Oswaldo Cruz, Lab Biol Tripanosomatideos, Rio De Janeiro, RJ, Brazil.
+RP Diotaiuti, L (corresponding author), Fiocruz MS, Ctr Pesquisas Rene Rachou, Belo Horizonte, MG, Brazil.
+EM diotaiut@cpqrr.fiocruz.br
+RI ; Cavalcanti, Luciano/N-4391-2015
+OI Xavier, Samanta Cristina/0000-0002-3475-0075; Jansen, Ana
+   Maria/0000-0001-5804-6210; Cavalcanti, Luciano/0000-0002-3440-1182
+FU WHO/TDRWorld Health Organization [A70596]; CNPqNational Council for
+   Scientific and Technological Development (CNPq); CPqRR/FIOCRUZ-MG;
+   SES-CE
+FX WHO/TDR (A70596), CNPq, CPqRR/FIOCRUZ-MG, SES-CE
+CR Abad-Franch F, 2005, TROP MED INT HEALTH, V10, P1258, DOI 10.1111/j.1365-3156.2005.01511.x
+   Alencar JE, 1987, HIST NATURAL DOENCA
+   Araujo A, 2009, MEM I OSWALDO CRUZ, V104, P9, DOI 10.1590/S0074-02762009000900004
+   Ashford RW, 1996, CLIN DERMATOL, V14, P523, DOI 10.1016/0738-081X(96)00041-7
+   Ashford RW, 1997, BELG J ZOOL, V127, P85
+   Borges EC, 2005, ACTA TROP, V93, P119, DOI 10.1016/j.actatropica.2004.10.002
+   CAMARGO MARIO E., 1966, REV INST MED TROP SAO PAULO, V8, P227
+   de la Fuente ALC, 2007, ACTA TROP, V101, P115, DOI 10.1016/j.actatropica.2006.12.007
+   Ceballos LA, 2006, ACTA TROP, V98, P286, DOI 10.1016/j.actatropica.2006.06.003
+   Cecere MC, 2004, AM J TROP MED HYG, V71, P803, DOI 10.4269/ajtmh.2004.71.803
+   Cohen JE, 2001, SCIENCE, V293, P694, DOI 10.1126/science.1060638
+   Crisante G, 2006, ACTA TROP, V98, P247, DOI 10.1016/j.actatropica.2006.05.006
+   D'Andrea OS, 2006, RELATORIO ATIVIDADES
+   Dias J C, 2000, Cad Saude Publica, V16 Suppl 2, P13, DOI 10.1590/S0102-311X2000000800003
+   Dias J C, 2000, Cad Saude Publica, V16 Suppl 2, P43, DOI 10.1590/S0102-311X2000000800005
+   Diotaiuti L, 2000, Cad Saude Publica, V16 Suppl 2, P61, DOI 10.1590/S0102-311X2000000800006
+   Diotaiuti L., 2007, DOENCA CHAGAS EVOLUC, P205
+   Estrada-Franco JG, 2006, EMERG INFECT DIS, V12, P624
+   FIOCRUZ - Fundacao Oswaldo Cruz, 2008, CURS CAP MICR MAL LA
+   Forattini O P, 1980, Rev Saude Publica, V14, P265
+   Guhl F, 2009, MEM I OSWALDO CRUZ, V104, P71, DOI 10.1590/S0074-02762009000900012
+   Gurgel-Goncalves R, 2012, J TROP MED-US, V2012, DOI 10.1155/2012/705326
+   Gurtler RE, 2007, PARASITOLOGY, V134, P69, DOI 10.1017/S0031182006001259
+   Gurtler RE, 2005, AM J TROP MED HYG, V73, P95, DOI 10.4269/ajtmh.2005.73.95
+   Gurtler RE, 1996, AM J TROP MED HYG, V55, P24
+   Gurtler RE, 1998, AM J TROP MED HYG, V58, P748, DOI 10.4269/ajtmh.1998.58.748
+   Gurtler RE, 2009, PLOS NEGLECT TROP D, V3, P1
+   Herrera L, 2005, T ROY SOC TROP MED H, V99, P379, DOI 10.1016/j.trstmh.2004.07.006
+   IPECE - Instituto de Pesquisa e Estatistica Economica do Ceara, 2012, PERF BAS MUN TAU 201
+   Jansen AM, 2009, ECOLOGIA
+   Jansen AM, 2010, ELSEV INSIGHT, P249, DOI 10.1016/B978-0-12-384876-5.00011-3
+   Keesing F, 2006, ECOL LETT, V9, P485, DOI 10.1111/j.1461-0248.2006.00885.x
+   Keesing F, 2010, NATURE, V468, P647, DOI 10.1038/nature09575
+   KOCHER TD, 1989, P NATL ACAD SCI USA, V86, P6196, DOI 10.1073/pnas.86.16.6196
+   Leal IR, 2005, CONSERV BIOL, V19, P701, DOI 10.1111/j.1523-1739.2005.00703.x
+   LENT H, 1979, Bulletin of the American Museum of Natural History, V163, P123
+   Lima MM, 2012, T ROY SOC TROP MED H, V106, P143, DOI 10.1016/j.trstmh.2011.10.013
+   Lorenzo M G, 2000, Cad Saude Publica, V16 Suppl 2, P69
+   Machado EMM, 2000, MEM I OSWALDO CRUZ, V95, P863, DOI 10.1590/S0074-02762000000600021
+   Marzochi MCA., 1987, REV SOC BRAS MED T S, V20, P89
+   Meunier I, 2005, CAATINGAS
+   Mills JN, 1998, EMERG INFECT DIS, V4, P529, DOI 10.3201/eid0404.980403
+   Moncayo A, 2009, MEM I OSWALDO CRUZ, V104, P17, DOI 10.1590/S0074-02762009000900005
+   Moreira D, 2004, INT J SYST EVOL MICR, V54, P1861, DOI 10.1099/ijs.0.63081-0
+   MS/SUCAM - Ministerio da Saude/Superintendencia de Campanhas de Saude Publica, 1980, MAN NORM TECN CAMP C
+   MS/SVS-Ministerio da Saude/Secretaria de Vigil~ncia em Saude, 2006, MAN VIG CONTR LEISHM
+   MS/SVS - Ministerio da Saude/Secretaria de Vigilancia em Saude, 2011, 012011 MSSVS CGDTCGL
+   Noireau F, 2005, AN ACAD BRAS CIENC, V77, P431, DOI 10.1590/S0001-37652005000300006
+   Noireau F, 2009, VET RES, V40, DOI 10.1051/vetres/2009009
+   Oliveira Filho A M, 2000, Cad Saude Publica, V16 Suppl 2, P105, DOI 10.1590/S0102-311X2000000800014
+   Oliveira VPV, 2006, LITORAL SERTAO NATUR, P187
+   Oliveira-Lima J W, 2000, Cad Saude Publica, V16 Suppl 2, P75
+   OPAS, 2006, ENF CHAG TRIP AM
+   Ostfeld RS, 2000, CONSERV BIOL, V14, P722, DOI 10.1046/j.1523-1739.2000.99014.x
+   Pinto CM, 2006, J PARASITOL, V92, P1251, DOI 10.1645/GE-886R.1
+   Roque ALR, 2008, AM J TROP MED HYG, V79, P742, DOI 10.4269/ajtmh.2008.79.742
+   Roque ALR, 2008, REV SOC BRAS MED TRO, V41, P191
+   Rozas M, 2005, AM J TROP MED HYG, V73, P517, DOI 10.4269/ajtmh.2005.73.517
+   Rozas M, 2007, AM J TROP MED HYG, V77, P647, DOI 10.4269/ajtmh.2007.77.647
+   Sarquis O, 2006, MEM I OSWALDO CRUZ, V101, P143, DOI 10.1590/S0074-02762006000200005
+   Sarquis O, 2012, PARASITOL RES, V110, P1481, DOI 10.1007/s00436-011-2651-6
+   Shadomy SV, 2004, CLIN DIAGN LAB IMMUN, V11, P313, DOI 10.1128/CDLI.11.2.313-319.2004
+   Silveira A C, 1984, Rev Bras Malariol Doencas Trop, V36, P15
+   Silveira AC., 1994, REV SOC BRAS MED TRO, V27, P5, DOI DOI 10.1590/S0037-86821994000100002
+   Torres TZG, 2008, EPIDEMIOLOGIA, P403
+   Truett GE, 2000, BIOTECHNIQUES, V29, P52, DOI 10.2144/00291bm09
+   Xavier SCC, 2007, PARASITOL INT, V56, P119, DOI 10.1016/j.parint.2007.01.003
+   Zingales B, 2012, INFECT GENET EVOL, V12, P240, DOI 10.1016/j.meegid.2011.12.009
+NR 68
+TC 30
+Z9 32
+U1 2
+U2 14
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD NOV
+PY 2014
+VL 109
+IS 7
+BP 887
+EP 898
+DI 10.1590/0074-0276140048
+PG 12
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AU2FD
+UT WOS:000345430900007
+PM 25410992
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Paiva, CN
+   Lima, JWD
+   Camelo, SS
+   Lima, CD
+   Cavalcanti, LPD
+AF Paiva, Clemilson Nogueira
+   de Oliveira Lima, Jose Wellington
+   Camelo, Sara Suhett
+   Lima, Camila de Franca
+   de Goes Cavalcanti, Luciano Pamplona
+TI Survival of larvivorous fish used for biological control of Aedes
+   aegypti (Diptera: Culicidae) combined with different larvicides
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE Dengue; Aedes aegypti; larvivorous fish; Temefos; Novaluron; Bti
+ID DENGUE; CONTAINERS; LARVAE
+AB OBJECTIVE To evaluate combinations of larvicides and fish which are predators of larvae of Aedes aegypti, namely Betta splendens, Trichogaster trichopterus and Poecilia reticulata.
+   METHODS We used 15 water tanks with a capacity of 250 litres of water. In 10 tanks, larvicide Temephos, Bti and Novaluron - was added, the other five contained only one specimen of fish and unchlorinated water. The fish were monitored for a week without changing the water, and their survival recorded on a form. An estimate of the Kaplan-Meier survival was performed to determine the significance of the tests.
+   RESULTS Betta splendens showed the lowest mortality range of larvicides tested.
+   CONCLUSION Combined use of larvivorous fish and larvicides in large water tanks is feasible.
+C1 [Paiva, Clemilson Nogueira] Univ Estadual Ceara, Quixada, Brazil.
+   [Paiva, Clemilson Nogueira] Univ Fed Ceara, Postgrad Program Community Hlth, BR-60430140 Fortaleza, CE, Brazil.
+   [de Oliveira Lima, Jose Wellington] Univ Estadual Ceara, Dept Publ Hlth, Fortaleza, Ceara, Brazil.
+   [Camelo, Sara Suhett; Lima, Camila de Franca] Univ Fed Ceara, Dept Biol, BR-60430140 Fortaleza, CE, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Sch Med, Dept Community Hlth, BR-60430140 Fortaleza, CE, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Sch Med, Dept Community Hlth, St Prof Costa Mendes 1608,5th Floor, BR-60430140 Fortaleza, CE, Brazil.
+EM pamplona.luciano@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+FU Fundacao Cearense de Amparo a Pesquisa - FUNCAP
+   [PP1-0033-00105.01.01.00/10, PPSUS/REDE/MS/CNPq/FUNCAP/SESA 03/2012,
+   12535699-4]; Conselho Nacional de Desenvolvimento Cientifico e
+   TecnologicoNational Council for Scientific and Technological Development
+   (CNPq) [MCT/CNPq 10/2010 - AT- NM, 503222/2010-0]
+FX This work was supported by Fundacao Cearense de Amparo a Pesquisa -
+   FUNCAP, process No PP1-0033-00105.01.01.00/10,
+   PPSUS/REDE/MS/CNPq/FUNCAP/SESA 03/2012, process No 12535699-4 and by
+   Conselho Nacional de Desenvolvimento Cientifico e Tecnologico MCT/CNPq
+   10/2010 - AT- NM, process No. 503222/2010-0.
+CR Bisset Juan A., 2003, Rev Cubana Med Trop, V55, P191
+   Brasil Ministerio da Saude Secretaria de Vigilancia em Saude, 2009, DIR NAC PREV CONTR E
+   Caprara A, 2009, CAD SAUDE PUBLICA, V25, pS125, DOI 10.1590/S0102-311X2009001300012
+   Carvalho Maria do Socorro Laurentino de, 2004, Rev. Saúde Pública, V38, P623, DOI 10.1590/S0034-89102004000500002
+   Cavalcanti LPG, 2004, REV SOC BRAS MED TRO, V37, P400
+   Cavalcanti LP, 2011, EMERG INFECT DIS, V17, P132, DOI 10.3201/eid1701.100321
+   Cavaliere MJ, 1996, REV SAUDE PUBL, V30, P267, DOI 10.1590/S0034-89101996000300010
+   Crivelenti LZ, 2011, J BRAZILIAN SOC ECOT, V6, P65
+   Cavalcanti LPD, 2007, REV SAUDE PUBL, V41, P638, DOI 10.1590/s0034-89102006005000041
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Cavalcanti LPG, 2009, J MED ENTOMOL, V46, P841, DOI 10.1603/033.046.0414
+   Lima JWD, 2010, TROP MED INT HEALTH, V15, P1525, DOI 10.1111/j.1365-3156.2010.02658.x
+   Fimia Duarte R, 2009, REV CUBA MED TROP, V62, P1
+   Garcia-Neto LJ, 2013, J HLTH BIOL SCI, V2013, P21
+   Ghosh SK, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-599
+   Hamm JT, 1998, NEUROTOXICOLOGY, V19, P853
+   Hedayati A., 2012, Global Veterinaria, V8, P440
+   Hurst TP, 2006, J AM MOSQUITO CONTR, V22, P418, DOI 10.2987/8756-971X(2006)22[418:EOMDAM]2.0.CO;2
+   Kumar A, 1998, J AM MOSQUITO CONTR, V14, P457
+   Lima EP, 2006, REV SOC BRAS MED TRO, V39, P259, DOI 10.1590/S0037-86822006000300006
+   MATHUR K K, 1981, Journal of Communicable Diseases, V13, P58
+   Phuanukoonnon S, 2005, TROP MED INT HEALTH, V10, P755, DOI 10.1111/j.1365-3156.2005.01452.x
+   Scholte EJ, 2005, SCIENCE, V308, P1641, DOI 10.1126/science.1108639
+   Sharma S. N., 1997, Journal of Communicable Diseases, V29, P371
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   Pontes RJS, 2010, MEM I OSWALDO CRUZ, V105, P220, DOI 10.1590/S0074-02762010000200019
+   Tauil Pedro Luiz, 2002, Cad. Saúde Pública, V18, P867, DOI 10.1590/S0102-311X2002000300030
+   Teixeira MG, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002520
+   Wijesinghea WMGS, 2009, DENGUE B, V33, P141
+   Xi ZY, 2005, SCIENCE, V310, P326, DOI 10.1126/science.1117607
+NR 30
+TC 5
+Z9 5
+U1 1
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1360-2276
+EI 1365-3156
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD SEP
+PY 2014
+VL 19
+IS 9
+BP 1082
+EP 1086
+DI 10.1111/tmi.12341
+PG 5
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA AN4OU
+UT WOS:000340568200010
+PM 24890120
+OA Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPD
+   Mota, LAM
+   Lustosa, GP
+   Fortes, MC
+   Mota, DAM
+   Lima, AAB
+   Coelho, ICB
+   Mourao, MPG
+AF de Goes Cavalcanti, Luciano Pamplona
+   Martins Mota, Lia Alves
+   Lustosa, Gustavo Porto
+   Fortes, Mayara Carvalho
+   Martins Mota, Davi Alves
+   Bezerra Lima, Antonio Afonso
+   Branco Coelho, Ivo Castelo
+   Gomes Mourao, Maria Paula
+TI Evaluation of the WHO classification of dengue disease severity during
+   an epidemic in 2011 in the state of Ceara, Brazil
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE dengue fever; classification criteria; warning signs; Brazil
+ID HEMORRHAGIC-FEVER; COUNTRIES; NORTHEASTERN; MULTICENTER; CLASSIFY; COST
+AB In 2009, the World Health Organization (WHO) issued a new guideline that stratifies dengue-affected patients into severe (SD) and non-severe dengue (NSD) (with or without warning signs). To evaluate the new recommendations, we completed a retrospective cross-sectional study of the dengue haemorrhagic fever (DHF) cases reported during an outbreak in 2011 in northeastern Brazil. We investigated 84 suspected DHF patients, including 45 (53.6%) males and 39 (46.4%) females. The ages of the patients ranged from five-83 years and the median age was 29. According to the DHF/dengue shock syndrome classification, 53 (63.1%) patients were classified as having dengue fever and 31 (36.9%) as having DHF. According to the 2009 WHO classification, 32 (38.1%) patients were grouped as having NSD [4 (4.8%) without warning signs and 28 (33.3%) with warning signs] and 52 (61.9%) as having SD. A better performance of the revised classification in the detection of severe clinical manifestations allows for an improved detection of patients with SD and may reduce deaths. The revised classification will not only facilitate effective screening and patient management, but will also enable the collection of standardised surveillance data for future epidemiological and clinical studies.
+C1 [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [Martins Mota, Davi Alves] Univ Fed Ceara, Fac Med, Fortaleza, Ceara, Brazil.
+   [Branco Coelho, Ivo Castelo] Univ Fed Ceara, Nucleo Med Trop Prof JE Alencar, Fortaleza, Ceara, Brazil.
+   [Branco Coelho, Ivo Castelo] Univ Fed Ceara, Dept Patol, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona; Martins Mota, Lia Alves; Lustosa, Gustavo Porto; Fortes, Mayara Carvalho] Ctr Univ Christus, Fac Med, Fortaleza, Ceara, Brazil.
+   [Bezerra Lima, Antonio Afonso] Hosp Sao Jose Doencas Infecciosas, Fortaleza, Ceara, Brazil.
+   [Gomes Mourao, Maria Paula] Fundacao Med Trop Dr Heitor Vieira Dourado, Manaus, Amazonas, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+FU PPSUS/REDE/MS/CNPq/FUNCAP/SESA [03/2012 (12535699-4)]; UNICHRISTUS
+FX PPSUS/REDE/MS/CNPq/FUNCAP/SESA 03/2012 (12535699-4), scientific
+   initiation scholarship from UNICHRISTUS
+CR Akbar NA, 2012, CLIN INFECT DIS, V54, P1820, DOI 10.1093/cid/cis328
+   Alexander N, 2011, TROP MED INT HEALTH, V16, P936, DOI 10.1111/j.1365-3156.2011.02793.x
+   [Anonymous], 2009, DENG GUID DIAGN TREA
+   Araujo FMC, 2012, NEUROLOGY, V78, P736, DOI 10.1212/WNL.0b013e31824b94e9
+   Araujo FMC, 2011, J VIROL METHODS, V177, P128, DOI 10.1016/j.jviromet.2011.07.003
+   Araujo F, 2012, EMERG INFECT DIS, V18, P677, DOI [10.3201/eid1804.111522, 10.3201/eid1804.111552]
+   Arismendi-Morillo Gabriel, 2011, Rev Cubana Med Trop, V63, P44
+   Balmaseda A, 2005, AM J TROP MED HYG, V73, P1059, DOI 10.4269/ajtmh.2005.73.1059
+   Baly A, 2012, TROP MED INT HEALTH, V17, P123, DOI 10.1111/j.1365-3156.2011.02881.x
+   Bandyopadhyay S, 2006, TROP MED INT HEALTH, V11, P1238, DOI 10.1111/j.1365-3156.2006.01678.x
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Basuki PS, 2010, SE ASIAN J TROP MED, V41, P1088
+   Borawake K, 2011, INDIAN J CRIT CARE M, V15, P190, DOI 10.4103/0972-5229.84896
+   Cavalcanti LP, 2011, EMERG INFECT DIS, V17, P132, DOI 10.3201/eid1701.100321
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Descloux E, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001470
+   Dussart P, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001482
+   Guha-Sapir D, 2005, EMERG THEMES EPIDEMI, V2, DOI 10.1186/1742-7622-2-1
+   Gupta P, 2010, J INFECT DEV COUNTR, V4, P150, DOI 10.3855/jidc.708
+   Gutierrez G, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002385
+   Guzman MG, 2002, LANCET INFECT DIS, V2, P33, DOI 10.1016/S1473-3099(01)00171-2
+   Horstick O, 2012, PATHOG GLOB HEALTH, V106, P94, DOI 10.1179/2047773212Y.0000000017
+   Kalayanarooj S, 1999, DENGUE B, V23, P1
+   Narvaez F, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001397
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   Siqueira JB Jr, 2011, SAUDE BRASIL 2010 AN
+   Sousa CA, 2012, EUROSURVEILLANCE, V17, P15
+   Srikiatkhachorn A, 2011, CLIN INFECT DIS, V53, P563, DOI 10.1093/cid/cir451
+   Suaya JA, 2009, AM J TROP MED HYG, V80, P846, DOI 10.4269/ajtmh.2009.80.846
+   SVS/MS - Secretaria de Vigilancia em Saude/Ministerio da Saude Brasil, 2011, DENG DIAGN MAN CLIN
+   Teixeira MG, 2009, CAD SAUDE PUBLICA, V25, pS7, DOI 10.1590/S0102-311X2009001300002
+   Tsai CY, 2013, J MICROBIOL IMMUNOL, V46, P271, DOI 10.1016/j.jmii.2012.07.005
+   Verma R, 2011, ANN INDIAN ACAD NEUR, V14, P272, DOI 10.4103/0972-2327.91946
+   World Health Organization, 1975, TECHN GUID DIAGN TRE
+   World Health Organization, 1997, DENG HEM FEV DIAGN T
+NR 35
+TC 20
+Z9 23
+U1 0
+U2 2
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD FEB
+PY 2014
+VL 109
+IS 1
+BP 93
+EP 98
+DI 10.1590/0074-0276140384
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AD2BU
+UT WOS:000333038700012
+PM 24626308
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Neto, RDP
+   Lemos, DRQ
+   Cavalcanti, LPD
+   Ramos, AN
+   Alencar, CH
+   Facanha, MC
+   Barroso, MIC
+   Vilar, DCLF
+   Neto, MDD
+AF Pires Neto, Roberto da Justa
+   Queiroz Lemos, Daniele Rocha
+   de Goes Cavalcanti, Luciano Pamplona
+   Ramos Junior, Alberto Novaes
+   Alencar, Carlos Henrique
+   Facanha, Monica Cardoso
+   Coelho Barroso, Madalena Isabel
+   Lima Feitosa Vilar, Dina Cortez
+   da Fonseca Neto, Manoel Dias
+TI Pandemic influenza A (H1N1) 2009: epidemiological analysis of cases in a
+   tropical/semi-arid region of Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Pandemic influenza (H1N1) 2009; Tropical/semi-arid region; Epidemiology;
+   Clinical characteristics
+AB Introduction: The year 2009 marked the beginning of a pandemic caused by a new variant of influenza A (H1N1). After spreading through North America, the pandemic influenza virus (H1N1) 2009 spread rapidly throughout the world. The aim of this study was to describe the clinical and epidemiological characteristics of cases of pandemic influenza in a tropical/semi-arid region of Brazil. Methods: A retrospective study analyzed all suspected cases of pandemic influenza (H1N1) 2009 reported in the Ceara State through the National Information System for Notifiable Diseases during the pandemic period between 28 April, 2009 and November 25, 2010. Results: A total of 616 suspected cases were notified, 58 (9.4%) in the containment phase and 558 (90.6%) in the mitigation phase. Most cases were of affected young people resident in the City of Fortaleza, the largest urban center in the State of Ceara. The most frequent symptoms presented by the cases with confirmed infection were fever, cough, myalgia, arthralgia, and nasal congestion. Mortality rate was 0.0009/1,000 inhabitants and lethality was 5.6%. Deaths were observed only in the mitigation phase. Mortality rates were similar for both sexes but were higher in the age group under 5 years. Conclusions: The study suggests that the influenza A (H1N1) pandemic in this tropical/semi-arid region had a lower magnitude when compared to states in the Southern and Southeastern regions of Brazil.
+C1 [Pires Neto, Roberto da Justa; Queiroz Lemos, Daniele Rocha; de Goes Cavalcanti, Luciano Pamplona; Ramos Junior, Alberto Novaes; Alencar, Carlos Henrique; Facanha, Monica Cardoso] Univ Fed Ceara, Dept Saude Comunitaria, Fac Med, Fortaleza, Ceara, Brazil.
+   [Queiroz Lemos, Daniele Rocha; Coelho Barroso, Madalena Isabel; Lima Feitosa Vilar, Dina Cortez; da Fonseca Neto, Manoel Dias] Secretaria Saude Estado Ceara, Nucleo Vigilancia Epidemiol, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Fac Med Christus, Fortaleza, Ceara, Brazil.
+RP Neto, RDP (corresponding author), Dept Sande Comunitaria FM UFC, Rua Prof Costa Mendes 1-608,5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM robertojusta@ufc.br
+RI da Justa Pires Neto, Roberto/AAB-3425-2020; Junior, Alberto Novaes
+   Ramos/A-4276-2013; Cavalcanti, Luciano/N-4391-2015
+OI da Justa Pires Neto, Roberto/0000-0003-0291-9523; Junior, Alberto Novaes
+   Ramos/0000-0001-7982-1757; Cavalcanti, Luciano/0000-0002-3440-1182;
+   Alencar, Carlos Henrique/0000-0003-2967-532X
+CR Bautista E, 2010, NEW ENGL J MED, V362, P1708, DOI 10.1056/NEJMra1000449
+   Centers for Disease Control and Prevention (CDC), 2009, MMWR Morb Mortal Wkly Rep, V58, P467
+   Chan M, 2009, WORLD NOW START 2009
+   Cugini DM, 2010, BEPA B EPIDEMIOLOGIC, V7, P17
+   Dawood FS, 2009, NEW ENGL J MED, V360, P2605, DOI 10.1056/NEJMoa0903810
+   Emergence of a novel swine-origin influenza A (H1N1) virus in humans, 2009, NEW ENGL J MED, V360, P2605
+   Enserink M, 2009, SCIENCE, V324, P871, DOI 10.1126/science.324_871
+   Fajardo-Dolci GE, 2009, SALUD PUBLICA MEXICO, V51, P361, DOI 10.1590/s0036-36342009000500003
+   Ginsberg M., 2009, Morbidity and Mortality Weekly Report, V58, P400
+   Hui DS, 2010, CHEST, V137, P916, DOI 10.1378/chest.09-2344
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2011, EST POP RES 1 JULH 2
+   Jain S, 2009, NEW ENGL J MED, V361, P1935, DOI 10.1056/NEJMoa0906695
+   Jamieson DJ, 2009, LANCET, V374, P451, DOI 10.1016/S0140-6736(09)61304-0
+   Karlas A, 2010, NATURE, V463, P818, DOI 10.1038/nature08760
+   Konig R, 2010, NATURE, V463, P813, DOI 10.1038/nature08699
+   Lenzi L, 2011, BRAZ J INFECT DIS, V15, P457, DOI 10.1016/S1413-8670(11)70227-6
+   Libster R, 2010, NEW ENGL J MED, V362, P45, DOI 10.1056/NEJMoa0907673
+   Louie JK, 2010, NEW ENGL J MED, V362, P27, DOI 10.1056/NEJMoa0910444
+   Louie JK, 2009, JAMA-J AM MED ASSOC, V302, P1896, DOI 10.1001/jama.2009.1583
+   Ministerio da Sande, 2010, PROT VIG EP INFL PAN
+   Ministerio da Sande, 2010, B EP EL, V10
+   Ministerio da Sande Departamento de Informatica do Sistema Unico de Sande (DATASUS), INF SAUD SIST IN AGR
+   Morens DM, 2009, NEW ENGL J MED, V361, P225, DOI 10.1056/NEJMp0904819
+   Moretti ML, 2011, REV SOC BRAS MED TRO, V44, P405, DOI 10.1590/s0037-86822011005000048
+   Perez-Padilla R, 2009, NEW ENGL J MED, V361, P680, DOI 10.1056/NEJMoa0904252
+   Presanis AM, 2009, PLOS MED, V6, DOI 10.1371/journal.pmed.1000207
+   Webb SAR, 2009, NEW ENGL J MED, V361, P1925, DOI 10.1056/NEJMoa0908481
+   *WHO, 2005, AV INFL ASS PAND THR
+   World Health Organization (WHO), 2010, H1N1 POSTP PER
+   Zimmer SM, 2009, NEW ENGL J MED, V361, P279, DOI 10.1056/NEJMra0904322
+NR 30
+TC 7
+Z9 7
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD MAR-APR
+PY 2013
+VL 46
+IS 2
+BP 141
+EP 146
+DI 10.1590/0037-8682-0016-2012
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 153TM
+UT WOS:000319625400004
+PM 23740052
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Araujo, F
+   Nogueira, R
+   Araujo, MD
+   Perdigao, A
+   Cavalcanti, L
+   Brilhante, R
+   Rocha, M
+   Vilar, DF
+   Holanda, SS
+   Braga, DD
+   Sidrim, J
+AF Araujo, Fernanda
+   Nogueira, Rita
+   Araujo, Mauricio de Sousa
+   Perdigao, Anne
+   Cavalcanti, Luciano
+   Brilhante, Raimunda
+   Rocha, Marcos
+   Vilar, Dina Feitosa
+   Holanda, Suzana Silveira
+   Braga, Deborah de Melo
+   Sidrim, Jose
+TI Dengue in Patients with Central Nervous System Manifestations, Brazil
+SO EMERGING INFECTIOUS DISEASES
+LA English
+DT Article
+ID NEUROLOGICAL MANIFESTATIONS; VIRUS-INFECTION; ENCEPHALITIS; SAMPLES
+AB We investigated the prevalence of dengue in patients with suspected viral meningitis/meningoencephalitis in a dengue-endemic area. Cerebrospinal fluid analysis showed positive results and a 6.74x greater likelihood of identifying positive fluid in patients who died. Our findings support testing patients with neurologic manifestations for the virus in dengue-endemic areas.
+C1 [Araujo, Fernanda; Perdigao, Anne; Vilar, Dina Feitosa; Holanda, Suzana Silveira; Braga, Deborah de Melo] State Hlth Secretariat Ceara, Fortaleza, Ceara, Brazil.
+   [Nogueira, Rita] Inst Oswaldo Cruz, BR-20001 Rio De Janeiro, Brazil.
+   [Araujo, Mauricio de Sousa] Dr Jose Frota Inst, Fortaleza, Ceara, Brazil.
+   [Araujo, Fernanda; Cavalcanti, Luciano; Brilhante, Raimunda; Rocha, Marcos; Sidrim, Jose] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Perdigao, Anne] Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+   [Cavalcanti, Luciano] Coll Christus, Fortaleza, Ceara, Brazil.
+RP Araujo, F (corresponding author), Av Barao de Studart 2405, BR-60120002 Fortaleza, CE, Brazil.
+EM fernanda.montenegro@lacen.ce.gov.br
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+FU Brazilian National Research CouncilNational Council for Scientific and
+   Technological Development (CNPq) [MCT/CNPq 14/2009]; Ceara State
+   Scientific Development Foundation [FUNCAP 09100097-1]
+FX This study was supported by the Brazilian National Research Council,
+   process MCT/CNPq 14/2009, and by the Ceara State Scientific Development
+   Foundation, process FUNCAP 09100097-1.
+CR Araujo FMC, 2011, J VIROL METHODS, V177, P128, DOI 10.1016/j.jviromet.2011.07.003
+   Domingues RB, 2008, J NEUROL SCI, V267, P36, DOI 10.1016/j.jns.2007.09.040
+   Duong V, 2011, BMC P, V5, P47
+   de Araujo JMG, 2009, J VIROL METHODS, V155, P34, DOI 10.1016/j.jviromet.2008.09.023
+   Guzman M G, 1984, Bull Pan Am Health Organ, V18, P213
+   Jackson ST, 2008, W INDIAN MED J, V57, P373
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Lum LCS, 1996, AM J TROP MED HYG, V54, P256, DOI 10.4269/ajtmh.1996.54.256
+   Nogueira RMR, 2007, REV PANAM SALUD PUBL, V22, P358, DOI 10.1590/S1020-49892007001000009
+   Soares CN, 2006, J NEUROL SCI, V249, P19, DOI 10.1016/j.jns.2006.05.068
+   Soares CN, 2010, INT J INFECT DIS, V14, pE150, DOI 10.1016/j.ijid.2009.03.016
+   Soares CN, 2011, J NEUROL SCI, V303, P75, DOI 10.1016/j.jns.2011.01.012
+   Solomon T, 2000, LANCET, V355, P1053, DOI 10.1016/S0140-6736(00)02036-5
+   Vasconcelos Pedro F. C., 1998, Revista do Instituto de Medicina Tropical de Sao Paulo, V40, P35, DOI 10.1590/S0036-46651998000100008
+   World Health Organization, 1997, DENG HEM FEV DIAGN T
+NR 15
+TC 41
+Z9 47
+U1 0
+U2 0
+PU CENTERS  DISEASE CONTROL
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1080-6040
+J9 EMERG INFECT DIS
+JI Emerg. Infect. Dis
+PD APR
+PY 2012
+VL 18
+IS 4
+BP 677
+EP 679
+DI 10.3201/eid1804.111522
+PG 3
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 919MJ
+UT WOS:000302331600026
+PM 22469335
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Macedo, RN
+   Rocha, FA
+   Rolim, DB
+   Vilar, DCLF
+   Araujo, FMD
+   Vieira, NN
+   Teixeira, JR
+   Carvalho, MC
+   Oliveira, FGM
+   Cavalcanti, LPD
+AF Macedo, Rafael Nogueira
+   Rocha, Felipe Araujo
+   Rolim, Dionne Bezerra
+   Lima Feitosa Vilar, Dina Cortez
+   de Carvalho Araujo, Fernanda Montenegro
+   Vieira, Nelia Nogueira
+   Teixeira, Juliana Rodrigues
+   Carvalho, Maiza Colares
+   Magalhaes Oliveira, Francisco George
+   de Goes Cavalcanti, Luciano Pamplona
+TI Severe coinfection of melioidosis and dengue fever in Northeastern
+   Brazil: first case report
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Melioidosis; Dengue fever; Coinfection
+AB This report focuses on a fatality involving severe dengue fever and melioidosis in a 28-year-old truck driver residing in Pacoti in northeastern Brazil. He exhibited long-term respiratory symptoms (48 days) and went through a wide-ranging clinical investigation at three hospitals, after initial clinical diagnoses of pneumonia, visceral leishmaniasis, tuberculosis, and fungal sepsis. After death, Burkholderia pseudomallei was isolated in a culture of ascitic fluid. Dengue virus type 1 was detected by polymerase chain reaction in cerebrospinal fluid (CSF); this infection was the cause of death. This description reinforces the need to consider melioidosis among the reported differential diagnoses of community-acquired infections where both melioidosis and dengue fever are endemic.
+C1 [Macedo, Rafael Nogueira; Rocha, Felipe Araujo; Carvalho, Maiza Colares; Magalhaes Oliveira, Francisco George] Hosp Geral Fortaleza, Ambulatorio Doencas Infecciosas, Fortaleza, Ceara, Brazil.
+   [Rolim, Dionne Bezerra; Vieira, Nelia Nogueira; Teixeira, Juliana Rodrigues; Carvalho, Maiza Colares] Univ Fortaleza, Curso Med, Fortaleza, Ceara, Brazil.
+   [Lima Feitosa Vilar, Dina Cortez] Secretaria Saude Ceara, Nucleo Vigilancia Epidemiol, Fortaleza, Ceara, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro] Lab Cent Saude Publ, Virol Lab, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Fac Med, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Fac Christus, Fac Med, Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), UFCE, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Araujo FMC, 2011, J VIROL METHODS, V177, P128, DOI 10.1016/j.jviromet.2011.07.003
+   Cavalcanti LP, 2011, EMERG INFECT DIS, V17, P132, DOI 10.3201/eid1701.100321
+   Currie BJ, 2003, EUR RESPIR J, V22, P542, DOI 10.1183/09031936.03.00006203
+   Dance DAB, 2005, TROPICAL INFECT DIS, P381
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Inglis TJJ, 2006, AM J TROP MED HYG, V75, P947, DOI 10.4269/ajtmh.2006.75.947
+   PONGRITHSUKDA V, 1988, Southeast Asian Journal of Tropical Medicine and Public Health, V19, P309
+   Rolim DB, 2005, EMERG INFECT DIS, V11, P1458, DOI 10.3201/eid1109.050493
+   Rolim DB, 2009, APPL ENVIRON MICROB, V75, P1215, DOI 10.1128/AEM.01953-08
+   Rolim DB, 2011, AM J TROP MED HYG, V84, P302, DOI 10.4269/ajtmh.2011.10-0220
+NR 10
+TC 8
+Z9 8
+U1 0
+U2 3
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD JAN-FEB
+PY 2012
+VL 45
+IS 1
+BP 132
+EP 133
+DI 10.1590/S0037-86822012000100028
+PG 2
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 899PT
+UT WOS:000300829000028
+PM 22370846
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Lima, DM
+   Sabino-Santos, G
+   Oliveira, ACA
+   Fontes, RM
+   Colares, JKB
+   Araujo, FMD
+   Cavalcanti, LPD
+   da Fonseca, BAL
+   Figueiredo, LTM
+   Pompeu, MMD
+AF Lima, Danielle Malta
+   Sabino-Santos Junior, Gilberto
+   Aragao Oliveira, Augusto Cesar
+   Fontes, Raissa Matos
+   Baima Colares, Jeova Keny
+   de Carvalho Araujo, Fernanda Montenegro
+   de Goes Cavalcanti, Luciano Pamplona
+   Lopes da Fonseca, Benedito Antonio
+   Moraes Figueiredo, Luiz Tadeu
+   de Lima Pompeu, Margarida Maria
+TI Hantavirus infection in suspected dengue cases from State of Ceara,
+   Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Letter
+ID POLYMERASE CHAIN-REACTION; CARDIOPULMONARY SYNDROME
+C1 [Lima, Danielle Malta; Baima Colares, Jeova Keny] Univ Fortaleza, Curso Med, Fortaleza, CE, Brazil.
+   [Lima, Danielle Malta; Aragao Oliveira, Augusto Cesar; Fontes, Raissa Matos; de Lima Pompeu, Margarida Maria] Univ Fed Ceara, Dept Patol & Med Legal, Fortaleza, CE, Brazil.
+   [Sabino-Santos Junior, Gilberto; Lopes da Fonseca, Benedito Antonio; Moraes Figueiredo, Luiz Tadeu] Univ Sao Paulo, Fac Med, Ctr Pesquisa Virol, BR-14049 Ribeirao Preto, SP, Brazil.
+   [de Carvalho Araujo, Fernanda Montenegro] Lab Cent Saude Publ Estado Ceara, Setor Virol, Fortaleza, CE, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Secretaria Estadual Saude Estado Ceara, Nucleo Vigilancia Epidemiol, Fortaleza, CE, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Publ, Fortaleza, CE, Brazil.
+RP Lima, DM (corresponding author), Rua Marcos Macedo 135-801, BR-60150190 Fortaleza, Ceara, Brazil.
+EM danimalta@uol.com.br
+RI Colares, Jeova Keny Baima/C-5257-2014; Figueiredo, Luiz T/E-3702-2012;
+   Sabino-Santos, Gilberto GSSJ/B-4305-2011; Lima, Danielle/A-6108-2013; G,
+   Sabino-Santos Jr/Q-5164-2019; Cavalcanti, Luciano/N-4391-2015; Fonseca,
+   Benedito/F-3252-2012
+OI Colares, Jeova Keny Baima/0000-0003-1367-6272; Sabino-Santos, Gilberto
+   GSSJ/0000-0002-5462-5386; Lima, Danielle/0000-0003-2734-6768; G,
+   Sabino-Santos Jr/0000-0002-5462-5386; Cavalcanti,
+   Luciano/0000-0002-3440-1182; Fonseca, Benedito/0000-0003-3159-5687
+CR Campos GM, 2003, J MED VIROL, V71, P417, DOI 10.1002/jmv.10489
+   Chioratto Gerlane Tavares de Souza, 2010, Revista de Patologia Tropical, V39, P1
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Figueiredo LTM, 2009, EMERG INFECT DIS, V15, P561, DOI 10.3201/eid1504.080289
+   *GOV EST CEAR, 2011, INF SEM DENG DAT
+   Jonsson CB, 2010, CLIN MICROBIOL REV, V23, P412, DOI 10.1128/CMR.00062-09
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Limongi JE, 2007, REV SOC BRAS MED TRO, V40, P295, DOI 10.1590/S0037-86822007000300009
+   Mendes WS, 2010, EMERG INFECT DIS, V16, P889, DOI 10.3201/eid1605.090766
+   *MIN SAUD, 2010, CAS OB HANT BRAS 199
+   Figueiredo LTM, 2009, AM J TROP MED HYG, V81, P273, DOI 10.4269/ajtmh.2009.81.273
+   Moreli ML, 2004, MEM I OSWALDO CRUZ, V99, P633, DOI 10.1590/S0074-02762004000600018
+NR 12
+TC 17
+Z9 20
+U1 0
+U2 4
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD NOV-DEC
+PY 2011
+VL 44
+IS 6
+BP 795
+EP 796
+DI 10.1590/S0037-86822011000600031
+PG 2
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 874WX
+UT WOS:000298989900031
+PM 22231261
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Araujo, FMC
+   Brilhante, RSN
+   Cavalcanti, LPG
+   Rocha, MFG
+   Cordeiro, RA
+   Perdigao, ACB
+   Miralles, IS
+   Araujo, LC
+   Araujo, RMC
+   Lima, EG
+   Sidrim, JJC
+AF Araujo, F. M. C.
+   Brilhante, R. S. N.
+   Cavalcanti, L. P. G.
+   Rocha, M. F. G.
+   Cordeiro, R. A.
+   Perdigao, A. C. B.
+   Miralles, I. S.
+   Araujo, L. C.
+   Araujo, R. M. C.
+   Lima, E. G.
+   Sidrim, J. J. C.
+TI Detection of the dengue non-structural 1 antigen in cerebral spinal
+   fluid samples using a commercially available enzyme-linked immunosorbent
+   assay
+SO JOURNAL OF VIROLOGICAL METHODS
+LA English
+DT Article
+DE Dengue virus; Diagnosis; NS1 antigen; Cerebral spinal fluid; ELISA
+ID POLYMERASE CHAIN-REACTION; HEMORRHAGIC-FEVER; VIRUS; DIAGNOSIS;
+   INFECTION; BRAZIL; MANIFESTATIONS; BRAIN; RNA
+AB The involvement of the central nervous system in dengue infections has been reported in countries where the disease in endemic. The purpose of this study was to determine whether an enzyme-linked immunosorbent assay kit designed to detect the dengue NS1 antigen in serum was able to detect this antigen in cerebral spinal fluid (CSF) samples from patients with fatal outcomes. To evaluate the sensitivity of the kit, 26 dengue-positive CSF samples were used. The Pan-E Dengue Early kit was able to detect the NS1 antigen in 13 of 26 dengue-positive CSF samples, resulting in a sensitivity of 50% (95% confidence interval, 29.9-70.1%) and specificity of 100% (95% confidence interval, 75.3-100%). The kit was able to detect the NS1 antigen in CSF of individuals who had died of dengue. When used in combination with IgM, the detection rate rose to 92.3%. This study reports a method for rapidly detecting the dengue virus in CSF, thereby increasing the diagnosis of dengue fever cases with unusual neurological manifestations. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Araujo, F. M. C.; Perdigao, A. C. B.; Miralles, I. S.; Lima, E. G.] Cent Publ Hlth Lab Ceara, Fortaleza, Ceara, Brazil.
+   [Araujo, F. M. C.; Cavalcanti, L. P. G.; Miralles, I. S.] State Hlth Secretariat Ceara, Fortaleza, Ceara, Brazil.
+   [Araujo, F. M. C.; Brilhante, R. S. N.; Cordeiro, R. A.; Sidrim, J. J. C.] Univ Fed Ceara, Postgrad Program Med Sci, Fortaleza, Ceara, Brazil.
+   [Brilhante, R. S. N.; Rocha, M. F. G.; Cordeiro, R. A.; Sidrim, J. J. C.] Specialized Ctr Med Mycol, Fortaleza, Ceara, Brazil.
+   [Perdigao, A. C. B.; Lima, E. G.] Univ Estadual Ceara, NE Biotechnol Network, Fortaleza, Ceara, Brazil.
+RP Araujo, FMC (corresponding author), Av Barao Studart 2405, BR-60120002 Fortaleza, Ceara, Brazil.
+EM fernanda.montenegro@lacen.ce.gov.br
+RI Cordeiro, Rossana/AAD-7595-2020; Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+FU Central Public Health Laboratory of Ceara; Brazilian National Research
+   Council (CNPq)National Council for Scientific and Technological
+   Development (CNPq) [MCT/CNPq 14/2009]; Ceara State Scientific
+   Development Foundation (FUNCAP) [09100097-1]
+FX This work was financed by the Central Public Health Laboratory of Ceara,
+   the Brazilian National Research Council (CNPq), process MCT/CNPq
+   14/2009, and by the Ceara State Scientific Development Foundation
+   (FUNCAP), process 09100097-1.
+CR [Anonymous], 2009, DENG GUID DIAGN TREA
+   Blacksell SD, 2008, DIAGN MICR INFEC DIS, V60, P43, DOI 10.1016/j.diagmicrobio.2007.07.011
+   CHEN W-J, 1991, Southeast Asian Journal of Tropical Medicine and Public Health, V22, P659
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Dussart P, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000280
+   GUBLER DJ, 1984, AM J TROP MED HYG, V33, P158, DOI 10.4269/ajtmh.1984.33.158
+   Gubler Duane J., 2002, Trends in Microbiology, V10, P100, DOI 10.1016/S0966-842X(01)02288-0
+   Guzman MG, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000811
+   Halstead SB, 2009, ANN NY ACAD SCI, V1171, pE48, DOI 10.1111/j.1749-6632.2009.05052.x
+   Innis Bruce L., 1997, P221
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Libraty DH, 2002, J INFECT DIS, V186, P1165, DOI 10.1086/343813
+   Mackenzie JM, 1996, VIROLOGY, V220, P232, DOI 10.1006/viro.1996.0307
+   Miagostovich MP, 1997, CLIN NEUROPATHOL, V16, P204
+   Nogueira R. M. R., 2002, Southeast Asian Journal of Tropical Medicine and Public Health, V33, P68
+   Puccioni-Sohler M, 2009, NEUROLOGY, V73, P1413, DOI 10.1212/WNL.0b013e3181bd8258
+   Lima MDQ, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000738
+   Ramos C, 1998, J NEUROVIROL, V4, P465, DOI 10.3109/13550289809114548
+   Nogueira RMR, 2007, REV PANAM SALUD PUBL, V22, P358, DOI 10.1590/S1020-49892007001000009
+   Rosen L, 1999, AM J TROP MED HYG, V61, P720, DOI 10.4269/ajtmh.1999.61.720
+   SERAKAN SD, 2007, J INFECT DEV CTRIES, V1, P182
+   Soares CN, 2006, J NEUROL SCI, V249, P19, DOI 10.1016/j.jns.2006.05.068
+NR 22
+TC 30
+Z9 32
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-0934
+J9 J VIROL METHODS
+JI J. Virol. Methods
+PD OCT
+PY 2011
+VL 177
+IS 1
+BP 128
+EP 131
+DI 10.1016/j.jviromet.2011.07.003
+PG 4
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Virology
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Virology
+GA 823HL
+UT WOS:000295113000021
+PM 21798288
+OA Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Rolim, DB
+   Cavalcanti, LPD
+   Inglis, TJJ
+   Nagao-Dias, AT
+AF Rolim, Dionne Bezerra
+   de Goes Cavalcanti, Luciano Pamplona
+   Inglis, Timothy J. J.
+   Nagao-Dias, Aparecida Tiemi
+TI The Use of Positive Serological Tests as Evidence of Exposure to
+   Burkholderia pseudomallei In Response
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Letter
+ID NORTHEASTERN BRAZIL
+C1 [Rolim, Dionne Bezerra] Univ Fortaleza, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Christus Fac Fortaleza, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Community Hlth, Fortaleza, Ceara, Brazil.
+   [Inglis, Timothy J. J.] QEIIMed Ctr, PathW Lab Med WA, Div Microbiol & Infect Dis, Nedlands, WA, Australia.
+   [Nagao-Dias, Aparecida Tiemi] Univ Fed Ceara, Dept Clin Anal & Toxicol, Fortaleza, Ceara, Brazil.
+RP Rolim, DB (corresponding author), Univ Fortaleza, Fortaleza, Ceara, Brazil.
+EM dionnerolim@gmail.com; Pamplona.hiciano@gmail.com;
+   tim.inglis@health.wa.gov.au; tiemindi@yahoo.com.br
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Chenthamarakshan V, 2001, DIAGN MICR INFEC DIS, V39, P1, DOI 10.1016/S0732-8893(00)00212-1
+   Peacock SJ, 2011, AM J TROP MED HYG, V84, P1021, DOI 10.4269/ajtmh.2011.11-0114a
+   Rolim DB, 2005, EMERG INFECT DIS, V11, P1458, DOI 10.3201/eid1109.050493
+   Rolim DB, 2009, APPL ENVIRON MICROB, V75, P1215, DOI 10.1128/AEM.01953-08
+   Rolim DB, 2011, AM J TROP MED HYG, V84, P302, DOI 10.4269/ajtmh.2011.10-0220
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 2
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD JUN
+PY 2011
+VL 84
+IS 6
+BP 1023
+EP 1023
+DI 10.4269/ajtmh.2011.11-0114b
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 773TI
+UT WOS:000291333200032
+OA Bronze, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Rolim, DB
+   Vilar, DCFL
+   de Goes, LP
+   Freitas, CLBN
+   Inglis, TJJ
+   Rodrigues, JLN
+   Nagao-Dias, AT
+AF Rolim, Dionne Bezerra
+   Vilar, Dina Cortez F. L.
+   de Goes, Luciano Pamplona
+   Freitas, Cavalcanti Liara B. N.
+   Inglis, Timothy J. J.
+   Nobre Rodrigues, Jorge Luiz
+   Nagao-Dias, Aparecida Tiemi
+TI Burkholderia pseudomallei Antibodies in Individuals Living in Endemic
+   Regions in Northeastern Brazil
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID CULTURE FILTRATE ANTIGEN; IMMUNOGLOBULIN-M; MELIOIDOSIS;
+   LIPOPOLYSACCHARIDE; CHILDREN; AVIDITY
+AB A seroepidemiological investigation was conducted among the population of two municipalities in Northeastern Brazil. Immunoglobulin M (IgM) and IgG antibodies to Burkholderia pseudomallei were positive in 51.27% (161 in 317 samples) and 58.49% (186), respectively. IgM titers were higher in children than in adults. On the contrary, IgG increased progressively with age. We observed a significant association between agricultural occupation and raised IgM titers (P < 0.005) and IgG titers (P < 0.001), and between construction workers and raised IgG titers (P = 0.005). Antibody IgG avidities did not correlate with age. The highest titers of antibodies (1/800) showed the highest antibody avidity indexes (P < 0.01). Most of the serum samples recognized 45-kDa and 200-kDa bands by IgG1 and IgG2 subclasses. Our study showed a high seropositivity among individuals living in endemic regions of the state of Ceara, and highlights the need for further surveillance close to water courses such as dams and rivers in Northeastern Brazil.
+C1 [Rolim, Dionne Bezerra] Univ Fortaleza, Fortaleza, Ceara, Brazil.
+   [Vilar, Dina Cortez F. L.] Hlth Dept Ceara, Epidemiol Grp, Fortaleza, Ceara, Brazil.
+   [de Goes, Luciano Pamplona] Univ Fed Ceara, Dept Community Hlth, Fortaleza, Ceara, Brazil.
+   [Freitas, Cavalcanti Liara B. N.; Nagao-Dias, Aparecida Tiemi] Univ Fed Ceara, Dept Clin Anal & Toxicol, Fortaleza, Ceara, Brazil.
+   [Inglis, Timothy J. J.] QEII Med Ctr, Div Microbiol & Infect Dis, PathW Lab, Perth, WA, Australia.
+   [Nobre Rodrigues, Jorge Luiz] Univ Fed Ceara, Dept Clin Med, Fortaleza, Ceara, Brazil.
+RP Rolim, DB (corresponding author), Rua Francisco Holanda,821,Ap 301, BR-60130040 Fortaleza, Ceara, Brazil.
+EM dionnerolim@gmail.com; dina@saude.ce.gov.br; pamplona.luciano@gmail.com;
+   lyara.freitas@hotmail.com; tim.inglis@health.wa.gov.au;
+   jrodrigues@fortalnet.com.br; tiemindi@yahoo.com.br
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+FU Secretaria de Ciencia, Tecnologia e Insumos Estrategicos (SCTIE) -
+   Departamento de Ciencia e Tecnologia (DECIT), Ministerio da Saude,
+   Brasil; Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPQ)National Council for Scientific and Technological Development
+   (CNPq); Fundacao Cearense de Amparo a Pesquisa (FUNCAP); Secretaria da
+   Saude do Ceara (SESA)
+FX This research was supported by Secretaria de Ciencia, Tecnologia e
+   Insumos Estrategicos (SCTIE) - Departamento de Ciencia e Tecnologia
+   (DECIT), Ministerio da Saude, Brasil; Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPQ); Fundacao Cearense de
+   Amparo a Pesquisa (FUNCAP) and Secretaria da Saude do Ceara (SESA).
+CR ALEXANDER AD, 1970, APPL MICROBIOL, V20, P825, DOI 10.1128/AEM.20.5.825-833.1970
+   Anuntagool N, 2006, AM J TROP MED HYG, V74, P348, DOI 10.4269/ajtmh.2006.74.348
+   Anuntagool N, 1998, CLIN DIAGN LAB IMMUN, V5, P225, DOI 10.1128/CDLI.5.2.225-229.1998
+   Anuntagool N, 2002, MICROBIOL IMMUNOL, V46, P143, DOI 10.1111/j.1348-0421.2002.tb02679.x
+   ASHDOWN LR, 1981, J CLIN MICROBIOL, V14, P361, DOI 10.1128/JCM.14.4.361-364.1981
+   Chantratita N, 2007, CLIN VACCINE IMMUNOL, V14, P110, DOI 10.1128/CVI.00289-06
+   Cheng AC, 2005, CLIN MICROBIOL REV, V18, P383, DOI 10.1128/CMR.18.2.383-416.2005
+   Chenthamarakshan V, 2001, J MED MICROBIOL, V50, P55, DOI 10.1099/0022-1317-50-1-55
+   Chenthamarakshan V, 2001, DIAGN MICR INFEC DIS, V39, P1, DOI 10.1016/S0732-8893(00)00212-1
+   Inglis TJJ, 2006, AM J TROP MED HYG, V75, P947, DOI 10.4269/ajtmh.2006.75.947
+   Inglis TJJ, 2005, J CLIN MICROBIOL, V43, P2201, DOI 10.1128/JCM.43.5.2201-2206.2005
+   NAGAO AT, 1995, J TROP PEDIATRICS, V41, P153, DOI 10.1093/tropej/41.3.153
+   Nimtz M, 1997, EUR J BIOCHEM, V250, P608, DOI 10.1111/j.1432-1033.1997.0608a.x
+   PONIES GN, 2005, SCAND J IMMUNOL, V62, P353
+   Rolim DB, 2005, EMERG INFECT DIS, V11, P1458, DOI 10.3201/eid1109.050493
+   Rolim DB, 2009, APPL ENVIRON MICROB, V75, P1215, DOI 10.1128/AEM.01953-08
+   Usinger WR, 1999, INFECT IMMUN, V67, P2366, DOI 10.1128/IAI.67.5.2366-2370.1999
+   Wuthiekanun V, 2008, EMERG INFECT DIS, V14, P301, DOI 10.3201/eid1402.070811
+NR 18
+TC 13
+Z9 13
+U1 0
+U2 4
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD FEB
+PY 2011
+VL 84
+IS 2
+BP 302
+EP 305
+DI 10.4269/ajtmh.2011.10-0220
+PG 4
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 716WJ
+UT WOS:000287003900022
+PM 21292903
+OA Green Published, Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LP
+   Viler, D
+   Souza-Santos, R
+   Teixeira, MG
+AF Cavalcanti, Luciano P.
+   Viler, Dina
+   Souza-Santos, Reinaldo
+   Teixeira, Maria G.
+TI Change in Age Pattern of Persons with Dengue, Northeastern Brazil
+SO EMERGING INFECTIOUS DISEASES
+LA English
+DT Letter
+ID HEMORRHAGIC-FEVER
+C1 [Cavalcanti, Luciano P.] Univ Fed Ceara, Dept Community Hlth, Sch Med, BR-60430140 Fortaleza, Ceara, Brazil.
+   [Viler, Dina] Hlth Secretariat Ceara State, Fortaleza, Ceara, Brazil.
+   [Souza-Santos, Reinaldo] Natl Sch Publ Hlth, Rio De Janeiro, Brazil.
+   [Teixeira, Maria G.] Univ Fed Bahia, Salvador, BA, Brazil.
+RP Cavalcanti, LP (corresponding author), Univ Fed Ceara, Dept Community Hlth, Sch Med, St Prof Costa Mendes 1608,5th Floor, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Teixeira, Maria Gloria/G-4808-2012; Cavalcanti, Luciano/N-4391-2015
+OI Teixeira, Maria Gloria/0000-0003-3318-3408; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   HALSTEAD SB, 1981, AM J EPIDEMIOL, V114, P632, DOI 10.1093/oxfordjournals.aje.a113235
+   Halstead SB, 2006, REV PANAM SALUD PUBL, V20, P407, DOI 10.1590/S1020-49892006001100007
+   Oliveira MF, 2010, EMERG INFECT DIS, V16, P576, DOI 10.3201/eid1603.090996
+   Siqueira JB, 2005, EMERG INFECT DIS, V11, P48, DOI 10.3201/eid1101.031091
+   Teixeira MG, 2008, EMERG INFECT DIS, V14, P1663, DOI 10.3201/eid1410.071164
+   Teixeira MG, 2009, CAD SAUDE PUBLICA, V25, pS7, DOI 10.1590/S0102-311X2009001300002
+   VILAR DC, 2008, THESIS ESCOLA NACL S
+   *WORLD ORG HLTH, 2009, DENG DENG HAEM FEV F
+NR 9
+TC 43
+Z9 47
+U1 0
+U2 3
+PU CENTERS  DISEASE CONTROL
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1080-6040
+J9 EMERG INFECT DIS
+JI Emerg. Infect. Dis
+PD JAN
+PY 2011
+VL 17
+IS 1
+BP 132
+EP 134
+DI 10.3201/eid1701.100321
+PG 3
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 702OS
+UT WOS:000285904600030
+PM 21192876
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Lima, JWD
+   Cavalcanti, LPD
+   Pontes, RJS
+   Heukelbach, J
+AF de Oliveira Lima, Jose Wellington
+   de Goes Cavalcanti, Luciano Pamplona
+   Soares Pontes, Ricardo Jose
+   Heukelbach, Joerg
+TI Survival of Betta splendens fish (Regan, 1910) in domestic water
+   containers and its effectiveness in controlling Aedes aegypti larvae
+   (Linnaeus, 1762) in Northeast Brazil
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE dengue; Aedes aegypti; biological control; larvivorous fish; Betta
+   splendens
+ID LARVIVOROUS FISH; LARVICIDES; HABITATS; DENGUE
+AB OBJECTIVE In Northeast Brazil, large domestic containers used to store water are important breeding sites of Aedes aegypti, the main vector of dengue fever. The objective of this study was to estimate the survival of Betta splendens (Perciformes: Osphronemidae) fish in domestic containers in Fortaleza (Ceara State), as well as its effectiveness in the control of premature A. aegypti stages.
+   METHODS The use of B. splendens was compared to Bacillus thuringiensis israelensis (Bti) in domestic containers. In a first home visit, B. splendens or Bti were applied to water containers. Two follow-up visits were conducted after 3-4 and 5-6 months to assess the presence of viable fish in the containers and infestation by larvae. Betta splendens fish were still present in 97.6% of containers 45-60 days after application. When the fish was present, the infestation rate was significantly higher (P < 0.001) in the Bti group (IR ratio = 21.60; 95% Cl: 6.46-72.28). In deposits where the fish remained, efficacy was 85% better than Bti. The permanence of fish was higher in concrete tanks (48.5%) located outside the house (47.5%) and at ground level (53.3%). We conclude that B. splendens may be suitable for biological control of A. aegypti larvae in large domestic water containers, but that appropriate measures should be taken to assure prolonged survival and the presence of fish in the containers.
+C1 [de Goes Cavalcanti, Luciano Pamplona; Soares Pontes, Ricardo Jose; Heukelbach, Joerg] Univ Fed Ceara, Dept Community Hlth, Sch Med, Fortaleza, Ceara, Brazil.
+   [de Oliveira Lima, Jose Wellington] Univ Estadual Ceara, Dept Publ Hlth, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Postgrad Program Med Sci, Fortaleza, Ceara, Brazil.
+   [Heukelbach, Joerg] James Cook Univ, Anton Breinl Ctr, Sch Publ Hlth Trop Med & Rehabil Sci, Townsville, Qld 4811, Australia.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Community Hlth, Sch Med, Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Pontes, Ricardo JS/C-9739-2018; Cavalcanti, Luciano/N-4391-2015
+OI Pontes, Ricardo JS/0000-0002-8976-4562; Heukelbach,
+   Jorg/0000-0002-7845-5510; Cavalcanti, Luciano/0000-0002-3440-1182
+CR BRONSTEIN PM, 1994, J COMP PSYCHOL, V108, P45, DOI 10.1037/0735-7036.108.1.45
+   Caprara A, 2009, CAD SAUDE PUBLICA, V25, pS125, DOI 10.1590/S0102-311X2009001300012
+   Companhia de agua e esgoto do Ceara (CAGECE), 2007, REL AN TECN QUAL AG
+   Conejo ACC, 2000, REV COSTARRIC SALUD, V9, P20
+   Cavalcanti LPD, 2010, REV SOC BRAS MED TRO, V43, P355, DOI 10.1590/S0037-86822010000400003
+   Cavalcanti LPG, 2009, J MED ENTOMOL, V46, P841, DOI 10.1603/033.046.0414
+   DIXIT RS, 1981, INDIAN J MED RES, V73, P155
+   FLETCHER M, 1992, ACTA TROP, V52, P155, DOI 10.1016/0001-706X(92)90032-S
+   Garcia AI, 1991, REV CUBA MED TROP, V43, P45
+   Gosh A, 2004, B PENELITIAN KESEHAT, V32, P144
+   Hosmer D.W., 2000, APPL LOGISTIC REGRES
+   Howard AFV, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-199
+   Koenraadt CJM, 2007, J MED ENTOMOL, V44, P938, DOI 10.1603/0022-2585(2007)44[938:SCCFIA]2.0.CO;2
+   Koldenkova L, 1989, REV CUBANA MED TROP, V41, P140
+   Kusumawathie PHD, 2008, T ROY SOC TROP MED H, V102, P705, DOI 10.1016/j.trstmh.2008.03.013
+   Lardeux F, 2002, J MED ENTOMOL, V39, P493, DOI 10.1603/0022-2585-39.3.493
+   Martinez-Ibarra JA, 2002, BIOCONTROL, V47, P481, DOI 10.1023/A:1015691831489
+   Ministerio da Saude (BR) Secretaria de Atencao a Saude Departamento de Acoes Programaticas Estrategicas, 2009, NORM MAN TECN A
+   Mohamed A A, 2003, East Mediterr Health J, V9, P618
+   MOLLOY D. M., 1924, American Journal of Tropical Medicine, V4, P175
+   Oliveira-Lima JW, 2003, SEM INT PREV CONTR D
+   Pamplona LGC, 2007, PUBLIC  HLTH J, V41, P638
+   Pamplona LGC, 2006, THESIS
+   Pamplona Luciano de Góes Cavalcanti, 2004, Rev. Soc. Bras. Med. Trop., V37, P400, DOI 10.1590/S0037-86822004000500006
+   Pontes RJS, 2005, REV SOC BRAS MED TRO, V38, P316, DOI 10.1590/S0037-86822005000400007
+   RAO USB, 1982, INDIAN J MED RES, V76, P684
+   Rojas P Elmer, 2004, Rev. perú. med. exp. salud publica, V21, P44
+   Romero-Vivas CME, 2006, ANN TROP MED PARASIT, V100, pS87, DOI 10.1179/136485906X105543
+   Sharma S. N., 1997, Journal of Communicable Diseases, V29, P371
+   Pontes RJS, 2010, MEM I OSWALDO CRUZ, V105, P220, DOI 10.1590/S0074-02762010000200019
+   WU N, 1987, B WORLD HEALTH ORGAN, V65, P503
+NR 31
+TC 15
+Z9 15
+U1 1
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1360-2276
+EI 1365-3156
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD DEC
+PY 2010
+VL 15
+IS 12
+BP 1525
+EP 1532
+DI 10.1111/j.1365-3156.2010.02658.x
+PG 8
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 682BT
+UT WOS:000284374600016
+PM 21054694
+OA Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPD
+   Coelho, ICB
+   Vilar, DCLF
+   Holanda, SGS
+   da Escossia, KNF
+   Souza-Santos, R
+AF de Goes Cavalcanti, Luciano Pamplona
+   Branco Coelho, Ivo Castelo
+   Lima Feitosa Vilar, Dina Cortez
+   Silveira Holanda, Susana Gloria
+   Farias da Escossia, Kiliana Nogueira
+   Souza-Santos, Reinaldo
+TI Clinical and epidemiological characterization of dengue hemorrhagic
+   fever cases in northeastern, Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Dengue hemorrhagic fever; Epidemiology; Risk factors
+AB Introduction: The dengue hemorrhagic dengue (DHF) remains an important public health problem in Brazil. The objective of this study was to analyze the epidemiological characteristics of DHF cases during the 2003 epidemic in Ceara. Methods: Suspected DHF cases with onset of symptoms between January and December 2003 were investigated. Results: 37,964 classic dengue cases and 291 DHF cases were reported. Among the cases discarded, 75.5% were serologically positive but did not meet the criteria recommended by the World Health Organization (WHO). The DHF patients' median age was 30 years (2 - 88). Among the hemorrhagic manifestations, petechiae were the most (32.6%) frequent. Cases of gastrointestinal bleeding, ascites, pericardial pleural effusion, hepatomegaly, hypotension and shock showed higher risk of progression to death (p < 0.05). Conclusions: The introduction of a new serotype (DENV-3) in Ceara, which encountered a susceptible population and high vector density, may have been the primary agent responsible for the magnitude of the epidemic. Timely and appropriate medical care, along with an organized care structure are essential for reducing its lethality.
+C1 [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, DSC, FM, Grad Program Med Sci, BR-60430140 Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Community Hlth, Fortaleza, Ceara, Brazil.
+   [Branco Coelho, Ivo Castelo] Univ Fed Ceara, Dept Pathol, Fortaleza, Ceara, Brazil.
+   [Lima Feitosa Vilar, Dina Cortez; Silveira Holanda, Susana Gloria; Farias da Escossia, Kiliana Nogueira] Secretaria Saude Ceara, Fortaleza, Ceara, Brazil.
+   [Souza-Santos, Reinaldo] Natl Sch Publ Hlth, Rio De Janeiro, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, DSC, FM, Grad Program Med Sci, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR Casali Clarisse Guimarães, 2004, Rev. Soc. Bras. Med. Trop., V37, P296, DOI 10.1590/S0037-86822004000400002
+   CUNHA RV, 1988, MEM I O CRUZ, V93, P155
+   Denis Cristiane K., 2003, Rev. Bras. Otorrinolaringol., V69, P644, DOI 10.1590/S0034-72992003000500009
+   Ferreira MLB, 2005, ARQ NEURO-PSIQUIAT, V63, P488, DOI 10.1590/S0004-282X2005000300023
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   Montenegro D, 2006, REV SOC BRAS MED TRO, V39, P9, DOI 10.1590/S0037-86822006000100002
+   Passos Maíla Naves Pereira, 2004, Rev. Soc. Bras. Med. Trop., V37, P293, DOI 10.1590/S0037-86822004000400001
+   Ribeiro PD, 2008, REV BRAS ENFERM, V61, P227, DOI 10.1590/S0034-71672008000200013
+   Rigau-Perez J G, 1997, Rev Panam Salud Publica, V1, P381
+   Rodrigues EMS, 2002, REV SAUDE PUBL, V36, P160, DOI [10.1590/S0034-89102002000200007, 10.1590/s0034-89102002000200007]
+   Scandar Sirle A. S., 2003, Revista do Instituto Adolfo Lutz, V62, P83
+   Siqueira JB, 2005, EMERG INFECT DIS, V11, P48, DOI 10.3201/eid1101.031091
+   VILAR DCF, 2004, IMPACTO CAPACITACAO
+   Wali JP, 1999, TROP DOCT, V29, P27, DOI 10.1177/004947559902900110
+   WHO, 117 WHO
+NR 15
+TC 36
+Z9 37
+U1 0
+U2 5
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD JUL-AUG
+PY 2010
+VL 43
+IS 4
+BP 355
+EP 358
+DI 10.1590/S0037-86822010000400003
+PG 4
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 645BO
+UT WOS:000281426100003
+PM 20802929
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Pontes, RJS
+   Dantas, FF
+   de Alencar, CHM
+   Regazzi, ACF
+   Cavalcanti, LPD
+   Ramos, AN
+   Lima, JWD
+AF Soares Pontes, Ricardo Jose
+   Dantas Filho, Fabio Fernandes
+   Morais de Alencar, Carlos Henrique
+   Ferreira Regazzi, Ana Claudia
+   de Goes Cavalcanti, Luciano Pamplona
+   Ramos, Alberto Novaes, Jr.
+   de Oliveira Lima, Jose Wellington
+TI Impact of water renewal on the residual effect of larvicides in the
+   control of Aedes aegypti
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE Aedes; dengue; insect control; insecticides; organophosphate; Bacillus
+   thuringiensis
+ID TEMEPHOS; EFFICACY; LARVAE; FORMULATIONS; ISRAELENSIS; DIPTERA; RELEASE
+AB This study was carried out to evaluate the residual effect of three larvicides under laboratory conditions for 100 days in Aedes aegypti. The larval mortality rate was measured without water renewal or with daily water renewal (80%). With temephos, there was 100% mortality in both groups until the 70th day. In the Bacillus thuringiensis israelensis (Bti)-WDG test, there was no difference during the first 20 days. With Bti-G, without water renewal, mortality was sustained above 90% for up to 35 days. The second experiment (with water renewal) reduced the mortality to below 90% after the first 20 days. When renewed water was provided, the residual effect was significantly lower for all larvicides.
+C1 [Soares Pontes, Ricardo Jose; Morais de Alencar, Carlos Henrique; de Goes Cavalcanti, Luciano Pamplona; Ramos, Alberto Novaes, Jr.] Univ Fed Ceara, Fac Med, Dept Saude Comunitaria, BR-60430140 Fortaleza, Ceara, Brazil.
+   [Dantas Filho, Fabio Fernandes] Univ Fed Rio Grande do Sul, Hosp Clin, Porto Alegre, RS, Brazil.
+   [Ferreira Regazzi, Ana Claudia; de Oliveira Lima, Jose Wellington] Fundacao Nacl Saude, Fortaleza, Ceara, Brazil.
+   [de Oliveira Lima, Jose Wellington] Univ Estadual Ceara, Dept Saude Colet, Fortaleza, Ceara, Brazil.
+RP Pontes, RJS (corresponding author), Univ Fed Ceara, Fac Med, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608 5 Andar, BR-60430140 Fortaleza, Ceara, Brazil.
+EM rjpontes@fortalnet.com.br
+RI Filho, Fabio Dantas/J-4269-2017; Junior, Alberto Novaes
+   Ramos/A-4276-2013; Pontes, Ricardo JS/C-9739-2018; Alencar, Carlos
+   H/G-1537-2016; Cavalcanti, Luciano/N-4391-2015
+OI Filho, Fabio Dantas/0000-0002-1239-6263; Junior, Alberto Novaes
+   Ramos/0000-0001-7982-1757; Pontes, Ricardo JS/0000-0002-8976-4562;
+   Alencar, Carlos Henrique/0000-0003-2967-532X; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR CHADEE DD, 1984, MOSQ NEWS, V44, P51
+   Chen CD, 2006, TROP BIOMED, V23, P220
+   de Melo-Santos MAV, 2001, MEM I OSWALDO CRUZ, V96, P859, DOI 10.1590/S0074-02762001000600020
+   Donalisio M. R. C., 2002, Dengue Bulletin, V26, P173
+   FORTIN C, 1987, J AM MOSQUITO CONTR, V3, P282
+   Gunasekaran K, 2004, ACTA TROP, V92, P109, DOI 10.1016/j.actatropica.2004.04.008
+   Lee H. L., 1993, Mosquito Borne Diseases Bulletin, V10, P77
+   Lima José Bento Pereira, 2005, Rev. Inst. Med. trop. S. Paulo, V47, P125, DOI 10.1590/S0036-46652005000300002
+   MEDRONHO R. A., 2008, EPIDEMIOLOGIA
+   Mulla MS, 2004, J AM MOSQUITO CONTR, V20, P64
+   Palomino S Miriam, 2006, Rev. perú. med. exp. salud publica, V23, P158
+   Pinheiro Valéria Cristina Soares, 2002, Cad. Saúde Pública, V18, P1529, DOI 10.1590/S0102-311X2002000600005
+   Pontes RJS, 2005, REV SOC BRAS MED TRO, V38, P316, DOI 10.1590/S0037-86822005000400007
+   Rothman KJ, 2002, EPIDEMIOLOGY INTRO
+   Tawatsin Apiwat, 2007, Southeast Asian Journal of Tropical Medicine and Public Health, V38, P641
+   Thavara U, 2005, J VECTOR ECOL, V30, P62
+   Thavara U, 2004, J AM MOSQUITO CONTR, V20, P176
+   WHO, 2005, GUID LAB FIELD TEST
+NR 18
+TC 10
+Z9 12
+U1 0
+U2 9
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD MAR
+PY 2010
+VL 105
+IS 2
+BP 220
+EP 224
+DI 10.1590/S0074-02762010000200019
+PG 5
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 589MQ
+UT WOS:000277152900019
+PM 20428685
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Pordeus, AMJ
+   Cavalcanti, LPD
+   Vieira, LJED
+   Coriolano, LS
+   Osorio, MM
+   da Ponte, MSR
+   Barroso, SMC
+AF Juca Pordeus, Augediva Maria
+   de Goes Cavalcanti, Luciano Pamplona
+   Eyre de Souza Vieira, Luiza Jane
+   Coriolano, Lindelia Sobreira
+   Osorio, Magnolia Montenegro
+   Ramos da Ponte, Maria Socorro
+   Cavalcante Barroso, Sara Maria
+TI Suicidal attempts and obits in the district of Independencia, Ceara
+   State, Brazil
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Suicide; Suicide attempted; Case studies
+AB The objective of this work was to analyze the occurrence of suicidal attempts and deaths that happened in the district of Independencia, Ceara State, Brazil, in 2005. A case study was carried out, including attempts and deaths by suicide. A data gathering source was composed out of the SIS (Mortality Information System) and of the SIH (Hospital Admittance System), regarding the year 2005, besides documentary research on district hospital records. Out of six recorded obits, two happened in the age group of 10 to 19, three from 20 to 29, and one from 30 to 59. One half of the suicide victims were male, and the prevailing method was hanging. Considering the attempts, most of them concentrated in the age group of 10 to 19, prevailing females (seven cases). The main signs and symptoms presented by victims, before exerting suicidal attempt were: sadness, loss of sleep, anorexia, nervousness, will to cry, and aggressiveness; there also was some kind of affective relationship among those persons. It was concluded that the events recorded in the district of Independencia must be analyzed as a social fact, highlighting the small time interval between the deaths and attempts and, the existence of relational links among the victims.
+C1 [Juca Pordeus, Augediva Maria; de Goes Cavalcanti, Luciano Pamplona; Coriolano, Lindelia Sobreira; Osorio, Magnolia Montenegro; Ramos da Ponte, Maria Socorro; Cavalcante Barroso, Sara Maria] Secretaria Saude Ceara, Nucleo Epidemiol, BR-60060440 Fortaleza, CE, Brazil.
+   [Juca Pordeus, Augediva Maria; Eyre de Souza Vieira, Luiza Jane] Univ Fortaleza, Ctr Ciencias Saude, Fortaleza, Ceara, Brazil.
+   [Coriolano, Lindelia Sobreira] Univ Fed Ceara, Dept Saude Comunitaria, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Programa Posgrad Ciencias Med, Fortaleza, Ceara, Brazil.
+RP Pordeus, AMJ (corresponding author), Secretaria Saude Ceara, Nucleo Epidemiol, Av Almirante Barroso 600, BR-60060440 Fortaleza, CE, Brazil.
+EM augediva@saude.ce.gov.br
+RI Cavalcanti, Luciano/N-4391-2015
+OI Cavalcanti, Luciano/0000-0002-3440-1182
+CR *BRAS MIN PLAN, 2006, IBGE CIDADES     SET
+   CASSORLA RMS, 1994, CAD SAUDE PUBLICA S1, V10, P61
+   *CEAR SECR SAUD ES, 2006, DOENC AGR NAO TRANSM
+   D'Oliveira CF, 2004, VIOLENCIA FAZ MAL SA, P177
+   Silva Viviane Franco da, 2006, Cad. Saúde Pública, V22, P1835, DOI 10.1590/S0102-311X2006000900014
+   DESOUZA ER, 2003, VIOLENCIA SOB OLHAR, P131
+   DIEKSTRA RFW, 1989, ACTA PSYCHIAT SCAND, V80, P1, DOI 10.1111/j.1600-0447.1989.tb03043.x
+   DURKHEIN E, 1982, SUICIDIO
+   FREITAS MLV, 2005, THESIS U FORTALEZA
+   GROSSI R, 2002, J BRAS PSIQUIAT, V51, P101
+   Marin-Leon L, 2003, REV SAUDE PUBL, V37, P357, DOI 10.1590/s0034-89102003000300015
+   Martins Christine Baccarat de Godoy, 2005, Rev. bras. epidemiol., V8, P194, DOI 10.1590/S1415-790X2005000200012
+   Mello M F, 2000, Cad Saude Publica, V16, P163
+   MINAYO M. C. S., 2003, VIOLENCIA SOB OLHAR
+   Minayo Maria Cecília de Souza, 2006, Cad. Saúde Pública, V22, P1587, DOI 10.1590/S0102-311X2006000800007
+   MINAYO MCS, 2005, IMPACTO VIOLENCIA SA, P206
+   Molock SD, 2006, J BLACK PSYCHOL, V32, P366, DOI 10.1177/0095798406290466
+   Oliveira Cleane S. de, 2003, Arch. Clin. Psychiatry (São Paulo), V30, P4, DOI 10.1590/S0101-60832003000100001
+   PORDEUS AMJ, 2002, REV CTR CIENCIAS SAU, V15, P16
+   Prieto D., 2005, JORNAL BRASILEIRO PS, V54, P146
+   Romao M. R., 2004, REV BRAS PROMOCAO SA, V17, P14
+   SAMPAIO D, 1990, PSIQ CLIN, V11, P1
+   SERFATY E, 1998, ADOLES LATINOAMERICA, P105
+   SORENON SB, 1999, INJ PREV
+   Souza Edinilsa Ramos de, 2002, Cad. Saúde Pública, V18, P673, DOI 10.1590/S0102-311X2002000300011
+   Souza Edinilsa Ramos de, 2006, Ciênc. saúde coletiva, V11, P409, DOI 10.1590/S1413-81232006000200018
+   Souza ER, 2007, CIEN SAUDE COLET S, V11, P1333
+   TAVARES M, 2000, COMORBIDADE DEPRESSA
+   WAISELFISZ JJ, 2004, MAPA VIOLENCIA, V4
+   World Health Organisation, 2003, WORLD HLTH REP 2003
+NR 30
+TC 3
+Z9 4
+U1 1
+U2 4
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD NOV-DEC
+PY 2009
+VL 14
+IS 5
+BP 1731
+EP 1740
+DI 10.1590/S1413-81232009000500014
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 511KH
+UT WOS:000271162500014
+PM 19851585
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, LPG
+   de Paula, FJ
+   Pontes, RJS
+   Heukelbach, J
+   Lima, JWD
+AF de Goes Cavalcanti, Luciano Pamplona
+   de Paula Junior, Francisco Jose
+   Soares Pontes, Ricardo Jose
+   Heukelbach, Jorg
+   de Oliveira Lima, Jose Wellington
+TI Survival of Larvivorous Fish Used for Biological Control of Aedes
+   aegypti Larvae in Domestic Containers With Different Chlorine
+   Concentrations
+SO JOURNAL OF MEDICAL ENTOMOLOGY
+LA English
+DT Article
+DE dengue; Aedes aegypti; prevention; biological control; chlorine
+AB The two fish species Bettaa splendens (Regan) and Poecilia reticulata (Peters) are known predators of Aedes aegypti (L., 1762) larvae. Both species have been used for biological control in northeastern Brazil. However, the feasibility of these fish for the control of Ae. aegypti larvae it) domestic containers may be limited by their survival in chlorinated water, as supplied by the public water system. We exposed fish to three different concentrations of chlorine: 1, 1.5, and 2.0 mg/liter. All B. splendens survived at 1.0 mg/liter chlorine concentration; 72.5 and 39.3% of B. splendens survived chlorine concentrations of 1.5 and 2.0 mg/liter, respectively. In contrast, only 4.4% of P. reticulata survived at a chlorine concentration of 1.0 mg/liter. We conclude that B. splendens; may be an appropriate species for biological control of Ae. aegypti in domestic water tanks.
+C1 [de Goes Cavalcanti, Luciano Pamplona; Soares Pontes, Ricardo Jose; Heukelbach, Jorg] Univ Fed Ceara, Sch Med, Dept Community Hlth, BR-60430140 Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Postgrad Program Med Sci, BR-60430140 Fortaleza, Ceara, Brazil.
+   [de Paula Junior, Francisco Jose] Hlth Ceara State SESA, BR-60060440 Fortaleza, Ceara, Brazil.
+   [Heukelbach, Jorg] James Cook Univ, Anton Breinl Ctr, Sch Publ Hlth Trop Med & Rehabil Sci, Townsville, Qld 4811, Australia.
+   [de Oliveira Lima, Jose Wellington] Natl Hlth Fdn FUNASA, BR-60150160 Fortaleza, Ceara, Brazil.
+   [de Oliveira Lima, Jose Wellington] State Univ Ceara UECF, Dept Publ Hlth, BR-60740903 Fortaleza, Ceara, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Sch Med, Dept Community Hlth, BR-60430140 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com
+RI Pontes, Ricardo JS/C-9739-2018; Cavalcanti, Luciano/N-4391-2015
+OI Pontes, Ricardo JS/0000-0002-8976-4562; Heukelbach,
+   Jorg/0000-0002-7845-5510; Cavalcanti, Luciano/0000-0002-3440-1182
+FU Ceara Foundation for support to research (FUNCAP) [015500104]; Couselho
+   Nacional de Desenvolvimento e Tecnologico (CNPq) (Brazil)National
+   Council for Scientific and Technological Development (CNPq)
+FX We thank the Entomology Laboratory of the Department of Community Health
+   at Federal University of Ceara. This study was supported by the Ceara
+   Foundation for support to research (FUNCAP), project no.
+   FUNCAP/PPSUS/MCT no. 015500104). J. H. is research fellow from the
+   Couselho Nacional de Desenvolvimento e Tecnologico (CNPq) (Brazil).
+CR BHEEMA RUS, 1982, INDIAN J MED RES, V76, P684
+   Braga IA, 2007, EPIDEMIOL SERV SAUDE, V16, P295
+   *CAGECE, 2007, TECHN ANN REP WAT QU
+   Castro Ricardo M.C., 1997, Ichthyological Exploration of Freshwaters, V7, P337
+   CONEJO ACC, 2000, REV COSTARRICENSE SA, V9
+   ELAS M, 2004, ENSAIO EVALUAR UTILI
+   FRUTUOSO RL, 2006, THESIS FEDERAL U CEA
+   Gerberich JB, 1985, INTEGRATED MOSQUITO, V2, P47
+   Ghosh SK, 2007, T ROY SOC TROP MED H, V101, P1063, DOI 10.1016/j.trstmh.2007.07.008
+   Haq S., 1993, Indian Journal of Malariology, V30, P1
+   Martinez-Ibarra JA, 2002, BIOCONTROL, V47, P481, DOI 10.1023/A:1015691831489
+   MOHAMED AA, 2003, REV SANTE MEDITERRAN, V9, P4
+   MOLLOY D. M., 1924, American Journal of Tropical Medicine, V4, P175
+   MULLICA J, 2001, J FISH BIOL, V58, P1311
+   PAMPLONA LGC, 2006, THESIS FEDERAL U CEA
+   Pamplona LGC, 2007, PUBLIC  HLTH J, V41, P638
+   Russell BM, 2001, J AM MOSQUITO CONTR, V17, P124
+   Sharma S. N., 1997, Journal of Communicable Diseases, V29, P371
+   VARGAS VM, 2003, REV COL MQC COSTA RI, V9, P3
+   WU N, 1987, B WORLD HEALTH ORGAN, V65, P503
+NR 20
+TC 4
+Z9 4
+U1 2
+U2 8
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0022-2585
+EI 1938-2928
+J9 J MED ENTOMOL
+JI J. Med. Entomol.
+PD JUL
+PY 2009
+VL 46
+IS 4
+BP 841
+EP 844
+DI 10.1603/033.046.0414
+PG 4
+WC Entomology; Veterinary Sciences
+SC Entomology; Veterinary Sciences
+GA 465XQ
+UT WOS:000267623800015
+PM 19645286
+DA 2020-12-08
+ER
+
+PT J
+AU Lima, EP
+   de Oliveira, AM
+   Lima, JWD
+   Junior, ANR
+   Cavalcanti, LPD
+   Pontes, RJS
+AF Lima, Estelita Pereira
+   de Oliveira Filho, Alfredo Martins
+   de Oliveira Lima, Jose Wellington
+   Ramos Junior, Alberto Novaes
+   de Ges Cavalcanti, Luciano Pamplona
+   Soares Pontes, Ricardo Jose
+TI Aedes aegypti resistance to temefos in counties of Ceara State
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA Portuguese
+DT Article
+DE Aedes aegypti; control of vectors; temefos; resistance to insecticides
+ID POPULATIONS; SUSCEPTIBILITY; TEMEPHOS
+AB The susceptibility of Aedes aegypti to temefos was evaluated by means of samples of eggs and larvae from four large counties in the State of Ceara (Fortaleza, Barbalha, Juazeiro do Norte and Crato). The technique standardized by the World Health Organization for tests with larvicides was used. The CL50 of eight samples from populations of Aedes was determined, as were their respective resistance ratios, compared to the CL50 of the susceptible Rockefeller strain. All populations submitted to the experiment showed resistance to temefos, with resistance ratios varying between 8 and 16 Analysis of these results reinforces prior evidence regarding the dissemination of temefos resistance in different locations in the state, subjected to considerable pressure for control in recent decades. The larvicide may lose its effectiveness if an urgent attempt is not made to reestablish the susceptibility of Aedes aegypti in these areas, profoundly affecting control campaigns currently under way.
+C1 Univ Fed Ceara, Dept Saude Comunitaria, BR-60430140 Fortaleza, Ceara, Brazil.
+   Univ Fed Rio de Janeiro, Nucleo Pesquisas Prod Nat, Rio De Janeiro, Brazil.
+   Fdn Nacl Saude, Fortaleza, Ceara, Brazil.
+   Nucleo Epidemiol Secretaria Saude Estado Ceara, Fortaleza, Ceara, Brazil.
+   Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+RP Pontes, RJS (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar Rodolfo Teofil, BR-60430140 Fortaleza, Ceara, Brazil.
+EM rjpontes@fortalnet.com.br
+RI Junior, Alberto Novaes Ramos/A-4276-2013; Jose Soares Pontes,
+   Ricardo/C-9739-2018; Cavalcanti, Luciano/N-4391-2015
+OI Junior, Alberto Novaes Ramos/0000-0001-7982-1757; Jose Soares Pontes,
+   Ricardo/0000-0002-8976-4562; Cavalcanti, Luciano/0000-0002-3440-1182
+CR Braga IA, 2004, MEM I OSWALDO CRUZ, V99, P199, DOI 10.1590/S0074-02762004000200015
+   Campos J, 2003, REV SAUDE PUBL, V37, P523, DOI 10.1590/s0034-89102003000400019
+   Carvalho M. S. L., 2004, REV SAUDE PUBL, V38, P623
+   DAVIDSON G, 1973, B WORLD HEALTH ORGAN, V49, P475
+   Finney DJ, 1964, PROBIT ANAL STAT TRE
+   Macoris MDG, 1999, REV SAUDE PUBL, V33, P521
+   MAZZARRI MB, 1995, J AM MOSQUITO CONTR, V11, P315
+   NOGUEIRA MB, 1999, THESIS U FEDERAL CEA
+   OLIVEIRA AM, 1999, INSETOS OUTROS INVAS, P379
+   OLIVEIRA AM, 2001, 37 C SOC BRAS MED TR, P291
+   Pamplona Luciano de Góes Cavalcanti, 2004, Rev. Soc. Bras. Med. Trop., V37, P400, DOI 10.1590/S0037-86822004000500006
+   RAWLINS SC, 1995, J AM MOSQUITO CONTR, V11, P59
+   Rodriguez Maria Magdalena, 1999, Revista Cubana de Medicina Tropical, V51, P83
+   Rodriguez MM, 2001, J MED ENTOMOL, V38, P623, DOI 10.1603/0022-2585-38.5.623
+   *WHO, 1981, WHOVBC8116
+   *WHO, 1992, WHO TECHN REP SER, V818
+   WHO, 1981, WHOVBC81807
+   WHO. World Health Organization, 1970, WHO TECHN REP SER, V467
+   Wirth MC, 1999, J AM MOSQUITO CONTR, V15, P315
+NR 19
+TC 34
+Z9 37
+U1 0
+U2 3
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD MAY-JUN
+PY 2006
+VL 39
+IS 3
+BP 259
+EP 263
+DI 10.1590/S0037-86822006000300006
+PG 5
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 068HW
+UT WOS:000239365200006
+PM 16906249
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+EF

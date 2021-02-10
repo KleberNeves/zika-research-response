@@ -1,0 +1,2806 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Entradas, M
+   Bauer, MW
+   O'Muircheartaigh, C
+   Marcinkowski, F
+   Okamura, A
+   Pellegrini, G
+   Besley, J
+   Massarani, L
+   Russo, P
+   Dudo, A
+   Saracino, B
+   Silva, C
+   Kano, K
+   Amorim, L
+   Bucchi, M
+   Suerdem, A
+   Oyama, T
+   Li, YY
+AF Entradas, Marta
+   Bauer, Martin W.
+   O'Muircheartaigh, Colm
+   Marcinkowski, Frank
+   Okamura, Asako
+   Pellegrini, Giuseppe
+   Besley, John
+   Massarani, Luisa
+   Russo, Pedro
+   Dudo, Anthony
+   Saracino, Barbara
+   Silva, Carla
+   Kano, Kei
+   Amorim, Luis
+   Bucchi, Massimiano
+   Suerdem, Ahmet
+   Oyama, Tatsuo
+   Li, Yuh-Yuh
+TI Public communication by research institutes compared across countries
+   and sciences: Building capacity for engagement or competing for
+   visibility?
+SO PLOS ONE
+LA English
+DT Article
+ID MASS-MEDIA; SCIENTISTS; UNIVERSITIES; MOBILIZATION
+AB Leading academic institutions, governments, and funders of research across the world have spent the last few decades fretting publicly about the need for scientists and research organisations to engage more widely with the public and be open about their research. While a global literature asserts that public communication has changed from a virtue to a duty for scientists in many countries and disciplines, our knowledge about what research institutions are doing and what factors drive their 'going public' is very limited. Here we present the first cross-national study of N = 2,030 research institutes within universities and large scientific organisations in Brazil, Germany, Italy, Japan, the Netherlands, Portugal, the United Kingdom, and the United States of America. We find that institutes embrace communication with non-peers and do so through a variety of public events and traditional news media-less so through new media channels-and we find variation across countries and sciences, yet these are less evident than we expected. Country and disciplinary cultures contribute to the level of this communication, as do the resources that institutes make available for the effort; institutes with professionalised staff show higher activity online. Future research should examine whether a real change in the organisational culture is happening or whether this activity and resource allocation is merely a means to increase institutional visibility.
+C1 [Entradas, Marta] Inst Univ Lisboa ISCTE IUL, Lisbon, Portugal.
+   [Entradas, Marta; Bauer, Martin W.] London Sch Econ & Polit Sci, Dept Psychol & Behav Sci, London, England.
+   [O'Muircheartaigh, Colm] Univ Chicago, Harris Sch Publ Policy, Chicago, IL 60637 USA.
+   [Marcinkowski, Frank; Oyama, Tatsuo] Heinrich Heine Univ Dusseldorf, Dept Social Sci, Dusseldorf, Germany.
+   [Okamura, Asako] Natl Grad Inst Policy Studies, Tokyo, Japan.
+   [Pellegrini, Giuseppe] Observa Sci & Soc, Vicenza, Italy.
+   [Besley, John] Michigan State Univ, Dept Advertising & Publ Relat, E Lansing, MI 48824 USA.
+   [Massarani, Luisa; Silva, Carla; Amorim, Luis] Fundacao Oswaldo Cruz, FIOCRUZ, Inst Nacl Comunicacao Publ Ciencia & Tecnol, Casa Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Russo, Pedro] Leiden Univ, Dept Sci Commun & Soc, Leiden, Netherlands.
+   [Dudo, Anthony] Univ Texas Austin, Stan Richards Sch Advertising & Publ Relat, Austin, TX 78712 USA.
+   [Saracino, Barbara] Univ Trento, Dept Sociol, Trento, Italy.
+   [Kano, Kei] Shiga Univ, Fac Educ, Otsu, Shiga, Japan.
+   [Bucchi, Massimiano] Univ Bologna, Dept Polit & Social Sci, Bologna, Italy.
+   [Suerdem, Ahmet] Bilgi Univ, Istanbul, Turkey.
+   [Li, Yuh-Yuh] Natl Sun Yat Sen Univ, Kaohsiung, Taiwan.
+RP Entradas, M (corresponding author), Inst Univ Lisboa ISCTE IUL, Lisbon, Portugal.; Entradas, M (corresponding author), London Sch Econ & Polit Sci, Dept Psychol & Behav Sci, London, England.
+EM mcfes@iscte-iul.pl
+OI Russo, Pedro/0000-0002-8589-7800; Entradas, Marta/0000-0001-7146-9912
+FU Fundacao para a Ciencia e Tecnologia (FCT)Portuguese Foundation for
+   Science and Technology [PTDC/IVCCOM/0290/2014]
+FX M.E. received the project grant from the Fundacao para a Ciencia e
+   Tecnologia (FCT), Grant agreement: PTDC/IVCCOM/0290/2014. Website:
+   https://www.fct.pt/index.phtml.pt The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR [Anonymous], 2013, SCI TECHNOLOGY, DOI [10.1142/S2339547813500027, DOI 10.1142/S2339547813500027]
+   Bauer MW, 2011, PUBLIC UNDERST SCI, V20, P3, DOI 10.1177/0963662510394457
+   Bentley P, 2011, PUBLIC UNDERST SCI, V20, P48, DOI 10.1177/0963662510384461
+   Besley JC, 2018, PUBLIC UNDERST SCI, V27, P708, DOI 10.1177/0963662517728478
+   Centro de GestAo e Estudos Estrategicos, 2019, PERC PUBL C T BRAS 2
+   Commission European, 2005, EUR SCI TECHN
+   Commission European, 2007, SCI SOC SESS PORT PR
+   Dillman D.A., 1978, MAIL TELEPHONE SURVE
+   Domecq JP, 2014, BMC HEALTH SERV RES, V14, DOI 10.1186/1472-6963-14-89
+   Entradas M, 2018, FORSCHUNGSFELD HOCHS, P97
+   Entradas M, EMERGENCE MODERN SCI
+   Entradas M, 2019, CLIMATIC CHANGE, V154, P69, DOI 10.1007/s10584-019-02414-9
+   Entradas M, 2019, NAT ASTRON, V3, P183, DOI 10.1038/s41550-018-0633-7
+   Entradas M, 2017, PUBLIC UNDERST SCI, V26, P771, DOI 10.1177/0963662516633834
+   Fischhoff B., 2013, P NATL ACAD SCI, V110
+   GlobalWebIndex, 2019, SOC MED TRENDS 2019
+   Hargittai E, 2018, SOC MEDIA SOC, V4, DOI 10.1177/2056305118797720
+   Huff T. E., 2017, RISE EARLY MODERN SC
+   Jensen P, 2011, PUBLIC UNDERST SCI, V20, P26, DOI 10.1177/0963662510383632
+   Katz Y, 2017, BIOMEDICAL ELITE INE
+   Laredo P., 2007, HIGH EDUC POLICY, V20, P441, DOI DOI 10.1057/PALGRAVE.HEP.8300169
+   Leshner AI, 2003, SCIENCE, V299, P977, DOI 10.1126/science.299.5609.977
+   Lewin K., 1936, PRINCIPLES TOPOLOGIC
+   Marcinkowski F, 2014, SCI COMMUN, V36, P56, DOI 10.1177/1075547013494022
+   McAllister SM, 2012, PUBLIC RELAT REV, V38, P319, DOI 10.1016/j.pubrev.2011.12.010
+   McDowell GR, 2003, ANN AM ACAD POLIT SS, V585, P31, DOI 10.1177/0002716202238565
+   Mejlgaard N, 2019, SCI PUBL POLICY, V46, P198, DOI 10.1093/scipol/scy048
+   Metag J., 2017, STUDIES COMMUNICATIO, V6, P160, DOI [10.5771/2192-4007-2017-2-160, DOI 10.5771/2192-4007-2017-2-160]
+   Murray DL, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0155876
+   National Academies of Sciences Engineering and Medicine, 2017, COMM SCI EFF RES AG
+   National Science Board, 2016, SCI TECHN IND
+   Neresini F, 2011, PUBLIC UNDERST SCI, V20, P64, DOI 10.1177/0963662510388363
+   Neset TS, 2019, CLIMATIC CHANGE, V153, P107, DOI 10.1007/s10584-019-02391-z
+   O'Muircheartaigh C, 2009, J GERONTOL B-PSYCHOL, V64, pI12, DOI 10.1093/geronb/gbp045
+   OECD Frascati Manual, 2015, PROPOSED STANDARD PR
+   OECD Science, 2014, TECHN IND OUTL
+   Peter Cunningham, 2008, HIST EDUC, V41
+   Peters HP, 2008, SCIENCE, V321, P204, DOI 10.1126/science.1157780
+   Peters HP, 2012, SOCIOL SCI YEARB, V28, P217, DOI 10.1007/978-94-007-2085-5_11
+   Rodder S, 2011, SOCIOL COMPASS, V5, P834, DOI 10.1111/j.1751-9020.2011.00410.x
+   Rowe D, 2008, MEDIA CULT SOC, V30, P677, DOI 10.1177/0163443708094015
+   Rowe D, 2011, INT J MEDIA CULT POL, V7, P3, DOI 10.1386/mcp.7.1.3_1
+   Rummele K., 2012, OFFENTLICHE WISSENSC, P157
+   SEKARAN U, 1983, J INT BUS STUD, V14, P61, DOI 10.1057/palgrave.jibs.8490519
+   Sheehan KB, 2006, J COMPUT COMMUN, V6
+   Shih TH, 2008, FIELD METHOD, V20, P249, DOI 10.1177/1525822X08317085
+   Weerts DJ, 2008, REV HIGH EDUC, V32, P73, DOI 10.1353/rhe.0.0027
+   Weingart P, 2000, PUBLIC UNDERST SCI, V9, P261, DOI 10.1088/0963-6625/9/3/304
+   Weingart P, 1999, PUBLIC UNDERST SCI, V8, P3, DOI 10.1088/0963-6625/8/1/001
+   Weingart P, 2007, ELITE RANKINGS EMERG, P75
+NR 50
+TC 1
+Z9 1
+U1 1
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 8
+PY 2020
+VL 15
+IS 7
+AR e0235191
+DI 10.1371/journal.pone.0235191
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA MQ0QI
+UT WOS:000552601500022
+PM 32639974
+OA DOAJ Gold, Green Published, Green Accepted
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Murphy, P
+   Lamberts, R
+AF Massarani, Luisa
+   Murphy, Padraig
+   Lamberts, Rod
+TI COVID-19 and science communication: a JCOM special issue
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Editorial Material
+DE Science and media; COVID-19; Coronavirus
+AB The devastating effects of COVID-19 and the speed of both the scientific and medical response and the public information requirements about frontline healthcare work, medical advances and policy and compliance measures has necessitated an intensity of science communication never seen before. This JCOM special issue - the first of two parts - looks at the challenges of communicating COVID-19 and coronavirus in the early spread of the disease in 2020. Here we present papers from across the world that demonstrate the scale of this challenge.
+C1 [Massarani, Luisa] Natl Brazilian Inst Publ Commun Sci & Technol, Dublin, Ireland.
+   [Massarani, Luisa] Latin Amer SciDev Net, Dublin, Ireland.
+   [Murphy, Padraig] Dublin City Univ, Commun, Dublin, Ireland.
+   [Lamberts, Rod] Australian Natl Ctr Publ Awareness Sci CPAS, Canberra, ACT, Australia.
+   [Lamberts, Rod] Australian Natl Univ, Canberra, ACT, Australia.
+   [Lamberts, Rod] Australian Sci Communicators, Canberra, ACT, Australia.
+RP Massarani, L (corresponding author), Natl Brazilian Inst Publ Commun Sci & Technol, Dublin, Ireland.; Massarani, L (corresponding author), Latin Amer SciDev Net, Dublin, Ireland.
+EM luisa.massarani6@gmail.com; padraig.murphy@dcu.ie;
+   rod.lamberts@anu.edu.au
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2020
+VL 19
+IS 5
+SI SI
+AR E
+DI 10.22323/2.19050501
+PN 1
+PG 5
+WC Communication
+SC Communication
+GA OC3QF
+UT WOS:000579072400001
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Leal, T
+   Waltz, I
+AF Massarani, Luisa
+   Leal, Tatiane
+   Waltz, Igor
+TI The debate on vaccines in social networks: an exploratory analysis of
+   links with the heaviest traffic
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Article
+DE Vaccines; Social Networking; Scientific Communication and Diffusion
+ID HEALTH INFORMATION; WEB
+AB This study aims to analyze Internet traffic and interactions on soda! networks concerning vaccines. The 100 most widely shared, liked, and commented links were visited with the keyword "vaccine" from May 2018 to May 2019 to identify the main subjects, sources, and positions. The qualitative study phase used Discourse Analysis to identify modes of production of principal meanings in the chats. We further studied the fake news in the most widely shared links. The results point to a majority position in favor of vaccines (87.6%) and strong interest in health-related themes, scientific development, and health policies. Meanwhile, some of the mostly widely accessed sources of information in Brazil had no information on editorial criteria, policies, or authors, making it difficult to determine the quality and veracity of the information consumed in social networks in Brazil. Fake news accounted for 13.5% of the links with the heaviest traffic, raising concerns about misinformation on vaccines. These results point to important communication dynamics related to vaccines and opportunities to improve public communication on vaccination.
+C1 [Massarani, Luisa; Leal, Tatiane; Waltz, Igor] Inst Nacl Comunicacao Publ Ciencia & Tecnol, Av Brasil 4036,Sala 414, BR-21041361 Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa] Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Rio De Janeiro, Brazil.
+RP Massarani, L (corresponding author), Inst Nacl Comunicacao Publ Ciencia & Tecnol, Av Brasil 4036,Sala 414, BR-21041361 Rio De Janeiro, RJ, Brazil.
+EM luisa.massarani6@gmail.com
+OI Waltz, Igor/0000-0003-1903-6153; Cruz Leal Costa,
+   Tatiane/0000-0002-0410-809X
+FU Brazilian National Institute for Public Communication of Science and
+   Technology through the Brazilian National Research Council (CNPq)
+   [465658/2014-8]; Rio de Janeiro State Research Foundation (FAPERJ)Carlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ) [E-26/010.000078/2018]; FAPERJCarlos Chagas Filho
+   Foundation for Research Support of the State of Rio de Janeiro (FAPERJ)
+   [E-26/200.180/2019]; CNPqNational Council for Scientific and
+   Technological Development (CNPq) [370021/2020-7]
+FX The authors wish to acknowledge the support from the Brazilian National
+   Institute for Public Communication of Science and Technology through the
+   Brazilian National Research Council (CNPq; case n. 465658/2014-8) and
+   the Rio de Janeiro State Research Foundation (FAPERJ; case n.
+   E-26/010.000078/2018), including the postdoctoral scholarship for T.
+   Leal (FAPERJ; grant n. E-26/200.180/2019) and Technological and
+   Industrial Development scholarship for I. Waltz (CNPq; grant n.
+   370021/2020-7).
+CR Bakir V, 2018, DIGIT JOURNAL, V6, P154, DOI 10.1080/21670811.2017.1345645
+   Garbin HBD, 2008, INTERFACE-BOTUCATU, V12, P579
+   Eysenbach G, 2002, BMJ-BRIT MED J, V324, P573, DOI 10.1136/bmj.324.7337.573
+   Fragoso S, 2016, METODOS PESQUISA INT
+   Fundo das Nacoes Unidas para a Infancia, CAD AN MAIS 20 MILH
+   Gill R., 2002, PESQUISA QUALITATIVA, P244
+   Gowda C, 2013, HUM VACC IMMUNOTHER, V9, P1755, DOI 10.4161/hv.25085
+   Hine C., 2016, ETNOGRAFIA CONSUMO M, P11
+   Hortal M, 2019, REV PANAM SALUD PUBL, V43, DOI 10.26633/RPSP.2019.54
+   Kata A, 2012, VACCINE, V30, P3778, DOI 10.1016/j.vaccine.2011.11.112
+   Kata A, 2010, VACCINE, V28, P1709, DOI 10.1016/j.vaccine.2009.12.022
+   Kempe A, 2011, AM J PREV MED, V40, P548, DOI 10.1016/j.amepre.2010.12.025
+   Mendes AGLM, 2015, REVIST EDUC, V9, P1
+   Massarani L, 2019, CAD SAUDE PUBLICA, V35, DOI [10.1590/0102-311X00089619, 10.1590/0102-311x00089619]
+   Moretti FA, 2012, REV ASSOC MED BRAS, V58, P650, DOI 10.1590/S0104-42302012000600008
+   Paul C, 2016, PERSPECTIVES
+   Pinto MJ, 1999, COMUNICACAO DISCURSO
+   Quevedo JP, 2016, REV TECNOL SOC, V12, P1
+   Recuero Raquel, 2019, Galáxia (São Paulo), P31, DOI 10.1590/1982-25542019239035
+   Sacramento I., 2018, RECIIS, V12, P4
+   Silva G., 2014, CRITERIOS NOTICIABIL
+   Silva LM, 2017, AN 4 ENC REG EST BIB
+   Smith N, 2019, INFORM COMMUN SOC, V22, P1310, DOI 10.1080/1369118X.2017.1418406
+   Traquina N., 2012, TEORIAS JORNALISMO P, V1
+   United Nations Children Fund, AL GLOB SURG MEASL C
+   Vasconcellos-Silva PR, 2010, COMCIENCIA, P1
+   Wardle C, 2017, INFORM DISORDER INTE
+   Wolf M., 1999, TEORIAS COMUNICACAO
+   World Health Organization, 10 THREATS GLOB HLTH
+   Zago GS, 2014, VOZES DIALOGO 2014, V13, P5
+NR 30
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PY 2020
+VL 36
+SU 2
+AR e00148319
+DI 10.1590/0102-311X00148319
+PG 13
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA NN3EI
+UT WOS:000568674100002
+PM 32876105
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Rocha, JN
+   Massarani, L
+   De Abreu, WV
+   Inacio, LGB
+   Molenzani, AO
+AF Rocha, Jessica N.
+   Massarani, Luisa
+   De Abreu, Willian, V
+   Inacio, Luiz Gustavo B.
+   Molenzani, Aline O.
+TI Investigating accessibility in Latin American science museums and
+   centers
+SO ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS
+LA English
+DT Article
+DE accessibility; inclusion; science communication; science museums
+ID RIGHTS
+AB Science museums are powerful places not only for science communication, informal science teaching, and leisure but also for promoting science and technology in an equitable, diverse, and inclusive mode. The paper presents an overview of accessibility in Latin American science museums and centers, based on a questionnaire comprised of open and closed questions in Portuguese and Spanish. The answers received from directors and other personnel responsible for 109 institutions in twelve countries were analyzed using an accessibility indicator tool. The findings suggest that these institutions generally offer some physical accessibility resources and fewer communicational and attitudinal accessibility resources. Data also show that there is an absence of institutional practices that might underpin any endeavor to take into consideration the inclusion of people with disabilities. More funding must be made available for practices and research in this area. We also recommend that persons with disabilities play a greater role as protagonists and professionals and likewise as a research public in the realm of science communication and at the region's science museums and centers.
+C1 [Rocha, Jessica N.; De Abreu, Willian, V; Inacio, Luiz Gustavo B.; Molenzani, Aline O.] Grp Museus & Ctr Ciencias Acessiveis MCCAC, Praca Cristiano Otoni S-N,62 Andar, BR-20221430 Rio De Janeiro, RJ, Brazil.
+   [Rocha, Jessica N.] Fundacao Ctr Ciencias & Educ Super Distancia Esta, Praca Cristiano Otoni S-N,62 Andar, BR-20221430 Rio De Janeiro, RJ, Brazil.
+   [Rocha, Jessica N.; Massarani, Luisa; De Abreu, Willian, V] Inst Nacl Comun Publ Ciencia & Tecnol, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+   [Rocha, Jessica N.; Massarani, Luisa] Fundacao Oswaldo Cruz, Ctr Documentacao & Hist Saude CDHS, Divulgacao Ciencia Tecnol & Saude, Casa Oswaldo Cruz, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+   [De Abreu, Willian, V] Univ Fed Rio de Janeiro, Programa Engn Nucl PEN UFRJ, Av Horacio Macedo 2030,Bloco H,Sala 109 CT, BR-21941450 Rio De Janeiro, RJ, Brazil.
+RP Rocha, JN (corresponding author), Grp Museus & Ctr Ciencias Acessiveis MCCAC, Praca Cristiano Otoni S-N,62 Andar, BR-20221430 Rio De Janeiro, RJ, Brazil.; Rocha, JN (corresponding author), Fundacao Ctr Ciencias & Educ Super Distancia Esta, Praca Cristiano Otoni S-N,62 Andar, BR-20221430 Rio De Janeiro, RJ, Brazil.; Rocha, JN (corresponding author), Inst Nacl Comun Publ Ciencia & Tecnol, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.; Rocha, JN (corresponding author), Fundacao Oswaldo Cruz, Ctr Documentacao & Hist Saude CDHS, Divulgacao Ciencia Tecnol & Saude, Casa Oswaldo Cruz, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM jessiconorberto@yohoo.com.br
+RI de Abreu, Willian/I-5493-2018
+OI de Abreu, Willian/0000-0002-6685-2754; Norberto Rocha,
+   Jessica/0000-0002-9754-3874
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq); Departamento de Popularizacao e Difusao da Ciencia e Tecnologia,
+   Ministerio de Ciencia, Tecnologia, Inovacoes e Comunicacoes (MCTIC);
+   Universidade Federal do Para (UFPA); Fundacao Oswaldo Cruz (Fiocruz);
+   Instituto Nacional de Comunicacao Publica da Ciencia e Tecnologia
+   (INCT-CPTC); Fundacao Centro de Ciencias e Educacao Superior a Distancia
+   do Estado do Rio de Janeiro (Fundacao Cecierj); Fundacao de Amparo a
+   Pesquisa do Estado do Rio de Janeiro (FAPERJ)Carlos Chagas Filho
+   Foundation for Research Support of the State of Rio de Janeiro (FAPERJ);
+   FAPERJCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ); CNPqNational Council for Scientific and
+   Technological Development (CNPq); Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior (CAPES - Brasil)CAPES [001]
+FX We thank the following for their participation and support: Conselho
+   Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq);
+   Departamento de Popularizacao e Difusao da Ciencia e Tecnologia,
+   Ministerio de Ciencia, Tecnologia, Inovacoes e Comunicacoes (MCTIC);
+   Universidade Federal do Para (UFPA); Fundacao Oswaldo Cruz (Fiocruz);
+   Instituto Nacional de Comunicacao Publica da Ciencia e Tecnologia
+   (INCT-CPTC); Fundacao Centro de Ciencias e Educacao Superior a Distancia
+   do Estado do Rio de Janeiro (Fundacao Cecierj); and Fundacao de Amparo a
+   Pesquisa do Estado do Rio de Janeiro (FAPERJ). The first author thanks
+   FAPERJ for Jovem Cientista do Nosso Estado (JCNE) grant. The second
+   author thanks the CNPq for a productivity grant. The third author thanks
+   Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES -
+   Brasil-Codigo de financiamento 001) for its grant.
+CR ARAGALL F, 2013, DESIGN ALL PROGR TEO
+   Associacao Brasileira de Normas Tecnicas-ABNT, 2015, 9050 ABNT NBR
+   CARLETTI C, 2015, J SCI COMM, V14, P1
+   CERATI TM, 2014, THESIS
+   COHEN R, 2013, REV B CONSTANT   OCT
+   COHEN R, 2012, CADERNOS MUSEOLOGICO, P190
+   CORPAS F, 2016, CADERNO ACESSIBILIDA, V1, P11
+   DE ABREU WV, 2019, JCOM AM LAT, V02, pA04
+   DUARTE CR, 2012, ACESSIBILIDADE DESEN
+   FERREIRA F, 2017, 5 ENC NAC AC CULT 20
+   Harpur P, 2012, DISABIL SOC, V27, P1, DOI 10.1080/09687599.2012.631794
+   HEIN G., 2003, ACCESSIBLE PRACTICES
+   INACIO LGB, 2017, INDICADORES ACESSIBI
+   Levent N, 2013, J MUS EDUC, V38, P218, DOI 10.1179/1059865013Z.00000000023
+   MARANDINO M, 2018, J SCI COMM AM LAT, V01, P6
+   MASSARANI L, 2015, GUIA CTR MUSEUS CIEN
+   Massarani L, 2014, JCOM-J SCI COMMUN, V13
+   Meekosha H, 2011, THIRD WORLD Q, V32, P1383, DOI 10.1080/01436597.2011.614800
+   MINELO M., 2004, TEMAS MUSEOLOGIA MUS
+   NATIONAL MUSEUMS OF SCOTLAND, 2002, EXH ALL PRACT GUID D
+   NORBERTO ROCHA J, 2017, GUIA MUSEUS CTR CIEN
+   NORBERTO ROCHA J, 2017, APROXIMACIONES INVES, P169
+   NORBERTO ROCHA J, 2018, THESIS, DOI [10.11606/T.48.2018.tde-03122018-122740, DOI 10.11606/T.48.2018.TDE-03122018-122740]
+   Ollerton J, 2013, DISABIL SOC, V28, P616, DOI 10.1080/09687599.2012.717881
+   ONEIL M., 2008, RETHINKING DISABILIT, P29
+   REICH C, 2010, INCLUSION DISABILITI
+   Reich C. A., 2014, THESIS
+   SARRAF Viviane Panelli, 2008, THESIS
+   SARRAF VP, 2013, THESIS
+   SMITHSONIAN ACCESSIBILITY PROGRAM, 1996, SMITHS GUID ACC EXH
+   TOJAL A., 2015, REV MUS INTERDIS, V4, P190
+   TOJAL Amanda Pinto da Fonseca, 2007, THESIS
+   United Nations, 2006, CONV RIGHTS PERS DIS
+   W3C BRASIL, 2013, CART AC WEB
+NR 34
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ACAD BRASILEIRA DE CIENCIAS
+PI RIO JANEIRO
+PA RUA ANFILOFIO DE CARVALHO, 29, 3 ANDAR, 20030-060 RIO JANEIRO, BRAZIL
+SN 0001-3765
+EI 1678-2690
+J9 AN ACAD BRAS CIENC
+JI An. Acad. Bras. Cienc.
+PY 2020
+VL 92
+IS 1
+AR e20191156
+DI 10.1590/0001-3765202020191156
+PG 16
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA LI2YN
+UT WOS:000529349600001
+PM 32321029
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Poenaru, LM
+   Rocha, JN
+   Rowe, S
+   Falla, S
+AF Massarani, Luisa
+   Poenaru, Lara Mucci
+   Rocha, Jessica Norberto
+   Rowe, Shawn
+   Falla, Sigrid
+TI Adolescents learning with exhibits and explainers: the case of Maloka
+SO INTERNATIONAL JOURNAL OF SCIENCE EDUCATION PART B-COMMUNICATION AND
+   PUBLIC ENGAGEMENT
+LA English
+DT Article
+DE Adolescents; science centres; free-choice learning; explainers
+ID CHOICE; SCHOOL
+AB This qualitative and exploratory study aimed to understand the experience of adolescents during visits outside the school context in science museums and centres, and how the free-choice learning processes are constructed in this context. We analyzed the visits of four adolescents groups, from public schools, to Maloka (Bogota, Colombia), and observed the relations of the visitors with their peers, with the exhibits, and with the explainers. For this objective, we examine video and audio recordings in terms of types of interaction and conversational content, seeking to answer: Is the explainer a necessary component of a visit to promote sustained cognitive engagement, or do non-guided activities also create enough interest to promote and sustain cognitive engagement? Active meaning-making was observed during the interactions with exhibits and explainers. In the latter case, the presence of the explainer appears to lead to refinement and complexification were in the sense making and activity of adolescents. In accordance with their sustained engagements and motivations, they mobilized knowledge and previous experiences in the relation with exhibits, in an engaged and autonomous manner, creating learning opportunities based on free-choice, which was reflected in their discussions about scientific themes or in the manual, mental and cultural interactions.
+C1 [Massarani, Luisa; Rocha, Jessica Norberto; Rowe, Shawn] Natl Inst Publ Commun Sci & Technol, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa; Rocha, Jessica Norberto] Fundacao Oswaldo Cruz, Master Commun Sci Technol & Hlth, House Oswaldo Cruz, Rio De Janeiro, RJ, Brazil.
+   [Poenaru, Lara Mucci] Fed Inst Para, Belem, Para, Brazil.
+   [Rocha, Jessica Norberto] Cecierj Fdn, Rio De Janeiro, RJ, Brazil.
+   [Rowe, Shawn] Oregon State Univ, Corvallis, OR 97331 USA.
+   [Falla, Sigrid] Maloka Interact Sci Ctr, Bogota, Colombia.
+RP Massarani, L (corresponding author), Natl Inst Publ Commun Sci & Technol, Rio De Janeiro, RJ, Brazil.; Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Master Commun Sci Technol & Hlth, House Oswaldo Cruz, Rio De Janeiro, RJ, Brazil.
+EM luisa.massarani@gmail.com
+RI Rowe, Shawn/AAQ-5304-2020; Rocha, Jessica Norberto/S-7848-2019
+OI Rocha, Jessica Norberto/0000-0002-9754-3874; Rowe,
+   Shawn/0000-0003-2162-0551; Falla Morales, Sigrid/0000-0003-4072-9026
+FU Conselho Nacional de Desenvolvimento Cientifico e TecnologicoNational
+   Council for Scientific and Technological Development (CNPq)
+   [440675/2015-4]; Fundacao Carlos Chagas Filho de Amparo a Pesquisa do
+   Estado do Rio de JaneiroCarlos Chagas Filho Foundation for Research
+   Support of the State of Rio de Janeiro (FAPERJ) [232681]
+FX This work was supported by Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico: [grant number 440675/2015-4]; Fundacao Carlos
+   Chagas Filho de Amparo a Pesquisa do Estado do Rio de Janeiro: [grant
+   number 232681].
+CR Allard M., 1995, RESEAU, P14
+   Allard M., 1998, EDUQUER MUSEE MODELE
+   Allard M., 1998, GUIDE PLANIFICATION
+   Allen S., 2004, CURATOR, V47, P199, DOI [10.1111/j.2151-6952.2004.tb00117.x, DOI 10.1111/J.2151-6952.2004.TB00117.X]
+   Amorocho A., 2011, MEDIADORES EDUCADORE
+   Bruner J. S., 1990, ACTS MEANING
+   CAZELLI Sibele, 2003, EDUCACAO MUSEU CONST, P83
+   Dabney KP, 2012, INT J SCI EDUC PART, V2, P63, DOI 10.1080/21548455.2011.629455
+   Daza-Caicedo S., 2014, PERCEPCIONES CIENCIA
+   Dierking L. D., 2014, ENCY SCI ED, P1
+   Engestrom Y, 2010, EDUC RES REV-NETH, V5, P1, DOI 10.1016/j.edurev.2009.12.002
+   Falk J.H., 2012, MUSEUM EXPERIENCE RE
+   Falk J.H., 2000, LEARNING MUSEUMS VIS
+   Falk JH, 2011, J RES SCI TEACH, V48, P1, DOI 10.1002/tea.20394
+   Falk JH, 2010, AM SCI, V98, P486, DOI 10.1511/2010.87.486
+   Falla S., 2014, THESIS
+   Falla S., 2016, OLHAR VISITANTE, P55
+   Forte DF, 2014, END OF ACADEMIC FREEDOM: THE COMING OBLITERATION OF THE CORE PURPOSE OF THE UNIVERSITY, P1
+   Glaser B, 1967, DISCOVERY GROUNDED T
+   Gomes Isabel, 2016, Ens. Pesqui. Educ. Ciênc. (Belo Horizonte), V18, P23, DOI 10.1590/1983-21172016180102
+   Good L., 2013, THESIS
+   Heath Shirley Brice, 2012, ENCY DIVERSITY ED, P1194
+   Hein G., 1995, J ED MUSEUMS, V16, P21
+   Jagger SL, 2012, MUS MANAG CURATORSHI, V27, P357, DOI 10.1080/09647775.2012.720185
+   Kisiel J, 2012, SCI EDUC, V96, P1047, DOI 10.1002/sce.21036
+   Lavonen J, 2008, J BALT SCI EDUC, V7, P86
+   Legendre A., 1983, ENFANCE PSYCHOL PEDA, V36, P389
+   LIFE Center: Stevens Reed and John Bransford, 2005, LIFE CTR LIFELONG LI
+   Liu C.L., 2012, THESIS
+   Marandino M., 2008, EDUCACAO MUSEUS MEDI
+   McLean KM, 1993, PLANNING PEOPLE MUSE
+   Natl Res Council, 2009, LEARNING SCIENCE IN INFORMAL ENVIRONMENTS: PEOPLE, PLACES, AND PURSUITS, P1
+   Orozco G., 1989, SIGNO PENSAM, V14, P9
+   Panizzon D., 2014, ENCY SCI ED, P1
+   Patino M. L., 2017, DIAGNOSTICO DIVULGAC
+   Patton M. Q., 2002, QUALITATIVE RES EVAL
+   Phipps M, 2010, VISIT STUD, V13, P3, DOI 10.1080/10645571003618717
+   Polino C., 2011, ESTUDIANTES CIENCIA
+   Prokop P, 2007, J BIOL EDUC, V42, P36, DOI 10.1080/00219266.2007.9656105
+   Rodari P., 2007, DIALOGOS CIENCIA MED, P7
+   Rogoff B, 2003, ANNU REV PSYCHOL, V54, P175, DOI 10.1146/annurev.psych.54.101601.145118
+   Roschelle J., 1995, PUBLIC I PERSONAL LE, P37
+   Rowe S., 2016, DIVULGACAO CIENTIFIC, P9
+   Rowe S., 2001, ASTC DIMENSIONS, P5
+   Sjoberg S., 2010, ROSE PROJECT OVERVIE
+NR 45
+TC 0
+Z9 1
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 2154-8455
+EI 2154-8463
+J9 INT J SCI EDUC PART
+JI Int. J. Sci. Educ. Part B-Commun. Public Engagem.
+PD JUL 3
+PY 2019
+VL 9
+IS 3
+BP 253
+EP 267
+DI 10.1080/21548455.2019.1646439
+EA JUL 2019
+PG 15
+WC Education & Educational Research
+SC Education & Educational Research
+GA IR9XD
+UT WOS:000479497000001
+DA 2020-12-16
+ER
+
+PT J
+AU Reznik, G
+   Massarani, L
+   Moreira, ID
+AF Reznik, Gabriela
+   Massarani, Luisa
+   Moreira, Ildeu de Castro
+TI How does the image of the scientist appear in short animation films?
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Article
+DE science communication; representation of science and technology;
+   stereotypical scientist; short films; Anima Mundi Festival
+ID FEMALE SCIENTISTS; TELEVISION; SCIENCE; WOMEN
+AB This is a study on the way science and scientists are represented in short films on science and technology featured in Anima Mundi Festival (1993-2013), considering symbolic elements that contribute to the image of science. Amongst 405 films on science and technology, 102 were selected for analysis. Brazilian productions predominated (91), as did films featuring genetics, biotechnology, and astronomy. The narratives mostly address technology development, ethical considerations, and explanations of scientific processes. Scientists appear in 80% of the films - mostly white men, wearing a white coat or uniform, in secret laboratories. Scientists' presence in public spaces - stages, the media, industry - indicates a call for their greater visibility in society.
+C1 [Reznik, Gabriela] Univ Fed Rio de Janeiro, Programa Educ Gestao & Difusao Biociencias, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa] Inst Nacl Comunicacao Publ Ciencia & Tecnol, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa] Fiocruz MS, Rio De Janeiro, RJ, Brazil.
+   [Moreira, Ildeu de Castro] Univ Fed Rio de Janeiro, Dept Fis Teor, Rio De Janeiro, RJ, Brazil.
+RP Reznik, G (corresponding author), Univ Fed Rio de Janeiro, Programa Educ Gestao & Difusao Biociencias, Rio De Janeiro, RJ, Brazil.
+EM gabirz@gmail.com; luisa.massarani5@gmail.com; ildeucastro@gmail.com
+OI Reznik, Gabriela/0000-0002-8113-7505
+CR Almeida C.J., 2012, THESIS
+   BAUER M, 1995, SCI TECHNOLOGY BRIT
+   Benabdallah Adel, 2008, STOPMO
+   Bjarnason Matthias, 2009, PROJECT ALPHA
+   Blaszczyk Anna, 2009, RETURN
+   Bouchard Patrick, 2002, RAMONEURS RAMONEURS
+   Castelfranchi Y., 2008, THESIS
+   CASTELFRANCHI Yurij, 2003, REV COMCIENCIA
+   Chambers DW, 1983, SCI ED, V67, P255, DOI DOI 10.1002/SCE.3730670213
+   Chimba M, 2010, PUBLIC UNDERST SCI, V19, P609, DOI 10.1177/0963662510377233
+   Cohen Dafna, 2007, MOON SEEK
+   de Noijer Paul, 1992, STOP GREENHOUSE EFFE
+   Del Carlo Flavio, 2000, YURI GAGARIN
+   DEMEIS L, 1993, BIOCHEM EDUC, V21, P75, DOI 10.1016/0307-4412(93)90043-Y
+   di Mambro Mateus, 2012, QUE ANIMAIS SAO DIFE
+   DUARTE Rosalia, 2002, CINEMA EDUCACAO REFL
+   EISNER Will, 2005, FAGIN JUDEU
+   ENTMAN RM, 1993, J COMMUN, V43, P51, DOI 10.1111/j.1460-2466.1993.tb01304.x
+   FARIA Cristiane Aparecida Gomes, 2015, THESIS
+   Finson K. D., 1995, SCH SCI MATH, V95, P195, DOI DOI 10.1111/J.1949-8594.1995.TB15762.X
+   Flicker E, 2003, PUBLIC UNDERST SCI, V12, P307, DOI 10.1177/0963662503123009
+   Ford D. C., 1989, SCI CHILDREN, V26, P8
+   Forero Sergio Mejia, 2012, ANIMALARIO
+   GIL PEREZ Daniel, 2001, CIENCIA EDUCACAO, V07, P125, DOI DOI 10.1590/S1516-73132001000200001
+   GRAcA Marina Estela, 2006, ENTRE OLHAR GESTO EL
+   Haynes R, 2003, PUBLIC UNDERST SCI, V12, P243, DOI 10.1177/0963662503123003
+   Haynes R. D., 2014, PUBLIC UNDERST SCI, V25, P31
+   Hope Tim, 1999, WOLFMAN
+   Kharitidi Alexij, 1993, GAGARIN
+   KIRBY David A., 2008, HDB PUBLIC COMMUNICA
+   Leon B, 2008, PUBLIC UNDERST SCI, V17, P443, DOI 10.1177/09636625056073089
+   Lewenstein B. V., 2005, MODELS PUBLIC COMMUN
+   Lieberman Sheldon, 2007, GLOBAL WARMING
+   Lombardo Nick, 2006, AERONAUT
+   Long M, 2010, SCI COMMUN, V32, P356, DOI 10.1177/1075547009357779
+   MacAdams Peter, 2001, EXPLODIUM
+   MARANDINO M, 2009, ENSINO BIOL HIST PRA
+   Marao Marcelo, 1996, CEBOLAS CEBOLAS SAO
+   MEAD M, 1957, SCIENCE, V126, P384, DOI 10.1126/science.126.3270.384
+   MERZAGORA Matteo, 2010, SCI IMAGINARY VISUAL
+   Mesquita Nyuara Araújo da Silva, 2008, Ciênc. educ. (Bauru), V14, P417, DOI 10.1590/S1516-73132008000300004
+   Miranda Paulo, 2009, RUPESTRE
+   Miranda Paulo Guilherme Costa, 2004, FILME ILHADO
+   Morrison Sam, 2006, ROCKET SCI
+   Nakamura Eduardo Takao, 2009, BUBA AQUECIMENTO GLO
+   ODELL M.R.I., 1993, ANNALS
+   Siqueira DDO, 2006, EM QUESTAO, V12, P131
+   Oliveira Vanessa, 2012, PARALAXE
+   Osborne Mark, 1998, MORE
+   Paiva William, 2011, HOMEM PLANTA
+   PANSEGRAU Petra, 2008, SCI IMAGES POPULAR I
+   Pesch Oliver, 2012, EMILIE
+   RAMALHO Marina, 2013, THESIS
+   RAMALHO Marina, 2012, MONITORAMENTO CAPACI
+   Reinelt Klaus, 2000, KANN ICH KANN ICH WA
+   REZENDE FILHO Luiz Augusto Coimbra, 2011, REV BRASILEIRA PESQU, V11, P183
+   REZENDE FILHO Luiz Augusto Coimbra, 2015, ALEXANDRIA, V8, P143
+   REZNIK Gabriela, 2017, THESIS
+   Salaff Andres, 2009, LIFELINE
+   SALZANO Francisco M., 2012, GENOMICA EVOLUCAO MO
+   Schorr Daniel, 1997, HELLO DOLLY
+   SCHUMMER Joachim, 2007, SCI IMAGES POPULAR I, P69
+   Smith Patrick, 2011, MASKS
+   Solterbeck Jeremy, 2000, MOVING ILLUSTRATIONS
+   Steinke J, 2012, SCI COMMUN, V34, P163, DOI 10.1177/1075547011410250
+   t' Hooft Albert, 2008, PAULTJE PAULTJE DRAA
+   Tamura Shigero, 1993, URSA MINOR BLUE
+   Tedesco Bruno Sarracceni, 2003, DR FLY ENGOLINDO SAP
+   Tenorio Marlon Amorim, 2012, ROCKSTAR ORIGEM META
+   Thonon Marc, 1996, FRANCA
+   Weingart P, 2006, HYLE, V12, P31
+   Weldon John, 1990, TO BE
+   WHITELEGG Elizabeth, 2008, INVISIBLE WITNESS IN
+   Wylie Joe, 1993, NIGHT WATCHMAN
+   XAVIER Ismail, 1983, EXPERIENCI DO CINEMA
+   Yee Kristine, 2013, MISS TODD
+NR 76
+TC 1
+Z9 1
+U1 0
+U2 2
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD JUL-SEP
+PY 2019
+VL 26
+IS 3
+BP 753
+EP 777
+DI 10.1590/S0104-59702019000300003
+PG 25
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA IY8VZ
+UT WOS:000486674200003
+PM 31531575
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Antunes, AP
+   Massarani, L
+   Moreira, ID
+AF Antunes, Anderson Pereira
+   Massarani, Luisa
+   Moreira, Ildeu de Castro
+TI "Practical Botanists and Zoologists": Contributions of Amazonian Natives
+   to Natural History Expeditions (1846-1865)
+SO HISTORIA CRITICA
+LA English
+DT Article
+DE Brazilian Amazonia; circulation of knowledge; Natural History; 19th
+   century
+AB Objective/context: This paper analyses the relations between 19th century travelling naturalists and the indigenous inhabitants of Brazilian Amazonia. The region was a favourite among travellers during the latter half of the 19th century. On their travel books, naturalists reported not only on local Nature, but also on local inhabitants and their contributions to the expeditions, making them valuable sources for understanding the interactions between them and the natives. Originality: The originality of the paper rests in the use of a diverse set of primary sources, in the form of 19th century travel books. The article contributes to the current historiography on Natural History expeditions while aiming specifically at the relations between naturalists and the indigenous inhabitants of the region. Methodology: The analysis relies on primary sources, which consist mainly of the travel books written and published by some of the most well-known 19th century travelling naturalists that visited the Brazilian Amazonia. It is from their personal reports and observations that we aim to understand, on the one hand, how these foreign naturalists interacted with the local indigenous inhabitants and, on the other, how the natives were able contribute to the scientific expeditions led by European naturalists. Conclusions: It is safe to conclude that the indigenous inhabitants of Brazilian Amazonia were a constant presence during 19th century expeditions in the region. The interactions between naturalists and natives, sometimes mediated by a third party, were often essential to the success of these expeditions. The principal contribution of the indigenous inhabitants, as stated by the naturalists themselves, was the aid in the collection of specimens. The natives' expertise on the habits and habitats of animals and plants, paired with their hunting and to navigational skills through the region's complex river system, seem to have been a subject of admiration as well as a source of information and specimens.
+C1 [Antunes, Anderson Pereira] Fiocruz MS, Fundacao Oswaldo Cruz, Hist Sci & Med, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] Fiocruz MS, Fundacao Oswaldo Cruz, Master Commun Sci Technol & Hlth, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] Fiocruz MS, Fundacao Oswaldo Cruz, Hist Sci & Med Postgrad Programme, Casa Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Moreira, Ildeu de Castro] Univ Fed Rio de Janeiro, Phys, Rio De Janeiro, Brazil.
+RP Antunes, AP (corresponding author), Fiocruz MS, Fundacao Oswaldo Cruz, Hist Sci & Med, Rio De Janeiro, Brazil.
+EM anderson.p.antunes@gmail.com; luisa.massarani6@gmail.com;
+   ildeucastro@gmail.com
+RI Antunes, Anderson Pereira/ABD-3003-2020
+OI Antunes, Anderson Pereira/0000-0001-7133-7848
+CR Abdalla Frederico Tavares de Mello, 2012, THESIS
+   Agassiz Louis, 1865, COMMUNICATION 1 1226
+   Agassiz Louis, 1868, JOURNEY BRAZIL
+   [Anonymous], NATURALIST RIVER AMA
+   Antunes Anderson, 2016, REV BRASILEIRA HIST, V9, P113
+   Antunes Anderson Pereira, 2018, SCI DIALOGUE LINKING, P382
+   Antunes Anderson Pereira, 2015, THESIS
+   Bates H. W., 1863, NATURALIST RIVER AMA
+   Camerini Jane, 1997, VICTORIAN SCI CONTEX, P354
+   Camerini JR, 1996, OSIRIS, V11, P44, DOI 10.1086/368754
+   Conner Clifford D, 2005, PEOPLES HIST SCI
+   Domingues A, 2013, REV INDIAS, V73, P365, DOI 10.3989/revindias.2013.012
+   Edwards William Henry, 1847, VOYAGE AMAZON INCLUD
+   Fan FT, 2003, OSIRIS, V18, P60, DOI 10.1086/649377
+   GINZBURG Carlo, 1989, MITOS EMBLEMAS SINAI
+   Hodacs H, 2011, BRIT J HIST SCI, V44, P183, DOI 10.1017/S0007087410000750
+   KURY L., 2001, HIST CIENC SAUDE-MAN, VVIII, P863
+   KURY Lorelai Brilhante, 2009, COMISSAO CIENTIFICA
+   Lisboa Karen Macknow, 1997, NOVA ATLANTIDA SPIX
+   Machado Maria Helena P. T, 2010, RASTROS RACAS L AGAS
+   Machado Maria Helena P. T, 2010, REV HIST BIBLIOTECA, V1, P14
+   Markham Clements R., 1895, J ANTHR I GREAT BRIT, V24, P236
+   Menand Louis, 2001, J BLACKS HIGH EDUC, V34, P110
+   Moreira IC, 2002, CIENCIA HOJE, V31, P40
+   Moreira Ildeu de Castro, 2001, 21 INT C HIST SCI ME
+   Museum of Comparative Zoology, 1867, ANN REP TRUST MUS CO
+   PRATT Mary Louise, 1999, OLHOS IMPERIO RELATO
+   Raj K., 2010, RELOCATING MODERN SC
+   Schiebinger Londa, 2004, PLANTS EMPIRE
+   Shapin Steven, 1994, SOCIAL HIST TRUTH CI
+   SPRUCE R., 1908, NOTES BOT AMAZON AND
+   Turner Frank M., 1997, VICTORIAN SCI CONTEX, p[283, 286]
+   Wallace A. R, 1853, NARRATIVE TRAVELS AM
+   Wallace Alfred Russel, 1905, MY LIFE RECORD EVENT
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 2
+PU UNIV LOS ANDES, FAC CIENCIAS SOC
+PI BOGOTA
+PA SOCIAL SCIENC FACULTY, CARRERA 1A ESTE NO 18A-10, BOGOTA, 00000,
+   COLOMBIA
+SN 0121-1617
+J9 HIST CRITICA
+JI Hist. Crit.
+PD JUL-SEP
+PY 2019
+IS 73
+BP 137
+EP 160
+DI 10.7440/histcrit73.2019.07
+PG 24
+WC History
+SC History
+GA II8ZT
+UT WOS:000475483800007
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU De Carvalho, VB
+   Massarani, L
+AF De Carvalho, Vanessa Brasil
+   Massarani, Luisa
+TI University radios in a convergence scenario: thoughts about the
+   professional formation and the university role
+SO CHASQUI-REVISTA LATINOAMERICANA DE COMUNICACION
+LA Portuguese
+DT Article
+DE Science on TV; Brazilian TV; Advertising; TV Globo; TV Record
+AB In this paper, we analysed advertisements broadcast by the two highest audience Brazilian TV channels (TV Globo and TV Record), which presented issues related to science in their narratives. The advertisements were analysed using a content analysis protocol and processed by mixed analysis QDAMiner software. Our results show that TV Record vehiculated more advertisements with scientific approach than TV Globo and health and aesthetic issues were the most frequent subjects. Science was used as a way to legitimize products and brands, in order to contribute to convincing viewers.
+C1 [De Carvalho, Vanessa Brasil] Univ Fed Rio de Janeiro, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] Inst Nacl Comunicacao Publ Ciencia & Tecnol, Rio De Janeiro, Brazil.
+RP De Carvalho, VB (corresponding author), Univ Fed Rio de Janeiro, Rio De Janeiro, Brazil.
+EM vanessabrasilcarvalho@gmail.com; luisa.massarani5@gmail.com
+CR Almeida SD, 2002, REV SAUDE PUBL, V36, P353, DOI 10.1590/s0034-89102002000300016
+   Amorim L., REV BRASILEIRA ENSIN, V1, P73
+   [Anonymous], 2016, INV PUBL MEIOS COM J
+   [Anonymous], 1998, RED REC 45 AN HIST
+   [Anonymous], 2017, TEL
+   Aronchi J., 2004, GENEROS FORMATOS TEL
+   AZEVEDO Germana Santos, 2010, FARMACIA CIENCIA BRA, V1, P3
+   Bolano C., 1988, MERCADO BRASILEIRO T
+   Carmo A., 2014, CAMBIASSU ESTUDOS CO, V19, P4
+   CASHMORE E., 1998, TELEVISAO SE FEZ
+   Ferreira A., 2009, SER, V1, P56
+   Fialho A., 2008, REV SPCNA, V14, P577
+   Grupo globo, 2017, GRUP GLOB
+   Haberkamp C., 2013, THESIS
+   Instituto Brasileiro de Geografia e Estatistica, 2016, AC INT TEL POSS TEL
+   Jacks N., 2006, COMUNICACAO MIDIA CO, V3, P113
+   Jacks N., 2008, MEIOS AUDIENCIAS EME
+   Lewis RB, 2007, FIELD METHOD, V19, P87, DOI 10.1177/1525822X06296589
+   LUCAS L., 2006, COMUNICACAO MIDIA CO, V3, P81
+   Lucas L., 2007, ENC AN COMP ASS NAC, P93
+   Maldonado Torres H., 2012, THESIS
+   MATTOS Sergio, 2010, HIST TELEVISAO BRASI
+   Melo A., 2005, THESIS
+   Piedras E., 2014, MEIOS AUDIENCIAS, P171
+   Ramalho M., J SCI COMMUNICATION, V11, P1
+   Ramalho M., MONITORAMENTO CAPACI
+   Reimao S., 2000, TELEVISAO AM LATINA, P7
+   Rondelli D., 2004, THESIS
+   Rosa A., 2005, THESIS
+   Trench B., 2003, MEDIA STUDIES MODULE
+   Wolton D., 2006, ELOGIO GRANDE PUBLIC
+   Wzorek L., 2005, THESIS
+NR 32
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CENTRO INT ESTUDIOS SUPERIORES COMUNICACION AMER LATINA-CIESPAL
+PI QUITO
+PA AVE DIEGO ALMAGRO N32-133 & ANDRADE MARIN, QUITO, 00000, ECUADOR
+SN 1390-1079
+EI 1390-924X
+J9 CHASQUI-REV LAT COM
+JI CHASQUI
+PD APR-JUL
+PY 2019
+IS 140
+BP 285
+EP 301
+PG 17
+WC Communication
+SC Communication
+GA IZ2GK
+UT WOS:000486904500018
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Riedlinger, M
+   Metcalfe, J
+   Baram-Tsabari, A
+   Entradas, M
+   Joubert, M
+   Massarani, L
+AF Riedlinger, Michelle
+   Metcalfe, Jenni
+   Baram-Tsabari, Ayelet
+   Entradas, Marta
+   Joubert, Marina
+   Massarani, Luisa
+TI Telling stories in science communication: case studies of
+   scholar-practitioner collaboration
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Article
+DE Professionalism; professional development and training in science
+   communication; Scholarly communication
+ID NARRATIVES; CONTEXT
+AB Reflecting on the practice of storytelling, this practice insight explores how collaborations between scholars and practitioners can improve storytelling for science communication outcomes with publics. The case studies presented demonstrate the benefits of collaborative storytelling for inspiring publics, promoting understanding of science, and engaging publics more deliberatively in science. The projects show how collaboration between scholars and practitioners [in storytelling] can happen across a continuum of scholarship from evaluation and action research to more critical thinking perspectives. They also show how stories of possible futures and community efficacy can support greater engagement of publics in evidence-informed policymaking. Storytelling in collaborations between scholars and practitioners involves many activities: combining cultural and scientific understandings; making publics central to storytelling; equipping scientists to tell their own stories directly to publics; co-creating stories; and retelling collaborative success stories. Collaborative storytelling, as demonstrated in these case studies, may improve the efficacy of science communication practice as well as its scholarship.
+C1 [Riedlinger, Michelle] Univ Fraser Valley, Abbotsford, BC, Canada.
+   [Riedlinger, Michelle] SWCC, Toronto, ON, Canada.
+   [Riedlinger, Michelle; Metcalfe, Jenni] Publ Commun Sci & Technol PCST Global Network, Aberdeen, Scotland.
+   [Metcalfe, Jenni] Econnect Commun, West End, Qld, Australia.
+   [Baram-Tsabari, Ayelet] Technion Israel Inst Technol, Fac Educ Sci & Technol, Haifa, Israel.
+   [Baram-Tsabari, Ayelet] Appl Sci Commun Res Grp, Bristol, Avon, England.
+   [Baram-Tsabari, Ayelet; Entradas, Marta; Joubert, Marina; Massarani, Luisa] Publ Commun Sci & Technol PCST Global Network, Sci Comm, Aberdeen, Scotland.
+   [Entradas, Marta] Univ Inst Lisbon, ISCTE IUL, Lisbon, Portugal.
+   [Entradas, Marta] LSE, London, England.
+   [Entradas, Marta] Int Project MORE PE MObilisat REsources Publ Enga, Lisbon, Portugal.
+   [Entradas, Marta] Cornell Univ, Ithaca, NY 14853 USA.
+   [Joubert, Marina] Stellenbosch Univ, CREST, Stellenbosch, South Africa.
+   [Massarani, Luisa] Brazilian Natl Inst Publ Commun Sci & Technol, Sao Paulo, SP, Brazil.
+   [Massarani, Luisa] Fundacao Oswaldo Cruz, House Oswaldo Cruz, Master Sci Technol & Hlth Commun, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa] SciDev Net, Latin Amer & Caribbean, Wallingford, Oxon, England.
+RP Riedlinger, M (corresponding author), Univ Fraser Valley, Abbotsford, BC, Canada.; Riedlinger, M (corresponding author), SWCC, Toronto, ON, Canada.; Riedlinger, M (corresponding author), Publ Commun Sci & Technol PCST Global Network, Aberdeen, Scotland.
+EM michelle.riedlinger@ufv.ca; jenni@econnect.com.au;
+   ayelet@technion.ac.il; marta.entradas@gmail.com;
+   marinajoubert@sun.ac.za; luisa.massarani6@gmail.com
+RI Joubert, Marina/AAG-8213-2020
+OI Joubert, Marina/0000-0003-0178-1796; Riedlinger,
+   Michelle/0000-0003-4402-4824; Entradas, Marta/0000-0001-7146-9912
+CR Avraamidou L, 2009, INT J SCI EDUC, V31, P1683, DOI 10.1080/09500690802380695
+   Baram-Tsabari A., 2019, EMERGENCE MODERN SCI
+   Biotechnology and Biological Sciences Research Council, 2013, BIOEN DIAL FIN REP
+   BLEEK WHI, 1911, SPECIMENS BUSHMEN FO
+   Business Enterprise and Regulatory Reform, 2008, REN EN AW ATT RES, P1
+   Case RA, 2018, J COMMUNITY PRACT, V26, P184, DOI 10.1080/10705422.2018.1449044
+   Cawkwell PB, 2016, MED HUMANIT, V42, P31, DOI 10.1136/medhum-2015-010761
+   Dahlstrom MF, 2018, PLOS BIOL, V16, DOI 10.1371/journal.pbio.2006720
+   Dahlstrom MF, 2014, P NATL ACAD SCI USA, V111, P13614, DOI 10.1073/pnas.1320645111
+   Dahlstrom MF, 2012, SCI COMMUN, V34, P592, DOI 10.1177/1075547012454597
+   de Graaf A, 2016, REV COMMUN RES, V4, P88, DOI 10.12840/issn.2255-4165.2016.04.01.011
+   Downs JS, 2014, P NATL ACAD SCI USA, V111, P13627, DOI 10.1073/pnas.1317502111
+   Du Plessis M., 2014, COURAGE KABBO, P275
+   Entradas M, 2016, PUBLIC UNDERST SCI, V25, P490, DOI 10.1177/0963662514556207
+   Garty E., 2018, COMMUNICATION   0403
+   Goulden M., 2011, BBSRC SUSTAINABLE BI
+   Gross L, 2018, PLOS BIOL, V16, DOI 10.1371/journal.pbio.2005226
+   Han H, 2015, SCI COMMUN, V37, P396, DOI 10.1177/1075547014560828
+   Hinyard LJ, 2007, HEALTH EDUC BEHAV, V34, P777, DOI 10.1177/1090198106291963
+   Jones MD, 2017, PALGR COMMUN, V3, DOI 10.1057/s41599-017-0047-7
+   Kaplan M., 2017, OXFORD HDB SCI SCI C
+   Kirby DA, 2013, STUD HIST PHI PART C, V44, P92, DOI 10.1016/j.shpsc.2012.09.007
+   Martinez-Conde S, 2017, P NATL ACAD SCI USA, V114, P8127, DOI 10.1073/pnas.1711790114
+   Massarani Luisa, 2019, Ciênc. educ. (Bauru), V25, P467, DOI 10.1590/1516-731320190020012
+   Massarani Luisa, 2019, Ens. Pesqui. Educ. Ciênc. (Belo Horizonte), V21, pe10524, DOI 10.1590/1983-21172019210115
+   Miller S, 2008, COMMUNICATING SCIENCE IN SOCIAL CONTEXTS: NEW MODELS, NEW PRACTICES, P275, DOI 10.1007/978-1-4020-8598-7_16
+   Negrete A, 2004, ENDEAVOUR, V28, P120, DOI 10.1016/j.endeavour.2004.07.003
+   Olson R, 2009, DONT BE SUCH SCI TAL
+   Olson R., 2015, HOUSTON WE HAVE NARR
+   Olson R, 2013, SCIENCE, V342, P1168, DOI 10.1126/science.342.6163.1168-a
+   Pacheco R., 2016, BRIDGING GAP INTERES
+   Resch G, 2008, ENERG POLICY, V36, P4048, DOI 10.1016/j.enpol.2008.06.029
+   Shelby A, 2013, HUM VACC IMMUNOTHER, V9, P1795, DOI 10.4161/hv.24828
+   Sheppard SRJ, 2011, FUTURES, V43, P400, DOI 10.1016/j.futures.2011.01.009
+   Stewart IS, 2013, P GEOLOGIST ASSOC, V124, P699, DOI 10.1016/j.pgeola.2012.08.008
+   Weingart P, 2000, PUBLIC UNDERST SCI, V9, P261, DOI 10.1088/0963-6625/9/3/304
+   Zak P. J., 2015, CEREBRUM, V2
+   Zebregs S., 2014, HEALTH COMMUN, V30, P282
+NR 38
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2019
+VL 18
+IS 5
+SI SI
+AR N01
+DI 10.22323/2.18050801
+PG 14
+WC Communication
+SC Communication
+GA JT3SB
+UT WOS:000500912000006
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Reznik, G
+   Massarani, LM
+AF Reznik, Gabriela
+   Massarani, Luisa Medeiros
+TI Gender and science in animation: analysis of the Anima Mundi Festival
+   films
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Article
+DE Representations of science and technology; Science and technology; art
+   and literature; Women in science
+ID WISHFUL IDENTIFICATION; FEMALE SCIENTISTS; REPRESENTATIONS; PORTRAYALS;
+   CHARACTERS
+AB We used content analysis to analyse the representation of female scientists in animated short films on gender and science, selected from the Anima Mundi Festival, over 21 annual editions. In these films, female scientists are featured as 'intelligent', 'dominant' and 'well respected', adult, white, wearing a lab coat or uniform and working in laboratories and fieldwork. We identified a reconfiguration of the gender stereotype in films in which the female character is about to gain space and visibility. We also analysed films whose sexist foundations in the relationship between scientists and their interlocutors reinforce the reproduction of sexist and heteronormative stereotypes.
+C1 [Reznik, Gabriela] Fed Univ Rio Janeiro UFRJ, Educ Disseminat & Management Biosci, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa Medeiros] Fundacao Oswaldo Cruz, Natl Inst Publ Commun Sci & Technol Brazil, Oswaldo Cruz House, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa Medeiros] Fundacao Oswaldo Cruz, Master Programme Commun Sci Technol & Hlth, Oswaldo Cruz House, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa Medeiros] SciDev Net Www Scidev Net, Latin Amer & Caribbean Sect, Rio De Janeiro, RJ, Brazil.
+RP Reznik, G (corresponding author), Fed Univ Rio Janeiro UFRJ, Educ Disseminat & Management Biosci, Rio De Janeiro, RJ, Brazil.
+EM gabirz@gmail.com; luisa.massarani@fiocruz.br
+OI Reznik, Gabriela/0000-0002-8113-7505
+CR Anibal A. F., 2016, ANAIS INTERCOM SOC B
+   BIAGIOLI M, 1995, CONFIGURATIONS, V3, P139, DOI 10.1353/con.1995.0010
+   Calvert SL, 2004, J APPL DEV PSYCHOL, V25, P699, DOI 10.1016/j.appdev.2004.09.004
+   Calvert SL, 2003, MEDIA PSYCHOL, V5, P139, DOI 10.1207/S1532785XMEP0502_2
+   Chambers DW, 1983, SCI ED, V67, P255, DOI DOI 10.1002/SCE.3730670213
+   Chimba M, 2010, PUBLIC UNDERST SCI, V19, P609, DOI 10.1177/0963662510377233
+   Citelli M. T., 2000, CAD PAGU, V15, P39
+   CNPq, 2019, SER HIST PESQ SEX DI
+   CNPq Conselho Nacional de Desenvolvimento Cientifico e Tecnologico, 2015, NEGR NEGR NAS AR CON
+   da Silveira Jr P. M., 2017, SESSOES IMAGINARIO, V22, P130, DOI [10.15448/1980-3710.2017.2.28955, DOI 10.15448/1980-3710.2017.2.28955]
+   de Oliveira L. R., 2017, DOMINIOS IMAGEM, V11, P95, DOI [10.5433/2237-9126.2017v11n20p95, DOI 10.5433/2237-9126.2017V11N20P95]
+   DUARTE Rosalia, 2002, CINEMA EDUCACAO REFL
+   GRAcA Marina Estela, 2006, ENTRE OLHAR GESTO EL
+   HARDING Sandra, 2007, REV ELETRONICA COMUN, V1, P163, DOI DOI 10.29397/RECIIS.V1I1.891
+   Hoffner C, 1996, J BROADCAST ELECTRON, V40, P389, DOI 10.1080/08838159609364360
+   Hoffner CA, 2005, MEDIA PSYCHOL, V7, P207, DOI 10.1207/S1532785XMEP0702_5
+   IBGE-Instituto Brasileiro de Geografia e Estatistica, 2018, EST GEN IND SOC MULH, V38
+   Inocencio A. F., 2015, SEMINA CIENCIAS SOCI, V36, P31
+   Kaplan E. A., 1995, MULHER CINEMA DOIS L
+   Keller Evelyn Fox, 1978, PSYCHOANALYSIS CONT, V1, P409
+   Keller Evelyn Fox, 1987, HYPATIA, V2, P37
+   Long M, 2010, SCI COMMUN, V32, P356, DOI 10.1177/1075547009357779
+   Lopes Maria Margaret, 2006, Cad. Pagu, V0, P35, DOI 10.1590/S0104-83332006000200004
+   Massarani L., 2013, 13 REUN RED POP 2013
+   Meneses V. D., 2017, REV OBSERVATORIO, V3, P387
+   Mesquita Nyuara Araújo da Silva, 2008, Ciênc. educ. (Bauru), V14, P417, DOI 10.1590/S1516-73132008000300004
+   Piscitelli A., 2009, DIFERENCAS IGUALDADE, P116
+   Prado L. M., 2017, AN 2 C INT COMP MID, P476
+   Reznik G, 2019, HIST CIENC SAUDE-MAN, V26, P753, DOI [10.1590/S0104-59702019000300003, 10.1590/s0104-59702019000300003]
+   REZNIK Gabriela, 2017, THESIS
+   SCHIENBINGER Londa, 2001, FEMINISMO MUDOU CIEN
+   SCOTT Joan, 1995, EDUC REAL, V20, P71
+   Steinke J, 2005, SCI COMMUN, V27, P27, DOI 10.1177/1075547005278610
+   Steinke J, 2012, SCI COMMUN, V34, P163, DOI 10.1177/1075547011410250
+   UNESCO Institute for Statistics (UIS), 2018, WOM SCI
+   WHITELEGG Elizabeth, 2008, INVISIBLE WITNESS IN
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2019
+VL 18
+IS 2
+AR A08
+DI 10.22323/2.18020208
+PG 17
+WC Communication
+SC Communication
+GA ID6IV
+UT WOS:000471782600008
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Araripe, C
+AF Massarani, Luisa
+   Araripe, Cristina
+TI Greater dialogue with society is a matter of survival for Brazilian
+   science
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Editorial Material
+C1 [Massarani, Luisa] Inst Nacl Comunicacao Publ Ciencia & Tecnol, Rio De Janeiro, Brazil.
+   [Massarani, Luisa; Araripe, Cristina] Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Rio De Janeiro, Brazil.
+RP Massarani, L (corresponding author), Inst Nacl Comunicacao Publ Ciencia & Tecnol, Rio De Janeiro, Brazil.; Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Rio De Janeiro, Brazil.
+OI Araripe Ferreira, Cristina/0000-0002-1300-1008
+CR Fundo das Nacoes Unidas para a Infancia, CAD AN MAIS 20 MILH
+   Gultekin S, 2019, ORTHOP J SPORTS MED, V7, DOI 10.1177/2325967118820507
+   Massarani L, 2016, AN ACAD BRAS CIENC, V88, P1165, DOI 10.1590/0001-3765201620150558
+   The World Bank, RES DEV EXP GDP
+NR 4
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PY 2019
+VL 35
+IS 6
+DI 10.1590/0102-311X00089619
+PG 3
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA IC2IP
+UT WOS:000470783800001
+PM 31166538
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Barba, MDP
+   Del Castillo, JPG
+   Massarani, L
+AF Patino Barba, Ma De Lourdes
+   Gonzalez Del Castillo, Jorge Padilla
+   Massarani, Luisa
+TI Public engagement in science: Mapping out and understanding the practice
+   of science communication in Latin America
+SO ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS
+LA English
+DT Article
+DE Latin America; science and public; science communication; science
+   popularization
+AB This article presents the results of a study aiming to map out the characteristics of science communication activities carried out in Latin America by different organizations. We looked at a general description of the activities (such as the kind of activities carried out, in which periodicity, the publics engaged in the activities, etc.) and the favorable and unfavorable existing conditions in the organizations (such as budget and planning, evaluation, as well as weakness and strengths). The study focused on gathering primary information, through an online survey, answered by 123 institutions from 14 countries. Although the results are not representative of the entire Latin America - and it would be not possible to be so, since it is not even known the totality of initiatives existing in the region -, the study presents trends that can help the guidance and the consolidation of strategies for strengthening the practice of science communication in the region.
+C1 [Patino Barba, Ma De Lourdes; Gonzalez Del Castillo, Jorge Padilla] Fibonacci Innovac & Cultum Cient AC, Calle Paris 102,Int 9, Guanajuato, Mexico.
+   [Massarani, Luisa] Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Divulgacao Ciencia Tecnol & Saude, Ave Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa] Inst Nacl Comunicacao Publ Ciencia & Tecnol, Ave Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+RP Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Divulgacao Ciencia Tecnol & Saude, Ave Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.; Massarani, L (corresponding author), Inst Nacl Comunicacao Publ Ciencia & Tecnol, Ave Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM luisa.massarani@fiocruz.br
+FU UNESCO Regional Bureau of Science for Latin America; Sociedade
+   Brasileira para o Progresso da Ciencia; Departamento de Popularizacao e
+   Difusao da Ciencia e Tecnologia of the Ministerio de Ciencia, Tecnologia
+   e Inovacao (MCTIC); por meio do Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico, CNPq from Brazil [CNPq 400231/2015-8]
+FX The study was sponsored by the UNESCO Regional Bureau of Science for
+   Latin America and the Caribbean and by the Sociedade Brasileira para o
+   Progresso da Ciencia. It had the financial support of the, at that time,
+   by the then Departamento de Popularizacao e Difusao da Ciencia e
+   Tecnologia of the Ministerio de Ciencia, Tecnologia e Inovacao (MCTIC),
+   por meio do Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico, CNPq (CNPq 400231/2015-8) from Brazil.
+CR AMORIM L., 2014, SCIDEV
+   CAZAUX Diana, 2010, HIST DIVULGACION CIE
+   Fernandez E., 2016, POLITICAS PUBLICAS I
+   Fog L., 2004, QUARK, V44, P59
+   HERRERA S, 2006, DIAGNOSTICO DIVULGAC
+   Masarani L, 2016, AN ACAD BRAS CIENC, V88, P1577, DOI 10.1590/0001-3765201620150338
+   MASSARANI L, 2015, GUIA CTR MUSEOS CIEN
+   MASSARANI L, 2015, REDPOP 25 ANOS POPUL
+   Massarani L, 2017, APROXIMACIONES INVES
+   MASSARANI L, 2016, JCOM, V15
+   Massarani L, 2012, CHASQUI-REV LAT COM, P73
+   MOREIRA I, 2002, CIENCIA PUBLICO CAMI, V43, P43
+   ONU - ORGANIZACAO DAS NACOES UNIDAS, 2015, PAN POBL MUND REV 20
+   Patino M. L., 2017, DIAGNOSTICO DIVULGAC
+   PATINO ML, 2013, DIVULGACION CIENCIA
+   PATINO ML, 2013, 1 SOMEDICYT
+   Sanchez-Mora C, 2015, PUBLIC UNDERST SCI, V24, P38, DOI 10.1177/0963662514527204
+   United Nations (ONU), 2014, WORLD URB PROSP 2014
+NR 18
+TC 0
+Z9 0
+U1 1
+U2 5
+PU ACAD BRASILEIRA DE CIENCIAS
+PI RIO JANEIRO
+PA RUA ANFILOFIO DE CARVALHO, 29, 3 ANDAR, 20030-060 RIO JANEIRO, BRAZIL
+SN 0001-3765
+EI 1678-2690
+J9 AN ACAD BRAS CIENC
+JI An. Acad. Bras. Cienc.
+PY 2019
+VL 91
+IS 1
+AR e20171000
+DI 10.1590/0001-3765201920171000
+PG 16
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA HQ7VO
+UT WOS:000462631700001
+PM 30916153
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Wirz, CD
+   Xenos, MA
+   Brossard, D
+   Scheufele, D
+   Chung, JH
+   Massarani, L
+AF Wirz, Christopher D.
+   Xenos, Michael A.
+   Brossard, Dominique
+   Scheufele, Dietram
+   Chung, Jennifer H.
+   Massarani, Luisa
+TI Rethinking Social Amplification of Risk: Social Media and Zika in Three
+   Languages
+SO RISK ANALYSIS
+LA English
+DT Article
+DE Blame; GE mosquitoes; SARF
+ID GENETICALLY-MODIFIED FOODS; ECONOMIC-IMPACTS; STIGMA; ATTENUATION;
+   COMMUNICATION; PERCEPTIONS; COVERAGE; DISEASE; TWITTER; CRISIS
+AB Using the Zika outbreak as a context of inquiry, this study examines how assigning blame on social media relates to the social amplification of risk framework (SARF). Past research has discussed the relationship between the SARF and traditional mass media, but the role of social media platforms in amplification or attenuation of risk perceptions remains understudied. Moreover, the communication and perceptions of Zika-related risk are not limited to discussions in English. To capture conversations in languages spoken by affected countries, this study combines data in English, Spanish, and Portuguese. To better understand the assignment of blame and perceptions of risk in new media environments, we looked at three different facets of conversations surrounding Zika on Facebook and Twitter: the prominence of blame in each language, how specific groups were discussed throughout the Zika outbreak, and the sentiment expressed about genetically engineered (GE) mosquitoes. We combined machine learning with human coding to analyze public discourse in all three languages. We found differences between languages and platforms in the amount of blame assigned to different groups. We also found more negative sentiments expressed about GE mosquitoes on Facebook than on Twitter. These meaningful differences only emerge from analyses across the three different languages and platforms, pointing to the importance of multilingual approaches for risk communication research. Specific recommendations for outbreak and risk communication practitioners are also discussed.
+C1 [Wirz, Christopher D.; Xenos, Michael A.; Brossard, Dominique; Scheufele, Dietram; Chung, Jennifer H.] Univ Wisconsin, Dept Life Sci Commun, Hiram Smith Hall,1545 Observ Dr, Madison, WI 53706 USA.
+   [Brossard, Dominique; Scheufele, Dietram] Morgridge Inst Res, Madison, WI USA.
+   [Massarani, Luisa] Fiocruz MS, Natl Inst Publ Commun Sci & Technol, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] Fiocruz MS, Commun Sci Technol & Hlth, Rio De Janeiro, Brazil.
+RP Wirz, CD (corresponding author), Univ Wisconsin, Dept Life Sci Commun, Hiram Smith Hall,1545 Observ Dr, Madison, WI 53706 USA.
+EM cwirz@wisc.edu
+RI Wirz, Christopher/L-3675-2019; Scheufele, Dietram A./A-8737-2008
+OI Wirz, Christopher/0000-0002-8990-5505; Scheufele, Dietram
+   A./0000-0002-9914-5407; Xenos, Michael/0000-0002-2604-172X
+CR Akin H, 2019, J RESPONSIBLE INNOV, V6, P50, DOI 10.1080/23299460.2018.1495026
+   [Anonymous], 2018, ALL YOU CAN READ WOR
+   [Anonymous], 2016, CDC CONCL ZIK CAUS M
+   Bakir V, 2005, J RISK RES, V8, P679, DOI 10.1080/13669870500166898
+   Barnett J, 2003, HEALTH RISK SOC, V5, P301, DOI 10.1080/13698570310001606996
+   Bawa AS, 2013, J FOOD SCI TECH MYS, V50, P1035, DOI 10.1007/s13197-012-0899-1
+   Belluck P., 2016, NY TIMES
+   Bennett WL, 2008, J COMMUN, V58, P707, DOI 10.1111/j.1460-2466.2008.00410.x
+   Berkrot B., 2016, UPDATE 1 US HLTH OFF
+   Binder A. R., 2014, SAGE HDB RISK COMMUN, V69
+   Binder AR, 2011, RISK ANAL, V31, P324, DOI 10.1111/j.1539-6924.2010.01516.x
+   Brenkert-Smith H, 2013, RISK ANAL, V33, P800, DOI 10.1111/j.1539-6924.2012.01917.x
+   Burgess A, 2012, RISK ANAL, V32, P1693, DOI 10.1111/j.1539-6924.2012.01803.x
+   BURNS WJ, 1993, RISK ANAL, V13, P611, DOI 10.1111/j.1539-6924.1993.tb01323.x
+   Busby JS, 2013, J OPER RES SOC, V64, P638, DOI 10.1057/jors.2012.80
+   Busby JS, 2009, ENVIRON SCI POLICY, V12, P297, DOI 10.1016/j.envsci.2008.12.001
+   Busby J, 2012, J RISK RES, V15, P1049, DOI 10.1080/13669877.2012.670130
+   Cacciatore MA, 2016, MASS COMMUN SOC, V19, P7, DOI 10.1080/15205436.2015.1068811
+   Centers for Disease Control and Prevention, 2017, ZIK VIR
+   Ceron A, 2014, NEW MEDIA SOC, V16, P340, DOI 10.1177/1461444813480466
+   Chan M., 2016, WHO DIRECTOR GEN SUM
+   Chong M, 2018, HEALTH COMMUN, V33, P14, DOI 10.1080/10410236.2016.1242031
+   Chung IJ, 2011, RISK ANAL, V31, P1883, DOI 10.1111/j.1539-6924.2011.01623.x
+   Chung JB, 2013, DISASTER PREV MANAG, V22, P148, DOI 10.1108/09653561311325299
+   Dennis B., 2016, WASHINGTON POST
+   Douglas M., 1992, RISK BLAME ESSAYS CU
+   Duckett D, 2013, RISK MANAG-UK, V15, P132, DOI 10.1057/rm.2013.2
+   Eichelberger L, 2007, SOC SCI MED, V65, P1284, DOI 10.1016/j.socscimed.2007.04.022
+   ELDRIDGE J., 2003, SOCIAL AMPLIFICATION, P138, DOI DOI 10.1017/CBO9780511550461
+   Ellen PS, 2008, J PUBLIC POLICY MARK, V27, P69, DOI 10.1509/jppm.27.1.69
+   Fellenor J, 2018, J RISK RES, V21, P1163, DOI 10.1080/13669877.2017.1281339
+   Flew Terry, 2016, GLOBAL MEDIA NATL PO, P1
+   Flynn J, 1998, RISK ANAL, V18, P715, DOI 10.1111/j.1539-6924.1998.tb01115.x
+   Fox M., 2016, NBC NEWS
+   Frewer LJ, 2002, RISK ANAL, V22, P701, DOI 10.1111/0272-4332.00062
+   Gonzalez-Bailon S., 2017, DECODING SOCIAL WORL
+   Greenwood S, 2016, SOCIAL MEDIA UPDATE
+   Gregory RS, 2002, RISK ANAL, V22, P347, DOI 10.1111/0272-4332.00017
+   Griffin A., 2016, INDEPENDENT
+   Guo Y, 2018, INFORM COMMUN SOC, V21, P80, DOI 10.1080/1369118X.2016.1261170
+   Hallin D., 2004, COMP MEDIA SYSTEMS 3
+   Hallin D. C., 2012, COMP MEDIA SYSTEMS W, P72
+   Hallin Daniel C., 2012, COMP MEDIA SYSTEMS W
+   Hallin DC, 2002, MEDIA CULT SOC, V24, P175, DOI 10.1177/016344370202400202
+   Hart PS, 2011, SOC NATUR RESOUR, V24, P276, DOI 10.1080/08941920802676464
+   Heberlein T. A., 2009, Human Dimensions of Wildlife, V14, P326, DOI 10.1080/10871200903115435
+   Herek GM, 2003, HEALTH PSYCHOL, V22, P533, DOI 10.1037/0278-6133.22.5.533
+   Hill A, 2001, J RISK RES, V4, P209, DOI [10.1080/13669870152023773, DOI 10.1080/13669870152023773]
+   Hopkins DJ, 2010, AM J POLIT SCI, V54, P229, DOI 10.1111/j.1540-5907.2009.00428.x
+   Ibitayo OO, 2004, J HAZARD MATER, V114, P15, DOI 10.1016/j.jhazmat.2004.08.020
+   Internet World Stats, 2016, FAC US WORLD
+   Jacobs Andrew, 2016, NY TIMES
+   Kandiah V, 2017, RISK ANAL, V37, P2005, DOI 10.1111/risa.12760
+   Kasperson J. X., 2003, SOCIAL AMPLIFICATION, P13, DOI DOI 10.1017/CBO9780511550461
+   Kasperson RE, 1996, ANN AM ACAD POLIT SS, V545, P95, DOI 10.1177/0002716296545001010
+   KASPERSON RE, 1988, RISK ANAL, V8, P177, DOI 10.1111/j.1539-6924.1988.tb01168.x
+   KASPERSON RE, 2001, RISK MEDIA STIGMA UN, P9
+   Kim KH, 2015, ENVIRON SCI POLLUT R, V22, P7612, DOI 10.1007/s11356-015-4107-5
+   Lewis RE, 2009, RISK ANAL, V29, P714, DOI 10.1111/j.1539-6924.2008.01188.x
+   Link BG, 2001, ANNU REV SOCIOL, V27, P363, DOI 10.1146/annurev.soc.27.1.363
+   Lotan G, 2011, INT J COMMUN-US, V5, P1375
+   MacGregor D. G., 2003, SOCIAL AMPLIFICATION
+   MACHLIS GE, 1990, RISK ANAL, V10, P161, DOI 10.1111/j.1539-6924.1990.tb01030.x
+   Mase AS, 2015, J ENVIRON PSYCHOL, V41, P166, DOI 10.1016/j.jenvp.2014.12.004
+   Masuda JR, 2006, RISK ANAL, V26, P437, DOI 10.1111/j.1539-6924.2006.00749.x
+   MAZUR A, 1984, MINERVA, V22, P45, DOI 10.1007/BF02207556
+   McComas KA, 2003, RISK ANAL, V23, P1257, DOI 10.1111/j.0272-4332.2003.00399.x
+   McNeil Jr D., 2016, NY TIMES
+   Metz WC, 1996, RISK ANAL, V16, P185
+   Mitchell D., 2016, FORTUNE
+   Moussaid M, 2015, P NATL ACAD SCI USA, V112, P5631, DOI 10.1073/pnas.1421883112
+   Murdock G., 2003, SOCIAL AMPLIFICATION, DOI DOI 10.1017/CBO9780511550461
+   Nebehay S, 2016, REUTERS
+   Newman N., 2017, REUTERS I DIGITAL NE
+   Newman Nic, 2016, REUTERS I DIGITAL NE
+   Newton-Small J., 2016, TIME
+   Pan American Health Organization, 2017, ZIK CUM CAS
+   Panagiotopoulos P, 2016, TECHNOL FORECAST SOC, V111, P86, DOI 10.1016/j.techfore.2016.06.010
+   Petts J, 2004, HEALTH RISK SOC, V6, P7, DOI 10.1080/13698570410001678284
+   Petts Judith, 2000, SOCIAL AMPLIFICATION
+   Pidgeon N. F., 2003, SOCIAL AMPLIFICATION, P179, DOI DOI 10.1017/CBO9780511550461
+   Poumadere M., 2003, SOCIAL AMPLIFICATION, P209, DOI 10.1017/CBO9780511550461.010
+   Raude J, 2004, HEALTH RISK SOC, V6, P173, DOI 10.1080/1369857042000219760
+   Raupp J, 2014, HEALTH RISK SOC, V16, P565, DOI 10.1080/13698575.2014.950203
+   RAYNER S, 1988, RISK ANAL, V8, P201, DOI 10.1111/j.1539-6924.1988.tb01172.x
+   RENN O, 1992, J SOC ISSUES, V48, P137, DOI 10.1111/j.1540-4560.1992.tb01949.x
+   Renn O., 2003, SOCIAL AMPLIFICATION, P374
+   Renn O, 1991, RISK COMMUNICATION S, P287
+   Rickard LN, 2013, J RISK RES, V16, P145, DOI 10.1080/13669877.2012.725673
+   RIP A, 1988, RISK ANAL, V8, P193, DOI 10.1111/j.1539-6924.1988.tb01170.x
+   Rossmann C, 2018, RISK ANAL, V38, P357, DOI 10.1111/risa.12841
+   Runge KK, 2013, J NANOPART RES, V15, DOI 10.1007/s11051-012-1381-8
+   Scherer CW, 2003, RISK ANAL, V23, P261, DOI 10.1111/1539-6924.00306
+   Shakeela A, 2015, J SUSTAIN TOUR, V23, P65, DOI 10.1080/09669582.2014.918135
+   Shan LR, 2014, PUBLIC UNDERST SCI, V23, P911, DOI 10.1177/0963662512472315
+   Simis-Wilkinson M, 2018, SCI COMMUN, V40, P314, DOI 10.1177/1075547018766557
+   SLOVIC P, 1991, RISK ANAL, V11, P683, DOI 10.1111/j.1539-6924.1991.tb00658.x
+   Southwell BG, 2016, EMERG INFECT DIS, V22, P1320, DOI 10.3201/eid2207.160415
+   Specter Michael, 2016, NEW YORKER
+   Strekalova YA, 2016, HEALTH EDUC BEHAV, V44, P332
+   Strekalova YA, 2017, J HEALTH COMMUN, V22, P849, DOI 10.1080/10810730.2017.1367336
+   Su LYF, 2018, NEW MEDIA SOC, V20, P3678, DOI 10.1177/1461444818757205
+   Su LYF, 2017, SCI COMMUN, V39, P569, DOI 10.1177/1075547017734226
+   Su LYF, 2017, INFORM COMMUN SOC, V20, P406, DOI 10.1080/1369118X.2016.1182197
+   Sutton J, 2015, P NATL ACAD SCI USA, V112, P14793, DOI 10.1073/pnas.1508916112
+   Urquhart J, 2017, ENVIRON SCI POLICY, V77, P172, DOI 10.1016/j.envsci.2017.08.020
+   Wagner L., 2016, ZIKA VIRUS ACQUIRED
+   Williams J, 2011, ATI, V4, P58
+   World Health Organization, 2017, ZIK SIT REP 10 MARCH
+   World Health Organization, 2017, HIST ZIK VIR
+   World Health Organization, 2016, ZIK EP REP
+   Yeo S, 2017, J SCI COMMUNICATION, V16, P1
+   Yeo SK, 2017, PUBLIC UNDERST SCI, V26, P937, DOI 10.1177/0963662516649806
+   Zhang L, 2017, ASIAN J COMMUN, V27, P322, DOI 10.1080/01292986.2017.1290124
+   Zhou M, 2017, INT J DISAST RISK RE, V24, P209, DOI 10.1016/j.ijdrr.2017.06.013
+NR 115
+TC 19
+Z9 19
+U1 1
+U2 40
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0272-4332
+EI 1539-6924
+J9 RISK ANAL
+JI Risk Anal.
+PD DEC
+PY 2018
+VL 38
+IS 12
+SI SI
+BP 2599
+EP 2624
+DI 10.1111/risa.13228
+PG 26
+WC Public, Environmental & Occupational Health; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Public, Environmental & Occupational Health; Mathematics; Mathematical
+   Methods In Social Sciences
+GA HD5ZM
+UT WOS:000452610700010
+PM 30408201
+OA Green Published, Bronze
+DA 2020-12-16
+ER
+
+PT J
+AU Almeida, C
+   Massarani, L
+AF Almeida, Carla
+   Massarani, Luisa
+TI Farmers prevailing perception profiles regarding GM crops: A
+   classification proposal
+SO PUBLIC UNDERSTANDING OF SCIENCE
+LA English
+DT Article
+DE farmers; GM food; public perception of biotechnology; scientific
+   controversies
+ID MAIZE; MEXICO
+AB Genetically modified organisms have been at the centre of a major public controversy, involving different interests and actors. While much attention has been devoted to consumer views on genetically modified food, there have been few attempts to understand the perceptions of genetically modified technology among farmers. By investigating perceptions of genetically modified organisms among Brazilian farmers, we intend to contribute towards filling this gap and thereby add the views of this stakeholder group to the genetically modified debate. A comparative analysis of our data and data from other studies indicate there is a complex variety of views on genetically modified organisms among farmers. Despite this diversity, we found variations in such views occur within limited parameters, concerned principally with expectations or concrete experiences regarding the advantages of genetically modified crops, perceptions of risks associated with them, and ethical questions they raise. We then propose a classification of prevailing profiles to represent the spectrum of perceptions of genetically modified organisms among farmers.
+C1 [Almeida, Carla; Massarani, Luisa] Oswaldo Cruz Fdn Fiocruz, Av Brasil 4365, BR-21040360 Manguinho, RJ, Brazil.
+RP Almeida, C (corresponding author), Oswaldo Cruz Fdn Fiocruz, Av Brasil 4365, BR-21040360 Manguinho, RJ, Brazil.
+EM almeidacarla@gmail.com
+FU International Development Research Centre-IDRC [102334-009]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research was funded by the International Development Research
+   Centre-IDRC (grant number 102334-009).
+CR Almeida Carla, 2015, Ambient. soc., V18, P193, DOI 10.1590/1809-4422ASOC891V1812015en
+   Almeida C, 2011, DIADORIM, V10, P204
+   Almeida C, 2012, 2 ETAPA BIOTECNOLOGI, P109
+   Augoustinos M, 2010, PUBLIC UNDERST SCI, V19
+   Barbour R, 2007, DOING FOCUS GROUPS
+   Bauer MW, 2006, GENOMICS SOC LEGAL E
+   Carpenter J, 1999, AGBIOFORUM, V2, P265
+   Castelfranchi Y, 2013, HIST CIENC SAUDE-MAN, V20, P1163, DOI 10.1590/S0104-59702013000400005
+   Charaudeau P., 1992, GRAMMAIRE SENS LEXPR
+   Charaudeau P., 2008, MEDIATISATION SCI CL
+   CHARAUDEAU P., 2008, LINGUAGEM E DISCURSO
+   Charaudeau P, 2007, ARGUMENTATION MANIPU
+   Chimmiri N, 2007, AGBIOFORUM, V9, P3152
+   Cook AJ, 2004, AGBIOFORUM, V6, P3120
+   Cressey D, 2013, NATURE, V499, P387, DOI 10.1038/499387a
+   Cuppen E, 2009, PUBLIC UNDERST SCI, V18, P591, DOI 10.1177/0963662508091021
+   Dalton R, 2008, NATURE, V456, P149, DOI 10.1038/456149a
+   Dalton R, 2009, NATURE, V462, P404, DOI 10.1038/462404a
+   Darr DA, 2002, 6 INT ICABR C AGR BI
+   DELAPERRIERE RAB, 2000, BRAVE NEW SEEDS THRE
+   Dietrich H, 2003, PUBLIC UNDERST SCI, V12, P381, DOI 10.1177/0963662503124004
+   Einsiedel EF, 2001, PUBLIC UNDERST SCI, V10, P183
+   Estrada D, 2008, HALLAZGO MAIZ CONTAM
+   European Commission, 1997, EUR
+   Friends of the Earth International (FOEI), 2006, WHO BEN GM CROPS MON
+   Futema F, 2004, MAIS 8 SOJA BRASILEI
+   Galeano P, 2009, INTERPOLINIZACION EN
+   Gaskell G., 2010, EUROPEANS BIOTECHNOL
+   Gaskell George, 2003, EUROBAROMETER, P580
+   Guehlstorf NP, 2008, J AGR ENVIRON ETHIC, V21, P541, DOI 10.1007/s10806-008-9116-7
+   Hall C, 2008, GEOFORUM, V39, P204, DOI 10.1016/j.geoforum.2007.06.003
+   Holliman R., 2009, INVESTIGATING SCI CO
+   Horlick-Jones T, 2007, PUBLIC UNDERST SCI, V16, P259, DOI 10.1177/0963662506074792
+   Hosseini SM, 2011, PUBLIC UNDERST SCI, V20, P513, DOI 10.1177/0963662509348455
+   IBGE. Instituto Brasileiro de Geografia e Estatistica, 2006, CENS AGR 2006 BRAS G
+   IBOPE, 2002, PESQ OP PUBL TRANSG
+   IBOPE, 2003, PESQ OP PUBL TRANSG
+   IBOPE, 2001, PESQ OP PUBL TRANSG
+   Institut National de la Recherche Agronomique (INRA), 2000, EUR BIOT EUR
+   Joss S, 2005, SOCIOL SCI YEARB, V24, P171
+   KITZINGER J, 1995, BRIT MED J, V311, P299, DOI 10.1136/bmj.311.7000.299
+   Knight AJ, 2009, PUBLIC UNDERST SCI, V18, P177, DOI 10.1177/0963662507079375
+   Kondoh K, 2006, AGR HUM VALUES, V23, P341, DOI 10.1007/s10460-006-9004-6
+   Lima C, 2005, PERCEPCOES AGR QUE C
+   Lujan JL, 2000, PUBLIC UNDERST SCI, V9, P383, DOI 10.1088/0963-6625/9/4/303
+   Marris C., 2001, PUBLIC PERCEPTIONS A
+   MIDDEN C, 2002, BIOTECHNOLOGY MAKING, P203
+   Ministerio da Ciencia e Tecnologia (MCT) and CGEE, 2015, PERC PUBL CIENC TECN
+   Ministerio da Ciencia e Tecnologia (MCT) and Museu da Vida, 2010, PERC PUBL CIENC TECN
+   Ministerio da Ciencia e Tecnologia (MCT) and Museu da Vida, 2006, PERC PUBL CIENC TECN
+   Monsanto, 2014, O QUE FAZ
+   NIELSEN TH, 2002, BIOTECHNOLOGY MAKING, P179
+   Parales-Quenza CJ, 2004, PUBLIC UNDERST SCI, V13, P131, DOI 10.1177/0963662504044109
+   Pelaez V, 2004, INDICADORES EC FEE, V32, P201
+   Pimbert M, 2011, TRANSGENICOS QUEM AG, P406
+   Pineyro-Nelson A, 2009, MOL ECOL, V18, P750, DOI 10.1111/j.1365-294X.2008.03993.x
+   Quist D, 2001, NATURE, V414, P541, DOI 10.1038/35107068
+   Ricroch A, 2008, PUBLIC UNDERST SCI, V18
+   Shaw A, 2002, PUBLIC UNDERST SCI, V11, P273, DOI 10.1088/0963-6625/11/3/305
+   Silva M, 2009, SEM PROT AGR DIR AGR
+   *SOIL ASS, 2002, SEEDS DOUBT N AM FAR
+   STARES S., 2006, EUROBAROMETER
+   Stilgoe J, 2014, PUBLIC UNDERST SCI, V23, P14
+   Syngenta, 2014, VIS E OBJ
+   Todt O, 2008, PUBLIC UNDERST SCI, V18, P1103
+   Toni A, 2001, BIOTECHNOL DEV MONIT, P7
+   Van der Sluis E, 2002, FARM LEVEL TRANSGENI
+   Vara A. M., 2005, ARGENTINA GM NATION
+   Veltri GA, 2013, PUBLIC UNDERST SCI, V22, P137, DOI 10.1177/0963662511423334
+   Zambrano P, 2011, WOMEN COTTON FARMERS
+NR 70
+TC 1
+Z9 1
+U1 1
+U2 24
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0963-6625
+EI 1361-6609
+J9 PUBLIC UNDERST SCI
+JI Public Underst. Sci.
+PD NOV
+PY 2018
+VL 27
+IS 8
+BP 952
+EP 966
+DI 10.1177/0963662518766281
+PG 15
+WC Communication; History & Philosophy Of Science
+SC Communication; History & Philosophy of Science
+GA GY1DF
+UT WOS:000448262400004
+PM 29616889
+DA 2020-12-16
+ER
+
+PT J
+AU Weitkamp, E
+   Massarani, L
+AF Weitkamp, Emma
+   Massarani, Luisa
+TI Branching out: new JCOM America Latina for dynamic science communication
+   community
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Editorial Material
+DE Scholarly communication; Science and media
+AB April marks a milestone in the history of JCOM, with the launch of new features for the International, English language journal alongside the launch of a sister journal, JCOM America Latina which will cater for the dynamic and fast growing Spanish and Portuguese speaking science communication community. Luisa Massarani, a long standing JCOM Editorial Board member, has led the development of JCOM America Latina and will act as the Editor for the new journal. JCOM and JCOM America Latina will work closely together, providing free, open access publishing for science communication research across the globe.
+C1 [Weitkamp, Emma] Univ West England, Sci Commun, Bristol, Avon, England.
+   [Weitkamp, Emma] Univ West England, Sci Commun Unit, Bristol, Avon, England.
+   [Weitkamp, Emma] Univ West England, Sci Commun, Bristol, Avon, England.
+   [Massarani, Luisa] Brazils Natl Inst Publ Commun Sci & Technol, Recife, PE, Brazil.
+   [Massarani, Luisa] Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa] SciDev Net, Latin Amer & Caribbean, Wallingford, Oxon, England.
+   [Massarani, Luisa] Latin Amer & Caribbean Network Popularisat Sci &, Red Popularizac Ciencia & Tecnol Amer Latina & Ca, Wallingford, Oxon, England.
+RP Weitkamp, E (corresponding author), Univ West England, Sci Commun, Bristol, Avon, England.; Weitkamp, E (corresponding author), Univ West England, Sci Commun Unit, Bristol, Avon, England.; Weitkamp, E (corresponding author), Univ West England, Sci Commun, Bristol, Avon, England.
+EM emma.weitkamp@uwe.ac.uk; luisa.massarani@fiocruz.br
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2018
+VL 17
+IS 2
+AR E01
+DI 10.22323/2.17020501
+PG 2
+WC Communication
+SC Communication
+GA GG9HO
+UT WOS:000433011800011
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, Luisa
+TI CREATIVE RESEARCH COMMUNICATION - THEORY AND PRACTICE
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Book Review
+DE Professionalism, professional development and training in science
+   communication; Science communication: theory and models
+AB This article aims to present a critical analysis of the book entitled "Creative Research Communication -Theory and Practice", written by Clare Wilkinson and Emma Weitkamp (Manchester University Press, 2016). We aim to present the structure of the book, highlighting its strengths and successes. Although some chapters focus on the UK, the book offers a wide range of examples of practical activities for the communication of research of global interest and provides very useful tips. Ethical issues and the importance of evaluation, of how to do carry out such evaluation and dissemination, are also presented in an inspiring way. Well-written and objective, the book is a must-read for anyone who works, or aspires to work, in the field of public engagement with research.
+C1 [Massarani, Luisa] RedPOP, Latin Amer & Caribbean Network Popularisat Sci &, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Master Commun Sci Technol & Hlth, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] Latin Amer & Caribbean 101 SciDev Net, Rio De Janeiro, Brazil.
+RP Massarani, L (corresponding author), RedPOP, Latin Amer & Caribbean Network Popularisat Sci &, Rio De Janeiro, Brazil.; Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Master Commun Sci Technol & Hlth, Rio De Janeiro, Brazil.; Massarani, L (corresponding author), Latin Amer & Caribbean 101 SciDev Net, Rio De Janeiro, Brazil.
+EM luisa.massarani@fiocruz.br
+CR Wilkinson C, 2016, CREATIVE RES COMMUNI
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2017
+VL 16
+IS 5
+AR R03_en
+PG 3
+WC Communication
+SC Communication
+GA GB2YQ
+UT WOS:000428922300013
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Moreira, ID
+   Lewenstein, B
+AF Massarani, Luisa
+   Moreira, Ildeu de Castro
+   Lewenstein, Bruce
+TI A historical kaleidoscope of public communication of science and
+   technology
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Article
+DE History of public communication of science; Public engagement with
+   science and technology; Science communication in the developing world
+AB Science communication is today a well-established -although young-area of research. However, there are only a few books and papers analyzing how science communication has developed historically. Aiming to, in some way, contribute to filling this gap, JCOM organized this special issue on the History of Public Communication of Science and Technology (PCST), joining 15 contributions, from different parts of the globe. The papers published in this issue are organized in three groups, though with diffuse boundaries: geography, media, and discipline. The first group contains works that deal descriptively and critically with the development of PCST actions and either general or specific public policies for this area in specific countries. A second set of papers examines aspects of building science communication on TV or in print media. The third group of papers presents and discusses important PCST cases in specific areas of science or technology at various historical moments.
+C1 [Massarani, Luisa] Red Popularizac Ciencia & Tecnol Amer Latina & Ca, Manguinho, Brazil.
+   [Massarani, Luisa] Fundacao Oswaldo Cruz, Nucleo Estudos Divulgacao Cient, Casa Oswaldo Cruz, Museu Vida, Manguinho, Brazil.
+   [Massarani, Luisa] SciDev Net, Latin Amer & Caribbean, Manguinho, Brazil.
+   [Moreira, Ildeu de Castro] Univ Fed Rio de Janeiro, Rio De Janeiro, Brazil.
+   [Moreira, Ildeu de Castro] Brazilian Soc Adv Sci, Rio De Janeiro, Brazil.
+   [Lewenstein, Bruce] Cornell Univ, Sci Commun, Ithaca, NY 14853 USA.
+   [Lewenstein, Bruce] Cornell Univ, Dept Sci & Technol Studies, Ithaca, NY 14853 USA.
+   [Lewenstein, Bruce] JCOM Editorial Advisory Board, Ithaca, NY USA.
+RP Massarani, L (corresponding author), Red Popularizac Ciencia & Tecnol Amer Latina & Ca, Manguinho, Brazil.; Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Nucleo Estudos Divulgacao Cient, Casa Oswaldo Cruz, Museu Vida, Manguinho, Brazil.; Massarani, L (corresponding author), SciDev Net, Latin Amer & Caribbean, Manguinho, Brazil.
+EM luisa.massarani5@gmail.com; ildeucastro@gmail.com;
+   b.lewenstein@cornell.edu
+RI Lewenstein, Bruce V/U-3854-2017
+OI Lewenstein, Bruce V/0000-0002-1272-372X
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 1
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2017
+VL 16
+IS 3
+SI SI
+AR E
+PG 4
+WC Communication
+SC Communication
+GA FM2QD
+UT WOS:000414831100001
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Ramalho, M
+   Arboleda, T
+   Hermelin, D
+   Reznik, G
+   Massarani, L
+AF Ramalho, Marina
+   Arboleda, Tania
+   Hermelin, Daniel
+   Reznik, Gabriela
+   Massarani, Luisa
+TI The coverage of science in television news programs in Brazil and
+   Colombia: a comparative study of media constructs
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Article
+DE science and technology; Jornal Nacional; Noticias Caracol
+ID EUROPEAN TELEVISION; FEMALE SCIENTISTS; REPRESENTATIONS; GENDER
+AB This study analyzes and compares the science and technology coverage in Brazil's main television news program (Jornal Nacional) and its Colombian counterpart (Noticias Caracol). Using content analysis, we investigated a corpus of news stories broadcast from April 2009 to March 2010. We found that Jornal Nacional presented over twice as many reports on science and technology as Noticias Caracol, and that its levels of reporting remained fairly stable throughout the year. The Brazilian reports were also longer, were featured more prominently, and used more visual resources. Even so, some similarities were found: news about health and medicine was most frequent; the reports focused primarily on announcing new research; scientists were the main sources cited; and national research was prioritized.
+C1 [Ramalho, Marina; Reznik, Gabriela; Massarani, Luisa] Fiocruz MS, MV, COC, NEDC, Ave Brasil 4-365, BR-21045360 Rio De Janeiro, RJ, Brazil.
+   [Arboleda, Tania] Carrera 21 34-34, Bogota 1111311, DC, Colombia.
+   [Hermelin, Daniel] Univ Eafit, Dept Comunicacao Social, Carrera 49N 7 Sur,50,Bloque 38,Oficina 532, Medellin 05001000, Ant, Colombia.
+RP Ramalho, M (corresponding author), Fiocruz MS, MV, COC, NEDC, Ave Brasil 4-365, BR-21045360 Rio De Janeiro, RJ, Brazil.
+EM marinar@coc.fiocruz.br; taniaarboleda@gmail.com; dhermeli@eafit.edu.co;
+   gabriela_reznik@hotmail.com; lumassa@fiocruz.br
+CR ALBERGUINI Audre Cristina, 2007, THESIS
+   Almeida C., 2011, PERIODISMO DIVULGACI, P75
+   Amorim L.H, 2009, REV BRAS ENSINO FIS, V1, P73, DOI [DOI 10.3895/S1982-873X2008000100005, 10.3895/S1982-873X2008000100005]
+   [Anonymous], 2010, LIVR AZ QUART C NAC
+   Bauer M, 1998, SOC SCI INFORM, V37, P731, DOI 10.1177/053901898037004009
+   BAUER Martin, 1993, SCI TECHNOLOGY BRIT
+   BRASIL. Ministerio da Ciencia Tecnologia e Inovacao; Centro de Gestao e Estudos Estrategicos., 2015, TECN IN CTR GEST EST
+   Bucchi M, 2003, PUBLIC UNDERST SCI, V12, P7, DOI 10.1177/0963662503012001413
+   BUSTOS MORA Giselle, 2004, REV CIENCIAS SOCIALE, V4, P215
+   CADAVID-BRINGE Amparo, 2004, QUE ES NOTICIA
+   Gomez-Giraldo JC, 2010, PALABRA CLAVE, V13, P217, DOI 10.5294/pacla.2010.13.2.1
+   Castrillón Tania Arboleda, 2011, Ens. Pesqui. Educ. Ciênc. (Belo Horizonte), V13, P151, DOI 10.1590/1983-21172011130310
+   Castrillón Tania Arboleda, 2015, Ens. Pesqui. Educ. Ciênc. (Belo Horizonte), V17, P208, DOI 10.1590/1983-211720175170110
+   Chimba M, 2010, PUBLIC UNDERST SCI, V19, P609, DOI 10.1177/0963662510377233
+   CNPq. Conselho Nacional de Desenvolvimento Cientifico e Tecnologico, 2013, CONS NAC DES CIENT T
+   Medeiros FND, 2010, HIST CIENC SAUDE-MAN, V17, P439, DOI 10.1590/S0104-59702010000200010
+   DAZA Sandra, 2009, PERCEPCIONES CIENCIA
+   Daza-Caicedo S., 2014, PERCEPCIONES CIENCIA
+   de ANDRADE Lacy Varella Barca, 2004, THESIS
+   DE CHEVEIGNE Suzanne, 2000, ENV JOURNAUX TELEVIS
+   Dunwoody S., 2008, HDB PUBLIC COMMUNICA, P15
+   DURANT J, 1992, PUBLIC UNDERSTANDING, V0001
+   Einsiedel Edna F., 1992, PUBLIC UNDERST SCI, V1, P89, DOI [10.1088/0963-6625/1/1/011, DOI 10.1088/0963-6625/1/1/011]
+   Faulkner W, 2007, SOC STUD SCI, V37, P331, DOI 10.1177/0306312706072175
+   GAMSON WA, 1989, AM J SOCIOL, V95, P1, DOI 10.1086/229213
+   Gans H., 1979, DECIDING WHATS NEWS
+   GLOBO, 2012, GLOB COM PART SA GLO
+   Godin B, 2000, PUBLIC UNDERST SCI, V9, P43, DOI 10.1088/0963-6625/9/1/303
+   Gopfert W, 1996, PUBLIC UNDERST SCI, V5, P361, DOI DOI 10.1088/0963-6625/5/4/004
+   Hansen A., 1992, COMMUNICATIONS, V17, P365
+   HERMELIN Daniel, 2011, TRILOGIA, P107
+   HERMELIN Daniel, 2012, MONITORAMENTO CAPACI, P77
+   Hijmans E, 2003, SCI COMMUN, V25, P153, DOI 10.1177/1075547003259559
+   IBGE. Instituto Brasileiro de Geografia e Estatistica, 2013, PESQ NAC AM DOM BRAS
+   Krippendorff K., 1990, METODOLOGIA ANALISIS
+   Lehmkuhl M, 2012, PUBLIC UNDERST SCI, V21, P1002, DOI 10.1177/0963662511436070
+   Leon B, 2008, PUBLIC UNDERST SCI, V17, P443, DOI 10.1177/09636625056073089
+   Lobo P., 2010, INT COMMUNICATION GA, V72, P339, DOI [10.1177/1748048510362611, DOI 10.1177/1748048510362611]
+   Long M, 2010, SCI COMMUN, V32, P356, DOI 10.1177/1075547009357779
+   Lozano M., 2005, PROGRAMAS EXPERIENCI
+   LOZANO-BORDA Marcela, 2010, ESTRATEGIA NACL APRO
+   LUCIO Jorge, 2013, INDICADORES CIENCIA
+   Massarani L., 2008, EVALUANDO COMUNICACI, P115
+   Massarani L, 2005, JCOM-J SCI COMMUN, V4
+   Massarani L, 2012, CHASQUI-REV LAT COM, P73
+   Medeiros Flavia Natércia da Silva, 2011, Intercom, Rev. Bras. Ciênc. Comun., V34, P41, DOI 10.1590/S1809-58442011000100003
+   MONDRAGON-PEREZ Lina, 2013, DISERTACIONES, V6, P174
+   Parodi Giovanni, 2007, DELTA, V23, P339, DOI 10.1590/S0102-44502007000200007
+   Pellechia MG, 1997, PUBLIC UNDERST SCI, V6, P49, DOI 10.1088/0963-6625/6/1/004
+   PEREZ-BUSTOS Tania, 2011, CIENCIA TECNOLOGIA D
+   POLINO Carmelo, 2006, ANALISIS OFERTA INFO
+   Ramalho M., 2012, MONITORAMENTO CAPACI, P11
+   RAMALHO Marina, 2012, J SCI COMMUNICATION, V11, P1
+   RAMALHO Marina, 2013, THESIS
+   Rondelli D., 2004, THESIS
+   ROZO Claudia, 2006, C IB CIENC TECN SOC, p[1, 1]
+   RUVOLO AP, 1992, SOC COGNITION, V10, P95, DOI 10.1521/soco.1992.10.1.95
+   SICARD Monique, 1997, HERMES, P45
+   Steinke J, 2005, SCI COMMUN, V27, P27, DOI 10.1177/1075547005278610
+   Steinke J, 2012, SCI COMMUN, V34, P163, DOI 10.1177/1075547011410250
+   Stempel Guido H., 1989, RES METHODS MASS COM
+   Takahashi Bruno, 2013, Public Underst Sci, V22, P427, DOI 10.1177/0963662511431204
+   Verhoeven P, 2010, SCI COMMUN, V32, P330, DOI 10.1177/1075547010362709
+   WHITELEGG Elizabeth, 2008, INVISIBLE WITNESSES
+   YUDICE George, 2008, MEDIOS COMUNICACION
+NR 65
+TC 2
+Z9 2
+U1 0
+U2 6
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD JAN-MAR
+PY 2017
+VL 24
+IS 1
+BP 223
+EP 242
+DI 10.1590/S0104-59702016005000019
+PG 20
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA ER1AP
+UT WOS:000398521400013
+PM 27626819
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Peters, HP
+AF Massarani, Luisa
+   Peters, Hans P.
+TI Scientists in the public sphere: Interactions of scientists and
+   journalists in Brazil
+SO ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS
+LA English
+DT Article
+DE Brazil; Interactions of scientists and journalists; Public communication
+   of science and technology; Science communication; Science journalism
+ID SCIENCE
+AB In order to map scientists' views on media channels and explore their experiences interacting with journalists, the authors conducted a survey of about 1,000 Brazilian scientists. Results indicate that scientists have clear and high expectations about how journalists should act in reporting scientific information in the media, but such expectations, in their opinion, do not always seem to be met. Nonetheless, the results show that surveyed scientists rate their relation with the media positively: 67% say that having their research covered by media has a positive impact on their colleagues. One quarter of the respondents expressed that talking to the media can facilitate acquisition of more funds for research. Moreover, 38% of the total respondents believe that writing about an interesting topic for release on media channels can also facilitate research publication in a scientific journal. However, 15% of the respondents outright agree that research reported in the media beforehand can threaten acceptance for publication by a scientific journal. We hope that these results can foster some initiatives for improving awareness of the two cultures, scientists and journalists; increasing the access of journalists to Brazilian scientific endeavors; stimulating scientists to communicate with the public via social networks.
+C1 [Massarani, Luisa; Peters, Hans P.] Fundacao Oswaldo Cruz, Museu Vida, Casa Oswaldo Cruz, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+RP Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Museu Vida, Casa Oswaldo Cruz, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM luisa.massarani4@gmail.com
+RI Peters, Hans Peter/K-6517-2012
+OI Peters, Hans Peter/0000-0002-8777-4329
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq)/
+   Ministerio da Ciencia, Tecnologia e Inovacao (MCTI)National Council for
+   Scientific and Technological Development (CNPq) [CNPq 470310/2013-8]
+FX This research is being supported by the Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq)/ Ministerio da Ciencia,
+   Tecnologia e Inovacao (MCTI) (CNPq 470310/2013-8). We thank Ana Paula
+   Trindade for her help in collecting the data for this research and Petra
+   Degen for her help in programming the questionnaire and online field
+   work.
+CR Castelfranchi Y, 2013, HIST CIENC SAUDE-MAN, V20, P1163, DOI 10.1590/S0104-59702013000400005
+   DUNWOODY S, 1985, J COMMUN, V35, P26, DOI 10.1111/j.1460-2466.1985.tb01882.x
+   Flicker E, 2003, PUBLIC UNDERST SCI, V12, P307, DOI 10.1177/0963662503123009
+   Hartz J, 1997, WORLDS APART DISTANC
+   Ivanissevich A., 2014, DESAFIOS JORNALISMO
+   Long M, 2001, PUBLIC UNDERST SCI, V10, P259
+   Massarani L., 2014, SCI MUSEUM GROUP J, V2, P6
+   MEAD M, 1957, SCIENCE, V126, P384, DOI 10.1126/science.126.3270.384
+   Mesquita Nyuara Araújo da Silva, 2008, Ciênc. educ. (Bauru), V14, P417, DOI 10.1590/S1516-73132008000300004
+   Oliveira S, 2014, E COMPOS, V17, P1
+   Peters HP, 2008, SCIENCE, V321, P204, DOI 10.1126/science.1157780
+   Peters HP, 2014, METODE SCI STUD J, P163, DOI 10.7203/metode.80.3043
+   Peters HP, 2013, P NATL ACAD SCI USA, V110, P14102, DOI 10.1073/pnas.1212745110
+   PETERS HP, 1995, MEDIA CULT SOC, V17, P31, DOI 10.1177/016344395017001003
+   Peters HP, 2013, METODE, V80, P163
+   Rosa MIP, 2005, AN 5 ENC NAC PESQ ED
+   The Royal Society, 1985, PUBL UND SCI REP ROY
+NR 17
+TC 4
+Z9 4
+U1 0
+U2 9
+PU ACAD BRASILEIRA DE CIENCIAS
+PI RIO JANEIRO
+PA RUA ANFILOFIO DE CARVALHO, 29, 3 ANDAR, 20030-060 RIO JANEIRO, BRAZIL
+SN 0001-3765
+EI 1678-2690
+J9 AN ACAD BRAS CIENC
+JI An. Acad. Bras. Cienc.
+PD APR-JUN
+PY 2016
+VL 88
+IS 2
+BP 1165
+EP 1175
+DI 10.1590/0001-3765201620150558
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DQ0KX
+UT WOS:000378889100036
+PM 27276380
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Reynoso, E
+   Murrielo, S
+   Castillo, A
+AF Massarani, Luisa
+   Reynoso, Elaine
+   Murrielo, Sandra
+   Castillo, Ayelen
+TI Science Communication Postgraduate Studies in Latin America: a map and
+   some food for thought
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Article
+DE Science communication in the developing world
+AB This paper contains an overview of the programmes currently existing in Latin America to train science communicators. For such purpose, only postgraduate courses held regularly were considered in the study. Twenty-two programmes meeting such requirement were identified in five countries, 65% of which were in fact established over the past ten years. They present a lot of diversity in terms of admittance requirements, goals, contents, approaches, duration and graduation requirements. However, all of them share the same effort, aiming to offer specific contents in the area of science communication.
+C1 [Massarani, Luisa] Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Grp Sci Popularisat Studies, Nucleo Estudos Divulgacao Cient,Museo Vida, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] SciDev Net, Latin Amer & Caribbean, Rio De Janeiro, Brazil.
+   [Reynoso, Elaine] Univ Nacl Autonoma Mexico, Gen Directorate Sci Commun, Mexico City, DF, Mexico.
+   [Reynoso, Elaine] Somedicyt, Mexico City, DF, Mexico.
+   [Murrielo, Sandra] UNRN, Area CTS, Viedma, Argentina.
+   [Castillo, Ayelen] Univ Nacl Rio Negro, Popularisat Sci Technol & Innovat, Viedma, Argentina.
+RP Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Grp Sci Popularisat Studies, Nucleo Estudos Divulgacao Cient,Museo Vida, Rio De Janeiro, Brazil.; Massarani, L (corresponding author), SciDev Net, Latin Amer & Caribbean, Rio De Janeiro, Brazil.
+EM luisa.massarani4@gmail.com; elereyno@dgdc.unam.mx;
+   smurriello@unrn.edu.ar; ayelen75@gmail.com
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq)
+FX This study was conducted with the support from the Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq) and the coordination by
+   the RedPOP with the participation of the Museu da Vida, the Universidad
+   Nacional de Rio Negro and UNESCO. We gratefully acknowledge Ernesto
+   Fernandez, for his support to the implementation of the project, and Ana
+   Claudia Nepote, Ana Paula Trindade, Claudia Aguirre, Constanza Pedersoli
+   and Martha Cambre for their support in the collection of data.
+CR Bueno W, 1985, JORNALISMO CIENTIFIC
+   Cruz J., 2015, COMUNICACION PUBLICA, V18, P71
+   Dellamea A. B, 2000, 9 C DIV CIENC TECN M
+   Haynes E. R., 2009, JCOM, V8, pC04
+   Massarani L., 2015, JCOM, V14, pY06
+   MASSARANI L, 2015, REDPOP 25 ANOS POPUL
+   Massarani L., 2015, GUIA CENTROS MUSEOS
+   Mellor F, 2013, PUBLIC UNDERST SCI, V22, P916, DOI 10.1177/0963662513489386
+   Murriello S., 2010, ESPECIALIZACION DIVU, P47
+   Patino L., 2014, DIVULGACION CIENCIA
+   Reynoso E., 2008, EVALUANDO COMUNICACI
+   Reynoso E, 2015, COMUNICACION PUBLICA, V18
+   Reynoso E., 2015, REDPOP 25 ANOS POPUL
+   Reynoso E, 2015, COMUNICACION PUBLICA, V17
+   Sanchez-Mora C, 2015, COMUNICACION PUBLICA, V18, P123
+   Sanchez-Mora C, 2015, PUBLIC UNDERST SCI, V24, P38, DOI 10.1177/0963662514527204
+   Trench B., 2012, SCI COMMUNICATION WO, P241, DOI [10.1007/978-94-007-4279-6_16, DOI 10.1007/978-94-007-4279-6_16]
+   TURNEY J, 1994, PUBLIC UNDERST SCI, V3, P435, DOI DOI 10.1088/0963-6625/3/4/006
+   van der Sanden M., 2016, PCST 2016 PUBL COMM
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2016
+VL 15
+IS 5
+AR A03_en
+PG 19
+WC Communication
+SC Communication
+GA FM2PZ
+UT WOS:000414830300004
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Antunes, AP
+   Moreira, ID
+   Massarani, LM
+AF Antunes, Anderson Pereira
+   Moreira, Ildeu de Castro
+   Massarani, Luisa Medeiros
+TI Naturalists at rest: an analysis of scenes from nineteenth century
+   iconography
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Article
+DE traveling naturalists; Brazil; nineteenth century; scientific
+   expeditions; iconography
+AB During the nineteenth century, scientific expeditions travelled across Brazil investigating its fauna, flora and natural geological resources. By examining letters, reports, travelogues and illustrations of that time, it is possible to picture those expeditions, the naturalists themselves and the assistants who accompanied them, as well as something of society in nineteenth century Brazil. Our research focuses on the iconography of these travelers. These images help us to understand the way these traveling naturalists viewed nature, the men living in the interior and the indigenous peoples. By comparing eight images selected to illustrate the travelers' campsites we sought to observe their similarities and differences, revealing what they tell us about these travelers, their expeditions and the context in which they worked.
+C1 [Antunes, Anderson Pereira] Fiocruz MS, Casa Oswaldo Cruz, Programa Posgrad Hist Ciencias & Saude, BR-21040361 Rio De Janeiro, RJ, Brazil.
+   [Moreira, Ildeu de Castro] Univ Fed Rio de Janeiro, Inst Fis, BR-21941590 Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa Medeiros] Fiocruz MS, Casa Oswaldo Cruz, Museu Vida, BR-21040900 Rio De Janeiro, RJ, Brazil.
+RP Antunes, AP (corresponding author), Fiocruz MS, Casa Oswaldo Cruz, Programa Posgrad Hist Ciencias & Saude, Av Brasil 4036,Sala 420, BR-21040361 Rio De Janeiro, RJ, Brazil.
+EM anderson.p.antunes@gmail.com; ildeucastro@gmail.com; lumassa@fiocruz.br
+RI Antunes, Anderson Pereira/ABD-3003-2020
+OI Antunes, Anderson Pereira/0000-0001-7133-7848
+CR ANTUNES Anderson Pereira, 2012, ICONOGRAFIA VIAJANTE
+   Bates H. W., 1864, NATURALIST RIVER AMA
+   Debret Jean Baptiste, 1835, VOYAGE PITTORESQUE H, V2
+   DORBIGNY A., 1976, VIAGEM PITORESCA ATR
+   HUMBOLDT Alexander von, 1850, TABLEAUX NATURE
+   KELLER-LEUZINGER Franz, 1875, AMAZON MADEIRA RIVER
+   KURY L, 2001, HIST CIENC SAUDE-MAN, V8, P863
+   KURY Lorelai Brilhante, 2009, COMISSAO CIENTIFICA
+   LEITE Miriam L. Moreira, 1997, LIVROS VIAGEM 1803 1
+   LOPES Maria Margaret, 2009, COMISSAO CIENTIFICA, P51
+   MONTEMONT Albert, 1833, BIBLIOTHEQUE UNIVERS
+   Moreira IC, 2002, CIENCIA HOJE, V31, P40
+   Panofsky E., 1979, SIGNIFICADO ARTES VI
+   von Spix Johann Baptiste, 1823, REISE IN BRASILIEN
+   Wallace A. R, 1853, NARRATIVE TRAVELS AM
+   Wallace AR, 1979, VIAGENS PELOS RIOS A
+NR 16
+TC 1
+Z9 1
+U1 0
+U2 1
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD JUL-SEP
+PY 2015
+VL 22
+IS 3
+BP 1051
+EP 1066
+DI 10.1590/S0104-59702015000300024
+PG 16
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA CQ5RP
+UT WOS:000360663600024
+PM 26331661
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Aguirre, C
+   Pedersoli, C
+   Reynoso, E
+   Lindegaard, LM
+AF Massarani, Luisa
+   Aguirre, Claudia
+   Pedersoli, Constanza
+   Reynoso, Elaine
+   Lindegaard, Luz Marina
+TI RedPOP: 25 years of a Science Communication Network in Latin America
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA Spanish
+DT Article
+C1 [Massarani, Luisa] Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Integra Nucleo Estudios Divulga Cient Museo Vida, Rio De Janeiro, Brazil.
+   [Reynoso, Elaine] Univ Nacl Autonoma Mexico, Fis, Pedagogia, Mexico City 04510, DF, Mexico.
+   [Lindegaard, Luz Marina] Pontificia Univ Catolica Valparaiso, Educ Diferencial, Valparaiso, Chile.
+RP Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Casa Oswaldo Cruz, Integra Nucleo Estudios Divulga Cient Museo Vida, Rio De Janeiro, Brazil.
+EM luisa.massarani4@gmail.com; claudia.aguirre@parqueexplora.org;
+   copedersoli@gmail.com; elereyno@dgdc.unam.mx; mar.vegalin@gmail.com
+CR Alvarez M. C., 2007, ACTIVIDADES CIENTIFI
+   Bauer M. W., 2013, COMUNICACAO SOC, V35, P67
+   Candotti E., 1998, CIENCIA HOY, V9
+   CAZAUX Diana, 2010, HIST DIVULGACION CIE
+   Farias M., 2002, CIENCIA TODOS 17 ANO
+   Fernandes AM, 1990, CONSTRUCAO CIENCIA B
+   Fog L., 2004, QUARK, V44, P59
+   Massarani L., 2015, GUIA CENTROS MUSEOS
+   MOREIRA I, 2002, CIENCIA PUBLICO CAMI, V43, P43
+   Sanchez-Mora C, 2015, PUBLIC UNDERST SCI, V24, P38, DOI 10.1177/0963662514527204
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2015
+VL 14
+IS 3
+AR Y06_es
+PG 9
+WC Communication
+SC Communication
+GA CX4ZN
+UT WOS:000365709600018
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Aguirre, C
+   Pedersoli, C
+   Reynoso, E
+   Lindegaard, LM
+AF Massarani, Luisa
+   Aguirre, Claudia
+   Pedersoli, Constanza
+   Reynoso, Elaine
+   Lindegaard, Luz Marina
+TI RedPOP: 25 years of a Science Communication Network in Latin America
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Article
+DE History of public communication of science; Popularization of science
+   and technology
+AB The Red de PopularizaciOn de la Ciencia y la Tecnologia en America latina y el Caribe (RedPOP) (Latin American and Caribbean Network for the Popularization of Science and Technology) was created 25 years ago as an expression of a movement that started in the 1960s in favour of a scientific education. The purpose of this movement was to incorporate science into the general knowledge of the population by communicating science through different media, products and spaces such as museums and science centres. Since then, the movement has acquired considerable strength in Latin America and RedPOP has been a key factor to the development of this activity in the region, although several challenges still have to be addressed.
+C1 [Massarani, Luisa] Univ Fed Rio de Janeiro, Inst Med Biochemistry, Educ Commun & Governance Sci, BR-21941 Rio De Janeiro, Brazil.
+   [Aguirre, Claudia] Parque Explora, Medellin, Colombia.
+   [Pedersoli, Constanza] Natl Univ La Plata, Human Sci Fac, Sci Educ, La Plata, Buenos Aires, Argentina.
+   [Reynoso, Elaine] Univ Nacl Autonoma Mexico, Sci Commun, Mexico City, DF, Mexico.
+   [Lindegaard, Luz Marina] Pontificia Univ Catolica Chile, Valparaiso, Chile.
+RP Massarani, L (corresponding author), Univ Fed Rio de Janeiro, Inst Med Biochemistry, Educ Commun & Governance Sci, BR-21941 Rio De Janeiro, Brazil.
+EM luisa.massarani4@gmail.com; claudia.aguirre@parqueexplora.org;
+   copedersoli@gmail.com; elereyno@dgdc.unam.mx; mar.vegalin@gmail.com
+CR Alvarez M. C., 2007, ACTIVIDADES CIENTIFI
+   Bauer M. W., 2013, COMUNICACAO SOC, V35, P67
+   Candotti E., 1998, CIENCIA HOY, V9
+   CAZAUX Diana, 2010, HIST DIVULGACION CIE
+   Farias M., 2002, CIENCIA TODOS 17 ANO
+   Fernandes AM, 1990, CONSTRUCAO CIENCIA B
+   Fog L., 2004, QUARK, V44, P59
+   MASSARANI L, 2015, GUIA CTR MUSEOS CIEN
+   MOREIRA I, 2002, CIENCIA PUBLICO CAMI, V43, P43
+   Sanchez-Mora C, 2015, PUBLIC UNDERST SCI, V24, P38, DOI 10.1177/0963662514527204
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 5
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2015
+VL 14
+IS 3
+AR Y06_en
+PG 9
+WC Communication
+SC Communication
+GA CX4ZN
+UT WOS:000365709600017
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Carletti, C
+   Massarani, L
+AF Carletti, Chrystian
+   Massarani, Luisa
+TI Explainers of science centres and museums: a study on these stakeholders
+   in the mediation between science and the public in Brazil
+SO JCOM-JOURNAL OF SCIENCE COMMUNICATION
+LA English
+DT Article
+DE Mediation; Science centres and museums; Science communication; Explainer
+AB In this paper, we investigate who are the explainers who work is Brazilian science centres and museums. We used an online survey, which was answered by 370 people from 73 institutions out of a group of 200 scientific and cultural centres. Our results indicate that most of these professionals are young people between 18 and 25 years old, they hold a high school certificate or are attending university, and they have been working in this field for less than five years. Only a fifth declared that they had done professional training before starting their activities; about 60% said that they are not prepared to attend to disabled visitors. We believe that our study will improve the practice of science communication, contributing to the creation of training and professional courses.
+C1 [Carletti, Chrystian] Fed Inst Educ Sci & Technol Rio de Janeiro IFRJ, Biol & Popularizat Sci, Interact Sci Space, Rio De Janeiro, Brazil.
+   [Carletti, Chrystian] Fiocruz MS, Biosci & Hlth, Inst Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] Museum Life, Studies Sci Commun, Rio De Janeiro, Brazil.
+   [Massarani, Luisa] SciDev Net, Rio De Janeiro, Brazil.
+RP Carletti, C (corresponding author), Fed Inst Educ Sci & Technol Rio de Janeiro IFRJ, Biol & Popularizat Sci, Interact Sci Space, Rio De Janeiro, Brazil.
+EM chrystian.carletti@ifrj.edu.br; lumassa@fiocruz.br
+CR Almeida R. C. N., 2014, J MEDIA COMMUNICATIO, V6, P174, DOI 10.5897/jmcs2014.0411
+   Amorim L., 2013, COMUNICACAO SOC, V35, P111, DOI 10.15603/2175-7755/cs.v35n1p111-129
+   Bonatto M. P., 2007, DIALOGOS CIENCIA MED, P47
+   Costa A. G., 2005, JCOM, V4, pC03
+   Falk J. H., 2000, LEARNING MUSEUS VISI
+   Ferreira T., 2008, 11 ENC PESQ ENS FIS
+   Freitas HMRD, 2004, USO INTERNET PROCESS
+   Gomes I., 2013, THESIS U FEDERAL EST
+   IBGE, 2010, CENS 2010
+   Lima V. M., 2010, ITINERARIUS REFLECTI, V8, P1
+   Marandino M., 2008, EDUCACAO MUSEUS MEDI
+   Martin M. S., 2008, JCOM, V7, pC08
+   Massarani L., 2009, CTR MUSEUS CIENCIAS
+   Ministerio da Ciencia e Tecnologia, 2010, PERC PUBL CIENC TECN
+   Mora M. C. S., 2007, DIALOGOS CIENCIA MED, P22
+   Moraes R., 2007, DIALOGOS CIENCIA MED, P55
+   Mussi J. Z., 2008, JCOM, V7, pC07
+   Pavao A. C., 2007, HANDS ON MINDS ON HE, P40
+   Ribeiro M. G., 2007, DIALOGOS CIENCIA MED, P67
+   Richard O., 2010, REPORT PROFILE EUROP
+   Rodari P., 2006, 9 INT C PUBL COMM SC
+   Rodari P., 2005, JCOM, V4, pC01
+   Rodari P., 2007, DIALOGOS CIENCIA MED, P8
+   Ruiz-Funes CR, 2008, JCOM-J SCI COMMUN, V7
+   Schiaffino R. S., 2012, TEMPO BRASILEIRO, V188, P79
+   Tran LU, 2008, JCOM-J SCI COMMUN, V7
+   Zana B., 2005, JCOM, V4, pC02
+NR 27
+TC 1
+Z9 1
+U1 0
+U2 7
+PU SCUOLA INT SUPERIORE STUDI AVANZATI-S I S S A-INT SCH ADVANCED STUDIES
+PI TRIESTE
+PA VIA BEIRUT 2-4, TRIESTE, 34014, ITALY
+SN 1824-2049
+J9 JCOM-J SCI COMMUN
+JI JCOM-J. Sci. Commun.
+PY 2015
+VL 14
+IS 2
+AR A01
+PG 17
+WC Communication
+SC Communication
+GA CP6BE
+UT WOS:000359968500001
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, Luisa
+TI Voices from other lands
+SO PUBLIC UNDERSTANDING OF SCIENCE
+LA English
+DT Editorial Material
+DE developing world; non English-speaking world
+AB Since the early 1990s, research in public understanding of science has significantly increased and become more systematic and academic. However, most of papers published by the main journals in the field have as origin the English-speaking world of the United States, the United Kingdom, Canada, Australia and New Zealand: for example, in this very journal, PUS, two-thirds of the empirical material come from these countries. This paper aims both to call attention to unheard voices, and make space for new ones, from other parts of the world, aiming to open space for new voices.
+C1 Fundacao Oswaldo Cruz, Museum Life, BR-21040900 Rio De Janeiro, RJ, Brazil.
+RP Massarani, L (corresponding author), Fundacao Oswaldo Cruz, Museum Life, House Oswaldo Cruz,Av Brasil,4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM luisa.massarani3@gmail.com
+CR Appiah B, 2015, PUBLIC UNDERST SCI, V24, P23, DOI 10.1177/0963662514547478
+   Arnett JJ, 2008, AM PSYCHOL, V63, P602, DOI 10.1037/0003-066X.63.7.602
+   Henrich J, 2010, BEHAV BRAIN SCI, V33, P61, DOI 10.1017/S0140525X0999152X
+   Kamolpattana S, 2015, PUBLIC UNDERST SCI, V24, P69, DOI 10.1177/0963662514525560
+   MARTIN WB, 2013, REPORT
+   Murriello S, 2015, PUBLIC UNDERST SCI, V24, P86, DOI 10.1177/0963662514555452
+   Sanchez-Mora C, 2015, PUBLIC UNDERST SCI, V24, P38, DOI 10.1177/0963662514527204
+NR 7
+TC 6
+Z9 6
+U1 0
+U2 18
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0963-6625
+EI 1361-6609
+J9 PUBLIC UNDERST SCI
+JI Public Underst. Sci.
+PD JAN
+PY 2015
+VL 24
+IS 1
+SI SI
+BP 2
+EP 5
+DI 10.1177/0963662514563888
+PG 4
+WC Communication; History & Philosophy Of Science
+SC Communication; History & Philosophy of Science
+GA AY0IC
+UT WOS:000347279500001
+PM 25556200
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, Luisa
+TI LETTER TO THE EDITOR
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Spanish
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD NOV
+PY 2013
+VL 20
+SU 1
+BP 1115
+EP 1116
+DI 10.1590/S0104-59702013000400001
+PG 2
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA 279HD
+UT WOS:000328950100001
+PM 24346192
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Castelfranchi, Y
+   Vilela, EM
+   de Lima, LB
+   Moreira, ID
+   Massarani, L
+AF Castelfranchi, Yurij
+   Meire Vilela, Elaine
+   Barreto de Lima, Luciana
+   de Castro Moreira, Ildeu
+   Massarani, Luisa
+TI Brazilian opinions about science and technology: the 'paradox' of the
+   relation between information and attitudes
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Article
+DE public understanding of science; social studies of science and
+   technology; science communication; Brazil
+ID SCIENTIFIC LITERACY; PUBLIC PERCEPTIONS; COMMUNICATION
+AB In many debates on the relation between science and society, especially concerning the acceptance of technology or the perception of its risks, there is an underlying hypothesis: that ignorance generates fear, which in turn generates mistrust or hostility toward science and technology (S&T). The article shows that this hypothesis is questionable. Based on a recent nationwide survey in Brazil, we show that optimistic attitudes about S&T do not depend on people's educational level, their level of information, or their accessing of related subject matter. On average, respondents who say they have scarce information on the topic display positive attitudes. Those with a higher educational level and who access information display diverse attitudes, which are optimistic in some regards but more critical in others.
+C1 [Castelfranchi, Yurij; Meire Vilela, Elaine] Univ Fed Minas Gerais, Dept Sociol & Antropol, BR-31270901 Belo Horizonte, MG, Brazil.
+   [Barreto de Lima, Luciana] Estat Inst Avaliacao & Desenvolvimento Educ, BR-30380650 Belo Horizonte, MG, Brazil.
+   [de Castro Moreira, Ildeu] Univ Fed Rio de Janeiro, Inst Fis, Ctr Tecnol, BR-21945190 Rio De Janeiro, RJ, Brazil.
+   [Massarani, Luisa] Fundacao Oswaldo Cruz, Nucleo Estudos Divulgacao Cient, Museu Vida, BR-21045900 Rio De Janeiro, Brazil.
+RP Castelfranchi, Y (corresponding author), Univ Fed Minas Gerais, Dept Sociol & Antropol, Av Antonio Carlos 6627, BR-31270901 Belo Horizonte, MG, Brazil.
+EM ycastelfranchi@gmail.com; emvilela@gmail.com; lublbh@gmail.com;
+   ildeucastro@gmail.com; lumassa@fiocruz.br
+RI Castelfranchi, Yurij/Q-9700-2019; Castelfranchi, Yurij/H-4436-2011
+OI Castelfranchi, Yurij/0000-0003-4003-5956
+CR ALBORNOZ Mario, 2003, INFORME FINAL
+   Allum NC, 2002, BIOTECHNOLOGY MAKING, P224
+   Allum N, 2008, PUBLIC UNDERST SCI, V17, P35, DOI 10.1177/0963662506070159
+   ARGENTINA. Secretaria de Ciencia Tecnologia e Innovacion Productiva (Secyt), 2003, LOS ARGENTINOS Y SU
+   ARGENTINA. Secretaria de Ciencia Tecnologia e Innovacion Productiva (Secyt), 2007, LA PERCEPCION DE LOS
+   BAUER M, 1994, INT J PUBLIC OPIN R, V6, P163, DOI 10.1093/ijpor/6.2.163
+   Bauer M. W., 2007, PUBLIC UNDERST SCI, V15, P1
+   Bodmer W. F., 1985, PUBLIC UNDERSTANDING
+   BRASIL. Ministerio da Ciencia Tecnologia e Inovacao/Museu da Vida, 2007, PERCEPCAO PUBLICA DA
+   BRASIL. Ministerio da Ciencia Tecnologia e Inovacao/Museu da Vida, 2010, PERCEPCAO PUBLICA DA
+   Burns TW, 2003, PUBLIC UNDERST SCI, V12, P183, DOI 10.1177/09636625030122004
+   CASTELFRANCHI Yurij, 2007, NICO COME SI COMUNIC
+   CASTELFRANCHI Yurij, 2002, JOURNAL OF SCIENCE C, V1
+   CNPQ/GALLUP, 1987, QUE BRAS PENS CIENC
+   COLOMBIA. Departamento Administrativo de Ciencia Tecnologia e Innovacion/Colciencias, 2004, LA PERCEPCION QUE TI
+   Durant J. R., 1993, SCI CULTURE EUROPE, P129
+   DURANT John, 1998, BIOTECHNOLOGY IN THE
+   DURANT JR, 1989, NATURE, V340, P11, DOI 10.1038/340011a0
+   EC. European Commission, 1997, EUROBAROMETER 46 1 E
+   EC. European Commission, 1993, EUROPEANS SCIENCE AN
+   EC. European Commission, 1991, OPINIONS OF EUROPEAN
+   EC. European Commission, 2005, EUROBAROMETER 2005 E
+   EC. European Commission, 2001, EUROBAROMETER EUROPE
+   EC. European Commission, 2000, THE EUROPEANS AND BI
+   EVANS G, 1995, PUBLIC UNDERST SCI, V0004
+   Gaskell G, 2001, BIOTECHNOLOGY 1996 2
+   Godin B, 2000, PUBLIC UNDERST SCI, V9, P43, DOI 10.1088/0963-6625/9/1/303
+   HILGARTNER S, 1990, SOC STUD SCI, V20, P519, DOI 10.1177/030631290020003006
+   Irwin Alan, 1996, MISUNDERSTANDING SCI
+   Laugksch RC, 2000, SCI EDUC, V84, P71, DOI 10.1002/(SICI)1098-237X(200001)84:1<71::AID-SCE6>3.0.CO;2-C
+   Martin S., 1992, Biotechnology in public: a review of recent research., P28
+   MEAD M, 1957, SCIENCE, V126, P384, DOI 10.1126/science.126.3270.384
+   MEXICO. Consejo Nacional de Ciencia y Tecnologia (Conacyt), 1999, INDICADORES DE ACTIV
+   MEXICO. Consejo Nacional de Ciencia y Tecnologia (Conacyt), 2003, ENCUESTA SOBRE LA PE
+   MILLER JD, 1983, DAEDALUS, V112, P29
+   Miller JD, 1998, PUBLIC UNDERST SCI, V7, P203, DOI 10.1088/0963-6625/7/3/001
+   OECD. Organization for Economic Co-operation and Development, 1997, SCIENCE AND TECHNOLO
+   OECD. Organization for Economic Co-operation and Development, 1997, PROMOTING PUBLIC UND
+   PANAMA. Secretaria Nacional de Ciencia y Tecnologia, 2001, INDICADORES DE PERCE
+   Pardo R, 2004, PUBLIC UNDERST SCI, V13, P203, DOI 10.1177/0963662504045002
+   Pardo R, 2002, PUBLIC UNDERST SCI, V11, P155, DOI 10.1177/096366202129084859
+   PARDO Rafael, 1997, PUBLIC PERCEPTIONS O
+   POLINO Carmelo, 2012, THE CULTURE OF SCIEN, P155
+   Priest SH, 2001, SCI COMMUN, V23, P97, DOI 10.1177/1075547001023002002
+   Roth WM, 2002, PUBLIC UNDERST SCI, V11, P33, DOI 10.1088/0963-6625/11/1/302
+   SAGAN Carl, 1996, MUNDO ASSOMBRADO DEM
+   Stokes D., 2005, QUADRANTE PASTEUR CI
+   Sturgis P, 2004, PUBLIC UNDERST SCI, V13, P55, DOI 10.1177/0963662504042690
+   WITHEY SB, 1959, PUBLIC OPIN QUART, V23, P382, DOI 10.1086/266890
+NR 49
+TC 9
+Z9 9
+U1 0
+U2 18
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD NOV
+PY 2013
+VL 20
+SU 1
+BP 1163
+EP 1183
+DI 10.1590/S0104-59702013000400005
+PG 21
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA 279HD
+UT WOS:000328950100005
+PM 24346196
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Almeida, C
+   Dal'Col, FL
+   Massarani, L
+AF Almeida, Carla
+   Dal'Col, Franciane Lovati
+   Massarani, Luisa
+TI Scientific controversies in Brazilian television journalism: the
+   coverage of stem cell research on Jornal Nacional
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Article
+DE stem cells; embryo; controversy; media; Brazil
+ID SCIENCE; MEDIA; BIOTECHNOLOGY; TECHNOLOGY; GENETICS; NEWS; HOPE; US
+AB In 1998, stem cell research became a subject of heightened controversy. In Brazil, the polemic came to a head in 2008 when the Federal Supreme Court commenced a judicial review of the new Biosecurity Law because it permitted the use of human embryos in research. This study analyzes the coverage of human embryonic stem cell research on the national daily evening news show, Jornal Nacional. A positive tone is observed, marked by a focus on the potential benefits of the research and omission of its limitations and risks. The limited success rate thus far obtained from embryonic stem cell research and the risks of inducing the formation of tumors were omitted, intimating that the only barrier to new treatments and cures was the legislation.
+C1 [Almeida, Carla; Massarani, Luisa] Fiocruz MS, Nucleo Estudos Divulgacao Cient, Museu Vida, Casa Oswaldo Cruz, BR-21040900 Rio De Janeiro, RJ, Brazil.
+   [Dal'Col, Franciane Lovati] BTG Pactual, BR-22250040 Rio De Janeiro, RJ, Brazil.
+RP Almeida, C (corresponding author), Fiocruz MS, Nucleo Estudos Divulgacao Cient, Museu Vida, Casa Oswaldo Cruz, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM almeidacarla@gmail.com; franldc@gmail.com; lumassa@fiocruz.br
+CR Anderson A, 2002, NEW GENET SOC, V21, P327, DOI 10.1080/14636770216006
+   [Anonymous], 2008, J NACL RIO DE JANEIR
+   [Anonymous], 2005, J NACL RIO DE JANEIR
+   [Anonymous], 2007, J NACL RIO DE JANEIR
+   Bates BR, 2005, PUBLIC UNDERST SCI, V14, P47, DOI 10.1177/0963662505048409
+   Bauer MW, 2002, PUBLIC UNDERST SCI, V11, P93, DOI 10.1088/0963-6625/11/2/301
+   Becker B., 2009, JOURNALISM, V10, P45
+   Cesarino LMCN, 2006, THESIS U BRASILIA BR
+   Condit CM, 1998, AM J HUM GENET, V62, P979, DOI 10.1086/301784
+   Condit CM, 1999, PUBLIC UNDERST SCI, V8, P169, DOI 10.1088/0963-6625/8/3/302
+   Conrad P, 2001, HEALTH, V5, P373, DOI 10.1177/136345930100500306
+   Craig DA, 2000, JOURNALISM MASS COMM, V77, P160, DOI 10.1177/107769900007700112
+   Souza IMD, 2010, HIST CIENC SAUDE-MAN, V17, P471, DOI 10.1590/S0104-59702010000200012
+   Dimopoulos K, 2003, SCI EDUC, V87, P241, DOI 10.1002/sce.10054
+   Gallian Dante Marcello Claramonte, 2005, Estud. av., V19, P251, DOI 10.1590/S0103-40142005000300018
+   Geller G, 2003, SOC SCI MED, V56, P2211, DOI 10.1016/S0277-9536(02)00237-X
+   GLOBO REDE, 2007, DIR GER COM DIV PLAN
+   IBOPE. Instituto Brasileiro de Opiniao Publica e Estatistica, 2008, POP BRAS DECL AP US
+   Jensen E, 2008, PUBLIC UNDERST SCI, V17, P123, DOI 10.1177/0963662506065874
+   Jurberg C, 2009, PUBLIC UNDERST SCI, V18, P719, DOI 10.1177/0963662509335457
+   Kitzinger J, 2005, SOC SCI MED, V61, P731, DOI 10.1016/j.socscimed.2005.03.018
+   Kitzinger J, 2000, MEDIA CULT SOC, V22, P61, DOI 10.1177/016344300022001004
+   Luna Naara, 2007, Interface (Botucatu), V11, P587, DOI 10.1590/S1414-32832007000300013
+   Makgoba MW, 2002, VACCINE, V20, P1899, DOI 10.1016/S0264-410X(02)00063-4
+   MASSARANI Luisa, 2008, DESAFIOS EVALUACION, P19
+   MCT - Ministerio da Ciencia e da Tecnologia, 2011, PERC PUBL CIENC TECN
+   MILLER D, 1995, PUBLIC UNDERST SCI, V4, P269, DOI DOI 10.1088/0963-6625/4/3/005
+   Miller D., 1998, CIRCUIT MASS COMMUNI
+   MOLITOR F, 1993, HEALTH COMMUN, V5, P209, DOI DOI 10.1207/S15327027HC0503_4
+   MULKAY M, 1993, SOC STUD SCI, V23, P721, DOI 10.1177/030631293023004004
+   MURAD Najib, 2006, HIGH TECHN SMALL FIR
+   National Institutes of Health, 2009, STEM CELL BAS
+   Nelkin D., 1995, THE DNA MYSTIQUE
+   *NIH, 2002, STEM CELL INF
+   Nisbet MC, 2004, PUBLIC OPIN QUART, V68, P131, DOI 10.1093/poq/nfh009
+   Nisbet MC, 2003, HARV INT J PRESS-POL, V8, P36, DOI 10.1177/1081180X02251047
+   ODA Leila, 2005, ENTR CARL ALM FERN V
+   Peters HP, 2000, NEW GENET SOC, V19, P365, DOI 10.1080/713687608
+   PETERS HP, 1998, 5 INT C PUBL COMM SC
+   Petersen A., 2002, BODY SOC, V8, P71, DOI [10.1177/1357034X02008004004., DOI 10.1177/1357034X02008004004]
+   PETERSEN Alan, 1999, J COMMUNICATION INQU, V23, P63
+   PRIEST SH, 1995, J COMMUN, V45, P39, DOI 10.1111/j.1460-2466.1995.tb00713.x
+   Ramon D, 2002, TRENDS BIOTECHNOL, V20, P285, DOI 10.1016/S0167-7799(02)01952-2
+   Reis R, 2008, SCI COMMUN, V29, P316, DOI 10.1177/1075547007312394
+   Schafer MS, 2009, SCI COMMUN, V30, P475, DOI 10.1177/1075547008326943
+   Singer E, 1999, J HEALTH SOC BEHAV, V40, P429, DOI 10.2307/2676335
+   STF. Supremo Tribunal Federal, 2005, AC DIR INC N 3 5 10
+   TAGLIANEGNA Gustavo H.F., 2005, THESIS U BRASILIA BR
+   Weingart P, 2008, PUBLIC UNDERST SCI, V17, P381, DOI 10.1177/0963662506070188
+   Wilkes L, 2001, Eur J Oncol Nurs, V5, P80
+   Wolpert L, 1999, NATURE, V398, P281, DOI 10.1038/18543
+NR 51
+TC 2
+Z9 2
+U1 0
+U2 13
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD NOV
+PY 2013
+VL 20
+SU 1
+BP 1203
+EP 1223
+DI 10.1590/S0104-59702013000400007
+PG 21
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA 279HD
+UT WOS:000328950100007
+PM 24346198
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Brito, L
+   Massarani, L
+   Lima, L
+AF Brito, Lidia
+   Massarani, Luisa
+   Lima, Luanda
+TI Brazil-Mozambique, links in scientific policy: an interview with Lidia
+   Brito
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Editorial Material
+DE science in the developing world; scientific popularization; Lidia Brito;
+   Brazil; Mozambique
+AB This text presents an interview with Lidia Brito, director of the Division of Policy and Training in Science of the United Nations Educational, Scientific and Cultural Organization (Unesco) and former minister of the Ministry of Science, Technology and Innovation of Mozambique. With a discerning eye, Brito discusses some of the current challenges facing science in Mozambique, the importance of establishing partnerships between developing countries and the popularization of science. With her highly charismatic personality, she also discusses her activities in Unesco and the role of women in science.
+EM nestudos@coc.fiocruz.br; nestudos@coc.fiocruz.br
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD APR-JUN
+PY 2012
+VL 19
+IS 2
+BP 533
+EP 540
+PG 8
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA 984YE
+UT WOS:000307228900010
+PM 22872393
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, Luisa
+TI New framework needed to thwart Brazil's crippling bureaucracy
+SO NATURE MEDICINE
+LA English
+DT News Item
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 1078-8956
+J9 NAT MED
+JI Nat. Med.
+PD OCT
+PY 2011
+VL 17
+IS 10
+BP 1171
+EP 1171
+DI 10.1038/nm1011-1171b
+PG 1
+WC Biochemistry & Molecular Biology; Cell Biology; Medicine, Research &
+   Experimental
+SC Biochemistry & Molecular Biology; Cell Biology; Research & Experimental
+   Medicine
+GA 835FW
+UT WOS:000296022100012
+PM 21988976
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, Luisa
+TI Exhibition The life of a museum
+SO LANCET
+LA English
+DT Editorial Material
+EM lumassa@fiocruz.br
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PD MAY 21
+PY 2011
+VL 377
+IS 9779
+BP 1737
+EP 1737
+DI 10.1016/S0140-6736(11)60718-6
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 771AS
+UT WOS:000291130200014
+DA 2020-12-16
+ER
+
+PT J
+AU Medeiros, FND
+   Ramalho, M
+   Massarani, L
+AF da Silva Medeiros, Flavia Natercia
+   Ramalho, Marina
+   Massarani, Luisa
+TI Science on the front page: an analysis of the covers of three Brazilian
+   newspapers
+SO HISTORIA CIENCIAS SAUDE-MANGUINHOS
+LA Portuguese
+DT Article
+DE science and media; scientific journalism; scientific dissemination;
+   Brazil
+ID MEDIA; NEWS; BIOTECHNOLOGY; GENETICS; PRESS; US
+AB Many studies have tried to understand how the media covers topics related to science and technology (S&T) but few have examined the presence of these topics on the front pages of newspapers. This study analyzes the content of front-page leads about S&T in 2006, focusing on one elite national paper (Folha de S. Paulo) and two regional papers (Jornal do Commercio, from Pernambuco, and Zero Hora, from Rio Grande do Sul). It was noted that all three papers devoted front-page space to S&T, although to differing degrees. Folha de S. Paulo featured the topic more often, while Zero Hora highlighted it the most on its front pages.
+C1 [da Silva Medeiros, Flavia Natercia] Fiocruz MS, COC, Nucleo Estudos Divulgacao Cient, Fundacao Oswaldo Cruz,Museu Vida, BR-21040900 Rio De Janeiro, Brazil.
+RP Medeiros, FND (corresponding author), Fiocruz MS, COC, Nucleo Estudos Divulgacao Cient, Fundacao Oswaldo Cruz,Museu Vida, Ave Brasil 4-365, BR-21040900 Rio De Janeiro, Brazil.
+EM fnatercia@yahoo.com; marina.ramalho@gmail.com; luisa.massarani@gmail.com
+CR Amorim L.H, 2009, REV BRAS ENSINO FIS, V1, P73, DOI [DOI 10.3895/S1982-873X2008000100005, 10.3895/S1982-873X2008000100005]
+   BADER RG, 1990, JOURNALISM QUART, V67, P88, DOI 10.1177/107769909006700114
+   Bartlett C, 2002, BRIT MED J, V325, P81, DOI 10.1136/bmj.325.7355.81
+   Bauer M., 1994, SCI BECOMES CULTURE, VII
+   BAUER M, 1995, SCI TECHNOLOGY BRIT
+   Bauer M. W., 2001, BIOTECHNOLOGY 1996 2, P35
+   BAUER MW, 2008, PESQUISA QUALITATIVA, P189
+   Bucchi M, 2003, PUBLIC UNDERST SCI, V12, P7, DOI 10.1177/0963662503012001413
+   Clark F, 2006, SCI COMMUN, V27, P496, DOI 10.1177/1075547006288010
+   Conrad P, 2001, HEALTH, V5, P373, DOI 10.1177/136345930100500306
+   Conrad P, 1999, PUBLIC UNDERST SCI, V8, P285, DOI 10.1088/0963-6625/8/4/302
+   Dimopoulos K, 2002, PUBLIC UNDERST SCI, V11, P225, DOI 10.1088/0963-6625/11/3/302
+   DORING M, 2005, METAPHORIK DE ESSEN, V8
+   EINSIEDEL EF, 1992, PUBLIC UNDERST SCI, V1, P9
+   Eshbaugh-Soha M, 2008, PRES STUD Q, V38, P609, DOI 10.1111/j.1741-5705.2008.02667.x
+   EVANS WA, 1990, SOC SCI QUART, V71, P105
+   Gaskell G., 2001, BIOTECHNOLOGY 1996 2, P3
+   GOMES I, 2004, ENC NAC PESQ JORN 26
+   Hansen A., 1992, COMMUNICATIONS, V17, P365
+   Hijmans E, 2003, SCI COMMUN, V25, P153, DOI 10.1177/1075547003259559
+   HOLLIMAN R, 2002, INT C PUBL COMM SCI
+   LAI WY, 2009, PLOS ONE CAMBRDIGE, V4
+   MASSARANI Luisa, 2008, DESAFIOS EVALUACION, P19
+   MEDEIROS FND, 2007, REV BRASILEIRA CIENC, V30, P71
+   Nelkin D., 1995, SELLING SCI PRESS CO
+   NERESINI F, 2001, NUOVA CIVILTA MACCHI, V19, P133
+   NERESINI F, 2000, PUBLIC UNDERST SCI, V9, P1
+   Nerlich B, 2001, J LITERARY SEMANTICS, V30, P37, DOI 10.1515/jlse.30.1.37
+   NERLICH B, 2005, METAPHORIK DE ESSEN, V8
+   Nisbet MC, 2003, HARV INT J PRESS-POL, V8, P36, DOI 10.1177/1081180X02251047
+   Nisbet MC, 2002, SCI COMMUN, V23, P359, DOI 10.1177/107554700202300401
+   Peake JS, 2007, HARV INT J PRESS/POL, V12, P52, DOI 10.1177/1081180X07307378
+   Pellechia MG, 1997, PUBLIC UNDERST SCI, V6, P49, DOI 10.1088/0963-6625/6/1/004
+   PIPPI J, 2007, ENC NAC PESQ JORN 15
+   Ramsey S., 1994, PUBLIC UNDERST SCI, V3, P71
+   RUBBO D, 2007, C BRAS CIENC COM 29
+   Ten Eyck TA, 2005, PUBLIC UNDERST SCI, V14, P305, DOI 10.1177/0963662505052888
+   Tuchman G., 1978, MAKING NEWS STUDY CO
+   VOGT C, 2001, PRODUCAO CIRCULACAO, P135
+NR 39
+TC 1
+Z9 4
+U1 1
+U2 13
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0104-5970
+EI 1678-4758
+J9 HIST CIENC SAUDE-MAN
+JI Hist. Cienc. Saude-Manguinhos
+PD APR-JUN
+PY 2010
+VL 17
+IS 2
+BP 439
+EP 454
+DI 10.1590/S0104-59702010000200010
+PG 16
+WC History & Philosophy Of Science
+SC History & Philosophy of Science
+GA 634TE
+UT WOS:000280607400010
+PM 21461478
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, Luisa
+TI Brazil pins economic hopes on science
+SO CHEMISTRY WORLD
+LA English
+DT News Item
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1473-7604
+J9 CHEM WORLD-UK
+JI Chem. World
+PD MAY
+PY 2008
+VL 5
+IS 5
+BP 14
+EP 14
+PG 1
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 303OC
+UT WOS:000256048800011
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Moreira, ID
+AF Massarani, L
+   Moreira, ID
+TI Attitudes towards genetics: a case study among Brazilian high school
+   students
+SO PUBLIC UNDERSTANDING OF SCIENCE
+LA English
+DT Article
+AB The objective of our study was to investigate young people's attitudes towards modern genetics and biotechnology. Quantitative and qualitative studies were conducted among high school students in Rio de Janeiro. These included a survey of students in nine public and private schools as well as focus groups for a complementary analysis of their attitudes and perceptions with respect to these subjects. We observed that, in general, students are relatively well informed about some of the main issues related to the applications of genetics. In their assessment of the utility, the potential risks, and the need for encouragement of the different techniques used in genetic manipulation, they were able to make clear distinctions between the different purposes of each technique. Most students believed that transgenic food could be useful and that it should be encouraged, but they were also aware that there were risks involved. Furthermore, the students were strongly supportive of the labeling of transgenic food.
+C1 Fiocruz MS, Ctr Studies Museum Life, Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Inst Phys, Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Interdisciplinary Grp Epistemol & Hist Sci & Tech, Rio De Janeiro, Brazil.
+RP Massarani, L (corresponding author), Av Brasil 4365, BR-21040369 Rio De Janeiro, RJ, Brazil.
+EM lumassa@coc.fiocruz.br
+CR ALVES I, 1987, BRASILEIRO PENSA CIE
+   Cheveigne S., 2002, BIOTECHNOLOGIES DEBA
+   Durant J., 1998, BIOTECHNOLOGY PUBLIC
+   Einsiedel EF, 2000, NAT BIOTECHNOL, V18, P943, DOI 10.1038/79419
+   EINSIEDEL EF, 2001, BIOTECHNOLOGY 1996 2, P145
+   Gaskell G, 2000, NAT BIOTECHNOL, V18, P935, DOI 10.1038/79403
+   Gaskell G, 1999, SCIENCE, V285, P384, DOI 10.1126/science.285.5426.384
+   Gaskell G, 2001, BIOTECHNOLOGY 1996 2
+   *HUM GEN COMM, 2001, PUBL ATT HUM GEN INF
+   *IBOPE, 2002, PERQ OP PUBL SOBR TR
+   *IBOPE, 2001, PESQ OP PUBL SOBR TR
+   Lewis J, 2000, INT J SCI EDUC, V22, P177, DOI 10.1080/095006900289949
+   MASSARANI L, 2001, THESIS FED U RIO JAN
+   MASSARANI L, 2003, BIOSSEGURANCA OGM, P102
+   MASSARANI L, 2003, CIENC AMBIENT, V26, P141
+   *NAT SCI FDN, 2002, SCI ENG IND
+   Potter J., 1987, DISCOURSE SOCIAL PSY
+   Priest SH, 2000, NAT BIOTECHNOL, V18, P939, DOI 10.1038/79412
+   Shanahan J, 2001, PUBLIC OPIN QUART, V65, P267, DOI 10.1086/322201
+   Soares B. E. C., 2001, PARCERIAS ESTRATEGIC, V10, P162
+   WERTZ DC, 1986, AM J HUM GENET, V39, P253
+NR 21
+TC 31
+Z9 33
+U1 0
+U2 5
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0963-6625
+EI 1361-6609
+J9 PUBLIC UNDERST SCI
+JI Public Underst. Sci.
+PD APR
+PY 2005
+VL 14
+IS 2
+BP 201
+EP 212
+DI 10.1177/0963662505050992
+PG 12
+WC Communication; History & Philosophy Of Science
+SC Communication; History & Philosophy of Science
+GA 923QN
+UT WOS:000228924500005
+PM 16193612
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, L
+TI Brazilian genomics breakthrough offers hope for leptospirosis control
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT News Item
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD JUN
+PY 2004
+VL 82
+IS 6
+BP 471
+EP 472
+PG 2
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 830MR
+UT WOS:000222126900015
+PM 15356943
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, L
+TI Anthology on popularization of science in Mexico
+SO PUBLIC UNDERSTANDING OF SCIENCE
+LA English
+DT Book Review
+C1 COC, Museum Life, Fiocruz, Brazil.
+RP Massarani, L (corresponding author), COC, Museum Life, Fiocruz, Brazil.
+CR Tonda J., 2002, ANTOLOGIA DIVULGACIO
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 6 BONHILL STREET, LONDON EC2A 4PU, ENGLAND
+SN 0963-6625
+J9 PUBLIC UNDERST SCI
+JI Public Underst. Sci.
+PD APR
+PY 2003
+VL 12
+IS 2
+BP 216
+EP 217
+DI 10.1177/09636625030122010
+PG 2
+WC Communication; History & Philosophy Of Science
+SC Communication; History & Philosophy of Science
+GA 708YL
+UT WOS:000184597900010
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+   Moreira, ID
+AF Massarani, L
+   Moreira, ID
+TI O clone [The clone]
+SO PUBLIC UNDERSTANDING OF SCIENCE
+LA English
+DT Book Review
+C1 Univ Fed Rio de Janeiro, COPPE, Inst Phys, BR-21945 Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, COPPE, Interdisciplinary Grp Hist Sci & Epistemol, BR-21945 Rio De Janeiro, Brazil.
+CR MASSARANI L, 2001, SCIDEV NET      1023
+   PEREZ G, O CLONE THE CLONE
+   SEGATTO C, 2002, EPOCA, V193
+NR 3
+TC 2
+Z9 4
+U1 0
+U2 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0963-6625
+J9 PUBLIC UNDERST SCI
+JI Public Underst. Sci.
+PD APR
+PY 2002
+VL 11
+IS 2
+BP 207
+EP 208
+PG 2
+WC Communication; History & Philosophy Of Science
+SC Communication; History & Philosophy of Science
+GA 564MB
+UT WOS:000176317200008
+DA 2020-12-16
+ER
+
+PT J
+AU Massarani, L
+AF Massarani, L
+TI Brazilian Amazon nearly halves malaria cases in a year
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT News Item
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PY 2001
+VL 79
+IS 12
+BP 1171
+EP 1171
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 509ZU
+UT WOS:000173184900020
+DA 2020-12-16
+ER
+
+EF

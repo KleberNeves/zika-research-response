@@ -1,0 +1,1505 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Benites, BD
+   Rocha, D
+   Andrade, E
+   Godoy, DT
+   Alvarez, P
+   Addas-Carvalho, M
+AF Benites, Bruno Deltreggia
+   Rocha, Daniele
+   Andrade, Elisabete
+   Godoy, Daniela T.
+   Alvarez, Patricia
+   Addas-Carvalho, Marcelo
+TI Zika Virus and the Safety of Blood Supply in Brazil: A Retrospective
+   Epidemiological Evaluation
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID SEXUAL TRANSMISSION; CHIKUNGUNYA VIRUS; DENGUE VIREMIA; PUERTO-RICO;
+   DONATIONS; DONORS; RNA; INFECTION
+AB The potential for transfusion transmission of dengue virus (DENV), chikungunya virus (CHIKV), and Zika virus (ZIKV) has raised concerns about the safety of the blood supply in endemic areas. In this study, nucleic acid testing (NAT) for ZIKV, DENV, and CHIKV RNA was performed in asymptomatic blood donor samples in the city of Campinas, located in the southeast region of Brazil (1962 in 2015 and 1775 in 2016). The prevalence of reactive NAT was 0.15% in 2015 and 0.62% in 2016 for dengue, 0.05% in 2015 and 0.17% in 2016 for Zika, and 0% in both years for chikungunya. These results demonstrate the weakness of the clinical interview in screening these blood donors. Furthermore, positivity for ZIKV was detected in March 2015, 1 year before the first reported cases in the region. These data attest the feasibility of using donor samples held in library as a tool for retrospective epidemiological evaluation, which is particularly interesting considering emerging pathogens, for which data on their spread and penetrance are initially scarce.
+C1 [Benites, Bruno Deltreggia; Addas-Carvalho, Marcelo] Univ Estadual Campinas, Hematol & Transfus Med Ctr, Rua Carlos Chagas 480, BR-13083970 Campinas, SP, Brazil.
+   [Rocha, Daniele; Andrade, Elisabete; Godoy, Daniela T.; Alvarez, Patricia] Fiocruz MS, Inst Technol Immunobiol Biomanguinhos, Oswaldo Cruz Fdn, Rio De Janeiro, Brazil.
+RP Benites, BD (corresponding author), Univ Estadual Campinas, Hematol & Transfus Med Ctr, Rua Carlos Chagas 480, BR-13083970 Campinas, SP, Brazil.
+EM benites@unicamp.br; daniele.ramos@bio.fiocruz.br;
+   eferreira@bio.fiocruz.br; daniela.godoy@bio.fiocruz.br;
+   palvarez@bio.fiocruz.br; maddas@unicamp.br
+RI benites, Bruno/W-9207-2019; Addas-Carvalho, Marcelo/D-9654-2018
+OI Addas-Carvalho, Marcelo/0000-0003-0178-6191
+CR Anez G, 2015, VOX SANG, V109, P312, DOI 10.1111/vox.12297
+   Barjas-Castro ML, 2016, TRANSFUSION, V56, P1684, DOI 10.1111/trf.13681
+   Baylis SA, 2017, TRANSFUSION, V57, P748, DOI 10.1111/trf.14026
+   Brasil. Ministerio da Saude. Portal Dengue Chikungunya e Zika, 2015, EP B MON CAS DENG FE
+   Busch MP, 2016, J INFECT DIS, V214, P49, DOI 10.1093/infdis/jiw122
+   Cao B, 2017, J INTERF CYTOK RES, V37, P287, DOI 10.1089/jir.2017.0011
+   Centers for Disease Control and Prevention (CDC), 2016, ZIK VIR
+   Department of Health Surveillance Municipal Health Department Campinas, 2016, TECHN REP ZIK VIR
+   Diaz-Quinonez JA, 2016, VIRUS GENES, V52, P855
+   Folkers KM, 2017, PUBLIC HEALTH, V148, P66, DOI 10.1016/j.puhe.2017.02.018
+   Galel SA, 2017, TRANSFUSION, V57, P762, DOI 10.1111/trf.14029
+   Junior DL, 2014, REV BRAS HEMATOL HEM, V36, P309
+   Katz LM, 2017, ARCH PATHOL LAB MED, V141, P85, DOI 10.5858/arpa.2016-0430-RA
+   Kuehnert MJ, 2016, MMWR-MORBID MORTAL W, V65, P627, DOI 10.15585/mmwr.mm6524e2
+   Lanteri MC, 2016, TRANSFUSION, V56, P1907, DOI 10.1111/trf.13677
+   Lednicky J, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004687
+   Levi JE, 2015, TRANSFUSION, V55, P961, DOI 10.1111/trf.12944
+   Lowe R, 2018, INT J ENV RES PUB HE, V9, P15
+   Marano G, 2016, BLOOD TRANSFUS-ITALY, V14, P95, DOI 10.2450/2015.0066-15
+   Marks PW, 2017, TRANSFUSION, V57, P723, DOI 10.1111/trf.14037
+   Matos D, 2016, TRANSFUSION, V56, P215, DOI 10.1111/trf.13288
+   Motta IJF, 2016, NEW ENGL J MED, V375, P1101, DOI 10.1056/NEJMc1607262
+   Municipal Health Department of Campinas, 2016, EPIDEMIOLOGICAL B
+   Musso D, 2014, EUROSURVEILLANCE, V19, P6, DOI 10.2807/1560-7917.ES2014.19.14.20761
+   Sabino EC, 2016, J INFECT DIS, V213, P694, DOI 10.1093/infdis/jiv326
+   Silva MMO, 2016, EMERG INFECT DIS, V22, P336, DOI 10.3201/eid2202.150495
+   Simmons G, 2016, EMERG INFECT DIS, V22, P1221, DOI 10.3201/eid2207.160116
+   Stone M, 2017, TRANSFUSION, V57, P734, DOI 10.1111/trf.14031
+   Stramer SL, 2012, TRANSFUSION, V52, P1657, DOI 10.1111/j.1537-2995.2012.03566.x
+   Turmel JM, 2016, LANCET, V387, P2501, DOI 10.1016/S0140-6736(16)30775-9
+   Williamson PC, 2017, TRANSFUSION, V57, P770, DOI 10.1111/trf.14041
+   World Health Organization, 2016, WHOZIKVPHR161
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 33
+TC 3
+Z9 3
+U1 0
+U2 1
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2019
+VL 100
+IS 1
+BP 174
+EP 177
+DI 10.4269/ajtmh.17-0843
+PG 4
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA HG7WU
+UT WOS:000455207700037
+PM 30398138
+OA Green Published, Bronze
+DA 2020-12-01
+ER
+
+PT J
+AU Sippert, EA
+   Visentainer, JEL
+   Alves, HV
+   Rodrigues, C
+   Gilli, SCO
+   Addas-Carvalho, M
+   Saad, STO
+   Costa, FF
+   Castilho, L
+AF Sippert, Emilia Angela
+   Laguila Visentainer, Jeane Eliete
+   Alves, Hugo Vicentin
+   Rodrigues, Camila
+   Olenscki Gilli, Simone Cristina
+   Addas-Carvalho, Marcelo
+   Ollala Saad, Sara Teresinha
+   Costa, Fernando Ferreira
+   Castilho, Lilian
+TI Red blood cell alloimmunization in patients with sickle cell disease:
+   correlation with HLA and cytokine gene polymorphisms
+SO TRANSFUSION
+LA English
+DT Article
+ID FACTOR-ALPHA PROMOTER; TNF-ALPHA; INTERLEUKIN-1-BETA GENE;
+   CLINICAL-SIGNIFICANCE; RBC ALLOIMMUNIZATION; STROKE RISK; TRANSFUSION;
+   ASSOCIATION; POPULATION; CHINESE
+AB BACKGROUND: The reason for the difference in susceptibility to red blood cell (RBC) alloimmunization among patients with sickle cell disease (SCD) is not clearly understood and is probably the result of multiple factors. Our hypothesis is that genetic polymorphisms are associated with RBC alloimmunization.
+   STUDY DESIGN AND METHODS: We investigated the possible association of susceptibility to RBC alloimmunization with polymorphisms of HLA and cytokines genes in 161 SCD patients prior exposed to RBC transfusion. Cytokine gene polymorphisms were analyzed by polymerase chain reaction (PCR) and TaqMan assays. HLA Class I genotyping was performed using PCR-specific sequence of oligonucleotides. Polymorphism frequencies were compared using the Fisher's exact test.
+   RESULTS: Our results revealed increased percentage of the A allele and the GA genotype of the TNFA 308G/A cytokine among alloimmunized patients when compared to nonalloimmunized patients (A allele, 16.4% vs. 6.8%, p 5 0.004; GA genotype, 32.8% vs. 11.7%, p 5 0.0021). In addition, the IL1B 2511Tallele and the IL1B 2511TTand CT genotype frequencies were overrepresented among alloimmunized patients (T allele, 53.0% vs. 37.5%, p50.0085; CT1TT genotypes, 81.82% vs. 60.87%, p 5 0.0071). In relation to HLA Class I, we found a higher frequency of HLA-DRB1* 15 among patients alloimmunized to Rh antigens when compared to nonalloimmunized patients (15.63% vs. 6.98%, p - 0.044).
+   CONCLUSION: Brazilian SCD patients with the TNFA, IL1B, and HLA- DRB1 gene polymorphisms were at increased risk of becoming alloimmunized by RBC transfusions. These findings may contribute to the development of future therapeutic strategies for patients with SCD with higher susceptibility of alloimmunization.
+C1 [Sippert, Emilia Angela; Olenscki Gilli, Simone Cristina; Addas-Carvalho, Marcelo; Ollala Saad, Sara Teresinha; Costa, Fernando Ferreira; Castilho, Lilian] Univ Estadual Campinas, UNICAMP, Hematol & Hemotherapy Ctr, Campinas, SP, Brazil.
+   [Laguila Visentainer, Jeane Eliete; Alves, Hugo Vicentin; Rodrigues, Camila] Univ Estadual Maringa, Basic Hlth Sci Dept, Maringa, Parana, Brazil.
+RP Sippert, EA (corresponding author), Univ Estadual Campinas, Hemoctr UNICAMP, Rua Carlos Chagas,480,CP 6198, BR-13081878 Campinas, SP, Brazil.
+EM emiliasippert@hotmail.com
+RI Addas-Carvalho, Marcelo/D-9654-2018; Costa, Fernando/D-1566-2012;
+   Sippert, Emilia Angela/B-3033-2013; Visentainer, Jeane Eliete
+   Laguila/B-3510-2009; Alves, Hugo/L-9802-2016
+OI Costa, Fernando/0000-0002-4632-572X; Sippert, Emilia
+   Angela/0000-0002-6341-3879; Visentainer, Jeane Eliete
+   Laguila/0000-0002-5815-7903; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191; Alves, Hugo/0000-0002-3106-8820
+CR ALARIF L, 1986, CLIN IMMUNOL IMMUNOP, V38, P178, DOI 10.1016/0090-1229(86)90136-4
+   Ameen R, 2009, TRANSFUSION, V49, P1649, DOI 10.1111/j.1537-2995.2009.02185.x
+   Ansart-Pirenne H, 2004, BLOOD, V104, P3409, DOI 10.1182/blood-2004-06-2412
+   Aygun B, 2002, TRANSFUSION, V42, P37, DOI 10.1046/j.1537-2995.2002.00007.x
+   Baleotti W, 2014, TRANSFUSION, V54, P2468, DOI 10.1111/trf.12652
+   Bao WL, 2013, AM J HEMATOL, V88, P736, DOI 10.1002/ajh.23488
+   Bao WL, 2011, AM J HEMATOL, V86, P1001, DOI 10.1002/ajh.22167
+   Bao WL, 2009, BLOOD, V113, P5624, DOI 10.1182/blood-2008-12-193748
+   Caamano J, 2015, TRANSFUS MED HEMOTH, V42, P4, DOI 10.1159/000370136
+   Cantagrel A, 1999, ARTHRITIS RHEUM, V42, P1093, DOI 10.1002/1529-0131(199906)42:6<1093::AID-ANR5>3.0.CO;2-P
+   Cavalcante Janio Emanuel Andrade, 2016, Hematol Oncol Stem Cell Ther, V9, P14, DOI 10.1016/j.hemonc.2015.11.002
+   Chiaroni J, 2006, BRIT J HAEMATOL, V132, P374, DOI 10.1111/j.1365-2141.2005.05868.x
+   Chies JAB, 2001, MED HYPOTHESES, V57, P46, DOI 10.1054/mehy.2000.1310
+   Chou ST, 2013, BLOOD, V122, P1062, DOI 10.1182/blood-2013-03-490623
+   Chou Stella T, 2009, Hematology Am Soc Hematol Educ Program, P178, DOI 10.1182/asheducation-2009.1.178
+   Desai PC, 2015, AM J HEMATOL, V90, P691, DOI 10.1002/ajh.24051
+   Dhamodharan U, 2015, GENE, V565, P62, DOI 10.1016/j.gene.2015.03.063
+   Zanette AMD, 2010, ETHNIC DIS, V20, P136
+   Du T, 2006, J VIRAL HEPATITIS, V13, P618, DOI 10.1111/j.1365-2893.2006.00731.x
+   Excoffier L, 2010, MOL ECOL RESOUR, V10, P564, DOI 10.1111/j.1755-0998.2010.02847.x
+   Fasano RM, 2015, BRIT J HAEMATOL, V168, P291, DOI 10.1111/bjh.13123
+   Garratty G, 1997, TRANSFUSION, V37, P357, DOI 10.1046/j.1537-2995.1997.37497265334.x
+   Hall AM, 2005, BLOOD, V105, P2175, DOI 10.1182/blood-2004-04-1554
+   Hall SK, 2004, ARTHRITIS RHEUM-US, V50, P1976, DOI 10.1002/art.20310
+   HEDDLE NM, 1995, BRIT J HAEMATOL, V91, P1000, DOI 10.1111/j.1365-2141.1995.tb05425.x
+   Hendrickson JE, 2007, BLOOD, V110, P2736, DOI 10.1182/blood-2007-03-083105
+   Hendrickson JE, 2012, TRANSFUSION, V52, P231, DOI 10.1111/j.1537-2995.2011.03255.x
+   Higgins JM, 2008, BLOOD, V112, P2546, DOI 10.1182/blood-2008-03-146415
+   Hoppe C, 2004, BLOOD, V103, P2391, DOI 10.1182/blood-2003-09-3015
+   Hoppe C, 2007, STROKE, V38, P2241, DOI 10.1161/STROKEAHA.107.483115
+   Hoppe C, 2009, AM J HEMATOL, V84, P462, DOI 10.1002/ajh.21442
+   Iacoviello L, 2005, ARTERIOSCL THROM VAS, V25, P222, DOI 10.1161/01.ATV.0000150039.60906.02
+   Jin P, 2003, J TRANSL MED, V1, P8, DOI [10.1186/1479-5876-1-8, DOI 10.1186/1479-5876-1-8]
+   Josephson CD, 2007, TRANSFUS MED REV, V21, P118, DOI 10.1016/j.tmrv.2006.11.003
+   Kroeger KM, 1997, MOL IMMUNOL, V34, P391, DOI 10.1016/S0161-5890(97)00052-7
+   Kroeger KM, 2000, CYTOKINE, V12, P110, DOI 10.1006/cyto.1999.0529
+   LaSalle-Williams M, 2011, TRANSFUSION, V51, P1732, DOI 10.1111/j.1537-2995.2010.03045.x
+   Li G, 2016, HUM IMMUNOL, V77, P418, DOI 10.1016/j.humimm.2016.03.006
+   Lin HJ, 2003, EYE, V17, P31, DOI 10.1038/sj.eye.6700227
+   Lin WP, 2011, GENET MOL RES, V10, P1719, DOI 10.4238/vol10-3gmr1283
+   Lopez NJ, 2005, J PERIODONTOL, V76, P234, DOI 10.1902/jop.2005.76.2.234
+   Meng NN, 2014, CURR EYE RES, V39, P194, DOI 10.3109/02713683.2013.834942
+   Milton JN, 2014, BLOOD, V124, P762
+   Nakae S, 2001, IMMUNOLOGY, V104, P402, DOI 10.1046/j.1365-2567.2001.01337.x
+   Nakashima H, 2002, GENES IMMUN, V3, P107, DOI 10.1038/sj.gene.6363830
+   Nickel RS, 2015, AM J HEMATOL, V90, P1135, DOI 10.1002/ajh.24188
+   Noizat-Pirenne F, 2006, TRANSFUSION, V46, P1328, DOI 10.1111/j.1537-2995.2006.00900.x
+   Oleksyk TK, 2009, GENES IMMUN, V10, P309, DOI 10.1038/gene.2009.9
+   Papay P, 2012, AM J MED, V125, DOI 10.1016/j.amjmed.2011.11.028
+   PEGELOW CH, 1995, J PEDIATR-US, V126, P896, DOI 10.1016/S0022-3476(95)70204-0
+   Reviron D, 2005, TRANSFUSION, V45, P956, DOI 10.1111/j.1537-2995.2005.04366.x
+   Rogus J, 2008, HUM GENET, V123, P387, DOI 10.1007/s00439-008-0488-6
+   Rosenwasser LJ, 1997, AM J RESP CRIT CARE, V156, pS152, DOI 10.1164/ajrccm.156.4.12tac-14
+   ROSSE WF, 1990, BLOOD, V76, P1431
+   Sakhalkar VS, 2005, ANN NY ACAD SCI, V1054, P495, DOI 10.1196/annals.1345.072
+   Salhi A, 2008, J IMMUNOL, V180, P6139, DOI 10.4049/jimmunol.180.9.6139
+   Santos Francisco W. R., 2007, Rev. Bras. Hematol. Hemoter., V29, P369, DOI 10.1590/S1516-84842007000400009
+   Saverimuttu Josobel, 2003, Emerg Med (Fremantle), V15, P239, DOI 10.1046/j.1442-2026.2003.00442.x
+   Schonewille H, 2006, TRANSFUSION, V46, P630, DOI 10.1111/j.1537-2995.2006.00764.x
+   Sippert E, 2015, BLOOD TRANSFUS-ITALY, V13, P72, DOI 10.2450/2014.0324-13
+   Smith NH, 2012, BLOOD, V119, P1566, DOI 10.1182/blood-2011-09-382655
+   Suarez A, 2003, TRANSPLANTATION, V75, P711, DOI 10.1097/01.TP.0000055216.19866.9A
+   Tatari-Calderone Z, 2016, HUM IMMUNOL, V77, P35, DOI 10.1016/j.humimm.2015.10.010
+   Tatari-Calderone Z, 2013, CLIN DEV IMMUNOL, DOI 10.1155/2013/937846
+   Tatari-Calderone Z, 2009, MOL IMMUNOL, V47, P64, DOI 10.1016/j.molimm.2008.12.027
+   Turner DM, 1997, EUR J IMMUNOGENET, V24, P1, DOI 10.1111/j.1365-2370.1997.tb00001.x
+   Tyler LN, 2007, NEW ENGL J MED, V357, P2092
+   Urbaniak SJ, 2006, TRANSFUS CLIN BIOL, V13, P19, DOI 10.1016/j.tracli.2006.02.020
+   Urbaniak SJ, 2002, VOX SANG, V83, P293, DOI 10.1111/j.1423-0410.2002.tb05321.x
+   Vandenbroeck K, 1997, J NEUROIMMUNOL, V76, P189, DOI 10.1016/S0165-5728(97)00058-1
+   Verduin EP, 2012, TRANSFUS MED REV, V26, P342, DOI 10.1016/j.tmrv.2011.12.001
+   VICHINSKY EP, 1990, NEW ENGL J MED, V322, P1617, DOI 10.1056/NEJM199006073222301
+   Vichinsky EP, 2001, TRANSFUSION, V41, P1086, DOI 10.1046/j.1537-2995.2001.41091086.x
+   Vingert B, 2014, AM J HEMATOL, V89, P261, DOI 10.1002/ajh.23629
+   Wang YY, 2005, NEPHROL DIAL TRANSPL, V20, P2733, DOI 10.1093/ndt/gfi101
+   Wilson AG, 1997, P NATL ACAD SCI USA, V94, P3195, DOI 10.1073/pnas.94.7.3195
+   Wu MC, 2003, LUPUS, V12, P21, DOI 10.1191/0961203303lu249oa
+   Wu WS, 1997, J INTERF CYTOK RES, V17, P631, DOI 10.1089/jir.1997.17.631
+   Wu XAQ, 2010, INT J CANCER, V127, P86, DOI 10.1002/ijc.25027
+   Yao CJ, 2013, ASIAN PAC J CANCER P, V14, P2439, DOI 10.7314/APJCP.2013.14.4.2439
+   Yazdanbakhsh K, 2012, BLOOD, V120, P528, DOI 10.1182/blood-2011-11-327361
+   Yazer MH, 2009, TRANSFUSION, V49, P1070, DOI 10.1111/j.1537-2995.2009.02116.x
+   Zalpuri S, 2014, TRANSFUSION, V54, P1981, DOI 10.1111/trf.12639
+   Zaman S, 2014, ADV HEMATOL, V2014
+   Zidi S, 2015, CYTOKINE, V76, P343, DOI 10.1016/j.cyto.2015.05.028
+   Zimring JC, 2008, CURR OPIN HEMATOL, V15, P631, DOI 10.1097/MOH.0b013e328313695e
+NR 86
+TC 24
+Z9 24
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0041-1132
+EI 1537-2995
+J9 TRANSFUSION
+JI Transfusion
+PD FEB
+PY 2017
+VL 57
+IS 2
+BP 379
+EP 389
+DI 10.1111/trf.13920
+PG 11
+WC Hematology
+SC Hematology
+GA EO9ZW
+UT WOS:000397047600022
+PM 27873324
+DA 2020-12-01
+ER
+
+PT J
+AU Barjas-Castro, ML
+   Angerami, RN
+   Cunha, MS
+   Suzuki, A
+   Nogueira, JS
+   Rocco, IM
+   Maeda, AY
+   Vasami, FGS
+   Katz, G
+   Boin, IFSF
+   Stucchi, RSB
+   Resende, MR
+   Esposito, DLA
+   de Souza, RP
+   da Fonseca, BA
+   Addas-Carvalho, M
+AF Barjas-Castro, Maria L.
+   Angerami, Rodrigo N.
+   Cunha, Mariana S.
+   Suzuki, Akemi
+   Nogueira, Juliana S.
+   Rocco, Iray M.
+   Maeda, Adriana Y.
+   Vasami, Fernanda G. S.
+   Katz, Gizelda
+   Boin, Ilka F. S. F.
+   Stucchi, Raquel S. B.
+   Resende, Mariangela R.
+   Esposito, Danillo L. A.
+   de Souza, Renato P.
+   da Fonseca, Benedito A.
+   Addas-Carvalho, Marcelo
+TI Probable transfusion-transmitted Zika virus in Brazil
+SO TRANSFUSION
+LA English
+DT Article
+ID WEST NILE VIRUS; BLOOD-TRANSFUSION; FRENCH-POLYNESIA; TRANSMISSION;
+   DENGUE; OUTBREAK
+AB BACKGROUNDZika virus (ZIKV) is an emerging arthropod-borne flavivirus transmitted by Aedes mosquitoes. Recent commentaries regarding ZIKV routes of transmission describe a potential transmission by transfusion. Herein, we report a probable case of transfusion-transmitted ZIKV infection through a platelet transfusion that was detected from postdonation information.
+   CASE REPORTA blood donor made a voluntary telephone report to the blood donor facility 3 days after donation and informed the facility of a febrile illness (fever, malaise, and headaches). Due to the ongoing dengue epidemic, the initial clinical investigation included dengue among other possible diagnoses. The serology and molecular laboratory results excluded dengue infection. However, stored samples from the donation were positive for ZIKV on reverse transcription-polymerase chain reaction (RT-PCR) analysis. A retrospective investigation demonstrated that the platelet concentrate, which was part of a pool, had been transfused after a liver transplantation. A physician had evaluated the patient 4 days after surgery. Laboratory investigation showed enzyme-linked immunosorbent assay results that were negative for dengue immunoglobulin M antibodies; however, the results were positive for hemagglutination inhibition antibodies against flavivirus. ZIKV RT-PCR and virus isolation analyses in cell cultures from recipient serum were both positive. The sequencing confirmed ZIKV in the donor and patient samples. Ten partial nucleotide sequences from the ZIKV strain that were detected in the donor were aligned and compared with the ZIKV genome detected in the recipient, revealing a 99.8% homology between the two strains.
+   CONCLUSIONSThis is a case of probable transmission of ZIKV through blood transfusion. The patient had been transfused with the blood product from an infected donor, most likely in the incubation period after ZIKV infection but prior to clinical disease onset. This report emphasizes the importance of postdonation information and recipient investigations during outbreaks of potentially blood-borne infections.
+C1 [Barjas-Castro, Maria L.; Addas-Carvalho, Marcelo] Univ Estadual Campinas UNICAMP, Hematol & Transfus Ctr, Campinas, SP, Brazil.
+   [Angerami, Rodrigo N.; Resende, Mariangela R.] Univ Estadual Campinas UNICAMP, Hosp Clin, Sect Hosp Epidemiol, Campinas, SP, Brazil.
+   [Cunha, Mariana S.; Suzuki, Akemi; Nogueira, Juliana S.; Rocco, Iray M.; Maeda, Adriana Y.; Vasami, Fernanda G. S.; de Souza, Renato P.] Adolfo Lutz Inst, Sao Paulo, SP, Brazil.
+   [Katz, Gizelda] Infect Dis Surveillance Ctr Prof Alexandre Vranja, Sao Paulo, SP, Brazil.
+   [Boin, Ilka F. S. F.; Stucchi, Raquel S. B.; Resende, Mariangela R.] Univ Estadual Campinas UNICAMP, Dept Clin Med, Fac Med Sci, Campinas, SP, Brazil.
+   [Esposito, Danillo L. A.; da Fonseca, Benedito A.] Univ Estadual Sao Paulo, Fac Ciencias Med Ribeirao Preto, Ribeirao Preto, SP, Brazil.
+RP Barjas-Castro, ML (corresponding author), Univ Estadual Campinas UNICAMP, Hemoctr Unicamp, Rua Carlos Chagas 480,Cidade Univ Zeferino Vaz, Campinas, SP, Brazil.
+EM maluz@unicamp.br
+RI Esposito, Danillo L.A./N-9261-2017; Addas-Carvalho, Marcelo/D-9654-2018;
+   Boin, Ilka/M-7184-2019; Angerami, Rodrigo Nogueira/A-8926-2013; Resende,
+   Mariangela/U-9938-2019; Boin, Ilka FSF/C-7811-2009; Fonseca,
+   Benedito/F-3252-2012
+OI Esposito, Danillo L.A./0000-0002-2755-4471; Angerami, Rodrigo
+   Nogueira/0000-0002-4976-9238; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191; Fonseca, Benedito/0000-0003-3159-5687;
+   Pereira de Souza, Renato/0000-0003-1315-7085
+CR Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Cardoso CW, 2015, EMERG INFECT DIS, V21, P2274, DOI 10.3201/eid2112.151167
+   Chuang Vivien W. M., 2008, Hong Kong Medical Journal, V14, P170
+   Cunha MS, 2016, MICROBIOL RESOUR ANN, V4, DOI 10.1128/genomeA.00032-16
+   Faye O, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002636
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Gulland A, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i657
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Lederman E., 2010, Morbidity and Mortality Weekly Report, V59, P34
+   Ministerio da Saude, 2015, B EPIDEMIOLOGICO, V46
+   Musso D, 2014, CLIN MICROBIOL INFEC, V20, pO595, DOI 10.1111/1469-0691.12707
+   Musso D, 2014, EUROSURVEILLANCE, V19, P6, DOI 10.2807/1560-7917.ES2014.19.14.20761
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   National Healthcare Safety Network [NHSN], 2016, NHSN BIOV COMP HEM M
+   Paty MC, 2013, TRANSFUS CLIN BIOL, V20, P165, DOI 10.1016/j.tracli.2013.03.008
+   Pealer LN, 2003, NEW ENGL J MED, V349, P1236, DOI 10.1056/NEJMoa030969
+   Salvador FS, 2016, TRAVEL MED INFECT DI, V14, P49, DOI 10.1016/j.tmaid.2015.10.004
+   Stramer SL, 2009, TRANSFUSION, V49, p1S, DOI 10.1111/j.1537-2995.2009.02279.x
+   US Food and Drug Administration (FDA), 2016, FDA GUID REC DON SCR
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 20
+TC 117
+Z9 120
+U1 0
+U2 61
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0041-1132
+EI 1537-2995
+J9 TRANSFUSION
+JI Transfusion
+PD JUL
+PY 2016
+VL 56
+IS 7
+BP 1684
+EP 1688
+DI 10.1111/trf.13681
+PG 5
+WC Hematology
+SC Hematology
+GA DS1NG
+UT WOS:000380362100006
+PM 27329551
+DA 2020-12-01
+ER
+
+PT J
+AU Gilli, SCO
+   Pericole, FV
+   Benites, BD
+   Sippert, EA
+   Castilho, LM
+   Addas-Carvalho, M
+   Saad, STO
+AF Olenscki Gilli, Simone Cristina
+   Pericole, Fernando Vieira
+   Benites, Bruno Deltreggia
+   Sippert, Emilia Angela
+   Castilho, Lilian Maria
+   Addas-Carvalho, Marcelo
+   Olalla Saad, Sara Teresinha
+TI Cytokine polymorphisms in sickle cell disease and the relationship with
+   cytokine expression
+SO EXPERIMENTAL HEMATOLOGY
+LA English
+DT Article
+ID TNF-ALPHA; GENE POLYMORPHISM; ANEMIA; INTERLEUKIN-6; ASSOCIATION; IL-4;
+   MECHANISMS; PROMOTER; HISTORY; BINDING
+AB Sickle cell disease is a chronic inflammatory condition characterized by elevated levels of inflammatory cytokines, which may be regulated by genetic polymorphisms and could be associated with diverse disease presentations and alloimmunization. The aim of this study was to evaluate Treg and Th17 cell frequencies, cytokine gene polymorphisms, and their association with cytokine expression profile in patients with sickle cell disease. For that purpose, we evaluated the IL intron 3 variable number tandem repeat (VNTR, genotypes 1.1, 1.2, 2.2, and 2.3), IL4-T590C>T, IL6-174G>C, TNF alpha-308G>A, IL10-819T>C, IL10-592A>C, and IL10-1082A>G polymorphisms and their correlation with TGF beta, IL4, IL6, and IL10 gene expression in sickle cell patients. We observed a significant decrease in Treg frequency together with a substantial increase in Th17 response in patients with sickle cell disease compared with healthy controls (p < 0.001 and p = 0.014, respectively). There was also a higher prevalence of the IL4-590T/T genotype in patients with sickle cell disease than in Afro--Brazilian descendent controls (p < 0.001) and higher expression of IL4 in patients with the 1.1 genotype of IL4 intron 3 VNTR (p = 0.06). Significantly greater gene expression of TGF beta, IL6, and IL10 was observed in sickle cell patients when compared with controls (p = 0.01, 0.03, and <0.001, respectively). Moreover, higher levels of interleukin-6 and -10 were observed in the group of alloimmunized patients. These new data bring insights into the deregulation in the immune system affecting sickle cell patients and must be further investigated in larger cohorts to better characterize individual variations in immune responses and new markers for disease morbidity. Copyright (C) 2016 ISEH - International Society for Experimental Hematology. Published by Elsevier Inc.
+C1 [Olenscki Gilli, Simone Cristina; Pericole, Fernando Vieira; Benites, Bruno Deltreggia; Sippert, Emilia Angela; Castilho, Lilian Maria; Addas-Carvalho, Marcelo; Olalla Saad, Sara Teresinha] Univ Estadual Campinas, HEMOCTR UNICAMP, Inst Nacl Ciencia & Tecnol Sangue, Hematol & Hemotherapy Ctr, Campinas, SP, Brazil.
+RP Benites, BD (corresponding author), Rua Carlos Chagas 480, BR-13083878 Campinas, SP, Brazil.
+EM benites@unicamp.br
+RI benites, Bruno/W-9207-2019; Addas-Carvalho, Marcelo/D-9654-2018;
+   Pericole, Fernando V/R-5214-2017; Sippert, Emilia Angela/B-3033-2013
+OI Sippert, Emilia Angela/0000-0002-6341-3879; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191
+CR Balding J, 2004, IRISH J MED SCI, V173, P200, DOI 10.1007/BF02914551
+   Baldwin C, 2005, BLOOD, V106, P372, DOI 10.1182/blood-2005-02-0548
+   Bao WL, 2011, AM J HEMATOL, V86, P1001, DOI 10.1002/ajh.22167
+   Cajado C, 2011, CYTOKINE, V56, P312, DOI 10.1016/j.cyto.2011.07.002
+   Cooney LA, 2011, J IMMUNOL, V187, P4440, DOI 10.4049/jimmunol.1002860
+   de Waal MR, 1991, J EXP MED, V174, P915, DOI DOI 10.1084/JEM.174.4.915
+   Elliott L, 2007, BRIT J HAEMATOL, V137, P262, DOI 10.1111/j.1365-2141.2007.06560.x
+   Fertrin KY, 2010, EXPERT REV HEMATOL, V3, P443, DOI [10.1586/ehm.10.44, 10.1586/EHM.10.44]
+   FIORENTINO DF, 1991, J IMMUNOL, V146, P3444
+   Fishman D, 1998, J CLIN INVEST, V102, P1369, DOI 10.1172/JCI2629
+   Hegab AE, 2004, CHEST, V126, P1832, DOI 10.1378/chest.126.6.1832
+   Jison ML, 2004, BLOOD, V104, P270, DOI 10.1182/blood-2003-08-2760
+   Keikhaei B, 2013, EUR CYTOKINE NETW, V24, P45, DOI 10.1684/ecn.2013.0328
+   Kimura A, 2010, EUR J IMMUNOL, V40, P1830, DOI 10.1002/eji.201040391
+   Louis E, 1998, CLIN EXP IMMUNOL, V113, P401
+   Nelms K, 1999, ANNU REV IMMUNOL, V17, P701, DOI 10.1146/annurev.immunol.17.1.701
+   Nolan VG, 2006, BRIT J HAEMATOL, V133, P570, DOI 10.1111/j.1365-2141.2006.06074.x
+   Qari MH, 2012, CLIN APPL THROMB-HEM, V18, P195, DOI 10.1177/1076029611420992
+   Rivera-Chavez FA, 2003, SHOCK, V20, P218, DOI 10.1097/00024382-200309000-00004
+   Rosenwasser LJ, 1997, AM J RESP CRIT CARE, V156, pS152, DOI 10.1164/ajrccm.156.4.12tac-14
+   Rundek T, 2002, STROKE, V33, P1420, DOI 10.1161/01.STR.0000015558.63492.B6
+   Sabat R, 2010, CYTOKINE GROWTH F R, V21, P331, DOI 10.1016/j.cytogfr.2010.09.002
+   Scarel-Caminaga RM, 2003, J CLIN PERIODONTOL, V30, P341, DOI 10.1034/j.1600-051X.2003.00317.x
+   Sebastiani P, 2005, NAT GENET, V37, P435, DOI 10.1038/ng1533
+   Sparkenbaugh E, 2013, BRIT J HAEMATOL, V162, P3, DOI 10.1111/bjh.12336
+   Sun Feng-bo, 2010, Zhonghua Zhong Liu Za Zhi, V32, P845
+   THORNHILL MH, 1991, J IMMUNOL, V146, P592
+   Torres LS, 2013, GENET MOL RES, V12, P6762, DOI 10.4238/2013.December.16.1
+   Tozawa H, 2011, MOL CELL BIOL, V31, P2196, DOI 10.1128/MCB.01430-10
+   Vicari P, 2011, ACTA HAEMATOL-BASEL, V125, P141, DOI 10.1159/000321935
+NR 30
+TC 5
+Z9 7
+U1 0
+U2 7
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0301-472X
+EI 1873-2399
+J9 EXP HEMATOL
+JI Exp. Hematol.
+PD JUL
+PY 2016
+VL 44
+IS 7
+BP 583
+EP 589
+DI 10.1016/j.exphem.2016.03.008
+PG 7
+WC Hematology; Medicine, Research & Experimental
+SC Hematology; Research & Experimental Medicine
+GA DP7DS
+UT WOS:000378660000008
+PM 27026283
+DA 2020-12-01
+ER
+
+PT J
+AU Cunha, MS
+   Esposito, DLA
+   Rocco, IM
+   Maeda, AY
+   Vasami, FGS
+   Nogueira, JS
+   de Souza, RP
+   Suzuki, A
+   Addas-Carvalho, M
+   Barjas-Castro, MD
+   Resende, MR
+   Stucchi, RSB
+   Boin, IDSF
+   Katz, G
+   Angerami, RN
+   da Fonseca, BAL
+AF Cunha, Mariana Sequetin
+   Alves Esposito, Danillo Lucas
+   Rocco, Iray Maria
+   Maeda, Adriana Yurika
+   Silva Vasami, Fernanda Gisele
+   Nogueira, Juliana Silva
+   de Souza, Renato Pereira
+   Suzuki, Akemi
+   Addas-Carvalho, Marcelo
+   Barjas-Castro, Maria de Lourdes
+   Resende, Mariangela Ribeiro
+   Bello Stucchi, Raquel Silveira
+   Santana Ferreira Boin, Ilka de Fatima
+   Katz, Gizelda
+   Angerami, Rodrigo Nogueira
+   Lopes da Fonseca, Benedito Antonio
+TI First Complete Genome Sequence of Zika Virus (Flaviviridae, Flavivirus)
+   from an Autochthonous Transmission in Brazil
+SO MICROBIOLOGY RESOURCE ANNOUNCEMENTS
+LA English
+DT Article
+AB We report here the genome sequence of Zika virus, strain ZikaSPH2015, containing all structural and nonstructural proteins flanked by the 5' and 3' untranslated region. It was isolated in Sao Paulo state, Brazil, in 2015, from a patient who received a blood transfusion from an asymptomatic donor at the time of donation.
+C1 [Cunha, Mariana Sequetin; Rocco, Iray Maria; Maeda, Adriana Yurika; Silva Vasami, Fernanda Gisele; Nogueira, Juliana Silva; de Souza, Renato Pereira; Suzuki, Akemi] Adolfo Lutz Inst, Div Vector Borne Dis, Sao Paulo, Brazil.
+   [Alves Esposito, Danillo Lucas; Lopes da Fonseca, Benedito Antonio] Univ Sao Paulo, Sch Med Ribeirao Preto, Div Infect Dis, Dept Internal Med, Ribeirao Preto, SP, Brazil.
+   [Addas-Carvalho, Marcelo; Barjas-Castro, Maria de Lourdes; Angerami, Rodrigo Nogueira] State Univ Campinas UNICAMP, Blood Ctr, Campinas, SP, Brazil.
+   [Resende, Mariangela Ribeiro] State Univ Campinas UNICAMP, Hosp Clin, Sect Hosp Epidemiol, Campinas, SP, Brazil.
+   [Bello Stucchi, Raquel Silveira; Santana Ferreira Boin, Ilka de Fatima] State Univ Campinas UNICAMP, Fac Med Sci, Clin Med Dept, Campinas, SP, Brazil.
+   [Katz, Gizelda] Prof Alexandre Vranjac CCD, Sao Paulo, SP, Brazil.
+RP da Fonseca, BAL (corresponding author), Univ Sao Paulo, Sch Med Ribeirao Preto, Div Infect Dis, Dept Internal Med, Ribeirao Preto, SP, Brazil.
+EM baldfons@fmrp.usp.br
+RI Resende, Mariangela/U-9938-2019; Esposito, Danillo L.A./N-9261-2017;
+   Angerami, Rodrigo Nogueira/A-8926-2013; Fonseca, Benedito/F-3252-2012
+OI Esposito, Danillo L.A./0000-0002-2755-4471; Angerami, Rodrigo
+   Nogueira/0000-0002-4976-9238; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191; Fonseca, Benedito/0000-0003-3159-5687
+FU Fundacao de Apoio ao Ensino, Pesquisa e Assistencia do Hospital das
+   Clinicas da Faculdade de Medicina de Ribeirao Preto (FAEPA)
+FX This work, including the efforts of Benedito Antonio Lopes da Fonseca,
+   was funded by Fundacao de Apoio ao Ensino, Pesquisa e Assistencia do
+   Hospital das Clinicas da Faculdade de Medicina de Ribeirao Preto
+   (FAEPA).
+CR [Anonymous], 2015, Wkly Epidemiol Rec, V90, P609
+   ECDC, 2015, RAP RISK ASS ZIK VIR
+   Heang V, 2012, EMERG INFECT DIS, V18, P349, DOI 10.3201/eid1802.111224
+   Lindenbach B., 2013, FIELDS VIROLOGY, V1, P712
+   Marano G, 2016, BLOOD TRANSFUS-ITALY, V14, P95, DOI 10.2450/2015.0066-15
+   Musso D, 2014, EUROSURVEILLANCE, V19, P6, DOI 10.2807/1560-7917.ES2014.19.14.20761
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Oehler E., 2014, Eurosurveillance, V19, P20720
+NR 8
+TC 58
+Z9 58
+U1 0
+U2 3
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 2576-098X
+J9 MICROBIOL RESOUR ANN
+JI Microbiol. Resour. Ann.
+PD MAR-APR
+PY 2016
+VL 4
+IS 2
+AR e00032-16
+DI 10.1128/genomeA.00032-16
+PG 2
+WC Microbiology
+SC Microbiology
+GA VI1DP
+UT WOS:000460655700006
+PM 26941134
+OA Green Published, Other Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Sippert, EA
+   Botelho, MA
+   Gaspardi, AC
+   Addas-Carvalho, M
+   Gilli, S
+   Saad, STO
+   Castilho, L
+AF Sippert, E. A.
+   Botelho, M. Araujo
+   Gaspardi, A. C.
+   Addas-Carvalho, M.
+   Gilli, S.
+   Saad, S. T. Olalla
+   Castilho, L.
+TI Evaluation of Cytokines' Gene Polymorphisms and Alloimmunization Risk in
+   Polytransfused Patients with Sickle Cell disease (SCD)
+SO TRANSFUSION
+LA English
+DT Meeting Abstract
+CT AABB Annual Meeting
+CY OCT 24-27, 2015
+CL Anaheim, CA
+SP AABB
+C1 [Sippert, E. A.; Botelho, M. Araujo; Gaspardi, A. C.; Addas-Carvalho, M.; Gilli, S.; Saad, S. T. Olalla; Castilho, L.] Univ Estadual Campinas, Campinas, SP, Brazil.
+RI Sippert, Emilia Angela/B-3033-2013; Addas-Carvalho, Marcelo/D-9654-2018
+OI Sippert, Emilia Angela/0000-0002-6341-3879; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0041-1132
+EI 1537-2995
+J9 TRANSFUSION
+JI Transfusion
+PD SEP
+PY 2015
+VL 55
+SU 3
+SI SI
+MA P3-030A
+BP 4A
+EP 4A
+PG 1
+WC Hematology
+SC Hematology
+GA DD5GS
+UT WOS:000369951500004
+DA 2020-12-01
+ER
+
+PT J
+AU Gilli, SCO
+   Pericole, FV
+   Benites, BD
+   Castilho, L
+   Addas-Carvalho, M
+   Costa, FF
+   Saad, STO
+AF Gilli, Simone C. O.
+   Pericole, Fernando V.
+   Benites, Bruno Deltreggia
+   Castilho, Lilian
+   Addas-Carvalho, Marcelo
+   Costa, Fernando Ferreira
+   Olalla Saad, Sara T.
+TI Cytokines Polymorphisms and Relationship with Cytokine Expression in
+   Sickle Cell Disease
+SO BLOOD
+LA English
+DT Meeting Abstract
+C1 [Gilli, Simone C. O.; Pericole, Fernando V.; Benites, Bruno Deltreggia; Castilho, Lilian; Addas-Carvalho, Marcelo; Costa, Fernando Ferreira; Olalla Saad, Sara T.] Univ Estadual Campinas, Hematol & Hemotherapy Ctr, Hemoctr Unicamp, Inst Nacl Ciencia & Tecnol Sangue, Sao Paulo, Brazil.
+RI Addas-Carvalho, Marcelo/D-9654-2018; benites, Bruno/W-9207-2019;
+   Pericole, Fernando V/R-5214-2017
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC HEMATOLOGY
+PI WASHINGTON
+PA 2021 L ST NW, SUITE 900, WASHINGTON, DC 20036 USA
+SN 0006-4971
+EI 1528-0020
+J9 BLOOD
+JI Blood
+PD DEC 6
+PY 2014
+VL 124
+IS 21
+PG 3
+WC Hematology
+SC Hematology
+GA CA9KQ
+UT WOS:000349242700200
+DA 2020-12-01
+ER
+
+PT J
+AU Stefanello, B
+   De Paula, EV
+   Orsi, FA
+   Marques, JFC
+   Roveri, EG
+   Colella, MP
+   Ozelo, MC
+   Annichino-Bizzacchi, JM
+   Addas-Carvalho, M
+AF Stefanello, Bianca
+   De Paula, Erich Vinicius
+   Orsi, Fernanda Andrade
+   Comenalli Marques, Jose Francisco, Jr.
+   Roveri, Eduardo Gasparotto
+   Colella, Marina Pereira
+   Ozelo, Margareth Castro
+   Annichino-Bizzacchi, Joyce Maria
+   Addas-Carvalho, Marcelo
+TI Safety and Efficacy of Cryoprecipitate-Poor Plasma as a Replacement
+   Fluid for Therapeutic Plasma Exchange in Thrombotic Thrombocytopenic
+   Purpura: A Single Center Retrospective Evaluation
+SO JOURNAL OF CLINICAL APHERESIS
+LA English
+DT Article
+DE microangiopathy; ADAMTS13; plasma exchange; fresh frozen plasma;
+   cryosupernatant
+ID HEMOLYTIC-UREMIC SYNDROME; FRESH-FROZEN PLASMA; RANDOMIZED
+   CONTROLLED-TRIALS; FACTOR-CLEAVING PROTEASE; CRYOSUPERNATANT FRACTION;
+   MANAGEMENT; TTP
+AB Introduction: Thrombotic thrombocytopenic purpura (TTP) is a thrombotic microangiopathy caused by decreased activity of ADAMTS13, resulting in reduced clearance of ultralarge von Willebrand factor (VWF) multimers. Treatment of TTP is therapeutic plasma exchange (TPE) with replacement with fresh frozen plasma (FFP). Cryoprecipitate-poor plasma (CPP) is a plasma product with lower concentrations of large VWF multimers, and similar amounts of ADAMTS13. CPP is regarded as at least as efficacious as FFP in TTP but evidence of additional benefits has not been demonstrated. Furthermore, there are limited data on the frequency of adverse events associated with CPP. Material and methods: In our center, the choice between CPP and FFP is performed before the 1st TPE session at the physicians' discretion. Here, we retrospectively evaluated the efficacy and safety of CPP based on the number of sessions, volume of plasma exposure, frequency of exacerbations/relapses, and adverse events. Results: Fourteen patients with newly diagnosed TTP were included in this analysis. The proportion of CPP:FFP use was 5:9. There were no significant differences in age, gender, initial hemoglobin, platelet count, LDH, or etiology of TTP between groups. We observed a trend toward a higher number of TPE sessions and higher plasma exposure in CPP, compared to FFP-treated patients. Acute exacerbations were more frequent among patients treated with CPP (OR 26.6; 95%CI 1.01-703.51; P=0.03). Mild allergic reactions were the most common treatment-related adverse event in both groups. Discussion: Our data suggest that CPP should not be used as 1st line treatment for newly diagnosed TTP patients. J. Clin. Apheresis 29:311-315 2014. (c) 2014 Wiley Periodicals, Inc.
+C1 [Stefanello, Bianca; Orsi, Fernanda Andrade; Comenalli Marques, Jose Francisco, Jr.; Roveri, Eduardo Gasparotto; Colella, Marina Pereira; Ozelo, Margareth Castro; Annichino-Bizzacchi, Joyce Maria; Addas-Carvalho, Marcelo] Univ Estadual Campinas, Hematol & Hemotherapy Ctr, Campinas, SP, Brazil.
+   [De Paula, Erich Vinicius] Univ Estadual Campinas, Dept Clin Pathol, Fac Med Sci, Campinas, SP, Brazil.
+   [Ozelo, Margareth Castro; Annichino-Bizzacchi, Joyce Maria] Univ Estadual Campinas, Dept Internal Med, Fac Med Sci, Campinas, SP, Brazil.
+RP Stefanello, B (corresponding author), Rua Oscar Freire,1967 Ap 63B, BR-05409011 Sao Paulo, Brazil.
+EM biaaa.stefa@gmail.com
+RI Ozelo, Margareth C/K-5819-2012; Orsi, Fernanda L.A./H-1203-2014;
+   Addas-Carvalho, Marcelo/D-9654-2018; Orsi, Fernanda/AAE-6437-2020; De
+   Paula, Erich Vinicius/C-5943-2012
+OI Ozelo, Margareth C/0000-0001-5938-0675; Orsi, Fernanda
+   L.A./0000-0002-7908-9073; Orsi, Fernanda/0000-0002-7908-9073; De Paula,
+   Erich Vinicius/0000-0003-1539-7912; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191
+CR AMOROSI EL, 1966, MEDICINE, V45, P139, DOI 10.1097/00005792-196603000-00003
+   Brunskill SJ, 2007, TRANSFUSION MED, V17, P17, DOI 10.1111/j.1365-3148.2006.00720.x
+   BYRNES JJ, 1990, AM J HEMATOL, V34, P169, DOI 10.1002/ajh.2830340303
+   Furlan M, 1998, NEW ENGL J MED, V339, P1578, DOI 10.1056/NEJM199811263392202
+   Galbusera M, 2006, SEMIN THROMB HEMOST, V32, P81
+   George JN, 2012, HEMATOL-AM SOC HEMAT, P604, DOI 10.1182/asheducation-2012.1.604
+   HENON P, 1991, PRESSE MED, V20, P1761
+   Kiss JE, 2010, INT J HEMATOL, V91, P36, DOI 10.1007/s12185-009-0478-z
+   Klaus C, 2004, BLOOD, V103, P4514, DOI 10.1182/blood-2003-12-4165
+   Levy GG, 2001, NATURE, V413, P488, DOI 10.1038/35097008
+   Michael M, 2009, AM J KIDNEY DIS, V53, P259, DOI 10.1053/j.ajkd.2008.07.038
+   MOAKE JL, 1985, BLOOD, V65, P1232
+   Reutter JC, 2001, J CLIN APHERESIS, V16, P134, DOI 10.1002/jca.1025
+   Rock G, 2005, BRIT J HAEMATOL, V129, P79, DOI 10.1111/j.1365-2141.2005.05418.x
+   ROCK GA, 1991, NEW ENGL J MED, V325, P393, DOI 10.1056/NEJM199108083250604
+   Rossi FC, 2010, TRANSFUSION, V50, P208, DOI 10.1111/j.1537-2995.2009.02391.x
+   Rothele E, 2000, Ther Apher, V4, P327, DOI 10.1046/j.1526-0968.2000.004005327.x
+   Scott EA, 2007, TRANSFUSION, V47, P120, DOI 10.1111/j.1537-2995.2007.01074.x
+   Scully M, 2007, VOX SANG, V93, P154, DOI 10.1111/j.1423-0410.2007.00940.x
+   Scully M, 2008, BRIT J HAEMATOL, V142, P819, DOI 10.1111/j.1365-2141.2008.07276.x
+   Scully M, 2012, BRIT J HAEMATOL, V158, P323, DOI 10.1111/j.1365-2141.2012.09167.x
+   SHEPARD KV, 1987, SEMIN HEMATOL, V24, P178
+   Terrell DR, 2005, J THROMB HAEMOST, V3, P1432, DOI 10.1111/j.1538-7836.2005.01436.x
+   Yarranton H, 2004, TRANSFUSION MED, V14, P39, DOI 10.1111/j.0958-7578.2004.00478.x
+   Zeigler ZR, 2001, J CLIN APHERESIS, V16, P19, DOI 10.1002/jca.1003
+NR 25
+TC 8
+Z9 10
+U1 0
+U2 8
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0733-2459
+EI 1098-1101
+J9 J CLIN APHERESIS
+JI J. Clin. Apheresis
+PD DEC
+PY 2014
+VL 29
+IS 6
+BP 311
+EP 315
+DI 10.1002/jca.21336
+PG 5
+WC Hematology
+SC Hematology
+GA AW4MN
+UT WOS:000346255400004
+PM 24890787
+DA 2020-12-01
+ER
+
+PT J
+AU Sippert, E
+   Gaspardi, AC
+   Gilli, S
+   Saad, STO
+   Addas-Carvalho, M
+   Castilho, L
+AF Sippert, E.
+   Gaspardi, A. C.
+   Gilli, S.
+   Saad, S. T. Olalla
+   Addas-Carvalho, M.
+   Castilho, L.
+TI Cytokine polymorphisms in patients with sickle cell disease (SCD) who
+   are alloimmunized and not alloimmunized to red blood cell (RBC) antigens
+SO TRANSFUSION
+LA English
+DT Meeting Abstract
+CT Annual Meeting of the American-Association-of-Blood-Banks (AABB)
+CY OCT 25-28, 2014
+CL Philadelphia, PA
+SP Amer Assoc Blood Banks
+C1 [Sippert, E.; Gaspardi, A. C.; Gilli, S.; Saad, S. T. Olalla; Addas-Carvalho, M.; Castilho, L.] Univ Estadual Campinas, Hemoctr, Campinas, SP, Brazil.
+RI Sippert, Emilia Angela/B-3033-2013; Addas-Carvalho, Marcelo/D-9654-2018
+OI Sippert, Emilia Angela/0000-0002-6341-3879; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0041-1132
+EI 1537-2995
+J9 TRANSFUSION
+JI Transfusion
+PD SEP
+PY 2014
+VL 54
+SU 2
+SI SI
+MA S53-030I
+BP 38A
+EP 38A
+PG 1
+WC Hematology
+SC Hematology
+GA CB9PX
+UT WOS:000349965300061
+DA 2020-12-01
+ER
+
+PT J
+AU Sippert, E
+   Gilli, S
+   Pericole, F
+   Saad, STO
+   Addas-Carvalho, M
+   Castilho, L
+AF Sippert, E.
+   Gilli, S.
+   Pericole, F.
+   Olalla Saad, S. T.
+   Addas-Carvalho, M.
+   Castilho, L.
+TI Evaluation of Cytokines and CD4(+) Regulatory T cells in Patients with
+   Sickle Cell Disease (SCD) Who are Alloimmunized or not Alloimmunized to
+   Red Cell Antigens
+SO TRANSFUSION
+LA English
+DT Meeting Abstract
+CT AABB Annual Meeting
+CY OCT 25-28, 2014
+CL Philadelphia, PA
+SP AABB
+C1 [Sippert, E.; Gilli, S.; Pericole, F.; Olalla Saad, S. T.; Addas-Carvalho, M.; Castilho, L.] Univ Estadual Campinas, Hemoctr, Campinas, SP, Brazil.
+RI Addas-Carvalho, Marcelo/D-9654-2018; Sippert, Emilia Angela/B-3033-2013;
+   Pericole, Fernando V/R-5214-2017
+OI Sippert, Emilia Angela/0000-0002-6341-3879; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0041-1132
+EI 1537-2995
+J9 TRANSFUSION
+JI Transfusion
+PD SEP
+PY 2014
+VL 54
+SU 2
+SI SI
+MA S55-030I
+BP 39A
+EP 39A
+PG 1
+WC Hematology
+SC Hematology
+GA CB9PX
+UT WOS:000349965300063
+DA 2020-12-01
+ER
+
+PT J
+AU Stefanello, B
+   De Paula, EV
+   Orsi, FA
+   Marques, JFC
+   Roveri, EG
+   Colella, MP
+   Ozelo, MC
+   Annichino-Bizzacchi, JM
+   Addas-Carvalho, M
+AF Stefanello, B.
+   De Paula, E., V
+   Orsi, F. A.
+   Marques-Junior, J. F. C.
+   Roveri, E. G.
+   Colella, M. P.
+   Ozelo, M. C.
+   Annichino-Bizzacchi, J. M.
+   Addas-Carvalho, M.
+TI Safety and efficacy of cryosupernatant as a replacement fluid for
+   plasmapheresis in thrombotic thrombocytopenic purpura: a single center
+   restrospective evaluation
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+LA English
+DT Meeting Abstract
+C1 [Stefanello, B.; De Paula, E., V; Orsi, F. A.; Marques-Junior, J. F. C.; Roveri, E. G.; Colella, M. P.; Ozelo, M. C.; Annichino-Bizzacchi, J. M.; Addas-Carvalho, M.] Univ Estadual Campinas, UNICAMP, Sangue Hemoctr, INCT, Campinas, SP, Brazil.
+RI Orsi, Fernanda L.A./H-1203-2014; De Paula, Erich Vinicius/C-5943-2012;
+   Ozelo, Margareth C/K-5819-2012; Addas-Carvalho, Marcelo/D-9654-2018;
+   Orsi, Fernanda/AAE-6437-2020
+OI Orsi, Fernanda L.A./0000-0002-7908-9073; De Paula, Erich
+   Vinicius/0000-0003-1539-7912; Ozelo, Margareth C/0000-0001-5938-0675;
+   Orsi, Fernanda/0000-0002-7908-9073
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1538-7933
+EI 1538-7836
+J9 J THROMB HAEMOST
+JI J. Thromb. Haemost.
+PD JUL
+PY 2013
+VL 11
+SU 2
+SI SI
+BP 490
+EP 491
+PG 2
+WC Hematology; Peripheral Vascular Disease
+SC Hematology; Cardiovascular System & Cardiology
+GA AB5MV
+UT WOS:000331833602451
+DA 2020-12-01
+ER
+
+PT J
+AU Addas-Carvalho, M
+   Vilela, JFV
+   Ollala-Saad, ST
+   Annichino-Bizzacchi, JM
+AF Addas-Carvalho, M.
+   Vilela, J. F. V.
+   Ollala-Saad, S. T.
+   Annichino-Bizzacchi, J. M.
+TI THE ASSOCIATION OF IL4 AND RANTES GENE POLYMORPHISM WITH OCCURRENCE OF
+   ALLERGIC TRANSFUSION REACTIONS (ATRS)
+SO VOX SANGUINIS
+LA English
+DT Meeting Abstract
+C1 [Addas-Carvalho, M.; Vilela, J. F. V.] State Blood Bank Campinas UNICAMP, Campinas, SP, Brazil.
+   [Ollala-Saad, S. T.; Annichino-Bizzacchi, J. M.] State Univ Campinas UNICAMP, Fac Med Sci, Campinas, SP, Brazil.
+RI Addas-Carvalho, Marcelo/D-9654-2018
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0042-9007
+J9 VOX SANG
+JI Vox Sang.
+PD JUN
+PY 2013
+VL 105
+SU 1
+SI SI
+BP 36
+EP 36
+PG 1
+WC Hematology
+SC Hematology
+GA 148FH
+UT WOS:000319228100095
+DA 2020-12-01
+ER
+
+PT J
+AU Addas-Carvalho, M
+   Ubiali, EMAU
+   Mourao-Cioffi, J
+AF Addas-Carvalho, M.
+   Ubiali, E. M. A. U.
+   Mourao-Cioffi, J.
+TI HISTORICAL EVOLUTION OF NATIONAL BLOOD BANK REGULATIONS IN BRAZIL
+SO VOX SANGUINIS
+LA English
+DT Meeting Abstract
+C1 [Addas-Carvalho, M.] Univ Estadual Campinas, State Blood Bank Campinas, Campinas, SP, Brazil.
+   [Ubiali, E. M. A. U.] State Blood Ctr Ribeirao Preto, Ribeirao Preto, Brazil.
+   [Mourao-Cioffi, J.] Hemominas Fdn, Belo Horizonte, MG, Brazil.
+RI Addas-Carvalho, Marcelo/D-9654-2018
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0042-9007
+J9 VOX SANG
+JI Vox Sang.
+PD JUN
+PY 2013
+VL 105
+SU 1
+SI SI
+BP 67
+EP 67
+PG 1
+WC Hematology
+SC Hematology
+GA 148FH
+UT WOS:000319228100168
+DA 2020-12-01
+ER
+
+PT J
+AU Gilli, SC
+   Fernandes, LG
+   Oliveira, SA
+   Addas-Carvalho, M
+   Saad, SO
+AF Gilli, S. C.
+   Fernandes, L. G.
+   Oliveira, S. A.
+   Addas-Carvalho, M.
+   Saad, S. O.
+TI Evaluation of the Topical Use of Autologous Platelet-rich Plasma in
+   Chronic Nonhealing Ulcers in Sickle Cell Disease Patients
+SO TRANSFUSION
+LA English
+DT Meeting Abstract
+CT AABB Annual Meeting and CTTXPO
+CY OCT 06-09, 2012
+CL Boston, MA
+SP AABB, CTTXPO
+C1 [Gilli, S. C.; Fernandes, L. G.; Oliveira, S. A.; Addas-Carvalho, M.; Saad, S. O.] Univ Estadual Campinas, Hemoctr, Campinas, SP, Brazil.
+EM mona@unicamp.br
+RI Fernandes, Luis Gustavo Romani/B-7948-2013; Addas-Carvalho,
+   Marcelo/D-9654-2018
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0041-1132
+J9 TRANSFUSION
+JI Transfusion
+PD SEP
+PY 2012
+VL 52
+SU 3
+SI SI
+BP 192A
+EP 192A
+PG 1
+WC Hematology
+SC Hematology
+GA 000PH
+UT WOS:000308398600473
+DA 2020-12-01
+ER
+
+PT J
+AU Vilela, J
+   De Paula, E
+   Annichino-Bizzacchi, J
+   Addas-Carvalho, M
+AF Vilela, J.
+   De Paula, E.
+   Annichino-Bizzacchi, J.
+   Addas-Carvalho, M.
+TI INVESTIGATION OF IL1B, IL1RN, IL4, IL6 AND IL10 GENE POLYMORPHISM IN
+   ADULT PATIENTS WITH IMMUNE THROMBOCYTOPENIC PURPURA
+SO HAEMATOLOGICA
+LA English
+DT Meeting Abstract
+C1 [Vilela, J.] Univ Estadual Campinas, Campinas, SP, Brazil.
+   [De Paula, E.; Annichino-Bizzacchi, J.; Addas-Carvalho, M.] State Univ Campinas UNICAMP, Campinas, SP, Brazil.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU FERRATA STORTI FOUNDATION
+PI PAVIA
+PA VIA GIUSEPPE BELLI 4, 27100 PAVIA, ITALY
+SN 0390-6078
+J9 HAEMATOLOGICA
+JI Haematologica
+PD JUL 16
+PY 2012
+VL 97
+SU 1
+MA 1053
+BP 429
+EP 430
+PG 2
+WC Hematology
+SC Hematology
+GA VI5TI
+UT WOS:000496830404112
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Addas-Carvalho, M
+   Gontijo, T
+   Nascimento, RAD
+   Pereira, KA
+   Calil, R
+   Luzo, AC
+AF Addas-Carvalho, M.
+   Gontijo, T.
+   Nascimento, R. A. D.
+   Pereira, K. A.
+   Calil, R.
+   Luzo, A. C.
+TI ACTIVE HAEMOVIGILANCE: A EFFICIENT MECHANISM FOR IDENTIFICATION OF ACUTE
+   TRANSFUSION REACTIONS (ATR) UNREPORTED
+SO VOX SANGUINIS
+LA English
+DT Meeting Abstract
+C1 [Addas-Carvalho, M.; Gontijo, T.; Nascimento, R. A. D.; Pereira, K. A.; Calil, R.; Luzo, A. C.] Univ Estadual Campinas, Campinas, SP, Brazil.
+RI Addas-Carvalho, Marcelo/D-9654-2018
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0042-9007
+J9 VOX SANG
+JI Vox Sang.
+PD JUL
+PY 2010
+VL 99
+SU 1
+BP 7
+EP 8
+PG 2
+WC Hematology
+SC Hematology
+GA 625DE
+UT WOS:000279872500018
+DA 2020-12-01
+ER
+
+PT J
+AU De Paula, EV
+   Goncales, NS
+   Xueref, S
+   Addas-Carvalho, M
+   Gilli, SC
+   Angerami, RN
+   Goncales, FL
+AF De Paula, Erich V.
+   Goncales, Neiva S. L.
+   Xueref, Serge
+   Addas-Carvalho, Marcelo
+   Gilli, Simone C. O.
+   Angerami, Rodrigo N.
+   Goncales, Fernando L., Jr.
+TI Prevalence of transfusion-transmitted Chagas disease among
+   multitransfused patients in Brazil
+SO BMC INFECTIOUS DISEASES
+LA English
+DT Article
+ID TRYPANOSOMA-CRUZI; LATIN-AMERICA; INFECTION
+AB Background: Blood transfusion has always been an important route for Chagas Disease (CD) transmission. The high prevalence of CD in Latin America and its lifelong asymptomatic clinical picture pose a threat for the safety of the blood supply. The outcome of measures designed to improve transfusion safety can be assessed by evaluating the prevalence of CD among multitransfused patients
+   Methods: In order to assess the impact of CD control measures on the safety of the blood supply, an observational cross-sectional study was designed to determine the prevalence of CD in 351 highly transfused patients, in which vectorial transmission was excluded. This study compared patients that received transfusion products before (n = 230) and after (n = 121) 1997, when measures to control transfusion-transmitted CD were fully implemented in Brazil.
+   Results: The study group consisted of 351 patients exposed to high numbers of blood products during their lifetime (median number of units transfused = 51, range 10-2086). A higher prevalence of transfusion-transmitted CD (1.30%) was observed among multitransfused patients that received their first transfusion before 1997, compared with no cases of transfusion-transmitted CD among multitransfused patients transfused after that year. The magnitude of the exposure to blood products was similar among both groups (mean number of units transfused per year of exposure = 25.00 +/- 26.46 and 23.99 +/- 30.58 respectively; P = 0.75, Mann-Whitney test).
+   Conclusion: Multiple initiatives aimed to control vector and parental transmission of CD can significantly decrease transfusion-transmitted CD in Brazil. Our data suggest that mandatory donor screening for CD represents the most important measure to interrupt transmission of CD by blood transfusions.
+C1 [De Paula, Erich V.; Goncales, Neiva S. L.; Addas-Carvalho, Marcelo; Gilli, Simone C. O.; Angerami, Rodrigo N.] Univ Estadual Campinas, Hematol & Hemotherapy Ctr, Campinas, SP, Brazil.
+   [Xueref, Serge] WHO, Reg Off, Pan Amer Hlth Org, Washington, DC USA.
+   [Goncales, Fernando L., Jr.] Univ Estadual Campinas, Sch Med Sci, Campinas, SP, Brazil.
+RP De Paula, EV (corresponding author), Univ Estadual Campinas, Hematol & Hemotherapy Ctr, Campinas, SP, Brazil.
+EM erich@unicamp.br; neiva@unicamp.br; serge.xueref@gmail.com;
+   maddas@unicamp.br; mona@unicamp.br; rodrigoang@uol.com.br;
+   flgj@uol.com.br
+RI Angerami, Rodrigo Nogueira/A-8926-2013; Addas-Carvalho,
+   Marcelo/D-9654-2018; De Paula, Erich Vinicius/C-5943-2012
+OI Angerami, Rodrigo Nogueira/0000-0002-4976-9238; De Paula, Erich
+   Vinicius/0000-0003-1539-7912; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191
+CR CERISOLA DJ, 1972, B OFIC SANIT PANAM, V73, P203
+   de Paula Erich V, 2005, J Clin Virol, V34 Suppl 2, pS27, DOI 10.1016/S1386-6532(05)80031-9
+   Kirchhoff LV, 2006, TRANSFUSION, V46, P298, DOI 10.1111/j.1537-2995.2006.00715.x
+   LORCA M, 1988, REV MED CHILE, V116, P112
+   Moraes-Souza H, 1999, MEM I OSWALDO CRUZ, V94, P419, DOI 10.1590/S0074-02761999000700083
+   NETO VA, 1984, REV I MED TROP, V26, P83
+   Pirard M, 2005, TRANSFUSION, V45, P554, DOI 10.1111/j.0041-1132.2005.04214.x
+   Prata A, 2001, Lancet Infect Dis, V1, P92, DOI 10.1016/S1473-3099(01)00065-2
+   Sabino EC, 2003, TRANSFUSION, V43, P853, DOI 10.1046/j.1537-2995.2003.t01-2-00432.x
+   Schmunis GA, 1999, MEM I OSWALDO CRUZ, V94, P93, DOI 10.1590/S0074-02761999000700010
+   Schofield CJ, 2006, TRENDS PARASITOL, V22, P583, DOI 10.1016/j.pt.2006.09.011
+   Valerio-Wanderley D.M., 1992, REV SOC BRASIL MED S, V25, P35
+   World Bank, 1993, WORLD DEV REP 1993 I
+NR 13
+TC 5
+Z9 5
+U1 0
+U2 0
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2334
+J9 BMC INFECT DIS
+JI BMC Infect. Dis.
+PD JAN 16
+PY 2008
+VL 8
+AR 5
+DI 10.1186/1471-2334-8-5
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA 262IQ
+UT WOS:000253142600001
+PM 18199334
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Addas-Carvalho, M
+   Salles, TSI
+   Saad, STO
+AF Addas-Carvalho, M.
+   Salles, T. S. I.
+   Saad, S. T. O.
+TI The association of cytokine gene polymorphisms with febrile
+   non-hemolytic transfusion reaction in multitransfused patients
+SO TRANSFUSION MEDICINE
+LA English
+DT Article
+DE blood transfusion; cytokine; gene polymorphism; transfusion reaction
+ID RECEPTOR ANTAGONIST GENE; INTERLEUKIN-6 IL-6 GENE; RED-CELL
+   TRANSFUSIONS; TANDEM REPEAT; TNF-ALPHA; PLATELET; PLASMA; IL-1RA;
+   PROMOTER; INTRON-2
+AB Cytokines are associated with inflammatory responses including febrile non-hemolytic transfusion reactions (FNHTR). Moreover, there are some polymorphisms of these cytokine genes associated with different levels of gene expression. The aim of the present study was to investigate the association of inflammatory cytokine gene polymorphisms with the occurrence of FNHTR in multitransfused patients. We studied two groups of transfused patients: one presenting FNHTR before 20 transfusions of red blood cells concentrates and the other which never presented FNHTR even after 20 transfusions. The gene polymorphisms studied were IL1B - 511C/T and +3953C/T, IL1RN ( intron 2, variable number tandem repeat), IL6-174G/C, IL10 - 1082G/A and - 819C/T, TNF-308G/A and LTA+253G/A using polymerase chain reaction and restriction digestion or sequencing methods. An association of IL1RN*2.2 genotype with the occurrence of precocious FNHTR ( P < 0.025) was detected. This allele and this genotype have been related with higher serum levels of interleukin (IL)-1 beta in vivo and higher promoter activity. No other association was demonstrated. The association of gene polymorphisms related with the increase of inflammatory cytokine gene expression may be a relevant factor in FNHTR and requires confirmation.
+C1 Univ Estadual Campinas, Hemoctr, Hematol & Transfus Med Ctr, BR-13081970 Campinas, SP, Brazil.
+RP Addas-Carvalho, M (corresponding author), Univ Estadual Campinas, Hemoctr, Hematol & Transfus Med Ctr, Rua Carlos Chagas 480,CP 6198, BR-13081970 Campinas, SP, Brazil.
+EM maddas@unicamp.br
+RI Addas-Carvalho, Marcelo/D-9654-2018
+OI Addas-Carvalho, Marcelo/0000-0003-0178-6191
+CR Addas-Carvalho M, 2004, TRANSFUSION, V44, P996, DOI 10.1111/j.1537-2995.2004.03257.x
+   AYE MT, 1995, TRANSFUSION, V35, P117, DOI 10.1046/j.1537-2995.1995.35295125733.x
+   DANIS VA, 1995, CLIN EXP IMMUNOL, V99, P303
+   DZIK WH, 1992, TRANSFUSION, V32, P334, DOI 10.1046/j.1537-2995.1992.32492263447.x
+   DZIK WH, 1992, TRANSFUSION, V32, P94
+   Fishman D, 1998, J CLIN INVEST, V102, P1369, DOI 10.1172/JCI2629
+   Flex A, 2002, EUR J VASC ENDOVASC, V24, P264, DOI 10.1053/ejvs.2002.1711
+   HEDDLE NM, 1993, TRANSFUSION, V33, P794, DOI 10.1046/j.1537-2995.1993.331094054613.x
+   HEDDLE NM, 1996, TRANSFUSION REACTION, V2, P45
+   Huang DR, 1999, J NEUROIMMUNOL, V101, P197, DOI 10.1016/S0165-5728(99)00140-X
+   Hurme M, 1998, EUR J IMMUNOL, V28, P2598, DOI 10.1002/(SICI)1521-4141(199808)28:08<2598::AID-IMMU2598>3.3.CO;2-B
+   Ibojie J, 2002, TRANSFUSION MED, V12, P181, DOI 10.1046/j.1365-3148.2002.00370.x
+   JENNER PW, 1995, CLIN PRACTICE TRANSF, V6, P905
+   Louis E, 1998, CLIN EXP IMMUNOL, V113, P401
+   MESSER G, 1991, J EXP MED, V173, P209, DOI 10.1084/jem.173.1.209
+   Moore KW, 2001, ANNU REV IMMUNOL, V19, P683, DOI 10.1146/annurev.immunol.19.1.683
+   Muylle L, 1996, TRANSFUSION, V36, P886, DOI 10.1046/j.1537-2995.1996.361097017174.x
+   MUYLLE L, 1993, TRANSFUSION, V33, P195, DOI 10.1046/j.1537-2995.1993.33393174443.x
+   Santtila S, 1998, SCAND J IMMUNOL, V47, P195
+   Suarez A, 2003, TRANSPLANTATION, V75, P711, DOI 10.1097/01.TP.0000055216.19866.9A
+   TARLOW JK, 1993, HUM GENET, V91, P403
+   Terry CF, 2000, J BIOL CHEM, V275, P18138, DOI 10.1074/jbc.M000379200
+   Turner DM, 1997, EUR J IMMUNOGENET, V24, P1, DOI 10.1111/j.1365-2370.1997.tb00001.x
+   Vamvakopoulos JE, 2002, EUR J IMMUNOGENET, V29, P337, DOI 10.1046/j.1365-2370.2002.00319.x
+   Warzocha K, 1998, BLOOD, V91, P3574
+   Wilson AG, 1997, P NATL ACAD SCI USA, V94, P3195, DOI 10.1073/pnas.94.7.3195
+NR 26
+TC 8
+Z9 8
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0958-7578
+EI 1365-3148
+J9 TRANSFUSION MED
+JI Transfus. Med.
+PD JUN
+PY 2006
+VL 16
+IS 3
+BP 184
+EP 191
+DI 10.1111/j.1365-3148.2006.00665.x
+PG 8
+WC Hematology
+SC Hematology
+GA 049EQ
+UT WOS:000237999100005
+PM 16764597
+DA 2020-12-01
+ER
+
+PT J
+AU Addas-Carvalho, M
+   de Paula, EV
+   Lima, CSP
+   Saad, STO
+AF Addas-Carvalho, M
+   de Paula, EV
+   Lima, CSP
+   Saad, STO
+TI Polymorphisms of interleukin-1 gene complex, IL6 and tumour necrosis
+   factor genes in chronic idiopathic neutropenia of adults
+SO ANNALS OF HEMATOLOGY
+LA English
+DT Article
+DE chronic neutropenia; cytokine; IL1B; IL6; TNF
+ID RECEPTOR ANTAGONIST GENE; -174 G/C POLYMORPHISM; ALPHA PROMOTER;
+   APOPTOSIS; INTRON-2; IL-1RA
+AB Chronic idiopathic neutropenia of adults (CINA) is a granulocytic disorder characterised by the "unexplained" decrease in the number of circulating neutrophils. Serum inflammatory cytokines and chemokines are increased in CINA. In addition, cytokines gene polymorphisms are associated with increased levels of respective products and related with inflammatory diseases. The aim of the present study was to investigate the association of polymorphisms of IL1B-511C/T and +3953C/T, IL1RN intron 2, IL6-174G/C and TNF-308G/A genes with CINA. We analysed 29 CINA and controls by polymerase chain reaction and restriction fragment length polymorphism. Statistical analyses were performed using chi(2) test, and the Hardy-Weinberg equilibrium (HWE) was investigated. All alleles analysed were in HWE in both populations. Similar frequencies of IL1B-511C/T, IL1B+3953C/T, IL1RN, IL6-174G/C and TNF-308G/A genotypes were observed in CINA and controls. These results suggest that cytokine polymorphisms associated with control of gene expression and protein levels were not associated with occurrence of CINA and were not responsible for the increased cytokine in CINA patients.
+C1 Univ Estadual Campinas, Hemoctr, BR-13081970 Campinas, SP, Brazil.
+   Univ Estadual Campinas, UNICAMP, Haematol & Hemotherapy Ctr, BR-13081970 Campinas, SP, Brazil.
+   Univ Estadual Campinas, UNICAMP, Dept Internal Med, BR-13081970 Campinas, SP, Brazil.
+RP Addas-Carvalho, M (corresponding author), Univ Estadual Campinas, Hemoctr, Rua Carlos Chagas 480,CP 6198, BR-13081970 Campinas, SP, Brazil.
+EM maddas@unicamp.br
+RI Addas-Carvalho, Marcelo/D-9654-2018; De Paula, Erich
+   Vinicius/C-5943-2012; Lima, Carmen Silvia Passos/K-4775-2013
+OI De Paula, Erich Vinicius/0000-0003-1539-7912; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191
+CR Allen RD, 1999, MOL IMMUNOL, V36, P1017, DOI 10.1016/S0161-5890(99)00127-3
+   Dale DC., 1991, HEMATOLOGY, P807
+   El-Omar EM, 2000, NATURE, V404, P398, DOI 10.1038/35006081
+   Fishman D, 1998, J CLIN INVEST, V102, P1369, DOI 10.1172/JCI2629
+   Flex A, 2002, EUR J VASC ENDOVASC, V24, P264, DOI 10.1053/ejvs.2002.1711
+   Hurme M, 1998, EUR J IMMUNOL, V28, P2598, DOI 10.1002/(SICI)1521-4141(199808)28:08<2598::AID-IMMU2598>3.3.CO;2-B
+   Louis E, 1998, CLIN EXP IMMUNOL, V113, P401
+   Matsuyama W, 2004, BLOOD, V104, P184, DOI 10.1182/blood-2003-12-4274
+   Middleton PG, 1998, BLOOD, V92, P3943, DOI 10.1182/blood.V92.10.3943.422k35_3943_3948
+   Palmblad J, 2001, J INTERN MED, V250, P476, DOI 10.1046/j.1365-2796.2001.00915.x
+   Papadaki HA, 2000, AM J HEMATOL, V65, P271, DOI 10.1002/1096-8652(200012)65:4<271::AID-AJH1>3.0.CO;2-R
+   Papadaki HA, 1998, EUR J HAEMATOL, V61, P272
+   Papadaki HA, 1999, ANN HEMATOL, V78, P293, DOI 10.1007/s002770050518
+   Papadaki HA, 2003, BLOOD, V101, P2591, DOI 10.1182/blood-2002-09-2898
+   Papadaki HA, 2001, EUR J HAEMATOL, V67, P35, DOI 10.1034/j.1600-0609.2001.00473.x
+   Papadaki HA, 2002, HAEMA, V5, P39
+   Pola R, 2002, J HUM HYPERTENS, V16, P637, DOI 10.1038/sj.jhh.1001462
+   Rainero I, 2003, NEUROSCI LETT, V343, P155, DOI 10.1016/S0304-3940(03)00304-5
+   Santtila S, 1998, SCAND J IMMUNOL, V47, P195
+   TARLOW JK, 1993, HUM GENET, V91, P403
+   Terry CF, 2000, J BIOL CHEM, V275, P18138, DOI 10.1074/jbc.M000379200
+   Vamvakopoulos JE, 2002, EUR J IMMUNOGENET, V29, P337, DOI 10.1046/j.1365-2370.2002.00319.x
+   Warzocha K, 1998, BLOOD, V91, P3574
+   Wilson A. G., 1992, Human Molecular Genetics, V1, P353, DOI 10.1093/hmg/1.5.353
+   Wilson AG, 1997, P NATL ACAD SCI USA, V94, P3195, DOI 10.1073/pnas.94.7.3195
+NR 25
+TC 6
+Z9 6
+U1 0
+U2 1
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0939-5555
+EI 1432-0584
+J9 ANN HEMATOL
+JI Ann. Hematol.
+PD NOV
+PY 2005
+VL 84
+IS 11
+BP 709
+EP 714
+DI 10.1007/s00277-005-1066-9
+PG 6
+WC Hematology
+SC Hematology
+GA 969PW
+UT WOS:000232247800002
+PM 15986200
+DA 2020-12-01
+ER
+
+PT J
+AU de Paula, EV
+   Addas-Carvalho, M
+   Costa, DSP
+   Saad, STO
+   Gilli, SCO
+AF de Paula, EV
+   Addas-Carvalho, M
+   Costa, DSP
+   Saad, STO
+   Gilli, SCO
+TI Genotype frequencies at codon 129 of the Prion Protein Gene in Brazil:
+   implications in susceptibility to variant Creutzfeldt-Jakob disease
+   compared to European and Asian populations
+SO EUROPEAN JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+DE codon 129; genotype frequencies; prion diseases; transfusion; vCJD
+ID POLYMORPHISM; BLOOD; TRANSMISSION; RISK
+AB A polymorphism at codon 129 of the prion protein gene has been shown to confer genetic susceptibility to prion diseases, and to influence the epidemic course of variant Creutzfeldt--Jakob disease. We employed a PCR-endonuclease digestion-based assay to investigate this genetic trait in Brazil, and then compared our results to previously published data from several European and Asian countries.
+C1 Univ Estadual Campinas, Haematol & Haemotherapy Ctr, BR-13083970 Campinas, SP, Brazil.
+RP Gilli, SCO (corresponding author), Univ Estadual Campinas, Haematol & Haemotherapy Ctr, Rua Carlos Changes 480, BR-13083970 Campinas, SP, Brazil.
+EM mona@unicamp.br
+RI De Paula, Erich Vinicius/C-5943-2012; Addas-Carvalho,
+   Marcelo/D-9654-2018
+OI De Paula, Erich Vinicius/0000-0003-1539-7912; Addas-Carvalho,
+   Marcelo/0000-0003-0178-6191
+CR Alperovitch A, 1999, LANCET, V353, P1673, DOI 10.1016/S0140-6736(99)01342-2
+   Altman D.G., 1991, PRACTICAL STAT MED R
+   [Anonymous], 2000, 500 AN POV
+   Bird SM, 2004, BMJ-BRIT MED J, V328, P118, DOI 10.1136/bmj.328.7432.118
+   Bratosiewicz J, 1999, FOLIA NEUROPATHOL, V37, P277
+   BROWN P, 1994, NEUROLOGY, V44, P291, DOI 10.1212/WNL.44.2.291
+   COLLINGE J, 1991, LANCET, V337, P1441, DOI 10.1016/0140-6736(91)93128-V
+   Combarros O, 2000, NEUROLOGY, V55, P593, DOI 10.1212/WNL.55.4.593
+   Croes EA, 2003, EUR J EPIDEMIOL, V18, P473, DOI 10.1023/A:1024683119263
+   DESLYS JP, 1994, J GEN VIROL, V75, P23, DOI 10.1099/0022-1317-75-1-23
+   DOHURA K, 1991, NATURE, V353, P801, DOI 10.1038/353801b0
+   Erginel-Unaltuna N, 2001, EUR J HUM GENET, V9, P965, DOI 10.1038/sj.ejhg.5200754
+   Ghani AC, 2003, BMC INFECT DIS, V3, DOI 10.1186/1471-2334-3-4
+   Ironside JW, 2003, J THROMB HAEMOST, V1, P1479, DOI 10.1046/j.1538-7836.2003.00268.x
+   LAPLANCHE JL, 1994, NEUROLOGY, V44, P2347, DOI 10.1212/WNL.44.12.2347
+   Lee HS, 2001, J INFECT DIS, V183, P192, DOI 10.1086/317935
+   Llewelyn CA, 2004, LANCET, V363, P417, DOI 10.1016/S0140-6736(04)15486-X
+   Nurmi MH, 2003, ACTA NEUROL SCAND, V108, P374, DOI 10.1034/j.1600-0404.2003.00199.x
+   Plaitakis A, 2001, ANN NEUROL, V50, P227, DOI 10.1002/ana.1285
+   SALVATORE M, 1994, HUM GENET, V94, P375, DOI 10.1007/BF00201596
+   Tsai MT, 2001, MOL PSYCHIATR, V6, P74, DOI 10.1038/sj.mp.4000790
+   Zimmermann K, 1999, ACTA NEUROPATHOL, V97, P355, DOI 10.1007/s004010050998
+NR 22
+TC 2
+Z9 2
+U1 0
+U2 3
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0393-2990
+EI 1573-7284
+J9 EUR J EPIDEMIOL
+JI Eur. J. Epidemiol.
+PD JUL
+PY 2005
+VL 20
+IS 7
+BP 593
+EP 595
+DI 10.1007/s10654-005-7455-5
+PG 3
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 945QD
+UT WOS:000230516300006
+PM 16119432
+DA 2020-12-01
+ER
+
+PT J
+AU Addas-Carvalho, M
+   Origa, AF
+   Saad, STO
+AF Addas-Carvalho, M
+   Origa, AF
+   Saad, STO
+TI Interleukin 1 beta and tumor necrosis factor levels in stored platelet
+   concentrates and the association with gene polymorphisms
+SO TRANSFUSION
+LA English
+DT Article
+ID ALPHA TNF-ALPHA; RECEPTOR ANTAGONIST; TRANSFUSION REACTIONS; PLASMA;
+   IL-1; DISEASE; IL-1-BETA; STORAGE; CYTOKINES
+AB BACKGROUND: Cytokines (IL-1beta and TNF) generated by WBCs during storage of PLT concentrates have been associated with febrile nonhemolytic transfusion reactions.
+   STUDY DESIGN AND METHODS: This study was undertaken to investigate whether there is an association between the polymorphisms of IL1B -511C/T and +3953C/T, IL1RN intron 2 VNTR and TNFA-308G/A genes and the increase of cytokines during the storage of PLT concentrates produced by plasma-rich PLTS (PRP-PC) or apheresis PLTs.
+   RESULTS: Thirty PRP-PCs were studied and a progressive increase of IL-1beta and TNF during storage was revealed. IL1-beta and TNF levels were inversely correlated with the content of PLTs in PRP-PCs detected on Day 3 (p = 0.004) and Day 5 (p = 0.019), but not on Day 7. There was association of IL1B-511T polymorphism and IL-1beta levels (Day 5, p = 0.063, only tendency and on Day 7, p = 0.038, significant). There was no association of the other polymorphisms (IL1B+3953C/T, IL1RN intron 2 and TNFA-308G/A) with their respective cytokines.
+   CONCLUSION: The great variation of cytokine levels in the plasma of PLT concentrates (PCs) during storage may also be caused by cytokine gene polymorphisms, as well as WBC contamination, material that the bags are made of, and storage time, as previously described.
+C1 UNICAMP, Hematol & Transfus Med Ctr, BR-13081970 Campinas, SP, Brazil.
+RP Addas-Carvalho, M (corresponding author), UNICAMP, Hemoctr, Rua Carlos Chagas 480,CP 6198, BR-13081970 Campinas, SP, Brazil.
+EM maddas@unicamp.br
+RI Addas-Carvalho, Marcelo/D-9654-2018
+OI Addas-Carvalho, Marcelo/0000-0003-0178-6191
+CR Arend WR, 2002, CYTOKINE GROWTH F R, V13, P323, DOI 10.1016/S1359-6101(02)00020-5
+   AYE MT, 1995, TRANSFUSION, V35, P117, DOI 10.1046/j.1537-2995.1995.35295125733.x
+   DANIS VA, 1995, CLIN EXP IMMUNOL, V99, P303
+   Dinarello CA, 1996, BLOOD, V87, P2095, DOI 10.1182/blood.V87.6.2095.bloodjournal8762095
+   ElKattan I, 1999, CLIN DIAGN LAB IMMUN, V6, P509, DOI 10.1128/CDLI.6.4.509-513.1999
+   Heddle NM, 2002, TRANSFUSION, V42, P556, DOI 10.1046/j.1537-2995.2002.00094.x
+   HEDDLE NM, 1994, NEW ENGL J MED, V331, P625, DOI 10.1056/NEJM199409083311001
+   HEDDLE NM, 1993, TRANSFUSION, V33, P794, DOI 10.1046/j.1537-2995.1993.331094054613.x
+   Hurme M, 1998, SCAND J IMMUNOL, V48, P219
+   Hurme M, 1998, EUR J IMMUNOL, V28, P2598, DOI 10.1002/(SICI)1521-4141(199808)28:08<2598::AID-IMMU2598>3.3.CO;2-B
+   Louis E, 1998, CLIN EXP IMMUNOL, V113, P401
+   Middleton PG, 1998, BLOOD, V92, P3943, DOI 10.1182/blood.V92.10.3943.422k35_3943_3948
+   Morse HR, 1999, CYTOKINE, V11, P789, DOI 10.1006/cyto.1999.0491
+   Muylle L, 1996, TRANSFUSION, V36, P886, DOI 10.1046/j.1537-2995.1996.361097017174.x
+   MUYLLE L, 1993, TRANSFUSION, V33, P195, DOI 10.1046/j.1537-2995.1993.33393174443.x
+   Pillay V, 2000, CYTOKINE, V12, P819, DOI 10.1006/cyto.1999.0637
+   Santtila S, 1998, SCAND J IMMUNOL, V47, P195
+   Sciacca FL, 2002, J NEUROIMMUNOL, V122, P94, DOI 10.1016/S0165-5728(01)00449-0
+   TARLOW JK, 1993, HUM GENET, V91, P403
+   Wadhwa M, 2000, TRANSFUSION, V40, P1118, DOI 10.1046/j.1537-2995.2000.40091118.x
+   Wilson A. G., 1992, Human Molecular Genetics, V1, P353, DOI 10.1093/hmg/1.5.353
+   Wilson AG, 1997, P NATL ACAD SCI USA, V94, P3195, DOI 10.1073/pnas.94.7.3195
+NR 22
+TC 13
+Z9 14
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0041-1132
+EI 1537-2995
+J9 TRANSFUSION
+JI Transfusion
+PD JUL
+PY 2004
+VL 44
+IS 7
+BP 996
+EP 1003
+DI 10.1111/j.1537-2995.2004.03257.x
+PG 8
+WC Hematology
+SC Hematology
+GA 832YF
+UT WOS:000222302900009
+PM 15225239
+DA 2020-12-01
+ER
+
+EF

@@ -1,0 +1,641 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Batista, CEM
+   Cantanhede, ALC
+   de Sena, JF
+   Barreto, SBL
+   Galvao-Moreira, LV
+   Batista, JE
+AF Batista, C. E. M.
+   Cantanhede, A. L. C.
+   Fonseca de Sena, J.
+   Barreto, S. B. L.
+   Galvao-Moreira, L. V.
+   Eduardo Batista, J.
+TI Nasosinusal myiasis in elderly patient with mucocutaneous leishmaniosis
+SO JOURNAL OF STOMATOLOGY ORAL AND MAXILLOFACIAL SURGERY
+LA English
+DT Editorial Material
+DE Myiasis; Nasal; Sinus; Leishmaniosis
+AB Background: Myiasis is a condition in which flies are attracted to infected and/or necrotic tissues and deposit eggs that hatch into larvae. It may bring serious functional and aesthetic sequelae when involves nasal and parasinusal cavities; however, there is a lack of such reports in the literature.
+   Methods: We present and briefly discuss herein the clinical and surgical management of nasosinusal myiasis in an elderly patient previously affected by mucocutaneous leishmaniosis.
+   Results: Facial computed tomography was used to confirm the nasosinusal involvement. Next, osteotomies were performed, followed by the mechanical removal of larvae, bilateral sinusectomy and pharmacological therapy.
+   Conclusion: A complicated case of nasosinusal myiasis was surgically managed, resulting in a good prognosis for the patient. (C) 2018 Elsevier Masson SAS. All rights reserved.
+C1 [Batista, C. E. M.] Univ Fed Piaui, Dept Oral & Maxillofacial Surg, Teresina, Brazil.
+   [Cantanhede, A. L. C.] Univ Fed Maranhao, Univ Hosp, Rua Barao de Itapari 227, BR-65020070 Sao Luis, Maranhao, Brazil.
+   [Fonseca de Sena, J.; Barreto, S. B. L.] Univ Fed Piaui, Univ Hosp, Teresina, Brazil.
+   [Galvao-Moreira, L. V.] Univ Fed Maranhao, Sch Med, Sao Luis, Brazil.
+   [Eduardo Batista, J.] Univ Fed Maranhao, Dept Pathol, Sao Luis, Brazil.
+RP Cantanhede, ALC (corresponding author), Univ Fed Maranhao, Univ Hosp, Rua Barao de Itapari 227, BR-65020070 Sao Luis, Maranhao, Brazil.
+EM andre_ctbmf@hotmail.com
+RI Galvao-Moreira, Leonardo Victor/N-4855-2015
+OI Galvao-Moreira, Leonardo Victor/0000-0003-4913-8783
+CR Antunes AA, 2011, ORAL SURG ORAL MED O, V112, pE81, DOI 10.1016/j.tripleo.2011.05.026
+   Bar Droma E, 2007, ORAL SURG ORAL MED O, V103, P92, DOI 10.1016/j.tripleo.2005.10.075
+   de Arruda JAA, 2017, ORAL SURG ORAL MED O, V103, P1
+   Duque CS, 2006, OTOLARYNG HEAD NECK, V135, P638, DOI 10.1016/j.otohns.2005.04.012
+   Hassona Y, 2014, J INVESTIG CLIN DENT, V5, P98, DOI 10.1111/jicd.12076
+   Ribeiro FAQ, 2001, REV BRAS OTORRINOLAR, V67, P755, DOI DOI 10.1590/S0034-72992001000600002
+   SHARMA H, 1989, J LARYNGOL OTOL, V103, P489, DOI 10.1017/S0022215100156695
+   Shinohara Elio Hitoshi, 2004, Braz. Dent. J., V15, P79, DOI 10.1590/S0103-64402004000100015
+   SOOD VP, 1976, J LARYNGOL OTOL, V90, P393, DOI 10.1017/S0022215100082219
+   Thomas Shaji, 2010, BMJ Case Rep, V2010, DOI 10.1136/bcr.08.2010.3219
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2468-8509
+EI 2468-7855
+J9 J STOMATOL ORAL MAXI
+JI J. Stomatol. Oral Maxillofac. Surg.
+PD APR
+PY 2019
+VL 120
+IS 2
+BP 164
+EP 166
+DI 10.1016/j.jormas.2018.10.004
+PG 3
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA HQ8BI
+UT WOS:000462648400017
+PM 30385427
+DA 2020-12-01
+ER
+
+PT J
+AU Lobao, WJM
+   de Carvalho, RCC
+   Leite, SAM
+   Rodrigues, VP
+   Batista, JE
+   Gomes, IS
+   Pereira, ALA
+AF Lobao, Walder J. M.
+   de Carvalho, Rosana C. C.
+   Leite, Sandra A. M.
+   Rodrigues, Vandilson P.
+   Batista, Jose Eduardo
+   Gomes-filho, Isaac S.
+   Pereira, Antonio L. A.
+TI Relationship between periodontal outcomes and serum biomarkers changes
+   after non-surgical periodontal therapy
+SO ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS
+LA English
+DT Article
+DE Chronic periodontitis; Inflammation mediators; Interleukin-6; C-reactive
+   protein; Leukocytes
+ID C-REACTIVE PROTEIN; INTERLEUKIN-6; INFLAMMATION; INFECTION; DISEASE
+AB The systemic effect of chronic periodontitis (CP) has been suggested by several studies as an etiologic factor and modulator of diseases based on the changes in the inflammatory marker levels. This study aimed to investigate the relationship between the changes in clinical periodontal outcomes and serum biomarkers (CRP, IL-6, albumin and percentage of leukocytes) after non-surgical periodontal therapy in systemically healthy adults. An interventional study was conducted with a sample of 29 individuals without CP (control group) and 33 with CP (CP group). Periodontal clinical variables were recorded, and the serum levels of inflammatory markers were measured. Statistical analysis included the chi-square and Student's t-tests and Pearson's correlation analysis. After 90 days of non-surgical periodontal treatment, a reduction of periodontal parameters and IL-6 in both groups could be observed (P < 0.001). The correlation analysis revealed a directly proportional correlation between changes in the probing depth (r = 0.349, P = 0.049) and clinical attachment level (r = 0.374, P = 0.034) with CRP in the CP group. The findings suggest a reduction of IL-6 serum concentration and periodontal clinical measures 90 days after periodontal therapy in both groups.
+C1 [Lobao, Walder J. M.; Batista, Jose Eduardo] Dept Patol, Praca Madre Deus 01, BR-65015460 Sao Luis, MA, Brazil.
+   [de Carvalho, Rosana C. C.; Leite, Sandra A. M.] Univ Fed Maranhao, Fac Odontol, Dept Odontol 1, Av Portugueses 1966, BR-65080805 Sao Luis, MA, Brazil.
+   [Rodrigues, Vandilson P.] Dept Morfol, Av Portugueses 1966, BR-65080805 Sao Luis, MA, Brazil.
+   [Gomes-filho, Isaac S.] Univ Estadual Feira de Santana, Dept Saude, Av Transnordestina S-N, BR-44036900 Novo Horizonte, BA, Brazil.
+   [Pereira, Antonio L. A.] Univ Fed Maranhao, Fac Odontol, Dept Odontol 2, Av Portugueses 1966, BR-65080805 Sao Luis, MA, Brazil.
+RP Lobao, WJM (corresponding author), Dept Patol, Praca Madre Deus 01, BR-65015460 Sao Luis, MA, Brazil.
+EM walderjansen@hotmail.com
+RI Filho, Isaac Suzart Gomes/Y-5516-2019; Rodrigues, Vandilson
+   Pinheiro/O-6598-2016
+OI Filho, Isaac Suzart Gomes/0000-0002-4270-8491; Rodrigues, Vandilson
+   Pinheiro/0000-0002-6785-7864
+FU Fundacao de Amparo a Pesquisa e ao Desenvolvimento Cientifico e
+   Tecnologico do Maranhao (FAPEMA)
+FX The authors thank Federal University of the Maranhao for its structural
+   support and availability of research materials, and the Fundacao de
+   Amparo a Pesquisa e ao Desenvolvimento Cientifico e Tecnologico do
+   Maranhao (FAPEMA) for financial support.
+CR AINAMO J, 1975, INT DENT J, V25, P229
+   Almaghlouth AA, 2014, CLIN ORAL INVEST, V18, P2113, DOI 10.1007/s00784-014-1187-4
+   AMITHA R, 2012, IRJP, V3, P183
+   CARVALHO RC, 2014, BRAZ J PERIODONTOL, V24, P48
+   Craig RG, 2003, J PERIODONTOL, V74, P1007, DOI 10.1902/jop.2003.74.7.1007
+   Drisko CL, 2014, J EVID-BASED DENT PR, V14, P33, DOI 10.1016/j.jebdp.2014.02.007
+   Gorska R, 2003, J CLIN PERIODONTOL, V30, P1046, DOI 10.1046/j.0303-6979.2003.00425.x
+   Graziani F, 2010, J CLIN PERIODONTOL, V37, P848, DOI 10.1111/j.1600-051X.2010.01585.x
+   Higashi Y, 2008, HYPERTENSION, V51, P446, DOI 10.1161/HYPERTENSIONAHA.107.101535
+   KHATTRI S, 2017, COCHRANE LIB, V2, P1
+   Kinane DF, 2017, NAT REV DIS PRIMERS, V3, DOI 10.1038/nrdp.2017.38
+   Kolte Rajashri A, 2010, J Indian Soc Periodontol, V14, P227, DOI 10.4103/0972-124X.76923
+   Kulkarni C, 2014, PERIODONTOL 2000, V65, P79, DOI 10.1111/prd.12017
+   Loos BG, 2005, J PERIODONTOL, V76, P2106, DOI 10.1902/jop.2005.76.11-S.2106
+   MACHTEI EE, 1992, J PERIODONTOL, V63, P207
+   Marcaccini AM, 2009, J PERIODONTOL, V80, P594, DOI 10.1902/jop.2009.080561
+   Nussbaum G, 2011, J CLIN PERIODONTOL, V38, P49, DOI 10.1111/j.1600-051X.2010.01678.x
+   PATIL NA, 2015, J RES ADV DENT, V4, P27
+   Pradeep AR, 2011, J PERIODONTOL, V82, P388, DOI 10.1902/jop.2010.100336
+   Ribeiro J, 2005, J CLIN PERIODONTOL, V32, P412, DOI 10.1111/j.1600-051X.2005.00689.x
+   Rodrigues VP, 2014, J CLIN PERIODONTOL, V41, P862, DOI 10.1111/jcpe.12283
+   SARAVANAN AV, 2012, STREAMDENT J, V3, P120
+   Van der Velden U, 2017, PERIODONTOL 2000, V75, P24, DOI 10.1111/prd.12202
+   Vidal F, 2009, J PERIODONTOL, V80, P786, DOI 10.1902/jop.2009.080471
+   Yu YH, 2015, J CLIN PERIODONTOL, V42, P21, DOI 10.1111/jcpe.12335
+NR 25
+TC 2
+Z9 3
+U1 0
+U2 0
+PU ACAD BRASILEIRA DE CIENCIAS
+PI RIO JANEIRO
+PA RUA ANFILOFIO DE CARVALHO, 29, 3 ANDAR, 20030-060 RIO JANEIRO, BRAZIL
+SN 0001-3765
+EI 1678-2690
+J9 AN ACAD BRAS CIENC
+JI An. Acad. Bras. Cienc.
+PY 2019
+VL 91
+IS 2
+AR e20170652
+DI 10.1590/0001-3765201920170652
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA IA7RS
+UT WOS:000469754500001
+PM 31141007
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU dos Santos, GRB
+   Aragao, FBA
+   Lobao, WJD
+   Lima, FR
+   de Andrade, LMRL
+   Furtado, QR
+   Batista, JE
+AF Bastos dos Santos, Gerusinete Rodrigues
+   Arruda Aragao, Francisca Bruna
+   de Mello Lobao, Walder Jansen
+   Lima, Fabiano Rosario
+   Ramos Lacerda de Andrade, Luisa Marillac
+   Furtado, Quesia Rodrigues
+   Batista, Jose Eduardo
+TI Relationship between microcephaly and Zika virus during pregnancy: a
+   review
+SO REVISTA DA ASSOCIACAO MEDICA BRASILEIRA
+LA English
+DT Review
+DE Epidemics; Zika virus; Microcephaly; Pregnancy
+ID FETAL-BRAIN ABNORMALITY; INFECTION; BRAZIL; TRANSMISSION; STANDARDS;
+   ICEBERG; CELL; TIP
+AB AIM: the present study analysed the association between Zika-virus and microcephaly during the gestational period of women in Brazil. Methodology: Systematic reviews of intervention research, current publications of clinical investigations were used systematic search strategies in three electronic databases PubMed, SciELO and Google academic. The following keywords were used: Microcephaly, gestation, Zika-virus to perform the search, and 1020 articles were obtained after exclusion, 45 were left and 35 were eligible. The collection period was from 2004 to 2017. Results: Epidemiological data suggest a temporal association between the quantitative increase and the Zika-virus epidemic, especially in Northeast Brazil. It is not consensual to measure the cephalic perimeter curve to be considered. Conclusion: Given this, the application of techniques to accurately diagnose the relationship between causes and effects in the pathogenesis of Zika virus infection in the central nervous system should be prioritized.
+C1 [Bastos dos Santos, Gerusinete Rodrigues; Arruda Aragao, Francisca Bruna] Fed Univ Maranhao UFMA, Adult & Child Hlth, Sao Luis, MA, Brazil.
+   [de Mello Lobao, Walder Jansen] Univ Fed Maranhao, Pathol Dept, Sao Luis, MA, Brazil.
+   [Lima, Fabiano Rosario] Family Hlth Strategy Municipal Turilandia, Turilandia, MA, Brazil.
+   [Ramos Lacerda de Andrade, Luisa Marillac; Batista, Jose Eduardo] Fed Univ Maranhao UFMA, Sao Luis, MA, Brazil.
+   [Ramos Lacerda de Andrade, Luisa Marillac] Univ Fed Maranhao, Family Hlth MS, Sao Luis, MA, Brazil.
+   [Furtado, Quesia Rodrigues] Latin Amer Private Univ Upal, Med, Cochabamba, Bolivia.
+   [Batista, Jose Eduardo] Pathol Dept, Sao Luis, MA, Brazil.
+RP Aragao, FBA (corresponding author), Univ Fed Maranhao, Programa Posgrad Saude Adulto & Crianca, Av Portugueses 1996, BR-65080805 Sao Luis, MA, Brazil.
+EM gerusinete@hotmail.com; aragao_bruna@hotmail.com;
+   walderjansen@hotmail.com; fabianorosariolima@hotmail.com;
+   luisa.marillac.andrade@hotmail.com; quesiamed21@gmail.com;
+   jbatistaufma@gmail.com
+RI Aragao, Francisca Bruna Arruda/S-2711-2019
+OI Aragao, Francisca Bruna Arruda/0000-0002-1191-0988
+CR Ashwal S, 2009, NEUROLOGY, V73, P887, DOI 10.1212/WNL.0b013e3181b783f7
+   BELL TM, 1971, ARCH GES VIRUSFORSCH, V35, P183, DOI 10.1007/BF01249709
+   Besnard M., 2014, EURO SURVEILL, V19
+   Broutet N, 2016, NEW ENGL J MED, V374, P1506, DOI 10.1056/NEJMp1602708
+   Butler Declan, 2016, Nature, V530, P13, DOI 10.1038/nature.2016.19259
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Caveiao C., 2016, SAUDE, V1, P3
+   Cofre F, 2016, REV CHIL INFECTOL, V33, P96, DOI 10.4067/S0716-10182016000100018
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Faheem M, 2015, BMC MED GENOMICS, V8, DOI 10.1186/1755-8794-8-S1-S4
+   Faye O, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002636
+   Golden JA, 2001, NEUROPATH APPL NEURO, V27, P22, DOI 10.1046/j.0305-1846.2001.00307.x
+   Greig LC, 2013, NAT REV NEUROSCI, V14, P755, DOI 10.1038/nrn3586
+   Hayes EB, 2009, EMERG INFECT DIS, V15, P1347, DOI 10.3201/eid1509.090442
+   Hazin AN, 2016, NEW ENGL J MED, V374, P2193, DOI 10.1056/NEJMc1603617
+   Hennessey M., 2015, CTR DIS CONTROL PREV, V65, P55, DOI DOI 10.15585/MMWR.MM6503E1
+   Herling JD, 2016, REV CIENCIA ESTUDOS, V5, P59
+   Hussain MS, 2013, HUM MOL GENET, V22, P5199, DOI 10.1093/hmg/ddt374
+   JACKSON AS, 1978, BRIT J NUTR, V40, P497, DOI 10.1079/BJN19780152
+   Kindhauser MK, 2016, B WORLD HEALTH ORGAN, V94, P675, DOI 10.2471/BLT.16.171082
+   Lucey DR, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i781
+   Malone RW, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004530
+   Martin-Loeches I, 2015, J INFECTION, V70, P213, DOI 10.1016/j.jinf.2014.10.004
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Musso D, 2015, EMERG INFECT DIS, V21, P1887, DOI 10.3201/eid2110.151125
+   Negras L, 2016, LETRAS, V26
+   Passemard S, 2016, CORTEX, V74, P158, DOI 10.1016/j.cortex.2015.10.010
+   RAKIC P, 1995, TRENDS NEUROSCI, V18, P383, DOI 10.1016/0166-2236(95)93934-P
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Tetro JA, 2016, MICROBES INFECT, V18, P167, DOI 10.1016/j.micinf.2015.12.010
+   Thornton GK, 2009, TRENDS GENET, V25, P501, DOI 10.1016/j.tig.2009.09.011
+   Ventura CV, 2016, ARQ BRAS OFTALMOL, V79, P1, DOI 10.5935/0004-2749.20160002
+   Villar J, 2014, LANCET, V384, P857, DOI 10.1016/S0140-6736(14)60932-6
+   Viral Volpe J., 2001, NEUROLOGY NEWBORN, P737
+   Woods CG, 2004, CURR OPIN NEUROBIOL, V14, P112, DOI 10.1016/j.conb.2004.01.003
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 37
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ASSOC MEDICA BRASILEIRA
+PI SAO PAULO
+PA RUA SAO CARLOS DO PINHAL 324, CAIXA POSTAL 8904, SAO PAULO, SP, BRAZIL
+SN 0104-4230
+J9 REV ASSOC MED BRAS
+JI Rev. Assoc. Med. Bras.
+PD JUL
+PY 2018
+VL 64
+IS 7
+BP 635
+EP 642
+DI 10.1590/1806-9282.64.07.635
+PG 8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA GX3XC
+UT WOS:000447659600014
+PM 30365666
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Nascimento, MDSB
+   Vidal, FCB
+   da Silva, MACN
+   Batista, JE
+   Barbosa, MDL
+   Muniz, WE
+   Bezerra, GFD
+   Viana, GMD
+   Branco, RCC
+   Brito, LMO
+AF Soares Brandao Nascimento, Maria do Desterro
+   Branco Vidal, Flavia Castello
+   Custodio Neto da Silva, Marcos Antonio
+   Batista, Jose Eduardo
+   Lacerda Barbosa, Maria do Carmo
+   Muniz Filho, Walbert Edson
+   de Barros Bezerra, Geusa Felipa
+   de Castro Viana, Graca Maria
+   Castelo Branco, Rebeca Costa
+   Oliveira Brito, Luciane Maria
+TI Prevalence of human papillomavirus infection among women from quilombo
+   communities in northeastern Brazil
+SO BMC WOMENS HEALTH
+LA English
+DT Article
+DE Human papillomavirus (HPV); Prevalence; Risk factors; Genotypes;
+   Cervical cancer; Pap smear; Quilombola women
+ID CERVICAL NEOPLASIA; HPV INFECTION; GENOTYPE DISTRIBUTION; CANCER;
+   CLASSIFICATION; POPULATION; CYTOLOGY; AMAZON; RISK
+AB Background: Human papillomavirus (HPV) is a member of the Papillomaviridae family. The prevalence of HPV genotypes may vary according to the region and the population studied. Quilombo communities are ethnic and racial groups with difficult access to health services compared to the general population in Brazil. The aim of this study was to identify specific HPV types correlating with sociodemographic/behavioral characteristics and cervical smear cytological abnormalities in Quilombola women.
+   Methods: This cross-sectional study included 395 Quilombola women users of the Unified Health System of the Municipalities of Maranhao for the screening of cervical cancer. The samples were analyzed for the presence of cytological abnormalities by conventional methods and tested for 37 HPV genotypes using polymerase chain reaction with primers PGMY09/11 followed by reverse line blot hybridization performed with the Linear Array HPV Genotyping Test kit by Roche Molecular System (R). The association between HPV types and cytological diagnosis was investigated according to the different age groups.
+   Results: HPV infection was detected in 12.6% (50/395) of the women. Infections by high-risk HPV types were more frequent. Genotypes 68 (26.0%); 58 and 52 (20.0%); 31 (10.0%) and 62 (8.0%) were the most prevalent. The highest prevalence (42.0%) of HPV infection occurred in women diagnosed with high-grade squamous intraepithelial lesion. There was a statistically significant association between HPV infection and the detection of cytological abnormalities in all age groups except in women over 60 years. There was a statistically significant association between the municipality of origin and the number of partners with HPV infection.
+   Conclusions: It is important to incorporate new cervical cancer screening techniques incorporating the cervical-vaginal cytology. For further studies, it is necessary to determine the level of knowledge of Quilombola population on health-related issues including HPV infection and cervical cancer. This will contribute to the continuous improvement of healthcare coverage among the population and enhance the implementation of cancer care in the state of Maranhao.
+C1 [Soares Brandao Nascimento, Maria do Desterro; Custodio Neto da Silva, Marcos Antonio; Muniz Filho, Walbert Edson; de Barros Bezerra, Geusa Felipa; de Castro Viana, Graca Maria] Univ Fed Maranhao, Ctr Biol & Hlth Sci, Dept Pathol, Sao Luis, Brazil.
+   [Branco Vidal, Flavia Castello] Univ Fed Maranhao, Ctr Biol & Hlth Sci, Dept Morphol, Sao Luis, Brazil.
+   [Custodio Neto da Silva, Marcos Antonio] Univ Fed Maranhao, Sao Luis, Brazil.
+   [Soares Brandao Nascimento, Maria do Desterro; Branco Vidal, Flavia Castello; Castelo Branco, Rebeca Costa; Oliveira Brito, Luciane Maria] Univ Fed Maranhao, Postgrad Program Adult & Child Hlth, Sao Luis, Brazil.
+   [Lacerda Barbosa, Maria do Carmo] Univ Fed Maranhao, Ctr Biol & Hlth Sci, Dept Med 1, Sao Luis, Brazil.
+   [Oliveira Brito, Luciane Maria] Univ Fed Maranhao, Ctr Biol & Hlth Sci, Dept Med 3, Sao Luis, Brazil.
+   [Soares Brandao Nascimento, Maria do Desterro] Nucleo Imunol Basica & Aplicada, Avenida dos Portugueses,1966,Bacanga, BR-65080805 Sao Luis, MA, Brazil.
+RP Nascimento, MDSB (corresponding author), Univ Fed Maranhao, Ctr Biol & Hlth Sci, Dept Pathol, Sao Luis, Brazil.; Nascimento, MDSB (corresponding author), Univ Fed Maranhao, Postgrad Program Adult & Child Hlth, Sao Luis, Brazil.; Nascimento, MDSB (corresponding author), Nucleo Imunol Basica & Aplicada, Avenida dos Portugueses,1966,Bacanga, BR-65080805 Sao Luis, MA, Brazil.
+EM cnsd_ma@uol.com.br
+RI Brito, Luciane/C-3523-2015; da Sil, Marcos Antonio CustAdio
+   Neto/AAG-8191-2019; Barbosa, Maria/AAI-1114-2019; Nascimento, Maria do
+   Desterro Soares Brandao/S-7024-2019
+OI Brito, Luciane/0000-0002-8574-9680; da Sil, Marcos Antonio CustAdio
+   Neto/0000-0003-2748-1564; Nascimento, Maria do Desterro Soares
+   Brandao/0000-0003-2783-362X; CASTRO VIANA, GRACA
+   MARIA/0000-0002-3111-2959
+FU  [01363/09];  [012/2009]
+FX The funding for this research was obtained via the Project 01363/09 -
+   FAPEMA Notice MS/CNPq/FAPEMA No. 012/2009, Research Program for the SUS:
+   shared management in health - PPSUS.
+CR Adams M, 2007, VACCINE, V25, P3007, DOI 10.1016/j.vaccine.2007.01.016
+   Akarolo-Anthony SN, 2014, BMC PUBLIC HEALTH, V14, DOI 10.1186/1471-2458-14-656
+   Arbyn M, 2009, J CELL MOL MED, V13, P648, DOI 10.1111/j.1582-4934.2008.00631.x
+   Brasil. Ministerio da Cultura, 2012, COM QUIL
+   Brasil. Ministerio da Saude. Secretaria Nacional de Assistencia a Saude. Instituto Nacional de Cancer, 2014, COORD PREV VIG CANC
+   Brito EB, 2006, EUR J GYNAECOL ONCOL, V27, P279
+   Bzhalava D, 2013, VIROLOGY, V445, P224, DOI 10.1016/j.virol.2013.07.015
+   Cardoso LFC, 2010, R EST PESQ ED, V12, P11
+   Casalegno JS, 2011, INT J GYNECOL OBSTET, V114, P116, DOI 10.1016/j.ijgo.2011.01.030
+   Cervantes Jorge, 2003, Rev. Inst. Med. trop. S. Paulo, V45, P131, DOI 10.1590/S0036-46652003000300003
+   Clifford G, 2006, VACCINE, V24, P26, DOI 10.1016/j.vaccine.2006.05.026
+   de Villiers EM, 2004, VIROLOGY, V324, P17, DOI 10.1016/j.virol.2004.03.033
+   de Villiers EM, 2013, VIROLOGY, V445, P2, DOI 10.1016/j.virol.2013.04.023
+   Dunne EF, 2006, CLIN INFECT DIS, V43, P624, DOI 10.1086/505982
+   Ferlay J, 2010, GLOBOCAN 2008 CANC I
+   Foliaki S, 2014, INFECT AGENTS CANCER, V9, DOI 10.1186/1750-9378-9-14
+   Goldman B, 2013, VACCINE, V31, P1604, DOI 10.1016/j.vaccine.2012.12.084
+   Gravitt PE, 2000, J CLIN MICROBIOL, V38, P357
+   IARC, 2012, MON EV CARC RISKS HU, V100
+   Jing LP, 2014, BMC INFECT DIS, V14, DOI 10.1186/1471-2334-14-388
+   Keita N, 2009, BRIT J CANCER, V101, P202, DOI 10.1038/sj.bjc.6605140
+   Krambeck WM, 2008, CLIN EXP OBSTET GYN, V35, P175
+   Lopes F., 2005, SAUDE POPULACAO NEGR, P446
+   Tran LTH, 2015, BMC WOMENS HEALTH, V15, DOI 10.1186/s12905-015-0172-7
+   MANOS MM, 1989, CANCER CEL, V7, P209
+   Marks MA, 2015, BMC INFECT DIS, V15, DOI 10.1186/s12879-015-0886-z
+   Munoz N, 2003, NEW ENGL J MED, V348, P518, DOI 10.1056/NEJMoa021641
+   Munoz N, 2006, VACCINE, V24, P1, DOI 10.1016/j.vaccine.2006.05.115
+   Pinto DD, 2011, CAD SAUDE PUBLICA, V27, P769, DOI 10.1590/S0102-311X2011000400016
+   Schiffman M, 2010, CANCER RES, V70, P3159, DOI 10.1158/0008-5472.CAN-09-4179
+   Solomon D, 2002, JAMA-J AM MED ASSOC, V287, P2114, DOI 10.1001/jama.287.16.2114
+   Trottier H, 2006, CANCER EPIDEM BIOMAR, V15, P1274, DOI 10.1158/1055-9965.EPI-06-0129
+   US Cancer Statistics Working Group, 2010, US CANC STAT 1999 20
+   Villa LL, 2011, CANCER LETT, V305, P106, DOI 10.1016/j.canlet.2010.12.002
+   Volochko A, 2009, TEMAS SAUDE COLETIVA, V9, P147
+   Watson-Jones D, 2013, SEX TRANSM INFECT, V89, P358, DOI 10.1136/sextrans-2012-050685
+   World Health Organization (WHO), 2015, GLOB 2012 CANC INC M
+   Bosch FX, 2008, VACCINE, V26, pK1, DOI 10.1016/j.vaccine.2008.05.064
+   Xue H, 2015, J MED VIROL, V87, P1248, DOI 10.1002/jmv.24029
+   zur Hausen H, 2002, NAT REV CANCER, V2, P342, DOI 10.1038/nrc798
+NR 40
+TC 2
+Z9 2
+U1 0
+U2 5
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6874
+J9 BMC WOMENS HEALTH
+JI BMC Womens Health
+PD JAN 2
+PY 2018
+VL 18
+AR 1
+DI 10.1186/s12905-017-0499-3
+PG 10
+WC Public, Environmental & Occupational Health; Obstetrics & Gynecology
+SC Public, Environmental & Occupational Health; Obstetrics & Gynecology
+GA FR6WI
+UT WOS:000419206900001
+PM 29291721
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Batista, JE
+   Saddi, VA
+   de Carvalho, KPA
+   Ribeiro, AA
+   Segati, KD
+   Carneiro, MAD
+   Monteiro, SG
+   Nascimento, MDSB
+   Rabelo-Santos, SH
+AF Batista, Jose Eduardo
+   Saddi, Vera Aparecida
+   Almeida de Carvalho, Keila Patrcia
+   Ribeiro, Andrea Alves
+   Segati, Kelly Deyse
+   Carneiro, Megmar Aparecida dos S.
+   Monteiro, Silvio G.
+   Nascimento, Maria do Desterro S. B.
+   Rabelo-Santos, Silvia Helena
+TI Human papillomavirus genotypes 68 and 58 are the most prevalent
+   genotypes in women from quilombo communities in the state of Maranhao,
+   Brazil
+SO INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Article
+DE HPV types; Infection of the genital tract; Cervical smear; Epidemiology;
+   Isolated communities
+ID INVASIVE CERVICAL-CANCER; NATURAL-HISTORY; HPV INFECTION; WORLDWIDE;
+   NEOPLASIA; CYTOLOGY; FREQUENCY; LESIONS; VIRUS; DNA
+AB Objectives: To determine the frequency of human papillomavirus (HPV) types and behavioral characteristics related to cytological abnormalities in women descendants of slaves, who live in isolated communities known as quilombos in the state of Maranhao, Brazil.
+   Methods: Cervicovaginal specimens of 353 women were analyzed by conventional cytology and genotyping. HPV detection and genotyping was performed using a linear array HPV genotyping test kit. Behavioral factors and their association with cytological abnormalities were analyzed, as well as the association between cytological abnormalities and HPV infection.
+   Results: The frequency of HPV infection was 13%, and infection with high-risk HPV types was more frequent than with low-risk types (10.2% vs. 2.8%). The most prevalent genotypes were HPV 68 (3.1%) and HPV 58 (2.6%). HPV-positive women were 6.5 times more likely than HPV-negative women to be diagnosed with cytological abnormalities. There was a significant association between HPV infection and the presence of cytological abnormalities in women 31-40 years of age and in women 51-60 years of age.
+   Conclusions: A distinct profile of high-risk HPV genotypes was detected, with predominance of types 68 and 58. It is possible that the results of the present study are due to specific characteristics of the population, which is geographically isolated and maintains conservative sexual habits. (C) 2017 The Authors.
+C1 [Batista, Jose Eduardo; Nascimento, Maria do Desterro S. B.] Univ Fed Maranhao, Biol & Hlth Sci Ctr, Dept Pathol, Ave Portugueses SN, BR-65025560 Sao Luis, MA, Brazil.
+   [Saddi, Vera Aparecida] Pontifical Catholic Univ Goias, Goiania, Go, Brazil.
+   [Almeida de Carvalho, Keila Patrcia; Ribeiro, Andrea Alves; Segati, Kelly Deyse; Carneiro, Megmar Aparecida dos S.; Rabelo-Santos, Silvia Helena] Univ Fed Goias, Inst Trop Pathol & Publ Hlth, Goiania, Go, Brazil.
+   [Monteiro, Silvio G.] CEUMA Univ, Hlth Sci Ctr, Sao Luis, MA, Brazil.
+   [Monteiro, Silvio G.] Univ Fed Maranhao, Dept Biol Sci, Sao Luis, MA, Brazil.
+   [Rabelo-Santos, Silvia Helena] Univ Fed Goias, Sch Pharm, Goiania, Go, Brazil.
+RP Batista, JE (corresponding author), Univ Fed Maranhao, Biol & Hlth Sci Ctr, Dept Pathol, Ave Portugueses SN, BR-65025560 Sao Luis, MA, Brazil.
+EM jbatistaufma@gmail.com
+RI Monteiro, Silvio Gomes/G-8376-2018; Carneiro, Megmar/O-6482-2018;
+   Ribeiro, Andrea/ABA-2668-2020; Nascimento, Maria do Desterro Soares
+   Brandao/S-7024-2019
+OI Monteiro, Silvio Gomes/0000-0002-4185-4577; Carneiro,
+   Megmar/0000-0003-0569-477X; Nascimento, Maria do Desterro Soares
+   Brandao/0000-0003-2783-362X; SADDI, VERA/0000-0001-9949-9988
+FU Coordination of Human Resources Improvement of Higher Education
+   (Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior)
+   [CAPES-AUXPE-DINTER-2532/2009, 23038045009/2009-64]; National Council of
+   Scientific and Technological Development (Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico, CNPq)National Council for
+   Scientific and Technological Development (CNPq); Maranhao State
+   Foundation
+FX This study was supported by the following Brazilian government funding
+   agencies: Coordination of Human Resources Improvement of Higher
+   Education (Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior,
+   CAPES-AUXPE-DINTER-2532/2009 (23038045009/2009-64)), National Council of
+   Scientific and Technological Development (Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico, CNPq), and the Maranhao State
+   Foundation for Research and Scientific and Technological Development
+   (Fundacao de Amparo a Pesquisa e Desenvolvimento Tecnologico do Estado
+   do Maranhao, FAPEMA).
+CR da Silva MFPTB, 2012, GENET MOL RES, V11, P462, DOI 10.4238/2012.March.1.3
+   Cambou MC, 2015, INT J INFECT DIS, V41, P17, DOI 10.1016/j.ijid.2015.10.017
+   Clifford GM, 2005, LANCET, V366, P991, DOI 10.1016/S0140-6736(05)67069-9
+   COIMBRA JR C. E. A, 2000, CIENC SAUDE COLETIVA, V5, P125, DOI DOI 10.1590/S1413-81232000000100011
+   da Silva MC, 2012, ARCH GYNECOL OBSTET, V286, P1015, DOI 10.1007/s00404-012-2399-y
+   de Sanjose S, 2007, LANCET INFECT DIS, V7, P453, DOI 10.1016/S1473-3099(07)70158-5
+   de Sanjose S, 2010, LANCET ONCOL, V11, P1048, DOI 10.1016/S1470-2045(10)70230-8
+   Fonseca AJ, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0133635
+   Franceschi S, 2006, INT J CANCER, V119, P2677, DOI 10.1002/ijc.22241
+   Garcia-Espinosa B, 2009, DIAGN PATHOL, V4, DOI 10.1186/1746-1596-4-31
+   Goldman B, 2013, VACCINE, V31, P1604, DOI 10.1016/j.vaccine.2012.12.084
+   Gordon IR, 1993, SAMPLE SIZE DETERMIN
+   Guan P, 2012, INT J CANCER, V131, P2349, DOI 10.1002/ijc.27485
+   Herrero R, 2005, J INFECT DIS, V191, P1796, DOI 10.1086/428850
+   Ministry of Health Brazil., 2009, PESQ NAC DEM SAUD CR, P298
+   Mongelos P, 2015, INT J INFECT DIS, V39, P44, DOI 10.1016/j.ijid.2015.08.007
+   Oliveira F A, 2012, Int J STD AIDS, V23, pe5, DOI 10.1258/ijsa.2009.009199
+   Picconi MA, 2002, MEDICINA-BUENOS AIRE, V62, P209
+   Rabelo-Santos SH, 2003, MEM I OSWALDO CRUZ, V98, P181, DOI 10.1590/S0074-02762003000200003
+   Solomon D, 2002, JAMA-J AM MED ASSOC, V287, P2114, DOI 10.1001/jama.287.16.2114
+   Tonon SA, 2004, INT J INFECT DIS, V8, P13, DOI 10.1016/j.ijid.2003.03.001
+   Woodman CBJ, 2007, NAT REV CANCER, V7, P11, DOI 10.1038/nrc2050
+   Bosch FX, 2008, VACCINE, V26, pK1, DOI 10.1016/j.vaccine.2008.05.064
+NR 23
+TC 5
+Z9 5
+U1 0
+U2 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1201-9712
+EI 1878-3511
+J9 INT J INFECT DIS
+JI Int. J. Infect. Dis.
+PD FEB
+PY 2017
+VL 55
+BP 51
+EP 55
+DI 10.1016/j.ijid.2017.01.001
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA EP2KN
+UT WOS:000397212000012
+PM 28088590
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Costa, ALD
+   da Silva, MACN
+   Brito, LMO
+   Nascimento, ACB
+   Barbosa, MDL
+   Batista, JE
+   Bezerra, GFD
+   Viana, GMD
+   Muniz, WE
+   Vidal, FCB
+   Nascimento, MDSB
+AF Durans Costa, Angra Larissa
+   Custodio Neto da Silva, Marcos Antonio
+   Oliveira Brito, Luciane Maria
+   Brandao Nascimento, Anna Cyntia
+   Lacerda Barbosa, Maria do Carmo
+   Batista, Jose Eduardo
+   de Barros Bezerra, Geusa Felipa
+   De Castro Viana, Graca Maria
+   Muniz Filho, Walbert Edson
+   Branco Vidal, Flavia Castello
+   Soares Brandao Nascimento, Maria do Desterro
+TI Osteoporosis in primary care: an opportunity to approach risk factors
+SO REVISTA BRASILEIRA DE REUMATOLOGIA
+LA English
+DT Article
+DE Climacteric; Osteoporosis; Risk factors
+ID NATIONAL-HEALTH; WOMEN; PREVALENCE; FRACTURES; DENSITY; PRE
+AB Introduction: Climacteric women are susceptible to a number of changes, among them osteoporosis. Osteoporosis is a disease characterized by low bone mass and susceptibility to fracture. Currently, this disease is a public health issue, being necessary to recognize its risk factors.
+   Objectives: Identify risk factors related to osteoporosis in women attending PROPIS/PROEX/UFMA, tracing a socio-demographic characterization and considering community lifestyles.
+   Material and methods: This is a transversal retrospective clinical with a quantitative approach study conducted between March and June 2013 in Sao Luis-MA with 107 women treated at the Programa de Praticas de Integralidade em SaUde (PROPIS - Integrality Health Practice Program). The study was approved by the University Hospital Ethics Committee of UFMA under opinion no. 362/07. Data were tabulated and analyzed in the epidemiological Epi-Info software, version 3.4.1.
+   Results: The brown color was predominant, consensual relationships proved to be a protective factor and low education was a risk factor. The average age of the group with menopause was 54.1 years and without menopause was 31.3 years (p < 0.0001). The average age of menopause was 43.7 years. The irregular menstrual cycle was a protective factor. The average number of pregnancies was 4.56 for the group with menopause and 2.45 for the group without menopause, with most births occurring normally (p < 0.0001). Smoking, physical inactivity and caffeine intake were risk factors, while the absence of alcoholism and of soda intake were protective factors for the disease.
+   Conclusion: The patients followed the socioeconomic and demographic profile of Maranhao. Most had menarche and menopause in appropriate periods, showed no positive family history of osteoporosis, did not usually drink alcohol, were sedentary and the caffeine intake was high. (C) 2015 Elsevier Editora Ltda. All rights reserved.
+C1 [Durans Costa, Angra Larissa; Custodio Neto da Silva, Marcos Antonio; Oliveira Brito, Luciane Maria; Brandao Nascimento, Anna Cyntia; Lacerda Barbosa, Maria do Carmo; Batista, Jose Eduardo; de Barros Bezerra, Geusa Felipa; De Castro Viana, Graca Maria; Muniz Filho, Walbert Edson; Branco Vidal, Flavia Castello; Soares Brandao Nascimento, Maria do Desterro] Univ Fed Maranhao UFMA, Sao Luis, MA, Brazil.
+   [Soares Brandao Nascimento, Maria do Desterro] Ctr Estudos Super Caxias, Caxias, MA USA.
+RP Nascimento, MDSB (corresponding author), Univ Fed Maranhao UFMA, Sao Luis, MA, Brazil.; Nascimento, MDSB (corresponding author), Ctr Estudos Super Caxias, Caxias, MA USA.
+EM cnsd_ma@uol.com.br
+RI Barbosa, Maria/AAI-1114-2019; da Sil, Marcos Antonio CustAdio
+   Neto/AAG-8191-2019; Brito, Luciane/C-3523-2015; Nascimento, Maria do
+   Desterro/S-7024-2019
+OI da Sil, Marcos Antonio CustAdio Neto/0000-0003-2748-1564; Brito,
+   Luciane/0000-0002-8574-9680; Nascimento, Maria do
+   Desterro/0000-0003-2783-362X
+FU Program of Practices of Completeness and Health of the Federal
+   University of Maranhao - PROPIS/UFMA
+FX To the Program of Practices of Completeness and Health of the Federal
+   University of Maranhao - PROPIS/UFMA for their support and partnership
+   necessary for the implementation of this project.
+CR [Anonymous], 1995, SAO PAULO MED J, V113, P7
+   [Anonymous], 1994, WHO TECHN REP SER
+   Bandeira Francisco, 2007, Rev. bras. epidemiol., V10, P86, DOI 10.1590/S1415-790X2007000100010
+   Clark P, 2009, OSTEOPOROSIS INT, V20, P275, DOI 10.1007/s00198-008-0657-4
+   Costa-Paiva Lúcia, 2003, Rev. Bras. Ginecol. Obstet., V25, P507, DOI 10.1590/S0100-72032003000700007
+   Farias FAB, 2003, PREVALENCIA OSTEOPOR, V189, P6
+   Fernandes CE, 2004, CLIMATERIO MANUAL OR
+   FERNANDES CE, 2003, MENOPAUSA DIAGNOSTIC
+   Gali JC, 2001, ACTA ORTOP BRAS, V9, P53
+   Keramat A, 2008, BMC MUSCULOSKEL DIS, V9, DOI 10.1186/1471-2474-9-28
+   Khan A, 2005, J OBSTET GYNAECOL CA, V27, P345, DOI 10.1016/S1701-2163(16)30461-3
+   Kim KH, 2012, BONE, V50, P1039, DOI 10.1016/j.bone.2012.02.007
+   Komatsu R S, 2004, J Nutr Health Aging, V8, P362
+   Lanzillotti Haydée Serrão, 2003, Rev. Nutr., V16, P181, DOI 10.1590/S1415-52732003000200005
+   Lee S, 2013, J KOREAN NEUROSURG S, V54, P384, DOI 10.3340/jkns.2013.54.5.384
+   Lopes IBF, 2007, REDUCAO DENSIDADE MI, V80, P1
+   Mahboub SM, 2014, J HEALTH POPUL NUTR, V32, P513
+   Martini LA, 2009, REV SAUDE PUBL, V43, P107, DOI 10.1590/S0034-89102009000900014
+   Montilla Regina das Neves Girão, 2003, Rev. Assoc. Med. Bras., V49, P91, DOI 10.1590/S0104-42302003000100040
+   Montilla Regina das Neves Girão, 2004, Rev. Assoc. Med. Bras., V50, P52, DOI 10.1590/S0104-42302004000100035
+   Neto AM Pinto, 2002, REV BRAS REUMATOL, V42, P343
+   Pinheiro MM, 2010, REV SAUDE PUBL, V44, P479, DOI 10.1590/s0034-89102010000300011
+   RIGGS BL, 1986, NEW ENGL J MED, V314, P1676, DOI 10.1056/NEJM198606263142605
+   Rocha Francisco Airton Castro da, 2005, Rev. Bras. Reumatol., V45, P141, DOI 10.1590/S0482-50042005000300009
+   Sato M, 2014, ARCH OSTEOPOROS, V9, DOI 10.1007/s11657-014-0199-7
+NR 25
+TC 8
+Z9 10
+U1 0
+U2 12
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0482-5004
+J9 REV BRAS REUMATOL
+JI Rev. Bras. Reumatol.
+PD MAR-APR
+PY 2016
+VL 56
+IS 2
+BP 111
+EP 116
+DI 10.1016/j.rbre.2015.07.014
+PG 6
+WC Rheumatology
+SC Rheumatology
+GA DP0JL
+UT WOS:000378176000005
+PM 27267523
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU BATISTA, JE
+   PALOU, J
+   ROUSAUD, A
+AF BATISTA, JE
+   PALOU, J
+   ROUSAUD, A
+TI DIFFERENTIAL-DIAGNOSIS OF RENAL COLIC .4. LUMBAR ABSCESS
+SO MEDICINA CLINICA
+LA Spanish
+DT Note
+RP BATISTA, JE (corresponding author), FDN PUIGVERT,SERV UROL,BARCELONA,SPAIN.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU EDICIONES DOYMA S/A
+PI BARCELONA
+PA TRAV DE GRACIA 17-21, 08021 BARCELONA, SPAIN
+SN 0025-7753
+J9 MED CLIN-BARCELONA
+JI Med. Clin.
+PD SEP 19
+PY 1992
+VL 99
+IS 8
+BP 320
+EP 320
+PG 1
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA JQ123
+UT WOS:A1992JQ12300021
+DA 2020-12-01
+ER
+
+EF

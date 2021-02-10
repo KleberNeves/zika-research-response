@@ -1,0 +1,2575 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cardoso, AMR
+   Silva, CRD
+   Gomes, LN
+   de Medeiros, MMD
+   Padilha, WWN
+   Cavalcanti, AFC
+   Cavalcanti, AL
+AF Rodrigues Cardoso, Andreia Medeiros
+   Duarte Silva, Clara Regina
+   Gomes, Lays Nobrega
+   Davino de Medeiros, Mariana Marinho
+   Nascimento Padilha, Wilton Wilney
+   Cabral Cavalcanti, Alidianne Fabia
+   Cavalcanti, Alessandro Leite
+TI Prevalence of Malocclusions and Associated Factors inBrazilian Children
+   and Adolescents with CerebralPalsy: A Multi-Institutional Study
+SO INTERNATIONAL JOURNAL OF DENTISTRY
+LA English
+DT Article
+ID ORAL-HEALTH; DETERMINANT FACTORS; DENTAL TRAUMA; PALSY; INDIVIDUALS;
+   HABITS
+AB Background. To assess the prevalence and factors associated with malocclusions in children and adolescents with cerebral palsy (CP).Methods. The study included 134 subjects with CP aged 2-18 years enrolled in six rehabilitation institutions and their caregivers, which provided demographic, systemic, and behavioral data. A calibrated researcher held oral examinations with record of the following malocclusion indexes, DAI and DMFT. Poisson regression analysis was used (alpha < 0.05).Results. About 85.8% (n = 115) of patients had malocclusion. In deciduous and mixed dentition (n = 99), increased overjet (75.8%), open bite (51.5%), posterior cross bite (19.2%), and anterior cross bite (3.0%) were identified. Increased overjet was associated with the age group of 2-5 years and mild communication impairment. Anterior open bite was more common in children who underwent tongue interposition, lip interposition, and pacifier sucking. Communication skills, mouth breathing, and tongue interposition were associated with posterior cross bite. Severe malocclusions (DAI > 30) were observed in 88.6% of patients with permanent dentition (n = 35) and were associated with liquid diet consistency and finger sucking.Conclusion. The prevalence of malocclusion in individuals with CP was high and associated with demographic, behavioral, and systemic factors.
+C1 [Rodrigues Cardoso, Andreia Medeiros; Cabral Cavalcanti, Alidianne Fabia; Cavalcanti, Alessandro Leite] State Univ Paraiba, Fac Dent, Dept Dent, Ave Baraunas S-N, BR-58429500 Campina Grande, PB, Brazil.
+   [Duarte Silva, Clara Regina; Gomes, Lays Nobrega; Davino de Medeiros, Mariana Marinho; Nascimento Padilha, Wilton Wilney] Univ Fed Paraiba, Fac Dent, Dept Dent, Cidade Univ S-N, BR-58051900 Joao Pessoa, Paraiba, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Fac Dent, Dept Dent, Ave Baraunas S-N, BR-58429500 Campina Grande, PB, Brazil.
+EM andreiamedeiros29@yahoo.com.br; clarareginads@yahoo.com.br;
+   laysnobrega@yahoo.com.br; mariana.davino@yahoo.com.br;
+   wiltonpadilha@yahoo.com.br; alidianne.fabia@gmail.com;
+   alessandrouepb@gmail.com
+RI LEITE CAVALCANTI, ALESSANDRO/A-2828-2010
+OI LEITE CAVALCANTI, ALESSANDRO/0000-0003-3572-3332
+FU State University of Paraiba; Federal University of Paraiba; Coordenacao
+   de Aperfeicoamento de Pessoal de Nivel Superior, Brasil (CAPES) [001];
+   CNPqNational Council for Scientific and Technological Development (CNPq)
+   [307014/2013-4]
+FX The authors would like to thank all the children and adolescents with CP
+   and caregivers who participated in the study, directors of the study
+   sites, and local authorities. Acknowledgments are also due to Prof. Ana
+   Maria Gondim Valenca who assisted during the training and calibration
+   processes. This study was supported by the State University of Paraiba,
+   Federal University of Paraiba, and the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior, Brasil (CAPES) (Finance Code 001). A. L.
+   Cavalcanti thanks CNPq for the research productivity fellowship (Proc.
+   no. 307014/2013-4).
+CR Andersen GL, 2008, EUR J PAEDIATR NEURO, V12, P4, DOI 10.1016/j.ejpn.2007.05.001
+   BALLARD M B, 1953, Bull Sch Med Univ Md, V38, P66
+   Bax M, 2005, DEV MED CHILD NEUROL, V47, P571, DOI 10.1017/S001216220500112X
+   Santos MTBR, 2010, SPEC CARE DENT, V30, P206, DOI 10.1111/j.1754-4505.2010.00151.x
+   Santos MTB, 2009, SPEC CARE DENT, V29, P198, DOI 10.1111/j.1754-4505.2009.00092.x
+   Cardoso AMR, 2015, INT J ENV RES PUB HE, V12, P335, DOI 10.3390/ijerph120100335
+   de Carvalho RB, 2011, SPEC CARE DENT, V31, P58, DOI 10.1111/j.1754-4505.2011.00180.x
+   de Castinho LS, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.23
+   Dimberg L, 2015, EUR J ORTHODONT, V37, P238, DOI 10.1093/ejo/cju046
+   Du RY, 2010, INT J PAEDIATR DENT, V20, P330, DOI 10.1111/j.1365-263X.2010.01062.x
+   Ferreira MCD, 2011, DENT TRAUMATOL, V27, P113, DOI 10.1111/j.1600-9657.2010.00961.x
+   Foster T. D., 1969, BR DENT J, V126, P76
+   Rosales LEG, 2019, PESQUI BRAS ODONTOPE, V19, DOI [10.4034/PBOCI.2019.191.51, 10.4034/pboci.2019.191.51]
+   Carmagnani FG, 2007, J DENT CHILD, V74, P41
+   Guerreiro PO, 2009, CIENC SAUDE COLETIVA, V14, P1939, DOI 10.1590/S1413-81232009000500036
+   Hermont AP, 2015, INT J ENV RES PUB HE, V12, P3133, DOI 10.3390/ijerph120303133
+   Instituto Brasileiro de geografia e Estatistica, 2016, CITIES MIN PLANN BUD
+   Jenny J, 1996, AM J ORTHOD DENTOFAC, V110, P410, DOI 10.1016/S0889-5406(96)70044-6
+   Koman LA, 2004, LANCET, V363, P1619, DOI 10.1016/S0140-6736(04)16207-7
+   Krigger KW, 2006, AM FAM PHYSICIAN, V73, P91
+   MartinezMihi V, 2014, J CLIN EXP DENT, V6, P1
+   Miamoto CB, 2011, BRAZ ORAL RES, V25, P319, DOI 10.1590/S1806-83242011000400007
+   Miamoto CB, 2010, AM J ORTHOD DENTOFAC, V138, P394, DOI 10.1016/j.ajodo.2010.05.011
+   Chavez MCM, 2008, MED ORAL PATOL ORAL, V13, pE22
+   Oliveira AC, 2011, EUR J ORTHODONT, V33, P413, DOI 10.1093/ejo/cjq094
+   Gois EGO, 2008, ANGLE ORTHOD, V78, P647, DOI 10.2319/0003-3219(2008)078[0647:IONSHB]2.0.CO;2
+   Ortega AOL, 2007, J ORAL REHABIL, V34, P323, DOI 10.1111/j.1365-2842.2006.01703.x
+   Oskoui M, 2013, DEV MED CHILD NEUROL, V55, P509, DOI 10.1111/dmcn.12080
+   Rodrigues dos Santos Maria Teresa Botti, 2003, J Dent Child (Chic), V70, P40
+   World Health Organization, 1997, OR HLTH SURV BAS MET
+   World Health Organization, 2013, ORAL HLTH SURVEYS BA
+   World Health Organization, 1987, ORAL HLTH SURVEYS BA
+NR 32
+TC 0
+Z9 0
+U1 1
+U2 1
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1687-8728
+EI 1687-8736
+J9 INT J DENT
+JI Int. J. Dent.
+PD AUG 29
+PY 2020
+VL 2020
+AR 8856754
+DI 10.1155/2020/8856754
+PG 10
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA NQ0QO
+UT WOS:000570573600001
+PM 32908512
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU de Araujo, RS
+   Porto, NVF
+   Laureano, ICC
+   Farias, L
+   Cavalcanti, AFC
+   Goncharuk-Khomyn, M
+   Cavalcanti, AL
+AF de Araujo, Rebeca Silva
+   Fernandes Porto, Nycolly Vasconcelos
+   Carvalho Laureano, Isla Camilla
+   Farias, Lunna
+   Cabral Cavalcanti, Alidianne Fabia
+   Goncharuk-Khomyn, Myroslav
+   Cavalcanti, Alessandro Leite
+TI Bibliometric Analysis of the Journal Acta Stomatologica Croatica:
+   2009-2018
+SO ACTA STOMATOLOGICA CROATICA
+LA English
+DT Article
+DE Publications; Bibliometrics; Journal Article; Dental Journalism
+AB Objective: To analyze a bibliometric profile of scientific production published in Acta Stomatologica Croatica (ASCRO). Material and methods: Scientific papers published from March 2009 to December 2018 were analyzed. Information on the year of publication was collected by four trained examiners. Dentistry area, study type and design, data analysis method, presence of randomization, number of authors and corresponding author affiliation were investigated. Data were analyzed descriptive statistics. Results: A total of 328 articles were evaluated, with a predominance of research in the field of Dental Materials (16.5%), with original article being the most frequent (74.1%). Observational studies accounted for 52.4%, using inferential statistics (83.2%) and non-randomized experimental studies (66.1%). Cross-sectional studies were more common in areas of Behavioral, Epidemiologic & Health Services Research (86.3%), case reports in Craniofacial Biology (54.0%) and Oral Health Research (53.1%), while in vitro studies were more common in the areas of Dental Materials (90.7%), Microbiology / Immunology (70.0%) and Cariology Research (66.7%). Most articles were written by four authors (24.1%), while foreign affiliation was observed in 53.0% of studies. Conclusion: The profile of ASCRO scientific production shows a predominance of original studies carried out in the are as of Dental Materials and Behavioral, Epidemiologic & Health Services Research, with growing participation of foreign researchers.
+C1 [de Araujo, Rebeca Silva; Fernandes Porto, Nycolly Vasconcelos; Carvalho Laureano, Isla Camilla; Farias, Lunna; Cabral Cavalcanti, Alidianne Fabia; Cavalcanti, Alessandro Leite] State Univ Paraiba, Sch Dent, Campine Grande, Brazil.
+   [Goncharuk-Khomyn, Myroslav] Uzhgorod Natl Univ, Dept Prosthet Dent, Fac Dent, Res Ctr Forens Dent, Uzhgorod, Ukraine.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Programa Posgrad Odontol, Rua Baraunas S-N, BR-58429500 Campine Grande, PB, Brazil.
+EM alessandrouepb@gmail.com
+CR Araujo R. F., 2011, ENC BIBLI R ELETR BI, V16, P51, DOI DOI 10.5007/1518-2924.2011V16N31P51
+   Boric V, 2019, ACTA STOMATOLOGICA C
+   Boric V, 2018, ACTA STOMATOL CROAT, V52, P348, DOI 10.15644/asc52/4/9
+   Boric V, 2006, ACTA STOMATOL CROAT, V40, P336
+   Brkic H, 2016, ACTA STOMATOL CROAT, V50, P2, DOI 10.15644/asc50/1/1
+   Bugarin Júnior João Geraldo, 2007, Rev. Saúde Pública, V41, P223, DOI 10.1590/s0034-89102007000200008
+   Castro Yuri, 2016, Rev. Clin. Periodoncia Implantol. Rehabil. Oral, V9, P114, DOI 10.1016/j.piro.2016.03.005
+   Celeste RK, 2016, COMMUNITY DENT ORAL, V44, P557, DOI 10.1111/cdoe.12249
+   Costa RM, 2015, REV ABENO, V15, P70
+   Eberly JH, 2000, OPT EXPRESS, V6, P1, DOI 10.1080/13651500052048442
+   Faggion CM, 2017, CLIN ORAL INVEST, V21, P2021, DOI 10.1007/s00784-016-1990-1
+   Gomes PB, 2011, STOMATOS, V17, P20
+   Hilario CM, 2017, SCIENTOMETRICS, V113, P929, DOI 10.1007/s11192-017-2498-4
+   *HRCAK, 2019, POSJ CAS RAZD 01 08
+   *INT ASS DENT RES, 2019, IADR SCI GROUP NETW
+   Jayaratne YSN, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0119503
+   Kramer PF, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.103
+   Levin Kate Ann, 2006, Evid Based Dent, V7, P24, DOI 10.1038/sj.ebd.6400375
+   Mulimani PS, 2017, AM J ORTHOD DENTOFAC, V152, P1, DOI 10.1016/j.ajodo.2017.03.020
+   Nedel Wagner Luis, 2016, Rev. bras. ter. intensiva, V28, P256, DOI 10.5935/0103-507X.20160050
+   Oliveira G, 2007, REV ODONTO CIENC, V22, P42
+   Pan RK, 2012, SCI REP-UK, V2, DOI 10.1038/srep00902
+   Scimago Journal & Country Rank, 2019, SCIMAGO J COUNTRY RA
+   Sinhoreti M. A. C., 2013, REV ASSOCIACAO PAULI, V67, P178
+   Souza JGS, 2016, ARQ ODONTOL, V52, P13
+   Thomas J, 2016, J INT SOC PREV COMMU, V6, P501, DOI 10.4103/2231-0762.195513
+   Uribe S, 2012, Rev. Clin. Periodoncia Implantol. Rehabil. Oral, V5, P13, DOI 10.4067/S0719-01072012000100003
+   Veiga N, 2015, J DENT ORAL HLTH, V1, P1
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV ZAGREB, SCH DENTAL MEDICINE
+PI ZAGREB
+PA GUNDULICEVA 5, ZAGREB, HR-10 000, CROATIA
+SN 0001-7019
+EI 1846-0410
+J9 ACTA STOMATOL CROAT
+JI Acta Stomatol. Croat.
+PD JUN
+PY 2020
+VL 54
+IS 2
+BP 186
+EP 193
+DI 10.15644/asc54/2/9
+PG 8
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA MA1ZB
+UT WOS:000541715300010
+PM 32801378
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AFC
+   Aguiar, Y
+   Melo, ASD
+   Cavalcanti, AL
+   D'Avila, S
+AF Cabral Cavalcanti, Alidianne Fabia
+   Aguiar, Yeska
+   De Oliveira Melo, Adriana Suely
+   Cavalcanti, Alessandro Leite
+   D'Avila, Sergio
+TI Breastfeeding Behavior in Brazilian Children with Congenital Zika
+   Syndrome
+SO INTERNATIONAL JOURNAL OF DENTISTRY
+LA English
+DT Article
+ID VIRUS-INFECTION; PREVALENCE; INFANTS
+AB Congenital Zika Syndrome (CZS) is a condition that has emerged only recently, bringing together multiple changes, including significant changes in the stomatognathic system, which may compromise sucking behavior and consequently the breastfeeding practice. The aim of this study was to investigate the breastfeeding behaviors in children with CZS. A longitudinal study was carried out in two reference centers in Northeastern Brazil. The nonprobabilistic sample consisted of 79 children diagnosed with physical, neurological, and behavioral alterations compatible with CZS. Information regarding the child, nutritive, and nonnutritive sucking behavior and changes related to the sucking reflex was collected. Data were presented through descriptive and inferential statistics. In the bivariate analyses, the chi-squared test was used and 5% significance level was adopted. The majority of children had severe microcephaly (59.7%). Breastfeeding was performed at birth in most of CZS children (89.9%) but only 36.6% of them presented exclusive breastfeeding in the six months of life. Bottle feeding and pacifier were used in 89.9% and 55.7%, respectively. Sucking and swallowing difficulties and occurrence of gastroesophageal reflux were observed in 27.8%, 48.0%, and 29.2% of children, respectively. Early weaning was associated with bottle feeding (p=0.005) and pacifier sucking (p=0.003). Although breastfeeding practice at birth constitutes a behavior adopted by most of mothers, adherence to this exclusive habit until the first six months of life was low since the children presenting a large number of comorbidities with direct interference in the suction reflex, sucking, and swallowing difficulty.
+C1 [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Sch Dent, Campina Grande, Paraiba, Brazil.
+   [Aguiar, Yeska] State Univ Paraiba, Sch Dent, Araruna, Brazil.
+   [De Oliveira Melo, Adriana Suely] Univ Fed Campina Grande, Sch Med, Campina Grande, Paraiba, Brazil.
+   [Cavalcanti, Alessandro Leite; D'Avila, Sergio] State Univ Paraiba, Postgrad Program Dent, Campina Grande, Paraiba, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Postgrad Program Dent, Campina Grande, Paraiba, Brazil.
+EM alessandrouepb@gmail.com
+RI Cavalcanti, Alessandro Leite/I-4286-2019
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332
+FU National Council for Scientific and Technological Development
+   (CNPq)-Research Productivity GrantNational Council for Scientific and
+   Technological Development (CNPq) [302850/2016-3]
+FX The authors would like to thank the Professor Joaquim Amorim Neto,
+   Research Institute, and Mrs. Jeime Izer Bezerra de Freitas Leal from the
+   Specialized Center for Rehabilitation. The authors would also like to
+   acknowledge the National Council for Scientific and Technological
+   Development (CNPq)-Research Productivity Grant (Process 302850/2016-3).
+CR Andrew MJ, 2012, ARCH DIS CHILDHOOD-E, V97, P222, DOI 10.1136/archdischild-2011-300914
+   [Anonymous], 2018, AM
+   [Anonymous], 2010, PESQ PREV AL MAT MUN, V227
+   Barros da Silva R, 2018, COMPREHENSIVE CHILD, P1, DOI [10.1080/24694193.2018.1427969, DOI 10.1080/24694193.2018.142796929419323]
+   Batista CLC, 2018, J PEDIAT-BRAZIL, V94, P596, DOI 10.1016/j.jped.2017.10.005
+   Bourin P. F., 2017, PEDIAT ASPECT DYSPH, P213
+   Brasil. Ministerio da Saude, 2016, EM SAUD PUBL IMP INT
+   Brazil Ministerio da Saude, 2015, CADERNOS ATENCAO BAS
+   Buccini GD, 2017, MATERN CHILD NUTR, V13, DOI 10.1111/mcn.12384
+   Cavalcanti AFC, 2019, INT J PAEDIATR DENT, V29, P74, DOI 10.1111/ipd.12431
+   Cavalcanti AL, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.69
+   Cavalcanti AL, 2017, CONTEMP CLIN DENT, V8, P345, DOI 10.4103/0976-237X.214553
+   Choi HJ, 2018, EARLY HUM DEV, V127, P42, DOI 10.1016/j.earlhumdev.2018.08.011
+   Ferreira HNC, 2018, INT J ENV RES PUB HE, V15, DOI 10.3390/ijerph15061107
+   Aguiar YPC, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.16
+   Deoni SCL, 2013, NEUROIMAGE, V82, P77, DOI 10.1016/j.neuroimage.2013.05.090
+   Duijts L, 2010, PEDIATRICS, V126, pE18, DOI 10.1542/peds.2008-3256
+   Genova L, 2018, REV CHIL PEDIATR-CHI, V89, P32, DOI 10.4067/S0370-41062018000100032
+   Gomes Cristiane F., 2006, J. Pediatr. (Rio J.), V82, P103, DOI [10.2223/JPED.1456, 10.1590/S0021-75572006000200005]
+   Hayes Donald K, 2020, Hawaii J Health Soc Welf, V79, P42
+   Jardi C, 2018, INFANT BEHAV DEV, V50, P300, DOI 10.1016/j.infbeh.2017.05.009
+   Leal MC, 2017, EMERG INFECT DIS, V23, P1253, DOI 10.3201/eid2308.170354
+   Leventakou V, 2015, J EPIDEMIOL COMMUN H, V69, P232, DOI 10.1136/jech-2013-202500
+   Marinho F, 2016, EPIDEMIOL SERV SAUDE, V25, P701, DOI [10.5123/s1679-49742016000400004, 10.5123/S1679-49742016000400004]
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Bomfim LTM, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.14
+   Miotto MHMB, 2016, PESQUI BRAS ODONTOPE, V16, P393, DOI 10.4034/PBOCI.2016.161.41
+   Raheel Hafsa, 2018, Sudan J Paediatr, V18, P28, DOI 10.24911/SJP.2018.1.5
+   Raihan MJ, 2020, MATERN CHILD NUTR, V16, DOI 10.1111/mcn.12971
+   Rigotti RR, 2015, CIENC SAUDE COLETIVA, V20, P1235, DOI 10.1590/1413-81232015204.00782014
+   Romero CC, 2011, J APPL ORAL SCI, V19, P161, DOI 10.1590/S1678-77572011000200013
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   Victora CG, 2016, LANCET, V387, P475, DOI 10.1016/S0140-6736(15)01024-7
+   WHO, 2016, GUID INF FEED AR ZIK
+   World Health Organization, 2018, BREASTFEEDING
+NR 35
+TC 1
+Z9 1
+U1 1
+U2 1
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1687-8728
+EI 1687-8736
+J9 INT J DENT
+JI Int. J. Dent.
+PD MAR 16
+PY 2020
+VL 2020
+AR 1078250
+DI 10.1155/2020/1078250
+PG 6
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA KZ0IW
+UT WOS:000522956900001
+PM 32256591
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   Andrade, NM
+   Brandt, LMT
+   Fernandes, LHF
+   Toscano, RL
+   Auad, SM
+   Buldur, B
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   Andrade, Natalia Medeiros
+   Temoteo Brandt, Lorenna Mendes
+   Freitas Fernandes, Liege Helena
+   Toscano, Raissa Lima
+   Auad, Sheyla Marcia
+   Buldur, Burak
+   Cabral Cavalcanti, Alidianne Fabia
+TI Risk Behaviors for Eating Disorders Among Brazilian Female Adolescents
+SO OPEN DENTISTRY JOURNAL
+LA English
+DT Article
+DE Body dysmorphic disorders; Bulimia nervosa; Diet; Adolescents;
+   Behavioral risk; Vomiting
+ID ORAL-HEALTH; ASSOCIATION; PREVALENCE; CHILDREN; EROSION; IMPACT; CITY
+AB Background:
+   Eating disorders are complex conditions that cause serious emotional and physical problems.
+   Aim:
+   The aim of the study was to evaluate the behavioral risk for eating disorders in Brazilian female adolescents and their association with dental caries and erosion.
+   Materials and Methods:
+   This cross-sectional study included 200 students from public and private schools aged 15-18 years divided into two groups according to behavioral risk: Group 1-adolescents without risk and Group 2-adolescents at risk /disorder situation. Sociodemographic information (age and type of school), use of dental services, eating habits, and Body Mass Index (BMI) was obtained. The Bulimic Investigatory Test of Edinburgh (BITE) was used to identify behavioral risk. Caries experience was assessed using the DMFT index, while dental erosion was evaluated using the O'Sullivan index. Data were analyzed using descriptive and inferential statistics, with a significance level of 5%.
+   Results:
+   The highest overweight and obesity percentages were verified among adolescents at risk /disorder, respectively, 33% and 16%. There was a statistically significant association between behavioral risk and variables standard dietary pattern (p<0.001), strict diet (p<0.001), fasting for 24 hours (p<0.001), self-induced vomiting (p<0.001), and BMI (p<0.001). There was also a statistically significant difference between behavioral risk and the presence of dental caries (p<0.05) and erosion (p<0.001).
+   Conclusion:
+   Behavioral risk for eating disorders in female adolescents was associated with standard dietary patterns, strict diet and, self-induced vomiting. Adolescents at risk /eating disorders for bulimia were related to dental caries and erosion.
+C1 [Cavalcanti, Alessandro Leite; Andrade, Natalia Medeiros; Temoteo Brandt, Lorenna Mendes; Freitas Fernandes, Liege Helena; Toscano, Raissa Lima; Cabral Cavalcanti, Alidianne Fabia] Paraiba State Univ, Sch Dent, BR-58429570 Campina Grande, Paraiba, Brazil.
+   [Auad, Sheyla Marcia] Univ Fed Minas Gerais, Fac Dent, Dept Pediat Dent & Orthodont, Belo Horizonte, MG, Brazil.
+   [Buldur, Burak] Sivas Cumhuriyet Univ, Fac Dent, Dept Pediat Dent, Sivas, Turkey.
+RP Cavalcanti, AL (corresponding author), Paraiba State Univ, Sch Dent, BR-58429570 Campina Grande, Paraiba, Brazil.
+EM alessandrouepb@gmail.com
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil
+   (CAPES)CAPES [001]; National Council for Scientific and Technological
+   Development (CNPq) Fellowship of Research ProductivityNational Council
+   for Scientific and Technological Development (CNPq) [302850/2016-3]
+FX This study was financed in part by the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior - Brasil (CAPES) - Finance Code 001 and the
+   National Council for Scientific and Technological Development (CNPq)
+   Fellowship of Research Productivity (Process No. 302850/2016-3).
+CR Aragao AS, 2016, PESQUI BRAS ODONTOPE, V16, P479, DOI 10.4034/PBOCI.2016.161.50
+   de Oliveira AFB, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.31
+   Bould H, 2016, INT J EPIDEMIOL, V45, P480, DOI 10.1093/ije/dyw037
+   Brandt Lorenna Mendes Temoteo, 2017, ScientificWorldJournal, V2017, P1656417, DOI 10.1155/2017/1656417
+   Brasil. Ministerio da Saude, CUID COM COMP AL 201
+   Ximenes RCC, 2011, ARQ BRAS PSICOL APL, V63, P52
+   Porcelli ICD, 2019, PESQUI BRAS ODONTOPE, V19, DOI [10.4034/pboci.2019.191.20, 10.4034/PBOCI.2019.191.20]
+   Diniz MB, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.ed
+   Oliveira PRD, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.14
+   dos Santos FG, 2016, PESQUI BRAS ODONTOPE, V16, P207, DOI 10.4034/PBOCI.2016.161.22
+   Oliveira PAD, 2015, PESQUI BRAS ODONTOPE, V15, P227, DOI 10.4034/PBOCI.2015.151.24
+   Fortes Leonardo de Sousa, 2014, Rev. paul. pediatr., V32, P85, DOI 10.1590/S0103-05822014000100014
+   Fraiz GM, 2019, PESQUI BRAS ODONTOPE, V19, DOI [10.4034/PBOCI.2019.191.27, 10.4034/pboci.2019.191.27]
+   Hermont AP, 2013, INT J EAT DISORDER, V46, P677, DOI 10.1002/eat.22132
+   Herpertz-Dahlmann B, 2015, CHILD ADOL PSYCH CL, V24, P177, DOI 10.1016/j.chc.2014.08.003
+   Jenkins PE, 2014, J PSYCHOSOM RES, V76, P1, DOI 10.1016/j.jpsychores.2013.11.006
+   Johansson AK, 2012, EUR J ORAL SCI, V120, P61, DOI 10.1111/j.1600-0722.2011.00922.x
+   Jugale PV, 2014, J HEALTH POPUL NUTR, V32, P46
+   Prisco APK, 2013, CIENC SAUDE COLETIVA, V18, P1109, DOI 10.1590/S1413-81232013000400024
+   Kavitha PR, 2011, J CLIN PEDIATR DENT, V36, P155, DOI 10.17796/jcpd.36.2.3785414p682843wj
+   Kisely S, 2015, BRIT J PSYCHIAT, V207, P299, DOI 10.1192/bjp.bp.114.156323
+   Lendrawati L, 2019, PESQUI BRAS ODONTOPE, V19, DOI [10.4034/pboci.2019.191.42, 10.4034/PBOCI.2019.191.42]
+   Litmanen J, 2017, NORD J PSYCHIAT, V71, P61, DOI 10.1080/08039488.2016.1224272
+   Mathew S, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.22
+   Miranda Valter Paulo N., 2014, Rev. paul. pediatr., V32, P63, DOI 10.1590/S0103-05822014000100011
+   O'Sullivan EA, 2000, EUR J PAEDIATR DENT, V1, P69
+   Oliveira Leticia Langlois, 2010, Psicol. Estud., V15, P575
+   do Vale AMO, 2011, CIENC SAUDE COLETIVA, V16, P121, DOI 10.1590/S1413-81232011000100016
+   Parkar SM, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.91
+   Peres K G, 2005, Int J Paediatr Dent, V15, P249, DOI 10.1111/j.1365-263X.2005.00643.x
+   Poggio Claudio, 2012, J Conserv Dent, V15, P137, DOI 10.4103/0972-0707.94581
+   Shitsuka C, 2015, PESQUI BRAS ODONTOPE, V15, P95, DOI 10.4034/PBOCI.2015.151.11
+   Starr TB, 2014, CURR PSYCHIAT REP, V16, DOI 10.1007/s11920-014-0441-4
+   Salas MMS, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.25
+   Rocha EKTG, 2016, PESQUI BRAS ODONTOPE, V16, P69, DOI 10.4034/PBOCI.2016.161.08
+   Uhlen MM, 2014, BMC ORAL HEALTH, V14, DOI 10.1186/1472-6831-14-92
+   Vale AMO, 2011, REV BRAS TER COMPORT, V13, P52
+   Vargas-Ferreira F, 2010, CARIES RES, V44, P531, DOI 10.1159/000321447
+   Vieira AR, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.02
+   WHO, GROWTH REF DAT 5 19
+   World Health Organization, 2013, ORAL HLTH SURVEYS BA
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BENTHAM SCIENCE PUBL LTD
+PI SHARJAH
+PA EXECUTIVE STE Y-2, PO BOX 7917, SAIF ZONE, 1200 BR SHARJAH, U ARAB
+   EMIRATES
+SN 1874-2106
+J9 OPEN DENT J
+JI Open Dent. J.
+PY 2020
+VL 14
+BP 7
+EP 12
+DI 10.2174/1874210602014010007
+PG 6
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA NK9MW
+UT WOS:000567053700002
+OA Other Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AFC
+   da Costa, SRR
+   Goncharuk-Khomyn, M
+   Cavalcanti, AL
+AF Cabral Cavalcanti, Alidianne Fabia
+   Rocha da Costa, Suellen Rabelo
+   Goncharuk-Khomyn, Myroslav
+   Cavalcanti, Alessandro Leite
+TI Maxillofacial Injuries in Brazilian Children and Adolescents Victims of
+   Physical Violence: A Single Forensic Center Analysis
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Domestic Violence; Child Abuse; Wounds and Injuries; Maxillofacial
+   Injuries
+ID HEAD; FACE
+AB Objective: To identify the prevalence of maxillofacial injuries resulting from interpersonal violence in Brazilian children and adolescents. Material and Methods: This is a retrospective study conducted at a Center of Forensic Medicine and Forensic Dentistry with a sample of 335 medical reports of victims aged up to 19 years. Variables involved sex and age group, perpetrator, occurrence of the event, characterization of injuries, presence of maxillofacial injuries, type of tissue involvement, and injuries in the oral cavity. Data were analyzed using descriptive, and the Chi-square was used for categorical data. Results: Most victims were female (60.3%) and aged 15 19 years (57.6%). Aggressions occurred at home (50.6%), in the evening (39.5%) and involved perpetrators known to the victim (91.5%). Most victims had multiple injuries (75.8%), involving up to three regions of the body (93.4%). Injuries with blunt objects were the most frequent (86.2%). The prevalence of maxillofacial injuries was 36.7%, with low involvement of the oral cavity (8.4%). A significant association between the presence of injuries on the face and variables "perpetrator" (p=0.015) and "number of injuries" (p=0.006) was observed. Conclusion: Female adolescents were the main victims of physical violence, with repercussions in different regions of the body. The prevalence of maxillofacial injuries was high, although with little involvement of oral cavity structures.
+C1 [Cabral Cavalcanti, Alidianne Fabia; Cavalcanti, Alessandro Leite] State Univ Paraiba, Dept Dent, Campina Grande, Paraiba, Brazil.
+   [Goncharuk-Khomyn, Myroslav] Uzhgorod Natl Univ, Fac Dent, Uzhgorod, Ukraine.
+RP Cavalcanti, AFC (corresponding author), Univ Estadual Paraiba, Ctr Ciencias Biol & Saude, Dept Odontol, Rua Baraunas S-N, BR-58429500 Campina Grande, Paraiba, Brazil.
+EM alidianne.fabia@gmail.com
+RI ; LEITE CAVALCANTI, ALESSANDRO/A-2828-2010
+OI Goncharuk-Khomyn, Myroslav/0000-0002-7482-3881; LEITE CAVALCANTI,
+   ALESSANDRO/0000-0003-3572-3332; Cavalcanti, Alidianne Fabia
+   Cabral/0000-0002-7779-2478
+FU Brazilian National Council for Scientific and Technological Development
+   (CNPq), Fellowship of Research ProductivityNational Council for
+   Scientific and Technological Development (CNPq) [305332/2019-8]
+FX Brazilian National Council for Scientific and Technological Development
+   (CNPq), Fellowship of Research Productivity (Process No. 305332/2019-8).
+CR Moura LDAD, 2016, PESQUI BRAS ODONTOPE, V16, P279, DOI 10.4034/PBOCI.2016.161.29
+   Brasil. Secretaria de Vigilancia em Saude. Ministerio da Saude, 2018, B EPIDEMIOLOGICO
+   Bregagnolo Livia Aguiar, 2013, Braz. Dent. J., V24, P397, DOI 10.1590/0103-6440201302227
+   Cavalcanti AL, 2008, EUR ARCH PAEDIATR DE, V9, P102, DOI 10.1007/BF03262619
+   Cavalcanti AL, 2015, PESQUI BRAS ODONTOPE, V15, P451, DOI 10.4034/PBOCI.2015.151.47
+   Cavalcanti AL, 2010, TURKISH J PEDIATR, V52, P612
+   Cavalcanti AL, 2010, DENT TRAUMATOL, V26, P149, DOI 10.1111/j.1600-9657.2009.00859.x
+   Cavalcanti AL, 2009, CIENC SAUDE COLETIVA, V14, P1835, DOI 10.1590/S1413-81232009000500025
+   Bernardino ID, 2019, INT J PAEDIATR DENT, V29, P375, DOI 10.1111/ipd.12461
+   Silva CJD, 2014, CIENC SAUDE COLETIVA, V19, P127, DOI 10.1590/1413-81232014191.2059
+   Franca GV, 2011, MED LEGAL
+   Gearing RE, 2006, J CAN ACAD CHILD ADO, V15, P126
+   Gessner R, 2014, REV ESC ENFERM USP, V48, P102, DOI 10.1590/S0080-623420140000600015
+   Gregory KE, 2012, APPL NURS RES, V25, P108, DOI 10.1016/j.apnr.2010.02.004
+   Gungor HC, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.ed2
+   Kabiru CW, 2018, INT J ADOLESC YOUTH, V23, P281, DOI 10.1080/02673843.2017.1345769
+   Laureano ICC, 2019, CUM DENT J, V22, P1, DOI [10.7126/cumudj.467382, DOI 10.7126/CUMUDJ.467382]
+   Leite Cavalcanti A, 2012, J Forensic Odontostomatol, V30, P13
+   Moura LB, 2018, REV CIR TRAUMATOL BU, V18, P6
+   Barbosa KGN, 2018, ORAL HLTH PREV DENT, V16, P483, DOI 10.3290/j.ohpd.a41545
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   de Oliveira TBS, 2014, IRAN J PUBLIC HEALTH, V43, P1184
+   Scannavino FLF, 2013, REV CIR TRAUMATOL BU, V13, P95
+   Silva AN, 2019, J INTERPERS VIOLENCE, DOI 10.1177/0886260519888184
+   Silva Carlos José de Paula, 2011, Physis, V21, P1103, DOI 10.1590/S0103-73312011000300018
+   Sousa RIM, 2016, PESQ BRAS ODONTOPED, V16, P313, DOI [10.4034/PBOCI.2016.161.33, DOI 10.4034/PB0CI.2016.161.33]
+   Tent PA, 2018, NIGER J CLIN PRACT, V21, P1570, DOI 10.4103/njcp.njcp_256_18
+   Vieira CL, 2013, REV CIR TRAUMATOL BU, V13, P89
+   Vij K., 2011, TXB FORENSIC MED TOX
+   von Elm E, 2007, BMJ-BRIT MED J, V335, P806
+   WHO, INT STAT CLASS DIS R
+   World Health Organization [WHO], 1996, WHOEHASPIPOA2
+NR 32
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2020
+VL 20
+AR e5683
+DI 10.1590/pboci.2020.132
+PG 10
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA MK1MC
+UT WOS:000548549500001
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   de Arruda, TD
+   Fernandes, LHF
+   Leal, JIBD
+   Aguiar, YPC
+   Cavalcanti, SDLB
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   de Arruda, Taynna Dantas
+   Freitas Fernandes, Liege Helena
+   Bezerra de Freitas Leal, Jeime Iara
+   Costa Aguiar, Yeska Paola
+   Lins Bezerra Cavalcanti, Sergio D'Avila
+   Cabral Cavalcanti, Alidianne Fabia
+TI Use of Medicines by Infants with Microcephaly Caused by Congenital Zika
+   Virus Infection and Implications to Oral Health
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Microcephaly; Child; Prescription Drugs; Oral Health
+ID DENTAL-CARIES; CHILDREN; RISK
+AB Objective: To analyze the use of continued-use medications by Brazilian children with microcephaly caused by Congenital Zika Virus Infection. Material and Methods: Cross-sectional study with 76 children of both genders. Information on age, use of continued-use medications, number and type of drugs used was collected. Data were analyzed using descriptive statistics. Results: Continued-use medications were used by 89.4% of the children, anticonvulsants / antiepileptics (88.1%), and those indicated for behavioral disorders (27.1%) were the most frequent. Sodium saccharin, sucrose, and sorbitol are the most common sugars in the composition of these drugs. Conclusion: The use of medicines is high, predominantly anticonvulsants and antiepileptics, which contain sugars in their composition. These drugs can lead to irreversible dental problems, such as tooth decay if proper oral hygiene is not present. Therefore, parents/guardians should be advised about adopting healthy oral hygiene habits after the administration of these drugs.
+C1 [Cavalcanti, Alessandro Leite; Freitas Fernandes, Liege Helena; Costa Aguiar, Yeska Paola; Lins Bezerra Cavalcanti, Sergio D'Avila] State Univ Paraiba, Dept Dent, Postgrad Program Dent, Campina Grande, Paraiba, Brazil.
+   [de Arruda, Taynna Dantas] State Univ Paraiba, Sch Dent, Araruna, PB, Brazil.
+   [Bezerra de Freitas Leal, Jeime Iara] Specialized Rehabil Ctr, Campina Grande, Paraiba, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Dept Dent, Campina Grande, Paraiba, Brazil.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Dept Odontol, Rua Baraunas 351, BR-58429500 Campina Grande, Paraiba, Brazil.
+EM alessandrouepb@gmail.com
+RI ; LEITE CAVALCANTI, ALESSANDRO/A-2828-2010; d'Avila, Sergio/I-9093-2014
+OI Cavalcanti, Alidianne Fabia Cabral/0000-0002-7779-2478; LEITE
+   CAVALCANTI, ALESSANDRO/0000-0003-3572-3332; d'Avila,
+   Sergio/0000-0002-7836-896X
+FU Brazilian National Council for Scientific and Technological Development
+   (CNPq) - Research Productivity GrantNational Council for Scientific and
+   Technological Development (CNPq) [302850/2016-3]
+FX Brazilian National Council for Scientific and Technological Development
+   (CNPq) - Research Productivity Grant (Process 302850/2016-3).
+CR Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Cavalcanti AFC, 2019, INT J PAEDIATR DENT, V29, P74, DOI 10.1111/ipd.12431
+   Xavier AFC, 2015, PESQUI BRAS ODONTOPE, V15, P279, DOI 10.4034/PBOCI.2015.151.30
+   Cavalcanti AL, 2013, PESQUI BRAS ODONTOPE, V13, P69, DOI 10.4034/PBOCI.2013.131.10a
+   Cavalcanti AL, 2017, CONTEMP CLIN DENT, V8, P345, DOI 10.4103/0976-237X.214553
+   COLLUCCI C, 2016, BMJ-BRIT MED J, V355, DOI DOI 10.1136/BMJ.I6157
+   Aguiar YPC, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.16
+   Goenaga S, 2015, VIRUSES-BASEL, V7, P5801, DOI 10.3390/v7112911
+   Hartwig AD, 2016, PESQUI BRAS ODONTOPE, V16, P59, DOI 10.4034/PBOCI.2016.161.07
+   Johansson MA, 2016, NEW ENGL J MED, V375, P1, DOI 10.1056/NEJMp1605367
+   LAPINSKI M, 2019, PESQUI BRAS ODONTOPE, V19, DOI DOI 10.4034/PBOCI.2019.191.139
+   Nirmala SVSG, 2015, J INT SOC PREV COMMU, V5, P35, DOI 10.4103/2231-0762.151973
+   Passemard S, 2013, HAND CLINIC, V111, P129, DOI 10.1016/B978-0-444-52891-9.00013-0
+   Siqueira RMP, 2018, INT J PAEDIATR DENT, V28, P523, DOI 10.1111/ipd.12402
+   Shellis RP, 2014, MONOGR ORAL SCI, V25, P32, DOI 10.1159/000359936
+   Valinoti AC, 2016, OPEN DENT J, V10, P420, DOI 10.2174/1874210601610010420
+   Wiegand A, 2007, CARIES RES, V41, P56, DOI 10.1159/000096106
+   Xavier AFC, 2013, BMC ORAL HEALTH, V13, DOI 10.1186/1472-6831-13-71
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2020
+VL 20
+AR e5565
+DI 10.1590/pboci.2020.048
+PG 7
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA KW6ZN
+UT WOS:000521331400001
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   de Oliveira, TSB
+   de Oliveira, TBS
+   Cavalcanti, CL
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   Batista de Oliveira, Thaisy Sarmento
+   Sarmento de Oliveira, Thaliny Batista
+   Cavalcanti, Christiane Leite
+   Cabral Cavalcanti, Alidianne Fabia
+TI HOMOPHOBIC CRIMES: EPIDEMIOLOGICAL CHARACTERISTICS OF HOMICIDES AGAINST
+   BRAZILIAN MINORITIES
+SO JOURNAL OF IMAB
+LA English
+DT Article
+DE Sexual and Gender Minorities; Homosexuality; Violence; Homophobia;
+   Aggression
+ID VIOLENCE; ADOLESCENTS; GAY
+AB Purpose: To describe the epidemiological characteristics of homophobic crimes against Brazilian minorities.
+   Materials and Methods: A retrospective study was conducted at the Specialized Police for Homophobic Crimes. Information regarding year, age, schooling, sexual orientation LGBT identity, day of week, shift, place of occurrence, type of injury, number of wounds, weapon, numbers of perpetrators, sex, relationship, drug and alcohol use were collected. For bivariate analyses, the Chi-square and Fisher's exact, with significance level of 5% were used.
+   Results: The most affected age group was 19 to 28 years old (50.8%) and in relation to schooling, victims with high school education prevailed (62.3%). Regarding sexual orientation, 88.5% were identified as homosexual, 44.3% were gays and 22.9% were transvestite. Crimes occurred during weekdays (68.8%), at night (41%) and in public roads (63.9%). Of the 61 cases, 91.2% were characterized as homophobic crimes. Predominant lesions were lacerations (77%), and most victims presented multiple lesions (96.7%). Most homicides involve firearms (45.7%), followed by a white weapon (36.6%). Victims were assaulted by one perpetrator (59%). There was a statistically significant association for alcohol and drug use by perpetrators (p = 0.004).
+   Conclusion: Lethal violence against minorities showed a homophobic character, evidenced in the type of weapon used, number of lesions and the target regions. Given this scenario, there is an urgent need for the development of strategies linking security, health, education and legal sciences, enabling professionals in this area to deal with this problem.
+C1 [Cavalcanti, Alessandro Leite; Batista de Oliveira, Thaisy Sarmento; Sarmento de Oliveira, Thaliny Batista] State Univ Paraiba, Postgrad Program Publ Hlth, Rua Baraunas,S-N Bodocongo, BR-58429500 Campina Grande, PB, Brazil.
+   [Cavalcanti, Christiane Leite] Integrated Fac Patos, Dept Nutr, Patos de Minas, PB, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Sch Dent, Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Postgrad Program Publ Hlth, Rua Baraunas,S-N Bodocongo, BR-58429500 Campina Grande, PB, Brazil.
+EM alessandrouepb@gmail.com
+RI Cavalcanti, Alessandro Leite/I-4286-2019
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; Cavalcanti, Alidianne
+   Fabia Cabral/0000-0002-7779-2478
+FU National Council for Scientific and Technological Development (CNPq)
+   Fellowship of Research ProductivityNational Council for Scientific and
+   Technological Development (CNPq) [302850/2016-3]; Brazilian Coordination
+   of Higher Education, Ministry of Education (CAPES)
+FX This study was supported by the National Council for Scientific and
+   Technological Development (CNPq) Fellowship of Research Productivity
+   (Process 302850/2016-3) and the Brazilian Coordination of Higher
+   Education, Ministry of Education (CAPES).
+CR Abdala LB, 2009, HOMOFOBIA PUBLICIDAD
+   [Anonymous], 2009, HAT CRIM LAWS PRACT
+   Blondeel K, 2018, B WORLD HEALTH ORGAN, V96, P29, DOI 10.2471/BLT.17.197251
+   Cavalcanti AFC, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.30
+   Carrara S, 2006, POLITICS RIGHTS VIOL
+   Costa RC, 2016, PESQUI BRAS ODONTOPE, V16, P99, DOI 10.4034/PBOCI.2016.161.11
+   Dibble SL, 2007, WOMEN THER, V30, P129, DOI 10.1300/J015v30n03_10
+   Duncan DT, 2014, AM J PUBLIC HEALTH, V104, P272, DOI 10.2105/AJPH.2013.301424
+   de Sousa RIM, 2016, PESQUI BRAS ODONTOPE, V16, P313, DOI 10.4034/PBOCI.2016.161.33
+   Mott LRB, 2009, REV ESTUDOS FEM, V14, P509
+   Mott LRB, 1997, HOMOFOBIA VIOLACAO D
+   Prunas A, 2018, J INTERPERS VIOLENCE, V33, P2225, DOI 10.1177/0886260515624233
+   Prunas A, 2015, J INTERPERS VIOLENCE, V30, P2872, DOI 10.1177/0886260514554293
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   Stotzer RL, 2009, AGGRESS VIOLENT BEH, V14, P170, DOI 10.1016/j.avb.2009.01.006
+   Toro-Alfonso J, 2004, J INTERPERS VIOLENCE, V19, P639, DOI 10.1177/0886260504263873
+   Walters MA, 2017, J INTERPERS VIOLENCE
+   Wilsnack SC, 2008, J STUD ALCOHOL DRUGS, V69, P129, DOI 10.15288/jsad.2008.69.129
+   World Health Organization, 2016, INT STAT CLASS DIS R
+NR 19
+TC 0
+Z9 0
+U1 1
+U2 3
+PU GOSPODIN ILIEV PEYTCHINSKI, ED & PUB
+PI PLEVEN
+PA DROUJBA BL 116, PLEVEN, 5806, BULGARIA
+SN 1312-773X
+J9 J IMAB
+JI J. IMAB
+PD APR-JUN
+PY 2019
+VL 25
+IS 2
+BP 2486
+EP 2490
+DI 10.5272/jimab.2019252.2486
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA IF8MM
+UT WOS:000473345100006
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   Catao, ED
+   Fernandes, TV
+   Andrade, NM
+   da Silva, GCB
+   Fernandes, LHF
+   de Alencar, CRB
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   Catao, Everton de Sousa
+   Fernandes, Tiago Virginio
+   Andrade, Natalia Medeiros
+   Basto da Silva, Gustavo Correia
+   Freitas Fernandes, Liege Helena
+   Barros de Alencar, Catarina Ribeiro
+   Cabral Cavalcanti, Alidianne Fabia
+TI An Ecological Study on Orofacial Clefts in Northeastern Brazil
+SO ACTA FACULTATIS MEDICAE NAISSENSIS
+LA English
+DT Article
+DE congenital abnormalities; cleft lip; cleft palate; epidemiology
+ID QUALITY-OF-LIFE; ORAL-HEALTH; RISK-FACTORS; LIP; PALATE; CHILDREN
+AB The objective of this paper was to evaluate the prevalence of live births with orofacial clefts in Northeastern Brazil, with regard to Brazil's federative units. An ecological, descriptive study was developed based on the data recorded in the Brazilian Information System on Live Births (SINASC), between 2011 and 2016 in nine Brazilian capitals (Maceio, Salvador, Fortaleza, Sao Luis, Joao Pessoa, Recife, Teresina, Natal and Aracaju). Data on the number of live births, number of live births with congenital anomaly and number of live births with orofacial clefts were collected according to the state of the federation, year of birth, gender, race and birth weight. Data were tabulated with Microsoft Excel software and presented through descriptive statistics (absolute and percentage distributions). In the analyzed period, there were 1,530,701 births, 19,536 (1.3 %) cases of congenital anomalies and 902 cases of orofacial clefts, or 5.9 per 10,000 live births. Among the cities analyzed, Natal (state of Rio Grande do Norte) and Recife (state of Pernambuco) presented the prevalence of 7.3 and 7.2 cases, respectively, of orofacial clefts for every 10,000 births. Regarding the demographic and clinical characteristics, 60 % of children were males, non-white (83.7 %) and normal birth weight (73.1 %). In the northeastern region of Brazil, the cities of Natal and Recife presented the highest prevalence of children with orofacial clefts.
+C1 [Cavalcanti, Alessandro Leite; Catao, Everton de Sousa; Fernandes, Tiago Virginio; Andrade, Natalia Medeiros; Barros de Alencar, Catarina Ribeiro] State Univ Paraiba, Sch Dent, Campina Grande, Paraiba, Brazil.
+   [Basto da Silva, Gustavo Correia] State Univ Paraiba, Postgrad Program Publ Hlth, Campina Grande, Paraiba, Brazil.
+   [Freitas Fernandes, Liege Helena] State Univ Paraiba, Sch Dent, Postgrad Program Dent, Campina Grande, Paraiba, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Sch Dent, Araruna, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Sch Dent, Campina Grande, Paraiba, Brazil.
+EM alessandrouepb@gmail.com
+FU National Council for Scientific and Technological Development (CNPq)
+   -Fellowship of Research ProductivityNational Council for Scientific and
+   Technological Development (CNPq) [302850/2016-3]
+FX This study was supported by the National Council for Scientific and
+   Technological Development (CNPq) -Fellowship of Research Productivity
+   (Process 302850/2016-3).
+CR Amobi EO, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.13
+   Amstalden-Mendes LG, 2007, CLEFT PALATE-CRAN J, V44, P329, DOI 10.1597/05-177
+   Andrade NM, 2018, INTERNET J MED UPDAT, V13, P10, DOI 10.4314/ijmu.v13i1.3
+   Aylsworth AS, 2015, BIRTH DEFECTS RES A, V103, P899, DOI 10.1002/bdra.23415
+   Martelli DRB, 2012, BRAZ J OTORHINOLAR, V78, P116, DOI 10.5935/1808-8694.20120018
+   Broder HL, 2014, AM J PUBLIC HEALTH, V104, P865, DOI 10.2105/AJPH.2013.301686
+   Carvalho PHP, 2016, BRAZ J ORAL SCI, V15, P167
+   Freitas JAD, 2012, J APPL ORAL SCI, V20, P9, DOI 10.1590/S1678-77572012000100003
+   Dixon MJ, 2011, NAT REV GENET, V12, P167, DOI 10.1038/nrg2933
+   Figueirêdo Cristina Jordão R., 2011, Rev. paul. pediatr., V29, P29, DOI 10.1590/S0103-05822011000100005
+   Filgueira IG, 2015, PESQUI BRAS ODONTOPE, V15, P431, DOI 10.4034/PBOCI.2015.151.45
+   Gardenal M, 2011, INT ARCH OTORHINOLAR, V15, P133, DOI 10.1590/S1809-48722011000200003
+   GoRlin RJ, 2001, SYNDROMES HEAD NECK
+   Hunt O, 2007, CLEFT PALATE-CRAN J, V44, P304, DOI 10.1597/05-205
+   Kawalec A, 2015, OPEN MED-WARSAW, V10, P163, DOI 10.1515/med-2015-0027
+   Loffredo LCM, 2001, CLEFT PALATE-CRAN J, V38, P76, DOI 10.1597/1545-1569(2001)038<0076:OCAVS>2.0.CO;2
+   Martins ES, 2019, PESQUI BRAS ODONTOPE, V19, DOI [10.4034/pboci.2019.191.09, 10.4034/PBOCI.2019.191.09]
+   McKinney CM, 2013, J DENT RES, V92, P1089, DOI 10.1177/0022034513507452
+   Munz SM, 2011, INT J ORAL MAX SURG, V40, P790, DOI 10.1016/j.ijom.2011.03.002
+   Neogi SB, 2017, BIRTH DEFECTS RES, V109, P1284, DOI 10.1002/bdr2.1073
+   Pacakova D, 2016, CENT EUR J PUBL HEAL, V24, P128, DOI 10.21101/cejph.a4131
+   Queiroz BM, 2015, PESQUI BRAS ODONTOPE, V15, P85, DOI 10.4034/PBOCI.2015.151.10
+   Rivaldo EG, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.27
+   Santana Tayza Mirella de, 2015, Rev. CEFAC, V17, P485, DOI 10.1590/1982-021620158014
+   Santos JS, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.49
+   Silva RS, 2013, EPIDEMIOL SERV SAUDE, V22, P347, DOI DOI 10.5123/S1679-49742013000200016
+   de Sousa GFT, 2017, BRAZ ORAL RES, V31, DOI [10.1590/1807-3107BOR-2017.vol31.0023, 10.1590/1807-3107bor-2017.vol31.0023]
+   Vanz AP, 2011, REV ESC ENFERM USP, V45, P595
+   Wyszynski Diego F, 2003, J Clin Pediatr Dent, V27, P185
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV NIS, FAC MEDICINE
+PI NIS
+PA BULEVAR DR ZORANA DINDICA 81, NIS, NISAVA, SERBIA
+SN 0351-6083
+EI 2217-2521
+J9 ACTA FAC MEDICAE NAI
+JI Acta Fac. Medicae Naiss.
+PY 2019
+VL 36
+IS 2
+BP 102
+EP 109
+DI 10.5937/afmnai1902102L
+PG 8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA NN3EL
+UT WOS:000568674400002
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   Belo, ED
+   Marcolino, ED
+   Fernandes, A
+   Cavalcanti, YW
+   de Carvalho, DF
+   Valenca, AMG
+   Cavalcanti, AFC
+   Padilha, WWN
+AF Cavalcanti, Alessandro Leite
+   Belo, Eduardo dos Reis
+   Marcolino, Emanuella de Castro
+   Fernandes, Americo
+   Cavalcanti, Yuri Wanderley
+   de Carvalho, Danielle Franklin
+   Gondim Valenca, Ana Maria
+   Cabral Cavalcanti, Alidianne Fabia
+   Nascimento Padilha, Wilton Wilney
+TI Occupational Violence against Brazilian Nurses
+SO IRANIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Workplace violence; Occupational risks; Occupational health nursing
+ID WORKPLACE VIOLENCE; NURSING STAFF; INJURIES; VICTIMS; HEALTH
+AB Background: We evaluated the prevalence and risk factors of workplace violence against Brazilian nurses in 2014.
+   Methods: The study's population comprised of 112 nurses working in teams of Family Primary Care Units and Primary Care Health Centers. Those nurses were asked to answer a questionnaire that addressed the sociodemographic information, the professional routine and the occupational violence faced (types, frequency and characteristics of perpetrators). Data were analyzed using the SPSS software.
+   Results: Most of nurses were female (94.6%), aged between 34-43 yr (38.4%), living with a partner (60.7%) and having a weekly workload of 40 h (90.1 %). The prevalence of violence was 73.2%. Predominantly, occupational violence comprised of verbal violence (67.0%) and psychological harassment (bullying -27.1%). Patients (81.1%) and caregivers (83.1%) were responsible for verbal violence, whilst the heads of teams (78.3%) and other health professionals (41.7 %) practiced bullying. The risk factors more frequently reported were the lack of safety in the workplace (73.2%) and the aggressive behavior of patients (67%). The occupational violence was not statistically associated with the gender, professional experience, experience at primary health care, weekly working hours, or working shift. The type of violence faced was not either statistically associated with gender, marital status, professional experience, weekly working hours, or working shift.
+   Conclusion: Occupational violence has high prevalence among Brazilian nurses working at primary health care system. Verbal violence is more prevalent and frequently practiced by patients. The lack of safety in the workplace is the main risk factor associated with occupational violence faced by nurses.
+C1 [Cavalcanti, Alessandro Leite; Belo, Eduardo dos Reis; Marcolino, Emanuella de Castro; Fernandes, Americo; de Carvalho, Danielle Franklin; Nascimento Padilha, Wilton Wilney] State Univ Paraiba, Postgrad Program Publ Hlth, Campina Grande, PB, Brazil.
+   [Cavalcanti, Yuri Wanderley; Gondim Valenca, Ana Maria] Univ Fed Paraiba, Dept Clin & Social Dent, Joao Pessoa, PB, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Sch Dent, Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Postgrad Program Publ Hlth, Campina Grande, PB, Brazil.
+EM dralessandro@ibest.com.br
+RI Cavalcanti, Yuri Wanderley/C-3152-2012; Cavalcanti, Alessandro
+   Leite/I-4286-2019; Valenca, Ana M G/A-8516-2016; de Carvalho, Danielle
+   F/E-6181-2017
+OI Cavalcanti, Yuri Wanderley/0000-0002-3570-9904; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332; Valenca, Ana/0000-0001-8460-3981
+FU National Council for Scientific and Technological Development (CNPq) -
+   Fellowship of Research Productivity [307014/2013-4]; Ministry of
+   Education of Timor Leste
+FX This study was supported by the National Council for Scientific and
+   Technological Development (CNPq) - Fellowship of Research Productivity
+   (Process 307014/2013-4) and Ministry of Education of Timor Leste.
+CR Abbas MAF, 2010, J EGYPT PUBLIC HEAL, V85, P29
+   Al-Omari H, 2015, INT NURS REV, V62, P111, DOI 10.1111/inr.12170
+   ALBashtawy M, 2013, INT NURS REV, V60, P550, DOI 10.1111/inr.12059
+   Moura LDAD, 2016, PESQUI BRAS ODONTOPE, V16, P279, DOI 10.4034/PBOCI.2016.161.29
+   Azodo CC, 2011, AFR HEALTH SCI, V11, P486
+   Barbosa R, 2011, REV ESC ENFERM USP, V45, P25
+   Cavalcanti AL, 2015, PESQUI BRAS ODONTOPE, V15, P451, DOI 10.4034/PBOCI.2015.151.47
+   Centers for Disease Control and Prevention, VIOL WORKPL
+   Cezar Eliene Simões, 2006, Cad. Saúde Pública, V22, P217, DOI 10.1590/S0102-311X2006000100024
+   Estryn-Behar M, 2008, OCCUP MED-OXFORD, V58, P107, DOI 10.1093/occmed/kqm142
+   FitzGerald D, 2012, OCCUP MED-OXFORD, V62, P632, DOI 10.1093/occmed/kqs154
+   Munoz IG, 2012, REV ESP SALUD PUBLIC, V86, P279, DOI [10.1590/S1135-57272012000300007, 10.1590/s1135-57272012000300007]
+   Gillespie Gordon Lee, 2013, Online J Issues Nurs, V18, P2
+   Kamchuchat C, 2008, J OCCUP HEALTH, V50, P201, DOI 10.1539/joh.O7001
+   Khademloo Mohammad, 2013, Glob J Health Sci, V5, P211, DOI 10.5539/gjhs.v5n4p211
+   Kitaneh M, 2012, BMC HEALTH SERV RES, V12, DOI 10.1186/1472-6963-12-469
+   Kwok R. P. W., 2006, Hong Kong Medical Journal, V12, P6
+   Lancman S, 2009, REV SAUDE PUBL, V43, P682, DOI 10.1590/S0034-89102009005000036
+   de Sousa RIM, 2016, PESQUI BRAS ODONTOPE, V16, P313, DOI 10.4034/PBOCI.2016.161.33
+   Morais Filho LA, 2009, THESIS
+   Nachreiner NM, 2007, IND HEALTH, V45, P672, DOI 10.2486/indhealth.45.672
+   Occupational Safety and Health Administration (OSHA), US DEP LAB FACT SHEE
+   Park M, 2015, J NURS SCHOLARSHIP, V47, P87, DOI 10.1111/jnu.12112
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   Sharma Kamlesh Kumari, 2011, Indian J Community Med, V36, P222, DOI 10.4103/0970-0218.86525
+   Shoghi M, 2008, ASIAN NURS RES, V2, P184, DOI 10.1016/S1976-1317(08)60042-0
+NR 26
+TC 1
+Z9 2
+U1 0
+U2 2
+PU IRANIAN SCIENTIFIC SOCIETY MEDICAL ENTOMOLOGY
+PI TEHRAN
+PA SCHOOL PUBLIC HEALTH & INST HEALTH RESEARCH, TEHRAN UNIV MEDICAL
+   SCIENCES, P O BOX  6446-14155, TEHRAN, 00000, IRAN
+SN 2251-6085
+EI 2251-6093
+J9 IRAN J PUBLIC HEALTH
+JI Iran J. Public Health
+PD NOV
+PY 2018
+VL 47
+IS 11
+BP 1636
+EP 1643
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HC8SE
+UT WOS:000452073700003
+PM 30581778
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   de Oliveira, TSB
+   de Oliveira, TBS
+   Cavalcanti, CL
+   de Oliveira, TBS
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro L.
+   de Oliveira, Thaisy S. B.
+   de Oliveira, Thaliny B. S.
+   Cavalcanti, Christiane L.
+   de Oliveira, Thaiany B. S.
+   Cavalcanti, Alidianne F. C.
+TI Head and Face Injuries in Brazilian Victims of Homophobic Crimes
+SO JOURNAL OF DENTISTRY INDONESIA
+LA English
+DT Article
+DE head injuries penetrating; maxillofacial injuries; sexual minorities;
+   violence
+ID MAXILLOFACIAL INJURIES; VIOLENCE; ADOLESCENTS; HOMICIDE; CHILDREN;
+   MEXICO
+AB Crimes against homosexuals are mostly hate crimes, and should be referred to as homophobic crimes. Objective: To investigate the occurrence of head and face injuries in victims of homophobic crimes. Methods: A retrospective study was conducted at the Specialized Police for Homophobic Crimes. Data were collected from the 56 police and medical reports corresponding to reported cases of homicide against lesbian, gay, bisexual, transsexual and transgender (LGBT, or sexual minority) in the period from May 2009 to July 2013. Variables studied related demographic profile of victims and patterns of trauma (type of arms, number of injuries and anatomical regions) were assessed. For bivariate analyses, the Chi-square and Fisher's exact, with significance level of 5% were used. Results: 89.3% were homosexuals and 42.9 were gays. Firearms were the type of arms most used (46.4%), followed by cold steel (30.4%). Most victims presented multiple lesions (87.5%) and 44.6% presented injuries in the head and face. There was a statistically significant association between injuries in the head and face and the type of arms (P=0.001). Conclusion: Victims of homicide were mostly homosexuals and the main types of arms were firearms and cold steel. Most victims presented multiple lesions and injuries in the head and face were common and more frequent among lesbians and transvestites.
+C1 [Cavalcanti, Alessandro L.; de Oliveira, Thaisy S. B.; de Oliveira, Thaliny B. S.; Cavalcanti, Christiane L.; de Oliveira, Thaiany B. S.; Cavalcanti, Alidianne F. C.] State Univ Campina Grande, Sch Dent, Campina Grande, Paraiba, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Campina Grande, Sch Dent, Campina Grande, Paraiba, Brazil.
+EM dralessandro@ibest.com.br
+RI Cavalcanti, Alessandro/A-2828-2010; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cavalcanti, Alessandro/0000-0003-3572-3332; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332
+FU National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [302850/2016-3]; Brazilian Coordination of Higher Education,
+   Ministry of Education (CAPES)
+FX This study was supported by the National Council for Scientific and
+   Technological Development (CNPq) -Fellowship of Research Productivity
+   (Process 302850/2016-3) and the Brazilian Coordination of Higher
+   Education, Ministry of Education (CAPES).
+CR Moura LDAD, 2016, PESQUI BRAS ODONTOPE, V16, P279, DOI 10.4034/PBOCI.2016.161.29
+   Granados JA, 2008, AM J FOREN MED PATH, V29, P43, DOI 10.1097/PAF.0b013e31815d77d4
+   Beauregard E, 2007, INT J OFFENDER THER, V51, P420, DOI 10.1177/0306624X06294432
+   Brazil. Secretariat of Human Rights, 2012, REP HOM VIOL BRAS 20
+   Cavalcanti AFC, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.30
+   Cavalcanti AL, 2015, PESQUI BRAS ODONTOPE, V15, P451, DOI 10.4034/PBOCI.2015.151.47
+   Cavalcanti AL, 2009, CIENC SAUDE COLETIVA, V14, P1835, DOI 10.1590/S1413-81232009000500025
+   Chalya Phillipo L, 2011, J Trauma Manag Outcomes, V5, P7, DOI 10.1186/1752-2897-5-7
+   Costa RC, 2016, PESQUI BRAS ODONTOPE, V16, P99, DOI 10.4034/PBOCI.2016.161.11
+   Duncan DT, 2014, AM J PUBLIC HEALTH, V104, P272, DOI 10.2105/AJPH.2013.301424
+   Green DP, 2001, ANNU REV SOCIOL, V27, P479, DOI 10.1146/annurev.soc.27.1.479
+   Gungor HC, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.ed2
+   de Sousa RIM, 2016, ARCH GERONTOL GERIAT, V67, P55, DOI 10.1016/j.archger.2016.06.015
+   MARCOLINO Emanuella de Castro, 2018, TEXTO CONTEXTO ENFER, V27
+   Miller B, 1980, QUALITATIVE SOCIOLOG, V3, P169
+   Ortiz-Hernandez L, 2006, J HOMOSEXUAL, V50, P113, DOI 10.1300/J082v50n04_06
+   Parrott DJ, 2015, PSYCHOL VIOLENCE, V5, P256, DOI 10.1037/a0037479
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   Rodriguez-Madera SL, 2017, J HOMOSEXUAL, V64, P209, DOI 10.1080/00918369.2016.1174026
+   Silva Glauber Weder dos Santos, 2016, Rev. Gaúcha Enferm., V37, pe56407, DOI 10.1590/1983-1447.2016.02.56407
+   Sousa RIM, 2016, PESQ BRAS ODONTOPED, V16, P313, DOI [10.4034/PBOCI.2016.161.33, DOI 10.4034/PB0CI.2016.161.33]
+   Transgender Europe (TGEU), TRANS MURD MON 2015
+   Wheeler J, 2014, GLOBAL HEALTH ACTION, V7, DOI 10.3402/gha.v7.24814
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV INDONESIA, FAC DENTISTRY
+PI JAKARTA PUSAT
+PA JALAN SALEMBA 6, JAKARTA PUSAT, 10430, INDONESIA
+SN 1693-9697
+EI 2355-4800
+J9 J DENT INDONES
+JI J. DENT. INDONES.
+PD AUG
+PY 2018
+VL 25
+IS 2
+BP 86
+EP 90
+DI 10.14693/jdi.v25i2.1210
+PG 5
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA GY5UN
+UT WOS:000448648700003
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   de Oliveira, TBS
+   de Oliveira, TSB
+   Muniz, KGG
+   Cavalcanti, CL
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   Sarmento de Oliveira, Thaliny Batista
+   Batista de Oliveira, Thaisy Sarmento
+   Gomes Muniz, Kivia Gabriella
+   Cavalcanti, Christiane Leite
+   Cabral Cavalcanti, Alidianne Fabia
+TI Fatal Drowning in Brazilian Toddlers and Preschoolers in the City of
+   Campina Grande
+SO ACTA FACULTATIS MEDICAE NAISSENSIS
+LA English
+DT Article
+DE drowning; child; mortality
+ID UNITED-STATES; CHILDREN; ADOLESCENTS; INJURIES; DEATHS
+AB Drowning is one of the accidents with the greatest impact on health. The objective of this paper was to analyze drowning deaths involving children up to four years of age in Campina Grande, Brazil. A cross-sectional study was developed using secondary data, carried out at the Forensic Medicine Unit. All autopsy reports of children 0-4 years of age, victims of drowning in the period from 2008 to 2011 were evaluated. Data referring to the year of occurrence, victims' gender and age, time of day, day of week and place of occurrence were collected. Data analysis involved descriptive statistics (frequency distribution). Ninety-three cases of fatal drowning were identified, of which 20 (21.5%) involved children under four years of age. Most victims were male (80%), aged one year (35%). The accidents occurred predominantly during the day (85%), mostly at home (75%). The drowning victims were mostly boys in the first year of life and most cases of drowning occurred at their homes.
+C1 [Cavalcanti, Alessandro Leite; Sarmento de Oliveira, Thaliny Batista; Batista de Oliveira, Thaisy Sarmento] State Univ Paraiba, Post Grad Program Publ Hlth, Campina Grande, Brazil.
+   [Gomes Muniz, Kivia Gabriella] State Univ Paraiba, Sch Dent, Campina Grande, Brazil.
+   [Cavalcanti, Christiane Leite] Univ Fed Paraiba, Joao Pessoa, Paraiba, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Sch Dent, Araruna, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Post Grad Program Publ Hlth, Campina Grande, Brazil.
+EM alessandrouepb@gmail.com
+RI Cavalcanti, Alessandro Leite/I-4286-2019; Cavalcanti,
+   Alessandro/A-2828-2010
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; Cavalcanti,
+   Alessandro/0000-0003-3572-3332
+CR Al-Fifi SH, 2011, J FAM COMMUNITY MED, V18, P13, DOI 10.4103/1319-1683.78632
+   Fraga AMA, 2013, WORLD J EMERG SURG, V8, DOI 10.1186/1749-7922-8-52
+   Araujo R.T., 2008, MEDICINA RIBEIRAO PR, V41, P50
+   Borse NN, 2011, ARCH DIS CHILD, V96, P675, DOI 10.1136/adc.2010.202010
+   Borse NN, 2008, CDC CHILDHOOD INJURY
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude, SIST INF MORT SIM MO
+   Burford AE, 2005, PEDIATR EMERG CARE, V21, P610, DOI 10.1097/01.pec.0000177204.21774.35
+   Cavalcanti AFC, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.30
+   Cavalcanti AL, 2010, TURKISH J PEDIATR, V52, P612
+   Ciampo LA, 2011, PEDIATRIA, V33, P29
+   Costa RC, 2016, PESQUI BRAS ODONTOPE, V16, P99, DOI 10.4034/PBOCI.2016.161.11
+   DiMaio DJ, 1989, FORENSIC PATHOLOGY, P357
+   Fraga AMA, 2010, EUR J EPIDEMIOL, V25, P211, DOI 10.1007/s10654-009-9420-1
+   Koussounis A, 2013, INT MARIT HEALTH, V64, P7
+   Laosee Orapin C., 2012, Morbidity and Mortality Weekly Report, V61, P344
+   de Sousa RIM, 2016, PESQUI BRAS ODONTOPE, V16, P313, DOI 10.4034/PBOCI.2016.161.33
+   Mosayebi Z, 2011, Med J Malaysia, V66, P187
+   Nakahara S, 2004, INJURY PREV, V10, P125, DOI 10.1136/ip.2003.004796
+   PAES CE, 2005, J PEDIAT, V81, P146, DOI DOI 10.2223/JPED.1402
+   Panzino F, 2013, AN PEDIATR, V78, P178, DOI 10.1016/j.anpedi.2012.06.014
+   Peden M, 2002, INJURY CHART BOOK GR
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   Ross FI, 2003, J PAEDIATR CHILD H, V39, P446, DOI 10.1046/j.1440-1754.2003.00186.x
+   Sevilla-Godinez Rosa Elizabeth, 2010, Rev Med Inst Mex Seguro Soc, V48, P645
+   Shields BJ, 2011, PEDIATRICS, V128, P45, DOI 10.1542/peds.2010-3033
+   Smith G S, 1998, Inj Prev, V4, P135
+   Szpilman D, 2012, NEW ENGL J MED, V366, P2102, DOI 10.1056/NEJMra1013317
+   Wallis BA, 2015, BMJ OPEN, V5, DOI 10.1136/bmjopen-2015-008959
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DE GRUYTER POLAND SP ZOO
+PI WARSAW
+PA BOGUMILA ZUGA 32A STR., 01-811 WARSAW, POLAND
+SN 0351-6083
+EI 2217-2521
+J9 ACTA FAC MEDICAE NAI
+JI Acta Fac. Medicae Naiss.
+PD JUN
+PY 2018
+VL 35
+IS 2
+BP 125
+EP 131
+DI 10.2478/afmnai-2018-0014
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA GM7CJ
+UT WOS:000438335600005
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   de Macedo, DJ
+   Dantas, FSB
+   Menezes, KD
+   Silva, DFB
+   de Melo, WA
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   de Macedo, Dario Jose
+   Barros Dantas, Fernanda Suely
+   Menezes, Karla dos Santos
+   Bezerra Silva, Diego Filipe
+   de Melo Junior, William Alves
+   Cabral Cavalcanti, Alidianne Fabia
+TI Evaluation of Oral Mucositis Occurrence in Oncologic Patients under
+   Antineoplastic Therapy Submitted to the Low-Level Laser Coadjuvant
+   Therapy
+SO JOURNAL OF CLINICAL MEDICINE
+LA English
+DT Article
+DE low-level laser therapy; mucositis; antineoplastic agents
+ID QUALITY-OF-LIFE; STEM-CELL TRANSPLANTATION; PEDIATRIC-PATIENTS;
+   CANCER-PATIENTS; CHEMOTHERAPY; HEAD; PREVENTION; MANIFESTATIONS;
+   MANAGEMENT; CHILDREN
+AB Low-level laser therapy has been widely used in treating many conditions, including oral mucositis. The purpose of this study was to evaluate the occurrence of oral mucositis in patients undergoing antineoplastic therapy submitted to preventive and therapeutic treatment with low-level laser therapy. This cross-sectional study was carried out with 51 children and adolescents of both sexes with malignant neoplasias who developed oral mucositis and underwent low-level laser therapy. Data were collected on sex, age, type and degree of neoplasia, region affected, and remission time. 64.7% of the patients were male and were between 3 and 6 years of age (39.2%). Acute lymphoid leukemia was the most frequent neoplasm (37.3%). Regarding the maximum oral mucositis, grade 2 (41.2%) was predominant, with jugal mucosa (29.9%) and tongue (17.7%) being the most affected regions. The majority of cases presented lesion remission time between 4 and 7 days (44.0%). Most patients were young, male, and diagnosed with acute lymphoid leukemia. Predominance of grade 2 oral mucositis was observed, with jugal mucosa and tongue being the most affected regions, with the majority of cases presenting lesion remission time between 4 and 7 days. Low-level laser therapy has been shown to be an essential therapy in the prevention and treatment of these lesions, since it is a non-invasive and low-cost method.
+C1 [Cavalcanti, Alessandro Leite] Univ Estadual Paraiba, Programa Posgrad Saude Publ, Ave Baraunas S-N,Campus Univ, BR-58109753 Bodocongo, Campina Grande, Brazil.
+   [de Macedo, Dario Jose] Fac Med Sci, BR-58109753 Campina Grande, Brazil.
+   [Barros Dantas, Fernanda Suely; Menezes, Karla dos Santos; Bezerra Silva, Diego Filipe] State Univ Paraiba, Sch Dent, BR-58109753 Campina Grande, Brazil.
+   [de Melo Junior, William Alves] Univ Fed Campina Grande, Hosp Univ Alcides Carneiro, BR-58109753 Campina Grande, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Dept Dent, BR-58109753 Campina Grande, Brazil.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Programa Posgrad Saude Publ, Ave Baraunas S-N,Campus Univ, BR-58109753 Bodocongo, Campina Grande, Brazil.
+EM alessandrocavalcanti@pq.cnpq.br; dario.jmacedo@gmail.com;
+   fernandasbdantas@gmail.com; fernandasbdant@gmail.com;
+   fernandasbdant1s@gmail.com; williamgeronto@gmail.com;
+   alidianne.fabia@gmail.com
+RI Silva, Diego Filipe Bezerra/AAY-1508-2020; Cavalcanti,
+   Alessandro/A-2828-2010; Cavalcanti, Alessandro Leite/I-4286-2019
+OI Silva, Diego Filipe Bezerra/0000-0002-6721-0745; Cavalcanti,
+   Alessandro/0000-0003-3572-3332; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332; Suely Barros Dantas,
+   Fernanda/0000-0002-1356-1275
+FU National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [302850/2016-3]
+FX The National Council for Scientific and Technological Development
+   (CNPq)-Fellowship of Research Productivity (Process 302850/2016-3).
+CR Amadori F, 2016, LASER MED SCI, V31, P1231, DOI 10.1007/s10103-016-1975-y
+   Arbabi-Kalati Farshid, 2013, Acta Med Iran, V51, P157
+   Bueno AC, 2012, PESQUI BRAS ODONTOPE, V12, P187, DOI 10.4034/PBOCI.2012.122.06
+   Calmon MV, 2016, PESQUI BRAS ODONTOPE, V16, P269, DOI 10.4034/PBOCI.2016.161.28
+   Carneiro TV, 2016, PESQUI BRAS ODONTOPE, V16, P457, DOI 10.4034/PBOCI.2016.161.48
+   Carneiro TV, 2015, PESQUI BRAS ODONTOPE, V15, P171, DOI 10.4034/PBOCI.2015.151.19
+   Carvalho PAG, 2011, ORAL ONCOL, V47, P1176, DOI 10.1016/j.oraloncology.2011.08.021
+   Castro J F L, 2014, RES PEDIAT DENT INTE, V14, P275, DOI DOI 10.4034/PBOCI.2014.144.02
+   Eduardo FD, 2015, PEDIATR TRANSPLANT, V19, P316, DOI 10.1111/petr.12440
+   Fekrazad R, 2014, J LASERS MED SCI, V5, P1
+   Ferreira B, 2016, SUPPORT CARE CANCER, V24, P1035, DOI 10.1007/s00520-015-2881-8
+   Abramoff MMF, 2008, PHOTOMED LASER SURG, V26, P393, DOI 10.1089/pho.2007.2144
+   Gautam AP, 2013, SUPPORT CARE CANCER, V21, P1421, DOI 10.1007/s00520-012-1684-4
+   Silva CMG, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.45
+   Khodaparast M, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.24
+   Kuhn A, 2009, J PEDIAT HEMATOL ONC, V31, P33, DOI 10.1097/MPH.0b013e318192cb8e
+   Lino Maíra Dória Martinez da Costa, 2011, Braz. Dent. J., V22, P162, DOI 10.1590/S0103-64402011000200013
+   Lionel D'Hondt, 2006, Ther Clin Risk Manag, V2, P159
+   de Castro JFL, 2013, PHOTOMED LASER SURG, V31, P613, DOI 10.1089/pho.2012.3327
+   Lopes IA, 2012, PESQUI BRAS ODONTOPE, V12, P113, DOI 10.4034/PBOCI.2012.121.18
+   Lucena N.N.N., 2017, PESQ BRAS ODONTOPED, V17, pe3822
+   de Sousa RIM, 2016, PESQUI BRAS ODONTOPE, V16, P177, DOI 10.4034/PBOCI.2016.161.19
+   Medeiros JB, 2017, PHOTODIAGN PHOTODYN, V18, P39, DOI 10.1016/j.pdpdt.2017.01.004
+   Melo Junior W.A., 2016, J NURS, V10, P2404
+   Miller Misty M, 2012, J Pediatr Pharmacol Ther, V17, P340, DOI 10.5863/1551-6776-17.4.340
+   Oberoi S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0107418
+   Hanna LMO, 2016, PESQUI BRAS ODONTOPE, V16, P403, DOI 10.4034/PBOCI.2016.161.42
+   Rimulo AL, 2011, EUR ARCH PAEDIATR DE, V12, P124, DOI 10.1007/BF03262792
+   Sonis ST, 2016, ORAL ONCOL, V54, P7, DOI 10.1016/j.oraloncology.2016.01.005
+   Vitale MC, 2017, LASER MED SCI, V32, P1423, DOI 10.1007/s10103-017-2266-y
+   *WHO, 1979, HDB REP RES CANC TRE
+NR 31
+TC 3
+Z9 3
+U1 0
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2077-0383
+J9 J CLIN MED
+JI J. Clin. Med.
+PD MAY
+PY 2018
+VL 7
+IS 5
+AR 90
+DI 10.3390/jcm7050090
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA GJ3KU
+UT WOS:000435194400003
+PM 29695071
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   de Oliveira, TBS
+   Rodrigues, ISA
+   Cavalcanti, CL
+   de Oliveira, TSB
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   Sarmento de Oliveira, Thaliny Batista
+   Araujo Rodrigues, Iris Sant'Anna
+   Cavalcanti, Christiane Leite
+   Batista de Oliveira, Thaisy Sarmento
+   Cabral Cavalcanti, Alidianne Fabia
+TI Unnatural Deaths in Brazilian Children and Adolescents
+SO MUNDO DA SAUDE
+LA English
+DT Article
+DE Accidents; Adolescents; Children; Mortality; Violence
+ID ROAD TRAFFIC INJURIES; EMERGENCY; TRAUMA; PREVALENCE; ACCIDENTS;
+   FRACTURES; PROFILE; HEALTH; RISK; CITY
+AB Accidents and violence are considered an important public health problem for being the main cause of mortality among children and adolescents. Assuming the hypothesis that the deaths predominantly affect men, victims of traffic accidents, the aim of this study was to assess unnatural deaths in Brazilian children and adolescents in a city in northeastern Brazil. A cross-sectional study was carried out with analysis of 584 forensic medical reports from the Legal Medicine Institute of Campina Grande, Brazil, between January 2008 and December 2011. Descriptive and inferential statistical analysis was conducted using the chi-square test (a = 0.05). Victims were mostly males (82.4 %) and adolescents aged from 15 to 19 years (70.0 %). The main causes of unnatural deaths were aggressions (39.2 %), followed by traffic accidents (32.7 %). Significant associations between etiology and age group were observed (p<0.001), indicating high percentages of deaths due to aggressions (34.9 %) and traffic accidents (22.94 %) within the age group 15-19 years, etiology and gender of the victim (p<0.001) and type of traffic accident and victim's age (p<0.001). With regard to traffic accidents, there were more records of accidents involving motorcyclists (46.7 %), followed by vehicle occupants (29.8 %) and pedestrians (15.7%). Our hypothesis was confirmed, and the aggressions and traffic accidents were the most common causes of unnatural deaths, primarily affecting males aged from 15 to 19 years. Most deaths from traffic accidents involved motorcycle accidents.
+C1 [Cavalcanti, Alessandro Leite; Sarmento de Oliveira, Thaliny Batista; Araujo Rodrigues, Iris Sant'Anna; Batista de Oliveira, Thaisy Sarmento; Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Campina Grande, PB, Brazil.
+   [Cavalcanti, Christiane Leite] Integrated Coll Patos, Dept Nutr, Patos de Minas, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Campina Grande, PB, Brazil.
+EM alessandrouepb@gmail.com
+RI Cavalcanti, Alessandro Leite/I-4286-2019
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332
+FU National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [302850/2016-3]
+FX National Council for Scientific and Technological Development (CNPq) -
+   Fellowship of Research Productivity (Process 302850/2016-3).
+CR Fraga AMA, 2013, WORLD J EMERG SURG, V8, DOI 10.1186/1749-7922-8-52
+   Moura LDAD, 2016, PESQUI BRAS ODONTOPE, V16, P279, DOI 10.4034/PBOCI.2016.161.29
+   Athani Praveen, 2017, Med Leg J, V85, P90, DOI 10.1177/0025817216679353
+   Bachani AM, 2012, TRAFFIC INJ PREV, V13, P24, DOI 10.1080/15389588.2011.633136
+   Brasil. Ministerio da Saude. Sistema de Vigilancia em Saude, SIST INF MORT
+   Cavalcanti AFC, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.30
+   Cavalcanti AL, 2011, ACTA STOMATOL CROAT, V45, P268
+   Cavalcanti AL, 2009, PESQUI BRAS ODONTOPE, V9, P339, DOI 10.4034/1519.0501.2009.0093.0015
+   Cavalcanti AL, 2010, DENT TRAUMATOL, V26, P149, DOI 10.1111/j.1600-9657.2009.00859.x
+   Chong SL, 2017, ACCIDENT ANAL PREV, V100, P59, DOI 10.1016/j.aap.2017.01.005
+   Costa RC, 2016, PESQUI BRAS ODONTOPE, V16, P99, DOI 10.4034/PBOCI.2016.161.11
+   Ekstrom DS, 2017, DAN MED J, V64
+   Fraga AMA, 2010, EUR J EPIDEMIOL, V25, P211, DOI 10.1007/s10654-009-9420-1
+   Gilbride Susan J, 2006, BMC Pediatr, V6, P30, DOI 10.1186/1471-2431-6-30
+   Gungor HC, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.ed2
+   Holakouie-Naieni K, 2016, J FORENSIC NURS, V12, P90, DOI 10.1097/JFN.0000000000000114
+   Idris AH, 2003, CIRCULATION, V108, P2565, DOI 10.1161/01.CIR.0000099581.70012.68
+   Lili X, 2017, PLOS ONE, V12, pe0168524
+   Lukaschek K, 2012, INT J ENV RES PUB HE, V9, P924, DOI 10.3390/ijerph9030924
+   de Sousa RIM, 2016, PESQUI BRAS ODONTOPE, V16, P313, DOI 10.4034/PBOCI.2016.161.33
+   Malta DC, 2012, CIENC SAUDE COLETIVA, V17, P2291, DOI 10.1590/S1413-81232012000900011
+   Misganaw A, 2012, BMC PUBLIC HEALTH, V12, DOI 10.1186/1471-2458-12-1007
+   Peden M., 2008, WORLD REPORT ROAD TR
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   Refosco MZ, 2016, PESQUI BRAS ODONTOPE, V16, P5, DOI 10.4034/PBOCI.2016.161.01
+   Saadat S, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-488
+   Seid Terrence, 2012, Int J Crit Illn Inj Sci, V2, P114, DOI 10.4103/2229-5151.100887
+   SETHI D, 2004, GUIDELINES CONDUCTIN
+   Frujeri MDV, 2015, PESQUI BRAS ODONTOPE, V15, P65, DOI 10.4034/PBOCI.2015.151.08
+   World Health Organization, 2010, INT STAT CLASS DIS R
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CENTRO UNIV SAO CAMILO
+PI SAO PAULO
+PA AV NAZARE 1,501, IPIRANGA, SAO PAULO, SP 04263-20, BRAZIL
+SN 0104-7809
+EI 1980-3990
+J9 MUNDO SAUDE
+JI Mundo Saude
+PD APR-JUN
+PY 2018
+VL 42
+IS 2
+BP 499
+EP 506
+DI 10.15343/0104-7809.20184202499515
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA GT4IQ
+UT WOS:000444467800013
+OA Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU de Alencar, CRB
+   Porto, DE
+   Cavalcanti, AFC
+   Cavalcanti, AL
+AF Barros de Alencar, Catarina Ribeiro
+   Porto, Damiao Edgleys
+   Cabral Cavalcanti, Alidianne Fabia
+   Cavalcanti, Alessandro Leite
+TI Recurrent Peripheral Giant Cell Granuloma: A Case Report
+SO OPEN DENTISTRY JOURNAL
+LA English
+DT Article
+DE Diagnosis; Granuloma giant cell; Gingival overgrowth; Mandible; Biopsy;
+   Recurrence
+ID MANAGEMENT
+AB Objective:
+   This article describes a case of a Peripheral Giant Cell Granuloma (PGCG) in a girl.
+   Introduction:
+   PGCG is a relatively infrequent benign reactive lesion of the gingiva or alveolar ridge that develops in response to local irritation. Clinical appearance consists of a firm or soft smooth surface nodule in dissimilar colors of varying size with sessile or pedunculated implantation base. Radiographic features are generally nonspecific, thereby definitive diagnosis depends on microscopic examination to confirm the entity of PGCG.
+   Case Report:
+   A 6-year-old female patient was referred to the outpatient clinic of an Oral & Maxillofacial Surgery Department with the chief complaint of an intraoral swelling. The intraoral examination showed a painless sessile mass with exophytic growth similar to a tumorous lesion located on the mandibular alveolar ridge extending from distal aspect of right mandibular primary canine to mesial aspect of first permanent molar of the same side.
+   Conclusion:
+   Peripheral giant cell granuloma is a relatively uncommon lesion in children and potential for collaboration with the treatment in young patients should be considered for a successful therapeutic approach.
+C1 [Barros de Alencar, Catarina Ribeiro; Cabral Cavalcanti, Alidianne Fabia; Cavalcanti, Alessandro Leite] State Univ Paraiba, Sch Dent, Rua Baraunas,S-N Bodocongo, BR-58429500 Campina Grande, PB, Brazil.
+   [Porto, Damiao Edgleys] Univ Fed Paraiba, Sch Dent, Joao Pessoa, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Sch Dent, Rua Baraunas,S-N Bodocongo, BR-58429500 Campina Grande, PB, Brazil.
+EM dralessandro@ibest.com.br
+RI Alencar, Catarina/AAQ-5347-2020; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332
+CR Abu Gharbyah A, 2014, INT J SURG CASE REP, V5, P779, DOI 10.1016/j.ijscr.2014.09.014
+   Adlakha V K, 2010, J Indian Soc Pedod Prev Dent, V28, P293, DOI 10.4103/0970-4388.76161
+   Ahmed WS, 2016, J ORAL MAXIL SURG, V74, P2200, DOI 10.1016/j.joms.2016.04.025
+   Babu Biji, 2017, J Indian Soc Periodontol, V21, P258, DOI 10.4103/jisp.jisp_103_17
+   Bodner L, 1997, ORAL SURG ORAL MED O, V83, P548, DOI 10.1016/S1079-2104(97)90118-9
+   Chaparro-Avendano Angie V, 2005, Med Oral Patol Oral Cir Bucal, V10, P53
+   Chaparro- Avendano AV, 2005, MED ORAL PATOL ORAL, V10, P48
+   Flaitz Catherine M., 2000, Pediatric Dentistry, V22, P232
+   GIANSANTI JS, 1969, J ORAL SURG, V27, P787
+   Grand E, 2008, DENT TRAUMATOL, V24, P124, DOI 10.1111/j.1600-9657.2006.00504.x
+   KATSIKERIS N, 1988, INT J ORAL MAX SURG, V17, P94, DOI 10.1016/S0901-5027(88)80158-9
+   KFIR Y, 1980, J PERIODONTOL, V51, P655, DOI 10.1902/jop.1980.51.11.655
+   Lester SR, 2014, OR SURG OR MED OR PA, V118, P475, DOI 10.1016/j.oooo.2014.06.004
+   Mannem S, 2012, CONTEMP CLIN DENT, V3, P93, DOI 10.4103/0976-237X.94556
+   Narwal Anjali, 2017, J Oral Maxillofac Pathol, V21, P382, DOI 10.4103/jomfp.JOMFP_231_15
+   Nedir R, 1997, J PERIODONTOL, V68, P381, DOI 10.1902/jop.1997.68.4.381
+   Paglia L, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.ed2
+   Pandolfi P J, 1999, J Clin Pediatr Dent, V23, P353
+   Patil KP, 2014, J INT CLIN DENT RES, V6, P118
+   Volpato LER, 2016, CASE REP DENT, V2016, DOI 10.1155/2016/6725913
+   Rossmann JA, 2011, OPEN PATHOL J, V5, P23, DOI DOI 10.2174/1874375701105010023
+   Vaidya Kedar, 2018, Clin Pract, V8, P1023, DOI 10.4081/cp.2018.1023
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 1
+PU BENTHAM SCIENCE PUBL LTD
+PI SHARJAH
+PA EXECUTIVE STE Y-2, PO BOX 7917, SAIF ZONE, 1200 BR SHARJAH, U ARAB
+   EMIRATES
+SN 1874-2106
+J9 OPEN DENT J
+JI Open Dent. J.
+PY 2018
+VL 12
+BP 1043
+EP 1049
+DI 10.2174/1874210601812011043
+PG 7
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA HE4HA
+UT WOS:000453325400007
+OA Other Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Andrade, NM
+   Fernandes, TV
+   Catao, ED
+   da Silva, GCB
+   Fernandes, LHF
+   Cavalcanti, AFC
+   Cavalcanti, AL
+AF Andrade, Natalia Medeiros
+   Fernandes, Tiago Virginio
+   Catao, Everton de Sousa
+   Basto da Silva, Gustavo Correia
+   Freitas Fernandes, Liege Helena
+   Cabral Cavalcanti, Alidianne Fabia
+   Cavalcanti, Alessandro Leite
+TI Prevalence of cleft lip and palate in Brazilian children 2011 - 2015
+SO INTERNET JOURNAL OF MEDICAL UPDATE
+LA English
+DT Article
+DE Epidemiology; Cleft Lip; Cleft Palate; Congenital Abnormalities
+ID QUALITY-OF-LIFE; OROFACIAL CLEFTS
+AB Cleft lip and cleft palate are birth defects of complex etiology. The aim of this study was to evaluate the occurrence of cleft lip and palate in Brazilian children. An ecological and descriptive study, based on data from the Live Birth Information System (SINASC/DATASUS) between years 2011 and 2015 in the cities of Joao Pessoa, Campina Grande, Patos, Cajazeiras, and Sousa (State of Paraiba) was developed. Information on the presence of congenital anomalies and cleft lip and palate, gender of neonate, birth-weight (< 2.5kg and >= 2.5kg) and mother's age were collected. Data were tabulated with Microsoft Excel software and presented through descriptive statistics (absolute and percentage distributions). In the study period, there were 206367 cases of live birth, with 1916 cases of children with congenital anomalies of which 109 (5.7%) had cleft lip and palate, predominantly males (66%). Regarding birth-weight, 27.5% had < 2.5kg. The majority of mothers aged 20-29 years (45.9%). The city of Campina Grande concentrated the highest number of cases (50.5%), with prevalence of 7.36 cases per ten thousand live births. The frequency of cleft lip and palate was 5.2 per 10000 live births. Male children with normal birth-weight are the most affected by cleft lip and palate.
+C1 [Andrade, Natalia Medeiros; Fernandes, Tiago Virginio; Catao, Everton de Sousa; Basto da Silva, Gustavo Correia; Freitas Fernandes, Liege Helena; Cabral Cavalcanti, Alidianne Fabia; Cavalcanti, Alessandro Leite] State Univ Paraiba, Sch Dent, Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Dept Odontol, Rua Baraunas,351 Univ, Campina Grande, PB, Brazil.
+EM alessandrouepb@gmail.com
+RI Cavalcanti, Alessandro/A-2828-2010; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cavalcanti, Alessandro/0000-0003-3572-3332; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332
+FU Brazilian National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [302850/2016-3]
+FX AL Cavalcanti thanks the Brazilian National Council for Scientific and
+   Technological Development (CNPq) for a research productivity fellowship
+   [Proc. No. 302850/2016-3).
+CR Amobi EO, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.13
+   Martelli DRB, 2012, BRAZ J OTORHINOLAR, V78, P116, DOI 10.5935/1808-8694.20120018
+   Martelli DRB, 2010, BRAZ J OTORHINOLAR, V76, P107, DOI 10.1590/S1808-86942010000100018
+   Beaty Terri H, 2016, F1000Res, V5, P2800
+   Brito VRS, 2010, REV RENE, V11, P27
+   BUNDUKI V, 2001, REV BRAS GINECOL OBS, V23, P561
+   Carvalho PHP, 2016, BRAZ J ORAL SCI, V15, P167
+   Dixon MJ, 2011, NAT REV GENET, V12, P167, DOI 10.1038/nrg2933
+   Figueirêdo Cristina Jordão R., 2011, Rev. paul. pediatr., V29, P29, DOI 10.1590/S0103-05822011000100005
+   Filgueira IG, 2015, PESQUI BRAS ODONTOPE, V15, P431, DOI 10.4034/PBOCI.2015.151.45
+   Fleurke-Rozema JH, 2016, ULTRASOUND OBST GYN, V48, P458, DOI 10.1002/uog.15834
+   Gardenal M, 2011, INT ARCH OTORHINOLAR, V15, P133, DOI 10.1590/S1809-48722011000200003
+   Kesande T, 2014, BMC ORAL HEALTH, V14, DOI 10.1186/1472-6831-14-104
+   Lei RL, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058690
+   Luquetti DV, 2010, CAD SAUDE PUBLICA, V26, P1756, DOI 10.1590/S0102-311X2010000900009
+   Maggi A, 2011, ALETHEIA, V34, P175
+   Ministerio da Saude, 2017, SINASC SIST INF NASC
+   Nagalo K, 2017, BMC PEDIATR, V17, DOI 10.1186/s12887-017-0833-9
+   Sabino MDPD, 2012, PESQUI BRAS ODONTOPE, V12, P237, DOI 10.4034/PBOCI.2012.122.13
+   Rahimov F, 2012, CLEFT PALATE-CRAN J, V49, P73, DOI 10.1597/10-178
+   Raposo-do-Amaral Cassio Eduardo, 2011, Rev. Bras. Cir. Plást., V26, P639, DOI 10.1590/S1983-51752011000400017
+   Vitor LLR, 2014, PESQUI BRAS ODONTOPE, V14, P105, DOI 10.4034/PBOCI.2014.142.05
+   Rivaldo EG, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.27
+   Sarkar S, 2013, J CLIN NEONATOL, V2, P131, DOI 10.4103/2249-4847.119998
+   de Sousa GFT, 2017, BRAZ ORAL RES, V31, DOI [10.1590/1807-3107BOR-2017.vol31.0023, 10.1590/1807-3107bor-2017.vol31.0023]
+   Vanz AP, 2011, REV ESC ENFERM USP, V45, P595
+   Zeiger JS, 2002, TERATOLOGY, V66, P205, DOI 10.1002/tera.10104
+NR 27
+TC 2
+Z9 2
+U1 0
+U2 3
+PU AKS PUBLICATIONS
+PI PHOENIX
+PA C/O DR ARUN KUMAR AGNIHOTRI, DEPT FORENSIC MEDICINE & TOXICOLOGY,
+   PHOENIX, 00000, MAURITIUS
+SN 1694-0423
+J9 INTERNET J MED UPDAT
+JI Internet J. Med. Update
+PD JAN
+PY 2018
+VL 13
+IS 1
+BP 10
+EP 14
+DI 10.4314/ijmu.v13i1.3
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA GM4CQ
+UT WOS:000438061900003
+OA Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   Costa, GMC
+   Celino, SDD
+   Correa, RR
+   Ramos, RA
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   Cavalcanti Costa, Gabriela Maria
+   de Matos Celino, Suely Deysny
+   Correa, Rejane Rodovalho
+   Ramos, Raenilson Araujo
+   Cabral Cavalcanti, Alidianne Fabia
+TI Born in Chains: Perceptions of Brazilian Mothers Deprived of Freedom
+   about Breastfeeding
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Infant; Prisoners; Vulnerable Populations; Breast Feeding
+ID HEALTH; ASSOCIATION; WOMEN; CARE
+AB Objective: To analyze the perception of mothers deprived of freedom about breastfeeding. Material and Methods: This cross-sectional study was developed in four prison units in the state of Paraiba, Brazil. The non-probabilistic type sample was composed of inmates who were breastfeeding. Information regarding mother, infant, prenatal care, breastfeeding and sucking habits were collected. Data were analyzed through the Statistical Package for Social Sciences and presented through descriptive statistics. Results: Of the 496 women under closed prison system, only 13 (2.6%) were breastfeeding their children in the prison environment. The age of mothers ranged from 19 to 35 years, and the most frequent age group was 19-23 years (46.2%). The majority had no partner (84.6%), low schooling (60%) and had other children (84.6%). All were pregnant when they were arrested and 76.9% underwent cesarean delivery. Infants aged 1-5 months and 61.5% were female. The majority of inmates performed prenatal care (76.9%), with prison being the referred site (60%). Participation in educational activities on breastfeeding was reported by 90.9%, and nurses were the health professionals who provided these guidelines (66.6%). Exclusive breastfeeding was reported by 69.2%, but the maximum period was two months (33.3%). All mothers complemented breastfeeding (100%). Nocturnal breastfeeding was reported by 15.4%, being used for the child to sleep. All children started bottle-feeding from the first trimester of life. Pacifier use was observed in all infants. Conclusion: Inmates are predominantly young, single, of low schooling and underwent cesarean delivery. Prenatal care was carried out at the prison and mothers participated in educational activities about breastfeeding. Exclusive breastfeeding was reported by the majority; however, the maximum time was two months. All infants used bottle and pacifier use was reported from birth.
+C1 [Cavalcanti, Alessandro Leite; Cavalcanti Costa, Gabriela Maria] State Univ Paraiba, Postgrad Program Publ Hlth, Campina Grande, PB, Brazil.
+   [de Matos Celino, Suely Deysny] Fac Med Sci, Campina Grande, PB, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Postgrad Program Dent, Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Dept Odontol, Rua Baraunas S-N, BR-58429500 Campina Grande, PB, Brazil.
+EM dralessandro@ibest.com.br
+RI Cavalcanti, Alessandro Leite/I-4286-2019
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; ARAUJO RAMOS,
+   RAENILSON/0000-0001-8291-7821
+FU National Council for Scientific and Technological Development (CNPq) -
+   Fellowship of Research ProductivityNational Council for Scientific and
+   Technological Development (CNPq) [302850/2016-3]
+FX This study was supported by the National Council for Scientific and
+   Technological Development (CNPq) - Fellowship of Research Productivity
+   (Process 302850/2016-3). We would like to thank the Resocialization
+   Management of the Penitentiary Administration Secretariat of the State
+   of Paraiba for allowing conducting this research in female prison units.
+CR Alves JD, 2018, CIENC SAUDE COLETIVA, V23, P1077, DOI 10.1590/1413-81232018234.10752016
+   Arantes DC, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.29
+   Araujo ANV, 2014, REV ENFERM CONT, V3, P131
+   Araujo LDS, 2006, AL MAT MAN PRAT, P41
+   Brasil. Ministerio da Justica. Departamento Penitenciario Nacional, 2008, MULH ENC DIAGN NAC
+   Brasil. Ministerio da Saude, 2016, PROT AT BAS SAUD MUL
+   Brasil. Ministerio da Saude. Secretaria de Atencao a Saude. Departamento de Atencao Basica, 2013, AT AO PREN BAIX RISC
+   Brasil. Ministerio da Saude. Secretaria de Atencao a Saude. Departamento de Atencao Basica, 2015, SAUD CRIANC AL MAT A
+   Butte NF, 2002, NUTR ADEQUACY EXCLUS
+   Marinho AMCL, 2016, PESQUI BRAS ODONTOPE, V16, P257, DOI 10.4034/PBOCI.2016.161.27
+   Dalmacio LM, 2014, REV BRAS HIST CIENC, V6, P54
+   de Oliveira RR, 2016, REV ESC ENFERM USP, V50, P733, DOI [10.1590/S0080-623420160000600004, 10.1590/s0080-623420160000600004]
+   Fernandes AG, 2004, REV ELETR ENF, V6, P358
+   Moraes KAF, 2016, PESQUI BRAS ODONTOPE, V16, P491, DOI 10.4034/PBOCI.2016.161.51
+   Gartner LM, 2005, PEDIATRICS, V115, P496, DOI [10.1542/peds.2011-3552, 10.1542/peds.2004-2491]
+   Leal MD, 2016, CIENC SAUDE COLETIVA, V21, P2061, DOI 10.1590/1413-81232015217.02592016
+   Lima AP, 2009, REV ENFERM UFPE, V4, P230
+   Bomfim LTM, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.14
+   Miotto MHMB, 2016, PESQUI BRAS ODONTOPE, V16, P393, DOI 10.4034/PBOCI.2016.161.41
+   Monteiro EMLM, 2011, REV ENFERM UFPE, V5, P1970, DOI [10.5205/reuol.1262-12560-1-LE.0508201121, DOI 10.5205/REUOL.1262-12560-1-LE.0508201121]
+   Paynter MJ, 2018, J HUM LACT, V34, P276, DOI 10.1177/0890334418758659
+   Lopes TSP, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.47
+   Rigotti RR, 2015, CIENC SAUDE COLETIVA, V20, P1235, DOI 10.1590/1413-81232015204.00782014
+   Rocha NB, 2015, PESQUI BRAS ODONTOPE, V15, P115, DOI 10.4034/PBOCI.2015.151.13
+   Shlafer Rebecca J, 2018, Nurs Womens Health, V22, P64, DOI 10.1016/j.nwh.2017.12.004
+   Todrys KW, 2011, BMC INT HEALTH HUM R, V11, DOI 10.1186/1472-698X-11-8
+   Vetten L., 2008, HUMAN RIGHTS AFRICAN, P134
+   Victora CG, 2000, LANCET, V355, P451, DOI 10.1016/S0140-6736(00)82011-5
+   Volpini Cíntia Cristina de Almeida, 2005, Rev. Nutr., V18, P311, DOI 10.1590/S1415-52732005000300003
+   World Health Organization, 2008, IND ASS INF YOUNG CH
+   Zinger I, ANN REPORT OFFICE CO
+NR 31
+TC 1
+Z9 1
+U1 1
+U2 3
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2018
+VL 18
+IS 1
+AR e4144
+DI 10.4034/PBOCI.2018.181.69
+PG 11
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA GJ3WS
+UT WOS:000435231300027
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Aguiar, YPC
+   Cavalcanti, AFC
+   de Alencar, CRB
+   Melo, ASD
+   Cavalcanti, SDLB
+   Cavalcanti, AL
+AF Costa Aguiar, Yeska Paola
+   Cabral Cavalcanti, Alidianne Fabia
+   Barros de Alencar, Catarina Ribeiro
+   de Oliveira Melo, Adriana Suely
+   Lins Bezerra Cavalcanti, Sergio d'Avila
+   Cavalcanti, Alessandro Leite
+TI Chronology of the First Deciduous Tooth Eruption in Brazilian Children
+   with Microcephaly Associated with Zika Virus: A Longitudinal Study
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Tooth Eruption; Tooth, Deciduous; Microcephaly; Zika Virus Infection
+ID DENTAL-CARIES; PRIMARY TEETH; INFECTION; INFANTS; BIRTH; BORN; LIFE
+AB Objective: To analyze the chronology of first deciduous tooth eruption in children with microcephaly associated with presumed or confirmed Zika virus. Material and Methods: A longitudinal study was developed with 74 children of both sexes. Data on prematurity, gestational age (in weeks), anthropometric characteristics at birth [length (cm), weight (g) and cephalic perimeter (cm)] and dental eruption (chronological age and corrected age for prematurity in months) were collected and presented through descriptive statistics. Data was analyzed using the Statistical Package for Social Sciences. Results: The majority of children were female (54.1%) and 14.9% were born premature. The mean gestational age was 38.2 (+/- 1.9) weeks, while length, weight and cephalic perimeter at birth were 45.6 (+/- 3.1) cm, 2750 (+/- 526.6) and 30 (+/- 2.3) cm, respectively. The eruption of the first tooth occurred on average at 12.3 (+/- 3.0) months of chronological age and at 11.1 (+/- 2.3) months of corrected age. The first erupted teeth were the lower deciduous central incisors (82.4%). The mean age for dental eruption in males was 12.5 months (+/- 3.0) and in females 12.0 months (+/- 3.1) among full-term children. For premature infants, the mean corrected age of dental eruption was 11.5 months (+/- 3.4) for boys and 11 months (+/- 1.7) for girls. Conclusion: In this group of children with microcephaly, the first tooth to erupt was the lower central incisor around the first year of life. Girls had lower average eruption time when compared to boys in both chronological age and age corrected for prematurity.
+C1 [Costa Aguiar, Yeska Paola; Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Sch Dent, Postgrad Program Dent, Campina Grande, PB, Brazil.
+   [Barros de Alencar, Catarina Ribeiro; Lins Bezerra Cavalcanti, Sergio d'Avila; Cavalcanti, Alessandro Leite] State Univ Paraiba, Sch Dent, Campina Grande 3, PB, Brazil.
+   [de Oliveira Melo, Adriana Suely] Univ Fed Campina Grande, Fac Med, Campina Grande, PB, Brazil.
+RP Aguiar, YPC (corresponding author), Univ Estadual Paraiba, Programa Posgrad Odontol, Ave Baraunas,351 Bodocongo, BR-58429500 Campina Grande, PB, Brazil.
+EM yeskapaola@gmail.com
+RI Alencar, Catarina/AAQ-5347-2020; Cavalcanti, Alessandro
+   Leite/I-4286-2019; Melo, Adriana S O/H-5650-2016; d'Avila,
+   Sergio/I-9093-2014
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; d'Avila,
+   Sergio/0000-0002-7836-896X
+FU Coordination of Improvement of Higher Education Personnel (CAPES)CAPES;
+   CAPESCAPES; CNPq (National Council for Scientific and Technological
+   Development)National Council for Scientific and Technological
+   Development (CNPq) [302850/2016-3]
+FX YPC Aguiar thanks to the Coordination of Improvement of Higher Education
+   Personnel (CAPES) for a doctoral fellowship. CRB Alencar thanks CAPES
+   for a post-doctoral fellowship. AL Cavalcanti thanks CNPq (National
+   Council for Scientific and Technological Development) for a research
+   productivity fellowship (Proc. No. 302850/2016-3).
+CR Affan AA, 2014, BRAZ DENT SCI, V17, P67
+   Alghadir AH, 2017, AFR HEALTH SCI, V17, P133, DOI 10.4314/ahs.v17i1.17
+   Baud D, 2017, LANCET, V390, P2099, DOI [10.1016/S0140-6736(17)31450-2, 10.1016/s0140-6736(17)31450-2]
+   Brasil. Secretaria de Vigilancia em Saude. Ministerio da Saude, B EPIDEMIOLOGICO
+   Torres LB, 2015, EUR J PAEDIATR DENT, V16, P301
+   Xavier AFC, 2015, PESQUI BRAS ODONTOPE, V15, P279, DOI 10.4034/PBOCI.2015.151.30
+   Cavalcanti AL, 2017, CONTEMP CLIN DENT, V8, P345, DOI 10.4103/0976-237X.214553
+   Charlier C, 2017, LANCET CHILD ADOLESC, V1, P134, DOI 10.1016/S2352-4642(17)30021-4
+   de Castinho LS, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.23
+   de Oliveira WK, 2017, LANCET, V390, P861, DOI 10.1016/S0140-6736(17)31368-5
+   Ferreira L, 2015, PESQUI BRAS ODONTOPE, V15, P361, DOI 10.4034/PBOCI.2015.151.38
+   Hartwig AD, 2016, PESQUI BRAS ODONTOPE, V16, P59, DOI 10.4034/PBOCI.2016.161.07
+   Kapogiannis BG, 2017, JAMA PEDIATR, V171, P478, DOI 10.1001/jamapediatrics.2017.0002
+   Khalifa AM, 2014, EGYPT PEDIATR ASSO, V62, P41, DOI 10.1016/j.epag.2014.04.001
+   Lam CU, 2016, CLIN ORAL INVEST, V20, P1871, DOI 10.1007/s00784-015-1670-6
+   Leal MC, 2017, EMERG INFECT DIS, V23, P1253, DOI 10.3201/eid2308.170354
+   Lopes LC, 2016, PESQUI BRAS ODONTOPE, V16, P289, DOI 10.4034/PBOCI.2016.161.30
+   Lynch RJM, 2013, INT DENT J, V63, P3, DOI 10.1111/idj.12076
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Millichap J Gordon, 2016, Pediatr Neurol Briefs, V30, P8, DOI 10.15844/pedneurbriefs-30-1-7
+   F. Neto Pedro Garcia, 2014, Rev. paul. pediatr., V32, P17, DOI 10.1590/S0103-05822014000100004
+   Oziegbe EO, 2008, J CLIN PEDIATR DENT, V32, P341, DOI 10.17796/jcpd.32.4.9571r10781044217
+   Oznurhan F, 2016, PEDIATR DENT J, V26, P1, DOI 10.1016/j.pdj.2015.09.002
+   Rezende KMPEC, 2010, PESQUI BRAS ODONTOPE, V10, P61, DOI 10.4034/1519.0501.2010.0101.0010
+   Sahin F, 2008, INT J PAEDIATR DENT, V18, P262, DOI 10.1111/j.1365-263X.2007.00893.x
+   Sajjadian N, 2010, PEDIATR NEONATOL, V51, P235, DOI 10.1016/S1875-9572(10)60044-7
+   Thomson WM, 2018, PESQUI BRAS ODONTOPE, V18, DOI 10.4034/PBOCI.2018.181.ed1
+   Valinoti AC, 2016, OPEN DENT J, V10, P420, DOI 10.2174/1874210601610010420
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   Dadalto ECV, 2017, PESQUI BRAS ODONTOPE, V17, DOI 10.4034/PBOCI.2017.171.42
+   Wang LP, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-07264-y
+   Westra SJ, 2017, LANCET CHILD ADOLESC, V1, P6, DOI 10.1016/S2352-4642(17)30002-0
+   World Health Organization, PRET BIRTH
+   Xavier AFC, 2013, BMC ORAL HEALTH, V13, DOI 10.1186/1472-6831-13-71
+   Zadzinska E, 2016, ANN HUM BIOL, V43, P25, DOI 10.3109/03014460.2015.1006140
+NR 35
+TC 5
+Z9 5
+U1 0
+U2 2
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2018
+VL 18
+IS 1
+AR e3982
+DI 10.4034/PBOCI.2018.181.16
+PG 7
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA FX2JC
+UT WOS:000425884700030
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   Porto, E
+   dos Santos, BF
+   Cavalcanti, CL
+   Cavalcanti, AFC
+AF Cavalcanti, Alessandro Leite
+   Porto, Edgleys
+   dos Santos, Bruno Ferreira
+   Cavalcanti, Christiane Leite
+   Cabral Cavalcanti, Alidianne Fabia
+TI Facial dog bite injuries in children: A case report
+SO INTERNATIONAL JOURNAL OF SURGERY CASE REPORTS
+LA English
+DT Article
+DE Wounds and injuries; Bites and stings; Maxillofacial injuries; Dogs
+ID BRAZIL; ADOLESCENTS; MANAGEMENT; PROFILE; TRAUMA
+AB INTRODUCTION: Dog bites are common and can affect victims of different ages, from children to the elderly. Injuries are usually located in different body regions, including head and face. The treatment of choice for injuries is the suture of the lesion, accompanied by antibiotic therapy and tetanus and anti-rabies vaccination.
+   PRESENTATION OF CASE: An 11-year-old male black patient was admitted to the Surgery and Maxillo-Facial Traumatology Service, on an urgent basis, victim of domestic animal aggression (dog biting). The child had multiple and extensive lesions on the face, trauma with laceration with loss of substance, involving the left genic region, lower and upper lip, and lower gingival-labial sulcus.
+   DISCUSSION: Smaller children are especially vulnerable to injuries in the craniofacial region due their low stature, propensity to crawl/play on the ground and exploratory behavior. The primary treatment of bites is by means of direct suture, grafting or local flaps, depending on the type of wound and the surgeon's decision, regardless of time elapsed from the attack.
+   CONCLUSION: This case shows a case of a child patient victim of animal bite, with lesions limited to the region of the face. The patient was followed up for a month and showed good wound healing without any complications. (C) 2017 The Authors. Published by Elsevier Ltd on behalf of IJS Publishing Group Ltd. This is an open access article under the CC BY-NC-ND license.
+C1 [Cavalcanti, Alessandro Leite; Porto, Edgleys; dos Santos, Bruno Ferreira] State Univ Paraiba, Fac Dent, Dept Dent, Campina Grande, PB, Brazil.
+   [Cavalcanti, Christiane Leite] Univ Fed Paraiba, Joao Pessoa, Paraiba, Brazil.
+   [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiiba, Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Dept Odontol, Ave Baraunas S-N, BR-58429500 Campina Grande, PB, Brazil.
+EM alessandrouepb@gmail.com
+RI Cavalcanti, Alessandro/A-2828-2010; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cavalcanti, Alessandro/0000-0003-3572-3332; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332
+FU National Council for Scientific and Technological Development (CNPq) -
+   Fellowship of Research Productivity (PQ)
+FX This study was supported by the National Council for Scientific and
+   Technological Development (CNPq) - Fellowship of Research Productivity
+   (PQ).
+CR Agha RA, 2016, INT J SURG, V34, P180, DOI 10.1016/j.ijsu.2016.08.014
+   Agrawal Aviral, 2017, Int J Clin Pediatr Dent, V10, P67, DOI 10.5005/jp-journals-10005-1410
+   Bykowski M. R., 2017, PEDIAT EMERG CARE
+   Cavalcanti AL, 2012, PESQUI BRAS ODONTOPE, V12, P439, DOI 10.4034/PBOCI.2012.123.22
+   Costa RC, 2016, PESQUI BRAS ODONTOPE, V16, P99, DOI 10.4034/PBOCI.2016.161.11
+   Dendle C, 2009, AUST FAM PHYSICIAN, V38, P868
+   Kaye AE, 2009, PLAST RECONSTR SURG, V124, P551, DOI 10.1097/PRS.0b013e3181addad9
+   Lee YG, 2013, ARCH PLAST SURG-APS, V40, P705, DOI 10.5999/aps.2013.40.6.705
+   MACEDO JEFFERSON LESSA SOARES, 2016, Rev. Col. Bras. Cir., V43, P452, DOI 10.1590/0100-69912016006007
+   Morales Carmen, 2011, Rev. perú. med. exp. salud publica, V28, P639, DOI 10.1590/s1726-46342011000400011
+   Morgan M, 2007, BMJ-BRIT MED J, V334, P413, DOI 10.1136/bmj.39105.659919.BE
+   Pfortmueller CA, 2013, SCI WORLD J, DOI 10.1155/2013/393176
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   Reisner IR, 2011, INJURY PREV, V17, P348, DOI 10.1136/ip.2010.029868
+   Santos T. S., 2007, RGO REV GAUC ODONTOL, V55, P369
+   Shaikh ZS, 2002, INJURY, V33, P669, DOI 10.1016/S0020-1383(01)00201-7
+   Simao Niverso Rodrigues, 2013, J Int Oral Health, V5, P68
+   Sousa RIM, 2016, PESQ BRAS ODONTOPED, V16, P313, DOI [10.4034/PBOCI.2016.161.33, DOI 10.4034/PB0CI.2016.161.33]
+   Veloso RD, 2011, CIENC SAUDE COLETIVA, V16, P4875, DOI 10.1590/S1413-81232011001300036
+NR 19
+TC 3
+Z9 3
+U1 0
+U2 1
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2210-2612
+J9 INT J SURG CASE REP
+JI Int. J. Surg. Case Rep.
+PY 2017
+VL 41
+BP 57
+EP 60
+DI 10.1016/j.ijscr.2017.10.008
+PG 4
+WC Surgery
+SC Surgery
+GA FQ0LY
+UT WOS:000418049600016
+PM 29035774
+OA Green Published, Other Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AFC
+   Lucena, BD
+   de Oliveira, TBS
+   Cavalcanti, CL
+   d'Avila, S
+   Cavalcanti, AL
+AF Cabral Cavalcanti, Alidianne Fabia
+   Lucena, Belchior de Medeiros
+   Sarmento de Oliveira, Thaliny Batista
+   Cavalcanti, Christiane Leite
+   d'Avila, Sergio
+   Cavalcanti, Alessandro Leite
+TI Head and Face Injuries in Automobile Accidents and Associated Factors in
+   a city in Northeastern Brazil
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Accidents; Traffic; Facial Injuries; External Causes
+ID TRAFFIC ACCIDENTS; CAMPINA GRANDE; EMERGENCY; ADOLESCENTS; FRACTURES;
+   MORTALITY; CHILDREN; VICTIMS; PROFILE
+AB Objective: To evaluate the occurrence of head and face injuries and associated factors among victims of automobile accidents in a trauma center. Material and Methods: A cross-sectional study was developed through the analysis of 9,734 medical records of children and adults hospitalized due to external causes in the Regional Hospital of Emergency and Trauma at Campina Grande, Brazil. Data were analyzed with the SPSS software version 15, also using the Pearson's chi-square test. The significance level adopted was 5 %. Results: Cases of automobile accidents accounted for 25.9% (n = 463) of hospitalizations due to external causes, and 83.8 % of victims were male and 16.2 % were female, representing a sex ratio of 5.1: 1. As for age group, most had between 20 and 29 years (38.1%) and with respect to the day of the week, 40.8 % of incidents occurred over the weekend. The occurrence of injury was greater on the face (17.4%) than on the head (7.8%) and most victims had a single injury (58.5%). The existence of bone fractures was observed in 76.9 % of victims and 14.7 % had functional impairment. There was association between variables age (p < 0.001), sex (p < 0.001), day of the week (p < 0.001), presence of bone fractures (p < 0.001) and functional impairment (p = 0.002) with the occurrence of automobile accidents. Conclusion: The most automobile accidents occur on weekends and affect young male individuals, with frequent presence of fractures among victims. The occurrence of injury was greater on the face than on the head. Factors such as age, sex, presence of bone fractures and functional impairment was associated with automobile accidents.
+C1 [Cabral Cavalcanti, Alidianne Fabia] State Univ Paraiba, Postgrad Program Dent, Campina Grande, PB, Brazil.
+   [Lucena, Belchior de Medeiros; Sarmento de Oliveira, Thaliny Batista] State Univ Paraiba, Publ Hlth, Campina Grande, PB, Brazil.
+   [Cavalcanti, Christiane Leite] Univ Fed Paraiba, Ctr Hlth Sci, Dept Nutr, Postgrad Program Nutrit Sci, Joao Pessoa, Paraiba, Brazil.
+   [d'Avila, Sergio; Cavalcanti, Alessandro Leite] State Univ Paraiba, Postgrad Program Publ Hlth, Ave Baraunas S-N,Campus Univ, BR-58109753 Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Postgrad Program Publ Hlth, Ave Baraunas S-N,Campus Univ, BR-58109753 Campina Grande, PB, Brazil.
+EM alessandrouepb@gmail.com
+RI Cavalcanti, Alessandro Leite/I-4286-2019; d'Avila, Sergio/I-9093-2014
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; d'Avila,
+   Sergio/0000-0002-7836-896X
+FU National Council for Scientific and Technological Development (CNPq) -
+   Fellowship of Research Productivity (PQ)National Council for Scientific
+   and Technological Development (CNPq)
+FX The authors would like to thank the research assistance who worked hard
+   undertaking the data collection, namely to Camila Maribondo Medeiros
+   Ramos, Raiff Leite Soares and Sergio Phelip Oliveira Eugenio. This study
+   was supported by the National Council for Scientific and Technological
+   Development (CNPq) - Fellowship of Research Productivity (PQ).
+CR Abosadegh MM, 2017, DENT TRAUMATOL, V33, P369, DOI 10.1111/edt.12349
+   Bastos Yara Gerber Lima, 2005, Cad. Saúde Pública, V21, P815, DOI 10.1590/S0102-311X2005000300015
+   Bener Abdulbari, 2009, Int Emerg Nurs, V17, P52, DOI 10.1016/j.ienj.2008.07.007
+   Bigdeli M, 2010, BMC PUBLIC HEALTH, V10, DOI 10.1186/1471-2458-10-406
+   Caixeta CR, 2010, CIENC SAUDE COLETIVA, V15, P2075, DOI 10.1590/S1413-81232010000400021
+   Calil AM, 2009, REV LAT-AM ENFERM, V17, P120, DOI 10.1590/S0104-11692009000100019
+   Cavalcanti AL, 2012, PESQUI BRAS ODONTOPE, V12, P439, DOI 10.4034/PBOCI.2012.123.22
+   Cavalcanti Alessandro Leite, 2014, ScientificWorldJournal, V2014, P632720, DOI 10.1155/2014/632720
+   Cavalcanti AL, 2009, PESQUI BRAS ODONTOPE, V9, P339, DOI 10.4034/1519.0501.2009.0093.0015
+   Cavalcanti AL, 2008, SCI MED, V18, P160
+   Chini F, 2010, INT J INJ CONTROL SA, V17, P187, DOI 10.1080/17457301003728494
+   Costa RC, 2016, PESQUI BRAS ODONTOPE, V16, P99, DOI 10.4034/PBOCI.2016.161.11
+   Duarte ML, 2010, REV BRAS MED FAM E C, V5, P38
+   Farzaneh E, 2017, EMERG MED INT, V2017, DOI 10.1155/2017/1439486
+   Ganveer Gunjan B, 2005, Indian J Med Sci, V59, P9
+   Gawryszewski VP, 2007, SAO PAULO MED J, V125, P139, DOI 10.1590/S1516-31802007000300003
+   Gawryszewski Vilma Pinheiro, 2006, Sao Paulo Med. J., V124, P208, DOI 10.1590/S1516-31802006000400007
+   Garcell HG, 2008, GAC SANIT, V22, P344, DOI 10.1157/13125356
+   Haghparast-Bidgoli H, 2010, BMC EMERG MED, V10, DOI 10.1186/1471-227X-10-20
+   Hanna CL, 2010, BMC PUBLIC HEALTH, V10, DOI 10.1186/1471-2458-10-14
+   Jiménez-Moleón José Juan, 2004, Gac Sanit, V18, P166, DOI 10.1157/13063092
+   Kanchan T, 2010, MED SCI LAW, V50, P192, DOI 10.1258/msl.2011.010018
+   Kumar A, 2008, INDIAN J NEUROTRAUM, V5, P63, DOI 10.1016/S0973-0508(08)80002-0
+   Abreu AMM, 2010, REV LAT-AM ENFERM, V18, P513, DOI 10.1590/S0104-11692010000700005
+   Pfeifer R, 2017, WORLD J SURG, V41, P3111, DOI 10.1007/s00268-017-4122-4
+   Miguens SAQ, 2016, PESQUI BRAS ODONTOPE, V16, P339, DOI 10.4034/PBOCI.2016.161.36
+   Redelmeier DA, 2010, PLOS MED, V7, DOI 10.1371/journal.pmed.1000369
+   Regidor Enrique, 2002, Rev. Esp. Salud Publica, V76, P105, DOI 10.1590/s1135-57272002000200004
+   Reichenheim ME, 2011, LANCET, V377, P1962, DOI 10.1016/S0140-6736(11)60053-6
+   Santamarina-Rubio E, 2009, INJURY PREV, V15, P87, DOI 10.1136/ip.2008.019679
+   Sousa RIM, 2016, PESQ BRAS ODONTOPED, V16, P313, DOI [10.4034/PBOCI.2016.161.33, DOI 10.4034/PB0CI.2016.161.33]
+NR 31
+TC 4
+Z9 4
+U1 0
+U2 0
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2017
+VL 17
+IS 1
+AR e3753
+DI 10.4034/PBOCI.2017.171.30
+PG 9
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA FD0KX
+UT WOS:000407229300024
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AFC
+   Fernandes, LHF
+   Cardoso, AMR
+   Santos, JSJ
+   Maia, EG
+   Cavalcanti, AL
+AF Cabral Cavalcanti, Alidianne Fabia
+   Freitas Fernandes, Liege Helena
+   Rodrigues Cardoso, Andreia Medeiros
+   Januario Santos, Juneise Sousa
+   Maia, Emilanir Gomes
+   Cavalcanti, Alessandro Leite
+TI Oral Health Status of Brazilian Workers of a Textile Industry
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Oral Health; Dental Caries; Occupational Health; Textile Industry
+ID DAILY PERFORMANCE; TREATMENT NEEDS; TOOTH LOSS; IMPACT
+AB Objective: To evaluate the oral health status of Brazilian workers of a textile industry. Material and Methods: A cross-sectional study including 489 individuals of both sexes was performed. Data on gender, age, schooling, frequency of dentist visits and caries experience (DMFT) were collected by a single trained and calibrated examiner. Data were organized using the Statistical Package for Social Sciences (SPSS) software and presented through descriptive and inferential statistics (Poisson Regression Analysis). The significance level was 5%. Results: There was predominance of female workers (57.7%) aged 30-39 years (44.6%) and with 9-11 years of schooling (79.7%). Almost all of them had visited the dentist at least once in their lifetime (99.6%), and 66.8% had done so in the last 12 months. The mean DMFT value was 11.14 (+/- 5.64), with higher participation of filled (6.21) and missing components (4.03). There was a statistically significant association between DMFT values (<= 11 and >= 12) and age group (p <0.001), as well as between schooling and number of missing (p <0.001) and decayed teeth (p < 0.001). Conclusion: The mean DMFT of Brazilian workers is high, with a tendency to increase the number of missing teeth as age increases. Schooling was associated with the number of missing and filled teeth.
+C1 [Cabral Cavalcanti, Alidianne Fabia; Freitas Fernandes, Liege Helena; Rodrigues Cardoso, Andreia Medeiros] State Univ Paraiba, Sch Dent, Campina Grande, PB, Brazil.
+   [Januario Santos, Juneise Sousa] State Univ Paraiba, Araruna, PB, Brazil.
+   [Maia, Emilanir Gomes] Social Serv Ind, Campina Grande, PB, Brazil.
+   [Cavalcanti, Alessandro Leite] State Univ Paraiba, Publ Hlth Program, Campina Grande, PB, Brazil.
+RP Cavalcanti, AFC (corresponding author), Univ Estadual Paraiba, Curso Odontol, Campus 8,Ave Cel Pedro Targino,S-N Ctr, BR-58233000 Araruna, PB, Brazil.
+EM alidianne.fabia@gmail.com
+RI Cardoso, Andreia Medeiros R/D-3443-2018; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cardoso, Andreia Medeiros R/0000-0002-2682-1048; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332
+CR Abbas I, 2016, J CLIN DIAGN RES, V10, pZC28, DOI 10.7860/JCDR/2016/15777.7059
+   Simpriano DCAB, 2015, PESQUI BRAS ODONTOPE, V15, P345, DOI 10.4034/PBOCI.2015.151.37
+   [Anonymous], 1997, ORAL HLTH SURVEYS BA
+   Baldani MH, 2011, PESQUI BRAS ODONTOPE, V11, P91, DOI 10.4034/PBOCI.2011.111.14
+   Batista MJ, 2014, BRAZ ORAL RES, V28, P260, DOI 10.1590/1807-3107BOR-2014.vol28.0040
+   Brasil. Ministerio da Saude, 2012, SB BRAS 2010
+   Guerra MJC, 2014, CIENC SAUDE COLETIVA, V19, P4777, DOI 10.1590/1413-812320141912.21352013
+   Mendonca BDC, 2010, CIENC SAUDE COLETIVA, V15, P775, DOI 10.1590/S1413-81232010000300020
+   Cheachire LA, 2013, PESQUI BRAS ODONTOPE, V13, P101, DOI 10.4034/PBOCI.2013.131.15
+   de Lacerda JT, 2011, CIENC SAUDE COLETIVA, V16, P4275, DOI 10.1590/S1413-81232011001100033
+   de Medeiros JJ, 2012, PESQUI BRAS ODONTOPE, V12, P573, DOI 10.4034/PBOCI.2012.124.20
+   Gambhir Ramandeep S, 2013, J Nat Sci Biol Med, V4, P451, DOI 10.4103/0976-9668.117010
+   Gomes AS, 2007, CAD SAUDE PUBLICA, V23, P1707, DOI 10.1590/S0102-311X2007000700023
+   da Silveira JLGC, 2016, PESQUI BRAS ODONTOPE, V16, P91, DOI 10.4034/PBOCI.2016.161.10
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2016, CID JOAO PESS
+   Miotto MHMD, 2013, CIENC SAUDE COLETIVA, V18, P3183
+   Montero J, 2011, MED ORAL PATOL ORAL, V16, pC966, DOI 10.4317/medoral.17270
+   Patil VV, 2012, J ORAL SCI, V54, P285
+   Sanadhya S, 2013, J CLIN DIAGN RES, V7, P1782, DOI 10.7860/JCDR/2013/5887.3275
+   Singh Mala, 2015, J Int Oral Health, V7, P57
+   Solanki J, 2014, SAF HEALTH WORK, V5, P136, DOI 10.1016/j.shaw.2014.05.003
+   Souza HM, 2015, CAMPO TERRITORIO REV, V10, P468
+   Rocha EKTG, 2016, PESQUI BRAS ODONTOPE, V16, P69, DOI 10.4034/PBOCI.2016.161.08
+NR 23
+TC 3
+Z9 3
+U1 0
+U2 1
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2017
+VL 17
+IS 1
+AR e3454
+DI 10.4034/PBOCI.2017.171.03
+PG 8
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA EO2LC
+UT WOS:000396527000008
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU dos Santos, FG
+   Aguiar, YPC
+   Cavalcanti, AFC
+   Fernandes, LHF
+   Macedo, RF
+   de Sousa, DP
+   Cavalcanti, AL
+AF dos Santos, Fabio Gomes
+   Costa Aguiar, Yeska Paola
+   Cabral Cavalcanti, Alidianne Fabia
+   Freitas Fernandes, Liege Helena
+   Macedo, Rodrigo Feliciano
+   de Sousa, Douglas Pereira
+   Cavalcanti, Alessandro Leite
+TI Assessment of Oral Hygiene Level and Periodontal Condition in Brazilian
+   Adolescents
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Periodontal Diseases; Oral Hygiene; Adolescent
+ID GLOBAL BURDEN; HEALTH; DISEASE; INTEGRATION; POPULATION; PREVENTION;
+   PREVALENCE; CHILDREN; IMPACT; PLAQUE
+AB Objective: To evaluate the oral hygiene level and periodontal condition of adolescents aged 15-19 years and socioeconomic factors. Material and Methods: Cross-sectional study with 630 adolescents from public schools randomly selected in the city of Campina Grande, Brazil. For data collection, a form containing socioeconomic variables and those related to oral hygiene was used. The oral hygiene level was measured through the Simplified Oral Hygiene Index (OHI-S) and periodontal condition was evaluated by the Community Periodontal Index (CPI). Data were descriptively and inferentially analyzed using the chi-square test, adopting significance level of 5%. Results: Adolescents were mostly females (59.5%), aged 16 years (32.4%), non-white (77.8%), with family income lower than US $ 612.00 (55.1%), with parental schooling of up to high school (50%). Periodontal condition showed no significant association with any of the socioeconomic factors (p> 0.05). All participants reported using toothbrush; however, the control of interproximal plaque with flossing was reported by only 44.1%, being higher among females (p = 0.028), and its use has been associated with periodontal status (p = 0.026). The oral hygiene level was satisfactory for 59.7% of adolescents, while CPI showed that only 1.6% of them had healthy periodontium and gingival bleeding (34.4%) and presence of dental calculus (37, 8%) were the most prevalent alterations. Conclusion: Adolescents showed satisfactory oral hygiene condition; however, there was a high prevalence of gingival bleeding and dental calculus. Periodontal condition was associated with flossing; however, association with socioeconomic factors was not observed.
+C1 [dos Santos, Fabio Gomes] State Univ Paraiba, Dent, Campina Grande, PB, Brazil.
+   [Costa Aguiar, Yeska Paola; Cabral Cavalcanti, Alidianne Fabia; Freitas Fernandes, Liege Helena] State Univ Paraiba, Postgrad Program Dent, Campina Grande, PB, Brazil.
+   [Macedo, Rodrigo Feliciano; de Sousa, Douglas Pereira; Cavalcanti, Alessandro Leite] State Univ Paraiba, Campina Grande, PB, Brazil.
+RP dos Santos, FG (corresponding author), Rua Valdemar Chianca 380,Apto 401, BR-58037255 Joao Pessoa, Paraiba, Brazil.
+EM fabiogomes_ca@outlook.com
+RI Cavalcanti, Alessandro/A-2828-2010; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cavalcanti, Alessandro/0000-0003-3572-3332; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332
+FU Coordination of Improvement of Higher Education Personnel (CAPES)CAPES;
+   National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [474062/2012-0]; CNPqNational Council for Scientific and
+   Technological Development (CNPq) [307014/2013-4]
+FX The authors would like to thank all the adolescents who participated in
+   the study, school principals, and local authorities. Acknowledgments are
+   also due to undergraduates who assisted in data collection and the
+   Coordination of Improvement of Higher Education Personnel (CAPES) for
+   the scholarship granted. This study was supported by the National
+   Council for Scientific and Technological Development (CNPq) [Proc. No.
+   474062/2012-0]. AL Cavalcanti thanks CNPq for a research productivity
+   fellowship [Proc. No. 307014/2013-4).
+CR [Anonymous], 1997, ORAL HLTH SURVEYS BA
+   Berchier C E, 2008, Int J Dent Hyg, V6, P265, DOI 10.1111/j.1601-5037.2008.00336.x
+   Botero JE, 2015, PERIODONTOL 2000, V67, P34, DOI 10.1111/prd.12072
+   Neves PCB, 2015, PESQUI BRAS ODONTOPE, V15, P183, DOI 10.4034/PBOCI.2015.151.20
+   Campus G, 2009, ORAL HLTH PREV DENT, V7, P323
+   Claydon NC, 2008, PERIODONTOL 2000, V48, P10, DOI 10.1111/j.1600-0757.2008.00273.x
+   Clerehugh V, 2008, BRIT DENT J, V204, P469, DOI 10.1038/sj.bdj.2008.301
+   Crocombe LA, 2012, J PERIODONTAL RES, V47, P188, DOI 10.1111/j.1600-0765.2011.01420.x
+   Kozmhinsky VMD, 2016, PESQUI BRAS ODONTOPE, V16, P35, DOI 10.4034/PBOCI.2016.161.04
+   Emerich TB, 2015, PESQUI BRAS ODONTOPE, V15, P253, DOI 10.4034/PBOCI.2015.151.27
+   GREENE JC, 1963, AM J PUBLIC HEALTH N, V53, P913, DOI 10.2105/AJPH.53.6.913
+   Haas AN, 2014, J CLIN PERIODONTOL, V41, P215, DOI 10.1111/jcpe.12213
+   Khalifa N, 2012, BMC ORAL HEALTH, V12, DOI 10.1186/1472-6831-12-5
+   Kolawole KA, 2011, INT J DENT HYG, V9, P143, DOI 10.1111/j.1601-5037.2010.00466.x
+   Kumar S, 2008, ORAL HLTH PREV DENT, V6, P217
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Merchant SN, 2014, J PERIODONTOL, V85, P1722, DOI 10.1902/jop.2014.140171
+   Ministerio da Saude (BR), 2011, PESQ NAC SAUD BUC RE
+   Peres MA, 2012, J PERIODONTOL, V83, P369, DOI 10.1902/jop.2011.110250
+   Petersen PE, 2010, COMMUNITY DENT HLTH, V27, P129, DOI 10.1922/CDH_2643Petersen08
+   Petersen PE, 2005, B WORLD HEALTH ORGAN, V83, P661
+   Petersen PE, 2012, PERIODONTOL 2000, V60, P15, DOI 10.1111/j.1600-0757.2011.00425.x
+   Rode Sigmar de Mello, 2012, Braz. oral res., V26, P133, DOI 10.1590/S1806-83242012000700020
+   Vadiakas G, 2012, EUR ARCH PAEDIATR DE, V13, P11, DOI 10.1007/BF03262835
+   van der Weijden F, 2011, PERIODONTOL 2000, V55, P104, DOI 10.1111/j.1600-0757.2009.00337.x
+   Vano M, 2015, INT J DENT HYG, V13, P151, DOI 10.1111/idh.12098
+   Vargas-Ferreira F, 2011, J PUBLIC HEALTH DENT, V71, P6, DOI 10.1111/j.1752-7325.2010.00194.x
+NR 27
+TC 4
+Z9 4
+U1 0
+U2 1
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2016
+VL 16
+IS 1
+BP 207
+EP 217
+DI 10.4034/PBOCI.2016.161.22
+PG 11
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA DV4AD
+UT WOS:000382866300016
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Souto, RQ
+   Araujo, FKCD
+   Xavier, AFC
+   Cavalcanti, AL
+AF Souto, Rafaella Q.
+   Araujo, Francisco K. C. D.
+   Xavier, Alidianne F. C.
+   Cavalcanti, Alessandro L.
+TI Rape against Brazilian Women: Characteristics of Victims and Sex
+   Offenders
+SO IRANIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Sex offenses; Rape; Domestic violence; Brazil
+AB Background: Violence against women is a serious social problem and affects mainly young women. This study aimed to evaluate sexual violence against women in Campina Grande, Brazil.
+   Methods: A retrospective study with analysis of 886 forensic medical reports of sexual violence from the Institute of Legal Medicine of Campina Grande, Brazil, was conducted between January 2005 and December 2009. Sociodemo-graphic variables related to victims, offenders and aggressions were analyzed. Significance level of 5% was adopted.
+   Results: Two hundred and ninety-one cases of rape (32.8%) were confirmed, the majority of victims aged between 0 and 19 years (89.9%), were single (98.8%) and had low educational level (86.9%), with association with marital status (P = 0.02). The sex offender was known to the victim in 84.2% of cases and in 93.8% of cases, he acted alone. There was an association between rape and the relationship with the offenders (P = 0.01) and the age of the offenders (P = 0.03). The rape occurred in most cases at the home of victims (49.3%), with the use of violence in 72.3% of cases, but only 5.7% of the victims exhibited physical injuries. There was an association between rape and variables date of occurrence (P = 0.001), previous virginity (P = 0.001) and violence during practice (P = 0.001).
+   Conclusion: Over one third of women were victims of rape, predominantly adolescents, unmarried and with low educational level. The offenders were known to the victims, and acted alone in most situations, making use of physical violence.
+C1 [Souto, Rafaella Q.] Univ Sao Paulo, Sch Nursing, Sao Paulo, Brazil.
+   [Araujo, Francisco K. C. D.; Xavier, Alidianne F. C.; Cavalcanti, Alessandro L.] State Univ Paraiba, Dept Publ Hlth, Campina Grande, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Dept Publ Hlth, Campina Grande, Brazil.
+EM dralessandro@ibest.com.br
+RI Cavalcanti, Alessandro Leite/I-4286-2019; Souto, Rafaella
+   Queiroga/I-3716-2012
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; Souto, Rafaella
+   Queiroga/0000-0002-7368-8497
+CR Avegno J, 2009, J EMERG MED, V37, P328, DOI 10.1016/j.jemermed.2007.10.025
+   Blake MD, 2014, BMC WOMENS HEALTH, V14, DOI 10.1186/1472-6874-14-15
+   Facuri CD, 2013, CAD SAUDE PUBLICA, V29, P889
+   Irwin CE, 2005, J ADOLESCENT HEALTH, V36, P359, DOI 10.1016/j.jadohealth.2005.03.001
+   Jewkes R, 2009, PLOS MED, V6, DOI 10.1371/journal.pmed.1000164
+   Krug EG, 2002, WORLD REPORT VIOLENC
+   Malcoe LH, 2004, BMC MED, V2, DOI 10.1186/1741-7015-2-20
+   McCall-Hosenfeld JS, 2009, PREV MED, V48, P593, DOI 10.1016/j.ypmed.2009.03.016
+   Oliveira PM, 2006, SEMINA, V27, P3
+   Oshikata Carlos Tadayuki, 2005, Cad. Saúde Pública, V21, P192, DOI 10.1590/S0102-311X2005000100021
+   Reis Jair Naves dos, 2004, Cad. Saúde Pública, V20, P465, DOI 10.1590/S0102-311X2004000200014
+   Santos Samara Silva dos, 2008, Estud. psicol. (Campinas), V25, P595, DOI 10.1590/S0103-166X2008000400014
+   Shanks L, 2000, CAN MED ASSOC J, V163, P1152
+   Silva Iracema Viterbo, 2003, Cad. Saúde Pública, V19, pS263, DOI 10.1590/S0102-311X2003000800008
+   Sommers MS, 2008, AM J EMERG MED, V26, P857, DOI 10.1016/j.ajem.2007.11.025
+   Vickerman KA, 2009, CLIN PSYCHOL REV, V29, P431, DOI 10.1016/j.cpr.2009.04.004
+   Villela WV, 2007, CAD SAUDE PUBLICA, V23, P471, DOI 10.1590/S0102-311X2007000200025
+NR 17
+TC 2
+Z9 3
+U1 0
+U2 12
+PU IRANIAN SCIENTIFIC SOCIETY MEDICAL ENTOMOLOGY
+PI TEHRAN
+PA SCHOOL PUBLIC HEALTH & INST HEALTH RESEARCH, TEHRAN UNIV MEDICAL
+   SCIENCES, P O BOX  6446-14155, TEHRAN, 00000, IRAN
+SN 2251-6085
+EI 2251-6093
+J9 IRAN J PUBLIC HEALTH
+JI Iran J. Public Health
+PD DEC
+PY 2015
+VL 44
+IS 12
+BP 1613
+EP 1619
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA CZ8LM
+UT WOS:000367351200005
+PM 26811812
+DA 2020-12-08
+ER
+
+PT J
+AU Xavier, AFC
+   de Abreu, MHNG
+   de Melo, JBDA
+   Anselmo, GCS
+   Cavalcanti, AL
+AF Cabral Xavier, Alidianne Fabia
+   Nogueira Guimaraes de Abreu, Mauro Henrique
+   da Costa Agra de Melo, Joao Baptista
+   Santos Anselmo, George Carlos
+   Cavalcanti, Alessandro Leite
+TI Changes in Microhardness and Morphology of the Adamantine Structure as a
+   Function of the Exposure Time to Different Drugs
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Dental Enamel; Tooth; Hardness Tests; Pharmaceutical Preparations
+ID IN-VITRO; ENAMEL; EROSION; MODELS; TEETH; PH
+AB Objective: To investigate the in vitro effect of four pediatric liquid medicines on the microhardness and morphology of the enamel of permanent teeth after different exposure times. Material and Methods: Claritin, Celestone, Amplictil and Vick syrup honey flavor were tested. Seventy tooth fragments were obtained, 50 embedded in acrylic resin and submitted to Knoop Hardness test (50 gf, 15 s, and 5 indentations) before and after immersion in drugs. The specimens were randomly divided into five groups (n = 10), four experimental and one control group (distilled water). The immersion cycle consisted of a single exposure in times of 5 and 15 minutes. Other 20 dental specimens were divided between groups and analyzed by Scanning Electron Microscopy. The level of statistical significance was set at 5% with a confidence interval of 95%. Results: The microhardness analysis showed no statistically significant difference between experimental groups (p > 0.05), although there was statistically significant difference within each group at different times (p < 0.05). The SEM micrographs showed distinct changes in the enamel morphology. Conclusion: The decreased in microhardness was dependent on the time of the immersion cycle and morphological changes were influenced by the type of drug and by the exposure time.
+C1 [Cabral Xavier, Alidianne Fabia; Cavalcanti, Alessandro Leite] State Univ Paraiba, Sch Dent, Dept Prevent Dent, Campina Grande, PB, Brazil.
+   [Nogueira Guimaraes de Abreu, Mauro Henrique] Univ Fed Minas Gerais, Sch Dent, Dept Community & Prevent Dent, Belo Horizonte, MG, Brazil.
+   [da Costa Agra de Melo, Joao Baptista; Santos Anselmo, George Carlos] Univ Fed Campina Grande, Dept Mech Engn, Campina Grande, PB, Brazil.
+RP Xavier, AFC (corresponding author), Univ Estadual Paraiba, CCTS, Curso Odontol, Av Coronel Pedro Targino, BR-58233000 Araruna, PB, Brazil.
+EM alidianne.fabia@gmail.com
+RI Abreu, Mauro Henrique/G-6502-2012; Cavalcanti, Alessandro
+   Leite/I-4286-2019; Cavalcanti, Alessandro/A-2828-2010
+OI Abreu, Mauro Henrique/0000-0001-8794-5725; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332; Cavalcanti, Alessandro/0000-0003-3572-3332
+CR Babu KLG, 2008, J CLIN PEDIATR DENT, V32, P189
+   Babu KLG, 2008, J CLIN PEDIATR DENT, V33, P137, DOI 10.17796/jcpd.33.2.q5280t3744827v0h
+   Barbour ME, 2011, CARIES RES, V45, P24, DOI 10.1159/000325917
+   CAVALCANTI AL, 2012, TANZ J HLTH RES, V14, P1
+   Cavalcanti AL, 2008, ACTA STOMATOL CROAT, V42, P164
+   Cheng ZJ, 2009, BIOMED MATER, V4, DOI 10.1088/1748-6041/4/1/015020
+   Costa CC, 2006, INT J PAEDIATR DENT, V16, P174, DOI 10.1111/j.1365-263X.2006.00713.x
+   da Costa Covolo Carolina, 2006, Gen Dent, V54, P21
+   Field J, 2010, J DENT, V38, P182, DOI 10.1016/j.jdent.2010.01.002
+   Johansson A. K., 2012, INT J DENT, V2012, P1
+   Lussi A, 2011, CARIES RES, V45, P2, DOI 10.1159/000325915
+   Lussi A, 2014, MONOGR ORAL SCI, V25, P1, DOI 10.1159/000360380
+   Mali Gaurao Vasant, 2015, J Indian Soc Pedod Prev Dent, V33, P331, DOI 10.4103/0970-4388.165707
+   Meredith N, 1996, ARCH ORAL BIOL, V41, P539, DOI 10.1016/0003-9969(96)00020-9
+   Nankar Meenakshi, 2014, J Contemp Dent Pract, V15, P20
+   Pierro VSS, 2010, BRAZ J ORAL SCI, V9, P20
+   Ranjitkar S, 2012, INT J DENT, V17, P1
+   Salas MMS, 2015, J DENT, V43, P42, DOI 10.1016/j.jdent.2014.10.012
+   Scatena Camila, 2014, Braz. Dent. J., V25, P22, DOI 10.1590/0103-6440201302344
+   Schlueter N, 2011, CARIES RES, V45, P13, DOI 10.1159/000326819
+   Shellis RP, 2011, CARIES RES, V45, P69, DOI 10.1159/000325971
+   SILVERSTONE LM, 1975, CARIES RES, V9, P373, DOI 10.1159/000260179
+   Soares DN, 2013, ACTA ODONTOL SCAND, V71, P1136, DOI 10.3109/00016357.2012.750013
+   Valinoti AC, 2011, INT J PAEDIATR DENT, V21, P141, DOI 10.1111/j.1365-263X.2010.01104.x
+   West NX, 2011, CARIES RES, V45, P43, DOI 10.1159/000325945
+   Wiegand A, 2011, CARIES RES, V45, P53, DOI 10.1159/000325946
+   Xavier AFC, 2013, BMC ORAL HEALTH, V13, DOI 10.1186/1472-6831-13-71
+   Young A, 2011, CARIES RES, V45, P33, DOI 10.1159/000325943
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2015
+VL 15
+IS 1
+BP 279
+EP 289
+DI 10.4034/PBOCI.2015.151.30
+PG 11
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA DK8DE
+UT WOS:000375156600012
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   dos Santos, JA
+   Xavier, AFC
+   Temoteo, LM
+   de Paiva, SM
+AF Cavalcanti, Alessandro Leite
+   dos Santos, Jalber Almeida
+   Cabral Xavier, Alidianne Fabia
+   Temoteo, Lorenna Mendes
+   de Paiva, Saul Martins
+TI Head and Face Injuries in Brazilian Schoolchildren Victims of Physical
+   Bullying: A Population-Based Study
+SO PESQUISA BRASILEIRA EM ODONTOPEDIATRIA E CLINICA INTEGRADA
+LA English
+DT Article
+DE Bullying; Violence; Aggression; Maxillofacial Injuries
+ID MAXILLOFACIAL INJURIES; INTERPERSONAL VIOLENCE; CHILDREN; TRAUMA;
+   ADOLESCENTS; PREVALENCE; BEHAVIORS; EMERGENCY; CITY
+AB Objective: To investigate the occurrence of head and face injuries in Brazilian schoolchildren victims of physical bullying. Material and Methods: A population-based study was conducted on a stratified sample of 525 adolescents aged 13 to 17 years of both sexes. Data on sex, age, occurrence of physical bullying, form of aggression, affected body region and presence of oral lesions were collected. Two questionnaires were used: one on bullying model TMR (Training and Mobility of Researchers) and another to record injuries in the maxillofacial region. The bivariate analysis used the Chi - square and Fisher's exact tests, with significance level of 5 %. Results: Among victims of bullying, 19.4 % were victims of physical bullying, more often among males (63.6 %). Face injuries were reported by 36.4 % of students, and involvement of the oral cavity reported by four individuals with lesions located in soft tissues. There was no association between sex of the victim and affected body region and between sex and form of aggression (p > 0.05). Head injuries were more frequent among boys (42.9 %), while face injuries were more frequent among girls (37.5 %). There was association between age of victims and the presence of injuries in the neck region (p = 0.04). Conclusion: The occurrence of physical bullying was more common among boys and face was the most affected body region. Injuries in the oral cavity involved soft tissues, especially lips, and no face and dental fractures were found.
+C1 [Cavalcanti, Alessandro Leite; Cabral Xavier, Alidianne Fabia; Temoteo, Lorenna Mendes] State Univ Paraiba, Fac Dent, Dept Dent, Campina Grande, PB, Brazil.
+   [dos Santos, Jalber Almeida] Integrated Fac Patos, Fac Dent, Patos de Minas, PB, Brazil.
+   [de Paiva, Saul Martins] Univ Fed Minas Gerais, Fac Dent, Dept Pediat Dent & Orthodont, Belo Horizonte, MG, Brazil.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Dept Odontol, Rua Baraunas 351, BR-58429500 Campina Grande, PB, Brazil.
+EM dralessandro@ibest.com.br
+RI Cavalcanti, Alessandro/A-2828-2010; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cavalcanti, Alessandro/0000-0003-3572-3332; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332
+CR Al-Bitar ZB, 2013, AM J ORTHOD DENTOFAC, V144, P872, DOI 10.1016/j.ajodo.2013.08.016
+   Cairns A M, 2005, Int J Paediatr Dent, V15, P310, DOI 10.1111/j.1365-263X.2005.00661.x
+   Caldas IM, 2010, DENT TRAUMATOL, V26, P484, DOI 10.1111/j.1600-9657.2010.00936.x
+   Cavalcanti AL, 2008, EUR ARCH PAEDIATR DE, V9, P102, DOI 10.1007/BF03262619
+   Cavalcanti AL, 2009, PESQUI BRAS ODONTOPE, V9, P339, DOI 10.4034/1519.0501.2009.0093.0015
+   Cavalcanti AL, 2010, DENT TRAUMATOL, V26, P149, DOI 10.1111/j.1600-9657.2009.00859.x
+   Cavalcanti AL, 2009, CIENC SAUDE COLETIVA, V14, P1835, DOI 10.1590/S1413-81232009000500025
+   de Moura DR, 2011, J PEDIAT-BRAZIL, V87, P19, DOI 10.2223/JPED.2042
+   Due P, 2005, EUR J PUBLIC HEALTH, V15, P128, DOI 10.1093/eurpub/cki105
+   Dussich JPJ, 2007, INT J OFFENDER THER, V51, P495, DOI 10.1177/0306624X06298463
+   Continente XG, 2010, GAC SANIT, V24, P103, DOI 10.1016/j.gaceta.2009.09.017
+   Hoppe IC, 2015, J CRANIOFAC SURG, V26, P1446, DOI 10.1097/SCS.0000000000001822
+   Silva MAI, 2013, INT J ENV RES PUB HE, V10, P6820, DOI 10.3390/ijerph10126820
+   Kepenekci YK, 2006, CHILD ABUSE NEGLECT, V30, P193, DOI 10.1016/j.chiabu.2005.10.005
+   Liang HL, 2007, CHILD ABUSE NEGLECT, V31, P161, DOI 10.1016/j.chiabu.2006.08.007
+   Lim LHY, 2004, OTOLARYNG HEAD NECK, V130, P255, DOI 10.1016/j.otohns.2003.11.010
+   Malta DC, 2010, CIENC SAUDE COLETIVA, V15, P3053, DOI 10.1590/S1413-81232010000800010
+   Malta DC, 2010, CIENC SAUDE COLETIVA, V15, P3065, DOI 10.1590/S1413-81232010000800011
+   Mutto M, 2010, INJURY PREV, V16, P333, DOI 10.1136/ip.2008.020495
+   Nansel TR, 2004, ARCH PEDIAT ADOL MED, V158, P730, DOI 10.1001/archpedi.158.8.730
+   Olweus Dan, 1993, BULLYING SCH WHAT WE
+   Ortega R, 1999, 4 M TMR PROJ NAT PRE
+   Perren Sonja, 2010, Child Adolesc Psychiatry Ment Health, V4, P28, DOI 10.1186/1753-2000-4-28
+   Rahman RA, 2007, INT J PEDIATR OTORHI, V71, P929, DOI 10.1016/j.ijporl.2007.03.003
+   Leles JLR, 2010, J APPL ORAL SCI, V18, P23, DOI 10.1590/S1678-77572010000100006
+   de Oliveira TBS, 2014, IRAN J PUBLIC HEALTH, V43, P1184
+   Silva CJ, 2015, PLOS ONE, V14
+   Undheim AM, 2010, EUR CHILD ADOLES PSY, V19, P803, DOI 10.1007/s00787-010-0131-7
+   Wang J, 2010, J PEDIATR PSYCHOL, V35, P1103, DOI 10.1093/jpepsy/jsq048
+   Wang J, 2009, J ADOLESCENT HEALTH, V45, P368, DOI 10.1016/j.jadohealth.2009.03.021
+NR 30
+TC 3
+Z9 4
+U1 0
+U2 1
+PU ASSOC APOIO PESQUISA & SAUDE BUCAL-APESB
+PI JOAO PESSOA
+PA AGENCIA CIDADE UNIV, UNIV FEDERAL PARAIBA, CAMPUS I, JOAO PESSOA, PB
+   58051-970, BRAZIL
+SN 1519-0501
+EI 1983-4632
+J9 PESQUI BRAS ODONTOPE
+JI Pesqui. Bras. Odontopediatria Clin. Integr.
+PY 2015
+VL 15
+IS 1
+BP 451
+EP 459
+DI 10.4034/PBOCI.2015.151.47
+PG 9
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA DK8DE
+UT WOS:000375156600029
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   Rodrigues, ISA
+   Silveira, ITD
+   de Oliveira, TBS
+   Pinto, MSD
+   Xavier, AFC
+   de Castro, RD
+   Padilha, WWN
+AF Cavalcanti, Alessandro Leite
+   Araujo Rodrigues, Iris Sant' Anna
+   de Melo Silveira, Ingrid Thays
+   Sarmento de Oliveira, Thaliny Batista
+   de Almeida Pinto, Magaly Suenya
+   Cabral Xavier, Alidianne Fabia
+   de Castro, Ricardo Dias
+   Nascimento Padilha, Wilton Wilney
+TI Dental Caries Experience and Use of Dental Services among Brazilian
+   Prisoners
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE dental caries; tooth loss; prisons; prisoners
+ID ORAL-HEALTH STATUS; POPULATION; INMATES
+AB This ross-sectional study involving 127 male prisoners evaluates the use of dental services and dental caries among Brazilian inmates. Data were collected by interview and clinical examination. Sociodemographic and sentencing information as well as use of dental services, self-reported dental morbidity, self-perception, and oral health impacts were investigated. The mean DMFT index value was 19.72. Of the components, the decayed component showed the highest mean value (11.06 +/- 5.37). Statistically significant association was found between DMFTs with values from 22 to 32 and oral health satisfaction (p = 0.002), difficulty speaking (p = 0.024), shame of talking (p = 0.004) and smiling (p < 0.001). Regarding the use of dental services, 80% had their last dental appointment less than one year ago, with most visits occurring in prison (80%), with restorative treatment (32%), followed by dental pain (26.4%), being the main reasons for such appointments. Most prisoners used dental services provided by the prison. Although restorative treatment has been the main reason for the use of dental services, "decayed" and "missing" components contributed to the high mean DMFT index.
+C1 [Cavalcanti, Alessandro Leite; Araujo Rodrigues, Iris Sant' Anna; Sarmento de Oliveira, Thaliny Batista; de Almeida Pinto, Magaly Suenya; Nascimento Padilha, Wilton Wilney] State Univ Paraiba, Post Grad Program Publ Hlth, BR-58429500 Campina Grande, PB, Brazil.
+   [de Melo Silveira, Ingrid Thays; Cabral Xavier, Alidianne Fabia; de Castro, Ricardo Dias] State Univ Paraiba, Dept Dent, BR-58429500 Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Post Grad Program Publ Hlth, BR-58429500 Campina Grande, PB, Brazil.
+EM dralessandro@ibest.com.br; iris.odontosp@gmail.com;
+   ingridthays_melo@hotmail.com; thalinysarmento@yahoo.com.br;
+   maga.enf@hotmail.com; alidianne.fabia@gmail.com;
+   ricardodiasdecastro@yahoo.com.br; wiltonpadilha@yahoo.com.br
+RI Cavalcanti, Alessandro Leite/I-4286-2019; Cavalcanti,
+   Alessandro/A-2828-2010
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; Cavalcanti,
+   Alessandro/0000-0003-3572-3332
+CR Rodrigues ISAA, 2014, SCI WORLD J, DOI 10.1155/2014/587469
+   Armani Thiago Eugênio, 2010, Ensaio: aval.pol.públ.Educ., V18, P253, DOI 10.1590/S0104-40362010000200005
+   Brasil Ministerio da Saude, 2009, PESQ NACL SAUD BUC 2
+   Brasil Ministerio da Saude, 2010, LEG SAUD SIST PENT
+   Brasil Ministerio da Saude, 2011, PROJ SB BRAS 2010 RE
+   Carvalho Márcia Lazaro de, 2006, Ciênc. saúde coletiva, V11, P461, DOI 10.1590/S1413-81232006000200023
+   Carvalho ML, 2010, BMC HEALTH SERV RES, V10, DOI 10.1186/1472-6963-10-203
+   Catalan-Soares B C, 2000, Rev Soc Bras Med Trop, V33, P27, DOI 10.1590/S0037-86822000000100004
+   Cropsey K. L., 2006, Journal of Correctional Health Care, V12, P240, DOI 10.1177/1078345806294211
+   de Oliveira HB, 2004, REV PANAM SALUD PUBL, V15, P194, DOI 10.1590/S1020-49892004000300008
+   Diouf M, 2010, Odontostomatol Trop, V33, P5
+   Gois SM, 2012, CIENC SAUDE COLETIVA, V17, P1235, DOI 10.1590/S1413-81232012000500017
+   HEIDARI E, 2007, BR DENT J, V202, P1
+   Lunn Howard, 2003, Dent Update, V30, P135
+   McGrath Colman, 2002, Gerodontology, V19, P109, DOI 10.1111/j.1741-2358.2002.00109.x
+   Naidoo Sudeshni, 2005, SADJ, V60, P24
+   Nobile CGA, 2007, INT DENT J, V57, P27
+   Nogueira Péricles Alves, 2009, Rev. bras. epidemiol., V12, P30, DOI 10.1590/S1415-790X2009000100004
+   Osborn M, 2003, AUST DENT J, V48, P34, DOI 10.1111/j.1834-7819.2003.tb00006.x
+   Pinto RD, 2012, CIENC SAUDE COLETIVA, V17, P531, DOI 10.1590/S1413-81232012000200026
+   Reddy V, 2012, INT DENT J, V62, P27, DOI 10.1111/j.1875-595X.2011.00082.x
+   Sanchez AR, 2010, CAD SAUDE PUBLICA, V26, P851, DOI 10.1590/S0102-311X2010000500001
+   Walsh T, 2008, BRIT DENT J, V204, P683, DOI 10.1038/sj.bdj.2008.525
+   World Health Organization (WHO), 2007, HLTH PRIS WHO GUID E
+NR 24
+TC 3
+Z9 5
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD DEC
+PY 2014
+VL 11
+IS 12
+BP 12118
+EP 12128
+DI 10.3390/ijerph111212118
+PG 11
+WC Environmental Sciences; Public, Environmental & Occupational Health
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA AX2TJ
+UT WOS:000346797100003
+PM 25429680
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Rodrigues, ISAA
+   Silveira, ITD
+   Pinto, MSD
+   Xavier, AFC
+   de Oliveira, TBS
+   de Paiva, SM
+   de Castro, RD
+   Cavalcanti, AL
+AF Anna Arajo Rodrigues, Iris Sant'
+   de Melo Silveira, Ingrid Thays
+   de Almeida Pinto, Magaly Suenya
+   Cabral Xavier, Alidianne Fabia
+   Sarmento de Oliveira, Thaliny Batista
+   de Paiva, Saul Martins
+   de Castro, Ricardo Dias
+   Cavalcanti, Alessandro Leite
+TI Locked Mouths: Tooth Loss in a Women's Prison in Northeastern Brazil
+SO SCIENTIFIC WORLD JOURNAL
+LA English
+DT Article
+ID ORAL-HEALTH STATUS; INMATES
+AB Background. Prisoners, in general, exhibit unsatisfactory oral conditions, especially with regard to the large number of missing teeth and with untreated caries. The aim of this study was to assess tooth loss, use of and need for prosthetic rehabilitation, and use of dental services among inmates. A cross-sectional study involving 65 inmates was developed at the Regional Women's Prison of Campina Grande, Brazil. Data regarding sociodemographic and sentencing profile, use of dental services, dental morbidity, and self-perceived oral health impacts were investigated. Chi-square, Pearson, and Kruskal-Wallis (P < 0.05) statistical tests were used. The mean tooth loss was 11.3 teeth. Significant association between tooth loss and oral health satisfaction (P = 0.049), self-perceived need for dental prosthesis (P < 0.001), uncomfortable teeth brushing (P = 0.005), difficult speaking (P = 0.002), and difficulty in performing routine tasks (P = 0.025) was observed. It was observed that 29.2% of inmates were using some type of prosthesis, all deemed unsuitable for use, and 78.5% of inmates needed prosthetic rehabilitation. The oral health condition of the population studied was found to be poor, and prisoners showed significant tooth loss and need for dentures, with the aggravation of having tooth extraction as the major reason for seeking dental care.
+C1 [Anna Arajo Rodrigues, Iris Sant'; de Almeida Pinto, Magaly Suenya; Sarmento de Oliveira, Thaliny Batista; Cavalcanti, Alessandro Leite] State Univ Paraiba, Post Grad Program Publ Hlth, BR-58429500 Campina Grande, PB, Brazil.
+   [de Melo Silveira, Ingrid Thays; Cabral Xavier, Alidianne Fabia; de Castro, Ricardo Dias] State Univ Paraiba, Fac Dent, Dept Dent, BR-58429500 Campina Grande, PB, Brazil.
+   [de Paiva, Saul Martins; Cavalcanti, Alessandro Leite] Univ Fed Minas Gerais, Fac Dent, Dept Pediat Dent & Orthodont, BR-31270901 Belo Horizonte, MG, Brazil.
+   [de Castro, Ricardo Dias] Univ Fed Paraiba, Fac Dent, Dept Dent, BR-58051900 Joao Pessoa, Paraiba, Brazil.
+RP Cavalcanti, AL (corresponding author), State Univ Paraiba, Post Grad Program Publ Hlth, Ave Baraunas S-N, BR-58429500 Campina Grande, PB, Brazil.
+EM dralessandro@ibest.com.br
+RI Cavalcanti, Alessandro/A-2828-2010; Cavalcanti, Alessandro
+   Leite/I-4286-2019
+OI Cavalcanti, Alessandro/0000-0003-3572-3332; Cavalcanti, Alessandro
+   Leite/0000-0003-3572-3332
+CR Brasil. Ministerio da Justica. Departamento Penitenciario Nacional, SIST INT INF PEN INF
+   da Silva DD, 2009, CAD SAUDE PUBLICA, V25, P2407, DOI 10.1590/S0102-311X2009001100011
+   de Lacerda JT, 2004, REV SAUDE PUBL, V38, P453, DOI 10.1590/s0034-89102004000300017
+   Silva MEDE, 2010, CIENC SAUDE COLETIVA, V15, P841, DOI 10.1590/S1413-81232010000300027
+   Silva MEDE, 2010, CIENC SAUDE COLETIVA, V15, P813, DOI 10.1590/S1413-81232010000300024
+   Garita R., 2010, ODONTOLOGIA VITAL, V2, P14
+   Heidari E, 2007, BRIT DENT J, V202, DOI 10.1038/bdj.2007.32
+   Heng CK, 2002, J PUBLIC HEALTH DENT, V62, P57, DOI 10.1111/j.1752-7325.2002.tb03422.x
+   Ministerio da Justica (Brasil), 2011, DIR POL PEN
+   Ministerio da Saude (Brasil), 2011, SECR AT SAUD DEP AT
+   Ministerio da Saude (Brasil), 2009, SECR AT SAUD DEP AT
+   Moreira RD, 2011, CAD SAUDE PUBLICA, V27, P2041
+   Naidoo Sudeshni, 2005, SADJ, V60, P24
+   Osborn M, 2003, AUST DENT J, V48, P34, DOI 10.1111/j.1834-7819.2003.tb00006.x
+   Reddy V, 2012, INT DENT J, V62, P27, DOI 10.1111/j.1875-595X.2011.00082.x
+   Ringgenberg Wendy J, 2011, J Correct Health Care, V17, P150, DOI 10.1177/1078345810396462
+   World Health Organization (WHO), 2007, HLTH PRIS WHO GUID E
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 5
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1537-744X
+J9 SCI WORLD J
+JI Sci. World J.
+PY 2014
+AR 587469
+DI 10.1155/2014/587469
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AR3SE
+UT WOS:000343507700001
+PM 25121127
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Xavier, AFC
+   Moura, EFF
+   Azevedo, WF
+   Vieira, FF
+   Abreu, MHNG
+   Cavalcanti, AL
+AF Xavier, Alidianne Fabia C.
+   Moura, Eline F. F.
+   Azevedo, Waldeneide F.
+   Vieira, Fernando F.
+   Abreu, Mauro H. N. G.
+   Cavalcanti, Alessandro L.
+TI Erosive and cariogenicity potential of pediatric drugs: study of
+   physicochemical parameters
+SO BMC ORAL HEALTH
+LA English
+DT Article
+DE Dental caries; Drug evaluation; Hydrogen-ion concentration
+ID IN-VITRO; MEDICINES; CHILDREN; PH
+AB Background: Pediatric medications may possess a high erosive potential to dental tissues due to the existence of acid components in their formulations. The purpose was to determine the erosive and cariogenic potential of pediatric oral liquid medications through the analysis of their physicochemical properties in vitro.
+   Methods: A total of 59 substances were selected from the drug reference list of the National Health Surveillance Agency (ANVISA), which belong to 11 therapeutic classes, as follows: analgesics, non-steroidal anti-inflammatory, corticosteroids, antihistamines, antitussives, bronchodilators, antibacterials, antiparasitics, antiemetics, anticonvulsants and antipsychotics. Measurement of pH was performed by potentiometry, using a digital pH meter. For the Total Titratable Acidity (TTA) chemical assay, a 0.1 N NaOH standard solution was used, which was titrated until drug pH was neutralized. The Total Soluble Solids Contents (TSSC) quantification was carried out by refractometry using Brix scale and the analysis of Total Sugar Content was performed according to Fehling's method. In addition, it was analyzed the information contained in the drug inserts with regard to the presence of sucrose and type of acid and sweetener added to the formulations.
+   Results: All drug classes showed acidic pH, and the lowest mean was found for antipsychotics (2.61 +/- 0.08). There was a large variation in the TTA (0.1% - 1.18%) and SST (10.44% - 57.08%) values. High total sugar contents were identified in the antitussives (53.25%) and anticonvulsants (51.75%). As described in the drug inserts, sucrose was added in 47.5% of the formulations, as well as citric acid (39.0%), sodium saccharin (36.4%) and sorbitol (34.8%).
+   Conclusion: The drugs analyzed herein showed physicochemical characteristics indicative of a cariogenic and erosive potential on dental tissues. Competent bodies' strategies should be implemented in order to broaden the knowledge of health professionals, drug manufacturers and general consuming public about the risks from the consumption of medicines potentially harmful to dental tissues.
+C1 [Xavier, Alidianne Fabia C.; Moura, Eline F. F.; Cavalcanti, Alessandro L.] State Univ Paraiba, Sch Dent, Dept Prevent Dent, BR-58109970 Campina Grande, PB, Brazil.
+   [Azevedo, Waldeneide F.] State Univ Paraiba, Posgrad Programa Publ Hlth, BR-58109970 Campina Grande, PB, Brazil.
+   [Vieira, Fernando F.] State Univ Paraiba, Dept Sanit & Environm Engn, BR-58109970 Campina Grande, PB, Brazil.
+   [Abreu, Mauro H. N. G.] Univ Fed Minas Gerais, Sch Dent, Dept Community & Prevent Dent, BR-31270901 Belo Horizonte, MG, Brazil.
+RP Xavier, AFC (corresponding author), State Univ Paraiba, Sch Dent, Dept Prevent Dent, Ave Baraunas S-N, BR-58109970 Campina Grande, PB, Brazil.
+EM alidianne.fabia@gmail.com
+RI Cavalcanti, Alessandro Leite/I-4286-2019; Abreu, Mauro
+   Henrique/G-6502-2012; Cavalcanti, Alessandro/A-2828-2010
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; Abreu, Mauro
+   Henrique/0000-0001-8794-5725; Cavalcanti, Alessandro/0000-0003-3572-3332
+FU National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [470738/2010-3]; Coordination of Improvement of Higher Education
+   Personnel (CAPES) for granting the post-graduation scholarshipCAPES;
+   Pro-Reitoria de Pesquisa da Universidade Federal de Minas Gerais; State
+   of Minas Gerais Research Foundation (FAPEMIG)Minas Gerais State Research
+   Foundation (FAPEMIG)
+FX The authors thank the National Council for Scientific and Technological
+   Development (CNPq) for the financial support (Process 470738/2010-3),
+   the Coordination of Improvement of Higher Education Personnel (CAPES)
+   for granting the post-graduation scholarship, the Pro-Reitoria de
+   Pesquisa da Universidade Federal de Minas Gerais and the State of Minas
+   Gerais Research Foundation (FAPEMIG).
+CR Al-Malik M I, 2001, Int J Paediatr Dent, V11, P430, DOI 10.1046/j.0960-7439 .2001.00308.x
+   Babu KLG, 2008, J CLIN PEDIATR DENT, V32, P189
+   Boots I, 2007, EUR J PEDIATR, V166, P849, DOI 10.1007/s00431-006-0381-z
+   Brasil. Ministerio da Saude, LIST MED REF
+   CAVALCANTI AL, 2012, TANZ J HLTH RES, V14, P1
+   Cavalcanti AL, 2008, ACTA STOMATOL CROAT, V42, P164
+   Cox ER, 2008, PEDIATRICS, V122, pE1053, DOI 10.1542/peds.2008-0214
+   de Oliveira EA, 2010, REV SAUDE PUBL, V44, P591, DOI [10.1590/S0034-89102010000400002, 10.1590/s0034-89102010000400002]
+   Gil E. S, 2010, CONTROLE FISICO QUIM
+   Headley J, 2007, EUR J CLIN PHARMACOL, V63, P189, DOI 10.1007/s00228-006-0231-y
+   Instituto Adolfo Lutz, 2008, MET FIS QUIM AN AL A
+   Knappmann AL, 2010, CIENC SAUDE COLETIVA, V15, P3467, DOI 10.1590/S1413-81232010000900021
+   Linnett V, 2001, Pediatr Dent, V23, P37
+   Longhini Renata, 2007, Rev. bras. farmacogn., V17, P388, DOI 10.1590/S0102-695X2007000300015
+   Lussi A, 2006, MG ORAL SCI, V20, P106, DOI 10.1159/000093357
+   Maguire A, 2007, INT J PAEDIATR DENT, V17, P231, DOI 10.1111/j.1365-263X.2007.00826.x
+   Marquezan M, 2007, RPG, V13, P334
+   Mendez EME, 2006, REV OFIL, V16, P15
+   Neves BG, 2010, COMMUNITY DENT HLTH, V27, P46, DOI 10.1922/CDH_2406Maia06
+   Nogueira LC, 2005, J CHROMATOGR A, V1065, P207, DOI 10.1016/j.chroma.2004.12.074
+   Nunn JH, 2001, PHARM WORLD SCI, V23, P118, DOI 10.1023/A:1011202409386
+   Passos IA, 2010, REV PANAM SALUD PUBL, V27, P132, DOI 10.1590/S1020-49892010000200007
+   Pierro VSD, 2005, COMMUNITY DENT HLTH, V22, P180
+   Sahgal J, 2020, J INDIAN SOC PEDOD P, V20, P144
+   Standing JF, 2005, INT J PHARMACEUT, V300, P56, DOI 10.1016/j.ijpharm.2005.05.006
+   Sturkenboom MCJM, 2008, BMJ-BRIT MED J, V337, P1
+   Taji S, 2010, AUST DENT J, V55, P358, DOI 10.1111/j.1834-7819.2010.01255.x
+   West NX, 2001, J ORAL REHABIL, V28, P860, DOI 10.1046/j.1365-2842.2001.00778.x
+NR 28
+TC 17
+Z9 17
+U1 0
+U2 7
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1472-6831
+J9 BMC ORAL HEALTH
+JI BMC Oral Health
+PD DEC 10
+PY 2013
+VL 13
+AR 71
+DI 10.1186/1472-6831-13-71
+PG 7
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA 277VX
+UT WOS:000328848500001
+PM 24325544
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Cavalcanti, AL
+   Xavier, AFC
+   Souto, RQ
+   Oliveira, MD
+   dos Santos, JA
+   Vieira, FF
+AF Cavalcanti, Alessandro Leite
+   Cabral Xavier, Alidianne Fabia
+   Souto, Rafaella Queiroga
+   Oliveira, Mariana da Costa
+   dos Santos, Jalber Almeida
+   Vieira, Fernando Fernandes
+TI In vitro Evaluation of the Erosive Potential of Sports Drinks
+SO REVISTA BRASILEIRA DE MEDICINA DO ESPORTE
+LA Portuguese
+DT Article
+DE tooth erosion; dental enamel; food for physical activities practitioners
+ID DENTAL EROSION; ENAMEL; PH
+AB A sports drink is a beverage made to rehydrate, as well as replace electrolytes, carbohydrates, and other nutrients. The objective of this in vitro study was to evaluate the endogenous pH, total titratable acidity and total soluble solids content (TSSC) of nine sports drinks. pH analysis was performed by potentiometry and buffering capacity was assessed by dilution of each substance. Increments of 0.1 N KOH were titrated until neutrality was reached. TSSC readings were performed by Brix refractometry using the Abbe refractometer. pH values ranged from 2.03 (Gatorade Tangerina (R)) to 2.93 (Marathon Limao (R)) and all sports drinks showed pH below the critical value of 5.5. The titratable acidity values ranged from 0.106 (Marathon Limao (R)) to 0.32 (Gatorade Tangerina (R)). Gatorade Tangerina (R) presented the lowest TSSC content (6.33%) and Marathon Guarana e Acai (R) presented the highest TSSC content (12.50%). Statistically significant differences were observed between temperatures for pH (G3, G4, G5, G6 and G8), TSSC (G2, G3, G6 and G9) and TA (G2, G3 and G5). When groups 1 and 3 were compared (Marathon Guarana Acai versus Gatorate Guarana Acai), statistically significant difference concerning pH at room temperature, concerning TSSC at room and +/- 9 degrees C temperatures and concerning TA at room temperature was seen. The sports drinks evaluated have a high erosive potential to dental hard tissues, as they present low pH. Regarding temperature, it is recommended to intake these beverages chilled.
+C1 [Cavalcanti, Alessandro Leite] Univ Estadual Paraiba, Dept Odontol, Programa Posgrad Odontol, BR-58109000 Campina Grande, PB, Brazil.
+   [Souto, Rafaella Queiroga] Univ Estadual Paraiba, Programa Posgrad Saude Publ, BR-58109000 Campina Grande, PB, Brazil.
+   [Vieira, Fernando Fernandes] Univ Estadual Paraiba, Dept Quim Analit, BR-58109000 Campina Grande, PB, Brazil.
+RP Cavalcanti, AL (corresponding author), Univ Estadual Paraiba, Dept Odontol, Programa Posgrad Odontol, Campus Univ, BR-58109000 Campina Grande, PB, Brazil.
+EM dralessandro@ibest.com.br
+RI Cavalcanti, Alessandro Leite/I-4286-2019; Souto, Rafaella/I-3716-2012
+OI Cavalcanti, Alessandro Leite/0000-0003-3572-3332; Souto,
+   Rafaella/0000-0002-7368-8497
+CR Amaechi BT, 1999, J ORAL REHABIL, V26, P97, DOI 10.1046/j.1365-2842.1999.00349.x
+   Association of Official Analytical Chemists, 1995, OFF METH AN
+   Burrato E M, 2002, REV ABO NAC, V10, P109
+   Xavier AFC, 2010, PESQUI BRAS ODONTOPE, V10, P145, DOI 10.4034/1519.0501.2010.0102.0003
+   Cairns AM, 2002, J DENT, V30, P313, DOI 10.1016/S0300-5712(02)00044-1
+   Corso S, 2006, RFO UPF, V11, P45
+   Guerra I., 2004, REV MINEIRA EDUCACAO, V12, P159
+   Hirschbruch MD, 2008, REV BRAS MED ESPORTE, V14, P539, DOI 10.1590/S1517-86922008000600013
+   Hooper SM, 2005, J DENT, V33, P343, DOI 10.1016/j.jdent.2004.10.002
+   JARVINEN VK, 1991, J DENT RES, V70, P742
+   Johansson AK, 2004, EUR J ORAL SCI, V112, P484, DOI 10.1111/j.1600-0722.2004.00172.x
+   Kitchens Michael, 2007, J Clin Pediatr Dent, V31, P153
+   Linan-Duran C, 2007, REV ESTOMATOL HERED, V17, P58
+   Lussi A, 2008, CLIN ORAL INVEST, V12, pS5, DOI 10.1007/s00784-007-0179-z
+   LUSSI A, 1993, CARIES RES, V27, P387, DOI 10.1159/000261569
+   Marins J. C. B., 2005, REV BRASILEIRA CIENC, V13, P59
+   Meurman JH, 1996, EUR J ORAL SCI, V104, P199, DOI 10.1111/j.1600-0722.1996.tb00068.x
+   Mungia Rahma, 2009, Tex Dent J, V126, P1097
+   Nunn J H, 2003, Int J Paediatr Dent, V13, P98, DOI 10.1046/j.1365-263X.2003.00433.x
+   O'Sullivan EA, 2000, CARIES RES, V34, P82, DOI 10.1159/000016574
+   Owens Barry M, 2007, Gen Dent, V55, P527
+   PETRUS RR, 2005, CIENC TECNOL ALIMENT, V25, P518
+   SALESPERES SHD, 2007, EUR J DENT, V1, P10
+   SOBRAL M. A. P., 2000, PESQUI ODONTOL BRAS, V14, P406
+   tenCate JM, 1996, EUR J ORAL SCI, V104, P241
+   THYLSTRUP A., 1994, TXB CLIN CARIOLOGY
+   Venables MC, 2005, MED SCI SPORT EXER, V37, P39, DOI 10.1249/01.MSS.0000150017.74892.F5
+   Walsh NP, 2004, ARCH ORAL BIOL, V49, P149, DOI 10.1016/j.archoralbio.2003.08.001
+   West NX, 2000, J ORAL REHABIL, V27, P875, DOI 10.1046/j.1365-2842.2000.00583.x
+   Zandim DL, 2008, REV ODONTOL UNESP, V37, P267
+   Zero DT, 1996, EUR J ORAL SCI, V104, P162, DOI 10.1111/j.1600-0722.1996.tb00065.x
+   Zhang Yan, 2009, Zhonghua Kou Qiang Yi Xue Za Zhi, V44, P611
+NR 32
+TC 5
+Z9 6
+U1 0
+U2 10
+PU SOC BRASILEIRA MED ESPORTE
+PI SAO PAULO SP
+PA AV BRIGADEIRO LUIS ANTONIO, 278, 6 AND, SAO PAULO SP, 01318 901, BRAZIL
+SN 1517-8692
+J9 REV BRAS MED ESPORTE
+JI Rev. Bras. Med. Esporte
+PD NOV-DEC
+PY 2010
+VL 16
+IS 6
+BP 455
+EP 458
+DI 10.1590/S1517-86922010000600012
+PG 4
+WC Physiology; Sport Sciences
+SC Physiology; Sport Sciences
+GA 727OE
+UT WOS:000287809900011
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU NOGUEIRA, P
+   FRANCELINO, L
+   CAVALCANTI, AF
+   TAGLIATELLA, S
+   MODOLO, ACP
+AF NOGUEIRA, P
+   FRANCELINO, L
+   CAVALCANTI, AF
+   TAGLIATELLA, S
+   MODOLO, ACP
+TI USE OF HALCINONID SOLUTION 0,1-PERCENT IN SEBORRHEIC DERMATITIS OF HEAD
+SO REVISTA BRASILEIRA DE MEDICINA
+LA Spanish
+DT Article
+RP NOGUEIRA, P (corresponding author), PONTIFICIA UNIV CAMPINAS,FAC CIENCIAS MED,DISCIPLINA DERMATOL,CAMPINAS,BRAZIL.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MOREIRA JR EDITORA LTDA
+PI SAO PAULO
+PA RUA HENRIQUE MARTINS 493, 04504 SAO PAULO, BRAZIL
+SN 0034-7264
+J9 REV BRAS MED
+PD SEP
+PY 1986
+VL 43
+IS 9
+BP 257
+EP 258
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA E7659
+UT WOS:A1986E765900005
+DA 2020-12-08
+ER
+
+EF

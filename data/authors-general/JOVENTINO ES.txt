@@ -1,0 +1,2109 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Felipe, GF
+   Lima, FET
+   Barbosa, LP
+   Moreira, TMM
+   Joventino, ES
+   Freire, VS
+   Mendonca, LBD
+AF Felipe, Gilvan Ferreira
+   Teixeira Lima, Francisca Elisangela
+   Barbosa, Lorena Pinheiro
+   Magalhaes Moreira, Thereza Maria
+   Joventino, Emanuella Silva
+   Freire, Vanessa Sousa
+   de Araujo Mendonca, Larissa Bento
+TI Evaluation of user embracement software with pediatric risk
+   classification
+SO REVISTA BRASILEIRA DE ENFERMAGEM
+LA English
+DT Article
+DE User Embracement; Pediatrics; Triage; Computer Systems; Software
+ID SYSTEM
+AB Objective: to evaluate functional performance and technical quality of user embracement software with pediatric risk classification. Method: descriptive exploratory study developed based on the quality requirements set forth in ISO/IEC 25010. The evaluated characteristics were: functional adequacy, reliability, usability, performance efficiency, compatibility, safety, maintainability and portability. Eight specialists from the area of informatics and 13 from nursing participated in the evaluation. The characteristics were considered adequate when they reached more than 70% of indication as very and/or completely appropriate in the evaluations of each group of specialists. Results: The results obtained from the evaluation of informatics and nursing specialists were: functional adequacy (100.0%, 96.2%), reliability (82.6%, 88.5%), usability (84.9%98.7%), performance efficiency (93.4%; 96.2%), compatibility (85.0%, 98.1%), safety (91.7% 100.0%), and, yet, maintainability (95.0%) and portability (87.5%) evaluated by the first ones. Conclusion: the software was considered adequate regarding technical quality and functional performance.
+C1 [Felipe, Gilvan Ferreira; Joventino, Emanuella Silva; Freire, Vanessa Sousa] Univ Integracao Int Lusofonia Afrobrasileira, Redencao, Ceara, Brazil.
+   [Teixeira Lima, Francisca Elisangela; Barbosa, Lorena Pinheiro; Magalhaes Moreira, Thereza Maria; de Araujo Mendonca, Larissa Bento] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+RP Felipe, GF (corresponding author), Univ Integracao Int Lusofonia Afrobrasileira, Redencao, Ceara, Brazil.
+EM gilvanfelipe@gmail.com
+RI MOREIRA, THEREZA MARIA MAGALHAES/D-1240-2014; Freire, Vanessa E C
+   Sousa/AAS-5686-2020
+OI MOREIRA, THEREZA MARIA MAGALHAES/0000-0003-1424-0649; Freire, Vanessa E
+   C Sousa/0000-0003-3571-0267; Ferreira, Gilvan/0000-0003-0674-4396
+CR [Anonymous], 2011, 25010 ISOIEC
+   Associacao Brasileira de Normas Tecnicas (ABNT), 2004, 145986 ABNT NBR ISOI
+   Atalag K, 2012, ELECT J HLTH INFOR, V7, P1
+   Atalag K, 2014, INT J MED INFORM, V83, P849, DOI 10.1016/j.ijmedinf.2014.07.006
+   Bishop RO, 2015, ANN EMERG MED, V65, P133, DOI 10.1016/j.annemergmed.2014.05.032
+   Lima AFC, 2012, REV ESC ENFERM USP, V46, P175, DOI 10.1590/S0080-62342012000100024
+   Creswick N, 2012, ELECT J HLTH INFORM, V7, P1
+   de Oliveira NB, 2015, REV LAT-AM ENFERM, V23, P242, DOI 10.1590/0104-1169.3562.2548
+   Franco TB, 2012, REV APS, V15, P227
+   Idri A, 2016, J MED SYST, V40, DOI 10.1007/s10916-015-0415-z
+   Kim GH, 2015, MULTIMED TOOLS APPL, V74, P8745, DOI 10.1007/s11042-013-1536-3
+   Kushniruk AW, 2013, INT J MED INFORM, V82, pE149, DOI 10.1016/j.ijmedinf.2012.12.006
+   Veras JEGLF, 2015, REV BRAS ENFERM, V68, P630, DOI 10.1590/0034-7167.2015680521p
+   Lim ME, 2012, INT J TECHNOL ASSESS, V28, P93, DOI 10.1017/S0266462312000013
+   Lima FET, 2012, REV RENE, V13, P211
+   Moreno RA, 2016, J HLTH INFORM, V8, P1
+   Oliveira NB, 2012, THESIS, DOI [10.11606/D.7.2012.tde-08032013-141540, DOI 10.11606/D.7.2012.TDE-08032013-141540]
+   Paes Jonathan Luiz, 2017, Fisioter. Pesqui., V24, P29, DOI 10.1590/1809-2950/15962824012017
+   Ribeiro JC, 2014, J HLTH INFO, V6, P75
+   Roncalli AA, 2017, REV BAIANA ENFERM, V31, DOI 10.18471/rbe.v31i2.16949
+   Salomi MJA, 2017, TECHNOL INVEST, V8, P167, DOI [10.4236/ti.2017.83015, DOI 10.4236/TI.2017.83015]
+   Secginli S, 2014, INFORM HEALTH SOC CA, V39, P15, DOI 10.3109/17538157.2013.834342
+   Sparkes L, 2016, NURS HEALTH SCI, V18, P393, DOI 10.1111/nhs.12282
+   Sperandio DJ, 2008, THESIS, DOI [10.11606/T.22.2008.tde-11092008-165036, DOI 10.11606/T.22.2008.TDE-11092008-165036]
+   Zheng K, 2015, J BIOMED INFORM, V58, pS189, DOI 10.1016/j.jbi.2015.07.008
+   Zhu MM, 2015, J SYST SOFTWARE, V109, P150, DOI 10.1016/j.jss.2015.04.083
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC BRASILEIRA ENFERMAGEM
+PI BRASILIA DF
+PA SGA NORTE QUADRA 603 CONJ B AV L2 NORTE, BRASILIA DF, 70830-030, BRAZIL
+SN 0034-7167
+EI 1984-0446
+J9 REV BRAS ENFERM
+JI Rev. Bras. Enferm.
+PY 2020
+VL 73
+IS 3
+AR e20180677
+DI 10.1590/0034-7167-2018-0677
+PG 6
+WC Nursing
+SC Nursing
+GA ME4XS
+UT WOS:000544660200022
+PM 32321123
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU de Oliveira, BSB
+   Melo, FMD
+   de Oliveira, RKL
+   Neta, JFD
+   Monteiro, FPM
+   Joventino, ES
+AF Bessa de Oliveira, Brena Shellem
+   de Sousa Melo, Francisca Mayra
+   Lopes de Oliveira, Rhaiany Kelly
+   de Figueiredo Neta, Joana Furtado
+   Magalhaes Monteiro, Flavia Paula
+   Joventino, Emanuella Silva
+TI Early stimulation in the development of children with microcephaly:
+   maternal perception
+SO REVISTA BRASILEIRA DE ENFERMAGEM
+LA English
+DT Article
+DE Microcephaly; Child Development; Child Health; Zika Virus; Pediatric
+   Nursing
+ID ZIKA VIRUS; LIVE BIRTHS; BRAZIL
+AB Objective: To know the maternal perception about early stimulation and its repercussion in the development of the child with microcephaly associated with zika virus. Method: A qualitative study was carried out from June to August 2017 with five mothers of children diagnosed with microcephaly associated with zika virus. The data were collected through individual interviews with semi-structured script and evaluated by the content analysis, in its thematic modality. Results: Mothers recognized the benefits and the advances in the development of the child after the beginning of the early stimulation. It is noteworthy that the difficulty of transportation was the main reason for the lack of attendance at consultations, and that the short time of stimulation was the main weakness of the service. Final considerations: The recognition of maternal perception and the difficulties and weaknesses of the service can contribute to the elaboration of public policies and the planning of holistic care for children with microcephaly and their families.
+C1 [Bessa de Oliveira, Brena Shellem; de Sousa Melo, Francisca Mayra; Lopes de Oliveira, Rhaiany Kelly; Magalhaes Monteiro, Flavia Paula; Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afro Brasileira, Redencao, Ceara, Brazil.
+   [de Figueiredo Neta, Joana Furtado] Policlin Doutor Clovis Amora Vasconcelos, Aracoiaba, Ceara, Brazil.
+RP de Oliveira, BSB (corresponding author), Univ Integracao Int Lusofonia Afro Brasileira, Redencao, Ceara, Brazil.
+EM brennashellem@gmail.com
+OI Melo, Francisca/0000-0002-9622-7669
+CR Abreu T. T., 2016, Revista de Ciencias Medicas e Biologicas, V15, P426, DOI 10.9771/cmbio.v15i3.18347
+   Ansari NJR, 2016, J CLIN DIAGN RES, V10, pSC16, DOI 10.7860/JCDR/2016/22538.9039
+   Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Botelho Ana Carla Gomes, 2016, Rev. Bras. Saude Mater. Infant., V16, P39, DOI 10.1590/1806-9304201600s100004
+   Cabral CM, 2017, EPIDEMIOL SERV SAUDE, V26, P245, DOI [10.5123/S1679-49742017000200002, 10.5123/s1679-49742017000200002]
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Chouin-Carneiro T, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004543
+   Cugola FR, 2016, NATURE, V534, P267, DOI 10.1038/nature18296
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Diniz D, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00046316
+   Eickmann SH, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00047716
+   Escobar EMA, 2013, REV CIENC EXT, V9, P106
+   Feitosa IML, 2016, BOL CIENT PEDIATR, V5, P75
+   Franco V, 2016, EDUC REV-CURITIBA, P35, DOI 10.1590/0104-4060.44689
+   Lucia CMD, 2017, RASBRAN, V8, P3
+   Marinho F, 2016, EPIDEMIOL SERV SAUDE, V25, P701, DOI [10.5123/S1679-49742016000400004, 10.5123/s1679-49742016000400004]
+   Meireles NFP, 2017, ARCH HEALTH INVEST, V6, P495, DOI [10.21270/archi.v6i10.2256, DOI 10.21270/ARCHI.V6I10.2256]
+   Minayo M. C. S., 2015, PESQUISA SOCIAL TEOR
+   Ministerio da Saude (BR), 2016, PROTOCOLO DE ATENCAO
+   Ministerio da Saude (BR), 2016, PROTOCOLO DE VIGILAN
+   Ministerio da Saude (BR), 2016, DIRETRIZES DE ESTIMU
+   Ministerio da Saude (BR), 2016, A ESTIMULACAO PRECOC
+   Ministerio da Saude (BR), 2015, PROTOCOLO DE ATENCAO
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Pedroso C., 2014, REV CIENC SAUDE, P61, DOI DOI 10.15448/1983-652X.2014.2.16464
+   Pereira EL, 2017, CIENC SAUDE COLETIVA, V22, P3557, DOI 10.1590/1413-812320172211.22182017
+   Pichini Fernanda dos Santos, 2016, Rev. CEFAC, V18, P55, DOI 10.1590/1982-021620161810915
+   Sa FE, 2017, REV BRAS EDUC MED, V30, P1, DOI DOI 10.5020/18061230.2017.6629
+   Santos RD, 2005, REV BRAS ENFERM, V58, P592, DOI 10.1590/S0034-71672005000500017
+   Sarno M, 2017, ULTRASOUND OBST GYN, V50, P717, DOI 10.1002/uog.17303
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Silva PLN, 2015, ONLINE BRAZ J NURS, V14, P190, DOI [10.17665/1676-4285.20155199, DOI 10.17665/1676-4285.20155199]
+   United Nations International Children's Emergency Fund (Unicef ), 2015, EARLY CHILDHOOD DEVE
+   Viega SA, 2017, REV CIENT INTERDISCI, V2, P116
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ASSOC BRASILEIRA ENFERMAGEM
+PI BRASILIA DF
+PA SGA NORTE QUADRA 603 CONJ B AV L2 NORTE, BRASILIA DF, 70830-030, BRAZIL
+SN 0034-7167
+EI 1984-0446
+J9 REV BRAS ENFERM
+JI Rev. Bras. Enferm.
+PD DEC
+PY 2019
+VL 72
+SU 3
+BP 139
+EP 146
+DI 10.1590/0034-7167-2018-0272
+PG 8
+WC Nursing
+SC Nursing
+GA JW1PZ
+UT WOS:000502832700020
+PM 31851246
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Veras, JEGLD
+   Teixeira, OCM
+   Joventino, ES
+   Lima, FET
+   de Aguiar, MIF
+   Barbosa, LP
+AF Lacerda de Freitas Veras, Joelna Eline Gomes
+   Mota Teixeira, Olinda Costa
+   Joventino, Emanuella Silva
+   Teixeira Lima, Francisca Elisangela
+   Freire de Aguiar, Maria Isis
+   Barbosa, Lorena Pinheiro
+TI Risk classification in pediatrics made by nurses focusing on clinical
+   conditions
+SO REV RENE
+LA Portuguese
+DT Article
+DE Triage; Pediatric Nursing; User Embracement; Health Promotion
+ID CARE
+AB Objective: to verify the association between the classification of risk made by the nurses and the clinical conditions presented by children and adolescents. Methods: a cross - sectional study was carried out with 397 children/adolescents in the emergency room of a public secondary hospital. In the data collection, a formulary was used, containing sociodemographic and clinical data; and the Guideline for Acceptance with Risk Rating in Pediatrics. Results: there was no significant association between the socio-demographic characteristics of the children and risk classification. They were female, aged between one and five years and weight appropriate for the age group. There was a significant association (p<0.005) between risk ratings, risk discriminators (p=0.001), procedures performed (p<0.001) and patient's destination (p=0.013). Conclusion: the association between adopted risk classification and pediatric clinical variables confirms the degree of complexity presented by children/adolescents, favoring assertive clinical evaluation by the host nurse.
+C1 [Lacerda de Freitas Veras, Joelna Eline Gomes; Mota Teixeira, Olinda Costa; Teixeira Lima, Francisca Elisangela; Freire de Aguiar, Maria Isis; Barbosa, Lorena Pinheiro] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afro Brasileira, Redencao, CE, Brazil.
+RP Veras, JEGLD (corresponding author), Rua Bernadete Maria Leal 93, BR-60811015 Fortaleza, Ceara, Brazil.
+EM joelnaveras@ufc.br
+CR Amthauer C, 2016, REV LAT-AM ENFERM, V24, DOI 10.1590/1518-8345.1078.2779
+   Araujo C, 2016, UNIVERSO ACAD, V9, P175
+   Guedes MVC, 2013, REV BRAS ENFERM, V66, P31, DOI 10.1590/S0034-71672013000100005
+   Coleman DE, 2018, J HOSP LIBRARIANSHIP, V18, P323, DOI [10.1080/15323269.2018.1509194, DOI 10.1080/15323269.2018.1509194]
+   de Magalhaes-Barbosa MC, 2017, EMERG MED J, V34, P711, DOI 10.1136/emermed-2016-206058
+   Araujo AAD, 2019, REV RENE, V20, DOI 10.15253/2175-6783.20192040159
+   Macedo GPDS, 2017, ACTA PAUL ENFERM, V30, P635, DOI 10.1590/1982-0194201700092
+   Filocomo FRF, 2017, ACTA PAUL ENFERM, V30, P287, DOI 10.1590/1982-0194201700044
+   França Elisabeth Barboza, 2017, Rev. bras. epidemiol., V20, P46, DOI 10.1590/1980-5497201700050005
+   Gravel J, 2013, ANN EMERG MED, V61, P27, DOI 10.1016/j.annemergmed.2012.05.024
+   Lustbader D, 2017, J PALLIAT MED, V20, P23, DOI 10.1089/jpm.2016.0265
+   Mansur FM, 2017, INTERAGIR PENSANDO E, V23, P1, DOI [10.12957/INTERAG.2017.22864, DOI 10.12957/INTERAG.2017.22864]
+   Mesquita M, 2017, REV CHIL PEDIATR-CHI, V88, P113, DOI 10.1016/j.rchipe.2016.07.001
+   Ministerio da Saude (BR), 2017, CAD SAUD CRIANC
+   Ministerio da Saude (BR), 2016, AC GEST TRAB SAUD
+   Mupara LU, 2016, GLOBAL HEALTH ACTION, V9, DOI 10.3402/gha.v9.29417
+   Passos Saulo Duarte, 2018, Rev. paul. pediatr., V36, P3, DOI 10.1590/1984-0462/;2018;36;1;00008
+   Rafael MS, 2017, SCI MED, V27, DOI 10.15448/1980-6108.2017.1.24919
+   Tischer C, 2018, ENVIRON RES, V161, P276, DOI 10.1016/j.envres.2017.11.013
+   Veras Joelna Eline Gomes Lacerda Freitas, 2015, Rev. Bras. Enferm., V68, P913, DOI 10.1590/0034-7167.2015680521i
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV FEDERAL CEARA, DEPT ENFERMAGEM
+PI CEARA
+PA AVDA UNIVERSIDADE, CAIXA POSTAL 1000, FORTALEZA, CEARA, 00000, BRAZIL
+SN 1517-3852
+EI 2175-6783
+J9 REV RENE
+JI Rev Rene
+PY 2019
+VL 20
+AR e40928
+DI 10.15253/2175-6783.20192040928
+PG 8
+WC Nursing
+SC Nursing
+GA IM5EV
+UT WOS:000478018000040
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU de Sabino, LMM
+   Ferreira, AMV
+   Joventino, ES
+   Lima, FET
+   da Penha, JC
+   Lima, KF
+   do Nascimento, LA
+   Ximenes, LB
+AF Moraes de Sabino, Leidiane Minervina
+   Vieira Ferreira, Adria Marcela
+   Joventino, Emanuella Silva
+   Teixeira Lima, Francisca Elisangela
+   da Penha, Jardeliny Corrrea
+   Lima, Kamila Ferreira
+   do Nascimento, Ludmila Alves
+   Ximenes, Lorena Barbosa
+TI Elaboration and validation of a reader on childhood diarrhea prevention
+SO ACTA PAULISTA DE ENFERMAGEM
+LA English
+DT Article
+DE Diarrhea, infantile; Self efficacy; Health promotion; Validation
+   studies; Mother-child relations
+ID CONTENT VALIDITY; SPATIAL-ANALYSIS; INDICATORS; MORTALITY; CHILDREN;
+   HEALTH
+AB Objective: Elaborate, validate and evaluate an educational reader to promote maternal self-efficacy in the prevention of childhood diarrhea.
+   Method: Methodological study, developed based on the elaboration, validation and evaluation of educational material by 30 content judges and three technicians. For the validation, the clarity of the language, practical pertinence and theoretical relevance were considered, calculating the Content Validity Index for each item; and the tool Suitability Assessment of Materials (SAM) was applied to evaluate the reader.
+   Results: The reader was titled "You can prevent diarrhea in you child" was elaborated in the framework of Self-Efficacy Theory. The content judges attributed a global Content Validity Index (CVI) of 0.88 for language clarity, 0.91 for practical pertinence and 0.92 for theoretical relevance; and the technical judges attributed CVI of 0.96, 1.00 and 1.00 for the same items assessed, respectively. The assessment of the content and technical judges based on the SAM tool classified the material as "superior", with average coefficients of 88.7% and 90.1%, respectively.
+   Conclusion: The reader was considered appropriate in terms of face and content validation to promote maternal self-efficacy in the prevention of childhood diarrhea.
+C1 [Moraes de Sabino, Leidiane Minervina; Vieira Ferreira, Adria Marcela; Joventino, Emanuella Silva; Teixeira Lima, Francisca Elisangela; da Penha, Jardeliny Corrrea; Lima, Kamila Ferreira; do Nascimento, Ludmila Alves; Ximenes, Lorena Barbosa] Univ Fed Ceara, Fortaleza, CE, Brazil.
+RP de Sabino, LMM (corresponding author), Univ Fed Ceara, Fortaleza, CE, Brazil.
+EM leidinhamoraes@hotmail.com
+RI da Penha, Jardeliny Correa/AAQ-8514-2020
+OI da Penha, Jardeliny Correa/0000-0001-5956-9072
+FU Ceara Scientific and Technological Development Support Foundation -
+   FUNCAP; Brazilian Scientific and Technological Development Council -
+   CNPqNational Council for Scientific and Technological Development (CNPq)
+FX Acknowledgements to the organizations that funded this research (Ceara
+   Scientific and Technological Development Support Foundation - FUNCAP and
+   Brazilian Scientific and Technological Development Council - CNPq) and
+   to the judges who participated in the validation and evaluation of the
+   educational reader.
+CR Atencio R, 2013, KASMERA, V41, P59
+   Bandura A, 2012, J MANAGE, V38, P9, DOI 10.1177/0149206311410606
+   Buhler HF, 2014, CAD SAUDE PUBLICA, V30, P1921, DOI 10.1590/0102-311X00078013
+   Buhler HF, 2014, CIENC SAUDE COLETIVA, V19, P4131, DOI 10.1590/1413-812320141910.09282014
+   Centers for Disease Control and Prevention (CDC), 2009, SIMPL PUT GUID CREAT
+   Costa PB, 2013, REV REDE ENFERM NORD, V14, P1160
+   Deatrick D, 2010, GUIDE CREATING EVALU
+   Doak C. C., 1996, TEACHING PATIENTS LO
+   Fehring R., 1986, P C N AM NURS DIAGN, P183
+   Fortaleza cidade Prefeitura Municipal. Secretaria Municipal de Saude, 2016, CONS NOT CAS DIARR A
+   Grudniewicz A, 2015, IMPLEMENT SCI, V10, DOI 10.1186/s13012-015-0339-5
+   JASPER MA, 1994, J ADV NURS, V20, P769, DOI 10.1046/j.1365-2648.1994.20040769.x
+   Joventino ES, 2013, PUBLIC HEALTH NURS, V30, P150, DOI 10.1111/j.1525-1446.2012.01042.x
+   Joventino ES, 2017, INT J NURS PRACT, V23, DOI 10.1111/ijn.12524
+   Lima Maria Alzete de, 2014, Rev. esc. enferm. USP, V48, P285, DOI 10.1590/S0080-6234201400002000013
+   LYNN MR, 1986, NURS RES, V35, P382
+   Machado AP, 2016, REV ASSOC MED BRAS, V62, P800, DOI 10.1590/1806-9282.62.08.800
+   Martins TB, 1996, NOTAS ICMC USP SERIE
+   Ministerio da Saude, 2013, DEZ PASS AL SAUD GUI
+   Moreira Maria de Fátima, 2003, Rev. Bras. Enferm., V56, P184, DOI 10.1590/S0034-71672003000200015
+   Nascimento LA, 2015, HEALTH, V7, P192, DOI DOI 10.4236/HEALTH.2015.72022
+   Norwood S., 2006, RES STRATEGIES ADV P
+   Pasquali L, 2010, INSTRUMENTACAO PSICO
+   Polit DF, 2006, RES NURS HEALTH, V29, P489, DOI 10.1002/nur.20147
+   Saffari M, 2014, PRIM CARE DIABETES, V8, P275, DOI 10.1016/j.pcd.2014.03.004
+   Siddharthan T, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0166411
+   Teixeira E, 2014, TECNOLOGIAS CUIDATIV
+   Veras Joelna Eline Gomes Lacerda Freitas, 2015, Rev. Bras. Enferm., V68, P913, DOI 10.1590/0034-7167.2015680521i
+   Cavalcante LDW, 2015, REV ESC ENFERM USP, V49, P14, DOI 10.1590/S0080-623420150000100002
+NR 29
+TC 1
+Z9 3
+U1 0
+U2 0
+PU UNIV FED SAO PAULO, DEPT ENFERMAGEN
+PI SAO PAULO
+PA RUA NAPOLEAO DE BARROS, 754 VILA CLEMENTINO, SAO PAULO, CEP04024-002,
+   BRAZIL
+SN 0103-2100
+EI 1982-0194
+J9 ACTA PAUL ENFERM
+JI Acta Paul. Enferm.
+PD MAY-JUN
+PY 2018
+VL 31
+IS 3
+BP 233
+EP 239
+DI 10.1590/1982-0194201800034
+PG 7
+WC Nursing
+SC Nursing
+GA GS3CB
+UT WOS:000443450400002
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Dias, IKR
+   Sobreira, CLD
+   Martins, RMG
+   Santana, KFS
+   Lopes, MDV
+   Joventino, ES
+   Viana, MCA
+AF Rodrigues Dias, Itala Keane
+   da Silva Sobreira, Cicera Luciana
+   Grangeiro Martins, Rosa Maria
+   Silva Santana, Kelly Fernanda
+   Vieira Lopes, Maria do Socorro
+   Joventino, Emanuella Silva
+   Amaral Viana, Maria Corina
+TI Zika virus: - a review of the main aspects of this type of arbovirosis
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Review
+DE Zika virus; Arbovirus infections; Tropical Medicine; Aedes; Public
+   health
+ID GUILLAIN-BARRE-SYNDROME; UNITED-STATES; SEXUAL TRANSMISSION; GLOBAL
+   THREAT; BRAZIL; EPIDEMIOLOGY; PREVENTION; MECHANISMS; INFECTION;
+   OUTBREAK
+AB The objective of this study was to integrate findings related to Zika virus from the scientific literature. An integrative review of Medline was conducted, and data search was performed using the Health Sciences Descriptor Zika virus and the following filters: full texts available; studies in humans; full articles; and publications in Portuguese, French, English, and Spanish. After application of the filters, followed by reading of the titles, abstracts, and full texts, 44 studies were included in the review, for which content analysis was performed. A large part of the literature comprised review articles (84%; N=37); the majority was in English (95%, N=42). In 2016, 84% (N=37) of our sample articles was published, while in 2017, 16% (N=7) was published. The main form of viral transmission was thorough the mosquito Aedes aegypti (N=30). In addition, sexual transmission (N=09), transmission through blood transfusion (N=16), vertical transmission (N=21) and transmission from occupational activities (N=03) occurred. It was possible to diagnose the disease by testing blood (N=22), urine (N=14), saliva (N=06), semen/sperm (N=03), cerebrospinal and amniotic fluid, and other tissues (N=02). Symptomatology occurred in 1-5 people (N=10) between 3 and 7 days after a mosquito bite (N=09). Complications observed were Guillain Barre syndrome (N=27); neurological Zika syndrome (N=27); meningitis, meningoencephalitis, and myelitis (N=07); deaths and/or newborns (N=03). The review provides scientific evidence that contributes to the care, planning and implementation of public policies.
+C1 [Rodrigues Dias, Itala Keane; da Silva Sobreira, Cicera Luciana; Silva Santana, Kelly Fernanda] Univ Reg Cariri, Programa Posgrad Stricto Sensu Enfermagem, Crato, CE, Brazil.
+   [Grangeiro Martins, Rosa Maria] Univ Reg Cariri, Programa Posgrad Stricto Sensu Saude Familia, Crato, CE, Brazil.
+   [Vieira Lopes, Maria do Socorro; Amaral Viana, Maria Corina] Univ Reg Cariri, Dept Enfermagem, Crato, CE, Brazil.
+   [Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afro Brasileira, Dept Enfermagem, Redencao, CE, Brazil.
+RP Dias, IKR (corresponding author), Univ Reg Cariri, Programa Posgrad Stricto Sensu Enfermagem, Crato, CE, Brazil.
+EM itala_keany@hotmail.com
+CR Ahmad SSY, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i1062
+   de Brito CAA, 2016, REV SOC BRAS MED TRO, V49, P537, DOI 10.1590/0037-8682-0328-2016
+   Baud D, 2017, AM J REPROD IMMUNOL, V77, DOI 10.1111/aji.12614
+   Boeuf P, 2016, BMC MED, V14, DOI 10.1186/s12916-016-0660-0
+   Borchardt RA, 2016, JAAPA-J AM ACAD PHYS, V29, P48, DOI 10.1097/01.JAA.0000481413.11539.b1
+   Brooks JT, 2016, MMWR-MORBID MORTAL W, V65, P745, DOI 10.15585/mmwr.mm6529e2
+   da Silva LRC, 2016, REV SOC BRAS MED TRO, V49, P267, DOI 10.1590/0037-8682-0150-2016
+   Centers for Disease Control and Prevention, REV DIAGN TEST ZIK C
+   de Carvalho NS, 2017, AM J REPROD IMMUNOL, V77, DOI 10.1111/aji.12616
+   de Souza MT, 2010, EINSTEIN-SAO PAULO, V8, P102, DOI 10.1590/S1679-45082010RW1134
+   Dirlikov E, 2017, EMERG INFECT DIS, V23, P134, DOI 10.3201/eid2301.161290
+   Dupont-Rouzeyrol M, 2015, EMERG INFECT DIS, V21, P381, DOI 10.3201/eid2102.141553
+   Faizan MI, 2016, INTERVIROLOGY, V59, P152, DOI 10.1159/000452950
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   Fellner Chris, 2016, P T, V41, P242
+   Fernandes RS, 2017, MEM I OSWALDO CRUZ, V112, P577, DOI 10.1590/0074-02760170145
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Fuwa K, 2017, AM J REPROD IMMUNOL, V77, DOI 10.1111/aji.12605
+   Gao DZ, 2016, SCI REP-UK, V6, DOI 10.1038/srep28070
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Guo XX, 2016, EMERG MICROBES INFEC, V5, DOI 10.1038/emi.2016.102
+   Hajra A, 2017, AM J REPROD IMMUNOL, V77, DOI 10.1111/aji.12607
+   Hajra A, 2016, N AM J MED SCI, V8, DOI 10.4103/1947-2714.179112
+   Hamel R, 2016, MICROBES INFECT, V18, DOI 10.1016/j.micinf.2016.03.009
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   Jin J., 2016, JAMA-J AM MED ASSOC, V315, P2373
+   Kwak-Kim J, 2017, AM J REPROD IMMUNOL, V77, DOI 10.1111/aji.12606
+   Laval F, 2016, MED SANTE TROP, V26, P145
+   Lazear HM, 2016, J VIROL, V90, P4864, DOI 10.1128/JVI.00252-16
+   LOPES N, 2014, REV PAN-AMAZ SAUDE, V5, P55, DOI DOI 10.5123/S2176-62232014000300007
+   Macfadden DR, 2016, CMAJ, V188, P311
+   Marano G, 2016, BLOOD TRANSFUS-ITALY, V14, P95, DOI 10.2450/2015.0066-15
+   de Salazar PM, 2016, ENFERM INFEC MICR CL, V34, P247, DOI 10.1016/j.eimc.2016.02.016
+   Martinez ME, 2016, PLOS BIOL, V14, DOI 10.1371/journal.pbio.1002520
+   Mendes Karina Dal Sasso, 2008, Texto contexto - enferm., V17, P758, DOI 10.1590/S0104-07072008000400018
+   Mishra B, 2016, J POSTGRAD MED, V62, P249, DOI 10.4103/0022-3859.191006
+   Murray JS, 2017, J SPEC PEDIATR NURS, V22, DOI 10.1111/jspn.12164
+   Musso D, 2014, CLIN MICROBIOL INFEC, V20, pO595, DOI 10.1111/1469-0691.12707
+   Musso D, 2016, CLIN MICROBIOL REV, V29, P487, DOI 10.1128/CMR.00072-15
+   Olson CK, 2016, MMWR-MORBID MORTAL W, V65, P290, DOI 10.15585/mmwr.mm6511e3
+   Oster AM, 2016, MMWR-MORBID MORTAL W, V65, P120, DOI 10.15585/mmwr.mm6505e1
+   Paixao ES, 2016, AM J PUBLIC HEALTH, V106, P606, DOI 10.2105/AJPH.2016.303112
+   Paploski IAD, 2016, EMERG INFECT DIS, V22, P1438, DOI 10.3201/eid2208.160496
+   Petersen LR, 2016, NEW ENGL J MED, V374, P1552, DOI 10.1056/NEJMra1602113
+   Possas C, 2016, EPIDEMIOL HEALTH, V38, DOI 10.4178/epih.e2016023
+   Rabe IB, 2016, MMWR-MORBID MORTAL W, V65, P543, DOI 10.15585/mmwr.mm6521e1
+   Saiz JC, 2016, FRONT MICROBIOL, V7, DOI 10.3389/fmicb.2016.00496
+   Sampathkumar P, 2016, MAYO CLIN PROC, V91, P514, DOI 10.1016/j.mayocp.2016.02.017
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Seley Celeste M., 2009, Prensa Medica Argentina, V96, P395
+   Simoes R, 2016, REV ASSOC MED BRAS, V62, P108, DOI [10.1590/1806-9282.62.02.106, 10.1590/1806-9282.62.02.108]
+   Slenczka W, 2016, MICROBIOL SPECTR, V4, DOI 10.1128/microbiolspec.EI10-0019-2016
+   Soares Cassia Baldini, 2014, Rev. esc. enferm. USP, V48, P335, DOI 10.1590/S0080-6234201400002000020
+   Toresdahl BG, 2016, SPORTS HEALTH, V8, P438, DOI 10.1177/1941738116659060
+   Waggoner JJ, 2016, J CLIN MICROBIOL, V54, P860, DOI 10.1128/JCM.00279-16
+   Walker WL, 2016, MMWR-MORBID MORTAL W, V65, P983, DOI 10.15585/mmwr.mm6536e5
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 57
+TC 3
+Z9 3
+U1 0
+U2 7
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD APR-JUN
+PY 2018
+VL 51
+IS 3
+BP 261
+EP 269
+DI 10.1590/0037-8682-0130-2018
+PG 9
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA GL3IM
+UT WOS:000437026000002
+PM 29972554
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Gomes, ALA
+   Joventino, ES
+   Lima, KF
+   Dodt, RCM
+   de Almeida, PC
+   Ximenes, LB
+AF Araujo Gomes, Ana Lucia
+   Joventino, Emanuella Silva
+   Lima, Kamila Ferreira
+   Melo Dodt, Regina Claudia
+   de Almeida, Paulo Cesar
+   Ximenes, Lorena Barbosa
+TI Validation and reliability of the scale Self-efficacy and their child's
+   level of asthma control
+SO REVISTA BRASILEIRA DE ENFERMAGEM
+LA English
+DT Article
+DE Asthma; Child; Self-Efficacy; Health Promotion; Psychometry
+ID CULTURAL-ADAPTATION
+AB Objective: lo evaluate the psychometric properties in terms of validity and reliability of the scale Self-efficacy and their child's level of asthma control: Brazilian version. Method: Methodological study in which 216 parents/guardians of children with asthma participated. A construct validation (factor analysis and test of hypothesis by comparison of contrasted groups) and an analysis of reliability in terms of homogeneity (Cronbach's alpha) and stability (test-retest) were carried out. Results: Exploratory factor analysis proved suitable for the Brazilian version of the scale (Kaiser-Meyer-Olkim index of 0.879 and Bartlett's sphericity with p < 0.001). The correlation matrix in factor analysis suggested the removal of item 7 from the scale. Cronbach's alpha of the final scale, with 16 items, was 0.92. Conclusion: the Brazilian version of Self-efficacy and their child's level of asthma control presented psychometric properties that confirmed its validity and reliability.
+C1 [Araujo Gomes, Ana Lucia; Lima, Kamila Ferreira; Ximenes, Lorena Barbosa] Univ Fed Ceara, Postgrad Program Nursing, Fortaleza, Ceara, Brazil.
+   [Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afro Brasileira, Inst Hlth Sci, Redencao, Ceara, Brazil.
+   [Melo Dodt, Regina Claudia] Univ Fed Ceara, Pharm Odontol & Nursing Sch, Fortaleza, Ceara, Brazil.
+   [de Almeida, Paulo Cesar] Univ Estadual Ceara, Postgrad Program Clin Care Nursing & Hlth, Fortaleza, Ceara, Brazil.
+RP Lima, KF (corresponding author), Univ Fed Ceara, Postgrad Program Nursing, Fortaleza, Ceara, Brazil.
+EM limakamila@yahoo.com.br
+OI Gomes, Ana Lucia/0000-0001-9591-4195
+CR Akinbami Lara J, 2012, NCHS Data Brief, P1
+   American Thoracic Society (ATS), 2014, ASTHM SYMPT IMP SLEE
+   Androsov A. V., 2013, Materials Science, P3
+   Bandura A, 1997, SELF EFFICACY EXERCI
+   Oria MOB, 2010, ACTA PAUL ENFERM, V23, P230, DOI 10.1590/S0103-21002010000200013
+   Beaton DE, 2000, SPINE, V25, P3186, DOI 10.1097/00007632-200012150-00014
+   Camacho-Rivera M, 2014, J URBAN HEALTH, V91, P661, DOI 10.1007/s11524-014-9872-9
+   Dodt Regina Cláudia Melo, 2013, Texto contexto - enferm., V22, P610, DOI 10.1590/S0104-07072013000300006
+   Fundo das Nacoes Unidas para a Infancia (UNICEF), 2010, IND DES INF
+   Gandhi PK, 2013, RESP RES, V14, DOI 10.1186/1465-9921-14-26
+   Global Initiative For Asthma (GINA), 2013, WORLD ASTHM DAY
+   Gomes ALA, 2016, TEXTO CONTEXTO ENFER, V25, DOI 10.1590/0104-07072016002950015
+   Harrington KF, 2015, PEDIAT ALLER IMM PUL, V28, P20, DOI 10.1089/ped.2014.0379
+   Jones B., 2015, HE MARAMATANGA HUANG
+   Joventino ES, 2013, PUBLIC HEALTH NURS, V30, P150, DOI 10.1111/j.1525-1446.2012.01042.x
+   Joventino ES, 2015, INDIAN J APPL RES, V5, P688
+   Lakatos EM, 2010, FUNDAMENTOS METODOLO, V7
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   MARTINS G. A., 2009, METODOLOGIA INVESTIG
+   Maspero JF, 2013, WORLD ALLERGY ORGAN, V6, DOI 10.1186/1939-4551-6-19
+   Mertler C, 2005, ADV MULTIVARIATE STA
+   Stanford RH, 2013, AM J MANAG CARE, V19, P60
+   Stephan Ana Maria Siga, 2009, Rev. bras. epidemiol., V12, P671, DOI 10.1590/S1415-790X2009000400016
+   Tabachnick B. G., 2001, USING MULTIVARIATE S
+   Valizadeh Leila, 2014, J Caring Sci, V3, P121, DOI 10.5681/jcs.2014.013
+   Wang T, 2014, J HEALTH CARE POOR U, V25, P396, DOI 10.1353/hpu.2014.0051
+   WHO, 2014, GLOBAL STATUS REPORT ON VIOLENCE PREVENTION 2014, P1
+   Wood MR, 2010, J PEDIATR NURS, V25, P418, DOI 10.1016/j.pedn.2009.05.003
+   Zarei Ahmad Reza, 2014, J Caring Sci, V3, P185, DOI 10.5681/jcs.2014.020
+   Zhao J, 2013, BMC PLANT BIOL, V13, DOI 10.1186/1471-2229-13-110
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ASSOC BRASILEIRA ENFERMAGEM
+PI BRASILIA DF
+PA SGA NORTE QUADRA 603 CONJ B AV L2 NORTE, BRASILIA DF, 70830-030, BRAZIL
+SN 0034-7167
+EI 1984-0446
+J9 REV BRAS ENFERM
+JI Rev. Bras. Enferm.
+PD MAR-APR
+PY 2018
+VL 71
+IS 2
+BP 406
+EP 412
+DI 10.1590/0034-7167-2016-0528
+PG 7
+WC Nursing
+SC Nursing
+GA GB4VU
+UT WOS:000429061000024
+PM 29412300
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU de Sabino, LMM
+   Ferreira, AMV
+   Mendes, ERDR
+   Joventino, ES
+   Gubert, FD
+   da Penha, JC
+   Lima, KF
+   do Nascimento, LA
+   Ximenes, LB
+AF Moraes de Sabino, Leidiane Minervina
+   Vieira Ferreira, Adria Marcela
+   da Rocha Mendes, Elizamar Regina
+   Joventino, Emanuella Silva
+   Gubert, Fabiane do Amaral
+   da Penha, Jardeliny Corrrea
+   Lima, Kamila Ferreira
+   do Nascimento, Ludmila Alves
+   Ximenes, Lorena Barbosa
+TI Validation of primer for promoting maternal self-efficacy in preventing
+   childhood diarrhea
+SO REVISTA BRASILEIRA DE ENFERMAGEM
+LA English
+DT Article
+DE Childhood Diarrhea; Validation Studies; Self-Efficacy; Health Education;
+   Nursing
+ID EDUCATIONAL BOOKLET; HEALTH; REHYDRATION; KNOWLEDGE; VALIDITY; PATIENT;
+   MOTHERS; WOMEN
+AB Objective: to validate an educational primer, regarding content and design, for promoting maternal self-efficacy in preventing childhood diarrhea. Method: methodological study composed of 31 mothers of children under five years of age, in which the validation of the primer You can prevent diarrhea in your child! was carried out from the Content Validity Index (CVI), being evaluated as to the domains understanding, attractiveness, self-efficacy, cultural acceptance, and persuasion. Results: the primer was considered relevant and clear, with average concordance of 99.4% and 99.8%, respectively. The overall CVI was of 0.99, evidencing satisfactory level of agreement between the mothers. The assessment of domains generated satisfactory results. Conclusion: the primer was considered valid by the target audience; thus, it can be implemented for promoting maternal confidence to prevent childhood diarrhea.
+C1 [Moraes de Sabino, Leidiane Minervina; Vieira Ferreira, Adria Marcela; da Rocha Mendes, Elizamar Regina; Gubert, Fabiane do Amaral; Lima, Kamila Ferreira; do Nascimento, Ludmila Alves; Ximenes, Lorena Barbosa] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Joventino, Emanuella Silva] Univ Integracao Internac Lusofonia Afro Brasileir, Redencao, Ceara, Brazil.
+   [da Penha, Jardeliny Corrrea] Univ Fed Piaui, Floriano, Piaui, Brazil.
+RP de Sabino, LMM (corresponding author), Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+EM leidinhamoraes@hotmail.com
+RI da Penha, Jardeliny Correa/AAQ-8514-2020
+OI da Penha, Jardeliny Correa/0000-0001-5956-9072; da Rocha Mendes,
+   Elizamar Regina/0000-0002-1552-5622; do Amaral Gubert,
+   Fabiane/0000-0003-3016-9619
+FU Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e
+   Tecnologico/Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (Funcap/CNPq) [13506680-8]
+FX Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e
+   Tecnologico/Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (Funcap/CNPq - Process 13506680-8).
+CR Aluisio AR, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0116342
+   Athilingam P, 2016, CIN-COMPUT INFORM NU, V34, P92, DOI 10.1097/CIN.0000000000000216
+   BANDURA A, 1989, DEV PSYCHOL, V25, P729, DOI 10.1037/0012-1649.25.5.729
+   Bandura A, 2012, J MANAGE, V38, P9, DOI 10.1177/0149206311410606
+   Berardinelli LMM, 2014, REV ENFERM UERJ, V22, P603
+   Bookari K, 2017, WOMEN BIRTH, V30, P9, DOI 10.1016/j.wombi.2016.05.010
+   Brasil. Ministerio da Saude, 2005, DOENC DIARR ROT VIG
+   de Souza ACC, 2014, REV ESC ENFERM USP, V48, P941, DOI 10.1590/S0080-623420140000500023
+   Choi J, 2012, INT J NURS PRACT, V18, P373, DOI 10.1111/j.1440-172X.2012.02051.x
+   Das JK, 2016, CURR OPIN GASTROEN, V32, P18, DOI 10.1097/MOG.0000000000000236
+   de Oliveira SC, 2014, REV LAT-AM ENFERM, V22, P611, DOI 10.1590/0104-1169.3313.2459
+   do Rego AP, 2014, REV RENE, V15, P29, DOI 10.15253/2175-6783.2014000100005
+   Doak C. C., 1996, TEACHING PATIENTS LO
+   Afio ACE, 2014, REV RENE, V15, P158, DOI 10.15253/2175-6783.2014000100020
+   Fehring R., 1986, P C N AM NURS DIAGN, P183
+   Fernandes Márcia Vanusa Lima, 2006, Acta paul. enferm., V19, P174, DOI 10.1590/S0103-21002006000200009
+   Gaffey MF, 2013, BMC PUBLIC HLTH S3, V13, P17
+   HORNUNG TS, 1995, LANCET, V345, P1243, DOI 10.1016/S0140-6736(95)92028-5
+   Joventino E. S., 2014, Health, V6, P2867, DOI 10.4236/health.2014.621325
+   Joventino ES, 2013, PUBLIC HEALTH NURS, V30, P150, DOI 10.1111/j.1525-1446.2012.01042.x
+   Joventino ES, 2017, INT J NURS PRACT, V23, DOI 10.1111/ijn.12524
+   Kumar S, 2016, J CLIN PEDIATR DENT, V40, P44, DOI 10.17796/1053-4628-40.1.44
+   Albuquerque AFLL, 2016, REV BRAS ENFERM, V69, P1099, DOI 10.1590/0034-7167-2016-0302
+   Dodt RCM, 2015, REV LAT-AM ENFERM, V23, P725, DOI 10.1590/0104-1169.0295.2609
+   Muller I, 2015, BMJ OPEN, V5, DOI 10.1136/bmjopen-2015-007680
+   Munos MK, 2010, INT J EPIDEMIOL, V39, P75, DOI 10.1093/ije/dyq025
+   Nascimento LA, 2015, HEALTH, V7, P192, DOI DOI 10.4236/HEALTH.2015.72022
+   Negretto GW, 2011, REV HCPA, V31, P433
+   Norwood S., 2006, RES STRATEGIES ADV P
+   O'Malley L, 2017, HEALTH PSYCHOL, V36, P152, DOI 10.1037/hea0000428
+   Oliveira Paula Marciana Pinheiro de, 2014, Texto contexto - enferm., V23, P134, DOI 10.1590/S0104-07072014000100016
+   Polit DF, 2006, RES NURS HEALTH, V29, P489, DOI 10.1002/nur.20147
+   Teles LMR, 2014, REV ESC ENFERM USP, V48, P977, DOI 10.1590/S0080-623420140000700003
+   Rodrigues AP, 2013, ACTA PAUL ENFERM, V26, P586, DOI 10.1590/S0103-21002013000600013
+   Walker CLF, 2013, LANCET, V381, P1405, DOI 10.1016/S0140-6736(13)60222-6
+NR 35
+TC 1
+Z9 1
+U1 1
+U2 1
+PU ASSOC BRASILEIRA ENFERMAGEM
+PI BRASILIA DF
+PA SGA NORTE QUADRA 603 CONJ B AV L2 NORTE, BRASILIA DF, 70830-030, BRAZIL
+SN 0034-7167
+EI 1984-0446
+J9 REV BRAS ENFERM
+JI Rev. Bras. Enferm.
+PY 2018
+VL 71
+SU 3
+BP 1412
+EP 1419
+DI 10.1590/0034-7167-2017-0341
+PG 8
+WC Nursing
+SC Nursing
+GA GM0PT
+UT WOS:000437757200027
+PM 29972542
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Joventino, ES
+   Ximenes, LB
+   da Penha, JC
+   Andrade, LCD
+   de Almeida, PC
+AF Joventino, Emanuella Silva
+   Ximenes, Lorena Barbosa
+   da Penha, Jardeliny Correa
+   de Oliveira Andrade, Lucilande Cordeiro
+   de Almeida, Paulo Cesar
+TI The use of educational video to promote maternal self-efficacy in
+   preventing early childhood diarrhoea
+SO INTERNATIONAL JOURNAL OF NURSING PRACTICE
+LA English
+DT Article
+DE children; diarrhoea; education; maternal behaviour; nursing;
+   self-efficacy
+ID RANDOMIZED CONTROLLED-TRIAL; RESPIRATORY-INFECTIONS; HEALTH-CARE;
+   HYGIENE; MORTALITY; RISK; INTERVENTION; MORBIDITY; CHILDREN; PROGRAM
+AB Diarrhoea is responsible for high rates of infant morbidity and mortality. It is multifactorial, manifested by socioeconomic, hygienic, and maternal factors. The aim of this study is to evaluate the effects of an educational video on maternal self-efficacy for the prevention of childhood diarrhoea. This was a randomized trial conducted in the state of Ceara, Brazil. Participants were 2 groups (comparison and intervention), composed of mothers of children under 5years of age. Group membership was allocated by cluster randomization. Outcomes were maternal self-efficacy measured using the Maternal Self-efficacy Scale for Prevention of Early Childhood Diarrhoea; outcome data collectors were blinded to group allocation. Ninety participants were randomized to each group; 83 intervention group and 80 comparison group members were contained in the final analysis. Maternal self-efficacy in preventing childhood diarrhoea increased in both groups, but average scores of the intervention group were higher at all time than those of the comparison group. The educational video had a significant effect on maternal self-efficacy.
+C1 [Joventino, Emanuella Silva] Univ Int Integrat African Brazilian Lusophony, Nursing Sch, Redencao, Ceara, Brazil.
+   [Ximenes, Lorena Barbosa; de Oliveira Andrade, Lucilande Cordeiro] Univ Fed Ceara, Sch Nursing, Fortaleza, Ceara, Brazil.
+   [da Penha, Jardeliny Correa] Univ Fed Piaui, Sch Nursing, Coelho Rodrigues St 350, BR-64800000 Floriano, Piaui, Brazil.
+   [de Almeida, Paulo Cesar] Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+RP da Penha, JC (corresponding author), Univ Fed Piaui, Sch Nursing, Coelho Rodrigues St 350, BR-64800000 Floriano, Piaui, Brazil.
+EM jardelinypenha@yahoo.com.br
+RI da Penha, Jardeliny Correa/AAQ-8514-2020
+OI da Penha, Jardeliny Correa/0000-0001-5956-9072
+CR Abu-Baker NN, 2013, J RES NURS, V18, P651, DOI 10.1177/1744987112451576
+   Agustina R, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-977
+   Aiello AE, 2002, LANCET INFECT DIS, V2, P103, DOI 10.1016/S1473-3099(02)00184-6
+   Aiello AE, 2008, AM J PUBLIC HEALTH, V98, P1372, DOI 10.2105/AJPH.2007.124610
+   Anderson FWJ, 2007, MATERN CHILD HLTH J, V11, P395, DOI 10.1007/s10995-006-0173-0
+   Arango HG, 2009, BIOESTATISTICA TEORI
+   Bandura A, 2012, J MANAGE, V38, P9, DOI 10.1177/0149206311410606
+   Bartlett LA, 2005, LANCET, V365, P864, DOI 10.1016/S0140-6736(05)71044-8
+   Bernardi JR, 2011, CAD SAUDE PUBLICA, V27, P1213, DOI 10.1590/S0102-311X2011000600018
+   Caruso B, 2010, REV PANAM SALUD PUBL, V28, P429, DOI 10.1590/S1020-49892010001200004
+   Cullum N, 2010, ENFERMAGEM BASEADA E
+   de Jager E, 2013, MIDWIFERY, V29, P506, DOI 10.1016/j.midw.2012.04.009
+   Dreibelbis R, 2014, AM J PUBLIC HEALTH, V104, pE91, DOI 10.2105/AJPH.2013.301412
+   Galvez CA, 2010, GLOB HEALTH PROMOT, V17, P82, DOI 10.1177/1757975910365266
+   Genser B, 2006, EPIDEMIOLOGY, V17, P658, DOI 10.1097/01.ede.0000239728.75215.86
+   Ghimire M, 2010, B WORLD HEALTH ORGAN, V88, P216, DOI 10.2471/BLT.09.065649
+   Habib MA, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-922
+   Huq MN, 2008, MATERN CHILD HLTH J, V12, P43, DOI 10.1007/s10995-007-0303-3
+   Isanaka S, 2012, B WORLD HEALTH ORGAN, V90, P635, DOI 10.2471/BLT.12.109504
+   Jenkins MW, 2013, INT HEALTH, V5, P295, DOI 10.1093/inthealth/iht026
+   Joventino E. S., 2013, THESIS
+   Joventino ES, 2013, PUBLIC HEALTH NURS, V30, P150, DOI 10.1111/j.1525-1446.2012.01042.x
+   Liu J. P., 2009, THESIS
+   Luby SP, 2005, LANCET, V366, P225, DOI 10.1016/S0140-6736(05)66912-7
+   McQueen KA, 2011, JOGNN-J OBST GYN NEO, V40, P35, DOI 10.1111/j.1552-6909.2010.01210.x
+   Dodt RCM, 2015, REV LAT-AM ENFERM, V23, P725, DOI 10.1590/0104-1169.0295.2609
+   Mendes PSD, 2013, J PEDIAT-BRAZIL, V89, P315, DOI 10.1016/j.jped.2012.10.002
+   Nascimento LA, 2014, ONLINE BRAZILIAN J N, V13, P311, DOI DOI 10.5935/1676-4285.20144702
+   Popoola T, 2015, INT J NURS PRACT, V21, P67, DOI 10.1111/ijn.12328
+   Rabie T, 2006, TROP MED INT HEALTH, V11, P258, DOI 10.1111/j.1365-3156.2006.01568.x
+   SAMPIERI R. H., 2006, METODOLOGIA PESQUISA
+   United Nations Children's Fund, 2012, STAT WORLDS CHILDR 2
+   United Nations Children's Fund, 2012, PNEUM DIARRH TACKL D
+   United Nations Children's Fund and World Health Organization, 2009, DIARRH WHY CHILDR AR
+   United States Agency for International Development UNICEF World Health Organization, 2005, DIARRH TREATM GUID I
+   Usfar AA, 2010, J NUTR EDUC BEHAV, V42, P33, DOI 10.1016/j.jneb.2009.03.003
+   WHO. UNICEF, 2013, END PREV CHILD DEATH
+   WorldHealthOrganization, 2005, WORLD HLTH REP 2005
+NR 38
+TC 4
+Z9 4
+U1 0
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1322-7114
+EI 1440-172X
+J9 INT J NURS PRACT
+JI Int. J. Nurs. Pract.
+PD JUN
+PY 2017
+VL 23
+IS 3
+AR e12524
+DI 10.1111/ijn.12524
+PG 7
+WC Nursing
+SC Nursing
+GA FB3XV
+UT WOS:000406077000003
+PM 28124405
+OA Green Published
+DA 2020-11-26
+ER
+
+PT J
+AU Melo, FMD
+   de Oliveira, BSB
+   de Oliveira, RKL
+   Bezerra, JC
+   da Silva, MJN
+   Joventino, ES
+AF de Sousa Melo, Francisca Mayra
+   Bessa de Oliveira, Brena Shellem
+   Lopes de Oliveira, Rhaiany Kelly
+   Bezerra, Jallyne Colares
+   Nascimento da Silva, Maria Jocelane
+   Joventino, Emanuella Silva
+TI Nurses' knowledge about work accidents
+SO REV RENE
+LA English
+DT Article
+DE Occupational Risks; Accident Prevention; Occupational Health;
+   Occupational Health Nursing
+AB Objective: to understand the knowledge of nurses about work accidents. Methods: qualitative research carried out with ten nurses working in Primary Health Care Services. Data collection was performed through recorded semi-structured interview. The speeches were transcribed and analyzed using the categorization technique. Results: two categories emerged in the participants' speeches: Knowledge about scope and concept of Work Accident; Knowledge about prevention and measures after exposure to biological material. Actions based on changes in the work process and in the qualification of the nursing professional become necessary for adequate and safe care. Conclusion: there was an incipient knowledge of the majority of the interviewees regarding some aspects of occupational health and the need for interventions capable of reducing the occurrence of these accidents.
+C1 [de Sousa Melo, Francisca Mayra; Bessa de Oliveira, Brena Shellem; Lopes de Oliveira, Rhaiany Kelly; Bezerra, Jallyne Colares; Nascimento da Silva, Maria Jocelane; Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afro Brasileira, Redencao, CE, Brazil.
+RP da Silva, MJN (corresponding author), Rua Santos Dumont 411, BR-62790000 Redencao, CE, Brazil.
+EM jocelane.nascimento.silva@gmail.com
+RI Rene/M-6342-2019
+OI Nascimento da Silva, Maria Jocelane/0000-0003-1764-7460
+CR Almeida LGN, 2012, REV ENFERM CONT, V1, P142, DOI DOI 10.17267/2317-3378REC.V1I1.51
+   Bardin L., 2011, ANALISE CONTEUDO
+   Caprara A, 2008, INTERFACE-BOTUCATU, V12
+   Cardoso MLLO, 2015, REV RECIEN, V5, P30
+   Dias Maria Dionísia do Amaral, 2011, Trab. educ. saúde, V9, P137, DOI 10.1590/S1981-77462011000100010
+   Donatelli S, 2015, SAUDE SOC-SAO PAULO, V24, P1257, DOI 10.1590/S0104-12902015136790
+   Falkenberg MB, 2014, CIENC SAUDE COLETIVA, V19, P847, DOI 10.1590/1413-81232014193.01572013
+   Holmes ES, 2014, J RES FUNDAM CARE ON, V6, P1384
+   Lobiondo-Wood G, 2001, PESQUISA ENFERMAGEM
+   Martiniano CS, 2012, REV BRAS CIENC SAUDE, V16, P325
+   Ministerio da Saude. Secretaria de Atencao a Saude. Departamento de DST AIDS e Hepatites virais, 2015, PROT CLIN DIR TER PR
+   Moura MEB, 2012, REV RENE, V13, P1132
+   Marziale MHP, 2012, ACTA PAUL ENFERM, V25, P859, DOI 10.1590/S0103-21002012000600006
+   Pimenta FR, 2013, REV ESC ENFERM USP, V47, P194
+   Previdencia Social (BR), 2014, AN EST AC TRAB
+   Reis Phillipe Geraldo Teixeira de Abreu, 2013, Rev. Col. Bras. Cir., V40, P287, DOI 10.1590/S0100-69912013000400006
+   Rezende LCM, 2015, REV BAIANA ENFERM, V29, P307, DOI DOI 10.18471/RBE.V29I4.13559
+   Santos EI, 2015, REV BAIANA ENFERM, V29, P391
+   VICTORA C. G., 2000, PESQUISA QUALITATIVA, P33
+   Villarinho Mariana Vieira, 2015, Rev. Bras. Enferm., V68, P656, DOI 10.1590/0034-7167.2015680412i
+NR 20
+TC 1
+Z9 1
+U1 0
+U2 6
+PU UNIV FEDERAL CEARA, DEPT ENFERMAGEM
+PI CEARA
+PA AVDA UNIVERSIDADE, CAIXA POSTAL 1000, FORTALEZA, CEARA, 00000, BRAZIL
+SN 1517-3852
+EI 2175-6783
+J9 REV RENE
+JI Rev Rene
+PD MAR-APR
+PY 2017
+VL 18
+IS 2
+BP 173
+EP 180
+DI 10.15253/2175-6783.2017000200005
+PG 8
+WC Nursing
+SC Nursing
+GA FH3TX
+UT WOS:000411074000005
+OA DOAJ Gold, Green Published
+DA 2020-11-26
+ER
+
+PT J
+AU da Silva, EB
+   Monteiro, FPM
+   dos Santos, SS
+   Joventino, ES
+   Rouberte, ESC
+AF da Silva, Evair Barreto
+   Magalhaes Monteiro, Flavia Paula
+   dos Santos, Sabrina Silva
+   Joventino, Emanuella Silva
+   Chaves Rouberte, Emilia Soares
+TI Mapping of nursing activities related to diagnosis: delayed growth and
+   development
+SO REV RENE
+LA English
+DT Article
+DE Growth and Development; Child Health; Nursing
+AB Objective: to map nursing activities related to the NANDA-I "delay in growth and development" diagnosis and to compare them with the activities recommended by the Nursing Intervention Classification. Methods: this is a quantitative study performed with primary care nurses. Professional identification variables and a list of defining characteristics of the diagnosis under study were collected for nurses to list nursing activities. Results: all participants were female, mean age of 42.2 years old, and 8.2 years of exercise in primary care. A total of 42 nursing activities were compared with four nursing interventions: 1) improvement of child development; 2) care for development; 3) developmental improvement: adolescent; 4) orientation to parents: raising children. Conclusion: most of the nursing activities developed by the participants correspond to those recommended by the Classification of Nursing Interventions.
+C1 [da Silva, Evair Barreto; Magalhaes Monteiro, Flavia Paula; dos Santos, Sabrina Silva; Joventino, Emanuella Silva; Chaves Rouberte, Emilia Soares] Univ Integracao Int Lusofonia Afro Brasileira, Redencao, CE, Brazil.
+RP da Silva, EB (corresponding author), Rua Ludugero Guilherme da Costa 176, BR-62790000 Redencao, CE, Brazil.
+EM evairbarreto@bol.com.br
+RI Rene/M-6342-2019; Santos, Sabrina/S-7243-2017
+OI Santos, Sabrina/0000-0002-2785-4992
+CR Bulechek GM, 2007, NURSING INTERVENTION
+   Costa L, 2012, CIENC CUID SAUDE, V11, P792
+   Campos RMC, 2011, REV ESC ENFERM USP, V45, P565
+   da Silva SS, 2015, REV ESC ENFERM USP, V49, P600, DOI 10.1590/S0080-623420150000400010
+   Dantas AMN, 2016, REV ELETR ENF, P18
+   Falbo BCP, 2012, REV BRAS ENFERM, V65, P48
+   Fundacao das Nacoes Unidas para a Infancia, 2012, SIT MUND INF CRIANC
+   Herdman TH, 2012, NANDA INT NURSING DI
+   Ministerio da Saude (BR), 2012, SAUD CRIANC CRESC DE
+   Ministerio da Saude (BR), 2002, SAUD CRIANC CRESC DE
+   Monteiro FPM, 2016, TEXTO CONTEXTO ENFER, V25
+   Monteiro FPM, 2008, REV ELETR ENF, V10, P563
+   Moorhead S, 1997, Nurs Diagn, V8, P137
+   Nunes DP, 2013, REV ENFERM, V21, P754
+   Reichert APS, 2012, REV RENE, V13, P114, DOI DOI 10.15253/REV%
+   Santos WN, 2014, J MANAG PRIM HLTH CA, V5, P153
+NR 16
+TC 1
+Z9 1
+U1 1
+U2 4
+PU UNIV FEDERAL CEARA, DEPT ENFERMAGEM
+PI CEARA
+PA AVDA UNIVERSIDADE, CAIXA POSTAL 1000, FORTALEZA, CEARA, 00000, BRAZIL
+SN 1517-3852
+EI 2175-6783
+J9 REV RENE
+JI Rev Rene
+PD MAR-APR
+PY 2017
+VL 18
+IS 2
+BP 234
+EP 241
+DI 10.15253/2175-6783.2017000200013
+PG 8
+WC Nursing
+SC Nursing
+GA FH3TX
+UT WOS:000411074000013
+OA DOAJ Gold, Green Published
+DA 2020-11-26
+ER
+
+PT J
+AU Gomes, ALA
+   Lima, KF
+   Mendes, ERD
+   Joventino, ES
+   Martins, MC
+   de Almeida, PC
+   Ximenes, LB
+AF Araujo Gomes, Ana Lucia
+   Lima, Kamila Ferreira
+   da Rocha Mendes, Elizamar Regina
+   Joventino, Emanuella Silva
+   Martins, Mariana Cavalcante
+   de Almeida, Paulo Cesar
+   Ximenes, Lorena Barbosa
+TI Association of self-efficacy of parents/caregivers with childhood asthma
+   control parameters
+SO REVISTA DA ESCOLA DE ENFERMAGEM DA USP
+LA English
+DT Article
+DE Child; Asthma; Caregivers; Self Efficacy; Pediatric Nursing
+AB Objective: To verify the association between the self-efficacy of parents/caregivers and control parameters of childhood asthma. Method: Cross-sectional study with parents/caregivers of asthmatic children. Data were collected through a sociodemographic questionnaire and the Self-efficacy and their child's level of asthma control scale: Brazilian version. Results: Participation of 216 parents/caregivers in the study. There was a statistically significant association between self-efficacy scores and the following variables: unscheduled physician visit (p=0.001), visit to emergency department (p<0.001), hospital stays in the previous 12 months (p=0.005), physical activity limitation (p=0.003), school days missed (p<0.001), impaired sleep (p<0.001), ability to differentiate crisis medication from control medication (p=0.024), use of spacer (p=0.001), performing oral hygiene after use of inhaled corticosteroids (p=0.003), and knowledge of medication gratuity (p=0.004). Conclusion: A significant relationship of the self-efficacy of parents/caregivers of asthmatic children with control parameters and training on the necessary skills to reach this control was demonstrated in the study.
+C1 [Araujo Gomes, Ana Lucia; Lima, Kamila Ferreira; da Rocha Mendes, Elizamar Regina; Martins, Mariana Cavalcante; Ximenes, Lorena Barbosa] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afrobrasileira, Redencao, CE, Brazil.
+   [de Almeida, Paulo Cesar] Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+RP Lima, KF (corresponding author), Rua Alexandre Barauna,1115 Rodolfo Teofilo, BR-60416000 Fortaleza, Ceara, Brazil.
+EM limakamila@yahoo.com.br
+OI da Rocha Mendes, Elizamar Regina/0000-0002-1552-5622
+CR Akinbami Lara J, 2012, NCHS Data Brief, P1
+   Andrews AL, 2012, J PEDIATR-US, V160, P325, DOI 10.1016/j.jpeds.2011.07.037
+   [Anonymous], 2012, J BRAS PNEUMOL, V38, pS1
+   Bandura A., 2012, J MANAG, V31, P9
+   Carroll WD, 2012, EUR RESPIR J, V39, P90, DOI 10.1183/09031936.00048911
+   Cohen S, 2015, RESPIRATION, V89, P27, DOI 10.1159/000368613
+   Comaru T, 2016, RESP MED, V121, P21, DOI 10.1016/j.rmed.2016.10.008
+   Galland BC, 2012, SLEEP MED REV, V16, P213, DOI 10.1016/j.smrv.2011.06.001
+   Global Asthma Network, 2014, GLOB ASTHM REP 2014
+   Global Initiative for Asthma, 2017, GLOB STRAT ASTHM MAN
+   Global Initiative for Asthma, 2015, POCK GUID HLTH PROF
+   Gomes ALA, 2016, TEXTO CONTEXTO ENFER, V25, DOI 10.1590/0104-07072016002950015
+   Harrington H, 2017, DENT ABSTRACTS, V62, P91
+   Instituto Brasileiro de Geografia e Estatistica, 2013, SINT IND SOC AN COND
+   Johnson MAJ, 2015, J PEDIATR NURS, V30, pE83, DOI 10.1016/j.pedn.2015.05.014
+   Lochte L, 2016, BMC PEDIATR, V16, DOI 10.1186/s12887-016-0571-4
+   Mendes EV, 2012, CUIDADO CONDICOES CR
+   Ministerio da Saude. Banco de Dados do Sistema Unico de Saude (DATASUS), 2016, INF SAUD EP MORB
+   Mohajjel AA, 2013, J GORGAN UNI MED SCI, V15, P70
+   Page TF, 2013, J ASTHMA, V50, P480, DOI 10.3109/02770903.2013.790416
+   Pinnock H, 2017, BMC MED, V15, DOI 10.1186/s12916-017-0823-7
+   Rajabi R, 2016, IRAN RED CRESCENT ME, V5, P41
+   Warren-Findlow J, 2012, J COMMUN HEALTH, V37, P15, DOI 10.1007/s10900-011-9410-6
+   Zhao J, 2013, BMC PEDIATR, V13, DOI 10.1186/1471-2431-13-20
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 3
+PU UNIV SAO PAOLO
+PI CERQUERA CESAR
+PA AV  DR ENEAS DE CARVALHO AGUIAR, 419, CERQUERA CESAR, SP 05403-000,
+   BRAZIL
+SN 0080-6234
+EI 1980-220X
+J9 REV ESC ENFERM USP
+JI Rev. Esc. Enferm. USP
+PY 2017
+VL 51
+AR e03282
+DI 10.1590/S1980-220X2017008003282
+PG 6
+WC Nursing
+SC Nursing
+GA GA1EK
+UT WOS:000428058100001
+PM 29562048
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Benevides, JL
+   Coutinho, JFV
+   Pascoal, LC
+   Joventino, ES
+   Martins, MC
+   Gubert, FD
+   Alves, AM
+AF Benevides, Jessica Lima
+   Victor Coutinho, Janaina Fonseca
+   Pascoal, Liliane Chagas
+   Joventino, Emanuella Silva
+   Martins, Mariana Cavalcante
+   Gubert, Fabiane do Amaral
+   Alves, Allana Mirella
+TI Development and validation of educational technology for venous ulcer
+   care
+SO REVISTA DA ESCOLA DE ENFERMAGEM DA USP
+LA English
+DT Article
+DE Varicose Ulcer; Health Education; Educational Technology; Nursing Care;
+   Validation Studies
+ID BRAZIL; PROMOTION; BOOKLET
+AB Objective: To develop and validate an educational technology venous ulcers care. Method: Methodological study conducted in five steps: Situational diagnosis; literature review; development of texts, illustrations and layout; apparent and content validity by the Content Validity Index, assessment of Flesch Readability Index; and pilot testing. Results: The developed technology was a type of booklet entitled Booklet for Venous Ulcers Care, consisting of seven topics: Diet and food intake, walking and light exercise, resting with elevated leg, bandage care, compression therapy, family support, and keeping healthy habits. The apparent validity revealed minimal agreement of 85.7% in the clarity and comprehensibility. The total content validity index was 0.97, the Flesch Readability Index was 75%, corresponding to the reading "fairly easy". The pilot test showed that 100% of people with venous ulcers evaluated the text and the illustrations as understandable, as appropriate. Conclusion: The educational technology proved to be valid for the appearance and content with potential for use in clinical practice.
+C1 [Benevides, Jessica Lima; Alves, Allana Mirella] Univ Fed Ceara, Dept Enfermagem, Programa Posgrad Enfermagem, Fortaleza, Ceara, Brazil.
+   [Victor Coutinho, Janaina Fonseca; Martins, Mariana Cavalcante; Gubert, Fabiane do Amaral] Univ Fed Ceara, Dept Enfermagem, Fortaleza, Ceara, Brazil.
+   [Pascoal, Liliane Chagas] Hosp Geral Fortaleza, Fortaleza, Ceara, Brazil.
+   [Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afrobrasileira, Fortaleza, Ceara, Brazil.
+RP Benevides, JL (corresponding author), Rua Alexandre Barauna,1-115,Sala 5, BR-60430160 Fortaleza, Ceara, Brazil.
+EM jessicalbenevides@yahoo.com.br
+OI Martins, Mariana/0000-0001-8234-8980; do Amaral Gubert,
+   Fabiane/0000-0003-3016-9619
+CR Berardinelli LMM, 2014, REV ENFERM UERJ, V22, P603
+   de Souza EM, 2013, ANN VASC SURG, V27, P571, DOI 10.1016/j.avsg.2012.07.021
+   Mota FRD, 2015, REV ESC ENFERM USP, V49, P424, DOI 10.1590/S0080-623420150000300010
+   Finlayson K, 2015, INT J NURS STUD, V52, P1042, DOI 10.1016/j.ijnurstu.2015.02.016
+   Flesch R, 2001, WRITE PLAIN ENGLISH
+   Freitas Fernanda Valéria de, 2011, Interface (Botucatu), V15, P243
+   Heinen M, 2012, INT J NURS STUD, V49, P151, DOI 10.1016/j.ijnurstu.2011.09.005
+   JASPER MA, 1994, J ADV NURS, V20, P769, DOI 10.1046/j.1365-2648.1994.20040769.x
+   Lacerda RA, 2011, REV ESC ENFERM USP, V45, P773
+   MAFFEI FHA, 1986, INT J EPIDEMIOL, V15, P210, DOI 10.1093/ije/15.2.210
+   MaineHealth, 2010, GUID CREAT EV PAT MA
+   Martins MC, 2012, REV ESC ENFERM USP, V46, P1355
+   Vasconcelos CTM, 2011, REV LAT-AM ENFERM, V19, P97, DOI 10.1590/S0104-11692011000100014
+   Newton H., 2010, WOUND ESSENTIALS, V5, P69
+   Polit DF, 2006, RES NURS HEALTH, V29, P489, DOI 10.1002/nur.20147
+   Poskitt KR, 2010, SURGERY, V28, P273
+   Reberte LM, 2012, REV LAT-AM ENFERM, V20, P101, DOI 10.1590/S0104-11692012000100014
+   Teles LMR, 2014, REV ESC ENFERM USP, V48, P977, DOI 10.1590/S0080-623420140000700003
+   Rodrigues AP, 2013, ACTA PAUL ENFERM, V26, P586, DOI 10.1590/S0103-21002013000600013
+   Scotton MF, 2014, AN BRAS DERMATOL, V89, P414, DOI 10.1590/abd1806-4841.20142687
+NR 20
+TC 23
+Z9 27
+U1 0
+U2 17
+PU UNIV SAO PAOLO
+PI CERQUERA CESAR
+PA AV  DR ENEAS DE CARVALHO AGUIAR, 419, CERQUERA CESAR, SP 05403-000,
+   BRAZIL
+SN 0080-6234
+J9 REV ESC ENFERM USP
+JI Rev. Esc. Enferm. USP
+PD MAR-APR
+PY 2016
+VL 50
+IS 2
+BP 306
+EP 312
+DI 10.1590/S0080-623420160000200018
+PG 7
+WC Nursing
+SC Nursing
+GA DS1PE
+UT WOS:000380367600020
+PM 27384212
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Veras, JEGLF
+   Joventino, ES
+   Coutinho, JFV
+   Lima, FET
+   Rodrigues, AP
+   Ximenes, LB
+AF Lacerda Freitas Veras, Joelna Eline Gomes
+   Joventino, Emanuella Silva
+   Victor Coutinho, Janaina Fonseca
+   Teixeira Lima, Francisca Elisangela
+   Rodrigues, Andressa Peripolli
+   Ximenes, Lorena Barbosa
+TI Risk classification in pediatrics: development and validation of a guide
+   for nurses
+SO REVISTA BRASILEIRA DE ENFERMAGEM
+LA English
+DT Article
+DE Pediatric Nursing; Nursing Assessment; User embracement; Triage.
+   Validation Studies
+AB Objective: to develop and validate a short guide for the protocol to user embracement with risk classification in pediatrics. Method: methodological study developed in two stages: development of the guide, and face and content validation. The development involved the stratification of the protocol contents into five risk indicators according to the level of complexity; subsequently it was submitted to validation by nine experts divided in two groups: professors who were also researchers, and nurses. Results: in the face validation the experts considered the 25 items of the guide clear and understandable, with agreement levels above 70%. In the content validation, 17 (68%) items were considered relevant by 88.9% of the experts. The eight items considered irrelevant were changed according to suggestions of the experts, yielding an overall content validity index of 0.98. Conclusion: the study resulted in a guide for the classification of risks in pediatrics that is valid to assess children in emergency services.
+C1 [Lacerda Freitas Veras, Joelna Eline Gomes; Joventino, Emanuella Silva; Victor Coutinho, Janaina Fonseca; Teixeira Lima, Francisca Elisangela; Rodrigues, Andressa Peripolli; Ximenes, Lorena Barbosa] Univ Fed Ceara, Fac Pharm Dent & Nursing, Postgrad Program Nursing, Fortaleza, Ceara, Brazil.
+RP Veras, JEGLF (corresponding author), Univ Fed Ceara, Fac Pharm Dent & Nursing, Postgrad Program Nursing, Fortaleza, Ceara, Brazil.
+EM joelnaveras@ufc.br
+CR Bellucci JA, 2012, TEXTO CONTEXTO ENFER, V21, P217, DOI 10.1590/S0104-07072012000100025
+   Buhler HF, 2014, CIENC SAUDE COLETIVA, V19, P4131, DOI 10.1590/1413-812320141910.09282014
+   Cioffi J, 2000, HEART LUNG, V29, P262, DOI 10.1067/mhl.2000.108327
+   Cullum N, 2010, ENFERMAGEM BASEADA E
+   Selhorst ISD, 2014, REV BRAS ENFERM, V67, P575, DOI 10.1590/0034-7167.2014670412
+   de Souza CC, 2011, REV LAT-AM ENFERM, V19, P26, DOI 10.1590/S0104-11692011000100005
+   Doak C. C., 1996, TEACHING PATIENTS LO
+   Fuentes A, 2010, BRAIN INJURY, V24, P995, DOI 10.3109/02699052.2010.489791
+   Gilboy N, 2012, EMERGENCY SEVERITY I
+   Gravel J, 2009, CAN J EMERG MED, V11, P23
+   Huang DT, 2004, CRIT CARE, V8, P498, DOI 10.1186/cc2920
+   Lobiondo-Wood G, 2001, PESQUISA ENFERMAGEM
+   LOWE RA, 1994, ANN EMERG MED, V23, P286, DOI 10.1016/S0196-0644(94)70042-7
+   Lyon N, 2007, PAEDIAT TRIAGE TOOL
+   Dodt RCM, 2012, ACTA PAUL ENFERM, V25, P225, DOI 10.1590/S0103-21002012000200011
+   Melo RP, 2011, REV RENE, V12, P424
+   Ministerio da Saude (BR), 2008, PROT AC COM CLASS RI
+   Ministerio da Saude (BR), 2009, DIR NAC PREV CONTR E
+   Pardey TGM, 2006, AUSTRALAS EMERG NURS, V9, P155, DOI 10.1016/j.aenj.2006.09.003
+   Pereira FD, 2011, ONLINE BRAZ J NURS, V10, P1
+   Pires PS, 2005, REV EMERGENCIA, V1, P14
+   Polit DF, 2006, RES NURS HEALTH, V29, P489, DOI 10.1002/nur.20147
+   da Silva EMR, 2011, ACTA PAUL ENFERM, V24, P799, DOI 10.1590/S0103-21002011000600012
+   Rossato Lisabelle Mariano, 2006, Rev. Latino-Am. Enfermagem, V14, P702, DOI 10.1590/S0104-11692006000500010
+   Warren DW, 2008, CAN J EMERG MED, V10, P224
+NR 25
+TC 1
+Z9 2
+U1 0
+U2 2
+PU ASSOC BRASILEIRA ENFERMAGEM
+PI BRASILIA DF
+PA SGA NORTE QUADRA 603 CONJ B AV L2 NORTE, BRASILIA DF, 70830-030, BRAZIL
+SN 0034-7167
+EI 1984-0446
+J9 REV BRAS ENFERM
+JI Rev. Bras. Enferm.
+PD SEP-OCT
+PY 2015
+VL 68
+IS 5
+BP 630
+EP 639
+DI 10.1590/0034-7167.2015680521p
+PG 10
+WC Nursing
+SC Nursing
+GA V1W1N
+UT WOS:000217289400019
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Dodt, RCM
+   Joventino, ES
+   Aquino, PS
+   Almeida, PC
+   Ximenes, LB
+AF Melo Dodt, Regina Claudia
+   Joventino, Emanuella Silva
+   Aquino, Priscilla Souza
+   Almeida, Paulo Cesar
+   Ximenes, Lorena Barbosa
+TI An experimental study of an educational intervention to promote maternal
+   self-efficacy in breastfeeding
+SO REVISTA LATINO-AMERICANA DE ENFERMAGEM
+LA English
+DT Article
+DE Validation Studies; Educational Technology; Breast Feeding; Self
+   Efficacy; Nursing
+ID PSYCHOMETRIC ASSESSMENT; DURATION
+AB Objective: to build, validate and assess an educational intervention using the flip chart titled "I Can Breastfeed My Child." Method: an experimental study using a pretest, intervention and posttest, as well as a control group. A total of 201 women, who had been hospitalized immediately, for at least 6 hours, postpartum. The mothers were allocated to the intervention (100 women) or control groups (101 women) according to the length of their hospital stay. The effectiveness of the flip chart was assessed by applying the Breastfeeding Self-Efficacy Scale - Short-Form at admission, discharge and by telephone in the second month postpartum. The intervention and control groups were similar in their socio-demographic, obstetric and gynecological variables. Results: the intervention was beneficial because mothers in the intervention group had higher self-efficacy scores, more mothers continued breastfeeding and mothers had a longer duration of exclusive breastfeeding, both at the time of hospital discharge and at the second month postpartum, with statistically significant associations. Conclusions: this experimental study assessed the educational strategy mediated via the flip chart titled "I Can Breastfeed My Child" as being effective both in increasing self-efficacy and increasing the duration of breastfeeding.
+C1 [Melo Dodt, Regina Claudia] Fac Metropolitana Grande Fortaleza, Fortaleza, Ceara, Brazil.
+   [Joventino, Emanuella Silva] Univ Integracao Int Lusofonia Afro Brasileira, Redencao, CE, Brazil.
+   [Aquino, Priscilla Souza; Ximenes, Lorena Barbosa] Univ Fed Ceara, BR-60430160 Fortaleza, Ceara, Brazil.
+   [Almeida, Paulo Cesar] Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+RP Ximenes, LB (corresponding author), Univ Fed Ceara, Dept Enfermagem, Rua Alexandre Barauna 1115, BR-60430160 Fortaleza, Ceara, Brazil.
+EM lbximenes2005@uol.com.br
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq),
+   BrazilNational Council for Scientific and Technological Development
+   (CNPq) [475692/2010-1]
+FX Paper extracted from doctoral dissertation "Elaboracao e validacao de
+   tecnologia educativa para autoeficacia da amamentacao", presented to
+   Universidade Federal do Ceara, Fortaleza, CE, Brazil. Supported by
+   Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq),
+   Brazil, process no 475692/2010-1.
+CR Awano M, 2010, INT BREASTFEED J, V5, DOI 10.1186/1746-4358-5-9
+   Baghurst P, 2007, MIDWIFERY, V23, P382, DOI 10.1016/j.midw.2006.05.004
+   BANDURA A, 1977, PSYCHOL REV, V84, P191, DOI 10.1037/0033-295X.84.2.191
+   Blyth R, 2002, BIRTH-ISS PERINAT C, V29, P278, DOI 10.1046/j.1523-536X.2002.00202.x
+   BUENO LGS, 2004, J PEDIAT S5, V80, P126
+   da Graca LCC, 2011, REV LAT-AM ENFERM, V19, P429, DOI 10.1590/S0104-11692011000200027
+   Alexandre NMC, 2011, CIENC SAUDE COLETIVA, V16, P3061, DOI 10.1590/S1413-81232011000800006
+   Darmstadt GL, 2005, LANCET, V365, P977, DOI 10.1016/S0140-6736(05)71088-6
+   Dennis CL, 2003, JOGNN, V32, P734, DOI 10.1177/0884217503258459
+   Dennis CL, 1999, RES NURS HEALTH, V22, P399, DOI 10.1002/(SICI)1098-240X(199910)22:5<399::AID-NUR6>3.0.CO;2-4
+   Dodt R. C. M., 2012, J NURSING ED PRACTIC, V3, P66, DOI DOI 10.5430/JNEP.V2N3P66
+   Imdad A, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-S3-S24
+   Kirby A, 2002, MED J AUSTRALIA, V177, P256, DOI 10.5694/j.1326-5377.2002.tb04759.x
+   Pino JL, 2013, REV CHIL NUTR, V40, P48, DOI 10.4067/S0717-75182013000100008
+   McQueen KA, 2011, JOGNN-J OBST GYN NEO, V40, P35, DOI 10.1111/j.1552-6909.2010.01210.x
+   Dodt RCM, 2012, ACTA PAUL ENFERM, V25, P225, DOI 10.1590/S0103-21002012000200011
+   Narchi NZ, 2009, REV ESC ENFERM USP, V43, P83
+   Nichols J, 2009, HEALTH EDUC BEHAV, V36, P250, DOI 10.1177/1090198107303362
+   Oria MOB, 2009, PUBLIC HEALTH NURS, V26, P574, DOI 10.1111/j.1525-1446.2009.00817.x
+   Rea M. F., 2004, J PEDIAT, V80, P142, DOI DOI 10.1590/S0021-75572004000700005
+   Schlickau JM, 2005, J ADV NURS, V52, P200, DOI 10.1111/j.1365-2648.2005.03579.x
+   Semenic S, 2008, RES NURS HEALTH, V31, P428, DOI 10.1002/nur.20275
+   Smith BJ, 2006, HEALTH PROMOT INT, V21, P340, DOI 10.1093/heapro/dal033
+   Warkentin S, 2013, REV NUTR, V26, P259, DOI 10.1590/S1415-52732013000300001
+   [WHO] World Health Organization, 2008, IND ASS INF YOUNG CH
+NR 25
+TC 13
+Z9 16
+U1 2
+U2 30
+PU UNIV SAO PAULO, ESCOLA DE ENFERMAGEM DE RIBEIRAO PRETO
+PI RIBEIRAO PRETO
+PA AV BANDEIRANTES, 3900, RIBEIRAO PRETO, SP 14040-902  A, BRAZIL
+SN 1518-8345
+J9 REV LAT-AM ENFERM
+JI Rev. Latino-Am. Enfermagem
+PD JUL-AUG
+PY 2015
+VL 23
+IS 4
+BP 725
+EP 732
+DI 10.1590/0104-1169.0295.2609
+PG 8
+WC Nursing
+SC Nursing
+GA CT3DC
+UT WOS:000362686000021
+PM 26444176
+OA DOAJ Gold, Green Published
+DA 2020-11-26
+ER
+
+PT J
+AU Joventino, ES
+   Ximenes, LB
+   Almeida, PC
+   Oria, MOB
+AF Joventino, Emanuella S.
+   Ximenes, Lorena B.
+   Almeida, Paulo C.
+   Oria, Monica O. B.
+TI The Maternal Self-efficacy Scale for Preventing Early Childhood
+   Diarrhea: Validity and Reliability
+SO PUBLIC HEALTH NURSING
+LA English
+DT Article
+DE children; diarrhea; psychometric scale; self-efficacy
+ID MANAGEMENT; ETHIOPIA
+AB Objective This study aimed to develop and validate a psychometric scale for preventing early childhood diarrhea in endemic areas. Design and Sample Before applying to the field, the scale was subjected to content validity by a panel of experts and piloting. The final version was applied to 448 mothers of children 0- to 5-year-olds, living in Fortaleza, northeast Brazil. Structured interviews were conducted to identify diarrheal episodes in the study children. Results Significant negative correlations were found between higher maternal self-efficacy scores and previous childhood diarrhea (p = .001). In addition, positive correlations were found with maternal age (p = .018). The frequency of children (636 months old) with diarrhea was significantly lower when scale scores were higher (p = .015). The predictive validity revealed that high levels of maternal self-efficacy were a protective factor against childhood diarrhea. Cronbachs alpha was .84. Conclusions The scale was found reliable. Cultural adjustments may be needed to extrapolate the scale to other endemic areas worldwide.
+C1 [Joventino, Emanuella S.; Ximenes, Lorena B.; Oria, Monica O. B.] Univ Fed Ceara, Dept Nursing, BR-60430160 Fortaleza, Ceara, Brazil.
+   [Almeida, Paulo C.] Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+RP Oria, MOB (corresponding author), Univ Fed Ceara, Dept Nursing, Rua Alexandre Barauna 1115, BR-60430160 Fortaleza, Ceara, Brazil.
+EM monica.oria@ufc.br
+RI Oria, Monica/K-4685-2019
+OI Oria, Monica/0000-0002-1483-6656
+FU FUNCAP; CNPqNational Council for Scientific and Technological
+   Development (CNPq); NIH/FIC Global Infectious Disease Research Training
+   grant [2 D43 TW6578-07]; FOGARTY INTERNATIONAL CENTERUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH Fogarty International Center (FIC) [D43TW006578, D43TW006578,
+   D43TW006578, D43TW006578, D43TW006578, D43TW006578, D43TW006578,
+   D43TW006578, D43TW006578, D43TW006578, D43TW006578, D43TW006578,
+   D43TW006578, D43TW006578, D43TW006578, D43TW006578, D43TW006578,
+   D43TW006578] Funding Source: NIH RePORTER
+FX We thank the study participants and the important contribution of
+   nursing students Robson Gomes Coutinho and Karine de Castro Bezerra for
+   field work, and the Brazilian funding agencies FUNCAP and CNPq for
+   scholarship support. We would like to thank NIH/FIC Global Infectious
+   Disease Research Training grant # 2 D43 TW6578-07. We are also grateful
+   to Galina Boyarinova and Joana Perdigao, University of Virginia's first
+   year medical students and UVa's Center for Global Health scholars who
+   helped the study pre-testing phase.
+CR BANDURA A, 1977, PSYCHOL REV, V84, P191, DOI 10.1037/0033-295X.84.2.191
+   Bland AD, 2005, PREV MED, V41, P70, DOI 10.1016/j.ypmed.2004.10.010
+   Boisson S, 2009, ENVIRON SCI TECHNOL, V43, P5934, DOI 10.1021/es9000664
+   Brazilian Institute of Geography and Statistics, 2011, CENS DEM 2010 CAR PO, P1
+   Chan K. Y., 2009, PLOS MED, V6, P246, DOI [10.1371/journal.pmed.1001099, DOI 10.1371/JOURNAL.PMED.1001099]
+   Chong G S, 2001, Pain Pract, V1, P338, DOI 10.1046/j.1533-2500.2001.01035.x
+   Cohen J., 1988, STAT POWER ANAL BEHA
+   Fehring RJ, 1994, CLASSIFICATION NURSI, P55
+   Finlayson TL, 2007, COMMUNITY DENT ORAL, V35, P272, DOI 10.1111/j.1600-0528.2007.00313.x
+   Grant JS, 1997, RES NURS HEALTH, V20, P269, DOI 10.1002/(SICI)1098-240X(199706)20:3<269::AID-NUR9>3.3.CO;2-3
+   Guerrant RL, 2008, NUTR REV, V66, P487, DOI 10.1111/j.1753-4887.2008.00082.x
+   Guerrant RL, 2001, CLIN INFECT DIS, V32, P331, DOI 10.1086/318514
+   Jensen L., 2009, DIARRHOEA WHY CHILDR
+   Kyriacou A, 2009, CHILD CARE HLTH DEV, V35, P159, DOI 10.1111/j.1365-2214.2008.00911.x
+   Luby SP, 2009, AM J TROP MED HYG, V81, P882, DOI 10.4269/ajtmh.2009.09-0031
+   Mediratta RP, 2010, J HEALTH POPUL NUTR, V28, P253
+   Payne DC, 2008, J PEDIATR-US, V153, P737, DOI 10.1016/j.jpeds.2008.08.012
+   Polit DF, 2006, RES NURS HEALTH, V29, P489, DOI 10.1002/nur.20147
+   Prasopkittikun Tassanee, 2006, Nurs Health Sci, V8, P44, DOI 10.1111/j.1442-2018.2004.00266.x
+   Smith BJ, 2006, HEALTH PROMOT INT, V21, P340, DOI 10.1093/heapro/dal033
+   STEINER DL, 1995, HLTH MEASUREMENT SCA
+   Takanashi K, 2009, J HEALTH POPUL NUTR, V27, P602
+NR 22
+TC 7
+Z9 10
+U1 0
+U2 6
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0737-1209
+J9 PUBLIC HEALTH NURS
+JI Public Health Nurs.
+PD MAR-APR
+PY 2013
+VL 30
+IS 2
+BP 150
+EP 158
+DI 10.1111/j.1525-1446.2012.01042.x
+PG 9
+WC Public, Environmental & Occupational Health; Nursing
+SC Public, Environmental & Occupational Health; Nursing
+GA 100BK
+UT WOS:000315669500007
+PM 23452109
+DA 2020-11-26
+ER
+
+PT J
+AU Joventino, ES
+   Oria, MOB
+   Sawada, NO
+   Ximenes, LB
+AF Joventino, Emanuella Silva
+   Batista Oria, Monica Oliveira
+   Sawada, Namie Okino
+   Ximenes, Lorena Barbosa
+TI Apparent and content validation of maternal self-efficiency scale for
+   prevention of childhood diarrhea
+SO REVISTA LATINO-AMERICANA DE ENFERMAGEM
+LA English
+DT Article
+DE Diarrhea; Infantile; Self Efficacy; Nursing Methodology Research;
+   Validation Studies
+ID CONTENT VALIDITY; BISPHENOL-A
+AB Aim: The aim of this paper is to describe the apparent and content validation for the Maternal Self-Efficiency Scale for the Prevention of Childhood Diarrhea. Method: Methodological study with the execution of apparent and content validation by seven judges; semantic analysis, by 30 mothers of children under 5 years old and also a pre-test involving 31 mothers who have been selected through convenience. It has been considered necessary to have the agreement of at least 70% of the judges for apparent validation and a minimum of 80% for pertinence and Index of Content Validation. Results: This paper shows that most items have been considered clear, comprehensive and relevant by the judges. The final Content Validity Index of the scale was 0.96. The suggestions of the mothers were accepted. Conclusion: The scale ended up having 25 items and two domains (family hygiene and general/ eating practices) which assess the maternal self-efficiency for the prevention of diarrhea in their children, thereby contributing to the planning of nursing interventions.
+C1 [Joventino, Emanuella Silva] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Batista Oria, Monica Oliveira; Ximenes, Lorena Barbosa] Univ Fed Ceara, Dept Enfermagem, Fortaleza, Ceara, Brazil.
+   [Sawada, Namie Okino] Univ Sao Paulo, Escola Enfermagem Ribeirao Preto, WHO Collaborating Ctr Nursing Res Dev, BR-14049 Ribeirao Preto, SP, Brazil.
+RP Joventino, ES (corresponding author), Alameda Eliane Lucia,384,Quadra 4,Cidade 2000, BR-60190150 Fortaleza, Ceara, Brazil.
+EM manujoventino@yahoo.com.br
+CR Araujo MFM, 2007, CIENC CUID SAUDE, V6, P76
+   Bandura A, 1997, SELF EFFICACY EXERCI
+   Dantas S. T., 2006, Brazilian Journal of Food Technology, V9, P193
+   Dantas S. T., 2009, Brazilian Journal of Food Technology, V12, P249
+   Fehring RJ, 1994, CLASSIFICATION NURSI, P55
+   Graf J, 2008, INT J ENVIRON HEAL R, V18, P335, DOI 10.1080/09603120801966050
+   Guerrant RL, 2008, NUTR REV, V66, P487, DOI 10.1111/j.1753-4887.2008.00082.x
+   Joventino ES, 2010, THESIS U FEDERAL CEA
+   Lang IA, 2008, JAMA-J AM MED ASSOC, V300, P1303, DOI 10.1001/jama.300.11.1303
+   Leite LHM, 2009, REV CIENC MED, V18, P81
+   Melo RP, 2011, REV RENE, V12, P424
+   Oliveira Thais Cláudia Roma de, 2010, Rev. Saúde Pública, V44, P102, DOI 10.1590/s0034-89102010000100011
+   Onyango-Ouma W, 2005, SOC SCI MED, V61, P1711, DOI 10.1016/j.socscimed.2005.03.041
+   PASQUALI L, 2003, PSICOMETRIA TEORIA T
+   Pasquali L, 1998, REV PSIQUIATR CLIN, V25, P206
+   Perpina-Galvan J, 2011, REV LAT-AM ENFERM, V19, P882, DOI 10.1590/S0104-11692011000400005
+   Polit DF, 2006, RES NURS HEALTH, V29, P489, DOI 10.1002/nur.20147
+   Pupulim JSL, 2009, THESIS U SAO PAULO
+   Salvetti Marina de Góes, 2007, Rev. esc. enferm. USP, V41, P135, DOI 10.1590/S0080-62342007000100018
+   Smith BJ, 2006, HEALTH PROMOT INT, V21, P340, DOI 10.1093/heapro/dal033
+   Sugiura-Ogasawara M, 2005, HUM REPROD, V20, P2325, DOI 10.1093/humrep/deh888
+   The United Nations Children's Fund (UNICEF)/World Health Organisation (WHO), 2009, DIARRH WHY CHILDR AR
+   Towns RE, 2006, J FOOD PROTECT, V69, P1640, DOI 10.4315/0362-028X-69.7.1640
+   Vanderlei Lygia Carmen de Moraes, 2004, Rev. Assoc. Med. Bras., V50, P276, DOI 10.1590/S0104-42302004000300034
+   vom Saal FS, 2007, REPROD TOXICOL, V24, P131, DOI 10.1016/j.reprotox.2007.07.005
+NR 25
+TC 9
+Z9 10
+U1 0
+U2 3
+PU UNIV SAO PAULO, ESCOLA DE ENFERMAGEM DE RIBEIRAO PRETO
+PI RIBEIRAO PRETO
+PA AV BANDEIRANTES, 3900, RIBEIRAO PRETO, SP 14040-902  A, BRAZIL
+SN 1518-8345
+J9 REV LAT-AM ENFERM
+JI Rev. Latino-Am. Enfermagem
+PD JAN-FEB
+PY 2013
+VL 21
+IS 1
+BP 371
+EP 379
+DI 10.1590/S0104-11692013000100012
+PG 9
+WC Nursing
+SC Nursing
+GA 117OT
+UT WOS:000316963700012
+PM 23546321
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT S
+AU Ximenes, L
+   Joventino, E
+   Bezerra, K
+   Andrade, L
+   Nascimento, L
+   Oliveira, E
+   Gomes, A
+   Almeida, P
+   Oria, M
+   Vasconcelos, I
+AF Ximenes, L.
+   Joventino, E.
+   Bezerra, K.
+   Andrade, L.
+   Nascimento, L.
+   Oliveira, E.
+   Gomes, A.
+   Almeida, P.
+   Oria, M.
+   Vasconcelos, I.
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI DEVELOPMENT AND VALIDATION OF A SCALE TO MEASURE MATERNAL SELF-EFFICACY
+   TO PREVENT CHILDHOOD DIARRHEA: TECHNOLOGY FOR CARE
+SO EDULEARN13: 5TH INTERNATIONAL CONFERENCE ON EDUCATION AND NEW LEARNING
+   TECHNOLOGIES
+SE EDULEARN Proceedings
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Education and New Learning Technologies
+   (EDULEARN)
+CY JUL 01-03, 2013
+CL Barcelona, SPAIN
+DE Diarrhea; children; self-efficacy; psychometric scale; technology
+ID DISEASE
+AB Mothers have key role in the infants' care, so we must have self-efficacy to manage implement care necessary to promote children's health. Recognizing the importance of mothers' self-efficacy in relation to preventive care for childhood diarrhea, this study contributes to disclose a scale that could be used in health services to guide health education strategies with the mothers. The study aimed to develop a scale to measure maternal self-efficacy in preventing childhood diarrhea and evaluate the psychometric properties of the instrument. This was a methodological study. Initially we proceeded to identify and deepen the theme of childhood diarrhea prevention through studies published in PubMed, CINAHL, Cochrane and LILACS, followed by the content validation enrolling seven judges; pretest with 31 mothers; application of the scale to 448 mothers children under 5 years; validation through Cronbach's alpha, factor analysis, comparison of contrasted groups, predictive validity and test-retest reliability. The data was collected by interview using the Maternal Self-Efficacy Scale to Prevent Child Diarrhea (EAPDI) and a form that addressed the profile of mother and child. To make it possible for health professionals involved in the childhood diarrhea prevention through effective technologies in health education, they are lightweight, soft-hard or hard, it is urgent to know that maternal self-efficacy, so that may emphasize interventions in these protective factors of this disease with those mothers who most need. Thus, studies in the literature guided the operationalization of the first version of the scale (35 items) and the identification of four areas: food practices, home environment, maternal behavior and hygiene of the child / children. With the items theoretical analysis by judges, the scale reached content validity index of .84. It was performed factor analysis indicated the deletion of the item seven and the existence of two factors (family care, 15 items, and food practices / general, 9 items) in EAPDI. Comparing the contrasted groups, there was a negative correlation between scores prevent childhood diarrhea and previous occurrence of diarrhea in children (p = .001), with mothers who have older (p = .018). Through predictive validity, it was observed that high levels of maternal self-efficacy configure themselves into protective factor for childhood diarrhea. Cronbach alpha was .84 and the EAPDI intraclass correlation coefficient was .45. The EAPDI is a scale that can assess maternal self-efficacy to prevent childhood diarrhea, consisting of a relevant variable to be examined before use of any educational intervention aimed at reducing infant morbidity and mortality from diarrheal diseases.
+C1 [Ximenes, L.; Joventino, E.; Bezerra, K.; Andrade, L.; Nascimento, L.; Oliveira, E.; Gomes, A.; Oria, M.; Vasconcelos, I.] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Almeida, P.] Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+EM lbximenes2005@uol.com.br; manujoventino@yahoo.com.br;
+   karinekolping@gmail.com; landycordeiro@yahoo.com.br;
+   ludmilaalves@hotmail.com; e.karoline@hotmail.com;
+   anabetogomes@hotmail.com; pc49almeida@gmail.com; monica.oria@ufc.br;
+   ismaelle_projeto@hotmail.com
+CR BANDURA A, 1977, PSYCHOL REV, V84, P191, DOI 10.1037/0033-295X.84.2.191
+   BERN C, 1992, B WORLD HEALTH ORGAN, V70, P705
+   Collet N, 2002, ENFERMAGEM PEDIAT
+   Field A., 2009, DESCOBRINDO ESTATIST
+   Gomes D. K. M., 2005, REV BRAS ANAL CLIN, V37, P257
+   Kosek M, 2003, B WORLD HEALTH ORGAN, V81, P197
+   Lobiondo-Wood G, 2001, PESQUISA ENFERMAGEM
+   Murahovschi J., 2003, PEDIAT DIAGNOSTICO T
+   Norwood SL, 2000, RES STRATEGIES ADV P
+   Oliveira Thais Cláudia Roma de, 2010, Rev. Saúde Pública, V44, P102, DOI 10.1590/s0034-89102010000100011
+   OMS, 1999, CLASS EST INT DOENC
+   Pallant J., 2005, SPSS SURVIVAL MANUAL
+   Pereira Ivonete Vieira, 2008, Esc. Anna Nery, V12, P224, DOI 10.1590/S1414-81452008000200004
+   Prasopkittikun Tassanee, 2006, Nurs Health Sci, V8, P44, DOI 10.1111/j.1442-2018.2004.00266.x
+   Salvetti MD, 2007, REV ESC ENFERM USP, V41, P135
+   Silva Giselia Alves Pontes da, 2002, Rev. Bras. Saude Mater. Infant., V2, P239, DOI 10.1590/S1519-38292002000300004
+   SMELTZER SC, 2005, TRATADO ENFERMAGEM M
+   Smith BJ, 2006, HEALTH PROMOT INT, V21, P340, DOI 10.1093/heapro/dal033
+   The United Nations Children's Fund (UNICEF)/World Health Organisation (WHO), 2009, DIARRH WHY CHILDR AR
+   Vanderlei Lygia Carmen de Moraes, 2003, Cad. Saúde Pública, V19, P455, DOI 10.1590/S0102-311X2003000200012
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION & DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1117
+BN 978-84-616-3822-2
+J9 EDULEARN PROC
+PY 2013
+BP 2293
+EP 2300
+PG 8
+WC Education & Educational Research
+SC Education & Educational Research
+GA BB8LM
+UT WOS:000346798302047
+DA 2020-11-26
+ER
+
+PT S
+AU Ximenes, L
+   Dodt, R
+   Joventino, E
+   Almeida, P
+   Javorski, M
+   Macedo, A
+   Oria, M
+   Rodrigues, A
+   Veras, J
+AF Ximenes, L.
+   Dodt, R.
+   Joventino, E.
+   Almeida, P.
+   Javorski, M.
+   Macedo, A.
+   Oria, M.
+   Rodrigues, A.
+   Veras, J.
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI DEVELOPMENT AND VALIDATION OF EDUCATIONAL TECHNOLOGY TO SUPPORT MATERNAL
+   BREASTFEEDING SELF-EFFICACY
+SO EDULEARN13: 5TH INTERNATIONAL CONFERENCE ON EDUCATION AND NEW LEARNING
+   TECHNOLOGIES
+SE EDULEARN Proceedings
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Education and New Learning Technologies
+   (EDULEARN)
+CY JUL 01-03, 2013
+CL Barcelona, SPAIN
+DE Validation studies; educational technology; breastfeeding;
+   self-efficacy; nursing
+ID IMPACT
+AB Considering the individual characteristics of the nursing process and the relevance of an appropriate health education to women in the postpartum period, this study developed educational strategies that elevate the maternal breastfeeding self-efficacy. The aim of this study was validate educational technology to promote maternal breastfeeding self-efficacy. This study was a before-after quasi-experimental, non-equivalent control group, enrolling 201 mothers of a public hospital located in Fortaleza, Ceara, Brazil. Data collection occurred from May 2010 to May 2011 in four steps: (1) Application of Brazilian version of Breastfeeding Self-Efficacy Scale - Short-Form (BSES-SF, Dennis, 2003), and sociodemographic and clinical obstetric forms to the intervention and control groups, (2) the educational intervention individual through the flipchart "I can breastfeed my son" in the intervention group. This educational technology underwent evaluation by 10 judges, resulting in the Content Validity Index of .92 compared to .97 and figures about the chip-script, (3) application of the BSES-SF to mothers before discharge in both groups, (4) application of the scale again with mothers in the intervention and control groups, with two months postpartum, by telephone contact. The results showed that the groups are similar because the sociodemographic, health, gynecological, and obstetrical showed no statistical difference. There was no statistically significant association between the intervention and control groups in relation to the BSES-SF scores, while they were interned in the housing, although the scores were higher in the first. However, two months postpartum, these differences were statistically significant (p < .0021), revealing that the educational intervention using the flipchart favored maternal self-efficacy. The relationship between breastfeeding and changes in the BSES-SF scores it can be verified statistically significant association (p < .001), demonstrating that the intervention group, 100% of women surveyed remained breastfed at all times, while in the control group this rate decreased to 41% in the second month postpartum. The educational intervention using the flipchart "I can breastfeed my son" promoted the high maternal breastfeeding self-efficacy, and longer duration of breastfeeding.
+C1 [Ximenes, L.; Joventino, E.; Javorski, M.; Macedo, A.; Oria, M.; Rodrigues, A.; Veras, J.] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+   [Dodt, R.] FAMETRO, Manaus, Amazonas, Brazil.
+   [Almeida, P.] Univ Estadual Ceara, Fortaleza, Ceara, Brazil.
+EM lbximenes2005@uol.com.br; reginadodt@yahoo.com.br;
+   manujoventino@yahoo.com.br; pc49almeida@gmail.com; marly.11j@gmail.com;
+   dedeazinhamacedo@gmail.com; monica.oria@ufc.br;
+   andressaufsm@hotmail.com; joelnaveras@ufc.br
+RI 杜, 美晨/S-4063-2016
+OI 杜, 美晨/0000-0002-1562-1155
+CR Awano M, 2010, INT BREASTFEED J, V5, DOI 10.1186/1746-4358-5-9
+   Bakoula C, 2007, J HUM LACT, V23, P165, DOI 10.1177/0890334407300384
+   BANDURA A, 1977, PSYCHOL REV, V84, P191, DOI 10.1037/0033-295X.84.2.191
+   Bandura A, 1997, SELF EFFICACY EXERCI
+   Brasil. Secretaria de Atencao a Saude. Departamento de Acoes Programaticas e Estrategicas, 2009, 2 PESQ PREV AL MAT N
+   Dennis C L, 1999, J Hum Lact, V15, P195, DOI 10.1177/089033449901500303
+   Dennis CL, 2002, BIRTH-ISS PERINAT C, V29, P169, DOI 10.1046/j.1523-536X.2002.00184.x
+   Dennis CL, 1999, RES NURS HEALTH, V22, P399, DOI 10.1002/(SICI)1098-240X(199910)22:5<399::AID-NUR6>3.0.CO;2-4
+   Doak C. C., 1996, TEACHING PATIENTS LO
+   Dodt R. C. M., 2012, J NURSING ED PRACTIC, V3, P66, DOI DOI 10.5430/JNEP.V2N3P66
+   Dodt R. C. M., 2008, THESIS U FEDERAL CEA, P107
+   Escuder MML, 2003, REV SAUDE PUBL, V37, P319, DOI 10.1590/s0034-89102003000300009
+   FERREIRA O. M. C., 1986, RECURSOS AUDIOVISUAI
+   Hauck Y, 2007, J ADV NURS, V57, P306, DOI 10.1111/j.1365-2648.2006.04136.x
+   Marques Rosa F. S. V., 2004, J. Pediatr. (Rio J.), V80, P99, DOI 10.1590/S0021-75572004000200005
+   Dodt RCM, 2012, ACTA PAUL ENFERM, V25, P225, DOI 10.1590/S0103-21002012000200011
+   Nichols J, 2009, HEALTH EDUC BEHAV, V36, P250, DOI 10.1177/1090198107303362
+   Noel-Weiss J, 2006, JOGNN-J OBST GYN NEO, V35, P616, DOI 10.1111/J.1552-6909.2006.00077.x
+   Oliveira JS, 2010, REV RENE, V11, P95
+   Pocock SJ, 1983, CLIN TRIALS PRACTICA
+   Polit DF, 2006, RES NURS HEALTH, V29, P489, DOI 10.1002/nur.20147
+   Polit DF, 2011, FUNDAMENTOS PESQUISA
+   Roig A. O., 2010, REV LAT-AM ENFERM, V18, P1
+   Teruya K, 2006, ALEITAMENTO MATERNO
+   Toma TS, 2008, CAD SAUDE PUBLICA, V24, pS235, DOI 10.1590/S0102-311X2008001400009
+   [WHO] World Health Organization, 2008, IND ASS INF YOUNG CH
+NR 26
+TC 0
+Z9 0
+U1 1
+U2 6
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION & DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1117
+BN 978-84-616-3822-2
+J9 EDULEARN PROC
+PY 2013
+BP 2347
+EP 2353
+PG 7
+WC Education & Educational Research
+SC Education & Educational Research
+GA BB8LM
+UT WOS:000346798302054
+DA 2020-11-26
+ER
+
+PT S
+AU Rocha, SC
+   Franco, ES
+   Barroso, PN
+   Joventino, ES
+   Franco, RGDM
+   Neves, BCC
+   Oliveira, EKF
+   Franco, E
+   Falcao, LMN
+AF Rocha, Sania Costa
+   Franco, Eugenio Santana
+   Barroso, Poliana Noronha
+   Joventino, Emanuella Silva
+   de Freitas Menezes Franco, Rosana Gomes
+   Cordeiro Neves, Bianca Cristina
+   Freire Oliveira, Emilly Karoline
+   Franco Filho, Eugenio
+   Nunes Falcao, Luclia Maria
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI TRAINING IN DISTANCE EDUCATION MULTIPLIERS IN SEXUAL AND REPRODUCTIVE
+   HEALTH
+SO EDULEARN13: 5TH INTERNATIONAL CONFERENCE ON EDUCATION AND NEW LEARNING
+   TECHNOLOGIES
+SE EDULEARN Proceedings
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Education and New Learning Technologies
+   (EDULEARN)
+CY JUL 01-03, 2013
+CL Barcelona, SPAIN
+DE Sexual and Reproductive Education; Sexual and Reproductive Health;
+   Distance Education
+AB The advent of new technologies involves the modernization of teaching strategies, among which we can mention the Distance Education. In this sense, education in Sexual and Reproductive Health (SRH) has assumed growing importance in nurses training, which requires the implementation of attractive methodologies for teaching and learning, efficient and updated, in order to develop in students, competencies for nursing practice and dissemination of knowledge in this area. A virtual learning environment can constitute a tool to convey information and provide students contact with diverse educational technologies. This paper describes an educational experience with Multipliers in SRH, given to nursing students of a private college in Brazil, using e-learning, and applied to the teaching of SRH. Participants were 20 students, who took part in a distance education training, in order to familiarize themselves with the digital platform through exploration of tools and guidelines for management of autonomous activities. Two other training modules discussed general concepts of sexuality and human reproduction and sexually transmitted infections. The proposed activities assumed the use of tools such as discussion forum, chat and portfolios for uploads of reports and surveys implemented. Qualitative and quantitative assessments of learning were performed and the use of platform resources and methodology itself. All participants had satisfactory abilities in the educational tool to be able to participate on that course. The resource utilization of virtual platform proved heterogeneous, because despite the initial modular training in distance education, some participants had trouble in the use of tools. Currently some students of this course became multipliers in SRH, and were followed tutorial from other nursing students. The training of trainers in SRH based on an e-learning system is feasible, confirming the importance of distance education as a strategy for teaching and learning. However, for optimum success of this application, it is necessary to prepare appropriate multimedia, as well as a previous approach on the methodology of e-learning and improving tutor ability to coordinate the pace of activities and stimulate interaction and active participation of students.
+C1 [Rocha, Sania Costa; Franco, Eugenio Santana; Barroso, Poliana Noronha; Joventino, Emanuella Silva; Cordeiro Neves, Bianca Cristina; Freire Oliveira, Emilly Karoline; Franco Filho, Eugenio; Nunes Falcao, Luclia Maria] Univ Ctr Christus UNICHRISTUS, Fortaleza, Ceara, Brazil.
+   [de Freitas Menezes Franco, Rosana Gomes] Fac Integrada Grande Fortaleza FGF, Fortaleza, Ceara, Brazil.
+EM scrocha1@hotmail.com; eugeniounichristus@hotmail.com; pn.bf@hotmail.com;
+   manujoventino@yahoo.com.br; rosanagomesfranco@hotmail.com;
+   biancaneves_89@hotmail.com; e.karoline@hotmail.com;
+   eugeniosfranco@hotmail.com; lucilia.falcao@hotmail.com
+RI Falcao, Lucilia/AAG-7554-2019
+OI Falcao, Lucilia/0000-0003-3229-6347
+CR Almeida Maria Elizabeth Bianconcini de, 2003, Educ. Pesqui., V29, P327, DOI 10.1590/S1517-97022003000200010
+   Fernandes A. M., 2005, 7 S INT INF ED SIIE0
+   Figueira M, BLENDED LEARNING CHA
+   Ministerio da Educacao Ministerio da Saude Associacao para o Planeamento da Familia & Centro de Apoio Nacional, 2000, ED SEX MEIO ESC LINH
+   Paiva J., 2004, E LEARNING ESTADO AR
+   Paiva Jacinta, 2002, SEXUALIDADE AFECTOS
+   UNESCO, APR SIN FRONT UNPUB
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION & DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1117
+BN 978-84-616-3822-2
+J9 EDULEARN PROC
+PY 2013
+BP 2424
+EP 2427
+PG 4
+WC Education & Educational Research
+SC Education & Educational Research
+GA BB8LM
+UT WOS:000346798302065
+DA 2020-11-26
+ER
+
+PT S
+AU Rocha, SC
+   Franco, ES
+   Joventino, ES
+   Franco, RGDM
+   Oliveira, EKF
+   Neves, BCC
+   Franco, ES
+   Falcao, LMN
+   Noronha, PB
+AF Rocha, Sania Costa
+   Franco, Eugenio Santana
+   Joventino, Emanuella Silva
+   de Freitas Menezes Franco, Rosana Gomes
+   Freire Oliveira, Emilly Karoline
+   Cordeiro Neves, Bianca Cristina
+   Franco Filho, Eugenio Santana
+   Nunes Falcao, Lucilia Maria
+   Noronha, Poliana Barroso
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI NURSES MOTIVATION TO ENROLL ON CERVIX CANCER PREVENTION TRAINING
+SO EDULEARN13: 5TH INTERNATIONAL CONFERENCE ON EDUCATION AND NEW LEARNING
+   TECHNOLOGIES
+SE EDULEARN Proceedings
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Education and New Learning Technologies
+   (EDULEARN)
+CY JUL 01-03, 2013
+CL Barcelona, SPAIN
+DE Education; in-service training; uterine cervical neoplasms
+AB The importance of nurse's role in public health is recognized by healthcare institutions worldwide. Given that, it is necessary that nurses be regularly offered training related to their professional practice to enhance competencies and be evaluated accordingly. Donald Kirkpatrick, frequently mentioned as a key reference author in the evaluation methodology and scientific training, defends that an evaluation model consists of four levels: reaction, learning, behavior and results. The aim of this study was to explore the participants' reaction to training on Pap smear and Visual Inspection for Primary Care. This was a descriptive, cross-sectional, quantitative study developed in a Higher Education Institution in Juazeiro do Norte, Ceara, Brazil. The non-probability sample was obtained by convenience and enrolled 144 nurses. A questionnaire collected information about sociodemographic characteristics and on the initial reaction to the training. The questionnaire was based on potential participants' expectations regarding information on the effect of general training on the course; intrinsic and extrinsic expectations; expectations of support from work coordinators and on possibilities to use the knowledge learned. In this instrument, each item had five response options, and results may amount to ten to 50 scores. Data analysis was performed using Statistical Package for Social Sciences. The evaluation of Kirkpatrick's first level involves measurement of immediate satisfaction of participants with training. The lower the score obtained at assessment questionnaire motivation / reaction, the greater the interest and in absorb a new knowledge or methodology proposed and the greater likelihood to incorporate this proposed innovation into everyday activities. It was observed that the majority of nurses were female (89.6%, n=129), aged between 26 and 30 years (54.2%, n=78), single (80.6%, n=116), with a year or less of professional practice(33.3%, n= 48), and perform their activities in primary care (69.4%, n=100). Regarding the assessment of the response to training, it was agreed 17 scores (SD +/- 6.3) as the cutoff point, given it was the average score obtained by participants of this study. It was found that among 144 participants in the sample, more than half (52.1%) were willing to receive training, 41% had some resistance and 6.9% were neutral regarding their motivation. Moreover, a third (35.4%) said the interest to participate was conditional on the supply of certificates. In addition, 88.2% believed that important results in professional practice could be expected / observed after training. Given that, the vast majority of nurses (84%) was willing to receive training. We conclude that before offering trainings on professional practice, it is necessary to investigate nurses motivation on the topic to be able to develop and offer training strategies for proper performance and interpretation of tests in oncotic citology.
+C1 [Rocha, Sania Costa; Franco, Eugenio Santana; Joventino, Emanuella Silva; Freire Oliveira, Emilly Karoline; Cordeiro Neves, Bianca Cristina; Franco Filho, Eugenio Santana; Nunes Falcao, Lucilia Maria; Noronha, Poliana Barroso] Univ Ctr Christus, UNICHRISTUS, Fortaleza, Ceara, Brazil.
+   [de Freitas Menezes Franco, Rosana Gomes] Fac Integrada Grande Fortaleza, FGF, Fortaleza, Ceara, Brazil.
+   [Nunes Falcao, Lucilia Maria] Univ Fortaleza, UNIFOR, Fortaleza, Ceara, Brazil.
+EM scrocha1@hotmail.com; eugeniounichristus@hotmail.com;
+   manujoventino@yahoo.com.br; rosanagomesfranco@hotmail.com;
+   e.karoline@hotmail.com; biancaneves_89@hotmail.com;
+   eugeniosfranco@hotmail.com; lucilia.falcao@hotmail.com;
+   pn.bf@hotmail.com
+RI Falcao, Lucilia/AAG-7554-2019
+OI Falcao, Lucilia/0000-0003-3229-6347
+CR Brasil. Instituto Nacional do Cancer, 2008, AC ENF CONTR CANC PR
+   Brito DMS, 2010, REV RENE, V11, P191
+   Kirkpatrick D.L., 1998, EVALUATING TRAINING
+   Kirkpatrick DL, 2010, COMO AVALIAR PROGRAM
+   Novaes Hillegonda Maria Dutilh, 2006, Ciênc. saúde coletiva, V11, P1023, DOI 10.1590/S1413-81232006000400023
+   POLIT D. F., 2004, FUNDAMENTOS PESQUISA
+   World Health Organization, 2007, HUM PAP HPV VACC TEC, P36
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 2
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION A& DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1117
+BN 978-84-616-3822-2
+J9 EDULEARN PROC
+PY 2013
+BP 2941
+EP 2944
+PG 4
+WC Education & Educational Research
+SC Education & Educational Research
+GA BB8LM
+UT WOS:000346798302137
+DA 2020-11-26
+ER
+
+PT S
+AU Franco, ES
+   Franco, R
+   Oria, M
+   Joventino, E
+   Noronha, P
+   Oliveira, E
+   Rocha, S
+   Neves, B
+   Franco, E
+   Falcao, L
+AF Franco, E. Santana
+   Franco, R.
+   Oria, M.
+   Joventino, E.
+   Noronha, P.
+   Oliveira, E.
+   Rocha, S.
+   Neves, B.
+   Franco Filho, E.
+   Falcao, L.
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI KNOWLEDGE AND PRACTICE OF NURSES REGARDING PREVENTION STRATEGIES OF
+   CERVICAL CANCER
+SO EDULEARN13: 5TH INTERNATIONAL CONFERENCE ON EDUCATION AND NEW LEARNING
+   TECHNOLOGIES
+SE EDULEARN Proceedings
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Education and New Learning Technologies
+   (EDULEARN)
+CY JUL 01-03, 2013
+CL Barcelona, SPAIN
+DE Early Diagnosis; Uterine Cervical Neoplasms; Inservice Training
+AB The high rates of morbidity and mortality for Cervical Cancer in Brazil may be due to the low population coverage of Pap smear, and therapeutic and diagnostic insufficient and / or inadequate to indicate the need for training among these professionals. The aim of this study was to assess the knowledge and practices of primary care nurses about the exams / tests for preventing cancer of the cervix (cervical cancer), as well as evaluating the motivation for these trainings in this area. This was a descriptive-correlational cross study held in an Institution of Higher Education in Juazeiro-Ceara-Brazil. The non-probabilistic sample was obtained by convenience, totaling in 144 nurses. We used a questionnaire with information about knowledge of nurses on visual inspection, the test Schiller, recognition and ability to technically describe structures that are observed in gynecological nursing and motivation for training in the area. The exploratory data analysis drew on descriptive statistics, using Statistical Package for the Social Sciences-SPSS. It was found that most nurses were female (N = 129, 89.6%), aged between 26 and 30 years (N = 78, 54.2%), single (N = 116, 80.6 %), with one year or less (N = 48, 33.3%) of professional practice, and who were working in the primary care (N = 100, 69.4%). It was noticed that the previous experience of nurses in view of clinical findings presented ranged from 14.6% to 48.6%. In the evaluation of practices and knowledge of nurses regarding the Test Schiller, the biggest hit percentage of nurses was only 9.7% with respect to the conservation of this solution. About the description of the structures identified in the clinical images, the structure with the highest percentage of accuracy (5.5%) among nurses was the identification of the cervical canal and squamocolumnar junction. It was found that the baseline of knowledge about morphology of the uterine cervix and the ability to recognize abnormal structures was insufficient for most nurses performs safely IV and the Schiller test. However, in evaluating the motivation of nurses for training in Pap smear and visual inspection for the primary health care, it was found that 96.5% believed that there were still many unknown or new information about the Cervical Cancer workup and 97.2 % and felt the need for receing updates, 68.1% stated that the participation in training does not interfere in other professional activities. Given this result, it is important to conduct training with these professionals, a fact that is corroborated by their interest and motivation in relation to these strategies.
+C1 [Franco, E. Santana; Joventino, E.; Noronha, P.; Oliveira, E.; Rocha, S.; Neves, B.; Franco Filho, E.; Falcao, L.] Univ Ctr Christus UNICHRISTUS, Fortaleza, Ceara, Brazil.
+   [Franco, R.; Oria, M.] Univ Fed Ceara, Fortaleza, Ceara, Brazil.
+EM eugeniounichristus@hotmail.com; rosanagomesfranco@hotmail.com;
+   monica.oria@ufc.br; manujoventino@yahoo.com.br; pn.bf@hotmail.com;
+   e.karoline@hotmail.com; scrocha1@hotmail.com;
+   biancaneves_89@hotmail.com; eugeniosfranco@hotmail.com;
+   lucilia.falcao@hotmail.com
+RI Falcao, Lucilia/AAG-7554-2019
+OI Falcao, Lucilia/0000-0003-3229-6347
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 2
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION A& DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1117
+BN 978-84-616-3822-2
+J9 EDULEARN PROC
+PY 2013
+BP 6658
+EP 6658
+PG 1
+WC Education & Educational Research
+SC Education & Educational Research
+GA BB8LM
+UT WOS:000346798306099
+DA 2020-11-26
+ER
+
+PT J
+AU Mitter, SS
+   Oria, RB
+   Kvalsund, MP
+   Pamplona, P
+   Joventino, ES
+   Mota, RMS
+   Goncalves, DC
+   Patrick, PD
+   Guerrant, RL
+   Lima, AAM
+AF Mitter, Sumeet S.
+   Oria, Reinaldo B.
+   Kvalsund, Michelle P.
+   Pamplona, Paula
+   Joventino, Emanuella Silva
+   Mota, Rosa M. S.
+   Goncalves, Davi C.
+   Patrick, Peter D.
+   Guerrant, Richard L.
+   Lima, Aldo A. M.
+TI Apolipoprotein E4 influences growth and cognitive responses to
+   micronutrient supplementation in shantytown children from northeast
+   Brazil
+SO CLINICS
+LA English
+DT Article
+DE APOE4; Malnutrition; Cognitive Outcomes; Intestinal Permeability;
+   Glutamine
+ID EARLY-CHILDHOOD DIARRHEA; INTESTINAL BARRIER FUNCTION; GLIA-DERIVED
+   CHOLESTEROL; ALZHEIMERS-DISEASE; PERUVIAN CHILDREN; APOE GENOTYPE;
+   PERFORMANCE; RETINOL; MICE; CRYPTOSPORIDIOSIS
+AB OBJECTIVE: Apolipoprotein E4 may benefit children during early periods of life when the body is challenged by infection and nutritional decline. We examined whether apolipoprotein E4 affects intestinal barrier function, thereby improving short-term growth and long-term cognitive outcomes in Brazilian shantytown children.
+   METHODS: A total of 213 Brazilian shantytown children with below-median height-for-age z-scores (HAZ) received 200,000 IU of retinol (every four months), zinc (40 mg twice weekly), or both for one year, with half of each group receiving glutamine supplementation for 10 days. Height-for-age z-scores, weight-for-age z-scores, weight-forheight z-scores, and lactulose: mannitol ratios were assessed during the initial four months of treatment. An average of four years (range 1.4-6.6) later, the children underwent cognitive testing to evaluate non-verbal intelligence, coding, verbal fluency, verbal learning, and delayed verbal learning. Apolipoprotein E4 carriage was determined by PCR analysis for 144 children.
+   RESULTS: Thirty-seven children were apolipoprotein E4(+), with an allele frequency of 13.9%. Significant associations were found for vitamin A and glutamine with intestinal barrier function. Apolipoprotein E4(+) children receiving glutamine presented significant positive Pearson correlations between the change in height-for-age z-scores over four months and delayed verbal learning, along with correlated changes over the same period in weight-for-age z-scores and weight-for-height z-scores associated with non-verbal intelligence quotients. There was a significant correlation between vitamin A supplementation of apolipoprotein E4(+) children and improved delta lactulose/mannitol. Apolipoprotein E4(-) children, regardless of intervention, exhibited negative Pearson correlations between the change in lactulose-to-mannitol ratio over four months and verbal learning and non-verbal intelligence.
+   CONCLUSIONS: During development, apolipoprotein E4 may function concomitantly with gut-tropic nutrients to benefit immediate nutritional status, which can translate into better long-term cognitive outcomes.
+C1 [Mitter, Sumeet S.] Mt Sinai Sch Med, Dept Med, New York, NY 10029 USA.
+   [Oria, Reinaldo B.; Pamplona, Paula; Mota, Rosa M. S.; Goncalves, Davi C.; Guerrant, Richard L.; Lima, Aldo A. M.] Univ Fed Ceara, Fac Med, Inst Biomed Semiarid, Dept Physiol & Pharmacol, Fortaleza, CE, Brazil.
+   [Oria, Reinaldo B.] Univ Fed Ceara, Fac Med, Dept Morphol, Fortaleza, CE, Brazil.
+   [Kvalsund, Michelle P.] Vanderbilt Univ, Sch Med, Dept Neurol, Nashville, TN 37212 USA.
+   [Mota, Rosa M. S.] Univ Fed Ceara, Dept Stat, Fortaleza, CE, Brazil.
+   [Patrick, Peter D.; Guerrant, Richard L.; Lima, Aldo A. M.] Univ Virginia, Ctr Global Hlth, Charlottesville, VA USA.
+   [Joventino, Emanuella Silva] Univ Fed Ceara, Fac Enfermagem, Fortaleza, CE, Brazil.
+RP Mitter, SS (corresponding author), Mt Sinai Sch Med, Dept Med, New York, NY 10029 USA.
+EM rbo5u@virginia.edu
+RI Oria, Reinaldo B/D-6440-2014; Lima, Aldo AM/D-8251-2018
+OI Lima, Aldo AM/0000-0002-0299-1747; Oria, Reinaldo/0000-0002-6914-5481
+FU Brazilian funding agencies FUNCAP; CNPqNational Council for Scientific
+   and Technological Development (CNPq); US National Institutes of Health
+   (NIH)United States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USA; Fogarty International Center
+   (FIC)United States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Fogarty International Center (FIC)
+   [5 R24 TW007988]; Eunice Kennedy Shriver National Institute of Child
+   Health and Human Development (NICHD)United States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH Eunice
+   Kennedy Shriver National Institute of Child Health & Human Development
+   (NICHD) [5 R01HD053131]; National Institute of Allergy and Infectious
+   Disease (NIAID)United States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Allergy & Infectious Diseases (NIAID) [5 U01 AI026512]; EUNICE
+   KENNEDY SHRIVER NATIONAL INSTITUTE OF CHILD HEALTH &HUMAN
+   DEVELOPMENTUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [R01HD053131,
+   R01HD053131, R01HD053131, R01HD053131, R01HD053131, R01HD053131] Funding
+   Source: NIH RePORTER; FOGARTY INTERNATIONAL CENTERUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH Fogarty International Center (FIC) [R24TW007988, R24TW007988,
+   R24TW007988, R24TW007988, R24TW007988, R24TW007988, R24TW007988,
+   R24TW007988] Funding Source: NIH RePORTER; NATIONAL INSTITUTE OF ALLERGY
+   AND INFECTIOUS DISEASESUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Allergy & Infectious Diseases (NIAID) [U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512, U01AI026512, U01AI026512, U01AI026512,
+   U01AI026512, U01AI026512] Funding Source: NIH RePORTER
+FX The project described here was supported in part by the Brazilian
+   funding agencies FUNCAP and CNPq and US National Institutes of Health
+   (NIH) award numbers 5 R24 TW007988 from the Fogarty International Center
+   (FIC), 5 R01HD053131 from the Eunice Kennedy Shriver National Institute
+   of Child Health and Human Development (NICHD) and FIC, and 5 U01
+   AI026512 from the National Institute of Allergy and Infectious Disease
+   (NIAID). The content is solely the responsibility of the authors and
+   does not necessarily represent the official views of the FUNCAP, CNPq,
+   NICHD, FIC, NIAID, or NIH.
+CR Acevedo SF, 2010, PEDIATR RES, V67, P293, DOI 10.1203/PDR.0b013e3181cb8e68
+   Addya K, 1997, MOL DIAGN, V2, P271, DOI 10.1016/S1084-8592(97)80038-0
+   Alexander DM, 2007, BIOL PSYCHOL, V75, P229, DOI 10.1016/j.biopsycho.2007.03.001
+   Bao YD, 1996, J CHROMATOGR B, V685, P105, DOI 10.1016/0378-4347(96)00159-4
+   Barboza MS, 1999, BRAZ J MED BIOL RES, V32, P1499, DOI 10.1590/S0100-879X1999001200008
+   Black RE, 2008, LANCET, V371, P243, DOI 10.1016/S0140-6736(07)61690-0
+   Blackman JA, 2005, DEV MED CHILD NEUROL, V47, P64, DOI 10.1017/S0012162205000113
+   Bloss CS, 2010, NEUROBIOL AGING, V31, P787, DOI 10.1016/j.neurobiolaging.2008.05.021
+   Checkley W, 1997, AM J EPIDEMIOL, V145, P156, DOI 10.1093/oxfordjournals.aje.a009086
+   Checkley W, 2003, AM J EPIDEMIOL, V157, P166, DOI 10.1093/aje/kwf179
+   Disease Control Priorities, 2007, EL MALN COULD RED PO
+   Drummond SPA, 2000, NATURE, V403, P655, DOI 10.1038/35001068
+   Finch CE, 2007, CURR ALZHEIMER RES, V4, P185, DOI 10.2174/156720507780362254
+   Fullerton SM, 2001, EXP NEUROL, V169, P13, DOI 10.1006/exnr.2001.7631
+   Gerdes LU, 2003, CLIN CHEM LAB MED, V41, P628, DOI 10.1515/CCLM.2003.094
+   Goritz C, 2002, J PHYSIOLOGY-PARIS, V96, P257, DOI 10.1016/S0928-4257(02)00014-1
+   Guerrant DI, 1999, AM J TROP MED HYG, V61, P707, DOI 10.4269/ajtmh.1999.61.707
+   Guerrant RL, 2008, NUTR REV, V66, P487, DOI 10.1111/j.1753-4887.2008.00082.x
+   HIXSON JE, 1990, J LIPID RES, V31, P545
+   Huebbe P, 2009, IUBMB LIFE, V61, P453, DOI 10.1002/iub.177
+   Ivanovic DM, 2000, NUTRITION, V16, P1056, DOI 10.1016/S0899-9007(00)00431-7
+   Ladd FVL, 2010, NUTRITION, V26, P662, DOI 10.1016/j.nut.2009.11.020
+   LIMA AAM, 1992, BRAZ J MED BIOL RES, V25, P637
+   Lima AAM, 2010, J PEDIATR GASTR NUTR, V50, P309, DOI 10.1097/MPG.0b013e3181a96489
+   Lorntz B, 2006, PEDIATR INFECT DIS J, V25, P513, DOI 10.1097/01.inf.0000219524.64448.90
+   Maciel AAFL, 2007, TOXICON, V50, P1027, DOI 10.1016/j.toxicon.2007.07.010
+   Mahley RW, 2000, ANNU REV GENOM HUM G, V1, P507, DOI 10.1146/annurev.genom.1.1.507
+   MANGENEY M, 1989, EUR J BIOCHEM, V181, P225, DOI 10.1111/j.1432-1033.1989.tb14715.x
+   Marques NM, 2001, PEDIATRICS, V108, DOI 10.1542/peds.108.4.e66
+   Mauch DH, 2001, SCIENCE, V294, P1354, DOI 10.1126/science.294.5545.1354
+   Mendez MA, 1999, J NUTR, V129, P1555
+   Oria RB, 2010, BRAZ J MED BIOL RES, V43, P249, DOI 10.1590/S0100-879X2010007500003
+   Oria RB, 2005, PEDIATR RES, V57, P310, DOI 10.1203/01.PDR.0000148719.82468.CA
+   Oria RB, 2007, MED HYPOTHESES, V68, P1099, DOI 10.1016/j.mehy.2006.09.036
+   Prentice AM, 2005, P NUTR SOC, V64, P153, DOI 10.1079/PNS2005421
+   Raila J, 2005, J NUTR, V135, P2512
+   Russo C, 1998, P NATL ACAD SCI USA, V95, P15598, DOI 10.1073/pnas.95.26.15598
+   Savage CR, 2001, BRAIN, V124, P219, DOI 10.1093/brain/124.1.219
+   Singh PP, 2006, ANN HUM BIOL, V33, P279, DOI 10.1080/03014460600594513
+   Strittmatter WJ, 2002, CURR OPIN LIPIDOL, V13, P119, DOI 10.1097/00041433-200204000-00002
+   Vieira MM, 2008, J PEDIATR GASTR NUTR, V47, P652, DOI 10.1097/MPG.0b013e31816bf4bf
+   Weisgraber KH, 1996, FASEB J, V10, P1485
+   Wishart HA, 2006, AM J PSYCHIAT, V163, P1603, DOI 10.1176/appi.ajp.163.9.1603
+   Wright RO, 2003, PEDIATR RES, V54, P819, DOI 10.1203/01.PDR.0000090927.53818.DE
+   Yamauchi K, 1999, CLIN CHEM, V45, P497
+NR 45
+TC 21
+Z9 22
+U1 0
+U2 10
+PU HOSPITAL CLINICAS, UNIV SAO PAULO
+PI SAO PAULO
+PA FAC MEDICINA, UNIV SAO PAULO, SAO PAULO, SP 00000, BRAZIL
+SN 1807-5932
+J9 CLINICS
+JI Clinics
+PY 2012
+VL 67
+IS 1
+BP 11
+EP 18
+DI 10.6061/clinics/2012(01)03
+PG 8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 876RX
+UT WOS:000299126500003
+PM 22249475
+OA DOAJ Gold, Green Published
+DA 2020-11-26
+ER
+
+PT J
+AU Aires, JD
+   Martins, MC
+   Joventino, ES
+   Ximenes, LB
+AF Aires, Julliana dos Santos
+   Martins, Mariana Cavalcante
+   Joventino, Emanuella Silva
+   Ximenes, Lorena Barbosa
+TI Food (in)security in families of preschool children in a rural zone of
+   Ceara
+SO ACTA PAULISTA DE ENFERMAGEM
+LA English
+DT Article
+DE Food security; Prevalence; Child; preschool; Food consumption;
+   Socioeconomic factors
+ID INSECURITY
+AB Objectives: To determine the prevalence of food (in) security among housteholds in a rural zone of Maranguape, and to verify the association between socioeconomic variables and the degree of food (in) security. Methods: A descriptive study with a quantitative approach, conducted in the Centro de Saude da Familia (CSF), Center of Family Health, in a rural zone in Maranguape - Ceara in September of 2009. The sample consisted of 200 families with preschool children who are seen in the CSF, applying the Escala Brasileira de Inseguranca Alimentar (EBIA), Brasilian Food Insecurity Scale. Results: Of the families, 12% presented with food security and 88% with food insecurity. A statistically significant association was noted between the prevalence of food (in) security and education of the head of household (p<0.0001), number of household members (p = 0.018), and family income (p < 0.0001). Conclusion: With the application of the EBIA, we could diagnose food (in) security, which enables nurses to offer health education interventions aimed at improving care related to alimentation.
+C1 [Aires, Julliana dos Santos; Martins, Mariana Cavalcante; Joventino, Emanuella Silva; Ximenes, Lorena Barbosa] Metropolitan Area Fortaleza Ceara, Fortaleza, Ceara, Brazil.
+RP Aires, JD (corresponding author), Av Bezerra Menezes,2381 Apt 401, BR-60325003 Fortaleza, Ceara, Brazil.
+EM jullianaaires@yahoo.com.br
+CR Brasil. Ministerio da Saude, 2003, SECRETARIA DE ATENAC
+   Brasil. Ministerio da Saude, 2005, ESTUDO DE CASO BRASI
+   Carneiro DGB, 2010, REV APS, V13, P510
+   Conferencia Nacional de Seguranca Alimentar (CNSA), 2004, RELATORIO FINAL A CO
+   Cook JT, 2008, PEDIATRICS, V122, pE867, DOI 10.1542/peds.2008-0286
+   Vianna RPD, 2008, REV NUTR, V21, P111
+   dos Santos JV, 2010, CAD SAUDE PUBLICA, V26, P41, DOI 10.1590/S0102-311X2010000100005
+   Egeland GM, 2010, CAN MED ASSOC J, V182, P243, DOI 10.1503/cmaj.091297
+   Foley W, 2010, PUBLIC HEALTH NUTR, V13, P215, DOI 10.1017/S1368980009990747
+   Food and Agriculture Organization of the United Nations (FAO), 2009, THE STATE OF FOOD IN
+   Gonzalez W, 2008, J NUTR, V138, P587
+   Hamelin AM, 2010, HEALTH EDUC RES, V25, P401, DOI 10.1093/her/cyp033
+   Hofmann R, 2008, REV SEGURANCA ALIMEN, V15, P49
+   Instituto Brasileiro de Analises Sociais e Economicas (IBASE), 2008, DOCUMENTO SINTESE
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2006, IBGE TRACA PERFIL IN
+   Karnik A, 2011, MED CARE, V49, P658, DOI 10.1097/MLR.0b013e31820fb967
+   Martins MC, 2007, CEARD CAD SAFIDE COL, V15, P169
+   Martins MC, 2009, COGITARE ENFERM, V14, P463
+   Nobre LN, 2009, REV SEGURANCA ALIMEN, V16, P18
+   Oliveira Juliana Souza, 2010, Rev. Bras. Saude Mater. Infant., V10, P237, DOI 10.1590/S1519-38292010000200011
+   Oliveira Juliana Souza, 2009, Rev. bras. epidemiol., V12, P413
+   Osorio MM, 2009, REV NUTR, V22, P319, DOI 10.1590/S1415-52732009000300002
+   Pereira Rosangela Alves, 2008, Rev. Nutr., V21, p7s, DOI 10.1590/s1415-52732008000700002
+   Pérez-Escamilla Rafael, 2008, Rev. Nutr., V21, p15s, DOI 10.1590/S1415-52732008000700003
+   Recine E, 2011, CIENC SAUDE COLETIVA, V16, P73, DOI 10.1590/S1413-81232011000100011
+   Salles-Costa Rosana, 2008, Rev. Nutr., V21, p99s, DOI 10.1590/S1415-52732008000700009
+   Salve JM, 2009, ACTA PAUL ENFERM, V22, P43, DOI 10.1590/S0103-21002009000100007
+   SEGALLCORREA AM, 2004, SEGURANCA ALIMENTAR
+   Vieira Viviane Laudelino, 2010, Rev. Bras. Saude Mater. Infant., V10, P199, DOI 10.1590/S1519-38292010000200007
+NR 29
+TC 9
+Z9 11
+U1 0
+U2 2
+PU UNIV FED SAO PAULO, DEPT ENFERMAGEN
+PI SAO PAULO
+PA RUA NAPOLEAO DE BARROS, 754 VILA CLEMENTINO, SAO PAULO, CEP04024-002,
+   BRAZIL
+SN 0103-2100
+EI 1982-0194
+J9 ACTA PAUL ENFERM
+JI Acta Paul. Enferm.
+PY 2012
+VL 25
+IS 1
+BP 102
+EP 108
+PG 7
+WC Nursing
+SC Nursing
+GA 170QD
+UT WOS:000320867300018
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+PT J
+AU Joventino, ES
+   da Silva, SF
+   Rogerio, RF
+   de Freitas, GL
+   Ximenes, LB
+   Moura, ERF
+AF Joventino, Emanuella Silva
+   da Silva, Sabrina Ferreira
+   Rogerio, Raul Feitoza
+   de Freitas, Giselle Lima
+   Ximenes, Lorena Barbosa
+   Ferreira Moura, Escolastica Rejane
+TI BEHAVIOR OF CHILDHOOD DIARRHEA BEFORE AND AFTER CONSUMPTION OF RAINWATER
+   IN THE CITY OF SEMI-ARID OF BRAZIL
+SO TEXTO & CONTEXTO ENFERMAGEM
+LA Portuguese
+DT Article
+DE Diarrhea, infantile; Water supply, rural; Water treatment; Potable
+   water; Nursing
+AB Aimed to investigate the correlation between water tanks and infant diarrhea. Quantitative and transversal study, held in Caninde-CE, Brazil, with 56 families. The main sources of water used before the construction of tanks were "cacimbao" (21-37.5%) and dam (17-30.4%). There was a linear inverse correlation and relation statistically significant between the rates of infant diarrhea and the number of tanks built (r=-0.943; p=0.001). Chlorination was the main type of water treatment before (46-82,1%) and after (37-66%) of the acquisition of the tank, but with incorrect dilution (41-89,2%). Tanks to capture rainwater reflected in an improvement of child health in the region, but people still need to improve the treatment steps of water to be consumed.
+C1 [Joventino, Emanuella Silva] Univ Fed Ceara UFC, Programa Posgrad Enfermagem, Fortaleza, Ceara, Brazil.
+   [Joventino, Emanuella Silva; Ximenes, Lorena Barbosa; Ferreira Moura, Escolastica Rejane] CNPq, Campinas, SP, Brazil.
+   [Joventino, Emanuella Silva; Rogerio, Raul Feitoza] Hosp Geral Fortaleza, Fortaleza, Ceara, Brazil.
+   [da Silva, Sabrina Ferreira] Escola Saude Publ Ceara, Fortaleza, Ceara, Brazil.
+   [Ximenes, Lorena Barbosa; Ferreira Moura, Escolastica Rejane] Univ Fed Ceara, Dept Enfermagem, Fortaleza, Ceara, Brazil.
+RP Joventino, ES (corresponding author), Alameda Eliane Lucia 384,Quadra 4,Cidade 2000, BR-60190150 Fortaleza, Ceara, Brazil.
+EM manujoventino@yahoo.com.br; duquezadesabri@hotmail.com;
+   raultito@gmail.com; gisellelf@yahoo.com.br; lbximenes2005@uol.com.br;
+   escolpaz@yahoo.com.br
+CR Articulacao no Semi-arido (ASA), 2002, PROGR FORM MOB SOC C
+   Benyus JM, 2000, BIOMIMICRY INNOVATIO
+   Bittencourt Sonia Azevedo, 2002, Cad Saude Publica, V18, P747, DOI 10.1590/S0102-311X2002000300023
+   Blackburn DM, 2005, AVALIACAO POTABILIDA
+   Bloch D, 2001, AGUA DIREITO VIDA RE
+   Brasil, 2002, SIST INF AT BAS SIAB
+   BRASIL. Ministerio da Saude, 2006, IND MORB FAT RISC
+   Cezar-Vaz Marta Regina, 2007, Texto contexto - enferm., V16, P645, DOI 10.1590/S0104-07072007000400008
+   Borges CVD, 2007, REV NUTR, V20, P159, DOI 10.1590/S1415-52732007000200005
+   do Amaral LA, 2003, REV SAUDE PUBL, V37, P510, DOI 10.1590/s0034-89102003000400017
+   Fernandes FBP, 2002, AGUA DESENVOLVIMENTO, P69
+   FREITAS C.M, 2006, SAUDE AMBIENTE SUSTE
+   Garcia JGD, 2005, THESIS U ESTADUAL PA
+   Gazin Pierre, 2000, Revista da Sociedade Brasileira de Medicina Tropical, V33, P407, DOI 10.1590/S0037-86822000000400013
+   HELLER L., 1998, CIENC SAUDE COLETIVA, V3, P73, DOI [10.1590/S1413-81231998000200007, DOI 10.1590/S1413-81231998000200007]
+   Hurtado-Guerrero Ana Felisa, 2005, Acta Amaz., V35, P487, DOI 10.1590/S0044-59672005000400013
+   Mandú Edir Nei Teixeira, 2008, Texto contexto - enferm., V17, P131, DOI 10.1590/S0104-07072008000100015
+   Matos MIS, 2006, B DIOCESANO, V9
+   Mello D A, 1998, Cad Saude Publica, V14, P583, DOI 10.1590/S0102-311X1998000300015
+   [Ministerio da Saude (BR) Conselho Nacional de Saude Comissao Nacional de Etica em Pesquisa], 2003, CONS NAC SAUD COM NA
+   Ministerio da Saude (BR), 2004, COORD GER INF AN EP
+   Ministerio da Saude (BR), 2005, SAUD REF AP CONTR DO
+   Ministerio da Saude (BR), 2006, SIST INF MORT C 6 MO
+   Ministerio da Saude (BR). Departamento de Atencao Basica, 2004, DEP AT BAS GUIA PRAT
+   Moreira Josino C., 2002, Ciênc. saúde coletiva, V7, P299
+   Ribeiro Eduardo Magalhães, 2003, Ambient. soc., V5, P129, DOI 10.1590/S1414-753X2003000200008
+   Rocha Christiane Maria Barcellos Magalhães da, 2006, Cad. Saúde Pública, V22, P1967
+   Shimizu HE, 2009, REV BRAS ENFERM, V62, P424, DOI 10.1590/S0034-71672009000300014
+   SMELTZER SC, 2005, TRATADO ENFERMAGEM M
+   Teixeira Júlio César, 2005, Rev. Bras. Saude Mater. Infant., V5, P449, DOI 10.1590/S1519-38292005000400008
+   Tucci CEM, 2010, GESTAO AGUA BRASIL P
+NR 31
+TC 10
+Z9 11
+U1 0
+U2 2
+PU UNIV FEDERAL SANTA CATARINA
+PI FLORIANOPOLIS
+PA CAMPUS UNIVERSITARIO REITOR JOAO DAVID FERREIRA LIMA, FLORIANOPOLIS, SC
+   88010-970, BRAZIL
+SN 0104-0707
+J9 TEXTO CONTEXTO ENFER
+JI Texto Contexto Enferm.
+PD OCT-DEC
+PY 2010
+VL 19
+IS 4
+BP 691
+EP 699
+DI 10.1590/S0104-07072010000400012
+PG 9
+WC Nursing
+SC Nursing
+GA V23MD
+UT WOS:000208346000012
+OA DOAJ Gold
+DA 2020-11-26
+ER
+
+EF

@@ -1,0 +1,606 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Almeida, FJ
+   Olmos, RD
+   Oliveira, DBL
+   Monteiro, CO
+   Thomazelli, LM
+   Durigon, EL
+   Safadi, MAP
+AF Almeida, Flavia Jacqueline
+   Olmos, Rodrigo Diaz
+   Oliveira, Danielle Bruna Leal
+   Monteiro, Cairo Oliveira
+   Thomazelli, Luciano Matsumiya
+   Durigon, Edison Luiz
+   Safadi, Marco Aurelio Palazzi
+TI Hematuria Associated With SARS-CoV-2 Infection in a Child
+SO PEDIATRIC INFECTIOUS DISEASE JOURNAL
+LA English
+DT Letter
+C1 [Almeida, Flavia Jacqueline] Santa Casa Sao Paulo Sch Med Sci, Dept Pediat, Sao Paulo, SP, Brazil.
+   [Olmos, Rodrigo Diaz] Univ Sao Paulo, Sch Med, Univ Hosp, Dept Internal Med, Sao Paulo, SP, Brazil.
+   [Oliveira, Danielle Bruna Leal; Monteiro, Cairo Oliveira; Thomazelli, Luciano Matsumiya; Durigon, Edison Luiz] Univ Sao Paulo, Inst Biomed Sci, Dept Microbiol, Lab Mol & Clin Virol, Sao Paulo, SP, Brazil.
+   [Safadi, Marco Aurelio Palazzi] Santa Casa Sao Paulo Sch Med Sci, Dept Pediat, Sao Paulo, SP, Brazil.
+RP Almeida, FJ (corresponding author), Santa Casa Sao Paulo Sch Med Sci, Dept Pediat, Sao Paulo, SP, Brazil.
+RI safadi, marco aurelio palazzi/B-7157-2015; Olmos, Rodrigo/H-7068-2012;
+   Thomazelli, Luciano Matsumiya/Q-6119-2017
+OI safadi, marco aurelio palazzi/0000-0002-4401-9446; Olmos,
+   Rodrigo/0000-0002-7569-4735; MONTEIRO, CAIRO/0000-0003-3792-1965;
+   Thomazelli, Luciano Matsumiya/0000-0002-9157-6122; Oliveira,
+   Danielle/0000-0002-0534-0886
+CR Cheng YC, 2020, KIDNEY INT, V97, P829, DOI 10.1016/j.kint.2020.03.005
+   Corman VM, 2020, EUROSURVEILLANCE, V25, P23, DOI 10.2807/1560-7917.ES.2020.25.3.2000045
+   Hamming I, 2004, J PATHOL, V203, P631, DOI 10.1002/path.1570
+   Huang CL, 2020, LANCET, V395, P497, DOI 10.1016/S0140-6736(20)30183-5
+   Safadi MAP, 2020, J PEDIAT RIO J, DOI 10.1016/j.jpedp.2020.04.001
+   Sakthivel SK, 2012, J VIROL METHODS, V185, P259, DOI 10.1016/j.jviromet.2012.07.010
+NR 6
+TC 4
+Z9 4
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0891-3668
+EI 1532-0987
+J9 PEDIATR INFECT DIS J
+JI Pediatr. Infect. Dis. J.
+PD JUL
+PY 2020
+VL 39
+IS 7
+BP E161
+EP E161
+DI 10.1097/INF.0000000000002737
+PG 1
+WC Immunology; Infectious Diseases; Pediatrics
+SC Immunology; Infectious Diseases; Pediatrics
+GA MG3ZJ
+UT WOS:000545971700026
+PM 32384396
+OA Bronze
+DA 2020-12-01
+ER
+
+PT J
+AU Calliari, LE
+   Almeida, FJ
+   Noronha, RM
+AF Calliari, Luis Eduardo
+   Almeida, Flavia J.
+   Noronha, Renata Maria
+TI Infections in children with diabetes
+SO JORNAL DE PEDIATRIA
+LA English
+DT Review
+DE Diabetes mellitus; Infection; Child; Adolescent; Insulin
+ID INFLUENZA VACCINATION; COMMON INFECTIONS; SAO-PAULO; MELLITUS; TYPE-1;
+   ADOLESCENTS; MANAGEMENT; DISEASES; RISK
+AB Objective: The association between diabetes mellitus and infections is very common. These infections, even when mild, interfere with blood glucose control. The aim of this review is to describe infections that occur in children and adolescents with DM, as well as to provide recommendations on glycemia management during these episodes.
+   Source of data: A non-systematic review was carried out in the PubMed database, using the terms "diabetes mellitus," "infection," "children," and "adolescents." The most relevant publications were selected.
+   Synthesis of data: In addition to the usual community diseases, some infections may occur predominantly in diabetic patients, especially when there is inadequate glycemic control, and common infections can be more severe in these patients. Alterations caused by the disease itself and the immune response are responsible for the risk of higher frequency and severity of infections. During infections, an increase in blood glucose occurs and usually an increase in insulin dose is required.
+   Conclusions: Pediatric patients with diabetes have some immune system disorders that, when associated with high glycemia, increase the risk of infections and their severity, and should be promptly identified and treated. The presence of an infectious condition, in turn, raises blood glucose and increases the risk of decompensation, and pediatricians should be cautioned to intensify monitoring and insulin therapy, and to avoid the risk of DKA. It should also be noted that many infections are preventable and can be avoided with adequate vaccine coverage. (C) 2019 Sociedade Brasileira de Pediatria. Published by Elsevier Editora Ltda.
+C1 [Calliari, Luis Eduardo] Fac Ciencias Med Santa Casa Sao Paulo, Dept Pediat, Unidade Endocrinol Pediat & Ambulatorio Diabet Pe, Sao Paulo, SP, Brazil.
+   [Almeida, Flavia J.] Fac Ciencias Med Santa Casa Sao Paulo, Dept Pediat, Unidade Infectol Pediat, Sao Paulo, SP, Brazil.
+   [Noronha, Renata Maria] Fac Ciencias Med Santa Casa Sao Paulo, Dept Pediat, Ambulatorio Diabet Pediat, Sao Paulo, SP, Brazil.
+RP Calliari, LE (corresponding author), Fac Ciencias Med Santa Casa Sao Paulo, Dept Pediat, Unidade Endocrinol Pediat & Ambulatorio Diabet Pe, Sao Paulo, SP, Brazil.
+EM caliari@uol.com.br
+RI Calliari, Luis Eduardo Procopio/K-7010-2015
+OI Calliari, Luis Eduardo Procopio/0000-0003-2085-5316; Almeida,
+   Flavia/0000-0002-8587-9733; maria de noronha, renata/0000-0002-6202-6383
+CR Arrelias CCA, 2016, REV ESC ENFERM USP, V50, P253, DOI 10.1590/S0080-623420160000200011
+   Arrelias CC, 2017, REV GAUCHA ENFERM, V38
+   Atabek ME, 2013, J PEDIATR ADOL GYNEC, V26, P757
+   Brasil. Ministerio da Saude Secretaria de Vigilancia em Saade. Departamento de Vigitancia das Doencas Transmissiveis, 2018, MAN REC CONTR TUB BR
+   Brasil. Ministerio da Saude Secretaria de Vigilancia em Saude Departamento de Vigilancia das Doencas Transmissivels, 2014, MAN CENTR REF IM ESP
+   Casqueiro J, 2012, INDIAN J ENDOCRIN S1, V16, P527
+   Cefalu WT, 2019, DIABETES CARE, V42, pS13, DOI 10.2337/dc19-S002
+   Chita T, 2017, THER CLIN RISK MANAG, V13, P1, DOI 10.2147/TCRM.S123226
+   Dakovic D, 2008, J PERIODONTOL, V79, P987, DOI [10.1902/jop.2008.070549, 10.1902/jop.2008.070549 ]
+   de Noronha RM, 2011, ARQ BRAS ENDOCRINOL, V55, P613, DOI 10.1590/S0004-27302011000800016
+   DiMeglio LA, 2018, PEDIATR DIABETES, V19, P105, DOI 10.1111/pedi.12737
+   Domingues CMAS, 2013, EPIDEMIOL SERV SAUDE, V22, P9, DOI 10.5123/S1679-49742013000100002
+   Dunachie S, 2019, T ROY SOC TROP MED H, V113, P56, DOI 10.1093/trstmh/try124
+   Foster NC, 2019, DIABETES TECHNOL THE, V21, P66, DOI 10.1089/dia.2018.0384
+   Giannattasio A, 2010, ITAL J PEDIATR, V36, DOI 10.1186/1824-7288-36-28
+   Gomes MB, 2013, ACTA DIABETOL, V50, P743, DOI 10.1007/s00592-012-0404-3
+   Harding GKM, 2002, NEW ENGL J MED, V347, P1576, DOI 10.1056/NEJMoa021042
+   Joshi N, 1999, NEW ENGL J MED, V341, P1906, DOI 10.1056/NEJM199912163412507
+   Klekotka Renata Barbara, 2015, Pneumonol Alergol Pol, V83, P401, DOI 10.5603/PiAP.2015.0065
+   Korbel L, 2018, PEDIATR DIABETES, V19, P512, DOI 10.1111/pedi.12594
+   Korbel L, 2015, J DIABETES COMPLICAT, V29, P192, DOI 10.1016/j.jdiacomp.2014.11.005
+   Lachmandas E, 2018, EUR J CLIN MICROBIOL, V37, P371, DOI 10.1007/s10096-017-3145-y
+   Liberatore RD, 2005, PEDIATR DIABETES, V6, P206
+   Rosa MQM, 2018, INT J ENV RES PUB HE, V15, DOI 10.3390/ijerph15020294
+   Miller AC, 2011, J INTENSIVE CARE MED, V27, P25
+   Moura RF, 2015, CAD SAUDE PUBLICA, V31, P2157, DOI 10.1590/0102-311X00065414
+   Muller LMAJ, 2005, CLIN INFECT DIS, V41, P281, DOI 10.1086/431587
+   Noronha RM, 2014, PEDIATR DIABETES, V15, P309, DOI 10.1111/pedi.12094
+   Pappas PG, 2016, CLIN INFECT DIS, V62, pE1, DOI 10.1093/cid/civ933
+   Pekuz S, 2019, JPN J INFECT DIS, V72, P7, DOI 10.7883/yoken.JJID.2017.410
+   Reilly Meredith L, 2012, J Diabetes Sci Technol, V6, P858
+   Renko M, 2011, DIABETES CARE, V34, P230, DOI 10.2337/dc10-0421
+   Rodrigues CF, 2019, J CLIN MED, V8, DOI 10.3390/jcm8010076
+   Seminog OO, 2013, DIABETIC MED, V30, P1412, DOI 10.1111/dme.12260
+   Shen TC, 2014, MEDICINE, V93, DOI 10.1097/MD.0000000000000096
+   Sociedade Brasileira de Imunizacoes, CAL VAC SBIM PAC ESP
+   Francisco PMSB, 2011, CAD SAUDE PUBLICA, V27, P417, DOI 10.1590/S0102-311X2011000300003
+   Telo GH, 2019, PEDIATR DIABETES, V20, P389, DOI 10.1111/pedi.12828
+   Toniolo A, 2019, REV MED MICROBIOL, V30, P1, DOI 10.1097/MRM.0000000000000155
+   WHO, 2018, WHO GLOBAL TUBERCULO
+   Wolfsdorf JI, 2018, PEDIATR DIABETES, V19, P155, DOI 10.1111/pedi.12701
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASIL PEDIATRIA
+PI RIO DE JANEIRO, RJ
+PA RUA SANTA CLARA 292, RIO DE JANEIRO, RJ, CEP 22401-01, BRAZIL
+SN 0021-7557
+EI 1678-4782
+J9 J PEDIAT-BRAZIL
+JI J. Pediatr.
+PD MAR-APR
+PY 2020
+VL 96
+SU 1
+BP 39
+EP 46
+DI 10.1016/j.jped.2019.09.004
+PG 8
+WC Pediatrics
+SC Pediatrics
+GA LG5TX
+UT WOS:000528163900006
+PM 31666181
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU da Silva, DGBP
+   Almeida, FJ
+   Arnoni, MV
+   Safadi, MAP
+   Mimica, MJ
+   Jarovsky, D
+   Rossetti, GPD
+   Magalhaes, M
+   de Oliveira, DBL
+   Thomazelli, LM
+   Colmanetti, TC
+   Durigon, EL
+   Berezin, EN
+AF Bomfim Prado da Silva, Daniella Gregoria
+   Almeida, Flavia Jacqueline
+   Arnoni, Mariana Volpe
+   Palazzi Safadi, Marco Aurelio
+   Mimica, Marcelo Jenne
+   Jarovsky, Daniel
+   de Almeida Rossetti, Gabriela Pereira
+   Magalhaes, Mauricio
+   Leal de Oliveira, Danielle Bruna
+   Thomazelli, Luciano Matsumiya
+   Colmanetti, Thais Cristina
+   Durigon, Edison Luiz
+   Berezin, Eitan Naaman
+TI First report of two consecutive respiratory syncytial virus outbreaks by
+   the novel genotypes ON-1 and NA-2 in a neonatal intensive care unit
+SO JORNAL DE PEDIATRIA
+LA English
+DT Article
+DE Respiratory syncytial virus; ON-1; NA-2; Outbreak; Neonatal intensive
+   care unit
+ID ATTACHMENT GLYCOPROTEIN-G; GENETIC-VARIABILITY; SUBGROUP B; PCR ASSAY;
+   GROUP-A; INFECTION; ON1; COMMUNITIES; PALIVIZUMAB; DIVERSITY
+AB Objective: Respiratory syncytial virus is a pathogen frequently involved in nosocomial outbreaks. Although several studies have reported nosocomial outbreaks in neonatal intensive care units, molecular epidemiology data are scarce. Here, the authors describe two consecutive respiratory syncytial virus outbreaks caused by genotypes ON-1 and NA-2 in a neonatal intensive care unit in Sao Paulo, Brazil.
+   Methods: A prospective search for respiratory syncytial virus was performed after diagnosing the index case and four other symptomatic newborns in the neonatal intensive care unit. Nasopharyngeal aspirate samples of all patients in the neonatal intensive care unit were tested for 17 respiratory viruses using real-time reverse transcriptase polymerase chain reaction. Genotyping was performed using nucleotide sequencing.
+   Results: From May to August 2013, two different outbreaks were detected in the neonatal intensive care unit. A total of 20 infants were infected with respiratory syncytial virus-A (ten and 14 with ON-1 and NA-2 genotypes, respectively). The mean age of the infants was 10 days, mean birth weight was 1,961 g, and the mean gestational age was 33 weeks. Risk factors (heart disease, lung disease, and prematurity) were present in 80% and 85.7% of infants in the ON-1 and NA-2 groups, respectively. In total, 45.8% of infants were asymptomatic and 20.8% required mechanical ventilation. Coinfections were not detected during the outbreaks.
+   Conclusions: Infants in a neonatal intensive care unit who develop abrupt respiratory symptoms should be tested for respiratory viruses, especially respiratory syncytial virus. Even in the absence of severe symptoms, respiratory syncytial virus detection can prevent nosocomial transmission through infection control measures. A better understanding of respiratory syncytial virus molecular epidemiology is essential for developing new vaccines and antiviral drugs against respiratory syncytial virus. (C) 2018 Sociedade Brasileira de Pediatria. Published by Elsevier Editora Ltda.
+C1 [Bomfim Prado da Silva, Daniella Gregoria] Santa Casa Sao Paulo, Dept Pediat, Sao Paulo, SP, Brazil.
+   [Almeida, Flavia Jacqueline; Palazzi Safadi, Marco Aurelio; Mimica, Marcelo Jenne; Jarovsky, Daniel; Berezin, Eitan Naaman] Santa Casa Sao Paulo, Unidade Infectol Pediat, Sao Paulo, SP, Brazil.
+   [Arnoni, Mariana Volpe] Santa Casa Sao Paulo, Unidade Controle Infeccao Hosp, Sao Paulo, SP, Brazil.
+   [de Almeida Rossetti, Gabriela Pereira; Magalhaes, Mauricio] Santa Casa Sao Paulo, Unidade Neonatal, Sao Paulo, SP, Brazil.
+   [Leal de Oliveira, Danielle Bruna; Thomazelli, Luciano Matsumiya; Colmanetti, Thais Cristina; Durigon, Edison Luiz] Univ Sao Paulo, Inst Ciencias Biomed, Dept Microbiol, Sao Paulo, SP, Brazil.
+RP Jarovsky, D (corresponding author), Santa Casa Sao Paulo, Unidade Infectol Pediat, Sao Paulo, SP, Brazil.
+EM daniel@jarovsky.com.br
+RI Oliveira, Danielle BL/H-8030-2015; Jarovsky, Daniel/AAU-1570-2020;
+   safadi, marco aurelio palazzi/B-7157-2015; Thomazelli, Luciano
+   Matsumiya/Q-6119-2017
+OI Oliveira, Danielle BL/0000-0002-3452-1336; Jarovsky,
+   Daniel/0000-0002-4825-7396; safadi, marco aurelio
+   palazzi/0000-0002-4401-9446; Thomazelli, Luciano
+   Matsumiya/0000-0002-9157-6122; Almeida, Flavia/0000-0002-8587-9733;
+   Oliveira, Danielle/0000-0002-0534-0886
+CR Alan S, 2012, J HOSP INFECT, V81, P292, DOI 10.1016/j.jhin.2012.05.011
+   da Silva LHA, 2008, J MED VIROL, V80, P1653, DOI 10.1002/jmv.21249
+   Gardinassi LGA, 2012, VIRUSES-BASEL, V4, P2432, DOI 10.3390/v4112432
+   Auksornkitti V, 2014, ARCH VIROL, V159, P499, DOI 10.1007/s00705-013-1773-9
+   Avadhanula V, 2015, J INFECT DIS, V211, P582, DOI 10.1093/infdis/jiu473
+   Brasil. Ministerio da Saucle, 2013, PROT US PAL PAR PREV
+   De-Paris F, 2014, VIROL J, V11, DOI 10.1186/1743-422X-11-36
+   Dizdar EA, 2010, J HOSP INFECT, V75, P292, DOI 10.1016/j.jhin.2010.01.013
+   Duvvuri VR, 2015, SCI REP-UK, V5, DOI 10.1038/srep14268
+   Eshaghi A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0032807
+   Figueras-Aloy J, 2016, INFECT DIS THER, V5, P417, DOI 10.1007/s40121-016-0130-1
+   French CE, 2016, INFLUENZA OTHER RESP, V10, P268, DOI 10.1111/irv.12379
+   GRILO A, 2017, BIOMED RES INT, V2017
+   Hammoud MS, 2016, J TROP PEDIATRICS, V62, P409, DOI 10.1093/tropej/fmw025
+   Hotard AL, 2015, J VIROL, V89, P8258, DOI 10.1128/JVI.01045-15
+   Riccetto AGL, 2009, BRAZ J INFECT DIS, V13, P35, DOI 10.1590/S1413-86702009000100008
+   Parejo CM, 2016, AN PEDIATR, V85, P119, DOI 10.1016/j.anpedi.2015.10.002
+   Moura FEA, 2004, J MED VIROL, V74, P156, DOI 10.1002/jmv.20159
+   O'Connell K, 2011, J HOSP INFECT, V77, P338, DOI 10.1016/j.jhin.2010.12.012
+   Peret TC, 1998, J GEN VIRAL, V79, P2271
+   Peret TCT, 2000, J INFECT DIS, V181, P1891, DOI 10.1086/315508
+   Pierangeli A, 2014, EUROSURVEILLANCE, V19
+   Rodriguez-Fernandez R, 2018, J INFECT DIS, V217, P24, DOI 10.1093/infdis/jix543
+   Sakthivel SK, 2012, J VIROL METHODS, V185, P259, DOI 10.1016/j.jviromet.2012.07.010
+   SANZ MC, 1994, VIRUS RES, V33, P203
+   Silva CD, 2012, ANTIMICROB RESIST IN, V1, DOI 10.1186/2047-2994-1-16
+   Tsukagoshi H, 2013, MICROBIOL IMMUNOL, V57, P655, DOI 10.1111/1348-0421.12075
+   Yamaguchi M, 2011, J CLIN MICROBIOL, V49, P1034, DOI 10.1128/JCM.02132-10
+   Zhang ZY, 2010, J CLIN MICROBIOL, V48, P1201, DOI 10.1128/JCM.02258-09
+   Zheng HQ, 1996, J CLIN MICROBIOL, V34, P334, DOI 10.1128/JCM.34.2.334-337.1996
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASIL PEDIATRIA
+PI RIO DE JANEIRO, RJ
+PA RUA SANTA CLARA 292, RIO DE JANEIRO, RJ, CEP 22401-01, BRAZIL
+SN 0021-7557
+EI 1678-4782
+J9 J PEDIAT-BRAZIL
+JI J. Pediatr.
+PD MAR-APR
+PY 2020
+VL 96
+IS 2
+BP 233
+EP 239
+DI 10.1016/j.jped.2018.10.014
+PG 7
+WC Pediatrics
+SC Pediatrics
+GA LN1LF
+UT WOS:000532706200013
+PM 30552864
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Jarovsky, D
+   Brito, CRD
+   Monteiro, DU
+   de Azevedo, MI
+   Botton, SD
+   Mimica, MJ
+   Arnoni, MV
+   Safadi, MAP
+   Berezin, EN
+   Salgado, H
+   Almeida, FJ
+   de la Rue, ML
+AF Jarovsky, Daniel
+   da Silva Brito, Clarissa Rodrigues
+   Monteiro, Danieli Urach
+   de Azevedo, Maria Isabel
+   Botton, Sonia de Avila
+   Mimica, Marcelo Jenne
+   Arnoni, Mariana Volpe
+   Palazzi Safadi, Marco Aurelio
+   Berezin, Eitan Naaman
+   Salgado Filho, Humberto
+   Almeida, Flavia Jacqueline
+   de la Rue, Mario Luiz
+TI Imported hepatopulmonary echinococcosis: first report of Echinococcus
+   granulosus sensu stricto (G1) in Bolivia
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Echinococcus granulosus sensu stricto; Hepatopulmonary hydatidosis;
+   Echinococcosis
+ID CYSTIC ECHINOCOCCOSIS; HYDATIDOSIS; WORLDWIDE
+AB Hepatopulmonary hydatidosis in young children is a rare and atypical presentation of Echinococcus granulosus infection. We report the first case of cystic echinococcosis caused by a microvariant of E. granulosus sensu stricto. Chemotherapy and systemic corticoids were administered before curative surgery was performed. Recurrence was not observed for more than 24 months of follow-up.
+C1 [Jarovsky, Daniel; da Silva Brito, Clarissa Rodrigues; Mimica, Marcelo Jenne; Palazzi Safadi, Marco Aurelio; Berezin, Eitan Naaman; Almeida, Flavia Jacqueline] Santa Casa Sao Paulo, Serv Infectol Pediat, Sao Paulo, SP, Brazil.
+   [Monteiro, Danieli Urach; Botton, Sonia de Avila; de la Rue, Mario Luiz] Univ Fed Santa Maria, Dept Microbiol & Parasitol, Santa Maria, RS, Brazil.
+   [de Azevedo, Maria Isabel] Univ Fed Minas Gerais, Dept Med Vet Prevent, Belo Horizonte, MG, Brazil.
+   [Botton, Sonia de Avila] Univ Fed Santa Maria, Dept Med Vet Prevent, Santa Maria, RS, Brazil.
+   [Arnoni, Mariana Volpe] Santa Casa Sao Paulo, Serv Controle Infeccao Hosp, Sao Paulo, SP, Brazil.
+   [Salgado Filho, Humberto] Santa Casa Sao Paulo, Serv Cirurgia Pediat, Sao Paulo, SP, Brazil.
+RP Jarovsky, D (corresponding author), Santa Casa Sao Paulo, Serv Infectol Pediat, Sao Paulo, SP, Brazil.
+EM daniel@jarovsky.com.br
+RI Jarovsky, Daniel/AAU-1570-2020; safadi, marco aurelio
+   palazzi/B-7157-2015
+OI Jarovsky, Daniel/0000-0002-4825-7396; safadi, marco aurelio
+   palazzi/0000-0002-4401-9446
+CR Alvarez Rojas CA, 2014, INT J PARASITOL, V44, P9, DOI 10.1016/j.ijpara.2013.08.008
+   BOWLES J, 1992, MOL BIOCHEM PARASIT, V54, P165, DOI 10.1016/0166-6851(92)90109-W
+   Budke CM, 2013, AM J TROP MED HYG, V88, P1011, DOI 10.4269/ajtmh.12-0692
+   Budke CM, 2006, EMERG INFECT DIS, V12, P296
+   Eckert J, 2004, CLIN MICROBIOL REV, V17, P107, DOI 10.1128/CMR.17.1.107-135.2004
+   Grosso G, 2012, WORLD J GASTROENTERO, V18, P1425, DOI 10.3748/wjg.v18.i13.1425
+   Kamenetzky L, 2002, INFECT GENET EVOL, V2, P129, DOI 10.1016/S1567-1348(02)00131-4
+   Kinkar L, 2018, INT J PARASITOL, V48, P729, DOI 10.1016/j.ijpara.2018.03.006
+   Larrieu EJ, 2001, ANN TROP MED PARASIT, V95, P679, DOI 10.1080/00034980120094730
+   Pavletic CF, 2017, REV PANAM SALUD PUBL, V41
+   Rodero A., 1992, Archivos de Zootecnia, V41, P383
+   SCHANTZ PM, 1972, B OFIC SANIT PANAM, V73, P187
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PY 2020
+VL 53
+AR e20180046
+DI 10.1590/0037-8682-0046-2018
+PG 4
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA KH1FO
+UT WOS:000510392500001
+PM 31994653
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Safadi, MAP
+   Almeida, FJ
+AF Palazzi Safadi, Marco Aurelio
+   Almeida, Flavia J.
+TI The Zika Virus Epidemic Four Years After: Where are We?
+SO AMERICAN JOURNAL OF PERINATOLOGY
+LA English
+DT Editorial Material
+ID UPDATE
+C1 [Palazzi Safadi, Marco Aurelio; Almeida, Flavia J.] Santa Casa Sao Paulo Sch Med Sci, Dept Pediat, Alameda Indigenas 228, BR-04059060 Sao Paulo, Brazil.
+RP Safadi, MAP (corresponding author), Santa Casa Sao Paulo Sch Med Sci, Dept Pediat, Alameda Indigenas 228, BR-04059060 Sao Paulo, Brazil.
+EM masafadi@uol.com.br
+RI safadi, marco aurelio palazzi/B-7157-2015
+OI safadi, marco aurelio palazzi/0000-0002-4401-9446
+CR BRASIL. Ministerio da SaUde. Secretaria de em SaUde, 2019, B EPIDEMIOLOGICO
+   BRASIL. Ministerio da Saude. Secretaria de Vigilancia em Saude, B EP
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Centers for Disease Control and Prevention, ZIK VIR
+   Dowd KA, 2016, CELL REP, V16, P1485, DOI 10.1016/j.celrep.2016.07.049
+   Durbin A, 2017, EXPERT REV VACCINES, V16, P781, DOI 10.1080/14760584.2017.1345309
+   Halstead SB, 2017, LANCET INFECT DIS, V17, pE378, DOI 10.1016/S1473-3099(17)30362-6
+   Kimberlin D W, 2018, RED BOOK 2018 2021 R, P894
+   Musso D, 2016, CLIN MICROBIOL REV, V29, P487, DOI 10.1128/CMR.00072-15
+   Oliveira DBL, 2016, NEW ENGL J MED, V375, P1202, DOI 10.1056/NEJMc1607583
+   Safadi MAP, 2017, PEDIATR INFECT DIS J, V36, P333, DOI 10.1097/INF.0000000000001449
+   Poland GA, 2018, LANCET INFECT DIS, V18, pE211, DOI 10.1016/S1473-3099(18)30063-X
+   Satterfield-Nash A, 2017, MMWR-MORBID MORTAL W, V66, P1347, DOI 10.15585/mmwr.mm6649a2
+   Snyder RE, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005287
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 1
+PU THIEME MEDICAL PUBL INC
+PI NEW YORK
+PA 333 SEVENTH AVE, NEW YORK, NY 10001 USA
+SN 0735-1631
+EI 1098-8785
+J9 AM J PERINAT
+JI Am. J. Perinatol.
+PD JUL
+PY 2019
+VL 36
+SU 2
+BP S4
+EP S8
+DI 10.1055/s-0039-1691769
+PG 5
+WC Obstetrics & Gynecology; Pediatrics
+SC Obstetrics & Gynecology; Pediatrics
+GA IS7DT
+UT WOS:000482311200002
+PM 31238350
+OA Bronze
+DA 2020-12-01
+ER
+
+PT J
+AU Almeida, FJ
+   Kochi, C
+   Safadi, MAP
+AF Almeida, Flavia Jacqueline
+   Kochi, Cristiane
+   Palazzi Safadi, Marco Aurelio
+TI Influence of the antiretroviral therapy on the growth pattern of
+   children and adolescents living with HIV/AIDS
+SO JORNAL DE PEDIATRIA
+LA English
+DT Review
+DE HIV; Child; Growth; Antiretroviral therapy
+ID HIV-INFECTED CHILDREN; INITIATION; RECOVERY; OUTCOMES; AGE
+AB Objective: Weight and height growth impairment is one of the most frequent manifestations in HIV-infected children and may be the first sign of disease, being considered a marker of disease progression and an independent risk factor for death. The aim of this review is to evaluate the influence of antiretroviral therapy on the growth pattern of children and adolescents living with HIV/AIDS.
+   Source of data: A non-systematic review was carried out in the PubMed database, with the terms "HIV", "Weight and height growth", "ART" and "children". The most relevant publications were selected.
+   Data Synthesis: Antiretroviral therapy has significantly reduced morbidity and mortality in HIV-infected children and is clearly associated with recovery of weight and height-for-age Z-scores, especially when started early, in the asymptomatic child still without weight-height impairment. Therapeutic strategies involving the GH/IGF-1 axis, especially for children with growth impairment, are still being studied.
+   Conclusions: HIV-infected children show early weight-height impairment; antiretroviral therapy improves the anthropometric profile of these children. (C) 2018 Sociedade Brasileira de Pediatria. Published by Elsevier Editora Ltda.
+C1 [Almeida, Flavia Jacqueline; Palazzi Safadi, Marco Aurelio] Santa Casa Sao Paulo, Fac Ciencias Med, Dept Pediat, Sao Paulo, SP, Brazil.
+   [Kochi, Cristiane] Santa Casa Sao Paulo, Fac Ciencias Med, Dept Ciencias Fisiol, Sao Paulo, SP, Brazil.
+RP Almeida, FJ (corresponding author), Santa Casa Sao Paulo, Fac Ciencias Med, Dept Pediat, Sao Paulo, SP, Brazil.
+EM flaviaja@gmail.com
+RI safadi, marco aurelio palazzi/B-7157-2015
+OI safadi, marco aurelio palazzi/0000-0002-4401-9446; Almeida,
+   Flavia/0000-0002-8587-9733
+CR Backeljauw PF, 2014, PEDIAT ENDOCRINOLOGY, P292
+   Boettiger DC, 2016, CLIN INFECT DIS, V63, P1236, DOI 10.1093/cid/ciw514
+   Boettiger DC, 2016, PEDIATR INFECT DIS J, V35, pe144, DOI 10.1097/INF.0000000000001074
+   Brasil. Ministerio da Saade. Secretaria de Vigilancia em SaUde, 2017, B EP HIV 1 AIDS 2017
+   Golucci APBS, 2019, J PEDIAT-BRAZIL, V95, P7, DOI 10.1016/j.jped.2018.02.006
+   Buonora S, 2008, ANN TROP PAEDIATR, V28, P59, DOI 10.1179/146532808X270699
+   Cames C, 2017, PEDIATR INFECT DIS J, V36, pE87, DOI [10.1097/INF.0000000000001454, 10.1097/inf.0000000000001454]
+   Chantry CJ, 2003, PEDIATR INFECT DIS J, V22, P1033, DOI 10.1097/01.inf.0000100575.64298.bc
+   Davies MA, 2009, SAMJ S AFR MED J, V99, P730
+   Falutz J, 2011, BEST PRACT RES CL EN, V25, P517, DOI 10.1016/j.beem.2010.11.001
+   Feinstein L, 2012, JAIDS-J ACQ IMM DEF, V61, P235, DOI 10.1097/QAI.0b013e3182634e09
+   Feucht UD, 2016, TROP MED INT HEALTH, V21, P619, DOI 10.1111/tmi.12685
+   Gsponer T, 2012, PEDIATRICS, V130, pE966, DOI 10.1542/peds.2011-3020
+   Jesson J, 2015, MED MALADIES INFECT, V45, P149, DOI 10.1016/j.medmal.2015.03.002
+   Jesson J, 2017, JAIDS-J ACQ IMM DEF, V76, P149, DOI 10.1097/QAI.0000000000001484
+   Jesson J, 2015, PEDIATR INFECT DIS J, V34, pE159, DOI 10.1097/INF.0000000000000734
+   McGrath CJ, 2015, AIDS, V29, P2009, DOI 10.1097/QAD.0000000000000783
+   Melvin AJ, 2017, J PEDIATR INFECT DIS, V6, pE109, DOI 10.1093/jpids/pix050
+   Miller TL, 2001, PEDIATRICS, V107, DOI 10.1542/peds.107.5.e77
+   Musoke PM, 2011, AM J CLIN NUTR, V94, p1716S, DOI 10.3945/ajcn.111.018374
+   Diniz LMO, 2011, J PEDIAT-BRAZIL, V87, P131, DOI [10.2223/JPED.2064, 10.1590/S0021-75572011000200008]
+   PECKHAM CS, 1991, LANCET, V337, P253
+   Penda CI, 2018, PAN AFR MED J, V30, DOI 10.11604/pamj.2018.30.91.15832
+   Ransom CE, 2013, JAIDS-J ACQ IMM DEF, V64, P374, DOI 10.1097/QAI.0b013e3182a7adb2
+   Report Global, 2018, UNAIDS REP GLOB AIDS
+   Shiau S, 2013, J PEDIATR-US, V162, P1138, DOI 10.1016/j.jpeds.2012.11.025
+   Sutcliffe CG, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-54
+   Tekleab AM, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0167565
+   Verweel G, 2002, PEDIATRICS, V109, DOI 10.1542/peds.109.2.e25
+   Violari A, 2008, NEW ENGL J MED, V359, P2233, DOI 10.1056/NEJMoa0800971
+   Violari A, 2012, NEW ENGL J MED, V366, P2380, DOI 10.1056/NEJMoa1113249
+   WHO, 2009, GUID INT APPR NUTR C
+   World Health Organization, 2013, CONS GUID US ANT DRU
+   World Health Organization, 2015, GUID START ANT THER
+   2017, BEST PRACT RES 150, V31, P91, DOI DOI 10.1016/J.BEEM.2017.02.006
+   2010, AIDS, V24, P139, DOI DOI 10.1097/QAD.0B013E328332D5CA
+   2016, PEDIATR INFECT DIS J, V35, P1329, DOI DOI 10.1097/INF.0000000000001318
+   2009, NUTR REV, V67, P343, DOI DOI 10.1111/J.1753-4887.2009.00207.X
+   2001, EUR J PEDIAT, V160, P611
+   1996, J PEDIAT, V128, P58
+   2010, TROP MED INT HEALTH, V15, P934, DOI DOI 10.1111/J.1365-3156.2010.02561.X
+   2016, J ADOLESCENT HEALTH, V58, P451, DOI DOI 10.1016/J.JADOHEALTH.2015.11.006
+   2014, J TROP PEDIATRICS, V60, P179, DOI DOI 10.1093/TROPEJ/FMT104
+   1995, AIDS, V9, P455
+   2009, J ENDOCRINOL INVEST, V32, P85
+   2016, AIDS PATIENT CARE ST, V30, P365, DOI DOI 10.1089/APC.2016.0131
+   2016, AIDS, V30, P2323, DOI DOI 10.1097/QAD.0000000000001196
+   J PEDIAT, V136, P780
+   2016, NUTRITION, V32, P667, DOI DOI 10.1016/J.NUT.2015.12.035
+   2010, PEDIATR INFECT DIS J, V29, P1118, DOI DOI 10.1097/INF.0B013E3181ED9F4C
+   2018, CURR OPIN HIV AIDS, V13, P179, DOI DOI 10.1097/COH.0000000000000450
+   2017, INT J EPIDEMIOL, V46, P453, DOI DOI 10.1093/IJE/DYW097
+   2011, AIDS, V25, P345, DOI DOI 10.1097/QAD.0B013E32834171DB
+   2005, PEDIATR INFECT DIS J, V24, P46, DOI DOI 10.1097/01.INF.0000148879.83854.7E
+NR 54
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASIL PEDIATRIA
+PI RIO DE JANEIRO, RJ
+PA RUA SANTA CLARA 292, RIO DE JANEIRO, RJ, CEP 22401-01, BRAZIL
+SN 0021-7557
+EI 1678-4782
+J9 J PEDIAT-BRAZIL
+JI J. Pediatr.
+PY 2019
+VL 95
+SU 1
+BP S95
+EP S101
+DI 10.1016/j.jped.2018.12.007
+PG 7
+WC Pediatrics
+SC Pediatrics
+GA HU4QV
+UT WOS:000465261900013
+PM 30594468
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Jarovsky, D
+   Ambrus, TG
+   Gurgel, MG
+   Mimica, MJ
+   Arnoni, MV
+   Almeida, FJ
+   Safadi, MAP
+   Berezin, EN
+AF Jarovsky, Daniel
+   Ambrus, Thais Grodzicki
+   Gurgel, Mariana Galvao
+   Mimica, Marcelo Jenne
+   Arnoni, Mariana Volpe
+   Almeida, Flavia Jacqueline
+   Palazzi Safadi, Marco Aurelio
+   Berezin, Eitan Naaman
+TI Spontaneous pneumococcal peritonitis diagnosed by qPCR
+SO IDCASES
+LA English
+DT Article
+DE Streptococcus pneumoniae; Invasive pneumococcal disease; Spontaneous
+   peritonitis; Real-time PCR; lytA primer
+ID REAL-TIME PCR; STREPTOCOCCUS-PNEUMONIAE; DNA; MENINGITIS; CHILDREN;
+   DISEASE; LYTA; PLY
+AB Spontaneous bacterial peritonitis is an uncommon manifestation of invasive pneumococcal disease and frequently occurs when an underlying hepatic disease is present. Bacterial identification through culture can be particularly challenging in patients with prior or concurrent antimicrobial use. DNA amplification detects very few copies of target DNA under ideal conditions in CSF or pleural effusion and, therefore, can be useful in selected infections. A culture-negative spontaneous pneumococcal peritonitis without preexisting peritoneal disease diagnosed by qPCR is herein described. (C) 2019 The Authors. Published by Elsevier Ltd.
+C1 [Jarovsky, Daniel; Ambrus, Thais Grodzicki; Gurgel, Mariana Galvao; Mimica, Marcelo Jenne; Almeida, Flavia Jacqueline; Palazzi Safadi, Marco Aurelio; Berezin, Eitan Naaman] Santa Casa Sao Paulo, Pediat Infect Dis Unit, Sao Paulo, Brazil.
+   [Arnoni, Mariana Volpe] Santa Casa Sao Paulo, Hosp Infect Control Unit, Sao Paulo, Brazil.
+RP Jarovsky, D (corresponding author), Alameda Jau 585-121, BR-01420001 Sao Paulo, SP, Brazil.
+EM daniel@jarovsky.com.br
+RI safadi, marco aurelio palazzi/B-7157-2015; Jarovsky,
+   Daniel/AAU-1570-2020
+OI safadi, marco aurelio palazzi/0000-0002-4401-9446; Jarovsky,
+   Daniel/0000-0002-4825-7396
+CR Abdeldaim G, 2010, CLIN MICROBIOL INFEC, V16, P1135, DOI 10.1111/j.1469-0691.2009.03069.x
+   Batt SL, 2005, J CLIN MICROBIOL, V43, P2656, DOI 10.1128/JCM.43.6.2656-2661.2005
+   Capdevila O, 2001, ARCH INTERN MED, V161, P1742, DOI 10.1001/archinte.161.14.1742
+   Carvalho MDS, 2007, J CLIN MICROBIOL, V45, P2460, DOI 10.1128/JCM.02498-06
+   Dagan R, 1998, J CLIN MICROBIOL, V36, P669, DOI 10.1128/JCM.36.3.669-673.1998
+   Dumont R, 2011, PEDIATR INFECT DIS J, V30, P131, DOI 10.1097/INF.0b013e3181eed7a4
+   Esparcia O, 2011, DIAGN MICR INFEC DIS, V69, P153, DOI 10.1016/j.diagmicrobio.2010.10.022
+   Hardick J, 2012, J CLIN MICROBIOL, V50, P2428, DOI 10.1128/JCM.00345-12
+   Laboratorio de Meningites Bacterianas da Secao de Imunologia do Instituto Adolfo Lutz - IAL Coordenadoria de Controle de Doencas - CCD Secretaria de Estado da Saude de Sao Paulo SES-SP, B EPIDEMIOLOGICO PAU, P4
+   Morpeth SC, 2017, CLIN INFECT DIS, V64, pS347, DOI 10.1093/cid/cix145
+   Nomellini V, 2018, SHOCK, V49, P4, DOI 10.1097/SHK.0000000000000939
+   Nuorti J. P., 2010, Morbidity and Mortality Weekly Report, V59, P1102
+   Romero-Steiner S, 1999, CLIN INFECT DIS, V29, P281, DOI 10.1086/520200
+   Sacchi CT, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020675
+   Saha SK, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0003576
+   Saha SK, 2005, PEDIATR INFECT DIS J, V24, P1093, DOI 10.1097/01.inf.0000190030.75892.78
+   Soriano G, 2011, ALIMENT PHARM THER, V33, P275, DOI 10.1111/j.1365-2036.2010.04506.x
+   Tirso P-U, 2016, REPORTED COVERAGE AM
+   Totolian AA, 1994, P 12 LANC INT S STRE
+   Waisman Darcy C, 2010, Can J Infect Dis Med Microbiol, V21, pe23
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2214-2509
+J9 IDCases
+JI IDCases
+PY 2019
+VL 15
+AR e00489
+DI 10.1016/j.idcr.2019.e00489
+PG 3
+WC Infectious Diseases
+SC Infectious Diseases
+GA HU1DI
+UT WOS:000465011900016
+PM 30656139
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+EF

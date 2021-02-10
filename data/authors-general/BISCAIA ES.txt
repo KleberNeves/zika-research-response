@@ -1,0 +1,217 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU de Carvalho, NS
+   de Carvalho, BF
+   Doris, B
+   Biscaia, ES
+   Fugaca, CA
+   de Noronha, L
+AF de Carvalho, Newton Sergio
+   de Carvalho, Beatriz Freitas
+   Doris, Bruna
+   Biscaia, Evellyn Silverio
+   Fugaca, Cyllian Arias
+   de Noronha, Lucia
+TI Zika virus and pregnancy: An overview
+SO AMERICAN JOURNAL OF REPRODUCTIVE IMMUNOLOGY
+LA English
+DT Review
+DE congenital malformations; microcephaly; obstetrician; pregnancy; Zika
+   virus
+ID SEXUAL TRANSMISSION; INFECTION; BRAZIL; NEWBORNS; BARRIER; CONDOMS
+AB In May 2015, the first episodes of Zika virus infection of the Latin America were confirmed in Brazil, where currently 196 976 cases were reported. The main route of transmission occurs by Aedes mosquitoes, and the most common symptoms are maculopapular rash, fever, conjunctivitis, polyarthralgia, and periarticular edema. However, the infection is asymptomatic in 80% of the cases. The congenital infection is characterized when the transmission to the fetus occurs during pregnancy, but the mechanisms of how the virus infects the placenta remain unclear. Anatomopathological findings were described in first-and third-trimester human placentas; however, the major affected tissue of the baby is the neural. Several clinical situations were listed in these fetuses, such as neurological, ophthalmological, auditory, and articular alterations. The World Health Organization proposed a new congenital syndrome caused by Zika virus. The virus has an important neurotropism and the main manifestation observed in the syndrome is microcephaly, which is usually severe and associated with other neurological injuries. The appearance of sudden rash in pregnant women determines immediate investigation through RT-PCR and serological analysis. Moreover, the prevention consists in using repellents and avoiding endemic areas, considering that the vaccine is still under development.
+C1 [de Carvalho, Newton Sergio] Univ Fed Parana, Infect Dis Gynecol & Obstet Sector, Dept Gynecol & Obstet, Clin Hosp, Curitiba, PR, Brazil.
+   [de Carvalho, Beatriz Freitas; Doris, Bruna; Biscaia, Evellyn Silverio; Fugaca, Cyllian Arias; de Noronha, Lucia] Pontif Cathol Univ Parana, Curitiba, PR, Brazil.
+RP de Carvalho, NS (corresponding author), Univ Fed Parana, Infect Dis Gynecol & Obstet Sector, Dept Gynecol & Obstet, Clin Hosp, Curitiba, PR, Brazil.
+EM newtosdc@gmail.com
+RI noronha, lucia/F-6339-2015; de carvalho, newton/B-8175-2015
+OI noronha, lucia/0000-0003-0310-7164; de carvalho,
+   newton/0000-0001-7561-4566
+CR Adibi JJ, 2016, LANCET, V387, P1587, DOI 10.1016/S0140-6736(16)00650-4
+   Aldo P, 2016, AM J REPROD IMMUNOL, V76, P348, DOI 10.1111/aji.12578
+   [Anonymous], 2005, WHO STAT 1 M INT HLT
+   [Anonymous], 2016, POSSIBLE ASS ZIKA VI
+   [Anonymous], 2016, ZIKA VIRUS VACCINE P
+   Atif M, 2016, INFECTION, V44, P695, DOI 10.1007/s15010-016-0935-6
+   Barzon L, 2016, FEMS MICROBIOL LETT, V363, DOI 10.1093/femsle/fnw202
+   Baurakiades E, 2011, DIAGN PATHOL, V6, DOI 10.1186/1746-1596-6-101
+   Bayer A, 2016, CELL HOST MICROBE, V19, P705, DOI 10.1016/j.chom.2016.03.008
+   Benirschke K, 2006, PATHOLOGY HUMAN PLAC, P700
+   Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Brooks JT, 2016, MMWR-MORBID MORTAL W, V65, P745, DOI 10.15585/mmwr.mm6529e2
+   da Silva LRC, 2016, REV SOC BRAS MED TRO, V49, P267, DOI 10.1590/0037-8682-0150-2016
+   CAREY RF, 1992, SEX TRANSM DIS, V19, P230, DOI 10.1097/00007435-199207000-00009
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Cavalcante AL, 2016, B EPIDEMIOLOGICO, V47, P47
+   Chibueze EC, 2016, B WORLD HEALTH ORGAN, V6, P1
+   COES - Microcefalias, 2016, MON CAS MICR BRAS, V2016
+   Carvalho FHC, 2016, PRENATAL DIAG, V36, P882, DOI 10.1002/pd.4882
+   Costello A, 2016, B WORLD HEALTH ORGAN, V94, P406, DOI 10.2471/BLT.16.176990
+   Coyne CB, 2016, NAT REV MICROBIOL, V14, P707, DOI 10.1038/nrmicro.2016.125
+   Culjat M, 2016, CLIN INFECT DIS, V63, P805, DOI 10.1093/cid/ciw324
+   de Carvalho BR, 2016, J BRAS REPROD ASSIST, V20, P159, DOI 10.5935/1518-0557.20160034
+   De Carvalho NS, 2016, BRAZ J INFECT DIS, V20, P282, DOI 10.1016/j.bjid.2016.02.006
+   de Miranda HA, 2016, OPHTHALMOLOGY, V123, P1788, DOI 10.1016/j.ophtha.2016.05.001
+   de Noronha L, 2016, MEM I OSWALDO CRUZ, V111, P287, DOI 10.1590/0074-02760160085
+   Delorme-Axford E, 2013, P NATL ACAD SCI USA, V110, P12048, DOI 10.1073/pnas.1304718110
+   Driggers RW, 2016, NEW ENGL J MED, V374, P2142, DOI 10.1056/NEJMoa1601824
+   Faria NR, 2016, SCIENCE, V59, P23
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Freitas BD, 2016, JAMA OPHTHALMOL, V134, P529, DOI 10.1001/jamaophthalmol.2016.0267
+   Oliveira SJGD, 2016, ARCH WOMEN MENT HLTH, V19, P1149, DOI 10.1007/s00737-016-0654-0
+   GREENOUGH A, 1994, ARCH DIS CHILD-FETAL, V70, pF163, DOI 10.1136/fn.70.3.F163
+   Hayden EC, 2016, NATURE, V532, P16
+   He Q, 2013, AM J OBSTET GYNECOL, V33, P395, DOI DOI 10.1186/S12348-014-0026-8
+   Hennessey M, 2016, AM J TRANSPLANT, V16, P1031, DOI 10.1111/ajt.13743
+   Jamil Z, 2016, ASIAN PAC J TROP MED, V9, P606, DOI 10.1016/j.apjtm.2016.05.020
+   Johansson MA, 2016, NEW ENGL J MED, V375, P1, DOI 10.1056/NEJMp1605367
+   Jurado KA, 2016, JCI INSIGHT, V1, DOI 10.1172/jci.insight.88461
+   Leal MC, 2016, MMWR-MORBID MORTAL W, V65, P917, DOI 10.15585/mmwr.mm6534e3
+   Leal MDC, 2020, BRAZ J OTORHINOLAR, V86, P513, DOI 10.1016/j.bjorl.2016.06.001
+   Leung GHY, 2015, SE ASIAN J TROP MED, V46, P460
+   Manhart LE, 2002, SEX TRANSM DIS, V29, P725, DOI 10.1097/00007435-200211000-00018
+   Martines RB, 2016, LANCET, V388, P898, DOI 10.1016/S0140-6736(16)30883-2
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P159, DOI 10.15585/mmwr.mm6506e1
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Miner JJ, 2016, CELL, V165, P1080, DOI 10.1016/j.cell.2016.05.008
+   Mlakar J., 2016, NEW ENGL J MED, P1
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Oliveira-Szejnfeld PS, 2016, RADIOLOGY, V281
+   Omer SB, 2016, JAMA-J AM MED ASSOC, V315, P1227, DOI 10.1001/jama.2016.2237
+   Ommeren MV, 2016, GUIA PRELIMINAR PROV, P18
+   Pierson TC, 2016, CELL, V167, P625, DOI 10.1016/j.cell.2016.09.020
+   Plourde AR, 2016, EMERG INFECT DIS, V22, P1185, DOI 10.3201/eid2207.151990
+   Pylro VS, 2016, PLOS NEGLECT TROP D, V10, P1
+   Rosenberg AZ, 2016, ARCH PATHOL LAB MED, DOI [10.5858/arpa.2016-0401-OA, DOI 10.5858/ARPA.2016--0401-OA]
+   Sadovsky Y, 2016, PLACENTA, V40, pA1, DOI 10.1016/j.placenta.2016.03.008
+   Sarno M, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004517
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Schwartz DA, 2016, ARCH PATHOL LAB MED, DOI [10.5858/arpa.2016-0343-OA, DOI 10.5858/ARPA.2016--0343--OA]
+   Secretaria da Saude do Estado da Bahia, 2016, PROT AT GEST SUSP ZI
+   Tabata T, 2016, CELL HOST MICROBE, V20, P155, DOI 10.1016/j.chom.2016.07.002
+   Thomas SJ, 2016, NEW ENGL J MED, V375, P1212, DOI 10.1056/NEJMp1609300
+   van der Linden V, 2016, BMJ-BRIT MED J, V354, DOI 10.1136/bmj.i3899
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+   Vouga M, 2016, PRENATAL DIAG, V36, P799, DOI 10.1002/pd.4880
+   Vouga M, 2016, LANCET, V387, P843, DOI 10.1016/S0140-6736(16)00383-4
+NR 69
+TC 9
+Z9 9
+U1 0
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1046-7408
+EI 1600-0897
+J9 AM J REPROD IMMUNOL
+JI Am. J. Reprod. Immunol.
+PD FEB
+PY 2017
+VL 77
+IS 2
+AR e12616
+DI 10.1111/aji.12616
+PG 8
+WC Immunology; Reproductive Biology
+SC Immunology; Reproductive Biology
+GA EP3DZ
+UT WOS:000397264200009
+PM 28045216
+OA Bronze
+DA 2020-12-01
+ER
+
+PT J
+AU De Carvalho, NS
+   De Carvalho, BF
+   Fugaca, CA
+   Doris, B
+   Biscaia, ES
+AF De Carvalho, Newton Sergio
+   De Carvalho, Beatriz Freitas
+   Fugaca, Cyllian Arias
+   Doris, Bruna
+   Biscaia, Evellyn Silverio
+TI Zika virus infection during pregnancy and microcephaly occurrence: a
+   review of literature and Brazilian data
+SO BRAZILIAN JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Review
+DE Zika virus; Microcephaly; Aedes mosquitoes; Pregnancy
+ID TRANSMISSION; ISLAND; CHILD
+AB In November of 2015, the Ministry of Health of Brazil published an announcement confirming the relationship between Zika virus and the microcephaly outbreak in the Northeast, suggesting that infected pregnant women might have transmitted the virus to their fetuses. The objectives of this study were to conduct a literature review about Zika virus infection and microcephaly, evaluate national and international epidemiological data, as well as the current recommendations for the health teams. Zika virus is an arbovirus, whose main vector is the Aedes sp. The main symptoms of the infection are maculopapular rash, fever, non-purulent conjunctivitis, and arthralgia. Transmission of this pathogen occurs mainly by mosquito bite, but there are also reports via the placenta. Microcephaly is defined as a measure of occipto-frontal circumference being more than two standard deviations below the mean for age and gender. The presence of microcephaly demands evaluation of the patient, in order to diagnose the etiology. Health authorities issued protocols, reports and notes concerning the management of microcephaly caused by Zika virus, but there is still controversy about managing the cases. The Ministry of Health advises notifying any suspected or confirmed cases of children with microcephaly related to the pathogen, which is confirmed by a positive specific laboratory test for the virus. The first choice for imaging exam in children with this malformation is transfontanellar ultrasound. The most effective way to control this outbreak of microcephaly probably caused by this virus is to combat the vector. Since there is still uncertainty about the period of vulnerability of transmission via placenta, the use of repellents is crucial throughout pregnancy. More investigations studying the consequences of this viral infection on the body of newborns and in their development are required. (C) 2016 Elsevier Editora Ltda.
+C1 [De Carvalho, Newton Sergio] Univ Fed Parana UFPR, Dept Gynecol & Obstet, Infect Dis Gynecol & Obstet Sect, Clin Hosp, Curitiba, Parana, Brazil.
+   [De Carvalho, Newton Sergio] Postgrad Educ Program Obstet, Curitiba, Parana, Brazil.
+   [De Carvalho, Newton Sergio] Univ Fed Parana UFPR, Curitiba, Parana, Brazil.
+   [De Carvalho, Beatriz Freitas; Fugaca, Cyllian Arias; Doris, Bruna; Biscaia, Evellyn Silverio] Pontificia Univ Catolica Parana PUC PR, Curitiba, Parana, Brazil.
+RP De Carvalho, NS (corresponding author), Univ Fed Parana UFPR, Dept Gynecol & Obstet, Infect Dis Gynecol & Obstet Sect, Clin Hosp, Curitiba, Parana, Brazil.; De Carvalho, NS (corresponding author), Postgrad Educ Program Obstet, Curitiba, Parana, Brazil.; De Carvalho, NS (corresponding author), Univ Fed Parana UFPR, Curitiba, Parana, Brazil.
+EM newtonsdc@gmail.com
+CR Abuelo Dianne, 2007, Semin Pediatr Neurol, V14, P118, DOI 10.1016/j.spen.2007.07.003
+   Ashwal S, 2009, NEUROLOGY, V73, P887, DOI 10.1212/WNL.0b013e3181b783f7
+   Barthel A, 2013, CLIN INFECT DIS, V57, P415, DOI 10.1093/cid/cit227
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude. Departamento de Vigilancia das Doencas Transmissiveis, 2015, PROT VIG RESP OC MIC
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Centers for Disease Control and Prevention, HLTH CAR PROV DIAGN
+   Centers for Disease Control and Prevention (CDC), 2002, MMWR Morb Mortal Wkly Rep, V51, P877
+   Centro de Operacoes de Emergencias em Saude Publica sobre Microcefalias, 2015, MON CAS MICR BRAS IN, P52
+   Centro de Operacoes de Emergencias em Saude Publica sobre Microcefalias, 2015, MON CAS MICR BRAS IN, P46
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P521, DOI 10.1016/0035-9203(52)90043-6
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   European Centre for Disease Prevention and Control, 2015, RAP RISK ASS MICR BR
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Gerardin P, 2008, PLOS MED, V5, P413, DOI 10.1371/journal.pmed.0050060
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Hughes RAC, 2005, LANCET, V366, P1653, DOI 10.1016/S0140-6736(05)67665-9
+   LOPES N, 2014, REV PAN-AMAZ SAUDE, V5, P55, DOI DOI 10.5123/S2176-62232014000300007
+   Ministerio da Saude. Secretaria de Vigilancia em Saude. Departamento de Vigilancia Epidemiologica, 2009, NORM MAN TECN
+   Musso D, 2014, EURO SURVEILL, V19
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Oehler E, 2014, EURO SURVEILL, P2014
+   Pan American Health Organization. World Health Organization, 2015, ZIK VIR ZIK SURV AM
+   Pan American Health Organization World Health Organization, 2015, EP AL NEUR SYNDR CON
+   PARSONSON IM, 1977, INFECT IMMUN, V15, P254, DOI 10.1128/IAI.15.1.254-262.1977
+   Sadler TW, 1997, EMBRIOLOGIA MED LANG, P250
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Secretaria de Vigilancia em Saude-Ministerio da Saude, 2015, B EP, P48
+   Secretaria estadual de saude de Pernambuco (BR). Secretaria executiva de vigilancia em saude, 2015, PROT CLIN EP INV CAS
+   Secretaria Estadual de Saude de Sao Paulo. Coordenadoria deControle de Doencas. Centro de Vigilancia Epidemiologica. Instituto Adolfo Lutz, 2015, 01 SECR EST SAUD SAO, V01
+   Secretaria Estadual de Saude do Parana, 2015, 012015I SESA
+   Secretaria Estadual de Saude do Parana. Superintendencia devigilancia em saude, 2015, PROT VIG RESP OC MIC
+   Sweet RL, 2009, INFECT DIS FEMALE GE, P266
+   Vansconcelos PFC, 2015, REV PANAMAZ SAUDE, V6, P9
+   Wasay M, 2015, NEUROLOGY, V84, P421, DOI 10.1212/WNL.0000000000001177
+   Woods CG, 2013, ARCH DIS CHILD, V98, P707, DOI 10.1136/archdischild-2012-302882
+NR 35
+TC 33
+Z9 33
+U1 1
+U2 30
+PU ELSEVIER BRAZIL
+PI RIO DE JANEIRO
+PA R SETE SETEMBRO, 111-16, RIO DE JANEIRO, RJ 20050-006, BRAZIL
+SN 1413-8670
+EI 1678-4391
+J9 BRAZ J INFECT DIS
+JI Braz. J. Infect. Dis.
+PD MAY-JUN
+PY 2016
+VL 20
+IS 3
+BP 282
+EP 289
+DI 10.1016/j.bjid.2016.02.006
+PG 8
+WC Infectious Diseases
+SC Infectious Diseases
+GA DM6ER
+UT WOS:000376443900011
+PM 27102780
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+EF

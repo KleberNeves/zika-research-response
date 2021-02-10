@@ -1,0 +1,1391 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rufino, AC
+   Madeiro, A
+   Trinidad, AS
+   dos Santos, RR
+   Freitas, I
+AF Rufino, Andrea Cronemberger
+   Madeiro, Alberto
+   Trinidad, Adriana Silva
+   dos Santos, Raiza Rodrigues
+   Freitas, Isadora
+TI Disclosure of Sexual Orientation Among Women Who Have Sex With Women
+   During Gynecological Care: A Qualitative Study In Brazil
+SO JOURNAL OF SEXUAL MEDICINE
+LA English
+DT Article
+DE Women Who Have Sex With Women; Lesbian; Bisexual Women; Disclosure;
+   Doctor-Patient Relationship
+ID HEALTH-CARE; GENERAL-PRACTICE; PATIENTS VIEW; GAY; EDUCATION; LESBIANS;
+   DISPARITIES; BEHAVIOR; PEOPLE; LGBT
+AB Background: Evidence shows that women who have sex with women (WSW) face disparities in access to health care when compared to heterosexual women in several countries.
+   Aim: To investigate the experiences WSW have after disclosure of sexual orientation during gynecological care in Brazil.
+   Methods: We performed a qualitative study using content analysis. We recorded and transcribed interviews with 34 WSW from the 5 regions in Brazil. Data were analyzed using descriptive content analysis.
+   Outcomes: The main categories of analysis were decision-making process to disclose and attitude of gynecologists after disclosure.
+   Results: WSW disclosed their sexual orientation in an un-favorable environment. Gynecologists rarely asked about patients' sexual orientation and used a script for hetero-normative anamnesis. The reactions of gynecologists were discriminatory, resulting in abbreviated consultations and un-comfortable gynecological exams. They missed a window of opportunity for prevention, diagnosis, and treatment of various diseases. The experiences Brazilian WSW had during gynecological care demonstrated the dominant hetero-normativity in the health care scenario. The attitudes of the gynecologists precarized the existence of WSW in health service.
+   Clinical Implications: This study suggests that gynecologists missed an opportunity to use WSW's sexual orientation disclosure to offer specific care to them.
+   Strengths & Limitations: This is the first qualitative study about WSW's experiences during gynecological care in Brazil. Future studies should be developed from a wider sampling, especially among lower-class WSW.
+   Conclusion: The results point out the need for a change in medical training and guidelines to assist WSW in the country. Rufino AC, Madeiro A, Trinidad AS, et al. Disclosure of Sexual Orientation Among Women Who Have Copyright (C) 2018, International Society for Sexual Medicine. Published by Elsevier Inc. All rights reserved.
+C1 [Rufino, Andrea Cronemberger; Madeiro, Alberto; Trinidad, Adriana Silva; dos Santos, Raiza Rodrigues; Freitas, Isadora] State Univ Piaui Teresina, Res & Extens Ctr Womens Hlth, Ave Coronel Costa Araujo 3033, BR-64049460 Teresina, Piaui, Brazil.
+RP Rufino, AC (corresponding author), State Univ Piaui Teresina, Res & Extens Ctr Womens Hlth, Ave Coronel Costa Araujo 3033, BR-64049460 Teresina, Piaui, Brazil.
+EM andreacrufino@gmail.com
+FU Brazilian National Council of Scientific and Technological
+   DevelopmentNational Council for Scientific and Technological Development
+   (CNPq) [472995/2013-8]
+FX This research was supported by the Brazilian National Council of
+   Scientific and Technological Development under process no.
+   472995/2013-8.
+CR ARMSTRONG D, 1984, SOC SCI MED, V18, P737, DOI 10.1016/0277-9536(84)90099-6
+   Barbosa Regina Maria, 2006, Cad. Saúde Pública, V22, P1511, DOI 10.1590/S0102-311X2006000700015
+   Bjorkman M, 2007, SCAND J PRIM HEALTH, V25, P58, DOI 10.1080/02813430601086178
+   Bjorkman M, 2012, SCAND J PUBLIC HEALT, V40, P239, DOI 10.1177/1403494812443608
+   Bjorkman M, 2009, SCAND J PRIM HEALTH, V27, P238, DOI 10.3109/02813430903226548
+   Chan SK, 2014, MMWR-MORBID MORTAL W, V63, P2009
+   Chetcuti N, 2013, J SEX RES, V50, P587, DOI 10.1080/00224499.2012.657264
+   Coleman E, 2013, J SEX MED, V10, P924, DOI 10.1111/jsm.12142
+   Condrau F, 2007, SOC HIST MED, V20, P525, DOI 10.1093/shm/hkm076
+   Davy Z, 2012, BRIT J GEN PRACT, V62, P491, DOI 10.3399/bjgp12X654731
+   Durso LE, 2013, SEX RES SOC POLICY, V10, P35, DOI 10.1007/s13178-012-0105-2
+   Fredriksen-Goldsen KI, 2013, AM J PUBLIC HEALTH, V103, P1802, DOI 10.2105/AJPH.2012.301110
+   Goldstein I, 2012, J SEX MED, V9, P2983, DOI 10.1111/jsm.12015
+   Gorgos LM, 2011, CLIN INFECT DIS, V53, pS84, DOI 10.1093/cid/cir697
+   Henderson HJ, 2009, J FAM PLAN REPROD H, V35, P49, DOI 10.1783/147118909787072315
+   Kerker BD, 2006, J URBAN HEALTH, V83, P970, DOI 10.1007/s11524-006-9096-8
+   Law M, 2015, BMC FAM PRACT, V16, DOI 10.1186/s12875-015-0389-4
+   Marrazzo JM, 2001, AM J PUBLIC HEALTH, V91, P947, DOI 10.2105/AJPH.91.6.947
+   McNair R., 2003, MED J AUSTRALIA, V178, P43
+   McNair R, 2015, AUST FAM PHYSICIAN, V44, P573
+   McNair R, 2009, AUST FAM PHYSICIAN, V38, P388
+   McNair RP, 2010, ANN FAM MED, V8, P533, DOI 10.1370/afm.1173
+   Meads C, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-251
+   Mosack KE, 2013, WOMEN HEALTH ISS, V23, pE341, DOI 10.1016/j.whi.2013.07.004
+   Muller A, 2013, BMC MED EDUC, V13, DOI 10.1186/1472-6920-13-174
+   Obedin-Maliver J, 2011, JAMA-J AM MED ASSOC, V306, P971, DOI 10.1001/jama.2011.1255
+   Pennant M., 2009, DIVERSITY HLTH CARE, V3, P193
+   Pinto VM, 2005, AIDS, V19, pS64, DOI 10.1097/01.aids.0000191493.43865.2a
+   Rubin R, 2015, JAMA-J AM MED ASSOC, V313, P15, DOI 10.1001/jama.2014.17243
+   Rufino AC, 2014, J SEX MED, V11, P1110, DOI 10.1111/jsm.12476
+   Solarz AL, 1999, LESBIAN HLTH CURRENT
+   Tjepkema Michael, 2008, Health Rep, V19, P53
+   Tracy JK, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-442
+   Tucker P, 2010, SEX ED, V10, P37
+   Ward Brian W, 2014, Natl Health Stat Report, P1
+NR 35
+TC 2
+Z9 3
+U1 0
+U2 6
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1743-6095
+EI 1743-6109
+J9 J SEX MED
+JI J. Sex. Med.
+PD JUL
+PY 2018
+VL 15
+IS 7
+BP 966
+EP 973
+DI 10.1016/j.jsxm.2018.04.648
+PG 8
+WC Urology & Nephrology
+SC Urology & Nephrology
+GA GM5HA
+UT WOS:000438163300009
+PM 29884442
+DA 2020-12-15
+ER
+
+PT J
+AU Rufino, AC
+   Madeiro, A
+   Trinidad, A
+   Santos, R
+   Freitas, I
+AF Rufino, Andrea Cronemberger
+   Madeiro, Alberto
+   Trinidad, Adriana
+   Santos, Raiza
+   Freitas, Isadora
+TI Sexual practices and health care of women who have sex with women:
+   2013-2014
+SO EPIDEMIOLOGIA E SERVICOS DE SAUDE
+LA English
+DT Article
+DE Sexual Health; Sexual Behavior; Homosexuality, Female; Public Health;
+   Cross-Sectional Studies
+ID GAY; BEHAVIOR; FEMALE
+AB Objective: to describe sexual practices and health care of women who have sex with women (WSW). Methods: this was a cross-sectional study with data obtained by means of an electronic questionnaire answered by WSW from the five regions of the country (2013-2014). Results: among 582 WSW, oral sex (95.2%) and digital penetration of the vagina (97.3%) were predominant, with rare use of barrier methods (6.7% and 5.8%, respectively); in the last five years, women who had sex exclusively with women, compared to those who had sex with women and men, were less likely to use barrier methods with women (28.3% versus 41.1%; p=0.041), less likely to have an annual check-up with a gynecologist (38.9% vs. 70.8%; p=0.033), less likely to receive guidance about sexually transmitted infections (STI) (44.0% vs. 59.1%; p=0.034) and about sexual doubts (50.0% vs. 63.0%; p=0.044). Conclusion: infrequent use of barrier methods may be a vulnerability factor for STI; it highlights the importance of guidelines for adequate health care for WSW.
+C1 [Rufino, Andrea Cronemberger; Madeiro, Alberto; Trinidad, Adriana; Santos, Raiza; Freitas, Isadora] Univ Estadual Piaui, Ctr Ciencias Saude, Teresina, PI, Brazil.
+RP Rufino, AC (corresponding author), Rua Olavo Bilac,2335,Ctr Sul, BR-64049550 Teresina, PI, Brazil.
+EM andreacrufino@gmail.com
+FU National Council for Scientific and Technological Development
+   (CNPq)/Ministry of Science, Technology, Innovation and Communications
+   (MCTIC) [472995/2013-8]
+FX Study funded with resources from the National Council for Scientific and
+   Technological Development (CNPq)/Ministry of Science, Technology,
+   Innovation and Communications (MCTIC): Process No. 472995/2013-8.
+CR BARBOSA R. M., 2009, CAD SAUDE PUBLICA, V25, ps291, DOI DOI 10.1590/S0102-311X2009001400011
+   Barbosa Regina Maria, 2006, Cad. Saúde Pública, V22, P1511, DOI 10.1590/S0102-311X2006000700015
+   Bjorkman M, 2009, SCAND J PRIM HEALTH, V27, P238, DOI 10.3109/02813430903226548
+   Boehmer U, 2002, AM J PUBLIC HEALTH, V92, P1125, DOI 10.2105/AJPH.92.7.1125
+   BUTLER Judith, 2006, REV ESTUDIOS GENERO, P7
+   Chan SK, 2014, MMWR-MORBID MORTAL W, V63, P209
+   Chetcuti N, 2013, J SEX RES, V50, P587, DOI 10.1080/00224499.2012.657264
+   Davy Z, 2012, BRIT J GEN PRACT, V62, P491, DOI 10.3399/bjgp12X654731
+   Dilley JA, 2010, AM J PUBLIC HEALTH, V100, P460, DOI 10.2105/AJPH.2007.130336
+   Formby E, 2011, CULT HEALTH SEX, V13, P1165, DOI 10.1080/13691058.2011.610902
+   Fredriksen-Goldsen KI, 2013, AM J PUBLIC HEALTH, V103, P1802, DOI 10.2105/AJPH.2012.301110
+   *GAY LESB MED ASS, 2001, HLTH PEOPL 2010 COMP
+   Gorgos LM, 2011, CLIN INFECT DIS, V53, pS84, DOI 10.1093/cid/cir697
+   Henderson HJ, 2009, J FAM PLAN REPROD H, V35, P49, DOI 10.1783/147118909787072315
+   Institute of Medicine, 1999, LESB HLTH CURR ASS D
+   Kerker BD, 2006, J URBAN HEALTH, V83, P970, DOI 10.1007/s11524-006-9096-8
+   King M, 2006, BMC PUBLIC HEALTH, V6, DOI 10.1186/1471-2458-6-127
+   King M, 2008, BMC PSYCHIATRY, V8, DOI 10.1186/1471-244X-8-70
+   Marrazzo JM, 2001, AM J PUBLIC HEALTH, V91, P947, DOI 10.2105/AJPH.91.6.947
+   McLaughlin KA, 2010, AM J PUBLIC HEALTH, V100, P1477, DOI 10.2105/AJPH.2009.181586
+   McNair R, 2009, AUST FAM PHYSICIAN, V38, P388
+   Meads C, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-251
+   Ministerio da Saude (BR), 2014, PERC EST SAUD EST VI
+   Pinto VM, 2005, AIDS, V19, pS64, DOI 10.1097/01.aids.0000191493.43865.2a
+   Rowen TS, 2013, INT J GYNECOL OBSTET, V120, P42, DOI 10.1016/j.ijgo.2012.08.011
+   Tjepkema Michael, 2008, Health Rep, V19, P53
+   Wang XF, 2012, CHINESE MED J-PEKING, V125, P2819, DOI 10.3760/cma.j.issn.0366-6999.2012.16.004
+   Ward Brian W, 2014, Natl Health Stat Report, P1
+NR 28
+TC 2
+Z9 2
+U1 1
+U2 2
+PU MINISTERIO DA SAUDE
+PI BRASILIA
+PA ESPLANADA MINISTERIOS, BLOCO G, BRASILIA, DF 70058-900, BRAZIL
+SN 1679-4974
+EI 2237-9622
+J9 EPIDEMIOL SERV SAUDE
+JI Epidemiol. Serv. Saude
+PY 2018
+VL 27
+IS 4
+AR UNSP e2017499
+DI 10.5123/S1679-49742018000400005
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HI8FE
+UT WOS:000456689900009
+PM 30427398
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, AP
+   Rufino, AC
+   Nunes, MD
+   Queiroz, IC
+   Carvalho, KR
+   Queiroz, LC
+AF Madeiro, Alberto Pereira
+   Rufino, Andrea Cronemberger
+   Nunes, Maria das Dores
+   Queiroz, Isadora Carvalho
+   Carvalho, Karoline Resende
+   Queiroz, Luma Carvalho
+TI Female mortality in reproductive age in Piaui, Brazil, 2008-2012: causes
+   of deaths and associated factors
+SO REVISTA DE EPIDEMIOLOGIA E CONTROLE DE INFECCAO
+LA Portuguese
+DT Article
+DE Maternal mortality; Reproductive health; Health Status Indicators; Time
+   series studies
+ID TRENDS; DISPARITIES; DISEASE; CANCER
+AB Background and Objective: Female mortality in reproductive age is an event of great magnitude worldwide, but the profile is different among regions of high and low income. The objective of this study was to analyze causes and factors associated with reproductive age women deaths in Piaui, from 2008 to 2012. Methods: Descriptive population-based study, with data of all death certificates of women between 10-49 years living in Piaui. Odds ratio (OR) and 95% confidence intervals (CI95%) were calculated to assess the association between variables. Results: Neoplasms (20.9%), cardiovascular diseases (18.8%), external (18.6%) and maternal causes (5.5%) were the most common basic causes. External and maternal causes predominated in the age group between 10 to 29 years and, from 35 years, neoplasms and cardiovascular diseases. Maternal mortality was more likely to occur among women living in inland municipalities (OR=2.04;CI95% 1.51-2.33), and with up to 50,000 inhabitants (OR=1.33;CI95% 1.16-1.78) and HDI-M < 0.566 (OR=1.42;CI95% 1.34-2.01). Conclusions: The pattern of mortality is similar to that found in the Brazilian female population in reproductive age. The main basic causes of death observed can be considered avoidable and intervention measures should be implemented.
+C1 [Madeiro, Alberto Pereira; Rufino, Andrea Cronemberger; Nunes, Maria das Dores; Queiroz, Isadora Carvalho; Carvalho, Karoline Resende; Queiroz, Luma Carvalho] Univ Estadual Piaui, Teresina, PI, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+CR Albuquerque RM, 1998, CAD SAUDE PUBLICA S1, V14, P41, DOI [10.1590/S0102-311X1998000500013, DOI 10.1590/S0102-311X1998000500013]
+   Baena CP, 2013, HEART, V99, P1359, DOI 10.1136/heartjnl-2013-303617
+   Barbosa IR, 2015, MEDICINE, V94, DOI 10.1097/MD.0000000000000746
+   BROWN NJ, 2015, BMJ-BRIT MED J, V350, DOI DOI 10.1136/BMJ.H1755
+   de Moura EC, 2015, CIENC SAUDE COLETIVA, V20, P779, DOI 10.1590/1413-81232015203.11172014
+   Departamento de Informatica do Sistema Unico de Saude, 2012, IND COB
+   Faundes A, 2000, Cad Saude Publica, V16, P671, DOI 10.1590/S0102-311X2000000300015
+   Franca E, 2008, INT J EPIDEMIOL, V37, P891, DOI 10.1093/ije/dyn121
+   Instituo Brasileiro de Geografia e Estatistica (IBGE), 2012, PESQ NAC AM DOM 2012
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2014, PESQ NAC SAUD 2013 P
+   Johnson RH, 2013, JAMA-J AM MED ASSOC, V309, P800, DOI 10.1001/jama.2013.776
+   Kassebaum NJ, 2014, LANCET, V384, P980, DOI 10.1016/S0140-6736(14)60696-6
+   Laurenti R, 2006, MORTALIDADE MULHERES
+   Laurenti Ruy, 2004, Rev. bras. epidemiol., V7, P449, DOI 10.1590/S1415-790X2004000400008
+   Madeiro Alberto, 2016, Cad. saúde colet., V24, P282, DOI 10.1590/1414-462x201600030026
+   Madeiro AP, 2015, BMC PREGNANCY CHILDB, V15, DOI 10.1186/s12884-015-0648-3
+   Malta DC, 2017, SAO PAULO MED J, V135, P213, DOI 10.1590/1516-3180.2016.0330050117
+   Mansur AD, 2016, ARQ BRAS CARDIOL, V107, P20, DOI 10.5935/abc.20160077
+   Ministerio da Saude (BR), 2015, SAUD BRAS 2014 AN SI
+   Morais Neto Otaliba Libanio, 2016, Int J Equity Health, V15, P142
+   Morse ML, 2011, CAD SAUDE PUBLICA, V27, P623, DOI 10.1590/S0102-311X2011000400002
+   Say L, 2014, LANCET GLOB HEALTH, V2, pE323, DOI 10.1016/S2214-109X(14)70227-X
+   Souza ER, 2006, CIENC SAUDE COLETIVA, V11, P1211, DOI [10.1590/S1413-81232006000500011, DOI 10.1590/S1413-81232006000500011]
+   Vale DB, 2016, CANCER CAUSE CONTROL, V27, P889, DOI 10.1007/s10552-016-0766-x
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV SANTA CRUZ DO SUL
+PI SANTA CRUZ DO SUL
+PA AV INDEPENDENCIA, 2293, BAIRRO UNIVERSITARIO, SANTA CRUZ DO SUL,
+   96815-900, BRAZIL
+SN 2238-3360
+J9 REV EPIDEMIOL CONTRO
+JI Rev. Epidemiol. Control. Infecc.
+PY 2018
+VL 8
+IS 4
+PG 16
+WC Infectious Diseases
+SC Infectious Diseases
+GA HB5VX
+UT WOS:000451132400003
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, AP
+   Rufino, AC
+AF Madeiro, Alberto Pereira
+   Rufino, Andrea Cronemberger
+TI Maltreatment and discrimination in induced abortion care: perception of
+   women in Teresina, State of Piaui, Brazil
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Induced abortion; Institutional violence; Abortion services;
+   Maltreatment
+ID ILLEGAL ABORTION; UNSAFE ABORTION; HEALTH; MISOPROSTOL; COMPLICATIONS;
+   EXPERIENCE; SEVERITY; VIOLENCE; TRENDS
+AB Treatment of complications resulting from induced abortion may be hampered by discriminatory attitudes manifested by healthcare professionals in hospitals and abortion services. This article retrieved stories of institutional abuse directed at women who had an induced abortion in illegal and unsafe conditions. Seventy-eight women admitted to a public hospital in Teresina for complications after an induced abortion were interviewed. A semi-structured script was used with questions about practices and itineraries of abortion and institutional violence during hospitalization. Discriminatory practices and maltreatment during care were reported by 26 women, especially among those who confessed to induction of the abortion. Moral judgement, threat of filing a complaint to the police, negligence in the control of pain, long wait for uterine curettage, and hospitalization with mothers who have recently given birth were the main types of institutional violence reported by women. Cases of institutional violence in the care of induced abortion violates the duty of the healthcare service and prevents women from receiving the necessary health care.
+C1 [Madeiro, Alberto Pereira; Rufino, Andrea Cronemberger] Univ Estadual Piaui, Ctr Ciencias Saude, R Olavo Bilac 2335, BR-64001280 Teresina, PI, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Ctr Ciencias Saude, R Olavo Bilac 2335, BR-64001280 Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+CR Adler AJ, 2012, INT J GYNECOL OBSTET, V118, pS65, DOI 10.1016/S0020-7292(12)60003-4
+   Aquino EML, 2012, CIENC SAUDE COLETIVA, V17, P1765, DOI 10.1590/S1413-81232012000700015
+   Arilha M., 1993, REPROD HEALTH MATTER, V2, P41
+   Blanchard K, 2002, OBSTET GYNECOL, V99, P316, DOI 10.1016/S0029-7844(01)01701-X
+   Bohren MA, 2015, PLOS MED, V12, DOI 10.1371/journal.pmed.1001847
+   Bowser D, 2010, EXPLORING EVIDENCE D
+   Brasil. Ministerio da Saude (MS), 2001, VIOL INTR OR PRAT SE
+   Brasil. Ministerio da Saude (MS), 2010, AT HUM AB NORM TECN
+   COELHO HL, 1994, CONTRACEPTION, V49, P101, DOI 10.1016/0010-7824(94)90084-1
+   Conselho Federal de Medicina, 2009, COD ET MED
+   COSTA SH, 1993, LANCET, V341, P1258, DOI 10.1016/0140-6736(93)91156-G
+   d'Oliveira AFPL, 2002, LANCET, V359, P1681, DOI 10.1016/S0140-6736(02)08592-6
+   de Aguiar JM, 2013, CAD SAUDE PUBLICA, V29, P2287, DOI 10.1590/0102-311X00074912
+   Gomes AMD, 2008, SAUDE SOC-SAO PAULO, V17, P61, DOI 10.1590/S0104-12902008000100006
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1795, DOI 10.1590/S1413-81232012000700018
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Diniz SG, 2012, REPROD HEALTH MATTER, V20, P94, DOI 10.1016/S0968-8080(12)40657-7
+   Dragoman M, 2014, BJOG-INT J OBSTET GY, V121, P25, DOI 10.1111/1471-0528.12689
+   Fundacao Perseu Abramo, 2010, MULH BRAS GEN NOS ES
+   Galli B, 2007, DILEMAS SOLUCOES NOS
+   Bertolani GBM, 2010, SAUDE SOC-SAO PAULO, V19, P286, DOI 10.1590/S0104-12902010000200006
+   Mayi-Tsonga S, 2009, REPROD HEALTH MATTER, V17, P65, DOI 10.1016/S0968-8080(09)34465-1
+   Motta Ilse Sodré da, 2005, Rev. Bras. Saude Mater. Infant., V5, P219, DOI 10.1590/S1519-38292005000200011
+   Nations MK, 1997, SOC SCI MED, V44, P1833, DOI 10.1016/S0277-9536(96)00293-6
+   Organizacao Mundial de Saude (OMS), 2013, AB SEG OR TECN POL S
+   Sedgh G, 2012, LANCET, V379, P625, DOI 10.1016/S0140-6736(11)61786-8
+   Singh S, 2012, INT J GYNECOL OBSTET, V118, pS99, DOI 10.1016/S0020-7292(12)60007-1
+   Solo J, 2000, REPROD HEALTH MATTER, V8, P45, DOI 10.1016/S0968-8080(00)90005-3
+   Steele C, 2004, REPROD HEALTH MATTER, V12, P39, DOI 10.1016/S0968-8080(04)24021-6
+   WHO, 2011, UNS AB GLOB REG EST
+   Zamberlin N, 2012, REPROD HEALTH, V9, DOI 10.1186/1742-4755-9-34
+   Ziraba AK, 2015, BMC PREGNANCY CHILDB, V15, DOI 10.1186/s12884-015-0459-6
+NR 34
+TC 10
+Z9 11
+U1 0
+U2 8
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD AUG
+PY 2017
+VL 22
+IS 8
+BP 2771
+EP 2780
+DI 10.1590/1413-81232017228.04252016
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FD3HI
+UT WOS:000407423700035
+PM 28793091
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Diniz, D
+   Medeiros, M
+   Madeiro, A
+AF Diniz, Debora
+   Medeiros, Marcelo
+   Madeiro, Alberto
+TI National Abortion Survey 2016
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Induced abortion; National Abortion Survey; Reproductive Experiences;
+   Ballot-box technique; Brazil
+ID BALLOT-BOX TECHNIQUE; BRAZIL
+AB We present the results of the Brazilian National Abortion Survey of 2016 (2016 PNA) and compare them to those obtained in the 2010 PNA as per the profile of women and the magnitude of abortion. The PNA is based on a random sample that combines ballot-box questionnaires with face-to-face interviews with women ages 18 to 39 in urban areas of Brazil. The results show that abortion is a common and persistent occurrence among women of all social classes, racial groups, educational levels, and religions: in 2016, almost 1 in every 5 women had undergone at least one abortion by the age of 40. In 2015, approximately 416,000 women had an abortion. There is, however, heterogeneity among the social groups, with abortions being more frequent among women of lower educational levels, women who are Black, Brown and Indigenous, and women living in the North, Northeastern and Mid-western regions of the country. In line with the 2010 PNA, half of all women took medicine to abort and almost half of them were hospitalized to complete the abortion.
+C1 [Diniz, Debora] Univ Brasilia, Fac Direito, Caixa Postal 8011, BR-70670973 Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] Univ Brasilia, Dept Sociol, Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Teresina, PI, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Fac Direito, Caixa Postal 8011, BR-70670973 Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   IBGE- Instituto Brasileiro de Geografia e Estatisticas, 2015, PESQ NAC SAUD 2013 C
+   Lara D, 2004, SOCIOL METHOD RES, V32, P529, DOI 10.1177/0049124103262685
+   Madeiro AP, 2012, CIENC SAUDE COLETIVA, V17, P1735, DOI 10.1590/S1413-81232012000700012
+   Martins-MeloI FR, 2014, REV SAUDE PUBL, V48, P508, DOI 10.1590/S0034-8910.2014048004878
+   Medeiros M, 2012, CIENC SAUDE COLETIVA, V17, P1721, DOI 10.1590/S1413-81232012000700010
+   Monteiro M, 2006, REV SAUDE SEX REPROD, P1
+   OLINTO M, 1994, REV BRAS ESTUD POPUL, V11, P255
+   Olinto MTA, 2004, REV PANAM SALUD PUBL, V15, P331, DOI 10.1590/S1020-49892004000500008
+   Rossier C, 2003, STUD FAMILY PLANN, V34, P87, DOI 10.1111/j.1728-4465.2003.00087.x
+   Shellenberg KM, 2011, GLOB PUBLIC HEALTH, V6, pS111, DOI 10.1080/17441692.2011.594072
+   Silva R., 1993, ESTUD FEM, V1, P123
+   Singh S, 1994, INT FAMILY PLANNING, V20, P4, DOI DOI 10.2307/2133331
+   Singh S, 1991, INT FAM PLAN PERSPEC, V17, P8
+   Singh S, 2010, METHODOLOGIES ESTIMA
+   Zamudio L, 1999, ABORTION DEV WORLD, P149
+NR 17
+TC 41
+Z9 53
+U1 0
+U2 7
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2017
+VL 22
+IS 2
+BP 653
+EP 660
+DI 10.1590/1413-81232017222.23812016
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA EK8AU
+UT WOS:000394147100032
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, A
+   Rufino, AC
+   dos Santos, AO
+AF Madeiro, Alberto
+   Rufino, Andrea Cronemberger
+   dos Santos, Aline Oliveira
+TI Cesarean sections in Piaui State: trend and associated factors in the
+   period 2000-2011, Brazil
+SO EPIDEMIOLOGIA E SERVICOS DE SAUDE
+LA Portuguese
+DT Article
+DE Cesarean Section; Trends; Risk Factors; Health Inequalities; Time Series
+   Studies; Cross-Sectional Studies
+ID NEONATAL-MORTALITY; INCOME COUNTRIES; MATERNAL AGE; BIRTH COHORT; RATES;
+   HEALTH; DELIVERY; WOMEN; RISK
+AB Objective: to analyze trends in cesarean sections proportion and associated factors in Piaui State, Brazil, from 2000 to 2011. Methods: this is a time series and cross-sectional study, with data of all institutional childbirths in primiparous, recorded on the Information System on Live Births (Sinasc). Results: cesarean sections proportion increased from 34.4% in 2000 to 52.1% in 2011 (annual percentage change +4.4; 95% CI 3.6; 5.1); white-skinned women (PR=1.72; 95% CI 1.63; 1.86), over 40 years (PR=2.17; 95% CI 2.09; 2.28), with more than 12 years of schooling (PR=1.86; 95% CI 1.77; 1.96), who attended 7 or more prenatal care appointments (PR=2.08; 95% CI 1.97; 2.18), residents in municipalities with over 300,000 inhabitants (PR=1.68; 95% CI 1.62; 1.80) and with higher Human Development Index (PR=1.61; 95% CI 1.51; 1.73) presented the highest cesarean sections proportion. Conclusions: the occurrence of cesarean sections was high and more frequent in women with low obstetric risk.
+C1 [Madeiro, Alberto; Rufino, Andrea Cronemberger; dos Santos, Aline Oliveira] Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, Teresina, PI, Brazil.
+RP Madeiro, A (corresponding author), Rua Olavo Bilac 2335, BR-64049550 Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+CR Althabe F, 2006, BIRTH-ISS PERINAT C, V33, P270, DOI 10.1111/j.1523-536X.2006.00118.x
+   [Anonymous], 1985, LANCET, V2, P436
+   Barros Aluisio J D, 2003, BMC Med Res Methodol, V3, P21, DOI 10.1186/1471-2288-3-21
+   Barros AJD, 2011, REV SAUDE PUBL, V45, P635, DOI 10.1590/s0034-89102011005000039
+   Bayrampour H, 2010, BIRTH-ISS PERINAT C, V37, P219, DOI 10.1111/j.1523-536X.2010.00409.x
+   Behague DP, 2002, BMJ-BRIT MED J, V324, P942, DOI 10.1136/bmj.324.7343.942
+   Bettiol H, 2000, PAEDIATR PERINAT EP, V14, P30, DOI 10.1046/j.1365-3016.2000.00222.x
+   Bryant AS, 2010, AM J OBSTET GYNECOL, V202, P335, DOI 10.1016/j.ajog.2009.10.864
+   Cavallaro FL, 2013, B WORLD HEALTH ORGAN, V91, P897
+   de Oliveira MM, 2015, EPIDEMIOL SERV SAUDE, V24, P629, DOI 10.5123/S1679-49742015000400005
+   Edmonds JK, 2013, BMC PREGNANCY CHILDB, V13, DOI 10.1186/1471-2393-13-168
+   Faundes A, 2004, REV SAUDE PUBL, V38, P488, DOI [10.1590/S0034-89102004000400002, 10.1590/s0034-89102004000400002]
+   Freitas PF, 2009, INT J GYNECOL OBSTET, V107, P198, DOI 10.1016/j.ijgo.2009.08.017
+   Gibbons L, 2012, AM J OBSTET GYNECOL, V206, DOI 10.1016/j.ajog.2012.02.026
+   Heffner LJ, 2003, OBSTET GYNECOL, V102, P287, DOI 10.1016/S0029-7844(03)00531-3
+   Hofelmann DA, 2012, EPIDEMIOL SERV SAUDE, V21, P561, DOI 10.5123/S1679-49742012000400005
+   Instituto Brasileiro de Geografia e Estatistica, 2015, EST PIAUI
+   Janoudi G, 2015, J OBSTET GYNAECOL CA, V37, P517, DOI 10.1016/S1701-2163(15)30228-0
+   Kyu HH, 2013, INT J EPIDEMIOL, V42, P781, DOI 10.1093/ije/dyt081
+   Limwattananon S, 2011, REPROD HEALTH MATTER, V19, P75, DOI 10.1016/S0968-8080(11)37564-7
+   Patah LEM, 2011, REV SAUDE PUBL, V45, P185, DOI 10.1590/s0034-89102011000100021
+   Mendoza-Sassi RA, 2010, REV SAUDE PUBL, V44, P80, DOI 10.1590/S0034-89102010000100009
+   Ministerio da Saude (BR), 2010, DEP INT SIAT UN SAUD
+   Potter JE, 2001, BRIT MED J, V323, P1155, DOI 10.1136/bmj.323.7322.1155
+   de Jesus GR, 2015, BJOG-INT J OBSTET GY, V122, P606, DOI 10.1111/1471-0528.13119
+   Rebelo F, 2010, ACTA OBSTET GYN SCAN, V89, P903, DOI 10.3109/00016349.2010.484044
+   Domingues RMSM, 2014, CAD SAUDE PUBLICA, V30, DOI 10.1590/0102-311X00105113
+   Victora CG, 2011, LANCET, V377, P1863, DOI 10.1016/S0140-6736(11)60138-4
+   Villar J, 2006, LANCET, V367, P1819, DOI 10.1016/S0140-6736(06)68704-7
+   Ye JF, 2014, BIRTH-ISS PERINAT C, V41, P237, DOI 10.1111/birt.12104
+NR 30
+TC 3
+Z9 6
+U1 0
+U2 1
+PU MINISTERIO DA SAUDE
+PI BRASILIA
+PA ESPLANADA MINISTERIOS, BLOCO G, BRASILIA, DF 70058-900, BRAZIL
+SN 1679-4974
+EI 2237-9622
+J9 EPIDEMIOL SERV SAUDE
+JI Epidemiol. Serv. Saude
+PD JAN-MAR
+PY 2017
+VL 26
+IS 1
+BP 81
+EP 90
+DI 10.5123/S1679-49742017000100009
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FF2DU
+UT WOS:000408708900009
+PM 28226010
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Diniz, D
+   Medeiros, M
+   Madeiro, A
+AF Diniz, Debora
+   Medeiros, Marcelo
+   Madeiro, Alberto
+TI Brazilian women avoiding pregnancy during Zika epidemic
+SO JOURNAL OF FAMILY PLANNING AND REPRODUCTIVE HEALTH CARE
+LA English
+DT Letter
+C1 [Diniz, Debora] Univ Brasilia, Anis, Inst Bioet Direitos Humanos & Genero, Brasilia, DF, Brazil.
+   [Medeiros, Marcelo] Univ Brasilia, IPEA, Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Res Ctr, Teresina, PI, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Extens Ctr Womens Hlth, Teresina, PI, Brazil.
+RP Madeiro, A (corresponding author), Univ Estadual Piaui, Res Ctr, Teresina, PI, Brazil.; Madeiro, A (corresponding author), Univ Estadual Piaui, Extens Ctr Womens Hlth, Teresina, PI, Brazil.
+EM d.diniz@anis.org.br; marcelo.medeiros.cs@gmail.com; madeiro@uol.com.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569; Madeiro, Alberto/0000-0002-5258-5982
+CR Ministerio da Saude Centro de Operacoes de Emergencias em Saude Publica sobre Microcefalias Brasil, 2016, 40 MIN SAUD CTR OP E
+   Ministerio da Saude Secretaria de Vigilancia em Saude Brasil, 2016, B EPIDEMIOLOGICO, V31
+NR 2
+TC 11
+Z9 13
+U1 0
+U2 6
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1471-1893
+EI 2045-2098
+J9 J FAM PLAN REPROD H
+JI J. Fam. Plan. Reprod. Health Care
+PD JAN
+PY 2017
+VL 43
+IS 1
+BP 80
+EP 80
+DI 10.1136/jfprhc-2016-101678
+PG 1
+WC Family Studies; Obstetrics & Gynecology; Social Sciences, Biomedical
+SC Family Studies; Obstetrics & Gynecology; Biomedical Social Sciences
+GA EL4WX
+UT WOS:000394622700023
+PM 28007828
+OA Bronze
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, AP
+   Diniz, D
+AF Madeiro, Alberto Pereira
+   Diniz, Debora
+TI Legal abortion services in Brazil - a national study
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Legal abortion; Census; Health services; Rape; Sexual violence
+ID SEXUAL ASSAULT; CARE; VICTIMS; WOMEN; PROFESSIONALS; PHYSICIANS;
+   PROVIDERS; VIOLENCE; RAPE
+AB This article presents the results of a mixed methods study of 68 legal abortion services in Brazil. The services were analyzed in two stages. The first stage was a census, in which all the institutions were sent an electronic questionnaire about the organization of the legal abortion services. The second stage was conducted in a sample of 5 reference services, one for each region of the country. In this stage, a form was used to collect data about the women and the abortions in the medical records, and 82 interviews with health professionals were conducted. Thirty-seven of the services informed they performed legal abortions, and the services were inactive in 7 states. Police reports, forensic reports, and court orders were required by 14%, 8% and 8% of the services, respectively. Women who underwent abortions were predominantly aged 15-29, single and Catholic. Most abortions were performed until 14 weeks in the case of rape-related pregnancy, by means of manual vacuum aspiration. According to the health professionals, the main difficulties faced in the services are the low availability of physicians to perform abortions and the insufficient training of the staff. The data reveal a discrepancy between the legal provision and the reality of the services. The implementation of more services and the strengthening of the existing services available are necessary.
+C1 [Madeiro, Alberto Pereira] Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, Ctr Ciencias Saude, R Olavo Bilac 2335, BR-64049460 Teresina, PI, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Direito, Brasilia, DF, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, Ctr Ciencias Saude, R Olavo Bilac 2335, BR-64049460 Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Ackerman DR, 2006, AM J OBSTET GYNECOL, V194, P1653, DOI 10.1016/j.ajog.2006.03.014
+   Andalaft Neto J, 2012, FEMINA, V40, P301
+   Bakhru A, 2010, CONTRACEPTION, V82, P168, DOI 10.1016/j.contraception.2010.01.005
+   Brasil. Ministerio da Saude, 2009, HOSP SERV REF AT MUL
+   Brasil. Ministerio da Saude (MS). Secretaria de Atencao a Saude. Departamento de Acoes Programaticas Estrategicas, 2005, AT HUM AB NORM AO TE
+   Brasil. Ministerio da Saude (MS). Secretaria de Atencao a Saude. Departamento de Acoes Programaticas Estrategicas. Area Tecnica de Saude da Mulher, 2011, PREV TRAT AGR RES VI
+   Brasil. Ministerio da Saude (MS). Secretaria de Politicas de Saude, 1999, PREV TRAT AGR RES VI
+   Brasil. Presidencia da Republica. Secretaria Especial de Direitos Humanos, 2010, PROGR NAC DIR HUM PN
+   COLAS OR, 1994, BIOETICA, V2, P81
+   Cybulska B, 2013, BEST PRACT RES CL OB, V27, P141, DOI 10.1016/j.bpobgyn.2012.08.013
+   de Oliveira SF, 2014, J FORENSIC LEG MED, V23, P49, DOI 10.1016/j.jflm.2014.01.011
+   De Zordo S, 2012, CIENC SAUDE COLETIVA, V17, P1745, DOI 10.1590/S1413-81232012000700013
+   Diniz Debora, 2014, Rev. Bioét., V22, P291, DOI 10.1590/1983-80422014222010
+   Diniz D, 2014, REPROD HEALTH MATTER, V22, P141, DOI 10.1016/S0968-8080(14)43754-6
+   Farias RS, 2012, CIENC SAUDE COLETIVA, V17, P1755, DOI 10.1590/S1413-81232012000700014
+   Faundes A, 2007, REV BRAS GINECOL OBS, V29, P192, DOI 10.1590/S0100-72032007000400005
+   Faundes Anibal, 2013, Int J Gynaecol Obstet, V123 Suppl 3, pS57, DOI 10.1016/S0020-7292(13)60003-X
+   Faúndes Anibal, 2007, Rev. bras. epidemiol., V10, P6, DOI 10.1590/S1415-790X2007000100002
+   Kiss LB, 2011, CIENC SAUDE COLETIVA, V16, P1943, DOI 10.1590/S1413-81232011000300028
+   Kulier R, 2001, COCHRANE DB SYST REV, DOI DOI 10.1002/14651858.CD002900
+   Ledray LE, 2002, ANN EMERG MED, V39, P61, DOI 10.1067/mem.2002.120227
+   Macha S, 2014, INT J GYNECOL OBSTET, V126, pS49, DOI 10.1016/j.ijgo.2014.03.010
+   Machado CL, 2015, CAD SAUDE PUBLICA, V31, P345, DOI 10.1590/0102-311X00051714
+   Martin LA, 2014, CONTRACEPTION, V90, P581, DOI 10.1016/j.contraception.2014.07.011
+   Organizacao Mundial de Saude (OMS), 2013, AB SEG OR TECN POL S
+   Oshikata CT, 2011, CAD SAUDE PUBLICA, V27, P701, DOI 10.1590/S0102-311X2011000400009
+   Ramos S, 2014, REPROD HEALTH, V11, DOI 10.1186/1742-4755-11-72
+   SOARES G. S., 2003, CAD SAUDE PUBLICA, V19, P399
+   Steinauer J, 2012, AM J OBSTET GYNECOL, V198, p39e1
+   TALIB RA, 2005, SERVICOS ABORTO LEGA
+NR 30
+TC 9
+Z9 9
+U1 0
+U2 10
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2016
+VL 21
+IS 2
+BP 563
+EP 572
+DI 10.1590/1413-81232015212.10352015
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DF1DO
+UT WOS:000371079000023
+PM 26910163
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, AP
+   Rufino, AC
+   Lacerda, EZG
+   Brasil, LG
+AF Madeiro, Alberto Pereira
+   Rufino, Andrea Cronemberger
+   Goncalves Lacerda, Erica Zania
+   Brasil, Lais Goncalves
+TI Incidence and determinants of severe maternal morbidity: a transversal
+   study in a referral hospital in Teresina, Piaui, Brazil
+SO BMC PREGNANCY AND CHILDBIRTH
+LA English
+DT Article
+ID MULTICOUNTRY SURVEY; NEAR-MISS; ABORTION; MORTALITY; DEATH; PREVALENCE;
+   PREGNANCY; OUTCOMES; HEALTH
+AB Background: Maternal near miss (MNM) investigation is a useful tool for monitoring standards for obstetric care. This study evaluated the prevalence and the determinants of severe maternal morbidity (SMM) and MNM in a tertiary referral hospital in Teresina, Piaui, Brazil.
+   Methods: A transversal and prospective study was conducted between September 2012 and February 2013. The cases were included according to criteria established by the WHO. Odds ratio, their respective confidence intervals, and multivariate analyses were examined.
+   Results: Five thousand eight hundred forty one live births, 343 women with SMM, 56 cases of MNM, and 10 maternal deaths were investigated. The rate for severe maternal outcomes was 11.2 cases per 1000 live births, the rate of MNM was 9.6 cases/1000 live births, and the rate for mortality was 171.2 cases/100,000 live births. Management criteria were most frequently observed among MNM/death cases. Hypertensive diseases (86.1 %) and hemorrhagic complications (10.0 %) were the main determinants of MNM, but infectious abortion was the most common isolated cause of maternal death. There was a correlation between MNM/ death and hospitalized more than 5 days (p=0.023) and between termination of pregnancy by cesarean (p=0.002) and APGAR <7 in the 1st minute (p=0.015).
+   Conclusions: SMM and MNM were quite prevalent in the population studied. Women whose condition progressed to MNM/ death had a higher association with terminating pregnancy by cesarean, longer hospitalization times, and worse perinatal results. The results from the study can be useful to improve the quality of obstetric care and consequently diminish maternal mortality in the region.
+C1 [Madeiro, Alberto Pereira; Rufino, Andrea Cronemberger; Goncalves Lacerda, Erica Zania; Brasil, Lais Goncalves] Univ Estadual Piaui, Res Ctr, BR-64001120 Teresina, Piaui, Brazil.
+   [Madeiro, Alberto Pereira; Rufino, Andrea Cronemberger; Goncalves Lacerda, Erica Zania; Brasil, Lais Goncalves] Univ Estadual Piaui, Extens Ctr Womens Hlth, BR-64001120 Teresina, Piaui, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Res Ctr, R Olavo Bilac,2335 Ctr Sul, BR-64001120 Teresina, Piaui, Brazil.
+EM madeiro@uol.com.br
+FU Piaui State University
+FX The authors gratefully acknowledge the support of Piaui State
+   University.
+CR Adler AJ, 2012, TROP MED INT HEALTH, V17, P177, DOI 10.1111/j.1365-3156.2011.02896.x
+   [Anonymous], 2011, MORT IND MAT MORT RA
+   [Anonymous], 2011, CES SECT BRAZ SIT 20
+   Pacheco AJC, 2014, BMC PREGNANCY CHILDB, V14, DOI 10.1186/1471-2393-14-91
+   Deneux-Tharaux C, 2005, OBSTET GYNECOL, V106, P684, DOI 10.1097/01.AOG.0000174580.24281.e6
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1795, DOI 10.1590/S1413-81232012000700018
+   Dragoman M, 2014, BJOG-INT J OBSTET GY, V121, P25, DOI 10.1111/1471-0528.12689
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Geller SE, 2004, AM J OBSTET GYNECOL, V191, P939, DOI 10.1016/j.ajog.2004.05.099
+   Goldenberg RL, 2011, INT J GYNECOL OBSTET, V113, P91, DOI 10.1016/j.ijgo.2011.01.002
+   Hogan MC, 2010, LANCET, V375, P1609, DOI 10.1016/S0140-6736(10)60518-1
+   Laurenti Ruy, 2004, Rev. bras. epidemiol., V7, P449, DOI 10.1590/S1415-790X2004000400008
+   Galvao LPL, 2014, BMC PREGNANCY CHILDB, V14, DOI 10.1186/1471-2393-14-25
+   Lotufo FA, 2012, CLINICS, V67, P225, DOI 10.6061/clinics/2012(03)04
+   Oliveira FC, 2014, BMC PREGNANCY CHILDB, V14, DOI 10.1186/1471-2393-14-77
+   Pacagnella RC, 2012, REPROD HEALTH MATTER, V20, P155, DOI 10.1016/S0968-8080(12)39601-8
+   Pattinson RC, 2003, BRIT MED BULL, V67, P231, DOI 10.1093/bmb/ldg007
+   Pattinson RC, 2003, BJOG-INT J OBSTET GY, V110, P889, DOI 10.1111/j.1471-0528.2003.03044.x
+   Pattinson R, 2009, B WORLD HEALTH ORGAN, V87, P734, DOI 10.2471/BLT.09.071001
+   Santana DS, 2012, INT J GYNECOL OBSTET, V119, P44, DOI 10.1016/j.ijgo.2012.05.025
+   Say L, 2009, BEST PRACT RES CL OB, V23, P287, DOI 10.1016/j.bpobgyn.2009.01.007
+   Sheldon WR, 2014, BJOG-INT J OBSTET GY, V121, P5, DOI 10.1111/1471-0528.12636
+   Souza João Paulo, 2006, Cad. Saúde Pública, V22, P255, DOI 10.1590/S0102-311X2006000200003
+   Souza JP, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044129
+   Souza JP, 2010, B WORLD HEALTH ORGAN, V88, P113, DOI 10.2471/BLT.08.057828
+   Stones W, 1991, Health Trends, V23, P13
+   Szwarcwald CL, 2014, CAD SAUDE PUBLICA, V30, DOI 10.1590/0102-311X00125313
+   Tuncalp O, 2012, BJOG-INT J OBSTET GY, V119, P653, DOI 10.1111/j.1471-0528.2012.03294.x
+   Waterstone M, 2001, BMJ-BRIT MED J, V322, P1089, DOI 10.1136/bmj.322.7294.1089
+   World Health Organization, 2011, EV QUAL CAR SEV PREG
+   Zamberlin N, 2012, REPROD HEALTH, V9, DOI 10.1186/1742-4755-9-34
+   Zanette E, 2014, REPROD HEALTH, V11, DOI 10.1186/1742-4755-11-4
+   Zwart JJ, 2010, INTENS CARE MED, V36, P256, DOI 10.1007/s00134-009-1707-x
+NR 33
+TC 16
+Z9 23
+U1 0
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2393
+J9 BMC PREGNANCY CHILDB
+JI BMC Pregnancy Childbirth
+PD SEP 7
+PY 2015
+VL 15
+AR 210
+DI 10.1186/s12884-015-0648-3
+PG 9
+WC Obstetrics & Gynecology
+SC Obstetrics & Gynecology
+GA CQ5WA
+UT WOS:000360675200002
+PM 26347370
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, AP
+   Diniz, D
+AF Madeiro, Alberto Pereira
+   Diniz, Debora
+TI Induced abortion among Brazilian female sex workers: a qualitative study
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE Abortion; Prostitutes; Misoprostol; Reproductive health
+ID SEVERE MATERNAL MORBIDITY; MISOPROSTOL; PREGNANCY; COUNTRIES; DRUGS;
+   STATE
+AB Prostitutes are vulnerable to unplanned pregnancies and abortions. In Brazil, abortion is a crime and there is no data about unsafe abortions for this population. The study describes how prostitutes perform illegal abortions and the health consequences thereof. Semi-structured interviews with 39 prostitutes from three cities in Brazil with previous induced abortion experience were conducted. Sixty-six abortions, with between one and eight occurrences per woman, were recorded. The majority of the cases resulted from sexual activity with clients. The inconsistent use of condoms with regular clients and the consumption of alcohol during work were indicated as the main causes of unplanned pregnancies. The main method to perform abortion was the intravaginal and oral use of misoprostol, acquired in pharmacies or on the black market. Invasive measures were less frequently reported, however with more serious health complications. The fear of complaint to the police meant that most women do not inform the health team regarding induced abortion. The majority of prostitutes aborted with the use of illegally-acquired misoprostol, ending abortion in a public hospital with infection and hemorrhagic complications. The data indicate the need for a public policy focusing on the reproductive health of prostitutes.
+C1 [Madeiro, Alberto Pereira] Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, BR-64049460 Teresina, PI, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70910900 Brasilia, DF, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Nucleo Pesquisa & Extensao Saude Mulher, R Olavo Bilac 2335, BR-64049460 Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Arilha MM, 2012, CIENC SAUDE COLETIVA, V17, P1785, DOI 10.1590/S1413-81232012000700017
+   Baral S, 2012, LANCET INFECT DIS, V12, P538, DOI 10.1016/S1473-3099(12)70066-X
+   Camargo RS, 2011, INT J GYNECOL OBSTET, V112, P88, DOI 10.1016/j.ijgo.2010.08.013
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1795, DOI 10.1590/S1413-81232012000700018
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Duff P, 2011, BMC PREGNANCY CHILDB, V11, DOI 10.1186/1471-2393-11-61
+   Elmore-Meegan M, 2004, REPROD HEALTH MATTER, V12, P50, DOI 10.1016/S0968-8080(04)23125-1
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Feldblum PJ, 2007, CONTRACEPTION, V76, P105, DOI 10.1016/j.contraception.2007.04.009
+   Hardy E, 1992, CAD SAUDE PUBLICA, V8, P454
+   Harper CC, 2007, INT J GYNECOL OBSTET, V98, P66, DOI 10.1016/j.ijgo.2007.03.009
+   MacKinnon CA, 2011, HARVARD CIVIL RIGHTS, V46, P271
+   Madeiro AP, 2012, CIENC SAUDE COLETIVA, V17, P1735, DOI 10.1590/S1413-81232012000700012
+   Morineau G, 2011, CONTRACEPTION, V84, P194, DOI 10.1016/j.contraception.2010.11.003
+   Pitpitan EV, 2013, CURR HIV-AIDS REP, V10, P65, DOI 10.1007/s11904-012-0142-8
+   Ruiz E, 2013, PROSTITUTAS NAO PODE
+   Santana DS, 2012, INT J GYNECOL OBSTET, V119, P44, DOI 10.1016/j.ijgo.2012.05.025
+   Sherris J, 2005, INT J GYNECOL OBSTET, V88, P76, DOI 10.1016/j.ijgo.2004.09.006
+   Todd CS, 2010, J WOMENS HEALTH, V19, P2057, DOI 10.1089/jwh.2010.1947
+   World Health Organization, 2012, SAF AB TECHN POL GUI
+   Zamberlin N, 2012, REPROD HEALTH, V9, DOI 10.1186/1742-4755-9-34
+NR 23
+TC 7
+Z9 7
+U1 1
+U2 5
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD FEB
+PY 2015
+VL 20
+IS 2
+BP 587
+EP 593
+DI 10.1590/1413-81232015202.11202014
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA CE9DB
+UT WOS:000352142700029
+PM 25715152
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Rufino, AC
+   Madeiro, AP
+AF Rufino, Andrea Cronemberger
+   Madeiro, Alberto Pereira
+TI Teaching sexuality in Brazilian medical schools
+SO EINSTEIN-SAO PAULO
+LA English
+DT Editorial Material
+C1 [Rufino, Andrea Cronemberger; Madeiro, Alberto Pereira] Univ Estadual Piaui, Teresina, Brazil.
+RP Rufino, AC (corresponding author), Univ Estadual Piaui, Hlth Sci Ctr, Rua Olavo Bilac 2-335 Ctr Sul, BR-64001120 Teresina, PI, Brazil.
+EM andreacrufino@gmail.com
+CR Coleman E, 2013, J SEX MED, V10, P924, DOI 10.1111/jsm.12142
+   Eardley I, 2009, J SEX MED, V6, P1195, DOI 10.1111/j.1743-6109.2009.01253.x
+   Kingsberg SA, 2003, INT J IMPOT RES, V15, pS51, DOI 10.1038/sj.ijir.3901073
+   Leiblum SR, 2001, SEX RELATSH THER, V16, P59, DOI DOI 10.1080/14681990123463
+   National Center for Health Statistics (NCHS), 2012, HLTH PEOPL 2010 FIN
+   Rufino AC, 2014, J SEX MED, V11, P1110, DOI 10.1111/jsm.12476
+   Rufino Andréa Cronemberger, 2013, Rev. bras. educ. med., V37, P178
+NR 7
+TC 3
+Z9 5
+U1 0
+U2 0
+PU INST ISRAELITA ENSINO & PESQUISA ALBERT EINSTEIN
+PI SAO PAULO SP
+PA AVENIDA ALBERT EINSTEIN, 627 701, SAO PAULO SP, 05651-901, BRAZIL
+SN 1679-4508
+EI 2317-6385
+J9 EINSTEIN-SAO PAULO
+JI Einstein
+PD JAN-MAR
+PY 2015
+VL 13
+IS 1
+BP VII
+EP VIII
+DI 10.1590/S1679-45082015ED3306
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA V7W4A
+UT WOS:000421351900001
+PM 25993087
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Diniz, D
+   Madeiro, A
+   Rosasc, C
+AF Diniz, Debora
+   Madeiro, Alberto
+   Rosasc, Cristiao
+TI Conscientious objection, barriers, and abortion in the case of rape: a
+   study among physicians in Brazil
+SO REPRODUCTIVE HEALTH MATTERS
+LA English
+DT Article
+DE conscientious objection; abortion law and policy; barriers to abortion;
+   rape; sexual violence; provider-patient relations; Brazil
+AB In Brazil, to have a legal abortion in the case of rape, the woman's statement that rape has occurred is considered sufficient to guarantee the right to abortion. The aim of this study was to understand the practice and opinions about providing abortion in the case of rape among obstetricians-gynecologists (OBGYNs) in Brazil. A mixed-method study was conducted from April to July 2012 with 1,690 OBGYNs who responded to a structured, electronic, self-completed questionnaire. In the quantitative phase, 81.6% of the physicians required police reports or judicial authorization to guarantee the care requested. In-depth telephone interviews with 50 of these physicians showed that they frequently tested women's rape claim by making them repeat their story to several health professionals; 43.5% of these claimed conscientious objection when they were uncertain whether the woman was telling the truth. The moral environment of illegal abortion alters the purpose of listening to a patient from providing care to passing judgement on her. The data suggest that women's access to legal abortion is being blocked by these barriers in spite of the law. We recommend that FEBRASGO and the Ministry of Health work together to clarify to physicians that a woman's statement that rape occurred should allow her to access a legal abortion. (C) 2014 Reproductive Health Matters
+C1 [Diniz, Debora] Univ Brasilia UnB Anis, Grad Program Social Policy, Inst Bioeth Human Rights & Gender, Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Piaui State Univ Uespi, Res Ctr, Teresina, Brazil.
+   [Madeiro, Alberto] Piaui State Univ Uespi, Extens Program Womens Hlth, Teresina, Brazil.
+   [Madeiro, Alberto] Inst Bioeth Human Rights & Gender, Brasilia, DF, Brazil.
+   [Rosasc, Cristiao] Brazilian Federat Obstet & Gynaecol FEBRASGO, Sexual Violence Commiss, Sao Paulo, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia UnB Anis, Grad Program Social Policy, Inst Bioeth Human Rights & Gender, Brasilia, DF, Brazil.
+EM anis@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Amado ED, 2010, REPROD HEALTH MATTER, V18, P118, DOI 10.1016/S0968-8080(10)36531-1
+   Conselho Federal de Medicina, 2009, COD ET MED BRAS
+   Cook RJ, 2009, INT J GYNECOL OBSTET, V104, P249, DOI 10.1016/j.ijgo.2008.10.023
+   Curlin FA, 2007, NEW ENGL J MED, V356, P593, DOI 10.1056/NEJMsa065316
+   De Zordo S, 2012, CIENC SAUDE COLETIVA, V17, P1745, DOI 10.1590/S1413-81232012000700013
+   Diniz D, 2011, REV SAUDE PUBL, V45, P981, DOI 10.1590/s0034-89102011005000047
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Donohoe M., 2005, J AM MED WOMEN ASSOC, V60, P16
+   Downie Jocelyn, 2007, Health Law J, V15, P143
+   Faúndes Aníbal, 2004, Rev. Bras. Ginecol. Obstet., V26, P89, DOI 10.1590/S0100-72032004000200002
+   Faundes A, 2002, REPROD HEALTH MATTER, V10, P120, DOI 10.1016/S0968-8080(02)00017-4
+   Faundes A, 2013, REPROD HEALTH MATTER, V21, P165, DOI 10.1016/S0968-8080(13)42726-X
+   Finer L, 2013, AM J PUBLIC HEALTH, V103, P585, DOI 10.2105/AJPH.2012.301197
+   Goldman Lisa A, 2005, Reprod Health, V2, P10
+   Greenberg M, 2012, FAM MED, V44, P493
+   Grimes DA, 2006, AM J OBSTET GYNECOL, V194, P92, DOI 10.1016/j.ajog.2005.06.070
+   Harris LH, 2011, OBSTET GYNECOL, V118, P905, DOI 10.1097/AOG.0b013e31822f12b7
+   Magelssen M, 2012, J MED ETHICS, V38, P18, DOI 10.1136/jme.2011.043646
+   Ministerio da Sailde do Brasil, 2005, NORM TECN PREV TRAT
+   Rasinski KA, 2011, J MED ETHICS, V37, P711, DOI 10.1136/jme.2010.040782
+   Villela WV, 2000, REPROD HEALTH MATTER, V8, P77, DOI 10.1016/S0968-8080(00)90189-7
+NR 21
+TC 14
+Z9 16
+U1 1
+U2 17
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0968-8080
+EI 1460-9576
+J9 REPROD HEALTH MATTER
+JI Reprod. Health Matters
+PD MAY
+PY 2014
+VL 22
+IS 43
+BP 141
+EP 148
+DI 10.1016/S0968-8080(14)43754-6
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA AK4JU
+UT WOS:000338391800014
+PM 24908465
+DA 2020-12-15
+ER
+
+PT J
+AU Rufino, AC
+   Madeiro, A
+   Girao, MJBC
+AF Rufino, Andrea Cronemberger
+   Madeiro, Alberto
+   Batista Castello Girao, Manoel Joao
+TI Sexuality Education in Brazilian Medical Schools
+SO JOURNAL OF SEXUAL MEDICINE
+LA English
+DT Article
+DE Sexuality Education; Sexuality in Undergraduate Training; Medical
+   Education; Medical Students
+ID HEALTH; CURRICULUM; SEX
+AB IntroductionSexuality education has been valued since the 1960s in medical schools worldwide. Although recent studies reaffirm the importance of incorporating sexuality into medical education, there are data gaps concerning how this happens in Brazil.
+   AimTo understand how Brazilian medical school professors teach sexuality in undergraduate courses.
+   MethodsAn exploratory, cross-sectional descriptive study was conducted. A total of 207 professors from 110 Brazilian medical schools responded to an online semistructured questionnaire about the characteristics of the sexuality-related topics offered.
+   Main Outcome MeasuresThe main variables assessed were contact hours devoted to sexuality, disciplines in which sexuality topics were taught, sexuality-related course titles, and sexuality-related topics addressed. Questionnaires were tabulated and analyzed using descriptive statistics for frequency distribution.
+   ResultsThe response rate to the questionnaire was 77.2%. Almost all professors (96.3%) addressed sexuality-related topics mainly in the third and fourth years as clinical disciplines, with a 6-hour load per discipline. Gynecology was the discipline in which sexuality-related topics were most often taught (51.5%), followed by urology (18%) and psychiatry (15%). Sexuality-related topics were addressed mainly in classes on sexually transmitted diseases and AIDS (62.4%) and on the anatomy and physiology of the reproductive system (55.4%). About 25% of the professors reported teaching courses with a sexuality-related title. There was emphasis on the impact of diseases and sexual habits (87.9%) and sexual dysfunction (75.9%). Less than 50% of professors addressed nonnormative sexuality or social aspects of sexuality.
+   ConclusionsThe teaching of sexuality in Brazilian medical schools occurred in a nonstandardized and fragmented fashion across several disciplines. The topic was incorporated with an organic and pathological bias, with a weak emphasis on the social aspects of sexuality and the variety of human sexual behaviors. The results point to the need for change in the provision of sexuality education in Brazilian medical schools. Rufino AC, Madeiro A, and GirAo MJBC. Sexuality education in Brazilian medical schools. J Sex Med 2014;11:1110-1117.
+C1 [Rufino, Andrea Cronemberger; Madeiro, Alberto] Univ Estadual Piaui, Dept Gynecol, BR-64052820 Teresina, Piaui, Brazil.
+   [Batista Castello Girao, Manoel Joao] Univ Fed Sao Paulo, Dept Gynecol, Sao Paulo, Brazil.
+RP Rufino, AC (corresponding author), Univ Estadual Piaui, R Cel Costa Araujo 3033 Horto Florestal, BR-64052820 Teresina, Piaui, Brazil.
+EM andreacrufino@gmail.com
+CR AssociacAo Medica Brasileira, 2013, ESC MED BRAS 2000 20
+   CADE JD, 1971, J MED EDUC, V46, P64
+   Coleman E, 2013, J SEX MED, V10, P924, DOI 10.1111/jsm.12142
+   Dixon-Woods M, 2002, MED EDUC, V36, P432, DOI 10.1046/j.1365-2923.2002.01198.x
+   Eardley I, 2009, J SEX MED, V6, P1195, DOI 10.1111/j.1743-6109.2009.01253.x
+   Farias RS, 2012, CIENC SAUDE COLETIVA, V17, P1755, DOI 10.1590/S1413-81232012000700014
+   Ferrara E, 2003, INT J IMPOT RES, V15, pS46, DOI 10.1038/sj.ijir.3901072
+   Goldstein I, 2012, J SEX MED, V9, P2983, DOI 10.1111/jsm.12015
+   Hollinshead S., 2004, OVERVIEW US TRANS HL
+   Javaroni V, 2012, INT J HYPERTENS, V2012, DOI 10.1155/2012/627278
+   Leiblum SR, 2001, SEX RELATSH THER, V16, P59, DOI DOI 10.1080/14681990123463
+   LIEF HI, 1969, PEDIATR CLIN N AM, V16, P447
+   LLOYD JA, 1980, J REPROD MED, V24, P17
+   Malhotra S, 2008, J NATL MED ASSOC, V100, P1097, DOI 10.1016/S0027-9684(15)31452-8
+   NAZARETH I, 2003, BMJ-BRIT MED J, V327, P1
+   Obedin-Maliver J, 2011, JAMA-J AM MED ASSOC, V306, P971, DOI 10.1001/jama.2011.1255
+   Parish SJ, 2010, J SEX MED, V7, P3305, DOI 10.1111/j.1743-6109.2010.02026.x
+   Pedrosa CM, 2011, SAUDE SOC-SAO PAULO, V20, P124, DOI 10.1590/S0104-12902011000100015
+   Reisman Y, 2013, J SEX MED, V10, P918, DOI 10.1111/jsm.12140
+   Urbina AAS, 2013, CIENC SAUDE COLETIVA, V18, P733, DOI 10.1590/S1413-81232013000300019
+   Shindel AW, 2013, J SEX MED, V10, P4, DOI 10.1111/j.1743-6109.2012.02987.x
+   Shindel AW, 2011, AIDS PATIENT CARE ST, V25, P341, DOI 10.1089/apc.2011.0059
+   Solursh DS, 2003, INT J IMPOT RES, V15, pS41, DOI 10.1038/sj.ijir.3901071
+   Tucker P, 2010, SEX ED, V10, P37
+   Wagner E, 2006, MED TEACH, V28, P184, DOI 10.1080/01421590500271274
+   Wittenberg A, 2009, J SEX MED, V6, P362, DOI 10.1111/j.1743-6109.2008.01046.x
+   World Association for Sexual Health, 2008, SEX HLTH MILL DECL T
+   World Health O, 2010, MEAS SEX HLTH CONC P
+   Wylie K, 2003, MED TEACH, V25, P291, DOI 10.1080/0142159031000100382
+NR 29
+TC 17
+Z9 23
+U1 0
+U2 4
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1743-6095
+EI 1743-6109
+J9 J SEX MED
+JI J. Sex. Med.
+PD MAY
+PY 2014
+VL 11
+IS 5
+BP 1110
+EP 1117
+DI 10.1111/jsm.12476
+PG 8
+WC Urology & Nephrology
+SC Urology & Nephrology
+GA AI9WG
+UT WOS:000337293700002
+PM 24612521
+DA 2020-12-15
+ER
+
+PT J
+AU Nunes, MD
+   Madeiro, A
+   Diniz, D
+AF Nunes, Maria das Dores
+   Madeiro, Alberto
+   Diniz, Debora
+TI Histories of induced abortion among adolescents from Teresina in the
+   State of Piaui, Brazil
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Adolescence; Induced abortion; Cytotec; Reproductive health; Uterine
+   curettage
+ID TRENDS; WOMEN; COMPLICATIONS; INTERRUPTION; MISOPROSTOL; PREGNANCY;
+   MATERNITY; CARE
+AB This paper analyses the methods, techniques and support networks taken by adolescents to perform illegal abortions. It is a descriptive and cross-sectional study involving interviews with 30 adolescents who had been hospitalized for uterine curettage in two public hospitals in Teresina between June and November 2011. Informed consent was given orally, and the interviews were recorded after the confirmation of the induced abortion. The adolescents were between 14 and 17 years old, single, and predominantly lived with their parents in urban areas, had little schooling and recorded a gestational age of 12 weeks. Between 3 and 6 tablets of Cytotec were taken orally and/or vaginally by 28 (94%) adolescents, and they were rushed to the hospital due to severe cramping, vaginal bleeding or both. They either bought Cytotec alone (43%, 13), or with the help of a friend or partner (40%, 12). Cytotec was sold to them in ordinary pharmacies, by the owner (45%, 13) or clerk (55%, 55), who provided instructions for use. They went to the hospital with their mother (40%, 12) or a girl friend (30%, 9). Three (10%) adolescents developed serious complications. The study revealed that Cytotec is the main method used to perform illegal abortions among adolescents.
+C1 [Nunes, Maria das Dores] Fac Saude Ciencias Humanas & Tecnol Piaui, BR-64057100 Teresina, PI, Brazil.
+   [Madeiro, Alberto] Univ Estadual Piaui, Nucleo Pesquisa Extensao Saude Mulher, Teresina, PI, Brazil.
+   [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70910900 Brasilia, DF, Brazil.
+RP Nunes, MD (corresponding author), Fac Saude Ciencias Humanas & Tecnol Piaui, R Vitorino Orthiges Fernandes 6123, BR-64057100 Teresina, PI, Brazil.
+EM m.dnunes@hotmail.com
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Ahman E, 2011, INT J GYNECOL OBSTET, V115, P121, DOI 10.1016/j.ijgo.2011.05.027
+   Aquino EML, 2012, CIENC SAUDE COLETIVA, V17, P1765, DOI 10.1590/S1413-81232012000700015
+   Chaves JHB, 2012, SAUDE SOC-SAO PAULO, V21, P246, DOI 10.1590/S0104-12902012000100023
+   Berquo E, 2012, REV SAUDE PUBL, V46, P685, DOI 10.1590/s0034-89102012005000048
+   Brasil. Ministerio da Saude (MS), 2006, EST MORT MULH 10 49
+   Brasil. Ministerio da Saude (MS), 2001, PART AB PUERP ASS HU
+   Correia DS, 2011, CIENC SAUDE COLETIVA, V16, P2469, DOI 10.1590/S1413-81232011000500016
+   Correa MCDV, 2012, CIENC SAUDE COLETIVA, V17, P1777, DOI 10.1590/S1413-81232012000700016
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1795, DOI 10.1590/S1413-81232012000700018
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1671, DOI 10.1590/S1413-81232012000700002
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Grimes DA, 2006, LANCET, V368, P1908, DOI 10.1016/S0140-6736(06)69481-6
+   Gupta N, 1999, INT FAM PLAN PERSPEC, V25, P125, DOI 10.2307/2991961
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2010, SIS 2010 MULH MAIS E
+   Bertolani GBM, 2010, SAUDE SOC-SAO PAULO, V19, P286, DOI 10.1590/S0104-12902010000200006
+   Mayi-Tsonga S, 2009, REPROD HEALTH MATTER, V17, P65, DOI 10.1016/S0968-8080(09)34465-1
+   Menezes Greice M. S., 2006, Cad. Saúde Pública, V22, P1431, DOI 10.1590/S0102-311X2006000700008
+   Nader Priscilla Rocha Araújo, 2007, Rev. bras. epidemiol., V10, P615, DOI 10.1590/S1415-790X2007000400019
+   Peres Simone Ouvinha, 2006, Cad. Saúde Pública, V22, P1411, DOI 10.1590/S0102-311X2006000700006
+   Sedgh G, 2012, LANCET, V379, P625, DOI 10.1016/S0140-6736(11)61786-8
+   Senanayake P, 2003, BEST PRACT RES CL OB, V17, P117, DOI 10.1053/ybeog.2003.0343
+   Shah IH, 2012, REPROD HEALTH MATTER, V20, P169, DOI 10.1016/S0968-8080(12)39598-0
+   Singh S, 1998, STUD FAMILY PLANN, V29, P117, DOI 10.2307/172154
+   Viggiano MGC, 1996, J BRAS GINECOL, V106, P55
+NR 26
+TC 5
+Z9 10
+U1 0
+U2 6
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD AUG
+PY 2013
+VL 18
+IS 8
+BP 2311
+EP 2318
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 191FV
+UT WOS:000322399400015
+PM 23896913
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, AP
+   Rufino, AC
+AF Madeiro, Alberto Pereira
+   Rufino, Andrea Cronemberger
+TI Induced abortion among prostitutes: a survey using the ballot-box
+   technique in Teresina - Piaui
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Induced abortion; Prostitution; Misoprostol; Sexual and reproductive
+   rights
+ID FEMALE SEX WORKERS; MISOPROSTOL; PREGNANCY; PREVALENCE; BRAZIL; NEED
+AB This study assesses the prevalence of induced abortion among prostitutes and lists the most common abortion practices. A survey was conducted with 310 prostitutes between 18 and 39 years of age, by sampling age quotas in the 5 territorial areas of Teresina in the state of Piaui. Data collection was conducted through the use of 2 questionnaires: the first, by the ballot-box technique, with questions about abortion; the second, completed by the researcher, with socio-demographic information. The practice of abortion was reported by 163 (52.6%) women. Most prostitutes performed 1 abortion (50.3%), but 16.5% of them reported carrying out 3 or more. Misoprostol was used alone in 68.1% of the reports and associated with tea and/or probes in 9.2%, followed by tea in 13.4%, probes in 3.7%, and uterine curettage in unregulated clinics in 3.7%. There was post-abortion hospitalization in 47.8% of the cases. After adjustment of the multiple logistic regression model, the variable that remained significantly associated with abortion was to have had 3 or more pregnancies. These results revealed that induced abortion is an event of great prevalence among prostitutes in Teresina. Misoprostol is the most common method to abort and hospitalization was necessary in almost half of cases.
+C1 [Madeiro, Alberto Pereira; Rufino, Andrea Cronemberger] Univ Estadual Piaui, Fac Ciencias Med, BR-64049460 Teresina, PI, Brazil.
+RP Madeiro, AP (corresponding author), Univ Estadual Piaui, Fac Ciencias Med, Rua Olavo Bilac 2335, BR-64049460 Teresina, PI, Brazil.
+EM madeiro@uol.com.br
+CR Bautista CT, 2008, CONTRACEPTION, V77, P209, DOI 10.1016/j.contraception.2007.11.013
+   Brasil. Ministerio do Trabalho e Emprego. CBO - Classificacao Brasileira de Ocupacoes, 2002, REL FAM
+   Chacham AS, 2007, REPROD HEALTH MATTER, V15, P108, DOI 10.1016/S0968-8080(07)29292-4
+   COELHO HLL, 1993, LANCET, V341, P1261, DOI 10.1016/0140-6736(93)91157-H
+   Costa SH, 1998, INT J GYNECOL OBSTET, V63, pS131, DOI 10.1016/S0020-7292(98)00195-7
+   Delvaux T, 2003, REPROD HEALTH MATTER, V11, P88, DOI 10.1016/S0968-8080(03)02163-3
+   Dias PRT, 2006, AIDS BEHAV, V10, pS67, DOI 10.1007/s10461-006-9139-x
+   Diniz D, 2012, CIENC SAUDE COLETIVA, V17, P1795, DOI 10.1590/S1413-81232012000700018
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Elmore-Meegan M, 2004, REPROD HEALTH MATTER, V12, P50, DOI 10.1016/S0968-8080(04)23125-1
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Feldblum PJ, 2007, CONTRACEPTION, V76, P105, DOI 10.1016/j.contraception.2007.04.009
+   Fonseca W, 1998, CAD SAUDE PUBLICA, V14, P279
+   Gauthier J, 2011, HYPATIA, V26, P166, DOI 10.1111/j.1527-2001.2010.01126.x
+   Guimarães Katia, 2005, Rev. Estud. Fem., V13, P525, DOI 10.1590/S0104-026X2005000300004
+   Hosmer DW, 2000, APPL LOGISTIC REGRES
+   *IBGE, CONT POP 2007
+   Lau JTF, 2007, J SEX MARITAL THER, V33, P19, DOI 10.1080/00926230600998441
+   Mathieu L, 2004, J CONTEMP EUR STUD, V12, P153, DOI DOI 10.1080/1460846042000250864
+   Menezes G, 2009, CAD SAUDE PUBLICA, V25, pS193, DOI 10.1590/S0102-311X2009001400002
+   Miller S, 2005, BJOG-INT J OBSTET GY, V112, P1291, DOI 10.1111/j.1471-0528.2005.00704.x
+   Nader Priscilla Rocha Araújo, 2007, Rev. bras. epidemiol., V10, P615, DOI 10.1590/S1415-790X2007000400019
+   Tsakiridu DO, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002358
+   Olinto Maria Teresa Anselmo, 2006, Cad. Saúde Pública, V22, P365, DOI 10.1590/S0102-311X2006000200014
+   Passos ADC, 2004, REV PANAM SALUD PUBL, V16, P95, DOI 10.1590/S1020-49892004000800004
+   Todd CS, 2010, J WOMENS HEALTH, V19, P2057, DOI 10.1089/jwh.2010.1947
+   Vanwesenbeeck I, 2002, ANN REV SEX RES, V12, P242
+   Wang B, 2010, SEX TRANSM DIS, V37, P629, DOI 10.1097/OLQ.0b013e3181e2118a
+NR 29
+TC 10
+Z9 12
+U1 0
+U2 1
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUL
+PY 2012
+VL 17
+IS 7
+BP 1735
+EP 1743
+DI 10.1590/S1413-81232012000700012
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 984XY
+UT WOS:000307228200012
+PM 22872335
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Diniz, D
+   Madeiro, A
+AF Diniz, Debora
+   Madeiro, Alberto
+TI Cytotec and Abortion: the police, the vendors and women
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Cytotec; Misoprostol; Abortion; Maternal Mortality
+ID BRAZIL; MISOPROSTOL; REGION
+AB This paper analyzes the illegal trade in misoprostol, the medication predominantly used for abortion in Brazil. The study analyzed ten cases that came to the attention of the Public Prosecution Service for the Federal District between 2004 and 2010. The cases were organized into three categories: 1. women's stories; 2. profile of the vendors; 3. maternal mortality cases. The research was reviewed by an ethics committee. The main outcomes were: 1. young women in steady relationships use misoprostol in the home or with the assistance of drug vendors. Of the seven women indicted, three were reported on arrival at the public hospital to finalize abortion; 2. the drug vendors work at the community drugstore and are local agents for the sale of misoprostol. They instruct women on how to use the drug and how to prevent infections, but refuse to provide them with care in case of emergency. Traffickers operate via the internet and have a larger inventory of drugs; 3. there were two cases of maternal mortality due to the combination of high risk methods, such as a vaginal probe and misoprostol. The main causes for maternal mortality are the delay in seeking medical care, as the women fear criminal prosecution, and the combined use of misoprostol with high risk methods.
+C1 [Diniz, Debora] Univ Brasilia, Programa Posgrad Polit Social, BR-70673970 Brasilia, DF, Brazil.
+   [Madeiro, Alberto] Univ Brasilia, Dept Sociol, BR-70673970 Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Programa Posgrad Polit Social, Caixa Postal 8011, BR-70673970 Brasilia, DF, Brazil.
+EM d.diniz@gmx.com
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Albuquerque RM, 1998, REV BRAS GINECOL OBS, V20, P181
+   BARBOSA RM, 1993, STUD FAMILY PLANN, V24, P236, DOI 10.2307/2939191
+   Cecatti JG, 2010, REV BRAS GINECOL OBS, V32, P105, DOI 10.1590/S0100-72032010000300002
+   CHUMPITAZ V. A., 2003, THESIS FUNDACAO O CR, P140
+   COELHO HLL, 1993, LANCET, V341, P1261, DOI 10.1016/0140-6736(93)91157-H
+   Costa SH, 1998, INT J GYNECOL OBSTET, V63, pS131, DOI 10.1016/S0020-7292(98)00195-7
+   Costa SH, 1993, LANCET, V341, P1258
+   Diniz D, 2011, CAD SAUDE PUBLICA, V27, P94, DOI 10.1590/S0102-311X2011000100010
+   Diniz D, 2010, CIENC SAUDE COLETIVA, V15, P959, DOI 10.1590/S1413-81232010000700002
+   Diniz D, 2009, CAD SAUDE PUBLICA, V25, P939, DOI 10.1590/S0102-311X2009000400025
+   Duarte GA, 2002, REV SAUDE PUBL, V36, P271, DOI [10.1590/S0034-89102002000300003, 10.1590/s0034-89102002000300003]
+   Faundes A, 1996, ADV CONTRACEPT, V12, P1, DOI 10.1007/BF01849540
+   Fonseca W, 1996, REV SAUDE PUBL, V30, P13, DOI 10.1590/S0034-89101996000100003
+   Fonseca W, 1998, CAD SAUDE PUBLICA, V14, P279
+   Fusco Carmen L. B., 2008, Rev. bras. epidemiol., V11, P78, DOI 10.1590/S1415-790X2008000100007
+   Hardy E, 1992, CAD SAUDE PUBLICA, V8, P454
+   LAGUARDIA KD, 1990, OBSTET GYNECOL, V75, P27
+   Andrade ATL, 2006, REV BRAS GINECOL OBS, V28, P380, DOI 10.1590/S0100-72032006000700002
+   Lima B G, 2000, Rev Panam Salud Publica, V7, P168
+   Martins I R, 1991, Cad Saude Publica, V7, P251
+   Nader Priscilla Rocha Araújo, 2007, Rev. bras. epidemiol., V10, P615, DOI 10.1590/S1415-790X2007000400019
+   Organizacao Mundial da Sande (OMS), 2004, AB INS OR TECN POL S
+   Ramos José Geraldo Lopes, 2003, Rev. Bras. Ginecol. Obstet., V25, P431, DOI 10.1590/S0100-72032003000600008
+   Silva RDE, 1998, REV SAUDE PUBL, V32, P7, DOI 10.1590/S0034-89101998000100002
+   Souza Al, 1996, J BRAS GINECOL, V106, P355
+   Viggiano MGC, 1996, J BRAS GINECOL, V3, P55
+NR 26
+TC 21
+Z9 25
+U1 0
+U2 6
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUL
+PY 2012
+VL 17
+IS 7
+BP 1795
+EP 1804
+DI 10.1590/S1413-81232012000700018
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 984XY
+UT WOS:000307228200018
+PM 22872341
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Madeiro, AP
+   Rufino, AC
+   Sartori, MGF
+   Baracat, EC
+   De Lima, GR
+   Girao, MJBC
+AF Madeiro, AP
+   Rufino, AC
+   Sartori, MGF
+   Baracat, EC
+   De Lima, GR
+   Girao, MJBC
+TI The effects of bethanechol and cisapride on urodynamic parameters in
+   patients undergoing radical hysterectomy for cervical cancer. A
+   randomized, double-blind, placebo-controlled study
+SO INTERNATIONAL UROGYNECOLOGY JOURNAL
+LA English
+DT Article
+DE bethanechol; cisapride; urodynamic study; bladder disfunction; radical
+   hysterectomy
+ID LOWER URINARY-TRACT; WERTHEIM HYSTERECTOMY; BLADDER; CHLORIDE;
+   DISORDERS; AGONIST; WOMEN
+AB To evaluate the effects of bethanechol and cisapride on urodynamic parameters in patients undergoing radical hysterectomy for cervical cancer. In this double-blind, placebo-controlled study, 79 patients with cervical cancer were randomized to receive bethanechol (30 mg/day), cisapride (30 mg/day), bethanechol combined with cisapride (same doses) and placebo. Urodynamic study was performed, including flowmetry, cystometry, pressure-flow study and urethral pressure profile before radical hysterectomy. Medication was administered postoperatively during 30 days. At the end of this period, urodynamic evaluation was repeated. There was an increase in both the maximum cystometric capacity and bladder capacity at first desire to void in the placebo group compared to the other groups. The rate of detrusor instability was higher in the group that used bethanechol combined with cisapride. Detrusor pressure at maximum flow was significantly higher when cisapride was used. There was a significant increase in postvoid residual volume in the placebo group. In patients undergoing radical hysterectomy, bethanechol and cisapride determined lower cystometric capacity and decreased bladder capacity at first desire to void, a higher maximum flow rate and higher detrusor pressure at maximum flow, with lower postvoid residual volumes. The early use of bethanechol and cisapride after radical hysterectomies positively modified urodynamic parameters, determining a more efficient detrusor function.
+C1 San Marcos Hosp, Piaui Canc Soc, BR-64049460 Teresina, Piaui, Brazil.
+   Univ Estadual Piaui, Dept Gynecol, Teresina, Brazil.
+   Univ Fed Sao Paulo, Dept Gynecol, Sao Paulo, Brazil.
+RP Madeiro, AP (corresponding author), San Marcos Hosp, Piaui Canc Soc, Av Cel Costa Araujo 3033, BR-64049460 Teresina, Piaui, Brazil.
+EM madeiro@uol.com.br
+RI Baracat, Edmund C/H-3800-2012; SARTORI, MARAIR G F/D-3888-2012
+OI Baracat, Edmund C/0000-0003-0111-9030; SARTORI, MARAIR G
+   F/0000-0002-3001-6076; J. B. C. Girao, Manoel/0000-0002-3379-5802
+CR Abrams P, 2003, UROLOGY, V61, P37, DOI 10.1016/S0090-4295(02)02243-4
+   BOYD IW, 1994, MED J AUSTRALIA, V160, P579
+   CARENZA L, 1982, GYNECOL ONCOL, V13, P213, DOI 10.1016/0090-8258(82)90029-4
+   CARONE R, 1993, PARAPLEGIA, V31, P125, DOI 10.1038/sc.1993.22
+   Chen GD, 2002, GYNECOL ONCOL, V85, P292, DOI 10.1006/gyno.2002.6614
+   FINKBEINER AE, 1985, J UROLOGY, V134, P443, DOI 10.1016/S0022-5347(17)47234-X
+   FORNEY JP, 1980, AM J OBSTET GYNECOL, V138, P374, DOI 10.1016/0002-9378(80)90132-5
+   Hirotsu I, 1998, JPN J PHARMACOL, V76, P109, DOI 10.1254/jjp.76.109
+   Kemp B, 1997, Int Urogynecol J Pelvic Floor Dysfunct, V8, P138, DOI 10.1007/BF02764845
+   LARSON DM, 1987, OBSTET GYNECOL, V64, P612
+   Lin HH, 1998, INT J GYNECOL OBSTET, V63, P169, DOI 10.1016/S0020-7292(98)00158-1
+   LOW JA, 1981, AM J OBSTET GYNECOL, V139, P826, DOI 10.1016/0002-9378(81)90551-2
+   PIVER MS, 1974, OBSTET GYNECOL, V44, P265
+   RALPH G, 1991, European Journal of Gynaecological Oncology, V12, P27
+   ROBERTS JM, 1978, SURG GYNECOL OBSTET, V147, P558
+   ROMANLOPEZ JJ, 1972, AM J OBSTET GYNECOL, V115, P81
+   SCOTTI RJ, 1986, OBSTET GYNECOL, V68, P111
+   SONDA LP, 1979, J UROLOGY, V122, P775, DOI 10.1016/S0022-5347(17)56599-4
+   Steele AC, 2001, AM J OBSTET GYNECOL, V185, P62, DOI 10.1067/mob.2001.116367
+   TONINI M, 1994, BRIT J PHARMACOL, V113, P1
+   VERVEST HAM, 1989, ACTA OBSTET GYN SCAN, V68, P331, DOI 10.3109/00016348909028668
+   WEIN AJ, 1980, J UROLOGY, V124, P397, DOI 10.1016/S0022-5347(17)55465-8
+   WOODSIDE JR, 1982, J UROLOGY, V127, P1143, DOI 10.1016/S0022-5347(17)54271-8
+   WYNDAELE JJ, 1995, PARAPLEGIA, V33, P625, DOI 10.1038/sc.1995.132
+NR 24
+TC 12
+Z9 13
+U1 0
+U2 0
+PU SPRINGER LONDON LTD
+PI GODALMING
+PA SWEETAPPLE HOUSE CATTESHALL ROAD, GODALMING GU7 3DJ, SURREY, ENGLAND
+SN 0937-3462
+J9 INT UROGYNECOL J
+JI Int. Urogynecol. J.
+PD MAY
+PY 2006
+VL 17
+IS 3
+BP 248
+EP 252
+DI 10.1007/s00192-005-1318-1
+PG 5
+WC Obstetrics & Gynecology; Urology & Nephrology
+SC Obstetrics & Gynecology; Urology & Nephrology
+GA 028TW
+UT WOS:000236512700011
+PM 15959612
+DA 2020-12-15
+ER
+
+PT J
+AU Rufino, AC
+   Baracat, FF
+   Madeiro, AP
+   Lippi, UG
+AF Rufino, AC
+   Baracat, FF
+   Madeiro, AP
+   Lippi, UG
+TI Identification of the sentinel lymph node stained with blue dye in
+   breast cancer patients
+SO EUROPEAN JOURNAL OF GYNAECOLOGICAL ONCOLOGY
+LA English
+DT Article
+DE sentinel lymph node; breast cancer; blue dye
+ID BIOPSY; LYMPHADENECTOMY; CARE
+AB Purpose: This study aimed to evaluate the reproducibility of sentinel lymphadenectomy in breast cancer patients (T1N0M0 and T2N0M0) and its possibility of predicting the total axillary behavior.
+   Methods: A total of 25 patients were evaluated, all presenting palpable mammary nodes between 1.5 and 5 cm (T-1 and T-2), with clinically negative axillary lymph nodes (N-0). After an incisional biopsy of the tumor and histopathological confirmation of invasive breast carcinoma, a study of the sentinel lymph node took place with a peritumoral injection of 4 ml of blue dye at 2.5%. After waiting for 15 to 20 minutes, a search for the blue stained lymphatic vase in the axillary fat was carried out, which would lead to the sentinel lymph node, stained or not. At that point, a mastectomy (20 patients) or a quadrantectomy (5 patients) was performed, both with axillary lymphadenectomy at grades 1, 2 and 3. The sentinel lymph nodes and the material from the axillary dissection were sent separately for an anatomicopathological test in paraffin.
+   Results: The lymph nodes were identified in 19 patients, which represented a 76% detection rate. There was a concordance between the sentinel lymphadenectomy and the standard axillary dissection in 68.4% of the patients. The false-positive and the false-negative rates observed were 10% and 55.5%, respectively. A higher detection rate was found in tumors larger than 2 cm and situated in external quadrants.
+   Conclusions: Sentinel lymphadenectomy identified the sentinel lymph node in the majority of the patients in this study, although the high rate of false-negatives observed prevented an accurate staging.
+C1 Hosp Serv Publ Estadual, Div Obstet & Gynecol, Sao Paulo, Brazil.
+RP Rufino, AC (corresponding author), Av Cel Costa Araujo 3033, Piaui, Brazil.
+CR Borgstein P, 1998, EUR J SURG ONCOL, V24, P85, DOI 10.1016/S0748-7983(98)91251-3
+   Borgstein PJ, 1997, LANCET, V349, P1668, DOI 10.1016/S0140-6736(05)62634-7
+   Flett MM, 1998, BRIT J SURG, V85, P991
+   Giuliano AE, 1996, J AM COLL SURGEONS, V183, P185
+   Giuliano AE, 1997, J CLIN ONCOL, V15, P2345, DOI 10.1200/JCO.1997.15.6.2345
+   GIULIANO AE, 1994, ANN SURG, V220, P391, DOI 10.1097/00000658-199409000-00015
+   Guenther JM, 1997, CANCER J SCI AM, V3, P336
+   Hsueh EC, 1998, ONCOLOGIST, V3, P165
+   Krag D, 1998, NEW ENGL J MED, V339, P941, DOI 10.1056/NEJM199810013391401
+   Krag DN, 1998, CURR PROB SURG, V35, P956, DOI 10.1016/S0011-3840(98)80008-7
+   McIntosh SA, 1998, BRIT J SURG, V85, P1347
+   McMasters KM, 1998, NEW ENGL J MED, V339, P990, DOI 10.1056/NEJM199810013391410
+   O'Hea BJ, 1998, J AM COLL SURGEONS, V186, P423, DOI 10.1016/S1072-7515(98)00060-X
+   Torne A, 1997, LANCET, V350, P808, DOI 10.1016/S0140-6736(05)62598-6
+   VERONESI U, 1990, EUR J SURG ONCOL, V16, P127
+   Veronesi U, 1998, EUR J SURG ONCOL, V24, P93, DOI 10.1016/S0748-7983(98)91303-8
+   Veronesi U, 1997, LANCET, V349, P1864, DOI 10.1016/S0140-6736(97)01004-0
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 1
+PU I R O G CANADA, INC
+PI MONTREAL
+PA 4900 COTE ST-LUC, APT#212, MONTREAL, QUEBEC H3W 2H3, CANADA
+SN 0392-2936
+J9 EUR J GYNAECOL ONCOL
+JI Eur. J. Gynaecol. Oncol.
+PY 2003
+VL 24
+IS 5
+BP 387
+EP 390
+PG 4
+WC Oncology; Obstetrics & Gynecology
+SC Oncology; Obstetrics & Gynecology
+GA 732WJ
+UT WOS:000185968300012
+PM 14584652
+DA 2020-12-15
+ER
+
+PT J
+AU PINHEIRO, ME
+   FIREMAN, FAT
+   MADEIRO, AP
+   SERAPIAO, M
+   SCHOR, N
+AF PINHEIRO, ME
+   FIREMAN, FAT
+   MADEIRO, AP
+   SERAPIAO, M
+   SCHOR, N
+TI RENAL EVALUATION OF PATIENTS WITH BANCROFTIAN FILARIASIS TREATED WITH
+   DIETHYLCARBAMAZINE (DEC)
+SO KIDNEY INTERNATIONAL
+LA English
+DT Meeting Abstract
+C1 ESCOLA PAULISTA MED,SAO PAULO,BRAZIL.
+   UFAL,MACEIO,ALAGOAS,BRAZIL.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BLACKWELL SCIENCE INC
+PI CAMBRIDGE
+PA 238 MAIN ST, CAMBRIDGE, MA 02142
+SN 0085-2538
+J9 KIDNEY INT
+JI Kidney Int.
+PD DEC
+PY 1994
+VL 46
+IS 6
+BP 1750
+EP 1750
+PG 1
+WC Urology & Nephrology
+SC Urology & Nephrology
+GA PT272
+UT WOS:A1994PT27200113
+DA 2020-12-15
+ER
+
+EF

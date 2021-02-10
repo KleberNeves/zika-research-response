@@ -1,0 +1,3282 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Silva-Moraes, MH
+   Bispo-Torres, AC
+   Barouh, JL
+   Lucena, PH
+   Armani-Franceschi, G
+   Dorea-Bandeira, I
+   Vieira, F
+   Miranda-Scippa, A
+   Quarantini, LC
+   Lucena, R
+   Bandeira, ID
+AF Silva-Moraes, Marcel Henrique
+   Bispo-Torres, Ana Cecilia
+   Barouh, Judah L.
+   Lucena, Pedro H.
+   Armani-Franceschi, Giulia
+   Dorea-Bandeira, Ingrid
+   Vieira, Flayia
+   Miranda-Scippa, Angela
+   Quarantini, Lucas C.
+   Lucena, Rita
+   Bandeira, Igor D.
+TI Suicidal behavior in individuals with amyotrophic lateral sclerosis: A
+   systematic review
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Review
+DE Suicide; Suicidal behavior; Suicidal ideation; Amyotrophic lateral
+   sclerosis; Motor neuron disease; Wish to die; Depression; Major
+   Depressive Disorder
+ID QUALITY-OF-LIFE; MENTAL-HEALTH; WISH; DIE; DEPRESSION; DEATH; ALS
+AB Background: Amyotrophic Lateral Sclerosis (ALS) leads to a drastic reduction in quality of life, generating intense psychological distress and predisposing those affected to mental illness and, in more severe cases, suicidal behavior.
+   Objective: This is a systematic review aiming to estimate the frequency of wish to die, suicide ideation and suicide in individuals with ALS using the Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols (PRISMA-P).
+   Methods: The following databases were used: Pubmed/MEDLINE, PsycINFO, Embase, SciELO, Biblioteca Virtual de Saude (BVS), and Cochrane Library. The choice of appropriate descriptors, or their equivalents, to define the search terms was based on the technical and scientific vocabulary of each database.
+   Results: 13 articles were included in the present systematic review, of which three were cross-sectional studies, nine were cohort-type and there was one case-control study. The studies show that individuals with ALS have a higher risk of suicide in relation to the general population, and there is evidence that this risk is even higher in the early stages of the disease. Major Depressive Disorder was the most prevalent mental disorder in the studies included. This mental health concern is often undertreated, leading to the increased susceptibility of this population to suicide.
+   Limitations: In general, the study samples represent a highly heterogeneous population while many instruments used in the data collection were not uniform.
+   Conclusions: The high degree of psychological vulnerability of this population, associated with a greater predisposition to suicidal behavior, should be minimized through public health measures.
+C1 [Silva-Moraes, Marcel Henrique; Bispo-Torres, Ana Cecilia; Barouh, Judah L.; Armani-Franceschi, Giulia] Univ Fed Bahia, Fac Med Bahia, Salvador, BA, Brazil.
+   [Barouh, Judah L.] Harvard Univ, Neuromodulat Ctr, Spaulding Rehabil Hosp, Harvard Med Sch, Boston, MA 02115 USA.
+   [Lucena, Pedro H.] Escola Bahiana Med & Saude Publ, Salvador, BA, Brazil.
+   [Dorea-Bandeira, Ingrid] Fac Tecnol & Ciencias, Salvador, BA, Brazil.
+   [Miranda-Scippa, Angela; Quarantini, Lucas C.; Lucena, Rita] Univ Fed Bahia, Dept Neurociencias & Saude Mental, Fac Med Bahia, Salvador, BA, Brazil.
+   [Dorea-Bandeira, Ingrid; Vieira, Flayia; Quarantini, Lucas C.; Bandeira, Igor D.] Univ Fed Bahia, Lab Neuropsicofarmacol, Serv Psiquiatria, Hosp Univ Prof Edgard Santos, Salvador, BA, Brazil.
+   [Vieira, Flayia; Bandeira, Igor D.] Univ Fed Bahia, Programa Posgrad Med & Saude, Fac Med Bahia, Praca XV Novembro,S-N Largo do Terreiro de Jesus, Salvador, BA, Brazil.
+RP Bandeira, ID (corresponding author), Univ Fed Bahia, Lab Neuropsicofarmacol, Serv Psiquiatria, Hosp Univ Prof Edgard Santos, Salvador, BA, Brazil.; Bandeira, ID (corresponding author), Univ Fed Bahia, Programa Posgrad Med & Saude, Fac Med Bahia, Praca XV Novembro,S-N Largo do Terreiro de Jesus, Salvador, BA, Brazil.
+EM igorbandeira@gmail.com
+RI Barouh, Judah Leao/AAK-7070-2020; Lucena, Rita/L-9842-2013; Bandeira,
+   Igor Dorea/J-8835-2015
+OI Barouh, Judah Leao/0000-0002-5309-1175; Lucena,
+   Rita/0000-0002-6190-9168; Bandeira, Igor Dorea/0000-0002-6714-2658;
+   Vieira, Flavia/0000-0001-5987-2450
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil
+   (CAPES)CAPES [001]
+FX This study was financed in part by the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior - Brasil (CAPES) - Finance Code 001.
+CR Albert SM, 2005, NEUROLOGY, V65, P68, DOI 10.1212/01.wnl.0000168161.54833.bb
+   Averill AJ, 2007, AMYOTROPH LATERAL SC, V8, P243, DOI 10.1080/17482960701374643
+   Bandeira Igor D, 2020, CNS Spectr, P1, DOI 10.1017/S1092852919001810
+   Bandeira ID, 2018, INT J MED EDUC, V9, P170, DOI 10.5116/ijme.5b1b.b0a2
+   Bandeira ID, 2016, J CHILD NEUROL, V31, P918, DOI 10.1177/0883073816630083
+   Barreto TM, 2020, DEV MED CHILD NEUROL, V62, P163, DOI 10.1111/dmcn.14321
+   Barretto TL, 2019, CLIN NEUROL NEUROSUR, V182, P123, DOI 10.1016/j.clineuro.2019.05.009
+   Bremer BA, 2004, ANN BEHAV MED, V28, P119, DOI 10.1207/s15324796abm2802_7
+   Chaddha A, 2016, AM J MED, V129, P1145, DOI 10.1016/j.amjmed.2016.05.018
+   Correia-Melo FS, 2020, J AFFECT DISORDERS, V264, P527, DOI 10.1016/j.jad.2019.11.086
+   Correia-Melo FS, 2018, MEDICINE, V97, DOI 10.1097/MD.0000000000012414
+   Coughlin S.S., 2013, J DEPRESS ANXIETY, V9, P12443, DOI DOI 10.4172/2167-1044.S9-001
+   Crawford MJ, 2002, INT REV PSYCHIATR, V14, P6, DOI 10.1080/09540260120114005
+   Delfino R.S., 2020, CURR BEHAV NEUROSCI, DOI [10.1007/s40473-020-00201-w, DOI 10.1007/S40473-020-00201-W]
+   Eliasen A, 2018, J NEUROL, V265, P1303, DOI 10.1007/s00415-018-8837-4
+   Fang F, 2008, BRAIN, V131, P2729, DOI 10.1093/brain/awn161
+   Ganzini L, 1999, NEUROLOGY, V52, P1434, DOI 10.1212/WNL.52.7.1434
+   Gil J, 2008, EUR J NEUROL, V15, P1245, DOI 10.1111/j.1468-1331.2008.02307.x
+   Gourie-Devi M, 2017, NEUROL INDIA, V65, P46, DOI 10.4103/0028-3886.198177
+   Hawton K, 2013, J AFFECT DISORDERS, V147, P17, DOI 10.1016/j.jad.2013.01.004
+   Kessler RC, 2009, EPIDEMIOL PSICHIAT S, V18, P23, DOI 10.1017/S1121189X00001421
+   Leal GC, 2020, EUR ARCH PSY CLIN N, DOI 10.1007/s00406-020-01110-5
+   Lewis DS, 2014, J NEUROSCI NURS, V46, P241, DOI 10.1097/JNN.0000000000000062
+   Linden E, 2013, ARQ NEURO-PSIQUIAT, V71, P959, DOI 10.1590/0004-282X20130177
+   Maessen M, 2009, NEUROLOGY, V73, P954, DOI 10.1212/WNL.0b013e3181b87983
+   Manzur AY, 2009, J NEUROL NEUROSUR PS, V80, P706, DOI 10.1136/jnnp.2008.158329
+   Meier SL, 2010, BRAIN, V133, P3444, DOI 10.1093/brain/awq254
+   Moher D, 2016, REV ESP NUTR HUM DIE, V20, P148, DOI [10.1186/2046-4053-4-1, 10.14306/renhyd.20.2.223]
+   Palmieri A, 2010, NEUROL SCI, V31, P735, DOI 10.1007/s10072-010-0332-3
+   Rabkin J, 2016, NEUROLOGY, V87, P1320, DOI 10.1212/WNL.0000000000003035
+   Rabkin JG, 2015, AMYOTROPH LAT SCL FR, V16, P265, DOI 10.3109/21678421.2014.980428
+   Rios Debora Medeiros, 2018, Child Neurol Open, V5, p2329048X18798255, DOI 10.1177/2329048X18798255
+   Stephens HE, 2016, AMYOTROPH LAT SCL FR, V17, P206, DOI 10.3109/21678421.2015.1131832
+   Studart P, 2016, PSYCHIAT RES, V246, P796, DOI 10.1016/j.psychres.2016.10.045
+   Stutzki R, 2012, FRONT PSYCHOL, V3, DOI 10.3389/fpsyg.2012.00443
+   Tsai CP, 2013, J EPIDEMIOL, V23, P424, DOI 10.2188/jea.JE20130045
+   Verschueren A, 2019, AMYOTROPH LAT SCL FR, V20, P68, DOI 10.1080/21678421.2018.1530265
+   von Elm E, 2007, BMJ-BRIT MED J, V335, P806
+   Wijesekera LC, 2009, ORPHANET J RARE DIS, V4, DOI 10.1186/1750-1172-4-3
+   Zhang YC, 2019, NEUROIMAGE-CLIN, V21, DOI 10.1016/j.nicl.2018.101619
+NR 40
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD DEC 1
+PY 2020
+VL 277
+BP 688
+EP 696
+DI 10.1016/j.jad.2020.08.066
+PG 9
+WC Clinical Neurology; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA OA0DM
+UT WOS:000577467600017
+PM 32911219
+DA 2020-12-15
+ER
+
+PT J
+AU Carvalho, A
+   Sales, HF
+   Ventura, P
+   Gnoatto-Medeiros, M
+   Brites, C
+   Lucena, R
+AF Carvalho, Alessandra
+   Sales, Henrique F.
+   Ventura, Paloma
+   Gnoatto-Medeiros, Marina
+   Brites, Carlos
+   Lucena, Rita
+TI The neurodevelopmental spectrum of congenital Zika infection: a scoping
+   review
+SO DEVELOPMENTAL MEDICINE AND CHILD NEUROLOGY
+LA English
+DT Review
+ID VIRUS-INFECTION; CHILDREN; BORN
+AB Aim To describe the standardized neurodevelopmental outcomes after the first year of life in children with congenital Zika syndrome (CZS) and those exposed to Zika virus (ZIKV) during fetal life, but without microcephaly at birth. Method This scoping review included observational studies about the standardized neurodevelopmental outcome in children with CZS or exposed to ZIKV, but without microcephaly, assessed after 12 months of age. The databases searched were MEDLINE/Pubmed, LILACS, Scielo, Scopus, PsycINFO, CINAHL, and Embase. Risk of bias was assessed with the Joanna Briggs Institute Critical Appraisal Checklists. Results Seventeen papers were included: 12 focused on children with CZS, four on children born without microcephaly, and one described both. Only one of the studies about CZS reported a child with microcephaly and typical development; the remainder described a severe pattern of global developmental delay and cerebral palsy. The prevalence of epilepsy was 74.6%. In the reports about children born without microcephaly, 6.9% to 8.7% had some domain with a score below -2 SD, and three children developed autism spectrum disorder. Interpretation CZS is associated with severe global developmental delay and cerebral palsy after 1 year of age. In children born without microcephaly, although most have typical development, some may be at risk for impairments.
+C1 [Carvalho, Alessandra; Ventura, Paloma] SARAH Network Rehabil Hosp, Salvador, BA, Brazil.
+   [Carvalho, Alessandra; Brites, Carlos; Lucena, Rita] Univ Fed Bahia, Bahia Med Sch, Post Grad Program Med & Hlth, Salvador, BA, Brazil.
+   [Sales, Henrique F.] Univ Fed Bahia, Bahia Med Sch, Salvador, BA, Brazil.
+   [Gnoatto-Medeiros, Marina] Bahiana Sch Med & Publ Hlth, Salvador, BA, Brazil.
+RP Carvalho, A (corresponding author), SARAH Salvador Hosp, 2782 Tancredo Neves Ave, BR-41820900 Salvador, BA, Brazil.
+EM 13110@sarah.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Ventura, Paloma A./0000-0002-7487-2958
+FU Coordination for the Improvement of Higher Education Personnel (CAPES),
+   BrazilCAPES
+FX We thank Marilene da ConceicAo Felix da Silva for her contributions to
+   the literature search. We also thank the Coordination for the
+   Improvement of Higher Education Personnel (CAPES), Brazil, for
+   supporting the Post Graduation Program in Medicine and Health, Bahia
+   Medical School, Federal University of Bahia, Salvador, Bahia, Brazil.
+   This institution had no role in the study design, data collection and
+   analysis, decision to publish, or preparation of this manuscript. This
+   research did not receive any specific grant from funding agencies in the
+   public, commercial, or not-for-profit sectors. The authors have stated
+   that they had no interests that might be perceived as posing conflict or
+   bias.
+CR Alves LV, 2018, BMJ OPEN, V8, DOI 10.1136/bmjopen-2017-021304
+   Besnard M, 2017, EMERG INFECT DIS, V23, P1421, DOI 10.3201/eid2308.170198
+   Carvalho A, 2019, BRAIN DEV-JPN, V41, P587, DOI 10.1016/j.braindev.2019.03.005
+   Ferreira HNC, 2018, INT J ENV RES PUB HE, V15, DOI 10.3390/ijerph15061107
+   de Carvalho AL, 2018, EMERG INFECT DIS, V24, P2128, DOI 10.3201/eid2411.180883
+   Vianna RAD, 2019, J TROP PEDIATRICS, V65, P592, DOI 10.1093/tropej/fmz019
+   Faical Adriana Virginia, 2019, BMJ Paediatr Open, V3, pe000486, DOI 10.1136/bmjpo-2019-000486
+   FRANCA TLB, 2018, INT J ENV RES PUB HE, V15, pE1990
+   Lima Danielly Laís Pereira, 2019, Fisioter. Pesqui., V26, P145, DOI 10.1590/1809-2950/18001626022019
+   Marques FJP, 2019, J CHILD NEUROL, V34, P81, DOI 10.1177/0883073818811234
+   Melo A, 2020, DEV MED CHILD NEUROL, V62, P221, DOI 10.1111/dmcn.14227
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   Nielsen-Saines K, 2019, NAT MED, V25, P1213, DOI 10.1038/s41591-019-0496-1
+   Rice ME, 2018, MMWR-MORBID MORTAL W, V67, P858, DOI 10.15585/mmwr.mm6731e1
+   Satterfield-Nash A, 2017, MMWR-MORBID MORTAL W, V66, P1347, DOI 10.15585/mmwr.mm6649a2
+   Soares-Marangoni DD, 2019, DEV NEUROREHABIL, V22, P71, DOI 10.1080/17518423.2018.1437843
+   Subissi L, 2018, EMERG INFECT DIS, V24, P1850, DOI 10.3201/eid2410.172079
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   Ventura PA, 2020, J DEV BEHAV PEDIATR, V41, P134, DOI 10.1097/DBP.0000000000000722
+   Wheeler AC, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0201495
+NR 20
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-1622
+EI 1469-8749
+J9 DEV MED CHILD NEUROL
+JI Dev. Med. Child Neurol.
+PD DEC
+PY 2020
+VL 62
+IS 12
+BP 1356
+EP 1362
+DI 10.1111/dmcn.14675
+EA SEP 2020
+PG 7
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA OK6PQ
+UT WOS:000569156800001
+PM 32931050
+DA 2020-12-15
+ER
+
+PT J
+AU Sales, HF
+   Cerqueira, C
+   Vaz, D
+   Medeiros-Rios, D
+   Armani-Franceschi, G
+   Lucena, PH
+   Sternberg, C
+   Nobrega, AC
+   Luz, C
+   Fonseca, D
+   Carvalho, AL
+   Monteiro, L
+   Siqueira, IC
+   Bandeira, ID
+   Lucena, R
+AF Sales, Henrique F.
+   Cerqueira, Caroline
+   Vaz, Daniel
+   Medeiros-Rios, Debora
+   Armani-Franceschi, Giulia
+   Lucena, Pedro H.
+   Sternberg, Carla
+   Nobrega, Ana C.
+   Luz, Cleber
+   Fonseca, Danilo
+   Carvalho, Alessandra L.
+   Monteiro, Larissa
+   Siqueira, Isadora C.
+   Bandeira, Igor D.
+   Lucena, Rita
+TI The impact of botulinum toxin type A in the treatment of drooling in
+   children with cerebral palsy secondary to Congenital Zika Syndrome: an
+   observational study
+SO NEUROLOGICAL RESEARCH
+LA English
+DT Article; Early Access
+DE Cerebral palsy; Congenital Zika Syndrome; drooling; botulinum toxin type
+   A; Doppler ultrasonography
+ID SIALORRHEA; INJECTIONS; BRAZIL
+AB Objective The main aim of this study was to determine the impact of botulinum toxin A (BTX-A) on severity and frequency of drooling in children with Cerebral Palsy (CP) secondary to Congenital Zika Syndrome (CZS). Methods This is a prospective longitudinal observational study including 23 children who received bilateral injections of BTX in the parotid and submandibular glands. The Thomas-Stonell & Greenberg Drooling Severity and Frequency Scale was applied by a multidisciplinary team including Speech, Language and Hearing professionals. The Global Impression of Improvement (GII) Scale was also applied to assess parents' subjective perceptions of therapeutic response. Swallowing was assessed using Doppler ultrasonography. Univariate logistic regression was used to analyse differences between responders and non-responders. Results Participant age varied from 27 to 38 months (mean 31.78, SD = 2.61) all presented with Gross Motor Function Classification System (GMFCS) V. Drooling Severity and Frequency Scale scores ranged from 7 to 9 points (median = 9) prior to BTX administration and from 4 to 6 (median = 6) after. Pre- and post-treatment reduction in drooling severity occurred (Z = -3.746; p < 0.001). No cases of drooling worsening were reported. Only two subjects presented adverse effects attributed to BTX administration. Correlation was only confirmed with GII. Discussion This article presents the safe and positive impact of BTX-A administration guided by anatomical references described in the literature, even on children with microcephaly. Further studies are needed to facilitate the use of Doppler ultrasonography as a tool to characterize changes in sensory processing and motor response following intraoral input in children with CP.
+C1 [Sales, Henrique F.; Armani-Franceschi, Giulia] Univ Fed Bahia, Fac Med Bahia, Salvador, BA, Brazil.
+   [Cerqueira, Caroline; Vaz, Daniel] Univ Fed Bahia, Hosp Univ Prof Edgard Santos, Salvador, BA, Brazil.
+   [Medeiros-Rios, Debora; Carvalho, Alessandra L.; Bandeira, Igor D.] Univ Fed Bahia, Fac Med Bahia, Programa Posgrad Med & Saude, Salvador, BA, Brazil.
+   [Lucena, Pedro H.] Escola Bahiana Med & Saude Publ, Salvador, BA, Brazil.
+   [Sternberg, Carla; Nobrega, Ana C.; Luz, Cleber; Fonseca, Danilo] Univ Fed Bahia, Inst Ciencias Saude, Salvador, BA, Brazil.
+   [Monteiro, Larissa] Univ Fed Bahia, Fac Med Bahia, Dept Pediat, Salvador, BA, Brazil.
+   [Siqueira, Isadora C.] Fundacao Oswaldo Cruz, Inst Goncalo Muniz, Salvador, BA, Brazil.
+   [Bandeira, Igor D.] Univ Fed Bahia, Hosp Univ Prof Edgard Santos, Serv Psiquiatria, Lab Neuropsicofarmacol, Salvador, BA, Brazil.
+   [Lucena, Rita] Univ Fed Bahia, Fac Med Bahia, Dept Neurociencias & Saude Mental, Salvador, BA, Brazil.
+RP Lucena, R (corresponding author), Univ Fed Bahia, BR-40110100 Salvador, BA, Brazil.
+EM rcslucena@yahoo.com.br
+RI de Siqueira, Isadora Cristina/R-9953-2016; Nobrega, Ana
+   Caline/ABC-5608-2020; Lucena, Rita/L-9842-2013; Bandeira, Igor
+   Dorea/J-8835-2015
+OI de Siqueira, Isadora Cristina/0000-0002-2520-4099; Nobrega, Ana
+   Caline/0000-0002-6509-8702; Lucena, Rita/0000-0002-6190-9168; Bandeira,
+   Igor Dorea/0000-0002-6714-2658; Reis, AlessanRSS/0000-0001-8486-7469
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil
+   (CAPES)CAPES [001]
+FX This study was financed in part by the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior - Brasil (CAPES) - Finance Code 001.
+CR Alrefai AH, 2009, CLIN NEUROL NEUROSUR, V111, P79, DOI 10.1016/j.clineuro.2008.09.001
+   Bandeira ID, 2018, INT J MED EDUC, V9, P170, DOI 10.5116/ijme.5b1b.b0a2
+   Bandeira ID, 2017, MUSCLE NERVE, V56, pE10, DOI 10.1002/mus.25610
+   Barreto TM, 2020, DEV MED CHILD NEUROL, V62, P163, DOI 10.1111/dmcn.14321
+   Bothwell JE, 2002, PEDIATR NEUROL, V27, P18, DOI 10.1016/S0887-8994(02)00381-8
+   Cagliari Cibele Fontoura, 2009, Braz. j. otorhinolaryngol., V75, P706, DOI 10.1590/S1808-86942009000500016
+   Lagos HNC, 2013, INT ARCH OTORHINOLAR, V17, P383, DOI 10.1055/s-0033-1353369
+   Dohar JE, 2019, INT J PEDIATR OTORHI, V116, P97, DOI 10.1016/j.ijporl.2018.10.035
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Gonzalez-Luis MD, 2017, AM J PHYS MED REHAB, V96, P68, DOI 10.1097/PHM.0000000000000525
+   Gubbay A, 2019, INT J PEDIATR OTORHI, V124, P124, DOI 10.1016/j.ijporl.2019.05.044
+   Jackson CE, 2009, MUSCLE NERVE, V39, P137, DOI 10.1002/mus.21213
+   Lim ECH, 2010, NAT REV NEUROL, V6, P624, DOI 10.1038/nrneurol.2010.149
+   Ondo WG, 2004, NEUROLOGY, V62, P37, DOI 10.1212/01.WNL.0000101713.81253.4C
+   Porte M, 2014, EUR J PAEDIATR NEURO, V18, P649, DOI 10.1016/j.ejpn.2014.05.007
+   Lyra PPR, 2016, AJP REP, V6, pE299, DOI 10.1055/s-0036-1587323
+   Rodwell K, 2012, DEV MED CHILD NEUROL, V54, P977, DOI 10.1111/j.1469-8749.2012.04370.x
+   Scofano Dias BL, 2016, J PEDIAT RIO J, DOI [10.1016/j.jpedp.2016.06.002, DOI 10.1016/J.JPEDP.2016.06.002]
+   Senner JE, 2004, DEV MED CHILD NEUROL, V46, P801, DOI 10.1017/S0012162204001409
+   Thomas-Stonell N, 1988, Dysphagia, V3, P73, DOI 10.1007/BF02412423
+   van Hulst K, 2017, DEV MED CHILD NEUROL, V59, P531, DOI 10.1111/dmcn.13333
+NR 21
+TC 0
+Z9 0
+U1 4
+U2 4
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0161-6412
+EI 1743-1328
+J9 NEUROL RES
+JI Neurol. Res.
+DI 10.1080/01616412.2020.1820698
+EA SEP 2020
+PG 7
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA NN7AE
+UT WOS:000568935800001
+PM 32915712
+DA 2020-12-15
+ER
+
+PT J
+AU Faical, AVB
+   de Oliveira, JMGC
+   Andrade, NC
+   Lucena, R
+   Acosta, AX
+   de Siqueira, IC
+AF Barros Faical, Adriana Virginia
+   Gomes Cabral de Oliveira, Juliana Menezes
+   Andrade, Nara C.
+   Lucena, Rita
+   Acosta, Angelina Xavier
+   de Siqueira, Isadora Cristina
+TI Socioemotional Status of Children With Uterine Exposure to the Zika
+   Virus
+SO PEDIATRIC NEUROLOGY
+LA English
+DT Letter
+DE Congenital Zika Infection; Neurodevelopment; Socioemotional status; Zika
+   virus
+C1 [Barros Faical, Adriana Virginia] Univ Fed Bahia, Inst Ciencias Saude, Salvador, BA, Brazil.
+   [Gomes Cabral de Oliveira, Juliana Menezes; de Siqueira, Isadora Cristina] Fundacao Oswaldo Cruz Fiocruz, Inst Goncalo Moniz, Salvador, BA, Brazil.
+   [Andrade, Nara C.] Univ Catolica Salvador, Dept Psicol, Salvador, BA, Brazil.
+   [Lucena, Rita; Acosta, Angelina Xavier] Univ Fed Bahia, Fac Med Bahia, Salvador, BA, Brazil.
+RP de Siqueira, IC (corresponding author), Fundacao Oswaldo Cruz, Inst Goncalo Moniz, R Waldemar Falcao 121, BR-40296710 Salvador, BA, Brazil.
+EM isadora.siqueira@fiocruz.br
+RI Lucena, Rita/L-9842-2013; de Siqueira, Isadora Cristina/R-9953-2016
+OI Lucena, Rita/0000-0002-6190-9168; de Siqueira, Isadora
+   Cristina/0000-0002-2520-4099
+FU National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [443875/2018-9, PPSUS/BA-FAPESB003/2017/SESAB/CNPq/MS
+   (5125/2017)]
+FX National Council for Scientific and Technological Development (CNPq)
+   (443875/2018-9) and PPSUS/BA-FAPESB003/2017/SESAB/CNPq/MS (5125/2017).
+CR Moreira MEL, 2018, NEW ENGL J MED, V379, P2377, DOI 10.1056/NEJMc1800098
+   Madaschi Vanessa, 2016, Paidéia (Ribeirão Preto), V26, P189, DOI 10.1590/1982-43272664201606
+   Oliveira JV, 2018, ABSTRACT INT J INFEC, V73, P3
+   Trentacosta CJ, 2007, EMOTION, V7, P77, DOI 10.1037/1528-3542.7.1.77
+   Waldorf KMA, 2018, TRENDS MICROBIOL, V26, P729, DOI 10.1016/j.tim.2018.05.011
+   Weiss LG, BAYLEY ILL CLIN USE
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0887-8994
+EI 1873-5150
+J9 PEDIATR NEUROL
+JI Pediatr. Neurol.
+PD FEB
+PY 2020
+VL 103
+BP 86
+EP 88
+DI 10.1016/j.pediatrneurol.2019.07.020
+PG 3
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA KI3GT
+UT WOS:000511237900016
+PM 31735568
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, PH
+   Armani-Franceschi, G
+   Bispo-Torres, AC
+   Bandeira, ID
+   Lucena, MFG
+   Maldonado, I
+   Veiga, MF
+   Miguel, D
+   Lucena, R
+AF Lucena, Pedro H.
+   Armani-Franceschi, Giulia
+   Bispo-Torres, Ana Cecilia
+   Bandeira, Igor D.
+   Lucena, Mariana F. G.
+   Maldonado, Igor
+   Veiga, Marielza F.
+   Miguel, Diego
+   Lucena, Rita
+TI KPTN gene homozygous variant-related syndrome in the northeast of
+   Brazil: A case report
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+LA English
+DT Article
+DE homozygous variant; intellectual disability; KPTN; macrocephaly
+ID MUTATION; PROTEIN
+AB Alteration of the KPTN gene, responsible for the coding of kaptin (a protein involved in actin cytoskeletal dynamics), causes a syndrome characterized by macrocephaly, neurodevelopmental delay and epileptic seizures. We report the first Brazilian case of KPTN gene variation, previously described in nine subjects from four interlinked families from an Amish community in Ohio, two Estonian siblings and a 9-year-old boy from Kansas City. We report a case of KPTN-related syndrome in a 5-year-old child which presented macrocephaly, muscular hypotonia, and global development delay. The neurological examination revealed below-expected performance in coordination and balance tests, dyspraxia, and hand-mouth synkinesia. Expressive language was characterized by phono-articulatory imprecision, abundance of phonological processes and morphosyntactic immaturity. Neuropsychological assessment revealed intellectual disability with impairment of verbal and executive functions. Exome sequencing was performed. Analysis revealed a homozygous 2-nucleotide duplication c.597_598dup p.(Ser200Ilefs*55) in the KPTN gene, which is predicted to lead to a translational frameshift and formation of a premature stop codon. The phenotypic profile is similar to the cases described in the other families. Presence of macrocephaly and delayed development indicate the possibility of KPTN gene variation. Genetic testing should be carried out at an early stage in order to reach a timely diagnosis.
+C1 [Lucena, Pedro H.; Lucena, Mariana F. G.] Escola Bahiana Med & Saude Publ, Dept Med, Salvador, BA, Brazil.
+   [Armani-Franceschi, Giulia; Bispo-Torres, Ana Cecilia; Bandeira, Igor D.; Lucena, Rita] Univ Fed Bahia, Fac Med Bahia, Dept Neurociencias & Saude Mental, Salvador, BA, Brazil.
+   [Bandeira, Igor D.] Univ Fed Bahia, Fac Med Bahia, Programa Posgrad Med & Saude, Salvador, BA, Brazil.
+   [Maldonado, Igor] Le Studium Loire Valley Inst Adv Studies, Orleans, France.
+   [Maldonado, Igor] Univ Tours, INSERM, iBrain, UMR 1253, Tours, France.
+   [Maldonado, Igor] CHRU Tours, Tours, France.
+   [Veiga, Marielza F.; Miguel, Diego] Univ Fed Bahia, Hosp Univ Prof Edgard Santos, Salvador, BA, Brazil.
+RP Lucena, R (corresponding author), Univ Fed Bahia, Fac Med Bahia, Praca 15 Novembro S-N Largo Terreiro Jesus, Salvador, BA, Brazil.
+EM rcslucena@yahoo.com.br
+RI Maldonado, Igor/B-6806-2015; Bandeira, Igor Dorea/J-8835-2015; Lucena,
+   Rita/L-9842-2013
+OI Maldonado, Igor/0000-0001-6037-0407; Bandeira, Igor
+   Dorea/0000-0002-6714-2658; Lucena, Rita/0000-0002-6190-9168
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior -Brasil
+   (CAPES)CAPES [001]
+FX Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior -Brasil
+   (CAPES), Grant/Award Number: Finance Code 001
+CR Alfei E, 2014, AM J MED GENET A, V164, P3154, DOI 10.1002/ajmg.a.36746
+   Baple EL, 2014, AM J HUM GENET, V94, P87, DOI 10.1016/j.ajhg.2013.10.001
+   Bearer EL, 2000, ANN HUM GENET, V64, P189, DOI 10.1046/j.1469-1809.2000.6430189.x
+   Bearer EL, 1999, EUR J CELL BIOL, V78, P117, DOI 10.1016/S0171-9335(99)80013-2
+   Chen TY, 2003, BIOCHEM BIOPH RES CO, V303, P1114, DOI 10.1016/S0006-291X(03)00482-0
+   Dent EW, 2011, CURR OPIN NEUROBIOL, V21, P175, DOI 10.1016/j.conb.2010.08.013
+   Gonzalez-Mantilla AJ, 2016, JAMA PSYCHIAT, V73, P275, DOI 10.1001/jamapsychiatry.2015.2692
+   Karczewski K.J., 2019, GENOMICS, DOI [10.1101/531210, DOI 10.1101/531210]
+   Kessels MM, 2011, EUR J CELL BIOL, V90, P926, DOI 10.1016/j.ejcb.2010.08.011
+   Lek M, 2016, NATURE, V536, P285, DOI 10.1038/nature19057
+   Niedermeyer E, 1997, CLIN ELECTROENCEPHAL, V28, P36, DOI 10.1177/155005949702800107
+   Pajusalu S, 2015, AM J MED GENET A, V167, P1913, DOI 10.1002/ajmg.a.37105
+   Pedicelli S, 2014, J CLIN ENDOCR METAB, V99, P4455, DOI 10.1210/jc.2014-2702
+   Samanta D, 2015, ACTA NEUROL BELG, V115, P779, DOI 10.1007/s13760-014-0413-9
+   Svitkina T, 2010, J NEUROSCI, V30, P14937, DOI 10.1523/JNEUROSCI.4276-10.2010
+   Thiffault I., 2018, J CASE GENETIC HERED, V1, P102
+NR 16
+TC 2
+Z9 2
+U1 4
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1552-4825
+EI 1552-4833
+J9 AM J MED GENET A
+JI Am. J. Med. Genet. A
+PD APR
+PY 2020
+VL 182
+IS 4
+BP 762
+EP 767
+DI 10.1002/ajmg.a.61492
+EA JAN 2020
+PG 6
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA KS9PG
+UT WOS:000510119500001
+PM 31999056
+DA 2020-12-15
+ER
+
+PT J
+AU Guimaraes, RSQ
+   Bandeira, ID
+   Barretto, BL
+   Barretto, TL
+   Wanke, T
+   Alves, COC
+   Carvalho, CF
+   Lucena, PH
+   Rodrigues-Silva, L
+   Lucena, R
+AF Guimaraes, R. S. Q.
+   Bandeira, I. D.
+   Barretto, B. L.
+   Barretto, T. L.
+   Wanke, T.
+   Alves, C. O. C.
+   Carvalho, C. F.
+   Lucena, P. H.
+   Rodrigues-Silva, L.
+   Lucena, R.
+TI Transcranial-direct current stimulation on attention and inhibitory
+   control of children and adolescents with ADHD: A randomized, crossover,
+   triple-blind, sham-controlled study
+SO EUROPEAN NEUROPSYCHOPHARMACOLOGY
+LA English
+DT Meeting Abstract
+CT 32nd Congress of the European-College-of-Neuropsychopharmacology (ECNP)
+CY SEP 07-10, 2019
+CL Copenhagen, DENMARK
+SP European Coll Neuropsychopharmacol
+C1 [Guimaraes, R. S. Q.; Bandeira, I. D.; Barretto, T. L.; Lucena, R.] Univ Fed Bahia, Dept Neurosci & Mental Hlth, Salvador, BA, Brazil.
+   [Barretto, B. L.] Univ Fed Bahia, Med Sch Bahia, Salvador, BA, Brazil.
+   [Wanke, T.; Alves, C. O. C.; Carvalho, C. F.] Univ Fed Bahia, Inst Psychol, Salvador, BA, Brazil.
+   [Lucena, P. H.] Harvard Univ, Neuromodulat Ctr, Dept Phys Med & Rehabil, Spaulding Rehabil Hosp, Boston, MA 02115 USA.
+   [Rodrigues-Silva, L.] Univ Fed Bahia, Dept Pediat, Salvador, BA, Brazil.
+RI Bandeira, Igor Dorea/J-8835-2015
+OI Bandeira, Igor Dorea/0000-0002-6714-2658
+CR Bandeira ID, 2016, J CHILD NEUROL, V31, P918, DOI 10.1177/0883073816630083
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0924-977X
+EI 1873-7862
+J9 EUR NEUROPSYCHOPHARM
+JI Eur. Neuropsychopharmacol.
+PD DEC
+PY 2019
+VL 29
+SU 6
+MA P.829
+BP S551
+EP S552
+DI 10.1016/j.euroneuro.2019.09.693
+PG 2
+WC Clinical Neurology; Neurosciences; Pharmacology & Pharmacy; Psychiatry
+SC Neurosciences & Neurology; Pharmacology & Pharmacy; Psychiatry
+GA JV9CR
+UT WOS:000502657505010
+DA 2020-12-15
+ER
+
+PT J
+AU Vila-Nova, C
+   Lucena, PH
+   Lucena, R
+   Armani-Franceschi, G
+   Campbell, FQ
+AF Vila-Nova, Camila
+   Lucena, Pedro H.
+   Lucena, Rita
+   Armani-Franceschi, Giulia
+   Campbell, Fernanda Q.
+TI Effect of Anodal tDCS on Articulatory Accuracy, Word Production, and
+   Syllable Repetition in Subjects with Aphasia: A Crossover,
+   Double-Blinded, Sham-Controlled Trial
+SO NEUROLOGY AND THERAPY
+LA English
+DT Article
+DE Aphasia; Broca's area; Language rehabilitation; Speech accuracy; Stroke;
+   Transcranial direct-current stimulation (tDCS)
+ID DIRECT-CURRENT STIMULATION; INFERIOR FRONTAL GYRUS; EARLY
+   REHABILITATION; POSTSTROKE APHASIA; ISCHEMIC-STROKE; BROCAS AREA;
+   LANGUAGE; SPEECH; MODULATION; AGREEMENT
+AB Introduction Transcranial direct-current stimulation (tDCS) has been used to modulate and induce changes in brain function and excitability. tDCS is a promising tool for the treatment of aphasia. Objective To evaluate whether tDCS improves articulatory accuracy and speech production in patients with aphasia after stroke. Methods and Results Twelve right-handed subjects participated in a double-blind, sham-controlled, crossover offline trial. We assessed (1) articulatory accuracy at a naming task, (2) number of words correctly produced, (3) number of syllables repeated correctly, and (4) qualitative assessment of speech. Articulatory accuracy improved when using tDCS over Broca's area in subjects with aphasia post-stroke (p <= 0.05). Qualitative improvement in the naming and syllable repetition tasks was observed, but the difference was not statistically significant (respectively, p = 0.15 and p = 0.79). Conclusion The current results corroborate the potential of tDCS to be used as an alternative and complementary treatment for individuals with aphasia.
+C1 [Vila-Nova, Camila] Kroton, Uniao Metropolitana Educ & Cultura UNIME, Ave Luis Tarquinio Pontes, BR-600 Lauro De Freitas, BA, Brazil.
+   [Vila-Nova, Camila] Univ Estado Bahia, Ave Luis Tarquinio Pontes, BR-600 Lauro De Freitas, BA, Brazil.
+   [Lucena, Pedro H.] Bahiana Sch Med & Publ Hlth, Ave Dom Joao VI 275, Salvador, BA, Brazil.
+   [Lucena, Rita] Univ Fed Bahia, Sch Med Bahia, Ave Luis Viana Filho S-N, Salvador, BA, Brazil.
+   [Armani-Franceschi, Giulia] Univ Fed Bahia, Ave Luis Viana Filho S-N, Salvador, BA, Brazil.
+   [Campbell, Fernanda Q.] Brandeis Univ, Heller Sch Social Policy & Management, 415 South St, Waltham, MA USA.
+RP Vila-Nova, C (corresponding author), Kroton, Uniao Metropolitana Educ & Cultura UNIME, Ave Luis Tarquinio Pontes, BR-600 Lauro De Freitas, BA, Brazil.; Vila-Nova, C (corresponding author), Univ Estado Bahia, Ave Luis Tarquinio Pontes, BR-600 Lauro De Freitas, BA, Brazil.
+EM camivnova@gmail.com
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Lucena, Pedro/0000-0003-1148-7806
+CR Baker JM, 2010, STROKE, V41, P1229, DOI 10.1161/STROKEAHA.109.576785
+   Boggio PS, 2010, EUR J NEUROSCI, V31, P593, DOI 10.1111/j.1460-9568.2010.07080.x
+   Bose A, 2008, BRAIN LANG, V106, P4, DOI 10.1016/j.bandl.2008.03.002
+   Cappa SF, 2005, EUR J NEUROL, V12, P665
+   Cattaneo Z, 2011, NEUROSCIENCE, V183, P64, DOI 10.1016/j.neuroscience.2011.03.058
+   DaSilva AF, 2011, JOVE-J VIS EXP, DOI 10.3791/2744
+   de Aguiar V, 2015, CORTEX, V63, P296, DOI 10.1016/j.cortex.2014.08.015
+   Dhamoon MS, 2012, STROKE, V43, P2180, DOI 10.1161/STROKEAHA.112.658922
+   Elsner B, 2015, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD009760.pub3
+   Engelter ST, 2006, STROKE, V37, P1379, DOI 10.1161/01.STR.0000221815.64093.8c
+   Fadiga L, 2009, ANN NY ACAD SCI, V1169, P448, DOI 10.1111/j.1749-6632.2009.04582.x
+   Fiebach CJ, 2005, HUM BRAIN MAPP, V24, P79, DOI 10.1002/hbm.20070
+   Fiori V, 2013, FRONT HUM NEUROSCI, V7, DOI 10.3389/fnhum.2013.00269
+   Floel A, 2014, NEUROIMAGE, V85, P934, DOI 10.1016/j.neuroimage.2013.05.098
+   Floel A, 2011, STROKE, V42, P2065, DOI 10.1161/STROKEAHA.110.609032
+   Fridriksson J, 2019, BRAIN STIMUL, V12, P190, DOI 10.1016/j.brs.2018.09.016
+   Fridriksson J, 2018, BRAIN STIMUL, V11, P1276, DOI 10.1016/j.brs.2018.08.009
+   Fridriksson J, 2018, JAMA NEUROL, V75, P1470, DOI 10.1001/jamaneurol.2018.2287
+   Fridriksson J, 2011, STROKE, V42, P819, DOI 10.1161/STROKEAHA.110.600288
+   Glize B, 2017, EUR J PHYS REHAB MED, V53, P249, DOI 10.23736/S1973-9087.16.04255-6
+   Gold BT, 2002, NEURON, V35, P803, DOI 10.1016/S0896-6273(02)00800-0
+   Goldstein LB, 2001, STROKE, V32, P1091, DOI 10.1161/01.STR.32.5.1091
+   Goodwin C., 2002, CONVERSATION BRAIN D, P90
+   Hesse S, 2007, RESTOR NEUROL NEUROS, V25, P9
+   Holland R, 2011, CURR BIOL, V21, P1403, DOI 10.1016/j.cub.2011.07.021
+   Iyer MB, 2005, NEUROLOGY, V64, P872, DOI 10.1212/01.WNL.0000152986.07469.E9
+   Jakubovicz R, 2005, TESTE REABILITACAO A
+   Jung IY, 2011, ANN REHABIL MED-ARM, V35, P460, DOI 10.5535/arm.2011.35.4.460
+   Kadosh RC, 2010, CURR BIOL, V20, P2016, DOI 10.1016/j.cub.2010.10.007
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Lee SY, 2013, ANN REHABIL MED-ARM, V37, P603, DOI 10.5535/arm.2013.37.5.603
+   Lesser R, 2003, LINGUISTICS APHASIA
+   LESSER RP, 1984, BRAIN, V107, P275, DOI 10.1093/brain/107.1.275
+   Marangolo P, 2011, BEHAV BRAIN RES, V225, P498, DOI 10.1016/j.bbr.2011.08.008
+   Marangolo P, 2016, J COGNITIVE NEUROSCI, V28, P724, DOI 10.1162/jocn_a_00927
+   Marangolo P, 2013, FRONT HUM NEUROSCI, V7, DOI 10.3389/fnhum.2013.00539
+   Marangolo P, 2013, RESTOR NEUROL NEUROS, V31, P63, DOI 10.3233/RNN-120268
+   Meister IG, 2003, NEUROPSYCHOLOGIA, V41, P401, DOI 10.1016/S0028-3932(02)00179-3
+   Monti A, 2008, J NEUROL NEUROSUR PS, V79, P451, DOI 10.1136/jnnp.2007.135277
+   Nitsche MA, 2003, J PHYSIOL-LONDON, V553, P293, DOI 10.1113/jphysiol.2003.049916
+   Norise C, 2017, FRONT HUM NEUROSCI, V11, DOI 10.3389/fnhum.2017.00260
+   Polanowska KE, 2013, RESTOR NEUROL NEUROS, V31, P761, DOI 10.3233/RNN-130333
+   Polanowska KE, 2013, NEUROL NEUROCHIR POL, V47, P414, DOI 10.5114/ninp.2013.38221
+   Pompeia S, 2003, ARQ NEURO-PSIQUIAT, V61, P916, DOI 10.1590/S0004-282X2003000600005
+   RDC T, 2010, R LANG ENV STAT COMP, V2010
+   Sebastian R, 2016, NEUROREHABILITATION, V39, P141, DOI 10.3233/NRE-161346
+   Shah-Basak PP, 2015, FRONT HUM NEUROSCI, V9, DOI 10.3389/fnhum.2015.00201
+   SNODGRASS JG, 1980, J EXP PSYCHOL-HUM L, V6, P174, DOI 10.1037/0278-7393.6.2.174
+   Thair H, 2017, FRONT NEUROSCI-SWITZ, V11, DOI 10.3389/fnins.2017.00641
+   Vines BW, 2011, FRONT PSYCHOL, V2, DOI 10.3389/fpsyg.2011.00230
+   Winhuisen L, 2007, STROKE, V38, P1286, DOI 10.1161/01.STR.0000259632.04324.6c
+NR 51
+TC 2
+Z9 2
+U1 1
+U2 6
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 2193-8253
+EI 2193-6536
+J9 NEUROL THER
+JI Neurol. Ther.
+PD DEC
+PY 2019
+VL 8
+IS 2
+BP 411
+EP 424
+DI 10.1007/s40120-019-00149-4
+PG 14
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA JN1XF
+UT WOS:000496695000017
+PM 31432434
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU de Carvalho, AL
+   Ventura, P
+   Taguchi, T
+   Brandi, I
+   Brites, C
+   Lucena, R
+AF de Carvalho, Alessandra Lemos
+   Ventura, Paloma
+   Taguchi, Tania
+   Brandi, Ivar
+   Brites, Carlos
+   Lucena, Rita
+TI Cerebral Palsy in Children With Congenital Zika Syndrome: A 2-Year
+   Neurodevelopmental Follow-up
+SO JOURNAL OF CHILD NEUROLOGY
+LA English
+DT Article
+DE Zika virus; congenital Zika; cerebral palsy; neurodevelopment
+ID INFANT NEUROLOGICAL EXAMINATION; AGE
+AB Objective: To describe the 2-year neurodevelopmental outcome in children with cerebral palsy associated with congenital Zika (CZ) and explore variables associated with a more severe presentation. Methods: Data on 69 children with cerebral palsy associated with CZ, followed in a neurorehabilitation hospital, who consecutively attended the neurodevelopmental assessment at 2 years of age, were collected. Bayley III Scales of Infant and Toddler Development, Hammersmith Infant Neurological Examination, and Gross Motor Function Classification System were used for the outcome evaluation. Descriptive and inferential statistical analysis were performed. Results: The median age at follow-up was of 24.0 (23-32) months. Only 3 (4.3%) children were not microcephalic. The majority presented with bilateral (94.2%), spastic (100.0%), Gross Motor Function Classification System grade IV or V (92.8%) cerebral palsy, epilepsy (73.1%), extremely low performances on cognitive (94.2%), language (95.7%), and motor (95.7%) Bayley-III Scales of Infant and Toddler Development Test scores. The median Hammersmith Infant Neurological Examination score was of 21.0 (range 9-75). There was a correlation between birth head circumference with the cognitive (r = 0.3, P < .01), language (r = 0.3, P < .01), and motor (r = 0.3, P < .01) Bayley-III Scales of Infant and Toddler Development Test scores, as well as with the Hammersmith Infant Neurological Examination score (r = 0.2, P < .03). An association was observed between an inferior median Hammersmith Infant Neurological Examination score with congenital microcephaly (P = .04), arthrogryposis (P = .02), and epilepsy in the first year (P < .01). Conclusion: Cerebral palsy related to CZ presents with a severe global impairment at a 2-year follow-up. Birth head circumference, arthrogryposis, and early epilepsy are associated with a worse outcome and may be considered as prognostic markers. These findings are important for the neurorehabilitation planning, parents' guiding, and future prognostic studies.
+C1 [de Carvalho, Alessandra Lemos; Ventura, Paloma; Taguchi, Tania; Brandi, Ivar] SARAH Network Rehabil Hosp, Salvador, BA, Brazil.
+   [Brites, Carlos; Lucena, Rita] Univ Fed Bahia, Salvador, BA, Brazil.
+RP de Carvalho, AL (corresponding author), SARAH Salvador Hosp, Ave Tancredo Neves,2782 Caminho Arvores, BR-41820900 Salvador, BA, Brazil.
+EM 13110@sarah.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168
+CR Alves LV, 2018, BMJ OPEN, V8, DOI 10.1136/bmjopen-2017-021304
+   Botelho Ana Carla Gomes, 2016, Rev. Bras. Saude Mater. Infant., V16, P39, DOI 10.1590/1806-9304201600s100004
+   BRASIL, 2018, B EPIDEMIOLOGICO, V49, P1, DOI DOI 10.1111/are.13485
+   Carvalho AL, 2019, CLIN MICROBIOL INFEC, V25, P524, DOI 10.1016/j.cmi.2018.12.021
+   Carvalho A, 2019, BRAIN DEV-JPN, V41, P587, DOI 10.1016/j.braindev.2019.03.005
+   Ferreira HNC, 2018, INT J ENV RES PUB HE, V15, DOI 10.3390/ijerph15061107
+   de Carvalho AL, 2018, EMERG INFECT DIS, V24, P2128, DOI 10.3201/eid2411.180883
+   Einspieler C, 2019, JAMA NETW OPEN, V2, DOI 10.1001/jamanetworkopen.2018.7235
+   Moreira MEL, 2018, NEW ENGL J MED, V379, P2377, DOI 10.1056/NEJMc1800098
+   Madaschi Vanessa, 2016, Paidéia (Ribeirão Preto), V26, P189, DOI 10.1590/1982-43272664201606
+   Marques FJP, 2019, J CHILD NEUROL, V34, P81, DOI 10.1177/0883073818811234
+   Melo A, 2020, DEV MED CHILD NEUROL, V62, P221, DOI 10.1111/dmcn.14227
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   Novak I, 2017, JAMA PEDIATR, V171, P897, DOI 10.1001/jamapediatrics.2017.1689
+   Palisano R, 1997, DEV MED CHILD NEUROL, V39, P214, DOI 10.1111/j.1469-8749.1997.tb07414.x
+   Pan American Health Organization Organization PAHOWH, 2016, NEUR SYNDR CONG AN Z
+   Pessoa A, 2018, PEDIATRICS, V141, pS167, DOI 10.1542/peds.2017-2038F
+   Rice ME, 2018, MMWR-MORBID MORTAL W, V67, P858, DOI 10.15585/mmwr.mm6731e1
+   Romeo DM, 2016, DEV MED CHILD NEUROL, V58, P240, DOI 10.1111/dmcn.12876
+   Romeo DMM, 2008, EUR J PAEDIATR NEURO, V12, P24, DOI 10.1016/j.ejpn.2007.05.006
+   Rosenbaum P, 2007, DEV MED CHILD NEUROL, V49, P8, DOI 10.1111/j.1469-8749.2007.tb12610.x
+   Satterfield-Nash A, 2017, MMWR-MORBID MORTAL W, V66, P1347, DOI 10.15585/mmwr.mm6649a2
+   Soares-Marangoni D, 2018, DEV NEUROREHABIL, V16, P1
+   Villar J, 2014, LANCET, V384, P857, DOI 10.1016/S0140-6736(14)60932-6
+   World Health Organization, 2017, ZIK VIR MICR GUILL B
+NR 25
+TC 4
+Z9 4
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0883-0738
+EI 1708-8283
+J9 J CHILD NEUROL
+JI J. Child Neurol.
+PD MAR
+PY 2020
+VL 35
+IS 3
+BP 202
+EP 207
+AR 0883073819885724
+DI 10.1177/0883073819885724
+EA NOV 2019
+PG 6
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA KF9TL
+UT WOS:000497623200001
+PM 31718421
+DA 2020-12-15
+ER
+
+PT J
+AU Barreto, TM
+   Bento, MN
+   Barreto, TM
+   Jagersbacher, JG
+   Jones, NS
+   Lucena, R
+   Bandeira, ID
+AF Barreto, Tainara M.
+   Bento, Mayara N.
+   Barreto, Tamiris M.
+   Jagersbacher, Joao Gabriel
+   Jones, Nathalia S.
+   Lucena, Rita
+   Bandeira, Igor D.
+TI Prevalence of depression, anxiety, and substance-related disorders in
+   parents of children with cerebral palsy: a systematic review
+SO DEVELOPMENTAL MEDICINE AND CHILD NEUROLOGY
+LA English
+DT Review
+ID QUALITY-OF-LIFE; MENTAL-HEALTH; MOTHERS; STRESS; INTERVENTION; BURDEN;
+   FAMILY; CALL
+AB Aim To estimate the prevalence of mental illness in parents of children with cerebral palsy (CP). Method This is a systematic review that follows the Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols in the search for observational studies determining the prevalence of depression, anxiety, and substance abuse in parents of individuals with CP. The information sources used for this study were: PubMed, SciELO, Cochrane Library, Clinical Trials, and Biblioteca Virtual de Saude. Results Fourteen articles were selected and included, investigating 1264 mothers and 105 fathers of children with CP. Data extracted for analysis were divided into three categories: study data, data about participants with CP, and data about parents. All studies included volunteer parents, of whom 95 per cent were female. Interpretation CP is related to a higher prevalence of symptoms of depression and anxiety in parents. Factors such as a child's degree of functionality and socioeconomic level may influence the frequency of mental disorders in parents. However, these studies have heterogeneous samples and applied different criteria to characterize their populations. What this paper adds
+   Depression and anxiety are more prevalent for parents of children with cerebral palsy (CP) than parents of typically developing children. The child's illness severity is a risk factor for mental illness in parents of children with CP. The more time spent on child care, the higher the risk of mental illness among mothers of children with CP. There is a lack of reliable data in the literature on substance abuse in parents of children with CP.
+C1 [Barreto, Tainara M.; Bento, Mayara N.; Barreto, Tamiris M.; Jagersbacher, Joao Gabriel; Jones, Nathalia S.; Lucena, Rita; Bandeira, Igor D.] Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Praca 15 Novembro S-N, BR-40025010 Salvador, BA, Brazil.
+   [Bandeira, Igor D.] Univ Fed Bahia, Med Sch Bahia, Postgrad Program Med & Hlth, Salvador, BA, Brazil.
+RP Bandeira, ID (corresponding author), Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Praca 15 Novembro S-N, BR-40025010 Salvador, BA, Brazil.
+EM igordbandeira@gmail.com
+RI Bandeira, Igor Dorea/J-8835-2015; Lucena, Rita/L-9842-2013
+OI Bandeira, Igor Dorea/0000-0002-6714-2658; Lucena,
+   Rita/0000-0002-6190-9168
+CR Al-Gamal E, 2013, SCAND J CARING SCI, V27, P624, DOI 10.1111/j.1471-6712.2012.01071.x
+   Albert PR, 2015, J PSYCHIATR NEUROSCI, V40, P219, DOI 10.1503/jpn.150205
+   Bandeira ID, 2018, INT J MED EDUC, V9, P170, DOI 10.5116/ijme.5b1b.b0a2
+   Bandeira ID, 2016, J CHILD NEUROL, V31, P918, DOI 10.1177/0883073816630083
+   Barretto TL, 2019, CLIN NEUROL NEUROSUR, V182, P123, DOI 10.1016/j.clineuro.2019.05.009
+   Bharadwaj P, 2017, ECON LETT, V159, P57, DOI 10.1016/j.econlet.2017.06.028
+   Cans C, 2000, DEV MED CHILD NEUROL, V42, P816, DOI 10.1111/j.1469-8749.2000.tb00695.x
+   Colver A, 2014, LANCET, V383, P1240, DOI 10.1016/S0140-6736(13)61835-8
+   Dalgalarrondo P, 2008, PSICOPATOLOGIA SEMIO
+   DeSocio J, 2015, J CHILD ADOL PS NURS, V28, P70, DOI 10.1111/jcap.12106
+   Dirks T, 2011, DEV MED CHILD NEUROL, V53, P62, DOI 10.1111/j.1469-8749.2011.04067.x
+   Finch-Edmondson M, 2019, FRONT PHYSIOL, V10, DOI 10.3389/fphys.2019.00015
+   Fleming MK, 2018, J NEUROENG REHABIL, V15, DOI 10.1186/s12984-018-0476-6
+   Freitas P. M., 2014, ESTUDOS PESQUISAS PS, V14, P453
+   Freitas PMd, 2005, ARQ BRAS PSICOL, V57, P46
+   Guillamon N, 2013, J CLIN NURS, V22, P1579, DOI 10.1111/jocn.12124
+   Ketelaar M, 2008, CHILD CARE HLTH DEV, V34, P825, DOI 10.1111/j.1365-2214.2008.00876.x
+   Krstic T, 2015, RES DEV DISABIL, V47, P135, DOI 10.1016/j.ridd.2015.09.009
+   Liu JM, 1999, INT J EPIDEMIOL, V28, P949, DOI 10.1093/ije/28.5.949
+   Mehmedinovic Senad, 2012, Acta Med Iran, V50, P819
+   Moher D, 2015, SYST REV, V4, DOI 10.1186/s13643-015-0087-2
+   Murray CJL, 1997, LANCET, V349, P1498, DOI 10.1016/S0140-6736(96)07492-2
+   Pereira LM, 2014, INTERACAO PSICOLOGIA, V18, P37
+   Rios DM, 2018, CHILD NEUROL OPEN, V5
+   Rosenbaum P, 2006, DEV MED CHILD NEUROL, V48, P4, DOI 10.1017/S001216226000028
+   Rosenbaum P, 2011, DEV MED CHILD NEUROL, V53, P68, DOI 10.1111/j.1469-8749.2011.04068.x
+   Sajedi Firoozeh, 2010, Acta Med Iran, V48, P250
+   Saleem GT, 2019, ARCH PHYS MED REHAB, V100, P724, DOI 10.1016/j.apmr.2018.10.011
+   Sawyer MG, 2011, DEV MED CHILD NEUROL, V53, P338, DOI 10.1111/j.1469-8749.2010.03848.x
+   Sun JM, 2017, STEM CELL TRANSL MED, V6, P2071, DOI 10.1002/sctm.17-0102
+   Tekinarslan IC, 2013, PSYCHOL REP, V112, P266, DOI 10.2466/21.02.15.PR0.112.1.266-287
+   vonsElm E, 2007, BMJ-BRIT MED J, V335, P806
+   Wayte S, 2012, ACTA PAEDIATR, V101, P618, DOI 10.1111/j.1651-2227.2012.02603.x
+   Whittingham K, 2013, CHILD CARE HLTH DEV, V39, P366, DOI 10.1111/j.1365-2214.2012.01396.x
+   Yilmaz H, 2013, EUR J PHYS REHAB MED, V49, P823
+NR 35
+TC 4
+Z9 4
+U1 1
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-1622
+EI 1469-8749
+J9 DEV MED CHILD NEUROL
+JI Dev. Med. Child Neurol.
+PD FEB
+PY 2020
+VL 62
+IS 2
+BP 163
+EP +
+DI 10.1111/dmcn.14321
+EA AUG 2019
+PG 7
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA KB3TH
+UT WOS:000478850100001
+PM 31381150
+DA 2020-12-15
+ER
+
+PT J
+AU Carvalho, A
+   Brites, C
+   Mochida, G
+   Ventura, P
+   Fernandes, A
+   Lage, ML
+   Taguchi, T
+   Brandi, I
+   Silva, A
+   Franceschi, G
+   Lucena, P
+   Lucena, R
+AF Carvalho, Alessandra
+   Brites, Carlos
+   Mochida, Ganeshwaran
+   Ventura, Paloma
+   Fernandes, Adriana
+   Lage, Maria Lucia
+   Taguchi, Thnia
+   Brandi, Ivar
+   Silva, Alfredo
+   Franceschi, Giulia
+   Lucena, Pedro
+   Lucena, Rita
+TI Clinical and neurodevelopmental features in children with cerebral palsy
+   and probable congenital Zika
+SO BRAIN & DEVELOPMENT
+LA English
+DT Article
+DE Zika virus; Cerebral palsy; Neurodevelopment
+ID VIRUS-INFECTION; INFANTS; BRAZIL; OUTCOMES; GROWTH; BORN; AGE
+AB Objective: To describe the neurological and neurodevelopmental features at 1 year of age in children with cerebral palsy (CP) related to probable congenital Zika (CZ), followed in a referral neurorehabilitation hospital.
+   Methods. - Data on 82 children with CP associated with probable CZ, who consecutively attended the neurodevelopmental and neurological assessment around one year of age, were collected. For neurodevelopmental evaluation, Bayley-III Scales of Infant and Toddler Development was used. Descriptive statistical analysis was performed.
+   Results: The children were admitted into the rehabilitation program at a young age (mean age: 4.8 months, SD 3.1), followed beyond the first year of life (mean age of follow up: 13.2 months, SD 2.1), born to young mothers (mean age: 28.1 years, SD 5.9), in their first pregnancy (62.2%). The majority had severe congenital microcephaly (62.0%), spastic CP (96.3%), epilepsy (63.4%), absent expected postural reactions (93.2%), abnormal persistence of primitive reflexes (94.7%), and severe neuroimaging abnormalities, predominantly calcifications (97.6%). Extremely low performances on cognitive (95.1%), language (97.6%) and motor (97.6%) developmental composite scores were observed. There was a correlation between the cognitive score with the birth head circumference (HC) (r = 0.3, p = 0.01) and with the follow up HC (r = 0.4, p < 0.01), as well as between the follow up HC with the motor score (r = 0.2, p = 0.03).
+   Conclusion: Congenital Zika may be associated with a severe form of CP, mainly bilateral spastic, with a severe global neurodevelopmental impairment and early signs of a poor prognosis for independent walking. Head circumference may be a prognostic marker among those children. These results may help establish goals for the rehabilitation program and identify priority health services. (C) 2019 The Japanese Society of Child Neurology. Published by Elsevier B.V. All rights reserved.
+C1 [Carvalho, Alessandra; Ventura, Paloma; Fernandes, Adriana; Taguchi, Thnia; Brandi, Ivar; Silva, Alfredo] SARAH Network Rehabil Hosp, Salvador, BA, Brazil.
+   [Brites, Carlos; Lage, Maria Lucia; Franceschi, Giulia; Lucena, Rita] Univ Fed Bahia, Salvador, BA, Brazil.
+   [Mochida, Ganeshwaran] Boston Childrens Hosp, Boston, MA USA.
+   [Mochida, Ganeshwaran] Harvard Med Sch, Boston, MA 02115 USA.
+   [Mochida, Ganeshwaran] Massachusetts Gen Hosp, Boston, MA 02114 USA.
+   [Lucena, Pedro] Bahiana Sch Med & Publ Hlth, Salvador, BA, Brazil.
+RP Carvalho, A (corresponding author), SARAH Salvador Hosp, Av Tancredo Neves 2782, BR-41820900 Salvador, BA, Brazil.
+EM 13110@sarah.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Lucena, Pedro/0000-0003-1148-7806;
+   Mochida, Ganeshwaran/0000-0001-7912-4097
+CR Abramov DM, 2018, NEUROLOGY, V90, pE606, DOI 10.1212/WNL.0000000000004974
+   de Araujo TVB, 2018, LANCET INFECT DIS, V18, P328, DOI 10.1016/S1473-3099(17)30727-2
+   Baud D, 2017, LANCET, V390, P2099, DOI [10.1016/S0140-6736(17)31450-2, 10.1016/s0140-6736(17)31450-2]
+   BLECK EE, 1975, DEV MED CHILD NEUROL, V17, P18
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude, 2018, B EPIDEMIOLOGICO, V49, P1
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Carvalho AL, 2019, CLIN MICROBIOL INFEC, V25, P524, DOI 10.1016/j.cmi.2018.12.021
+   Cortes MS, 2018, AM J OBSTET GYNECOL, V218, DOI 10.1016/j.ajog.2018.01.012
+   Petribu NCD, 2017, BMJ-BRIT MED J, V359, DOI 10.1136/bmj.j4188
+   Melo ASD, 2016, JAMA NEUROL, V73, P1407, DOI 10.1001/jamaneurol.2016.3720
+   del Campo M, 2017, AM J MED GENET A, V173, P841, DOI 10.1002/ajmg.a.38170
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Granild-Jensen JB, 2015, DEV MED CHILD NEUROL, V57, P931, DOI 10.1111/dmcn.12760
+   Hoen B, 2018, NEW ENGL J MED, V378, P985, DOI 10.1056/NEJMoa1709481
+   Kadkhoda K, 2017, DIAGN MICR INFEC DIS, V88, P233, DOI 10.1016/j.diagmicrobio.2017.04.002
+   Leal MC, 2016, MMWR-MORBID MORTAL W, V65, P917, DOI 10.15585/mmwr.mm6534e3
+   Lustig Y, 2018, J CLIN VIROL, V99-100, P31, DOI 10.1016/j.jcv.2017.12.007
+   Madaschi Vanessa, 2016, Paidéia (Ribeirão Preto), V26, P189, DOI 10.1590/1982-43272664201606
+   Meneses JD, 2017, CLIN INFECT DIS, V64, P1302, DOI 10.1093/cid/cix166
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   da Silva AAM, 2016, EMERG INFECT DIS, V22, P1953, DOI 10.3201/eid2211.160956
+   Palisano R, 1997, DEV MED CHILD NEUROL, V39, P214, DOI 10.1111/j.1469-8749.1997.tb07414.x
+   Pan American Health Organization World Health Organization, 2016, NEUR SYNDR CONG AN Z, V8
+   Pessoa A, 2018, PEDIATRICS, V141, pS167, DOI 10.1542/peds.2017-2038F
+   Rice ME, 2018, MMWR-MORBID MORTAL W, V67, P858, DOI 10.15585/mmwr.mm6731e1
+   Rodo C, 2017, CLIN MICROBIOL INFEC, V24, P2017
+   Rosenbaum P, 2007, DEV MED CHILD NEUROL, V49, P8, DOI 10.1111/j.1469-8749.2007.tb12610.x
+   Rosman NP, 2011, PEDIATRICS, V127, P665, DOI 10.1542/peds.2010-1576
+   Satterfield-Nash A, 2017, MMWR-MORBID MORTAL W, V66, P1347, DOI 10.15585/mmwr.mm6649a2
+   Tang HL, 2016, CELL STEM CELL, V18, P587, DOI 10.1016/j.stem.2016.02.016
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   Aragao MDV, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1901
+   Villar J, 2014, LANCET, V384, P857, DOI 10.1016/S0140-6736(14)60932-6
+NR 35
+TC 12
+Z9 12
+U1 2
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0387-7604
+EI 1872-7131
+J9 BRAIN DEV-JPN
+JI Brain Dev.
+PD AUG
+PY 2019
+VL 41
+IS 7
+BP 587
+EP 594
+DI 10.1016/j.braindev.2019.03.005
+PG 8
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA IY1EA
+UT WOS:000486133200003
+PM 30914212
+DA 2020-12-15
+ER
+
+PT J
+AU Barretto, TL
+   Bandeira, ID
+   Jagersbacher, JG
+   Barretto, BL
+   Torres, AFSDE
+   Pena, N
+   Miranda, JGV
+   Lucena, R
+AF Barretto, Thiago Lima
+   Bandeira, Igor Dorea
+   Jagersbacher, Joao Gabriel
+   Barretto, Bianca Lima
+   Souza de Oliveira e Torres, Angelo Frederico
+   Pena, Norberto
+   Vivas Miranda, Jose Garcia
+   Lucena, Rita
+TI Transcranial direct current stimulation in the treatment of cerebellar
+   ataxia: A two-phase, double-blind, auto-matched, pilot study
+SO CLINICAL NEUROLOGY AND NEUROSURGERY
+LA English
+DT Article
+DE Cerebellar ataxia; Transcranial direct current stimulation; tDCS;
+   Neuromodulation; Clinical trial; Noninvasive brain stimulation;
+   Cerebellum; SARA
+ID MOTOR CORTEX; DC STIMULATION; SCALE; TDCS; EXCITABILITY; VARIABILITY;
+   TRIAL
+AB Objective: To assess the impact of tDCS on posture, gait and coordination of movements in subjects with cerebellar ataxia.
+   Patients and methods: This is a two-phase, double blind, auto matched, pilot study. Seven people were selected to participate in the study aged from 14 to 57. tDCS and sham-tDCS were applied at different times to all participants for 40 min over five consecutive days so that they were blind to which of the two techniques was applied at any one time. The area stimulated was the bilateral motor cortex. Subjects were evaluated before and after the interventions using the Scale for Assessment and Rating of Ataxia (SARA) and specific tests to measure posture and balance were carried out using the Wii Fit platform and CvMob software.
+   Results: The study indicates a statistically significant improvement in respect of gait parameters and the total score of the SARA scale and Wii Fit platform after tDCS when compared with data obtained from sham-tDCS trials (p: 0,03). The adverse events relating to tDCS were all self-limiting and from mild to moderate intensity.
+   Conclusion: Despite the small sample size, tDCS showed positive results in some motor parameters and could be considered a valuable new option for the treatment of cerebellar ataxias.
+C1 [Barretto, Thiago Lima; Jagersbacher, Joao Gabriel; Barretto, Bianca Lima] Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Salvador, BA, Brazil.
+   [Bandeira, Igor Dorea] Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Salvador, BA, Brazil.
+   [Souza de Oliveira e Torres, Angelo Frederico; Vivas Miranda, Jose Garcia] Univ Fed Bahia, Inst Phys, Salvador, BA, Brazil.
+   [Pena, Norberto] Univ Fed Bahia, Fac Hlth Sci, Dept Physiotherapy, Salvador, BA, Brazil.
+   [Lucena, Rita] Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Salvador, BA, Brazil.
+RP Lucena, R (corresponding author), Praca XV Novembro,S-N Largo Terreiro de Jesus, BR-40025010 Salvador, BA, Brazil.
+EM rcslucena@yahoo.com.br
+RI Lucena, Rita/L-9842-2013; Bandeira, Igor Dorea/J-8835-2015
+OI Lucena, Rita/0000-0002-6190-9168; Bandeira, Igor
+   Dorea/0000-0002-6714-2658
+CR Andrade AC, 2014, J CHILD NEUROL, V29, P1360, DOI 10.1177/0883073813503710
+   Ardolino G, 2005, J PHYSIOL-LONDON, V568, P653, DOI 10.1113/jphysiol.2005.088310
+   Bandeira ID, 2016, J CHILD NEUROL, V31, P918, DOI 10.1177/0883073816630083
+   Ben Taib Nordeyn Oulad, 2009, J Neurosurg, V111, P796, DOI 10.3171/2008.2.17679
+   Benussi A, 2015, MOVEMENT DISORD, V30, P1701, DOI 10.1002/mds.26356
+   Braga-Neto P, 2010, ARQ NEURO-PSIQUIAT, V68, P228, DOI 10.1590/S0004-282X2010000200014
+   Brunoni AR, 2017, NEW ENGL J MED, V376, P2523, DOI 10.1056/NEJMoa1612999
+   Brunoni AR, 2011, INT J NEUROPSYCHOPH, V14, P1133, DOI 10.1017/S1461145710001690
+   Brusse E, 2007, CLIN GENET, V71, P12, DOI 10.1111/j.1399-0004.2006.00722.x
+   Chalah MA, 2017, J NEUROL SCI, V372, P131, DOI 10.1016/j.jns.2016.11.015
+   Chew T, 2015, BRAIN STIMUL, V8, P1130, DOI 10.1016/j.brs.2015.07.031
+   dos Santos VS, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-30127-z
+   Ferrucci R, 2014, NEUROIMAGE, V85, P918, DOI 10.1016/j.neuroimage.2013.04.122
+   Gagnon C, 2018, NEUROLOGY, V91, pE1307, DOI 10.1212/WNL.0000000000006290
+   Galea JM, 2009, J NEUROSCI, V29, P9115, DOI 10.1523/JNEUROSCI.2184-09.2009
+   Gandiga PC, 2006, CLIN NEUROPHYSIOL, V117, P845, DOI 10.1016/j.clinph.2005.12.003
+   Grimaldi G, 2014, CEREBELLUM, V13, P121, DOI 10.1007/s12311-013-0514-7
+   Grimaldi G, 2014, FRONT SYST NEUROSCI, V8, DOI 10.3389/fnsys.2014.00009
+   Grimaldi G, 2013, ANN BIOMED ENG, V41, P2437, DOI 10.1007/s10439-013-0846-y
+   Groiss SJ, 2012, CEREBELLUM, V11, P440, DOI 10.1007/s12311-011-0329-3
+   Ho KA, 2016, BRAIN STIMUL, V9, P1, DOI 10.1016/j.brs.2015.08.003
+   HORE J, 1988, J NEUROPHYSIOL, V60, P1285
+   Laakso I, 2015, BRAIN STIMUL, V8, P906, DOI 10.1016/j.brs.2015.05.002
+   Lang N, 2005, EUR J NEUROSCI, V22, P495, DOI 10.1111/j.1460-9568.2005.04233.x
+   Liepert J, 2004, STROKE, V35, P2484, DOI 10.1161/01.STR.0000143152.45801.ca
+   Lopez-Bastida J, 2008, MOVEMENT DISORD, V23, P212, DOI 10.1002/mds.21798
+   Manto MU, 2005, CEREBELLUM, V4, P2, DOI 10.1080/14734220510007914
+   Marsden J, 2011, CLIN REHABIL, V25, P195, DOI 10.1177/0269215510382495
+   Matsushima Akira, 2015, Cerebellum Ataxias, V2, P9, DOI 10.1186/s40673-015-0028-9
+   Nitsche MA, 2000, J PHYSIOL-LONDON, V527, P633, DOI 10.1111/j.1469-7793.2000.t01-1-00633.x
+   Palau F, 2006, ORPHANET J RARE DIS, V1, DOI 10.1186/1750-1172-1-47
+   Palm U, 2016, RESTOR NEUROL NEUROS, V34, P189, DOI 10.3233/RNN-150557
+   Parazzini M, 2014, CLIN NEUROPHYSIOL, V125, P577, DOI 10.1016/j.clinph.2013.09.039
+   Park DS, 2014, J NEUROENG REHABIL, V11, DOI 10.1186/1743-0003-11-99
+   Pena N, 2013, REV BRAS ENSINO FIS, V35, DOI 10.1590/S1806-11172013000300024
+   Poreisz C, 2007, BRAIN RES BULL, V72, P208, DOI 10.1016/j.brainresbull.2007.01.004
+   Pozzi NG, 2014, CEREBELLUM, V13, P109, DOI 10.1007/s12311-013-0524-5
+   Quixada A.P., 2016, ARXIV160204513
+   Rios DM, 2018, CHILD NEUROL OPEN, V5
+   Schmitz-Hubsch T, 2006, NEUROLOGY, V66, P1717, DOI 10.1212/01.wnl.0000219042.60538.92
+   Schmitz-Hubsch T, 2010, MOVEMENT DISORD, V25, P587, DOI 10.1002/mds.22740
+   Wang RY, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-26109-w
+   Weyer A, 2007, MOVEMENT DISORD, V22, P1633, DOI 10.1002/mds.21544
+   Yabe I, 2008, J NEUROL SCI, V266, P164, DOI 10.1016/j.jns.2007.09.021
+NR 44
+TC 5
+Z9 5
+U1 1
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0303-8467
+EI 1872-6968
+J9 CLIN NEUROL NEUROSUR
+JI Clin. Neurol. Neurosurg.
+PD JUL
+PY 2019
+VL 182
+BP 123
+EP 129
+DI 10.1016/j.clineuro.2019.05.009
+PG 7
+WC Clinical Neurology; Surgery
+SC Neurosciences & Neurology; Surgery
+GA IF1BT
+UT WOS:000472812800024
+PM 31121471
+DA 2020-12-15
+ER
+
+PT J
+AU Carvalho, AL
+   Brandi, IV
+   Sarmento, M
+   Brites, C
+   Lucena, R
+AF Carvalho, A. L.
+   Brandi, I. V.
+   Sarmento, M.
+   Brites, C.
+   Lucena, R.
+TI Difficulties with laboratory confirmation of congenital Zika virus
+   infection in a tertiary hospital in Northeastern Brazil
+SO CLINICAL MICROBIOLOGY AND INFECTION
+LA English
+DT Letter
+C1 [Carvalho, A. L.; Brandi, I. V.; Sarmento, M.] SARAH Network Rehabil Hosp, Salvador, BA, Brazil.
+   [Brites, C.; Lucena, R.] Univ Fed Bahia, Salvador, BA, Brazil.
+RP Carvalho, AL (corresponding author), SARAH Salvador Hosp, Ave Tancredo Neves,2782 Caminho Arvores, BR-41820900 Salvador, BA, Brazil.
+EM alessandracarvalhoped@gmail.com
+RI Brites, Carlos/D-1353-2013; Lucena, Rita/L-9842-2013
+OI Brites, Carlos/0000-0002-4673-6991; Lucena, Rita/0000-0002-6190-9168
+CR de Araujo TVB, 2018, LANCET INFECT DIS, V18, P328, DOI 10.1016/S1473-3099(17)30727-2
+   Kadkhoda K, 2017, DIAGN MICR INFEC DIS, V88, P233, DOI 10.1016/j.diagmicrobio.2017.04.002
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   Rabe IB, 2016, MMWR-MORBID MORTAL W, V65, P543, DOI 10.15585/mmwr.mm6521e1
+   Rodo C, 2017, CLIN MICROBIOL INFEC, V24, P2017
+   Schaub B, 2017, LANCET INFECT DIS, V17, P520, DOI [10.1016/S1473-3099(17)30102-0, 10.1016/s1473-3099(17)30102-0]
+NR 6
+TC 6
+Z9 6
+U1 0
+U2 0
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1198-743X
+EI 1469-0691
+J9 CLIN MICROBIOL INFEC
+JI Clin. Microbiol. Infect.
+PD APR
+PY 2019
+VL 25
+IS 4
+BP 524
+EP 525
+DI 10.1016/j.cmi.2018.12.021
+PG 2
+WC Infectious Diseases; Microbiology
+SC Infectious Diseases; Microbiology
+GA HR9LL
+UT WOS:000463481300031
+PM 30583057
+OA Bronze
+DA 2020-12-15
+ER
+
+PT J
+AU de Carvalho, AL
+   Brites, C
+   Taguchi, TB
+   Pinho, SF
+   Campos, G
+   Lucena, R
+AF de Carvalho, Alessandra Lemos
+   Brites, Carlos
+   Taguchi, Tania Barreto
+   Pinho, Suely Fernandes
+   Campos, Gubio
+   Lucena, Rita
+TI Congenital Zika Virus Infection with Normal Neurodevelopmental Outcome,
+   Brazil
+SO EMERGING INFECTIOUS DISEASES
+LA English
+DT Letter
+AB We describe a case of a 20-month-old girl with probable congenital Zika virus infection and normal neurodevelopment, despite microcephaly and abnormal neuroimaging. This case raises questions about early prognostic markers and draws attention to the need for investigation in suspected Zika cases, even if the child's early neurodevelopment is normal.
+C1 [de Carvalho, Alessandra Lemos] SARAH Network Rehabil Hosp, Child Rehabil Ctr, Salvador Unit, Salvador, BA, Brazil.
+   [Taguchi, Tania Barreto; Pinho, Suely Fernandes] SARAH Network Rehabil Hosp, Salvador, BA, Brazil.
+   [Brites, Carlos; Campos, Gubio; Lucena, Rita] Univ Fed Bahia, Salvador, BA, Brazil.
+RP de Carvalho, AL (corresponding author), SARAH Salvador Hosp, Av Tancredo Neves 2782, BR-41820900 Salvador, BA, Brazil.
+EM alessandracarvalhoped@gmail.com
+RI Brites, Carlos/D-1353-2013; Lucena, Rita/L-9842-2013
+OI Brites, Carlos/0000-0002-4673-6991; Lucena, Rita/0000-0002-6190-9168
+FU Coordination for the Improvement of Higher Education Personnel (CAPES),
+   BrazilCAPES
+FX No external funding was used for this study. G.C. received a "Zika fast
+   track grant" provided by Coordination for the Improvement of Higher
+   Education Personnel (CAPES), Brazil, to perform ELISA testing for Zika
+   virus in the neonatal period. This institution had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of this manuscript. The other authors have no financial
+   disclosures relevant to this article.
+CR de Araujo TVB, 2018, LANCET INFECT DIS, V18, P328, DOI 10.1016/S1473-3099(17)30727-2
+   Bayley N., 2005, BAYLEY SCALES INFANT
+   del Campo M, 2017, AM J MED GENET A, V173, P841, DOI 10.1002/ajmg.a.38170
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Moher D, 2009, PLOS MED, V6, DOI [10.1136/bmj.b2535, 10.1371/journal.pmed.1000097]
+   da Silva AAM, 2016, EMERG INFECT DIS, V22, P1953, DOI 10.3201/eid2211.160956
+   Pan American Health Organization, 2016, EP UPD NEUR SYNDR CO
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Villar J, 2014, LANCET, V384, P857, DOI 10.1016/S0140-6736(14)60932-6
+   World Health Organization Multicentre Growth Reference Study Group, 2006, WHO CHILD GROWTH STA
+NR 10
+TC 2
+Z9 2
+U1 0
+U2 5
+PU CENTERS  DISEASE CONTROL & PREVENTION
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1080-6040
+EI 1080-6059
+J9 EMERG INFECT DIS
+JI Emerg. Infect. Dis
+PD NOV
+PY 2018
+VL 24
+IS 11
+BP 2128
+EP 2130
+DI 10.3201/eid2411.180883
+PG 3
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA GX4UO
+UT WOS:000447732600037
+PM 30334734
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Lopes, TD
+   Silva, WD
+   Ribeiro, SB
+   Figueiredo, CA
+   Campbell, FQ
+   Daltro, GD
+   Valenzuela, A
+   Montoya, P
+   Lucena, RDS
+   Baptista, AF
+AF Lopes, Tiago da Silva
+   Silva, Wellington dos Santos
+   Ribeiro, Sanzia B.
+   Figueiredo, Camila A.
+   Campbell, Fernanda Q.
+   Daltro, Gildasio de Cerqueira
+   Valenzuela, Antonio
+   Montoya, Pedro
+   Lucena, Rita de C. S.
+   Baptista, Abrahao F.
+TI Does Transcranial Direct Current Stimulation Combined with Peripheral
+   Electrical Stimulation Have an Additive Effect in the Control of Hip
+   Joint Osteonecrosis Pain Associated with Sickle Cell Disease? A Protocol
+   for a One-Session Double Blind, Block-Randomized Clinical Trial
+SO FRONTIERS IN HUMAN NEUROSCIENCE
+LA English
+DT Article
+DE neuromodulation; electroencephalography; sickle cell disease; BDNF; TNF;
+   tDCS; peripheral electrical stimulation
+ID LOW-BACK-PAIN; HUMAN MOTOR CORTEX; PRIMARY AFFERENT TERMINALS;
+   SPINAL-CORD-INJURY; NEUROTROPHIC FACTOR; NEUROPATHIC PAIN; FEMORAL-HEAD;
+   CORTICOSPINAL EXCITABILITY; PSYCHOMETRIC PROPERTIES; CENTRAL
+   SENSITIZATION
+AB Chronic pain in Sickle Cell Disease (SCD) is probably related to maladaptive plasticity of brain areas involved in nociceptive processing. Transcranial Direct Current Stimulation (tDCS) and Peripheral Electrical Stimulation (PES) can modulate cortical excitability and help to control chronic pain. Studies have shown that combined use of tDCS and PES has additive effects. However, to date, no study investigated additive effects of these neuromodulatory techniques on chronic pain in patients with SCD. This protocol describes a study aiming to assess whether combined use of tDCS and PES more effectively alleviate pain in patients with SCD compared to single use of each technique. The study consists of a one-session double blind, block-randomized clinical trial (NCT02813629) in which 128 participants with SCD and femoral osteonecrosis will be enrolled. Stepwise procedures will occur on two independent days. On day 1, participants will be screened for eligibility criteria. On day 2, data collection will occur in four stages: sample characterization, baseline assessment, intervention, and post-intervention assessment. These procedures will last similar to 5 h. Participants will be divided into two groups according to homozygous for S allele (HbSS) (n = 64) and heterozygous for S and C alleles (HbSC) (n = 64) genotypes. Participants in each group will be randomly assigned, equally, to one of the following interventions: (1) active tDCS + active PES; (2) active tDCS + sham PES; (3) sham tDCS + active PES; and (4) sham tDCS + sham PES. Active tDCS intervention will consist of 20min 2mA anodic stimulation over the primary motor cortex contralateral to the most painful hip. Active PES intervention will consist of 30min sensory electrical stimulation at 100Hz over the most painful hip. The main study outcome will be pain intensity, measured by a Visual Analogue Scale. In addition, electroencephalographic power density, cortical maps of the gluteus maximus muscle elicited by Transcranial Magnetic Stimulation (TMS), serum levels of Brain- derived Neurotrophic Factor (BDNF), and Tumor Necrosis Factor (TNF) will be assessed as secondary outcomes. Data will be analyzed using ANOVA of repeated measures, controlling for confounding variables.
+C1 [Lopes, Tiago da Silva; Silva, Wellington dos Santos; Ribeiro, Sanzia B.; Campbell, Fernanda Q.; Lucena, Rita de C. S.; Baptista, Abrahao F.] Univ Fed Bahia, Hlth & Funct Study Grp, Salvador, BA, Brazil.
+   [Lopes, Tiago da Silva; Silva, Wellington dos Santos; Lucena, Rita de C. S.; Baptista, Abrahao F.] Univ Fed Bahia, Grad Program Med & Hlth, Salvador, BA, Brazil.
+   [Silva, Wellington dos Santos; Ribeiro, Sanzia B.] Adventist Fac Bahia, Hlth Sect, Cachoeira, Brazil.
+   [Figueiredo, Camila A.] Univ Fed Bahia, Dept Bioregulat, Salvador, BA, Brazil.
+   [Daltro, Gildasio de Cerqueira] Complexo Hosp Univ Prof Edgard Santos, Salvador, BA, Brazil.
+   [Valenzuela, Antonio] Loma Linda Univ, Phys Therapy, Loma Linda, CA 92350 USA.
+   [Montoya, Pedro] Univ Balearic Isl, Res Inst Hlth Sci IUNICS, Palma De Mallorca, Spain.
+   [Baptista, Abrahao F.] Fed Univ ABC, Ctr Math Computat & Cognit, Sao Bernardo Do Campo, Brazil.
+RP Baptista, AF (corresponding author), Univ Fed Bahia, Hlth & Funct Study Grp, Salvador, BA, Brazil.; Baptista, AF (corresponding author), Univ Fed Bahia, Grad Program Med & Hlth, Salvador, BA, Brazil.; Baptista, AF (corresponding author), Fed Univ ABC, Ctr Math Computat & Cognit, Sao Bernardo Do Campo, Brazil.
+EM a.baptista@ufabc.edu.br
+RI Montoya, Pedro/A-4666-2009; Lucena, Rita/L-9842-2013; Figueiredo,
+   Camila/H-3525-2015
+OI Montoya, Pedro/0000-0001-8652-948X; Lucena, Rita/0000-0002-6190-9168;
+   Figueiredo, Camila/0000-0003-1356-6188; Lopes, Tiago/0000-0001-8280-240X
+FU Research Support Foundation of the State of Bahia (FAPESB) through the
+   Support Program for Emerging Center [8133/2014 (PNE0020/2014)];
+   Coordination for the Improvement of Higher Education Personnel
+   (CAPES)CAPES
+FX This study is funded by the Research Support Foundation of the State of
+   Bahia (FAPESB) through the Support Program for Emerging Center,
+   8133/2014 (PNE0020/2014). The first author is supported by a MSc
+   scholarship from the Coordination for the Improvement of Higher
+   Education Personnel (CAPES).
+CR Aken BL, 2016, DATABASE-OXFORD, DOI 10.1093/database/baw093
+   Andrade DC, 2013, EXPERT REV MED DEVIC, V10, P339, DOI [10.1586/erd.12.90, 10.1586/ERD.12.90]
+   Antal A, 2010, BRAIN STIMUL, V3, P230, DOI 10.1016/j.brs.2009.12.003
+   Bakshi N, 2017, J PAIN, V18, P1216, DOI 10.1016/j.jpain.2017.05.005
+   Baliki MN, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0106133
+   Ballas SK, 2015, EUR J HAEMATOL, V95, P113, DOI 10.1111/ejh.12460
+   Ballas SK, 2012, SCI WORLD J, DOI 10.1100/2012/949535
+   Ballas SK, 2005, HEMATOL ONCOL CLIN N, V19, P785, DOI 10.1016/j.hoc.2005.07.008
+   Barakat LP, 2010, J PEDIAT HEMATOL ONC, V32, P540, DOI 10.1097/MPH.0b013e3181e793f9
+   Bedson J, 2008, BMC MUSCULOSKEL DIS, V9, DOI 10.1186/1471-2474-9-116
+   Begliuomini S, 2008, J ENDOCRINOL, V197, P429, DOI 10.1677/JOE-07-0376
+   Biggs JE, 2010, MOL PAIN, V6, DOI 10.1186/1744-8069-6-44
+   Boggio PS, 2009, CLIN J PAIN, V25, P691, DOI 10.1097/AJP.0b013e3181af1414
+   Bolognini N, 2015, J PAIN, V16, P657, DOI 10.1016/j.jpain.2015.03.013
+   Campbell CM, 2016, J PAIN, V17, P617, DOI 10.1016/j.jpain.2016.01.475
+   Caracas MD, 2013, OR SURG OR MED OR PA, V115, pE31, DOI 10.1016/j.oooo.2012.05.018
+   Case M, 2017, NEUROIMAGE-CLIN, V14, P1, DOI 10.1016/j.nicl.2016.12.024
+   Caumo W, 2017, J PAIN RES, V10, P2109, DOI 10.2147/JPR.S131479
+   Caumo W, 2016, FRONT HUM NEUROSCI, V10, DOI 10.3389/fnhum.2016.00357
+   Chen WL, 2014, EUR J NEUROSCI, V39, P1439, DOI 10.1111/ejn.12516
+   Chipchase LS, 2011, CLIN NEUROPHYSIOL, V122, P456, DOI 10.1016/j.clinph.2010.07.025
+   Chipchase LS, 2011, ARCH PHYS MED REHAB, V92, P1423, DOI 10.1016/j.apmr.2011.01.011
+   Cioato SG, 2016, BRAIN STIMUL, V9, P209, DOI 10.1016/j.brs.2015.12.001
+   Cohen JF, 1977, STATISTICAL POWER AN, P273
+   Coutaux A, 2017, JOINT BONE SPINE, V84, P657, DOI 10.1016/j.jbspin.2017.02.005
+   Darbari DS, 2015, J PAIN, V16, P1077, DOI 10.1016/j.jpain.2015.07.005
+   Di Lazzaro V, 2015, BRAIN STIMUL, V8, P92, DOI 10.1016/j.brs.2014.08.006
+   Pinheiro ESD, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149085
+   Duncan R, 2007, ANN RHEUM DIS, V66, P86, DOI 10.1136/ard.2006.052548
+   Ejindu VC, 2007, RADIOGRAPHICS, V27, P1005, DOI 10.1148/rg.274065142
+   Ezquerro F, 2017, NEUROMODULATION, V20, P248, DOI 10.1111/ner.12527
+   Faul F, 2007, BEHAV RES METHODS, V39, P175, DOI 10.3758/BF03193146
+   FICAT RP, 1985, J BONE JOINT SURG BR, V67, P3
+   Fisher BE, 2013, J ORTHOP SPORT PHYS, V43, P214, DOI 10.2519/jospt.2013.4188
+   Flouzat-Lachaniette CH, 2016, INT ORTHOP, V40, P669, DOI 10.1007/s00264-015-3060-8
+   Grimsholm O, 2008, CLIN RHEUMATOL, V27, P1289, DOI 10.1007/s10067-008-0910-4
+   Hazime FA, 2017, EUR J PAIN, V21, P1132, DOI 10.1002/ejp.1037
+   Hernigou P, 2006, J BONE JOINT SURG AM, V88A, P2565, DOI 10.2106/JBJS.E.01455
+   Jacobson L, 2012, CLIN NEUROPHYSIOL, V123, P979, DOI 10.1016/j.clinph.2011.09.016
+   JANG S, 2016, C P IEEE ENG MED BIO, P5258, DOI DOI 10.1109/EMBC.2016.7591913
+   Kang M, 2008, J ATHL TRAINING, V43, P215, DOI 10.4085/1062-6050-43.2.215
+   Keefe FJ, 2004, J PAIN, V5, P195, DOI 10.1016/j.jpain.2004.02.576
+   Keeser D, 2011, NEUROIMAGE, V55, P644, DOI 10.1016/j.neuroimage.2010.12.004
+   Kuner R, 2017, NAT REV NEUROSCI, V18, P20, DOI 10.1038/nrn.2016.162
+   Lepley AS, 2013, J SPORT REHABIL, V22, P239, DOI 10.1123/jsr.22.4.239
+   Llinas RR, 1999, P NATL ACAD SCI USA, V96, P15222, DOI 10.1073/pnas.96.26.15222
+   Luedtke K, 2015, BMJ-BRIT MED J, V350, DOI 10.1136/bmj.h1640
+   Luedtke K, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0048857
+   Malouin Francine, 2007, J Neurol Phys Ther, V31, P20
+   Marques PR, 2016, PROG NEURO-PSYCHOPH, V64, P44, DOI 10.1016/j.pnpbp.2015.06.016
+   McDonnell MN, 2007, NEUROREHAB NEURAL RE, V21, P435, DOI 10.1177/1545968307300437
+   McKay D, 2002, NEUROREPORT, V13, P1271, DOI 10.1097/00001756-200207190-00011
+   Mendonca ME, 2016, FRONT HUM NEUROSCI, V10, DOI 10.3389/fnhum.2016.00068
+   Meneses FM, 2016, FRONT HUM NEUROSCI, V10, DOI 10.3389/fnhum.2016.00395
+   Merighi A, 2008, DEV NEUROBIOL, V68, P457, DOI 10.1002/dneu.20605
+   MILNER PF, 1991, NEW ENGL J MED, V325, P1476, DOI 10.1056/NEJM199111213252104
+   Muller-Dahlhaus F, 2015, NEUROSCIENTIST, V21, P185, DOI 10.1177/1073858414526645
+   New T, 2014, J PEDIAT HEMATOL ONC, V36, pE398, DOI 10.1097/MPH.0000000000000026
+   Ngernyam N, 2015, CLIN NEUROPHYSIOL, V126, P382, DOI 10.1016/j.clinph.2014.05.034
+   Nitsche MA, 2001, NEUROLOGY, V57, P1899, DOI 10.1212/WNL.57.10.1899
+   Nitsche MA, 2000, J PHYSIOL-LONDON, V527, P633, DOI 10.1111/j.1469-7793.2000.t01-1-00633.x
+   Nitsche MA, 2011, RESTOR NEUROL NEUROS, V29, P463, DOI 10.3233/RNN-2011-0618
+   Nitsche MA, 2008, BRAIN STIMUL, V1, P206, DOI 10.1016/j.brs.2008.06.004
+   O'Connell NE, 2014, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD008208.pub3
+   Pais-Ribeiro J, 2007, Psychol Health Med, V12, P225, DOI 10.1080/13548500500524088
+   Pan WH, 2002, J APPL PHYSIOL, V92, P1357, DOI 10.1152/japplphysiol.00915.2001
+   Park H, 2013, NAT REV NEUROSCI, V14, P7, DOI 10.1038/nrn3379
+   Parker RS, 2016, BRAIN STIMUL, V9, P488, DOI 10.1016/j.brs.2016.03.020
+   Petroianu Andy, 2010, Arch. Clin. Psychiatry (São Paulo), V37, P1, DOI 10.1590/S0101-60832010000100001
+   PLATT OS, 1994, NEW ENGL J MED, V330, P1639, DOI 10.1056/NEJM199406093302303
+   Polania R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0030971
+   Poreisz C, 2007, BRAIN RES BULL, V72, P208, DOI 10.1016/j.brainresbull.2007.01.004
+   Rakel B, 2010, J PAIN, V11, P230, DOI 10.1016/j.jpain.2009.07.007
+   Rees DC, 2010, LANCET, V376, P2018, DOI 10.1016/S0140-6736(10)61029-X
+   Rossi S, 2009, CLIN NEUROPHYSIOL, V120, P2008, DOI 10.1016/j.clinph.2009.08.016
+   Sakrajai P, 2014, CLIN J PAIN, V30, P1076, DOI 10.1097/AJP.0000000000000069
+   Santos JG, 2010, J PAIN, V11, P484, DOI 10.1016/j.jpain.2009.09.014
+   Schabrun SM, 2015, MED SCI SPORT EXER, V47, P681, DOI 10.1249/MSS.0000000000000469
+   Schabrun SM, 2014, BRAIN STIMUL, V7, P451, DOI 10.1016/j.brs.2014.01.058
+   Schabrun SM, 2013, BRAIN STIMUL, V6, P624, DOI 10.1016/j.brs.2012.09.009
+   Schabrun SM, 2012, MANUAL THER, V17, P184, DOI 10.1016/j.math.2011.12.001
+   Schulte-Herbruggen O, 2005, J NEUROIMMUNOL, V160, P204, DOI 10.1016/j.jneuroim.2004.10.026
+   Simao AP, 2014, RHEUMATOL INT, V34, P1153, DOI 10.1007/s00296-013-2943-5
+   Adachi LNS, 2015, EXP BRAIN RES, V233, P1377, DOI 10.1007/s00221-015-4212-1
+   TAIT RC, 1990, PAIN, V40, P171, DOI 10.1016/0304-3959(90)90068-O
+   Te M, 2017, PAIN MED, V18, P2224, DOI 10.1093/pm/pnx036
+   Tsao H, 2008, BRAIN, V131, P2161, DOI 10.1093/brain/awn154
+   Tsao H, 2011, SPINE, V36, P1721, DOI 10.1097/BRS.0b013e31821c4267
+   Vaseghi B, 2014, CLIN NEUROPHYSIOL, V125, P1847, DOI 10.1016/j.clinph.2014.01.020
+   Vaseghi B, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0123873
+   Walton KD, 2010, PAIN, V150, P41, DOI 10.1016/j.pain.2010.02.023
+   Williams H, 2016, J PAIN SYMPTOM MANAG, V51, P163, DOI 10.1016/j.jpainsymman.2015.10.017
+   Wrigley PJ, 2013, PAIN, V154, P2178, DOI 10.1016/j.pain.2013.06.045
+   Yawn BP, 2014, JAMA-J AM MED ASSOC, V312, P1033, DOI 10.1001/jama.2014.10517
+NR 94
+TC 0
+Z9 0
+U1 0
+U2 5
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1662-5161
+J9 FRONT HUM NEUROSCI
+JI Front. Hum. Neurosci.
+PD DEC 20
+PY 2017
+VL 11
+AR 633
+DI 10.3389/fnhum.2017.00633
+PG 12
+WC Neurosciences; Psychology
+SC Neurosciences & Neurology; Psychology
+GA FQ4MR
+UT WOS:000418332100001
+PM 29326577
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Bandeira, ID
+   Jagersbacher, JG
+   Barretto, TL
+   Santos, CV
+   Lucena, R
+AF Bandeira, Igor Dorea
+   Jagersbacher, Joao Gabriel
+   Barretto, Thiago Lima
+   Santos, Camilo Vieira
+   Lucena, Rita
+TI BOTULINUM TOXIN TYPE A IN THE TREATMENT OF FACIAL MYOTONIA IN
+   SCHWARTZ-JAMPEL SYNDROME
+SO MUSCLE & NERVE
+LA English
+DT Editorial Material
+DE botulinum toxin type A; facial myotonia; myotonia; rehabilitation;
+   Schwartz-Jampel syndrome
+ID BLEPHAROSPASM; INJECTIONS; PERLECAN
+C1 [Bandeira, Igor Dorea; Jagersbacher, Joao Gabriel; Barretto, Thiago Lima; Lucena, Rita] Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Praca 15 Novembro S-N, BR-40025010 Salvador, BA, Brazil.
+   [Santos, Camilo Vieira] Univ Fed Bahia, Prof Edgard Santos Univ Hosp, Salvador, BA, Brazil.
+RP Bandeira, ID (corresponding author), Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Praca 15 Novembro S-N, BR-40025010 Salvador, BA, Brazil.
+EM igordbandeira@gmail.com
+RI Lucena, Rita/L-9842-2013; Bandeira, Igor Dorea/J-8835-2015
+OI Lucena, Rita/0000-0002-6190-9168; Bandeira, Igor
+   Dorea/0000-0002-6714-2658
+CR Aberfeld D, 1970, ARCH NEUROL-CHICAGO, V22, P7
+   Aburahma SK, 2009, J CHILD NEUROL, V24, P5, DOI 10.1177/0883073808320621
+   Arikawa-Hirasawa E, 2002, AM J HUM GENET, V70, P1368, DOI 10.1086/340390
+   Brown KA, 1997, J MED GENET, V34, P3
+   Echaniz-Laguna A, 2009, MUSCLE NERVE, V40, P55, DOI 10.1002/mus.21253
+   Kashkouli MB, OPHTHALMIC IN PRESS
+   Kim HJ, 2002, AUTON NEUROSCI-BASIC, V102, P8, DOI 10.1016/S1566-0702(02)00093-0
+   Morrison DA, 2006, OPHTHAL PLAST RECONS, V22, P57, DOI 10.1097/01.iop.0000195008.15872.a0
+   Nicole S, 2000, NAT GENET, V26, P480, DOI 10.1038/82638
+   Vargel I, 2006, J CRANIOFAC SURG, V17, P656, DOI 10.1097/00001665-200607000-00008
+NR 10
+TC 2
+Z9 2
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0148-639X
+EI 1097-4598
+J9 MUSCLE NERVE
+JI Muscle Nerve
+PD AUG
+PY 2017
+VL 56
+IS 2
+BP E10
+EP E11
+DI 10.1002/mus.25610
+PG 2
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA FC5IL
+UT WOS:000406875000002
+PM 28187499
+DA 2020-12-15
+ER
+
+PT J
+AU Bandeira, ID
+   Guimaraes, RSQ
+   Jagersbacher, JG
+   Barretto, TL
+   de Jesus-Silva, JR
+   Santos, SN
+   Argollo, N
+   Lucena, R
+AF Bandeira, Igor Dorea
+   Quadros Guimaraes, Rachel Silvany
+   Jagersbacher, Joao Gabriel
+   Barretto, Thiago Lima
+   de Jesus-Silva, Jessica Regina
+   Santos, Samantha Nunes
+   Argollo, Nayara
+   Lucena, Rita
+TI Transcranial Direct Current Stimulation in Children and Adolescents With
+   Attention-Deficit/Hyperactivity Disorder (ADHD): A Pilot Study
+SO JOURNAL OF CHILD NEUROLOGY
+LA English
+DT Article
+DE attention-deficit hyperactivity disorder (ADHD); transcranial direct
+   current stimulation; dorsolateral prefrontal cortex; noninvasive brain
+   stimulation; neuromodulation
+ID DEFICIT-HYPERACTIVITY-DISORDER; NONINVASIVE BRAIN-STIMULATION;
+   YOUNG-PEOPLE; IMPROVEMENT; PREVALENCE; GUIDELINES; DIAGNOSIS; DECLINE;
+   ADULTS
+AB Studies investigating the possible benefits of transcranial direct current stimulation on left dorsolateral prefrontal cortex in children and adolescents with attention-deficit hyperactivity disorder (ADHD) have not been performed. This study assesses the effect of transcranial direct current stimulation in children and adolescents with ADHD on neuropsychological tests of visual attention, visual and verbal working memory, and inhibitory control. An auto-matched clinical trial was performed involving transcranial direct current stimulation in children and adolescents with ADHD, using SNAP-IV and subtests Vocabulary and Cubes of the Wechsler Intelligence Scale for Children III (WISC-III). Subjects were assessed before and after transcranial direct current stimulation sessions with the Digit Span subtest of the WISC-III, inhibitory control subtest of the NEPSY-II, Corsi cubes, and the Visual Attention Test (TAVIS-3). There were 9 individuals with ADHD according to Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition) criteria. There was statistically significant difference in some aspects of TAVIS-3 tests and the inhibitory control subtest of NEPSY-II. Transcranial direct current stimulation can be related to a more efficient processing speed, improved detection of stimuli, and improved ability to switch between an ongoing activity and a new one.
+C1 [Bandeira, Igor Dorea; Quadros Guimaraes, Rachel Silvany; Jagersbacher, Joao Gabriel; Barretto, Thiago Lima; de Jesus-Silva, Jessica Regina; Lucena, Rita] Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Praca 15 Novembro,S-N Largo Terreiro de Jesus, BR-40025 Salvador, BA, Brazil.
+   [Santos, Samantha Nunes] Univ Fed Bahia, Prof Edgard Santos Univ Teaching Hosp, BR-40025 Salvador, BA, Brazil.
+   [Argollo, Nayara] Univ Fed Bahia, Med Sch Bahia, Dept Pediat, BR-40025 Salvador, BA, Brazil.
+RP Bandeira, ID (corresponding author), Univ Fed Bahia, Med Sch Bahia, Dept Neurosci & Mental Hlth, Praca 15 Novembro,S-N Largo Terreiro de Jesus, BR-40025 Salvador, BA, Brazil.
+EM igordbandeira@gmail.com
+RI Bandeira, Igor Dorea/J-8835-2015; Lucena, Rita/L-9842-2013
+OI Bandeira, Igor Dorea/0000-0002-6714-2658; Lucena,
+   Rita/0000-0002-6190-9168
+CR Andrade AC, 2014, J CHILD NEUROL, V29, P1360, DOI 10.1177/0883073813503710
+   Arnold LE, 2015, J ATTEN DISORD, P1
+   Asherson Philip, 2005, Expert Rev Neurother, V5, P525, DOI 10.1586/14737175.5.4.525
+   Baker JM, 2010, STROKE, V41, P1229, DOI 10.1161/STROKEAHA.109.576785
+   Barbaresi W, 2002, ARCH PEDIAT ADOL MED, V156, P217, DOI 10.1001/archpedi.156.3.217
+   Batista EK, 2015, INT J NEUROPSYCHOPH, V18, DOI 10.1093/ijnp/pyv066
+   Boggio PS, 2007, J AFFECT DISORDERS, V101, P91, DOI 10.1016/j.jad.2006.10.026
+   Brunoni AR, 2011, INT J NEUROPSYCHOPH, V14, P1133, DOI 10.1017/S1461145710001690
+   Bunse T, 2014, BRAIN STIMUL, V7, P158, DOI 10.1016/j.brs.2013.08.009
+   Bush G, 2005, BIOL PSYCHIAT, V57, P1273, DOI 10.1016/j.biopsych.2005.01.034
+   Bush G, 2010, NEUROPSYCHOPHARMACOL, V35, P278, DOI 10.1038/npp.2009.120
+   Cheung CHM, 2015, J PSYCHIATR RES, V62, P92, DOI 10.1016/j.jpsychires.2015.01.011
+   Cosmo C, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0135371
+   Demirtas-Tatlidede A, 2013, NEUROPHARMACOLOGY, V64, P566, DOI 10.1016/j.neuropharm.2012.06.020
+   Faraone SV, 2006, PSYCHOL MED, V36, P159, DOI 10.1017/S003329170500471X
+   Graham J, 2011, EUR CHILD ADOLES PSY, V20, P17, DOI 10.1007/s00787-010-0140-6
+   Harpin VA, 2005, ARCH DIS CHILD, V90, pI2, DOI 10.1136/adc.2004.059006
+   Kang EK, 2009, RESTOR NEUROL NEUROS, V27, P645, DOI 10.3233/RNN-2009-0514
+   Kendall T, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a1239
+   Kieling C, 2008, CHILD ADOL PSYCH CL, V17, P285, DOI 10.1016/j.chc.2007.11.012
+   Kim B, 2015, J ATTEN DISORD, P5
+   Kooij JJS, 2005, PSYCHOL MED, V35, P817, DOI 10.1017/S003329170400337X
+   Kooij SJJ, 2010, BMC PSYCHIATRY, V10, DOI 10.1186/1471-244X-10-67
+   Koops S, 2015, FRONT PSYCHOL, V6, DOI 10.3389/fpsyg.2015.00244
+   Krause B, 2014, FRONT SYST NEUROSCI, V8, DOI 10.3389/fnsys.2014.00025
+   Krause B, 2013, DEV COGN NEUROS-NETH, V6, P176, DOI 10.1016/j.dcn.2013.04.001
+   Krishnan C, 2015, BRAIN STIMUL, V8, P76, DOI 10.1016/j.brs.2014.10.012
+   Langley K, 2010, BRIT J PSYCHIAT, V196, P235, DOI 10.1192/bjp.bp.109.066274
+   Loftus AM, 2015, BRAIN BEHAV, V5, DOI 10.1002/brb3.332
+   Lu CB, 2015, NEUROMODULATION, V18, P442, DOI 10.1111/ner.12302
+   Mannuzza S, 2000, CHILD ADOL PSYCH CL, V9, P711
+   Muller-Dahlhaus F, 2015, NEUROSCIENTIST, V21, P185, DOI 10.1177/1073858414526645
+   Narad ME, 2015, J ATTEN DISORD, P3
+   Nitsche MA, 2008, BRAIN STIMUL, V1, P206, DOI 10.1016/j.brs.2008.06.004
+   Nowak DA, 2009, NEUROREHAB NEURAL RE, V23, P641, DOI 10.1177/1545968309336661
+   Oliveira JF, 2013, NEUROSCI LETT, V537, P60, DOI 10.1016/j.neulet.2013.01.023
+   Pereira Junior Bde S., 2015, NEURAL PLAST, V2015
+   Polanczyk G, 2007, AM J PSYCHIAT, V164, P942, DOI 10.1176/appi.ajp.164.6.942
+   Polanczyk GV, 2014, INT J EPIDEMIOL, V43, P434, DOI 10.1093/ije/dyt261
+   Ridding MC, 2010, J PHYSIOL-LONDON, V588, P2291, DOI 10.1113/jphysiol.2010.190314
+   Saba G, 2015, CURR PSYCHIAT REP, V17, DOI 10.1007/s11920-015-0571-3
+   Spieser L, 2015, J NEUROSCI, V35, P3010, DOI 10.1523/JNEUROSCI.1642-14.2015
+   Tripp G, 2009, NEUROPHARMACOLOGY, V57, P579, DOI 10.1016/j.neuropharm.2009.07.026
+   Val-Laillet D, 2015, NEUROIMAGE-CLIN, V8, P1, DOI 10.1016/j.nicl.2015.03.016
+NR 44
+TC 35
+Z9 39
+U1 2
+U2 20
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0883-0738
+EI 1708-8283
+J9 J CHILD NEUROL
+JI J. Child Neurol.
+PD JUN
+PY 2016
+VL 31
+IS 7
+BP 918
+EP 924
+DI 10.1177/0883073816630083
+PG 7
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA DM3RU
+UT WOS:000376264800017
+PM 26879095
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+   Thompson, C
+AF Lucena, R.
+   Thompson, C.
+TI BALANCE AND STRENGTH TRAINING IN OLDER ADULTS: IMPACT OF A SIX-WEEK
+   INTERVENTION ON BALANCE RELATED MEASURES
+SO GERONTOLOGIST
+LA English
+DT Meeting Abstract
+C1 [Lucena, R.; Thompson, C.] Univ W Florida, Pensacola, FL 32514 USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0016-9013
+EI 1758-5341
+J9 GERONTOLOGIST
+JI Gerontologist
+PD NOV
+PY 2014
+VL 54
+SU 2
+BP 86
+EP 87
+PG 2
+WC Gerontology
+SC Geriatrics & Gerontology
+GA AW5TU
+UT WOS:000346337501119
+DA 2020-12-15
+ER
+
+PT J
+AU Andrade, AC
+   Magnavita, GM
+   Allegro, JVBN
+   Neto, CEBP
+   Lucena, RDS
+   Fregni, F
+AF Andrade, Agnes Carvalho
+   Magnavita, Guilherme Moreira
+   Brasil Nunes Allegro, Juleilda Valeria
+   Borges Passos Neto, Carlos Eduardo
+   Saldanha Lucena, Rita de Cassia
+   Fregni, Felipe
+TI Feasibility of Transcranial Direct Current Stimulation Use in Children
+   Aged 5 to 12 Years
+SO JOURNAL OF CHILD NEUROLOGY
+LA English
+DT Article
+DE tDCS; brain stimulation; language disorders
+ID NONINVASIVE BRAIN-STIMULATION; MAGNETIC STIMULATION; SAFETY; RTMS
+AB Transcranial direct current stimulation is a noninvasive brain stimulation technique that has been studied for the treatment of neuropsychiatric disorders in adults, with minimal side effects. The objective of this study is to report the feasibility, tolerability, and the short-term adverse effects of transcranial direct current stimulation in children from 5 to 12 years of age. It is a naturalistic study of 14 children who underwent 10 sessions of transcranial direct current stimulation as an alternative, off-label, and open-label treatment for various languages disorders. Frequency, intensity, adverse effects, and perception of improvement reported by parents were collected. The main side effects detected were tingling (28.6%) and itching (28.6%), acute mood changes (42.9%), and irritability (35.7%). Transcranial direct current stimulation is a feasible and tolerable technique in children, although studies regarding plastic and cognitive changes in children are needed to confirm its safety. In conclusion, this is a naturalistic report in which we considered transcranial direct current stimulation as feasible in children.
+C1 [Andrade, Agnes Carvalho; Magnavita, Guilherme Moreira; Brasil Nunes Allegro, Juleilda Valeria; Saldanha Lucena, Rita de Cassia] Univ Fed Bahia, Med Sch Bahia, Dept Neurosci, Salvador, BA, Brazil.
+   [Borges Passos Neto, Carlos Eduardo] Univ Fed Bahia, Med Sch Bahia, Salvador, BA, Brazil.
+   [Fregni, Felipe] Harvard Univ, Sch Med, Spaulding Rehabil Hosp, Lab Neuromodulat,Dept Phys Med & Rehabil, Boston, MA USA.
+   [Fregni, Felipe] Harvard Univ, Massachusetts Gen Hosp, Sch Med, Boston, MA USA.
+RP Lucena, RDS (corresponding author), Dept Neurociencias, 32 Av Araujo Pinho, BR-40150110 Salvador, BA, Brazil.
+EM rcslucena@yahoo.com.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Fregni, Felipe/0000-0001-9359-8643
+CR Aman MG, 2005, ARCH GEN PSYCHIAT, V62, P1266
+   Benninger DH, 2010, J NEUROL NEUROSUR PS, V81, P1105, DOI 10.1136/jnnp.2009.202556
+   Berlim MT, 2013, J PSYCHIATR RES, V47, P1, DOI 10.1016/j.jpsychires.2012.09.025
+   Bikson M, 2012, NEUROMODULATION, V15, P306, DOI 10.1111/j.1525-1403.2012.00481.x
+   Bleicher EWB, 2009, FOOD DRUG LAW J, V64, P531
+   Brunoni AR, 2012, BRAIN STIMUL, V5, P175, DOI 10.1016/j.brs.2011.03.002
+   Brunoni AR, 2011, INT J NEUROPSYCHOPH, V14, P1133, DOI 10.1017/S1461145710001690
+   Brunoni AR, 2012, ESTIMULACAO TRANSCRA, P65
+   D'Agati D, 2010, PSYCHIAT RES, V177, P280, DOI 10.1016/j.psychres.2010.03.004
+   Enticott PG, 2012, BRAIN STIMUL, V5, P30, DOI 10.1016/j.brs.2011.02.001
+   Frye RE, 2008, J CHILD NEUROL, V23, P79, DOI 10.1177/0883073807307972
+   Gilbert DL, 2004, CLIN NEUROPHYSIOL, V115, P1730, DOI 10.1016/j.clinph.2003.10.037
+   Jacobson L, 2012, EXP BRAIN RES, V216, P1, DOI 10.1007/s00221-011-2891-9
+   Kadosh RC, 2012, CURR BIOL, V22, pR108, DOI 10.1016/j.cub.2012.01.013
+   Kirton A, 2008, LANCET NEUROL, V7, P507, DOI 10.1016/S1474-4422(08)70096-6
+   Kolb B, 2010, DEV PSYCHOBIOL
+   Kolb B, 2012, DEV PSYCHOBIOL, V54, P311, DOI 10.1002/dev.20515
+   Kwon HJ, 2011, NEUROSCI LETT, V492, P1, DOI 10.1016/j.neulet.2011.01.007
+   Mattai A, 2011, BRAIN STIMUL, V4, P275, DOI 10.1016/j.brs.2011.01.001
+   O'Connell NE, 2011, EUR J PHYS REHAB MED, V47, P309
+   Rotenberg A, 2009, EPILEPSY BEHAV, V14, P253, DOI 10.1016/j.yebeh.2008.09.007
+   Schulz R, 2013, NEUROPHARMACOLOGY, V64, P579, DOI 10.1016/j.neuropharm.2012.05.016
+   Shah SS, 2007, ARCH PEDIAT ADOL MED, V161, P282, DOI 10.1001/archpedi.161.3.282
+   Shamliyan T, 2012, PEDIATRICS, V129, pE1291, DOI 10.1542/peds.2010-2847
+   Sokhadze E, 2010, APPL PSYCHOPHYS BIOF, V35, P147, DOI 10.1007/s10484-009-9121-2
+   Stortelder Frans, 2010, J Am Acad Psychoanal Dyn Psychiatry, V38, P503, DOI 10.1521/jaap.2010.38.3.503
+   Varga ET, 2011, EPILEPSY RES, V97, P142, DOI 10.1016/j.eplepsyres.2011.07.016
+   Walter G, 2001, J CHILD ADOL PSYCHOP, V11, P69, DOI 10.1089/104454601750143483
+NR 28
+TC 28
+Z9 29
+U1 0
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0883-0738
+EI 1708-8283
+J9 J CHILD NEUROL
+JI J. Child Neurol.
+PD OCT
+PY 2014
+VL 29
+IS 10
+BP 1360
+EP 1365
+DI 10.1177/0883073813503710
+PG 6
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA AQ5CZ
+UT WOS:000342823700024
+PM 24049057
+DA 2020-12-15
+ER
+
+PT J
+AU da Silva, LPA
+   Nova, CV
+   Lucena, R
+AF Anjos da Silva, Luzia Poliana
+   Nova, Camila Vila
+   Lucena, Rita
+TI Sickle Cell anemia and hearing loss among children and youngsters:
+   literature review
+SO BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY
+LA English
+DT Review
+DE anemia; sickle cell; deafness; prognosis; public health
+ID AUDITORY FUNCTION
+AB Sickle cell anemia is still a significant public health issue in underdeveloped and developing countries. Sickle cell disease is one of the most common inherited diseases in Brazil. It affects mainly the mixed race population. Approximately 1 African-Brazilian child is affected with sickle cell disease for every 37,400 children born alive. Hearing loss has been considered one of the main clinical manifestations, especially in children. However, to date, there are just a hand full of studies in Brazil and the Brazilian state of Bahia has the largest African-descended population, attempting to establish the frequency of this event.
+   Objectives: To analyze the major studies associated with the subject, published in the last twenty years in the main indexed databases.
+   Methods: To use MEDLINE to identify the main papers published in English in medical literature, between January of 1989 and January of 2009; associating sickle cell anemia and hearing loss, with its clinical outcomes.
+   Conclusion: Given that it is always possible to attempt to prevent disabilities, understanding hearing loss in children with sickle cell anemia enables to maximize quality of life and provides for a broader school attendance.
+RP da Silva, LPA (corresponding author), Rua Gersino Coelho,Segunda Travessa 09, BR-40255171 Salvador, BA, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168
+FU CAPESCAPES
+FX Study carried out with the support from CAPES. Integral part of the PhD
+   thesis "Anemia Falciforme em Criancas e Adolescentes na Bahia: Perfil
+   Auditivo, Neurologico e implicacoes clinicas".
+CR Alvares Filho Firmino, 1995, Sangre (Saragossa), V40, P97
+   AMAYO EO, 1992, E AFR MED J, V69, P660
+   ANVISA, 2002, MAN DIAGN TRAT DOENC
+   ATSINA KK, 1988, TROP GEOGR MED, V40, P205
+   Azevedo C, 2005, ANEMIA FALCIFORME MA, P12
+   AZEVEDO ES, 1980, AM J PHYS ANTHROPOL, V53, P509, DOI 10.1002/ajpa.1330530407
+   Burch-Sims GP, 2005, J COMMUN DISORD, V38, P321, DOI 10.1016/j.jcomdis.2005.02.007
+   Chiodo AA, 1997, J OTOLARYNGOL, V26, P116
+   CRAWFORD MR, 1991, EAR HEARING, V12, P349, DOI 10.1097/00003446-199110000-00007
+   DIGGS LW, 1956, AM J CLIN PATHOL, V26, P1109
+   Downs CR, 2000, J COMMUN DISORD, V33, P111, DOI 10.1016/S0021-9924(99)00027-1
+   ELWANY S, 1988, LARYNGOSCOPE, V98, P386
+   Embury S, 1994, SICKLE CELL DIS BASI, P599
+   Garcia Callejo F J, 2002, Acta Otorrinolaringol Esp, V53, P371
+   GTSPN/SMS/SEMUR, 2005, PROGR AT PESS COM DO
+   Herrick J.B., 1910, ARCH INTERN MED, V6, P517, DOI 10.1001/archinte.1910.00050330050003
+   Juwah AI, 2004, ARCH DIS CHILD, V89, P572, DOI 10.1136/adc.2003.037374
+   Koussi A, 2001, Acta Otorhinolaryngol Belg, V55, P235
+   Kral MC, 2001, NEUROPSYCHOL REV, V11, P179, DOI 10.1023/A:1012901124088
+   Mgbor N, 2004, INT J PEDIATR OTORHI, V68, P1413, DOI 10.1016/j.ijporl.2004.05.009
+   MILLER JM, 1988, AM J OTOLARYNG, V9, P302, DOI 10.1016/S0196-0709(88)80038-3
+   Ministerio da Saulde, COORD SANG HEM PROGR
+   OGAWA K, 1994, ACTA OTO-LARYNGOL, P85
+   OGISI FO, 1987, TROP GEOGR MED, V39, P28
+   Onakoya P A, 2002, Afr J Med Med Sci, V31, P21
+   Ondzotto G, 2002, B SOC PATHOL EXOT, V95, P248
+   Piltcher O, 2000, AM J OTOLARYNG, V21, P75, DOI 10.1016/S0196-0709(00)85001-2
+   RAMALHO AS, 1986, HEMOGLOBINOPATIAS HE
+   Silva José Antonio Novaes da, 2007, Saude soc., V16, P111, DOI 10.1590/S0104-12902007000200011
+   Silva Wellington dos Santos, 2006, Cad. Saúde Pública, V22, P2561, DOI 10.1590/S0102-311X2006001200006
+   Sims-Burch GP, 2005, J COMMUN DISORD, V38, P321
+   ZAGO MA, 1992, TROP GEOGR MED, V44, P317
+NR 32
+TC 7
+Z9 7
+U1 0
+U2 8
+PU ASSOC BRASILEIRA OTORRINOLARINGOLOGIA & CIRURGIA CERVICOFACIAL
+PI SAO PAULO
+PA AV INDIANOPOLOS 740, MOEMA, SAO PAULO, SP 04062-001, BRAZIL
+SN 1808-8694
+EI 1808-8686
+J9 BRAZ J OTORHINOLAR
+JI Braz. J. Otorhinolaryngol.
+PD JAN-FEB
+PY 2012
+VL 78
+IS 1
+BP 126
+EP 131
+DI 10.1590/S1808-86942012000100020
+PG 6
+WC Otorhinolaryngology
+SC Otorhinolaryngology
+GA 904OW
+UT WOS:000301208800020
+PM 22392250
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Vieira, C
+   Cosmo, C
+   Lucena, R
+AF Vieira, Camilo
+   Cosmo, Camila
+   Lucena, Rita
+TI The Importance of Methylmalonic Acid Dosage on the Assessment of
+   Patients with Neurological Manifestations Following Bariatric Surgery
+SO OBESITY SURGERY
+LA English
+DT Article
+ID COBALAMIN DEFICIENCY; GASTRIC BYPASS; VITAMIN-B-12 DEFICIENCY;
+   DIAGNOSIS; FOLATE; MALABSORPTION; COMPLICATIONS; CONVULSIONS
+AB Vitamin B12 or cyanocobalamin is an important substance that is included in several metabolic pathways. Its deficiency is a common event after bariatric surgery, decreasing the vitamin B12 absorption after almost all of the stomach and duodenum are eliminated from the digestion process. Neurological manifestations of cyanocobalamin deficiency are not uncommon. We report a case of a young woman who developed ataxia, weakness and peripheral neuropathy after bariatric surgery, but with normal value of vitamin B12 dosage. For the diagnosis, it was necessary to dose methylmalonic acid. We discuss the importance of methylmalonic acid dosage after bariatric surgery in patients who present suspect of cyanocobalamin deficiency with normal values of this vitamin and the role of proton pump inhibitor use and vitamin supplementation in patients with early neurological presentation.
+C1 [Vieira, Camilo; Cosmo, Camila; Lucena, Rita] Univ Fed Bahia, Clin Neuromuscular Dis, DINEP Neurol & Epidemiol Div, Salvador, BA, Brazil.
+RP Vieira, C (corresponding author), Univ Fed Bahia, Clin Neuromuscular Dis, DINEP Neurol & Epidemiol Div, Univ Complex Prof Edgar Santos, Salvador, BA, Brazil.
+EM camilovieira@uol.com.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168
+CR ABARBANEL JM, 1987, NEUROLOGY, V37, P196, DOI 10.1212/WNL.37.2.196
+   ALLEN LH, 1995, AM J CLIN NUTR, V62, P1013
+   ALLEN RH, 1993, FASEB J, V7, P1344
+   Alvarez-Leite JI, 2004, CURR OPIN CLIN NUTR, V7, P569, DOI 10.1097/00075197-200409000-00010
+   AMARAL JF, 1985, ANN SURG, V201, P186, DOI 10.1097/00000658-198502000-00009
+   Brolin R E, 1998, J Gastrointest Surg, V2, P436, DOI 10.1016/S1091-255X(98)80034-6
+   Carmel R, 2000, ANNU REV MED, V51, P357, DOI 10.1146/annurev.med.51.1.357
+   Carmel Ralph, 2003, Hematology Am Soc Hematol Educ Program, P62
+   Dahele A, 2001, AM J GASTROENTEROL, V96, P745, DOI 10.1111/j.1572-0241.2001.03616.x
+   deMello CF, 1996, BRAIN RES, V721, P120, DOI 10.1016/0006-8993(96)00117-5
+   Diez-Ewald M, 1997, Invest Clin, V38, P191
+   Gultepe M, 2003, CLIN BIOCHEM, V36, P275, DOI 10.1016/S0009-9120(03)00033-X
+   HALVERSON JD, 1981, ANN SURG, V194, P152, DOI 10.1097/00000658-198108000-00007
+   HEALTON EB, 1991, MEDICINE, V70, P229, DOI 10.1097/00005792-199107000-00001
+   Holleland G, 1999, CLIN CHEM, V45, P189
+   Juhasz-Pocsine K, 2007, NEUROLOGY, V68, P1843, DOI 10.1212/01.wnl.0000262768.40174.33
+   Kumar S, 2004, NEUROL INDIA, V52, P122
+   Kvittingen EA, 1997, EUR J PEDIATR, V156, P925, DOI 10.1007/s004310050744
+   LINDENBAUM J, 1990, AM J HEMATOL, V34, P99, DOI 10.1002/ajh.2830340205
+   Malfatti CRM, 2003, EPILEPSIA, V44, P761, DOI 10.1046/j.1528-1157.2003.42902.x
+   MARCUARD SP, 1994, ANN INTERN MED, V120, P211, DOI 10.7326/0003-4819-120-3-199402010-00006
+   Morris MS, 2002, J NUTR, V132, P2799
+   Norman EJ, 1998, BRIT J HAEMATOL, V100, P614, DOI 10.1046/j.1365-2141.1998.0636k.x
+   Parkes E, 2006, AM J MED SCI, V331, P207, DOI 10.1097/00000441-200604000-00007
+   Rhode BM, 1996, AM J CLIN NUTR, V63, P103
+   Skroubis G, 2002, OBES SURG, V12, P551, DOI 10.1381/096089202762252334
+   Snow CF, 1999, ARCH INTERN MED, V159, P1289, DOI 10.1001/archinte.159.12.1289
+   STABLER SP, 1990, BLOOD, V76, P871
+   Thaisetthawatkul P, 2004, NEUROLOGY, V63, P1462
+   Vargas-Ruiz AG, 2008, OBES SURG, V18, P288, DOI 10.1007/s11695-007-9310-0
+NR 30
+TC 7
+Z9 8
+U1 0
+U2 1
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0960-8923
+EI 1708-0428
+J9 OBES SURG
+JI Obes. Surg.
+PD DEC
+PY 2011
+VL 21
+IS 12
+BP 1971
+EP 1974
+DI 10.1007/s11695-011-0449-3
+PG 4
+WC Surgery
+SC Surgery
+GA 850NM
+UT WOS:000297201700024
+PM 21688116
+DA 2020-12-15
+ER
+
+PT J
+AU Keck, LS
+   Lucena, R
+   Schuler, P
+   Burton, J
+   Desai, B
+   Cosio-Lima, L
+AF Keck, Lesley S.
+   Lucena, Rita
+   Schuler, Petra
+   Burton, Julia
+   Desai, Bhargav
+   Cosio-Lima, Ludmila
+TI Effect Of Balance And Strength Training On Balance Self-efficacy In
+   Older Adults
+SO MEDICINE AND SCIENCE IN SPORTS AND EXERCISE
+LA English
+DT Meeting Abstract
+CT 57th Annual Meeting of the American-College-Sports-Medicine/Inaugural
+   World Congress on Exercise is Medicine
+CY JUN 05, 2010
+CL Baltimore, MD
+SP Amer Coll Sports Med
+C1 [Keck, Lesley S.; Lucena, Rita; Schuler, Petra; Burton, Julia; Desai, Bhargav; Cosio-Lima, Ludmila] Univ W Florida, Pensacola, FL 32514 USA.
+EM lkeck.ce91@gtalumni.org
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 5
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0195-9131
+J9 MED SCI SPORT EXER
+JI Med. Sci. Sports Exerc.
+PD MAY
+PY 2010
+VL 42
+IS 5
+SU 1
+MA 1825
+BP 412
+EP 413
+DI 10.1249/01.MSS.0000384782.87319.76
+PG 2
+WC Sport Sciences
+SC Sport Sciences
+GA 759FO
+UT WOS:000290226301480
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+   Cardoso, E
+   Melo, A
+AF Lucena, Rita
+   Cardoso, Eduardo
+   Melo, Ailton
+TI LEVODOPA RESPONSIVE DYSTONIA SECONDARY TO VIRUS ENCEPHALITIS
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA English
+DT Article
+ID JAPANESE ENCEPHALITIS; MOVEMENT-DISORDERS; PARKINSONISM; PROGNOSIS
+C1 [Lucena, Rita; Cardoso, Eduardo; Melo, Ailton] Univ Fed Bahia, DINEP, Div Neurol & Epidemiol, Salvador, BA, Brazil.
+RP Melo, A (corresponding author), Av Magalhaes Neto 735-802, BR-41820020 Salvador, BA, Brazil.
+EM asm@ufba.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Borghi E, 2005, J MED VIROL, V75, P427, DOI 10.1002/jmv.20285
+   FERRAZ HB, 1992, CAN J NEUROL SCI, V19, P504, DOI 10.1017/S0317167100041718
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   Misra UK, 2002, POSTGRAD MED J, V78, P238, DOI 10.1136/pmj.78.918.238
+   Murgod UA, 2001, NEUROLOGY, V57, P2313, DOI 10.1212/WNL.57.12.2313
+   PEATFIELD RC, 1987, ACTA NEUROL SCAND, V76, P340, DOI 10.1111/j.1600-0404.1987.tb03591.x
+   Pradhan S, 1999, NEUROLOGY, V53, P1781, DOI 10.1212/WNL.53.8.1781
+   SCHULTZ DR, 1977, NEUROLOGY, V27, P1095, DOI 10.1212/WNL.27.11.1095
+   Segawa M, 2000, BRAIN DEV-JPN, V22, pS65
+   Solomon T, 2000, J NEUROL NEUROSUR PS, V68, P405, DOI 10.1136/jnnp.68.4.405
+   Ward CD, 2003, MOVEMENT DISORD, V18, P623, DOI 10.1002/mds.10413
+   Yokochi M, 2000, BRAIN DEV-JPN, V22, pS81
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ASSOC ARQUIVOS NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+EI 1678-4227
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD JUN
+PY 2009
+VL 67
+IS 2A
+BP 297
+EP 298
+DI 10.1590/S0004-282X2009000200024
+PG 2
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 462FA
+UT WOS:000267332500024
+PM 19547827
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, RDG
+   de Mello, RJV
+   Lessa, JR
+   Cavalcante, GM
+   Ribeiro, M
+AF Lucena, Rita de Cassia G.
+   de Mello, Roberto J. V.
+   Lessa, Jose Ronaldo, Jr.
+   Cavalcante, George M.
+   Ribeiro, Marcelo
+TI Clinical topographic findings in glioblastoma multiforme and the
+   relation with motor impairment
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE glioblastoma multiforme; motor impairment; cerebral topography
+ID BRAIN-TUMORS
+AB Glioblastoma multiforme (GBM) is the glial tumor with the highest grade of malignity. It mainly affects the cerebral hemispheres, presenting general or focal signs and symptoms, which depend on the size, the location of the lesion and rate of growth of the tumor. Objective: To analyze the relationship between motor impairment and GBM topography. Method: We studied 43 cases of GBM, related to the age, gender, localization and motor impairment. Results: The occurrence of the tumor was preponderant in adults (mean age 55 years old), men (55.82%), and frontal lobe (approximately 40%). The principal motor impairment was herniparesis, with the exception of 2 cases in the frontal lobe, 2 temporal, 1 parietal, 1 occipital and 1 frontotemporal. Conclusion: The clinical-topographic findings lead to consider the infiltrative effects (broad lesions) are responsible for the motor impairment rather than compressive effects (located lesions).
+C1 Univ Fed Pernambuco, Dept Patol, Recife, PE, Brazil.
+RP Lucena, RDG (corresponding author), Univ Fed Pernambuco, Dept Patol, Recife, PE, Brazil.
+EM ricaglu@yahoo.com
+CR Atlas SW, 1996, MAGNETIC RESONANCE I, P315
+   Behin A, 2003, LANCET, V361, P323, DOI 10.1016/S0140-6736(03)12328-8
+   BRANDAO LA, 2002, ESPECTROSCOPIA PROTO, P130
+   DeAngelis LM, 2001, NEW ENGL J MED, V344, P114, DOI 10.1056/NEJM200101113440207
+   Durmaz R, 1997, CLIN NEUROL NEUROSUR, V99, P117, DOI 10.1016/S0303-8467(97)00014-0
+   ESCOBAR A, 2004, REV MEX NEUROCI, V5, P571
+   Ferreira NF, 2004, ARQ NEURO-PSIQUIAT, V62, P695, DOI 10.1590/S0004-282X2004000400024
+   Grant R, 2004, J NEUROL NEUROSUR PS, V75, P18, DOI 10.1136/jnnp.2004.040360
+   KLEIHUES P, 1993, BRAIN PATHOL, V3, P255, DOI 10.1111/j.1750-3639.1993.tb00752.x
+   Kleihues P, 1999, Neuro Oncol, V1, P44, DOI 10.1093/neuonc/1.1.44
+   KLEIHUES P, 2000, PATHOLOGY GENETICS T, P29
+   LANTOS PL, 2002, GREENFIELDS NEUROPAT, P767
+   Law M, 2003, AM J NEURORADIOL, V24, P1989
+   Lopez-Gonzalez MA, 2000, SURG NEUROL, V53, P157, DOI 10.1016/S0090-3019(99)00177-9
+   MCKINNEY PA, 2004, J NEUROL NEUROSUR S2, V75, pS2
+   Mukand JA, 2001, AM J PHYS MED REHAB, V80, P346, DOI 10.1097/00002060-200105000-00005
+   Prados MD, 1998, CA-CANCER J CLIN, V48, P331, DOI 10.3322/canjclin.48.6.331
+   SANTOS JA, 1999, REV SOC BRASILEIRA C
+   Stark AM, 2005, SURG NEUROL, V63, P162, DOI 10.1016/j.surneu.2004.01.028
+   Tai YF, 2004, J NEUROL NEUROSUR PS, V75, P669, DOI 10.1136/jnnp.2003.028175
+NR 20
+TC 1
+Z9 1
+U1 0
+U2 4
+PU ASSOC ARQUIVOS NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+EI 1678-4227
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD JUN
+PY 2006
+VL 64
+IS 2B
+BP 441
+EP 445
+PG 5
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 068QW
+UT WOS:000239390500017
+PM 16917616
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Figueiredo, MAA
+   Dias, J
+   Lucena, R
+AF Araujo Figueiredo, Maria Aparecida
+   Dias, Juarez
+   Lucena, Rita
+TI Comments on two cases of botulism in the State of Bahia, Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE botulism; epidemiological surveillance; public health surveillance
+AB A report on two cases of botulism, one fatal, in which disease diagnosis was difficult and collaboration between public health and epidemiological surveillance services was poor. The objective of this report is to warn professionals of the seriousness of this disease and to reflect on existing public health surveillance practices.
+C1 ESAB, DIVEP, Ctr Atencao Saude Prof Jose Maria Magalhaes Neto, BR-41820000 Salvador, BA, Brazil.
+   Secretaria Saude Estado Bahia, BR-41820000 Salvador, BA, Brazil.
+   Univ Fed Bahia, Salvador, BA, Brazil.
+RP Figueiredo, MAA (corresponding author), ESAB, DIVEP, Ctr Atencao Saude Prof Jose Maria Magalhaes Neto, Av ACM S-N, BR-41820000 Salvador, BA, Brazil.
+EM mfigueiredo@saude.ba.gov.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168
+CR ARAP L, 1993, HIGIENE ALIMENTAR, V7, P32
+   FERREIRA MS, 1987, REV I MED TROP, V29, P137, DOI 10.1590/S0036-46651987000300004
+   *FUND NAC SAUD, 2002, GUIA VIG EP
+   Junqueira V. C. A., 1994, Coletanea do Instituto de Tecnologia de Alimentos, V24, P29
+   Moline N, 1996, REV CHIL PEDIATR, V67, P10
+   TEIXEIRA CF, 1998, SUS MODELOS ASSISTEN
+NR 6
+TC 1
+Z9 2
+U1 0
+U2 1
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD MAY-JUN
+PY 2006
+VL 39
+IS 3
+BP 289
+EP 291
+DI 10.1590/S0037-86822006000300014
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 068HW
+UT WOS:000239365200014
+PM 16906257
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Cardoso, ES
+   Rodrigues, BM
+   Barroso, M
+   Menezes, CJ
+   Lucena, RS
+   Nora, DB
+   Melo, A
+AF Cardoso, ES
+   Rodrigues, BM
+   Barroso, M
+   Menezes, CJ
+   Lucena, RS
+   Nora, DB
+   Melo, A
+TI Botulinum toxin type A for the treatment of the spastic equinus foot in
+   cerebral palsy
+SO PEDIATRIC NEUROLOGY
+LA English
+DT Article
+ID PLACEBO-CONTROLLED TRIAL; DOUBLE-BLIND; MANAGEMENT; MUSCLE
+AB Muscle overactivity, one of the cardinal features of spasticity, is a common sequel of cerebral palsy. In this group of patients spasticity is responsible for several limitations that interfere with gait, causing variable functional disability. Drugs such as baclofen, tizanidine, or benzodiazepines, or even definitive treatments such as orthopedics or neurosurgeries are generally prescribed with uncertain results. The use of botulinum toxin type A has been frequently suggested for the treatment of spastic equinus foot in cerebral palsy, but few studies with adequate methodology support this idea. The present paper reviews and summarizes the data of published double-blind, randomized clinical trials to assess, with a meta-analysis, if botulinum toxin type A is an adequate treatment for spasticity caused by cerebral palsy. The results reveal a statistical superiority of botulinum toxin type A over placebo on gait improvement, tested using the Physician Rating Scale and Video Gait Analysis (Peto odds ratio = 3.99, 95% confidence interval = 2.20-7.22) in patients with spastic equinus foot. The botulinum toxin group also presented better results in the subjective assessment than the placebo group (Peto odds ratio = 3.49, 95% confidence interval = 1.50-8.12). Adverse events were more frequently observed after the use of botulinum toxin type A, but they were considered mild and self-limited. (c) 2006 by Elsevier Inc. All rights reserved.
+C1 Univ Fed Bahia, Neurol & Epidemiol Div, Salvador, BA, Brazil.
+RP Melo, A (corresponding author), Av Magalhaes Neto 735 Ap 802, BR-41820001 Salvador, BA, Brazil.
+EM asm@ufba.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Baker R, 2002, DEV MED CHILD NEUROL, V44, P666, DOI 10.1111/j.1469-8749.2002.tb00268.x
+   Bakheit AMO, 2004, J NEUROL NEUROSUR PS, V75, P665, DOI 10.1136/jnnp.2003.026096
+   Cardoso E, 2005, ARQ NEURO-PSIQUIAT, V63, P30, DOI 10.1590/S0004-282X2005000100006
+   Graham HK, 2000, GAIT POSTURE, V11, P67, DOI 10.1016/S0966-6362(99)00054-5
+   Jadad AR, 1996, CONTROL CLIN TRIALS, V17, P1, DOI 10.1016/0197-2456(95)00134-4
+   KIM IW, 2002, AM J PHYS REHABIL, V81, P297
+   KOMAN LA, 1994, J PEDIATR ORTHOPED, V14, P299, DOI 10.1097/01241398-199405000-00005
+   Koman LA, 2004, LANCET, V363, P1619, DOI 10.1016/S0140-6736(04)16207-7
+   Koman LA, 2000, J PEDIATR ORTHOPED, V20, P108, DOI 10.1097/00004694-200001000-00022
+   Love SC, 2001, EUR J NEUROL, V8, P50, DOI 10.1046/j.1468-1331.2001.00038.x
+   MELO A, 2005, ABPC, V1, P18
+   Olney SJ, 1995, PHYSICAL THERAPY CHI, P489
+   Pidcock FS, 2004, J PEDIATR-US, V145, pS33, DOI 10.1016/j.jpeds.2004.05.020
+   SIMPSON DM, 1997, MUSCLE NERVE       S, V6, P169
+   Sutherland DH, 1999, GAIT POSTURE, V10, P1, DOI 10.1016/S0966-6362(99)00012-0
+   Ubhi T, 2000, ARCH DIS CHILD, V83, P481, DOI 10.1136/adc.83.6.481
+NR 16
+TC 35
+Z9 34
+U1 0
+U2 6
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0887-8994
+EI 1873-5150
+J9 PEDIATR NEUROL
+JI Pediatr. Neurol.
+PD FEB
+PY 2006
+VL 34
+IS 2
+BP 106
+EP 109
+DI 10.1016/j.pediatrneurol.2005.08.010
+PG 4
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA 013NW
+UT WOS:000235417000004
+PM 16458821
+DA 2020-12-15
+ER
+
+PT J
+AU Marques, W
+   Freitas, MR
+   Nascimento, OJM
+   Oliveira, AB
+   Calia, L
+   Melo, A
+   Lucena, R
+   Rocha, V
+   Barreira, AA
+AF Marques, W
+   Freitas, MR
+   Nascimento, OJM
+   Oliveira, AB
+   Calia, L
+   Melo, A
+   Lucena, R
+   Rocha, V
+   Barreira, AA
+TI 17p duplicated Charcot-Marie-Tooth 1A - Characteristics of a new
+   population
+SO JOURNAL OF NEUROLOGY
+LA English
+DT Article
+DE Charcot-Marie-Tooth 1A; demyelinating neuropathy; hereditary motor and
+   sensory neuropathy; nerve conduction studies; 17p11-2-p12 duplication
+ID DISEASE TYPE 1A; NEUROPATHY TYPE-I; MOTOR SENSORY NEUROPATHY; HEREDITARY
+   MOTOR; 17P11.2 DUPLICATION; PRESSURE PALSIES; NERVE-CONDUCTION;
+   RECOMBINATION HOTSPOT; MOLECULAR DIAGNOSIS; HOT-SPOT
+AB The most frequent type of Charcot-Marie-Tooth (CMT) neuropathy is that associated with the 17p11.2-p12 chromosome duplication, whose characteristics have been well described in European and North American populations. In this study, we analyzed a Brazilian population exhibiting the mutation, found in 57 patients from 42 families (79%) of a cohort of 53 families with demyelinating CMT. Almost 20% of the duplicated cases were sporadic. In 77% of the duplicated families the mutation event occurred in the hot spot area of the CMT1A-Rep region. Forty-five percent of patients were females, 84% were Caucasians and 13% of African descent. Distal limb weakness was the most frequent abnormality, appearing in 84% of patients, although uncommon manifestations such as severe proximal weakness, floppy baby syndrome, diaphragmatic weakness and severe scoliosis were also observed. One patient was wheelchair-bound, and three suffered severe hand weakness. Sensory abnormalities were detected in 84% of the cases, but 80% were unaware of this impairment. Twelve patients complained of positive sensory manifestations such as pain and paresthesias. Progression was reported by 40%. Motor conduction velocities in the upper limbs were always less than 35 m/s, and less than 30.4 m/s in the peroneal nerve. The findings of this study expand the clinical spectrum of the disease.
+C1 Univ Sao Paulo, Sch Med Ribeirao Preto, Dept Neurol, BR-14048900 Sao Paulo, Brazil.
+   Univ Fed Fluminense, Sch Med, Dept Neurol, BR-24220100 Rio De Janeiro, Brazil.
+   Univ Fed Sao Paulo, Sch Med, Dept Neurol, BR-0403931 Sao Paulo, Brazil.
+   Univ Fed Bahia, Sch Med, Fac Med, Dept Neurol, Salvador, BA, Brazil.
+RP Marques, W (corresponding author), Univ Sao Paulo, Sch Med Ribeirao Preto, Dept Neurol, Av Bandeirantes 3900, BR-14048900 Sao Paulo, Brazil.
+EM wmjunior@fmrp.usp.br
+RI Barreira, Amilton/A-1159-2008; Lucena, Rita/L-9842-2013; Marques,
+   Wilson/G-4240-2012
+OI Lucena, Rita/0000-0002-6190-9168; Marques, Wilson/0000-0002-4589-2749;
+   Melo, Ailton/0000-0001-7457-0573; Barreira, Amilton/0000-0002-4791-223X
+CR AIYESIMOJU AB, 1984, NEUROLOGY, V34, P361, DOI 10.1212/WNL.34.3.361
+   Auer-Grumbach M, 2000, MUSCLE NERVE, V23, P1243, DOI 10.1002/1097-4598(200008)23:8<1243::AID-MUS13>3.0.CO;2-Z
+   BAKER RS, 1979, NEUROPADIATRIE, V10, P290, DOI 10.1055/s-0028-1085331
+   BELLONE E, 1992, J MED GENET, V29, P492
+   Birouk N, 1997, BRAIN, V120, P813, DOI 10.1093/brain/120.5.813
+   Boerkoel CF, 2002, ANN NEUROL, V51, P190, DOI 10.1002/ana.10089
+   BRICE A, 1992, J MED GENET, V29, P807, DOI 10.1136/jmg.29.11.807
+   BUCHTHAL F, 1977, BRAIN, V100, P41, DOI 10.1093/brain/100.1.41
+   Butefisch C, 1999, NEUROLOGY, V52, P890, DOI 10.1212/WNL.52.4.890
+   Butefisch CM, 1998, MUSCLE NERVE, V21, P788
+   CARDOSO FEC, 1993, MUSCLE NERVE, V16, P904, DOI 10.1002/mus.880160904
+   Carter GT, 1998, ARCH PHYS MED REHAB, V79, P1560, DOI 10.1016/S0003-9993(98)90421-X
+   Carvalho-Silva DR, 2001, AM J HUM GENET, V68, P281, DOI 10.1086/316931
+   CHANDA S, 1992, COMP PHYSIOL ECOL, V17, P1
+   de Jonghe P, 1999, ANN NY ACAD SCI, V883, P389
+   DEVISSER M, 1990, MUSCLE NERVE, V13, P40, DOI 10.1002/mus.880130109
+   Dubourg O, 2001, NEUROMUSCULAR DISORD, V11, P458, DOI 10.1016/S0960-8966(00)00222-4
+   DYCK PJ, 1993, PERIPHERAL NEUROPATH, V2, P1095
+   FREITAS MRG, 1990, ARQ NEURO-PSIQUIAT, V26, P165
+   Gabreels-Festen A, 1999, J NEUROL NEUROSUR PS, V66, P569, DOI 10.1136/jnnp.66.5.569
+   Garcia A, 1998, NEUROLOGY, V50, P1061, DOI 10.1212/WNL.50.4.1061
+   HARDING AE, 1980, BRAIN, V103, P259, DOI 10.1093/brain/103.2.259
+   HOOGENDIJK JE, 1994, MUSCLE NERVE, V17, P85, DOI 10.1002/mus.880170112
+   HOOGENDIJK JE, 1991, HDB CLIN NEUROLOGY, P185
+   IONASESCU VV, 1995, MUSCLE NERVE, V18, P267, DOI 10.1002/mus.880180302
+   IONASESCU VV, 1993, MUSCLE NERVE, V16, P1232, DOI 10.1002/mus.880161114
+   JONES HR, 1990, MUSCLE NERVE, V13, P338, DOI 10.1002/mus.880130410
+   KAKU DA, 1993, NEUROLOGY, V43, P2664, DOI 10.1212/WNL.43.12.2664
+   KAKU DA, 1993, NEUROLOGY, V43, P1806, DOI 10.1212/WNL.43.9.1806
+   Kessali M, 1997, NEUROLOGY, V48, P867, DOI 10.1212/WNL.48.4.867
+   Krajewski KM, 2000, BRAIN, V123, P1516, DOI 10.1093/brain/123.7.1516
+   Lewis RA, 2000, MUSCLE NERVE, V23, P1472, DOI 10.1002/1097-4598(200010)23:10<1472::AID-MUS3>3.0.CO;2-#
+   Lopes J, 1996, AM J HUM GENET, V58, P1223
+   LUPSKI JR, 1991, CELL, V66, P219, DOI 10.1016/0092-8674(91)90613-4
+   MACMILLAN JC, 1992, J MED GENET, V29, P12, DOI 10.1136/jmg.29.1.12
+   Marques Junior W, 1992, Arq Neuropsiquiatr, V50, P433
+   Marques W, 1998, ANN NEUROL, V43, P680, DOI 10.1002/ana.410430521
+   MATSUNAMI N, 1992, NAT GENET, V1, P176, DOI 10.1038/ng0692-176
+   Murakami T, 1999, MUSCLE NERVE, V22, P1593, DOI 10.1002/(SICI)1097-4598(199911)22:11<1593::AID-MUS17>3.0.CO;2-H
+   Nelis E, 1996, EUR J HUM GENET, V4, P25
+   PATEL P, 1992, J INT BUS STUD, V22, P1
+   Raeymaekers P, 1991, Neuromuscul Disord, V1, P93, DOI 10.1016/0960-8966(91)90055-W
+   Reilly MM, 1998, J NEUROL, V245, P6
+   Reiter LT, 1996, NAT GENET, V12, P288, DOI 10.1038/ng0396-288
+   ROSEN SA, 1989, NEUROLOGY, V39, P1173, DOI 10.1212/WNL.39.9.1173
+   SKRE H, 1974, CLIN GENET, V6, P98
+   SNIPES GJ, 1995, J ANAT, V186, P483
+   Stronach EA, 1999, J PERIPHER NERV SYST, V4, P117
+   Thomas PK, 1997, BRAIN, V120, P465, DOI 10.1093/brain/120.3.465
+   Timmerman V, 1997, J MED GENET, V34, P43, DOI 10.1136/jmg.34.1.43
+   TIMMERMAN V, 1992, NAT GENET, V1, P171, DOI 10.1038/ng0692-171
+   UNCINI A, 1994, ANN NEUROL, V35, P552, DOI 10.1002/ana.410350508
+   VALENTIJN LJ, 1992, NAT GENET, V1, P166, DOI 10.1038/ng0692-166
+   WEBB LB, 1998, MUSCLE NERVE, V21, P1575
+   WISE CA, 1993, AM J HUM GENET, V53, P853
+NR 55
+TC 34
+Z9 34
+U1 0
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0340-5354
+EI 1432-1459
+J9 J NEUROL
+JI J. Neurol.
+PD AUG
+PY 2005
+VL 252
+IS 8
+BP 972
+EP 979
+DI 10.1007/s00415-005-0797-9
+PG 8
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA 956NU
+UT WOS:000231307700017
+PM 15765265
+DA 2020-12-15
+ER
+
+PT J
+AU Cardoso, E
+   Rodrigues, B
+   Lucena, R
+   de Oliveira, IR
+   Pedreira, G
+   Melo, A
+AF Cardoso, E
+   Rodrigues, B
+   Lucena, R
+   de Oliveira, IR
+   Pedreira, G
+   Melo, A
+TI Botulinum toxin type A for the treatment of the upper limb spasticity
+   after stroke - A meta-analysis
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA English
+DT Article
+DE stroke; spasticity; botulinum toxin; rehabilitation
+ID DOUBLE-BLIND; MUSCLE SPASTICITY; PLACEBO; EFFICACY; SAFETY
+AB Muscle over-activity is one of the cardinal features of spasticity and it is a common disability of stroke patients. In this group, spasticity is responsible for several limitations that interfere in their daily activities and quality of life. To treat spasticity, neurologists usually prescribe drugs as baclofen, tizanidine or benzodiazepines or even use definitive treatment as phenol or surgery. Authors suggest the use of botulinum toxin type A (BTX-A) for spasticity in the upper limbs after stroke, but there are few papers with adequate methodology supporting this idea. In this article we summarize the data of previous double-blind, randomised clinical trials to asses, with a meta-analysis, if BTX-A is an adequate treatment for spasticity due to stroke. The results show a statistical superiority of BTX-A ov%r placebo on reducing muscle tone by the Modified Ashworth Scale (WMD = 0.95 [0.74 to 1.17]) in patients with post-stroke upper limb spasticity.
+C1 Univ Fed Bahia, DINEP, Div Neurol, Salvador, BA, Brazil.
+RP Cardoso, E (corresponding author), Avenida Magalhaes Neto 735-802, BR-41820020 Salvador, BA, Brazil.
+RI de Oliveira, Irismar R/B-4172-2009; Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Bakheit AMO, 2000, STROKE, V31, P2402, DOI 10.1161/01.STR.31.10.2402
+   Bakheit AMO, 2004, J NEUROL NEUROSUR PS, V75, P665, DOI 10.1136/jnnp.2003.026096
+   Bakheit AMO, 2001, EUR J NEUROL, V8, P559, DOI 10.1046/j.1468-1331.2001.00277.x
+   Bhakca B, 2001, J NEUROL NEUROSUR PS, V70, P821
+   BLASI J, 1993, NATURE, V365, P160, DOI 10.1038/365160a0
+   BOHANNON RW, 1987, PHYS THER, V67, P206, DOI 10.1093/ptj/67.2.206
+   Brashear A, 2002, NEW ENGL J MED, V347, P395, DOI 10.1056/NEJMoa011892
+   Jadad AR, 1996, CONTROL CLIN TRIALS, V17, P1, DOI 10.1016/0197-2456(95)00134-4
+   MIZRAHI EM, 1979, ANN NEUROL, V5, P494
+   NAKAYAMA H, 1994, ARCH PHYS MED REHAB, V75, P394, DOI 10.1016/0003-9993(94)90161-9
+   Rousseaux M, 2002, J NEUROL, V249, P76, DOI 10.1007/PL00007851
+   Simpson DM, 1996, NEUROLOGY, V46, P1306, DOI 10.1212/WNL.46.5.1306
+   Smith SJ, 2000, CLIN REHABIL, V14, P5, DOI 10.1191/026921500666642221
+   WADE DT, 1992, BRIT MED J, V304, P609, DOI 10.1136/bmj.304.6827.609
+NR 14
+TC 39
+Z9 43
+U1 0
+U2 4
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD MAR
+PY 2005
+VL 63
+IS 1
+BP 30
+EP 33
+DI 10.1590/S0004-282X2005000100006
+PG 4
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 912TV
+UT WOS:000228103700006
+PM 15830061
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+   Fonseca, N
+   Nunes, L
+   Cardoso, A
+   Goes, J
+   Correia, MC
+   Cardoso, E
+   Queiros, F
+   Anjos, LP
+   Vila-Nova, C
+   Melo, A
+AF Lucena, R
+   Fonseca, N
+   Nunes, L
+   Cardoso, A
+   Goes, J
+   Correia, MC
+   Cardoso, E
+   Queiros, F
+   Anjos, LP
+   Vila-Nova, C
+   Melo, A
+TI Intra-hospital lethality among infants with pyogenic meningitis
+SO PEDIATRIC NEUROLOGY
+LA English
+DT Article
+ID ACUTE BACTERIAL-MENINGITIS; CHILDREN; INFECTIONS
+AB Predictor variables of intra-hospital lethality among infants with pyogenic meningitis due to Neisseria meningitidis, Haemophilus influenzae, and Streptococcus pneumoniae were identified using data from a follow-up study of infants with bacterial meningitis. The infants who were admitted to Couto Maia Hospital from March 1, 1997 to December 31, 1997 presenting with symptoms of bacterial meningitis were identified and included in a database. An analysis of the clinical and laboratory information was performed using EPI info 6.01b and SPSS 6.1 statistical programs. The total mortality rate was 17.1%, and the majority of deaths occurred within 48 hours of hospitalization. Factors associated most frequently with poor outcome included absence of respiratory infection, high cerebrospinal fluid protein, and compromised cranial nerves. Early identification of major risk groups is important to adopt measures to improve prognosis. (c) 2005 by Elsevier Inc. All rights reserved.
+C1 Univ Fed Bahia, DINEP, Salvador, BA, Brazil.
+RP Lucena, R (corresponding author), Hosp Clin, Div Neurol & Epidemiol, BR-40110170 Salvador, BA, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Ahman H, 1998, PEDIATR INFECT DIS J, V17, P211, DOI 10.1097/00006454-199803000-00008
+   AKPEDE GO, 1994, J TROP PEDIATRICS, V40, P231, DOI 10.1093/tropej/40.4.231
+   ASHWAL S, 1990, J PEDIATR-US, V117, P523, DOI 10.1016/S0022-3476(05)80683-3
+   Barzilai A, 1999, PEDIATR INFECT DIS J, V18, P301, DOI 10.1097/00006454-199903000-00022
+   BUCHANAN GA, 1994, SOUTHERN MED J, V87, P38, DOI 10.1097/00007611-199401000-00009
+   Casado Flores J, 1997, An Esp Pediatr, V47, P466
+   Chang CJ, 2004, BRAIN DEV-JPN, V26, P168, DOI 10.1016/S0387-7604(03)00122-0
+   Chang CJ, 2003, PEDIATR NEUROL, V29, P288, DOI 10.1016/S0887-8994(03)00273-X
+   Chang YC, 1998, PEDIATR NEUROL, V18, P213, DOI 10.1016/S0887-8994(97)00184-7
+   COMMEY JOO, 1994, E AFR MED J, V71, P113
+   El Bashir H, 2003, ARCH DIS CHILD, V88, P615, DOI 10.1136/adc.88.7.615
+   FAJARDO JE, 1989, PEDIATR NEUROL, V5, P37, DOI 10.1016/0887-8994(89)90007-6
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   Hall CB, 1996, PEDIATRICS, V97, P404
+   LAINE J, 1991, ACTA PAEDIATR SCAND, V80, P1031
+   Lucena R, 2002, ARQ NEURO-PSIQUIAT, V60, P281, DOI 10.1590/S0004-282X2002000200018
+   Molyneux E, 1998, TROP MED INT HEALTH, V3, P610, DOI 10.1046/j.1365-3156.1998.00278.x
+   NAN R, 2004, NEUROLOGY, V62, P509
+   Peltola H, 1998, PEDIATR INFECT DIS J, V17, pS148, DOI 10.1097/00006454-199809001-00011
+   SALIH MAM, 1990, ANN TROP PAEDIATR, V10, P203, DOI 10.1080/02724936.1990.11747431
+   Scheifele DW, 1996, CAN MED ASSOC J, V154, P1041
+   Taraszkiewicz F, 1996, Pediatr Pol, V71, P689
+   URWIN G, 1994, BRIT MED J, V309, P1412, DOI 10.1136/bmj.309.6966.1412
+   Zimmer SM, 2004, EXPERT OPIN PHARMACO, V5, P855, DOI 10.1517/14656566.5.4.855
+NR 24
+TC 2
+Z9 4
+U1 0
+U2 0
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0887-8994
+EI 1873-5150
+J9 PEDIATR NEUROL
+JI Pediatr. Neurol.
+PD MAR
+PY 2005
+VL 32
+IS 3
+BP 180
+EP 183
+DI 10.1016/j.pediatrneurol.2004.09.016
+PG 4
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA 914BD
+UT WOS:000228198600006
+PM 15730898
+DA 2020-12-15
+ER
+
+PT J
+AU Mota, M
+   Melo, A
+   Burak, C
+   Daltro, C
+   Rodrigues, B
+   Lucena, R
+AF Mota, M
+   Melo, A
+   Burak, C
+   Daltro, C
+   Rodrigues, B
+   Lucena, R
+TI Anthropometric cranial measures of normal newborn
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Spanish
+DT Article
+DE cephalic perimeter; biauricular distance; cephalic index; newborns;
+   anthropometric measures; fontanel
+AB Objective: The study has been carried out through anthropometric measures of Bahian newborns, to define measures according with the reality of this region. Method: Study type transversal cut in term babies with the measures of cephalic perimeter, biauricular and anteroposterior distances, fontanel and cephalic index. Results: 388 babies, 204 (52.6%) of males and 184 (47.4%) females had been evaluated. The cephalic perimeter varied between 31.0 and 38.0 cm, with 34.4 +/- 1.2 average. The cephalic index varied between 0.75 and 1.06, with 0.91 +/- 0.05 average. Conclusion: The anthropometric measures are surveyed aiming at precocious detention of anomalies. Possibly, these measures can be influenced by racial factors; however, the measures carried through in Brazil follow values of foreign authors. Thus, the study shows data of a Northeastern region and points out the importance of the accomplishment of multicentric studies.
+C1 Univ Fed Bahia, Salvador, BA, Brazil.
+   HCSR, Serv Neonatol, Salvador, BA, Brazil.
+RP Mota, M (corresponding author), Rua Antonio Silva Coelho 16, BR-41750040 Salvador, BA, Brazil.
+EM clinicaanemm@hotmail.com
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR BALLARD JL, 1991, J PEDIATR-US, V119, P417, DOI 10.1016/S0022-3476(05)82056-6
+   BUCY PC, 1966, PRACTIQUE PEDIAT, P17
+   DIAMENT AJ, 1985, MONOGRAFIAS MED, V24, P24
+   DIAMENT AJ, 1976, EVOLUCAO NEUROLOGICA
+   GESELL A, 1938, PSICHOLOGY GROWTH IN
+   GOMES U A, 1989, Arquivos de Neuro-Psiquiatria, V47, P392
+   LEFEVRE A. B., 1971, PROPEDEUTICA NEUROLO, P413
+   LEFEVRE AFB, 1950, THESIS U SAO PAULO S
+   MARCONDES E, 1976, ARQ NEURO-PSIQUIAT, V34, P325
+   MARCONDES E, 1971, ANAIS NESTLE, V84, P10
+   *MIN SAUD, 1986, PROGR ASS INT SAUD C
+   MORENORUIZ ME, 2000, B MED HOSP INFANT M, V59, P599
+   Nelson W.E., 1964, TXB PEDIAT
+   Norusis M. J., 1998, STAT PACKAGE SOCIAL
+   PRECHTI HFR, 1977, CIN DEV MED, V63
+   PRECHTI HFR, 1960, LONG TERM VALUE NEUR
+   Watson EH, 1962, GROWTH DEV CHILDREN
+NR 17
+TC 6
+Z9 10
+U1 0
+U2 0
+PU ASSOC ARQUIVOS NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+EI 1678-4227
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 2004
+VL 62
+IS 3A
+BP 626
+EP 629
+DI 10.1590/S0004-282X2004000400011
+PG 4
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 853AV
+UT WOS:000223799400011
+PM 15334220
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Anjos, LP
+   Queiros, F
+   Pereira, MC
+   Brandao, M
+   Melo, A
+   Lucena, R
+AF Anjos, LP
+   Queiros, F
+   Pereira, MC
+   Brandao, M
+   Melo, A
+   Lucena, R
+TI Audiologic late prognosis due to meningitis in children
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Spanish
+DT Article
+DE meningitis; children; prognosis; hearing loss; neurological impairment;
+   communication
+ID BACTERIAL-MENINGITIS; ETIOLOGY; INFANTS
+AB Introduction: Auditory deficit has been considered one of the main late manifestations of meningitis, when it occurs during the two first years of life. Few studies have been conducted in Brazil explaining the evolution of children who had meningitis and the percentage, as well the neurological gravity, the auditory problems and sequels after the children left the hospital. Objective:To characterize the main auditory and neurological correlation, delineating the profile of the auditory deficits found five years after the central nervous system infection. Method: We evaluated children between 5 and 7 years old, admitted in Couto Maia Hospital in the year of 1997, that had been diagnosed with meningitis at an age of two years or below. Results: 19 children passed through the neurological and auditory evaluation. The average age was 6 years and 68.42% were male. In relation to etiology, 52.63% pyogenic, 42.1% viral, 5.26% due to tuberculosis. Auditory alterations had occurred in 26.31% of this population. Conclusion: Auditory problems cause academic and social implications in the affected children, especially those of school age. We confirmed the necessity of audiologic following of all children with previous history of meningitis.
+C1 Univ Estado Bahia, Dept Ciencias Vida, Salvador, BA, Brazil.
+   Univ Estado Bahia, Div Neurol, Neurol Serv, Salvador, BA, Brazil.
+   CNPq, Rio De Janeiro, Brazil.
+RP Anjos, LP (corresponding author), Rua Gersino Coelhol 2A Traversa 09, BR-40255170 Salvador, BA, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Alberti P W, 1993, World Health Forum, V14, P1
+   Azevedo MF, 1991, TEMAS DESENVOLVIMENT, V3, P11
+   BORGES SC, 1998, FUNDAMENTOS FONOAUDI, P107
+   BRYAN JP, 1990, REV INFECT DIS, V12, P128
+   Couto MIV, 1999, ARQ NEURO-PSIQUIAT, V57, P808, DOI 10.1590/S0004-282X1999000500012
+   Eckel HE, 1998, HNO, V46, P252, DOI 10.1007/s001060050234
+   ELIAS K, 1994, PROFONO REV ATUALIZA, V1, P3
+   FORTA S, 1998, FUNDAMENTOS FONOAUDI, P41
+   GOES J, 2003, THESIS MESTRADO U FE
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   GUARDIOLA A, 1994, THESIS U FEDERAL RIO
+   Kesser BW, 1999, OTOLARYNG HEAD NECK, V120, P628, DOI 10.1053/hn.1999.v120.a92772
+   LALWANI AK, 1998, PEDIAT OTOLOGY NEURO
+   LEFEVRE AB, 1975, DISFUNCAO CEREBRAL M, P234
+   Lucena R, 2002, ARQ NEURO-PSIQUIAT, V60, P281, DOI 10.1590/S0004-282X2002000200018
+   Lucena R, 1996, ARQ NEURO-PSIQUIAT, V54, P571, DOI 10.1590/S0004-282X1996000400004
+   Northern JL, 1991, HEARING CHILDREN
+   OLIVEIRA P, 2002, REV BRAS OTORINOLARI, V68, P18
+   OZUMBA UC, 1995, CTR AFR J MED, V41, P93
+   SIBBALDI A, 1997, MANUAL OTORRINOLARIN, P291
+   Zakzouk SM, 1997, J OTOLARYNGOL, V26, P335
+NR 21
+TC 4
+Z9 5
+U1 0
+U2 0
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 2004
+VL 62
+IS 3A
+BP 635
+EP 640
+DI 10.1590/S0004-282X2004000400013
+PG 6
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 853AV
+UT WOS:000223799400013
+PM 15334222
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Queiros, F
+   Duarte, G
+   Correia, C
+   Sergio, JG
+   Vila-Nova, C
+   Lucena, R
+AF Queiros, F
+   Duarte, G
+   Correia, C
+   Sergio, JG
+   Vila-Nova, C
+   Lucena, R
+TI Worster-Drought syndrome: case report and distinction in relation to
+   Foix-Chavany-Marie syndrome
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE Worster-Drought syndrome; speech pathology; Foix-Chavany-Marie syndrome;
+   abortives; oral motricity; cognitive alterations
+AB Worster-Drought syndrome is a clinical entity resulting from cortico-nuclear tract or cerebral cortex injury, without defined etiology, characterized by alteration of the muscles that control the lips, jaw, tongue, soft palate and pharynx. The main clinical manifestations are alterations in the fonation and deglutition. We describe the case of a 15 year old female patient, displaying the cited syndrome. The clinical, radiological and neurophysiological findings are compared with the described data in the literature. We question the connection between Worster-Drought and Foix-Chavany-Marie syndroms, as well as the possible relationship with use of abortive drugs and similar oromotor problems as found in these two syndromes.
+C1 Univ Fed Bahia, Fonoaudiol Clin, Mestranda Neurociencias, Salvador, BA, Brazil.
+   Univ Fed Bahia, Med Acad, Salvador, BA, Brazil.
+   Hosp Sao Rafael, Med Neurofisiol, Salvador, BA, Brazil.
+RP Queiros, F (corresponding author), Rua Boa Fe 72E, BR-41185290 Salvador, BA, Brazil.
+EM nandafono@terra.com.br
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168
+CR Ann M Y, 2001, Zhonghua Yi Xue Za Zhi (Taipei), V64, P540
+   CALWSON A, 1992, BENDER INFANTIL MANU
+   Christen HJ, 2000, DEV MED CHILD NEUROL, V42, P122, DOI 10.1017/S0012162200000232
+   Clark M, 2000, BRAIN, V123, P2160, DOI 10.1093/brain/123.10.2160
+   LIPSON AH, 1991, TERATOLOGY, V43, P557, DOI 10.1002/tera.1420430608
+   MURDOCH BE, 1997, DESENVOLVIMENTO FALA
+   Nevo Y, 2001, PEDIATR NEUROL, V24, P153, DOI 10.1016/S0887-8994(00)00245-9
+   ORTIZ KZ, 1997, TRATADO FONOAUDIOLOG, P939
+   REED H, 1953, BR BONE JOINT SURG, V35, P437
+   WEISS MLL, 2002, PSICOPEDAGOGIA CLIN
+   WELLER M, 1993, J NEUROL, V240, P199, DOI 10.1007/BF00818705
+   WORSTERDROUGHT C, 1974, DEV MED CHILD NEUROL, V16, P1
+   Zorzi J. L., 1998, FUNDAMENTOS FONOAUDI, P59
+NR 13
+TC 2
+Z9 2
+U1 0
+U2 4
+PU ASSOC ARQUIVOS NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+EI 1678-4227
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 2004
+VL 62
+IS 3B
+BP 906
+EP 910
+DI 10.1590/S0004-282X2004000500035
+PG 5
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 907EH
+UT WOS:000227697700035
+PM 15476096
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+   Gomes, I
+   Cardoso, E
+   Goes, J
+   Nunes, L
+   Cardoso, A
+   Rodrigues, B
+   Souza, M
+   Novaes, MA
+   Melo, A
+AF Lucena, R
+   Gomes, I
+   Cardoso, E
+   Goes, J
+   Nunes, L
+   Cardoso, A
+   Rodrigues, B
+   Souza, M
+   Novaes, MA
+   Melo, A
+TI Clinical and laboratorial aspects of acute bacterial meningitis in
+   infants
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE acute bacterial meningitis; infants; laboratorial; clinical
+ID B MENINGITIS; CHILDREN; EPIDEMIOLOGY; VACCINE
+AB Objective: to describe clinical and laboratorial characteristics of acute bacterial meningitis in infants. Method: data from the prospective follow-up of infants with acute bacterial meningitis, admitted at the Hospital Couto Maia between March and December 1997, were analyzed with specific statistical software. Results: acute bacterial meningitis was more prevalent in infants with ages varying from 6 months to 1 year. The most frequent etiologic agent was Haemophilus influenzae. The global lethality was 25.9% and among the survivors 39.3% left the hospital with some abnormality in the neurological exam compatible with the brain involvement. Conclusion: acute bacterial meningitis in infants is a high lethality disease that in the majority of cases can be prevented. We consider of great relevance the adoption of health prevention strategies in order to reduce the incidence of this disease.
+C1 Univ Fed Bahia, Div Neurol Epidemiol, Salvador, BA, Brazil.
+   Bolsistas CNPq, Brasilia, DF, Brazil.
+   Bolsista CAPES, Bolsista, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Akpede G O, 1995, West Afr J Med, V14, P217
+   AKPEDE GO, 1994, ANN TROP PAEDIATR, V14, P245, DOI 10.1080/02724936.1994.11747724
+   Bhat B V, 1991, J Indian Med Assoc, V89, P224
+   Campagne G, 1999, B WORLD HEALTH ORGAN, V77, P499
+   Dagan R, 1999, VACCINE, V17, P134, DOI 10.1016/S0264-410X(98)00165-0
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   Hussey G, 1997, S AFR MED J, V87, P51
+   Lucena R, 1996, ARQ NEURO-PSIQUIAT, V54, P571, DOI 10.1590/S0004-282X1996000400004
+   Moyen G, 1999, ARCH PEDIATRIE, V6, P108, DOI 10.1016/S0929-693X(99)80088-8
+   MULHOLLAND EK, 1994, LANCET, V343, P794, DOI 10.1016/S0140-6736(94)91870-8
+   Novakova E, 1999, EUR J CLIN MICROBIOL, V18, P409, DOI 10.1007/s100960050309
+   Peltola H, 1999, INFECT DIS CLIN N AM, V13, P685, DOI 10.1016/S0891-5520(05)70101-X
+   URWIN G, 1994, BRIT MED J, V309, P1412, DOI 10.1136/bmj.309.6966.1412
+NR 13
+TC 6
+Z9 8
+U1 0
+U2 0
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD JUN
+PY 2002
+VL 60
+IS 2A
+BP 281
+EP 284
+DI 10.1590/S0004-282X2002000200018
+PG 4
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 557CV
+UT WOS:000175890500019
+PM 12068360
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+AF Lucena, R
+TI Clinical and laboratorial aspects of aseptic meningitis associated with
+   MMR (measles-mumps-rubella) vaccine at a referral hospital in the State
+   of Bahia (abstract). Thesis. Salvador, 2001.
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA English
+DT Article
+DE aseptic meningitis; MMR vaccine; mumps; measles; rubella
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD MAR
+PY 2002
+VL 60
+IS 1
+BP 176
+EP 177
+DI 10.1590/S0004-282X2002000100037
+PG 2
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 535ZZ
+UT WOS:000174677400037
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Gomes, I
+   Veiga, M
+   Correa, D
+   Meza-Lucas, A
+   Mata, O
+   Garcia, RC
+   Osornio, A
+   Rabelo, R
+   Lucena, R
+   Melo, A
+AF Gomes, I
+   Veiga, M
+   Correa, D
+   Meza-Lucas, A
+   Mata, O
+   Garcia, RC
+   Osornio, A
+   Rabelo, R
+   Lucena, R
+   Melo, A
+TI Cysticercosis in epileptic patients of Mulungu do Morro Northeastern
+   Brazil
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA English
+DT Article
+DE cysticercosis; epilepsy; seizures; neurocysticercosis; epidemiology
+ID TAENIA-SOLIUM; NEUROCYSTICERCOSIS; MEXICO; COMMUNITY; ANTIGENS; GRANDE;
+   STATE
+AB With the aim to study the magnitude of infection by the metacestode of Tuenia solium in a population of epileptic patients in the arid region of Bahia, Northeastern Brazil, we examined 200 consecutive cases who attended an ambulatory clinic in the district of Mulungu do Morro. Sixty-six of the patients had a diagnosis of epilepsy. From them 10 (15.2%) presented antibodies against a specific fraction of antigens in Western blot, and 4 (6.0%) had circulating parasite products, as tested by capture ELISA. Only 1 case was positive for antibodies and antigens. We found that the frequency of seropositivity was related to the time without epileptic seizure. We conclude that cysticercosis si endemic in the region of Mulungu do Morro and that it is related to a benign form of epilepsy.
+C1 Univ Fed Bahia, BR-41170290 Salvador, BA, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Agapejev Svetlana, 1996, Revista do Instituto de Medicina Tropical de Sao Paulo, V38, P207, DOI 10.1590/S0036-46651996000300008
+   ArandaAlvarez JG, 1995, ANN TROP MED PARASIT, V89, P689, DOI 10.1080/00034983.1995.11813004
+   ARRUDA W O, 1991, Arquivos de Neuro-Psiquiatria, V49, P251
+   DAVIS LE, 1991, EUR NEUROL, V31, P229, DOI 10.1159/000116683
+   DEALBUQUERQUE ES, 1995, ARQ NEURO-PSIQUIAT, V53, P464, DOI 10.1590/S0004-282X1995000300016
+   GARCIA HH, 1991, LANCET, V338, P549
+   Garcia HH, 1997, T ROY SOC TROP MED H, V91, P176, DOI 10.1016/S0035-9203(97)90213-3
+   GoncalvesCoelho TD, 1996, ARQ NEURO-PSIQUIAT, V54, P94, DOI 10.1590/S0004-282X1996000100015
+   MACHADO ADB, 1988, REV SAUDE PUBL, V22, P240
+   MEDINA MT, 1990, ARCH INTERN MED, V150, P325, DOI 10.1001/archinte.150.2.325
+   SCHANTZ PM, 1994, CLIN INFECT DIS, V18, P879, DOI 10.1093/clinids/18.6.879
+   Sousa AD, 1998, AM J TROP MED HYG, V58, P759, DOI 10.4269/ajtmh.1998.58.759
+   Spina-Franca A, 1976, Arq Neuropsiquiatr, V34, P40
+   Takayanagui O M, 1990, Arq Neuropsiquiatr, V48, P1
+   Takayanagui O M, 1983, Arq Neuropsiquiatr, V41, P50
+   Trevisol-Bittencourt PC, 1998, ARQ NEURO-PSIQUIAT, V56, P53, DOI 10.1590/S0004-282X1998000100008
+   TSANG VCW, 1989, J INFECT DIS, V159, P50, DOI 10.1093/infdis/159.1.50
+NR 17
+TC 7
+Z9 10
+U1 0
+U2 0
+PU ASSOC ARQUIVOS NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+EI 1678-4227
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 2000
+VL 58
+IS 3A
+BP 621
+EP 624
+DI 10.1590/S0004-282X2000000400004
+PG 4
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 349AR
+UT WOS:000089022100004
+PM 10973100
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Darze, C
+   Lucena, R
+   Gomes, I
+   Melo, A
+AF Darze, C
+   Lucena, R
+   Gomes, I
+   Melo, A
+TI Prognostic factors in cryptococcal meningoencephalitis
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE cryptococcosis; Cryptococcus neoformans; meningitis;
+   meningoencephalitis; prognosis
+ID ACQUIRED IMMUNODEFICIENCY SYNDROME; NEOFORMANS INFECTION;
+   AMPHOTERICIN-B; MENINGITIS; AIDS; DISEASE; SPECTRUM; FEATURES; VIRUS
+AB Objective: To identify demographic, clinical and cerebrospinal fluid (CSF) variables associated to intrahospitalar lethality of patients with cryptococcal meningoencephalitis. Study design: Retrospective cohort to study prognosis. Setting: Hospital Couto Maia (HCMaia) reference for patients with infectious diseases in the State of Bahia Northeastern Brazil. Population: Patients admitted at HCMaia, from 1972 to 1996, with the diagnosis of cryptococcal meningoencephalitis. Results: Lethality rate was 42.7%. The most important neurological abnormalities were neck stiffness, decreased consciousness level, behavior changes, cranial nerve palsy and Visual alterations. Disease time over 30 days, involvement of consciousness level and cerebrospinal fluid cells under 40/mm(3) were associated to a higher lethality rate. Conclusion: Disease time over 30 days, involvement of consciousness level, and CSF decreased cellularity were the only predictors of lethality in the studied population.
+C1 Univ Fed Bahia, Div Neuroinfectol & Neuroepidemiol, BR-41170290 Salvador, BA, Brazil.
+   Univ Fed Bahia, Hosp Univ Professor Edgard Santos, Serv Neurol, BR-41170290 Salvador, BA, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR BUTLER WT, 1964, NEW ENGL J MED, V270, P59, DOI 10.1056/NEJM196401092700201
+   CALVO B, 1991, REV I MED TROP, V33, P485, DOI 10.1590/S0036-46651991000600009
+   CHUCK SL, 1989, NEW ENGL J MED, V321, P794, DOI 10.1056/NEJM198909213211205
+   CLARK RA, 1990, REV INFECT DIS, V12, P768
+   DarrasJoly C, 1996, CLIN INFECT DIS, V23, P369, DOI 10.1093/clinids/23.2.369
+   DARZE C, UNPUB REV SOC BRASME
+   DIAMOND RD, 1974, ANN INTERN MED, V80, P176, DOI 10.7326/0003-4819-80-2-176
+   DISMUKES WE, 1987, NEW ENGL J MED, V317, P334, DOI 10.1056/NEJM198708063170602
+   DISMUKES WE, 1988, J INFECT DIS, V157, P624, DOI 10.1093/infdis/157.4.624
+   KOVACS JA, 1985, ANN INTERN MED, V103, P533, DOI 10.7326/0003-4819-103-4-533
+   LEWIS JL, 1972, AM J MED, V53, P315, DOI 10.1016/0002-9343(72)90174-X
+   MITCHELL DH, 1995, CLIN INFECT DIS, V20, P611, DOI 10.1093/clinids/20.3.611
+   MITCHELL TG, 1995, CLIN MICROBIOL REV, V8, P515, DOI 10.1128/CMR.8.4.515
+   Nunes C, 1996, ARQ NEURO-PSIQUIAT, V54, P222, DOI 10.1590/S0004-282X1996000200008
+   Reis-Filho Joao Baptista Dos, 1994, Revista do Instituto de Medicina Tropical de Sao Paulo, V36, P225
+   SAAG MS, 1992, NEW ENGL J MED, V326, P83, DOI 10.1056/NEJM199201093260202
+   SPICKARD A, 1963, ANN INTERN MED, V58, P66, DOI 10.7326/0003-4819-58-1-66
+   WHITE M, 1992, J INFECT DIS, V165, P960, DOI 10.1093/infdis/165.5.960
+   ZUGER A, 1986, ANN INTERN MED, V104, P234, DOI 10.7326/0003-4819-104-2-234
+NR 19
+TC 5
+Z9 6
+U1 0
+U2 2
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 1999
+VL 57
+IS 3A
+BP 649
+EP 652
+DI 10.1590/S0004-282X1999000400018
+PG 4
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 228WH
+UT WOS:000082159200018
+PM 10667291
+OA Green Published, Other Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Nunes, C
+   Cunha, S
+   Gomes, I
+   Lucena, R
+   Moraes, D
+   Melo, A
+AF Nunes, C
+   Cunha, S
+   Gomes, I
+   Lucena, R
+   Moraes, D
+   Melo, A
+TI Prognostic factors for tuberculous meningoencephalitis lethality
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE tuberculous meningitis; central nervous system tuberculosis;
+   neuro-tuberculosis; prognostic
+ID MENINGITIS
+AB In order to describe the lethality predictors of patients with tuberculous meningoencephalitis, records of 231 patients were analysed. Ages ranged from less than I year to 68 years. Ninety-seven patients (42%) were four years old or less. Apart from 73.2% of patients whose diagnosis was performed by clinical and epidemiologic criteria associated with response to specific therapy, 26.8% had diagnostic confirmation through cerebrospinal fluid (culture, bacilloscopy, PCR) or necropsy. The lethality predictors were: less than 4 years of age, seizures, and severe alterations of consciousness.
+C1 Hosp Couto Maia, Salvador, BA, Brazil.
+   Univ Fed Bahia, Fac Med, Dept Prevent Med, BR-41170290 Salvador, BA, Brazil.
+   Univ Fed Bahia, Fac Med, Dept Neuropsiquiatria, Div Neuroinfectol & Neuroepidemiol, BR-41170290 Salvador, BA, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR AZAMBUJA HCP, 1993, TUBERCULOSE EPIDEMIO, P433
+   *BRAS MIN SAUD, 1995, MAN NORM CONTR TUB
+   *BRAS MIN SAUD, 1992, CONTR TUB UM PROP IN
+   CARRASCO EC, 1988, ENFERM CIR TOR, V4, P122
+   Catanzaro A, 1996, LANCET, V347, P1500, DOI 10.1016/S0140-6736(96)90666-2
+   DAVIS LE, 1993, NEUROLOGY, V43, P1775, DOI 10.1212/WNL.43.9.1775
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   HOLDINESS MR, 1990, DRUGS, V39, P224, DOI 10.2165/00003495-199039020-00006
+   KENNEDY DH, 1979, JAMA-J AM MED ASSOC, V241, P264, DOI 10.1001/jama.241.3.264
+   MARTINS TS, 1985, J BRAS MED, V4, P34
+   Misra UK, 1996, J NEUROL SCI, V137, P57, DOI 10.1016/0022-510X(95)00334-X
+   Nunes C, 1996, ARQ NEURO-PSIQUIAT, V54, P222, DOI 10.1590/S0004-282X1996000200008
+   Singh N K, 1985, J Indian Med Assoc, V83, P50
+   VALENZUELA MT, 1988, ENFERMEDADES RESPIRA, V4, P124
+   WUNSCH V, 1990, B WORLD HEALTH ORGAN, V68, P69
+   ZUGER A, 1991, INFECT CENTRAL NERVO, P425
+NR 16
+TC 5
+Z9 6
+U1 0
+U2 3
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD DEC
+PY 1998
+VL 56
+IS 4
+BP 772
+EP 777
+DI 10.1590/S0004-282X1998000500012
+PG 6
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 143AJ
+UT WOS:000077232700012
+PM 10029881
+OA Other Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+   Gomes, I
+   Goes, J
+   Melo, A
+AF Lucena, R
+   Gomes, I
+   Goes, J
+   Melo, A
+TI Survival analysis of acute pyogenic meningitis in children
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE acute pyogenic meningitis; children; survival analysis; lethality
+ID BACTERIAL-MENINGITIS; ETIOLOGY
+AB In order to determine the survival curves of lethality in acute bacteral meningitis (ABM) in children, we reviewed the charts of all patients admitted to the Hospital Couto Maia from January 1990 to December 1992. The Kaplan-Meir analysis was used to compare the survival rate and hospitalar permanence of patients with identified pathogens with those whose bacteria were not determined. The same analysis was used to compare the curves of the three most frequent agents. Statistical difference between the identified and nonidentified groups was not observed. The analysis of the three curves shows that the first 24 hours were responsible for the most elevated lethality rate. When the curves are compared, it is clear that S. pneumoniae has the most important intrahospitalar lethality and N. meningitidis the most benign evolution. We conclude that efforts have to be made to determine which variables are related to prognosis of ABM at the first day of hospital admission.
+C1 Univ Fed Bahia, Serv Neurol, BR-41170290 Salvador, BA, Brazil.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR Akpede G O, 1995, West Afr J Med, V14, P217
+   ANDERSEN J, 1995, J INFECTION, V31, P115, DOI 10.1016/S0163-4453(95)92085-4
+   ANTTILA M, 1994, ACTA PAEDIATR, V83, P63, DOI 10.1111/j.1651-2227.1994.tb12954.x
+   Bhat B V, 1991, J Indian Med Assoc, V89, P224
+   BRYAN JP, 1990, REV INFECT DIS, V12, P128
+   CADOZ M, 1981, B WORLD HEALTH ORGAN, V59, P575
+   Decazes J M, 1995, Rev Prat, V45, P607
+   Fletcher RH, 1996, CLIN EPIDEMIOLOGY ES, P111
+   FORD H, 1994, J EPIDEMIOL COMMUN H, V48, P276, DOI 10.1136/jech.48.3.276
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   Lucena R, 1996, ARQ NEURO-PSIQUIAT, V54, P571, DOI 10.1590/S0004-282X1996000400004
+   OZUMBA UC, 1995, CTR AFR J MED, V41, P93
+   SALAUNSARAUX P, 1995, MED TROP-MARSEILLE, V55, P5
+   WRIGHT JP, 1995, TROP DOCT, V25, P5, DOI 10.1177/004947559502500102
+NR 14
+TC 1
+Z9 2
+U1 0
+U2 1
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA PR AMADEU AMARAL 47/33, 01327-010 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD MAR
+PY 1998
+VL 56
+IS 1
+BP 88
+EP 92
+DI 10.1590/S0004-282X1998000100014
+PG 5
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA ZC303
+UT WOS:000072563500014
+PM 9686126
+OA Other Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Gomes, I
+   Lucena, R
+   Melo, A
+AF Gomes, I
+   Lucena, R
+   Melo, A
+TI Clinical and laboratorial characteristics of pyogenic meningitis in
+   adults
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE bacterial meningitis; adults; septicemia; central nervous system
+   infection
+ID BACTERIAL-MENINGITIS; CHILDREN; PATHOPHYSIOLOGY
+AB We reviewed the charts of 176 adult patients, admitted with a diagnosis of acute bacterial meningitis, in the Hospital Couto Maia, from January 1990 to December 1992. All the patients had community-acquired meningitis. In 120 patients we could identify the causative agent on Gram's staining and culture. The most common pathogens were N. meningitidis (56.7%) S. pneumoniae (37.5%) and E. coli (3.3%). The overall lethality rate was 19.8% and the lethality was greater in the group with streptococcus meningitis (31.8%). The mean age and the leukocyte in the peripheral blood were greater in the group with S. pneumoniae meningitis than in the meningococal group. Cutaneous hemorrhagic lesions was an excellent predictor meningococcal meningitis.
+C1 UNIV FED BAHIA,HOSP COUTO MAIA,DIV NEUROEPIDEMIOL & NEUROINFECTOL,DEPT PSIQUIATRIA,BR-40110100 SALVADOR,BA,BRAZIL.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR BARAFF LJ, 1993, PEDIATR INFECT DIS J, V12, P389, DOI 10.1097/00006454-199305000-00008
+   BRYAN JP, 1990, REV INFECT DIS, V12, P128
+   CADOZ M, 1981, B WORLD HEALTH ORGAN, V59, P575
+   Cherigo-Quiros E A, 1984, Rev Med Panama, V9, P35
+   DURAND ML, 1993, NEW ENGL J MED, V328, P21, DOI 10.1056/NEJM199301073280104
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   JULIET C, 1983, REV MED CHILE, V111, P690
+   Lucena R, 1996, ARQ NEURO-PSIQUIAT, V54, P571, DOI 10.1590/S0004-282X1996000400004
+   PFISTER HW, 1993, ARCH NEUROL-CHICAGO, V50, P575, DOI 10.1001/archneur.1993.00540060015010
+   QUAGLIARELLO V, 1992, NEW ENGL J MED, V327, P864, DOI 10.1056/NEJM199209173271208
+   SPANOS A, 1989, JAMA-J AM MED ASSOC, V262, P2700, DOI 10.1001/jama.262.19.2700
+   TUNKEL AR, 1990, ANN INTERN MED, V112, P610, DOI 10.7326/0003-4819-112-8-610
+NR 12
+TC 2
+Z9 2
+U1 0
+U2 1
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA C/O DR OSWALDO LANGE, CAIXA POSTAL 8877, 01065-970 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 1997
+VL 55
+IS 3B
+BP 584
+EP 587
+DI 10.1590/S0004-282X1997000400012
+PG 4
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA XZ273
+UT WOS:A1997XZ27300012
+PM 9629410
+OA Green Published, Other Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+   Gomes, I
+   Melo, A
+AF Lucena, R
+   Gomes, I
+   Melo, A
+TI Laboratorial and clinical variables to the differential diagnosis
+   between aseptic and pyogenic meningitis in children
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Portuguese
+DT Article
+DE meningitis; children; acute meningitis; diagnosis; aseptic meningitis;
+   bacterial meningitis
+ID BACTERIAL-MENINGITIS; CEREBROSPINAL-FLUID
+AB We reviewed the charts of 573 children with a final diagnosis of pyogenic or aseptic meningitis, who were hospitalized in a large reference hospital for the treatment of infectious disease, from January 1940 to December 1992. Seizures, decreased consciousness, nuchal rigidity were more frequent in bacterial than in aseptic meningitis. A cerebrospinal fluid (CSF) glucose level lower than 45 mg/dL, a protein level equal or greater than 140 mg/dL and cell count greater than 600/mm(3) were predictors of pyogenic meningitis. Receiver operating characteristic curve analysis was used to assess the best point in CSF measures of leukocytes, glucose and protein that could predict bacterial meningitis. These results suggest that clinicians should differentiate bacterial from aseptic meningitis in children with greater accuracy utilizing only clinical and simple CSF data.
+C1 UNIV FED BAHIA,HOSP COUTO MAIA,UNIDADE NEUROEPIDEMIOL & NEUROINFECTOL,BR-41170290 SALVADOR,BA,BRAZIL.
+   UNIV FED BAHIA,DEPT NEUROPSIQUIATRIA,BR-41170290 SALVADOR,BA,BRAZIL.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR BARAFF LJ, 1993, PEDIATR INFECT DIS J, V12, P389, DOI 10.1097/00006454-199305000-00008
+   BRYAN JP, 1990, REV INFECT DIS, V12, P128
+   CADOZ M, 1981, B WORLD HEALTH ORGAN, V59, P575
+   DALTON M, 1991, DEV MED CHILD NEUROL, V33, P446
+   DULKERIAN SJ, 1995, J PEDIATR-US, V126, P872, DOI 10.1016/S0022-3476(95)70199-0
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   HASHIM IA, 1995, ANN CLIN BIOCHEM, V32, P289, DOI 10.1177/000456329503200305
+   LOPEZCORTES LF, 1995, J INFECT DIS, V172, P581, DOI 10.1093/infdis/172.2.581
+   Lucena R, 1996, ARQ NEURO-PSIQUIAT, V54, P571, DOI 10.1590/S0004-282X1996000400004
+   MOOSA AA, 1995, LANCET, V345, P1290, DOI 10.1016/S0140-6736(95)90931-1
+   RODEWALD LE, 1991, J PEDIATR-US, V119, P363, DOI 10.1016/S0022-3476(05)82046-3
+   SPANOS A, 1989, JAMA-J AM MED ASSOC, V262, P2700, DOI 10.1001/jama.262.19.2700
+NR 12
+TC 0
+Z9 1
+U1 0
+U2 2
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA C/O DR OSWALDO LANGE, CAIXA POSTAL 8877, 01065-970 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 1997
+VL 55
+IS 3B
+BP 588
+EP 593
+DI 10.1590/S0004-282X1997000400013
+PG 6
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA XZ273
+UT WOS:A1997XZ27300013
+PM 9629411
+OA Other Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Lucena, R
+   Gomes, I
+   Ferreira, A
+   Goes, J
+   Araujo, I
+   Veiga, M
+   Melo, A
+AF Lucena, R
+   Gomes, I
+   Ferreira, A
+   Goes, J
+   Araujo, I
+   Veiga, M
+   Melo, A
+TI Clinical and laboratorial characteristics of bacterial meningitis in
+   children
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA Spanish
+DT Article
+DE bacterial meningitis; children; clinical and laboratory findings;
+   prognosis
+AB Data from the records of 528 children under 15 years old with diagnosis of acute bacterial meningitis, admitted at the Hospital Couto Maia between 1990 and 1992 were analyzed. Bacterial meningitis was more frequent in children under the age of 1 year (37.8%). The most common etiologic agent was H. influenzae (42.2%). The global letality was 20.9%. Individual predictors of poor outcome were: absence of the ''classic triad'', CSF cell count under 1000/mm(3), age under 2 years, presence of seizures, depressed sensorium, and S. pneumoniae as causal agent.
+C1 UNIV FED BAHIA,SERV NEUROL,BR-41170290 SALVADOR,BA,BRAZIL.
+RI Lucena, Rita/L-9842-2013; FILHO, IRAMI ARAUJO/C-2258-2014
+OI Lucena, Rita/0000-0002-6190-9168; FILHO, IRAMI
+   ARAUJO/0000-0003-2471-7447; Melo, Ailton/0000-0001-7457-0573
+CR BARAFF LJ, 1993, PEDIATR INFECT DIS J, V12, P389, DOI 10.1097/00006454-199305000-00008
+   BLAZER S, 1993, AM J CLIN PATHOL, V80, P386
+   BRYAN JP, 1990, REV INFECT DIS, V12, P128
+   CADOZ M, 1981, B WORLD HEALTH ORGAN, V59, P575
+   DURAND ML, 1993, NEW ENGL J MED, V328, P21, DOI 10.1056/NEJM199301073280104
+   FAHRAT CK, 1987, DOENCAS INFECCIOSAS, P365
+   FEIGIN RD, 1987, TXB PEDIAT INFECT DI, P831
+   Gomes I, 1996, ARQ NEURO-PSIQUIAT, V54, P407, DOI 10.1590/S0004-282X1996000300008
+   GREENWOOD BM, 1984, REV INFECT DIS, V6, P374
+   JULIET C, 1983, REV MED CHILE, V111, P690
+   KLEIN JO, 1986, PEDIATRICS S, V78, P952
+   MARTON KI, 1986, ANN INTERN MED, V104, P840, DOI 10.7326/0003-4819-104-6-840
+   SPANOS A, 1989, JAMA-J AM MED ASSOC, V262, P2700, DOI 10.1001/jama.262.19.2700
+   WENGER JD, 1990, J INFECT DIS, V162, P1316, DOI 10.1093/infdis/162.6.1316
+   Wispelwey B, 1990, Infect Dis Clin North Am, V4, P645
+NR 15
+TC 10
+Z9 10
+U1 0
+U2 1
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA C/O DR OSWALDO LANGE, CAIXA POSTAL 8877, 01065-970 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD DEC
+PY 1996
+VL 54
+IS 4
+BP 571
+EP 576
+DI 10.1590/S0004-282X1996000400004
+PG 6
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA VV486
+UT WOS:A1996VV48600004
+PM 9201336
+OA Other Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Gomes, I
+   Melo, A
+   Lucena, R
+   CunhaNascimento, MH
+   Ferreira, A
+   Goes, J
+   Barreto, I
+   Jones, N
+   Gaspari, V
+   Embirucu, EK
+   Veiga, M
+AF Gomes, I
+   Melo, A
+   Lucena, R
+   CunhaNascimento, MH
+   Ferreira, A
+   Goes, J
+   Barreto, I
+   Jones, N
+   Gaspari, V
+   Embirucu, EK
+   Veiga, M
+TI Prognosis of bacterial meningitis in children
+SO ARQUIVOS DE NEURO-PSIQUIATRIA
+LA English
+DT Article
+DE pyogenic meningitis; bacterial meningitis; septicemia; meningitis in
+   children
+ID CONTROLLED TRIALS; DEXAMETHASONE; ADULTS; PATHOPHYSIOLOGY; COMPLICATIONS
+AB We studied the incidence and prognosis of acute neurologic complications in 281 children under 13 years of age with a diagnosis of acute bacterial meningitis. All the patients were examined daily by the same group of neurologists, using a standardized neurological examination. Patients with signs of encephalic lesions, unsatisfactory response to antibiotics or decreased level of consciousness were submitted to brain computer tomography. The overall lethality rate was 20.3% and cases whose causative agent was identified presented a higher lethality rate (23.7%) than those in which the agent was not found. The most important neurological abnormalities were meningeal signs (88.3%) followed by decreased consciousness (47.7%), irritability (35.2%), seizures (22.4%), fontanel bulging (20.6%) and cranial nerve palsy (14.2%). Seizures, cranial nerve palsy and the absence of meningeal signs were related to higher rates of lethality. Diminished consciousness, seizures, subdural effusion, abscess and hydrocephalus were the most important complications, respectively. We can conclude that acute bacterial meningitis continues to be an important health problem in developing countries and that public health measures will be necessary to minimize the impact of sequelae and reduce the mortality rate in children with that pathology.
+C1 UNIV FED BAHIA, HOSP UNIV PROF EDGARD SANTOS, SERV NEUROL, SALVADOR, BA, BRAZIL.
+RI Lucena, Rita/L-9842-2013
+OI Lucena, Rita/0000-0002-6190-9168; Melo, Ailton/0000-0001-7457-0573
+CR BRYAN JP, 1990, REV INFECT DIS, V12, P128
+   CADOZ M, 1981, B WORLD HEALTH ORGAN, V59, P575
+   FERREIRA A, 1995, J NEUROL S, V242, pS115
+   GEIMAN BJ, 1992, WESTERN J MED, V157, P27
+   GIRGIS NI, 1989, PEDIATR INFECT DIS J, V8, P848, DOI 10.1097/00006454-198912000-00004
+   HERSON VC, 1977, PEDIATRICS, V59, P35
+   LEBEL MH, 1988, NEW ENGL J MED, V319, P964, DOI 10.1056/NEJM198810133191502
+   ODIO CM, 1991, NEW ENGL J MED, V324, P1525, DOI 10.1056/NEJM199105303242201
+   PFISTER HW, 1993, ARCH NEUROL-CHICAGO, V50, P575, DOI 10.1001/archneur.1993.00540060015010
+   PFISTER HW, 1992, NEUROLOGY, V42, P1497, DOI 10.1212/WNL.42.8.1497
+   QUAGLIARELLO V, 1992, NEW ENGL J MED, V327, P864, DOI 10.1056/NEJM199209173271208
+   SCHLESINGER LS, 1987, MEDICINE, V66, P148, DOI 10.1097/00005792-198703000-00006
+   SPANOS A, 1989, JAMA-J AM MED ASSOC, V262, P2700, DOI 10.1001/jama.262.19.2700
+   TUNKEL AR, 1990, ANN INTERN MED, V112, P610, DOI 10.7326/0003-4819-112-8-610
+NR 14
+TC 15
+Z9 15
+U1 0
+U2 2
+PU ASSOC ARQUIVOS DE NEURO- PSIQUIATRIA
+PI SAO PAULO SP
+PA C/O DR OSWALDO LANGE, CAIXA POSTAL 8877, 01065-970 SAO PAULO SP, BRAZIL
+SN 0004-282X
+J9 ARQ NEURO-PSIQUIAT
+JI Arq. Neuro-Psiquiatr.
+PD SEP
+PY 1996
+VL 54
+IS 3
+BP 407
+EP 411
+DI 10.1590/S0004-282X1996000300008
+PG 5
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA VE335
+UT WOS:A1996VE33500008
+PM 9109984
+OA Green Published, Other Gold
+DA 2020-12-15
+ER
+
+EF

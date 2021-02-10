@@ -1,0 +1,1769 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ribeiro, IS
+   Pereira, IS
+   Santos, DP
+   Lopes, DN
+   Prado, AO
+   Calado, SPM
+   Goncalves, CV
+   Galantini, MPL
+   Muniz, IPR
+   Santos, GS
+   Silva, RAA
+AF Ribeiro, Israel S.
+   Pereira, Italo S.
+   Santos, Denisar P.
+   Lopes, Danilo N.
+   Prado, Alice O.
+   Calado, Stefano P. M.
+   Goncalves, Caroline, V
+   Galantini, Maria P. L.
+   Muniz, Igor P. R.
+   Santos, Gilvaneia S.
+   Silva, Robson A. A.
+TI Association between body composition and inflammation: A central role of
+   IL-17 and IL-10 in diabetic and hypertensive elderly women
+SO EXPERIMENTAL GERONTOLOGY
+LA English
+DT Article
+DE Systemic arterial hypertension; Type 2 diabetes mellitus; Inflammation;
+   Body composition
+ID DENSITY LIPOPROTEIN CHOLESTEROL; CARDIO-METABOLIC RISK; MASS INDEX;
+   INSULIN-RESISTANCE; WAIST CIRCUMFERENCE; CONCENTRATION RATIO;
+   ADIPOSE-TISSUE; BLOOD-PRESSURE; MUSCLE MASS; TGF-BETA
+AB In women, aging is evidenced by physiological hormonal alterations that trigger changes in body composition, emergence of chronic low-grade inflammation, which is an important pre-disposition to the development of chronic diseases such as Systemic Arterial Hypertension (SAH) and Type 2 Diabetes Mellitus (T2DM). Although it is a strong pro-inflammatory nature disorder, little is known about how body composition interferes with inflammatory markers in diabetic and hypertensive elderly women. Therefore, this study's objective was to evaluate the inflammation in diabetic and hypertensive elderly women, and their association with fat mass. It comprised the evaluation of 144 women aged between 60 and 80 years old, diagnosed with SAH and T2DM, assisted by Family Health Units in Vitoria da Conquista, Bahia, Brazil. According to body mass index (BMI), these women were classified as either eutrophic or overweight. In the eutrophic females, the IL-10 / IL-17A ratio was increased when compared to those overweight. In addition, IL-17 correlated negatively with HDL and positively with total cholesterol, LDL, triglycerides, VLDL, and glucose in the eutrophic ones, but not in the overweight individuals. IL-10 also showed differences in the correlation pattern observed between the groups, since for this eutrophic cytokine, it presented positive correlation with the waist circumference, waist/height ratio, and negative association with IL-17, while in overweight elderly women, it was not observed such pattern. Hence, this work demonstrates how the amount of fat mass interferes with the balance of cytokines, especially IL-10 and IL-17, and how it may exert an effect on biochemical parameters and risk factors associated with T2DM and SAH.
+C1 [Ribeiro, Israel S.; Pereira, Italo S.; Santos, Denisar P.; Lopes, Danilo N.; Prado, Alice O.; Calado, Stefano P. M.; Goncalves, Caroline, V; Galantini, Maria P. L.; Muniz, Igor P. R.; Santos, Gilvaneia S.; Silva, Robson A. A.] Univ Fed Bahia, Multidisciplinary Inst Hlth, Anisio Teixeira Campus,58 Rio de Contas St, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+   [Ribeiro, Israel S.] Fed Univ Southern Bahia, Training Ctr Hlth Sci, 58 Joana Angelica Sq, BR-45988058 Teixeira De Freitas, BA, Brazil.
+RP Silva, RAA (corresponding author), Univ Fed Bahia, Multidisciplinary Inst Hlth, Anisio Teixeira Campus,58 Rio de Contas St, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+EM ramaro@ufba.br
+RI Silva, Robson A A/N-8801-2018
+OI Goncalves, Caroline/0000-0003-0895-1583; Souza Ribeiro,
+   Israel/0000-0002-1262-1387; , Italo/0000-0001-5697-5673
+FU Federal University of Bahia (UFBA), Brazil [Prodoc UFBA 04/2014]
+FX This work was supported by Federal University of Bahia (UFBA), Brazil,
+   under the following grant number: Prodoc UFBA 04/2014.
+CR Alvarez-Rodriguez L, 2012, CELL IMMUNOL, V273, P124, DOI 10.1016/j.cellimm.2012.01.001
+   American Heart Association (AHA), 2012, WHAT CHOL LEV MEAN T
+   Antwi-Baffour S, 2018, LIPIDS HEALTH DIS, V17, DOI 10.1186/s12944-018-0926-y
+   Aroor AR, 2013, METABOLISM, V62, P1543, DOI 10.1016/j.metabol.2013.07.001
+   Bai B, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0172271
+   Bankoff ADP, 2017, REV SAUDE MEIO AMBIE
+   Barbosa Paulo José Bastos, 2006, Arq. Bras. Cardiol., V87, P407, DOI 10.1590/S0066-782X2006001700003
+   Baylis Daniel, 2013, Longev Healthspan, V2, P8, DOI 10.1186/2046-2395-2-8
+   Bays HE, 2009, AM J MED, V122, pS26, DOI 10.1016/j.amjmed.2008.10.015
+   Bellafiore M, 2011, AGING CLIN EXP RES, V23, P378, DOI [10.1007/BF03337762, 10.3275/7354]
+   Berecki-Gisolf J, 2009, MENOPAUSE, V16, P1021, DOI 10.1097/gme.0b013e3181a8c49f
+   Biadgo B, 2017, ETHIOP J HEALTH SCI, V27, P215, DOI 10.4314/ejhs.v27i3.3
+   Bluher S, 2009, AM J CLIN NUTR, V89, p991S, DOI 10.3945/ajcn.2008.26788E
+   Britton KA, 2011, CLIN LIPIDOL, V6, P79, DOI 10.2217/CLP.10.89
+   Carter RA, 2010, AM J VET RES, V71, P314, DOI 10.2460/ajvr.71.3.314
+   CHEN X, 2016, J IMMUNOL RES, V120, P1, DOI DOI 10.1155/2016/1583951
+   Chen YL, 2017, IMMUNOL LETT, V186, P52, DOI 10.1016/j.imlet.2017.04.003
+   Vilaca KHC, 2014, ARCH GERONTOL GERIAT, V59, P44, DOI 10.1016/j.archger.2014.02.004
+   Courville AB, 2014, NUTR RES, V34, P1052, DOI 10.1016/j.nutres.2014.10.007
+   De Martinis M, 2006, EXP MOL PATHOL, V80, P219, DOI 10.1016/j.yexmp.2005.11.004
+   DeMarco VG, 2014, NAT REV ENDOCRINOL, V10, P364, DOI 10.1038/nrendo.2014.44
+   Despres JP, 2012, CIRCULATION, V126, P1301, DOI 10.1161/CIRCULATIONAHA.111.067264
+   Duncan B.B., 2010, MORTALIDADE DOENCAS, P117
+   Esposito K, 2003, J CLIN ENDOCR METAB, V88, P1055, DOI 10.1210/jc.2002-021437
+   Feng RN, 2012, J EPIDEMIOL, V22, P317, DOI 10.2188/jea.JE20110120
+   Frikke-Schmidt H, 2016, OBES REV, V17, P795, DOI 10.1111/obr.12429
+   Funghetto SS, 2015, CLIN INTERV AGING, V10, P247, DOI 10.2147/CIA.S69711
+   Gomes-Rochette NF, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0169266
+   Gundogan K, 2009, METAB SYNDR RELAT D, V7, P427, DOI 10.1089/met.2008.0068
+   Harrison DG, 2012, FRONT PHYSIOL, V3, DOI 10.3389/fphys.2012.00128
+   Janssen I, 2002, ARCH INTERN MED, V162, P2074, DOI 10.1001/archinte.162.18.2074
+   Jeevan H.R., 2016, J EVID BASED MED HEA, V53, P2724, DOI [10.18410/jebmh/2016/596, DOI 10.18410/JEBMH/2016/596]
+   Jung UJ, 2014, INT J MOL SCI, V15, P6184, DOI 10.3390/ijms15046184
+   Kasal DA, 2012, HYPERTENSION, V59, P324, DOI 10.1161/HYPERTENSIONAHA.111.181123
+   Kinzenbaw DA, 2013, PHYSIOL REP, V1, DOI 10.1002/phy2.149
+   Kucuk A, 2017, Z RHEUMATOL, V76, P58, DOI 10.1007/s00393-016-0092-4
+   Labounty TM, 2013, EUR HEART J-CARD IMG, V14, P456, DOI 10.1093/ehjci/jes179
+   Lakoski SG, 2008, ATHEROSCLEROSIS, V197, P443, DOI 10.1016/j.atherosclerosis.2007.06.033
+   Lim S, 2010, DIABETES CARE, V33, P1652, DOI 10.2337/dc10-0107
+   Lima F.E.T., 2016, NE NETWORK NURSING J, V10, P37
+   Liu PJ, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-629
+   Maas AHEM, 2010, NETH HEART J, V18, P598, DOI 10.1007/s12471-010-0841-y
+   Mahmoud F, 2013, DIS MARKERS, V2013, P235, DOI 10.1155/2013/931915
+   Malik VS, 2013, NAT REV ENDOCRINOL, V9, P13, DOI 10.1038/nrendo.2012.199
+   Malta Deborah Carvalho, 2012, Rev. bras. epidemiol., V15, P639, DOI 10.1590/S1415-790X2012000300017
+   Masters SL, 2010, NAT IMMUNOL, V11, P897, DOI 10.1038/ni.1935
+   Maury E, 2010, MOL CELL ENDOCRINOL, V314, P1, DOI 10.1016/j.mce.2009.07.031
+   Mayerl C, 2006, VIRCHOWS ARCH, V449, P96, DOI 10.1007/s00428-006-0176-7
+   McGill JB, 2011, J NUCL CARDIOL, V18, P421, DOI 10.1007/s12350-011-9362-3
+   Miranzi Sybelle de Souza Castro, 2008, Texto contexto - enferm., V17, P672, DOI 10.1590/S0104-07072008000400007
+   Motamed M, 2016, CLIN LAB, V62, P1609, DOI 10.7754/Clin.Lab.2016.150412
+   Mullugeta Y, 2012, INDIAN J CLIN BIOCHE, V27, P363, DOI 10.1007/s12291-012-0225-8
+   Murguia-Romero M, 2013, J LIPID RES, V54, P2795, DOI 10.1194/jlr.M040584
+   Murray CJL, 2015, LANCET, V386, P2145, DOI 10.1016/S0140-6736(15)61340-X
+   Nascimento DD, 2015, AGING CLIN EXP RES, V27, P791, DOI 10.1007/s40520-015-0349-9
+   Olinto Maria Teresa Anselmo, 2006, Cad. Saúde Pública, V22, P1207, DOI 10.1590/S0102-311X2006000600010
+   Olinto MTA, 2004, PUBLIC HEALTH NUTR, V7, P629, DOI 10.1079/PHN2003582
+   Pereira S, 2014, NUTRITION, V30, P784, DOI 10.1016/j.nut.2013.11.023
+   Peterson JM, 2012, J BIOL CHEM, V287, P1576, DOI 10.1074/jbc.M111.278333
+   Pines A, 2016, CLIMACTERIC, V19, P249, DOI 10.1080/13697137.2016.1175237
+   Rabkin SW, 2009, NAT CLIN PRACT CARD, V6, P192, DOI 10.1038/ncpcardio1453
+   Rao KM, 2012, ANN HUM BIOL, V39, P54, DOI 10.3109/03014460.2011.637513
+   Rathinam VAK, 2012, NAT IMMUNOL, V13, P333, DOI 10.1038/ni.2237
+   Recio-Rodriguez JI, 2012, BMC CARDIOVASC DISOR, V12, DOI 10.1186/1471-2261-12-3
+   Rong YD, 2018, BMC GERIATR, V18, DOI 10.1186/s12877-018-1007-9
+   Sagun G, 2014, CLINICS, V69, P347, DOI 10.6061/clinics/2014(05)09
+   Salazar MR, 2013, J INTERN MED, V273, P595, DOI 10.1111/joim.12036
+   Salazar MR, 2013, DIABETES VASC DIS RE, V10, P346, DOI 10.1177/1479164113479809
+   Salazar MR, 2012, AM J CARDIOL, V109, P1749, DOI 10.1016/j.amjcard.2012.02.016
+   de Freitas LRS, 2012, EPIDEMIOL SERV SAUDE, V21, P7, DOI 10.5123/S1679-49742012000100002
+   Sapan HB, 2016, INT J BURNS TRAUMA, V6, P37
+   Schiffrin EL, 2014, CLIN SCI, V126, P267, DOI 10.1042/CS20130407
+   Schuster DP, 2010, DIABETES METAB SYNDR, V3, P253, DOI 10.2147/DMSO.S7354
+   Shirakawa K, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0186303
+   Son JW, 2017, DIABETOLOGIA, V60, P865, DOI 10.1007/s00125-016-4196-9
+   Spranger J, 2003, DIABETES, V52, P812, DOI 10.2337/diabetes.52.3.812
+   Srikanthan P, 2011, J CLIN ENDOCR METAB, V96, P2898, DOI 10.1210/jc.2011-0435
+   Srikanthan P, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010805
+   Stienstra R, 2012, CELL METAB, V15, P10, DOI 10.1016/j.cmet.2011.10.011
+   Sung KC, 2014, DIABETES RES CLIN PR, V105, P96, DOI 10.1016/j.diabres.2014.04.021
+   Thacker EL, 2013, J GEN INTERN MED, V28, P247, DOI 10.1007/s11606-012-2220-4
+   Vasto S, 2007, MECH AGEING DEV, V128, P83, DOI 10.1016/j.mad.2006.11.015
+   Wakabayashi I, 2004, AGING CLIN EXP RES, V16, P461, DOI 10.1007/BF03327402
+   Wei T., 2013, CORRPLOT VISUALIZATI
+   Welsh P, 2011, ARTERIOSCL THROM VAS, V31, P2338, DOI 10.1161/ATVBAHA.111.231795
+   Zheng S, 2016, J TRANSL MED, V14, DOI 10.1186/s12967-016-1020-8
+   Zheng SG, 2008, J IMMUNOL, V180, P7112, DOI 10.4049/jimmunol.180.11.7112
+   Zhong JX, 2014, DIABETES, V63, P1289, DOI 10.2337/db13-1094
+   Zhou L, 2017, OSTEOPOROSIS INT, V28, P1693, DOI 10.1007/s00198-017-3930-6
+   Zuniga LA, 2010, J IMMUNOL, V185, P6947, DOI 10.4049/jimmunol.1001269
+NR 90
+TC 1
+Z9 1
+U1 1
+U2 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0531-5565
+EI 1873-6815
+J9 EXP GERONTOL
+JI Exp. Gerontol.
+PD NOV
+PY 2019
+VL 127
+AR 110734
+DI 10.1016/j.exger.2019.110734
+PG 8
+WC Geriatrics & Gerontology
+SC Geriatrics & Gerontology
+GA JH3ZM
+UT WOS:000492707500013
+PM 31518664
+DA 2020-12-08
+ER
+
+PT J
+AU dos Santos, DP
+   Lopes, DPS
+   de Moraes, RC
+   Goncalves, CV
+   Rosa, LP
+   Rosa, FCD
+   da Silva, RAA
+AF dos Santos, Denisar Palmito
+   Soares Lopes, Diego Patrick
+   de Moraes Junior, Ricardo Costa
+   Goncalves, Caroline Vieira
+   Rosa, Luciano Pereira
+   da Silva Rosa, Francine Cristina
+   Augusto da Silva, Robson Amaro
+TI Photoactivated resveratrol against Staphylococcus aureus infection in
+   mice
+SO PHOTODIAGNOSIS AND PHOTODYNAMIC THERAPY
+LA English
+DT Article
+DE Staphylococcus aureus; Photodynamic therapy; Resveratrol
+ID TUMOR-NECROSIS-FACTOR; ANTIMICROBIAL PHOTODYNAMIC THERAPY; BLUE-LIGHT;
+   SINGLET OXYGEN; FACTOR-ALPHA; CELLS; PHOTOSENSITIZERS; INFLAMMATION;
+   MACROPHAGES; EXPRESSION
+AB Background : Among the pathogens, Staphylococcus aureus is the main causative agent of bacterial diseases in the world. In this context, antimicrobial photodynamic therapy (aPDT) appears as a promising tool by means of microbial inactivation with the use of light. aPDT is applied in treatments involving photosensitizers capable of generating oxygen free radicals. Thus, this work proposes the use of resveratrol as a photosensitizer.
+   Methods: In vitro tests were performed to determine the antibacterial activity of photoactivated resveratrol with blue LED light, as well as uric acid experiments for verification of singlet oxygen formation. Possible resveratrol structural changes were evaluated by HPLC. In the in vivo assays, the air pouch model was performed in mice for antimicrobial activity and cytokine production.
+   Results: The photoactivated resveratrol exhibited an increase in its antibacterial action and it is possibly brought about by the singlet oxygen formation. In the air pouch model, TNF-alpha and IL-17A cytokines were produced, diminishing the bacterial load, and consequently, reducing inflammation after 24 h of infection. Cellular number decrease in the inflammatory environment was associated with resolution of inflammation along with greater IL-10 production.
+   Conclusion: It is the first time that resveratrol has been associated with aPDT. It was demonstrated in this work that resveratrol activated by blue LED light can be a promising photosensitizer. This compound, after the light stimulus, produces singlet oxygen, in addition to having effects on the immune system triggering TNF-alpha and IL-17A production, aiding in the clearance of several bacteria, including S. aureus.
+C1 [dos Santos, Denisar Palmito; Soares Lopes, Diego Patrick; de Moraes Junior, Ricardo Costa; Goncalves, Caroline Vieira; Rosa, Luciano Pereira; da Silva Rosa, Francine Cristina; Augusto da Silva, Robson Amaro] Univ Fed Bahia, Multidisciplinary Inst Hlth, Anisio Teixeira Campus,58 Rio de Contas St, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+RP da Silva, RAA (corresponding author), Univ Fed Bahia, Multidisciplinary Inst Hlth, Anisio Teixeira Campus,58 Rio de Contas St, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+EM robson.amaro@gmail.com
+RI Silva, Robson A A/N-8801-2018
+OI Goncalves, Caroline/0000-0003-0895-1583
+FU Institutional Program of Scientific Initiation of Federal University of
+   Bahia; CAPES (Coordenacao de Aperfeicoamento de Pessoal de Nivel
+   Superior) foundation for the phD grant
+FX This study was funded by the Institutional Program of Scientific
+   Initiation of Federal University of Bahia for the Scientific Initiation
+   scholarships awarded, and by the Research Center in Optics and Photonics
+   (CePOF) for the equipment to the development of this work. Authors want
+   to acknowledge financial support from CAPES (Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior) foundation for the phD
+   grant.
+CR Abrahamse H, 2016, BIOCHEM J, V473, P347, DOI 10.1042/BJ20150942
+   Al-Mutairi R, 2018, FRONT MICROBIOL, V9, DOI 10.3389/fmicb.2018.01699
+   Al-Omari S, 2009, GEN PHYSIOL BIOPHYS, V28, P70, DOI 10.4149/gpb_2009_01_70
+   Almeida PP, 2017, LASER MED SCI, V32, P1337, DOI 10.1007/s10103-017-2247-1
+   Alvarez C, 2010, BRAZ J INFECT DIS, V14, pS107, DOI 10.1590/S1413-86702010000800006
+   Archer NK, 2013, INFECT IMMUN, V81, P2070, DOI 10.1128/IAI.00084-13
+   BELLNIER DA, 1991, J PHOTOCH PHOTOBIO B, V8, P203, DOI 10.1016/1011-1344(91)80060-U
+   Benitez DA, 2009, PROSTATE, V69, P1045, DOI 10.1002/pros.20953
+   Bostanghadiri N, 2017, BIOMED PHARMACOTHER, V95, P1588, DOI 10.1016/j.biopha.2017.09.084
+   Cassidy CM, 2010, J PHOTOCH PHOTOBIO B, V99, P62, DOI 10.1016/j.jphotobiol.2010.02.004
+   Chalal M, 2014, MOLECULES, V19, P7679, DOI 10.3390/molecules19067679
+   Chan MMY, 2002, BIOCHEM PHARMACOL, V63, P99, DOI 10.1016/S0006-2952(01)00886-3
+   Cogen AL, 2008, BRIT J DERMATOL, V158, P442, DOI 10.1111/j.1365-2133.2008.08437.x
+   Coutinho DD, 2018, INT J MOL SCI, V19, DOI 10.3390/ijms19061812
+   Cua DJ, 2010, NAT REV IMMUNOL, V10, P479, DOI 10.1038/nri2800
+   Cypowyj S, 2012, EUR J IMMUNOL, V42, P2246, DOI 10.1002/eji.201242605
+   DAHL TA, 1987, PHOTOCHEM PHOTOBIOL, V46, P345, DOI 10.1111/j.1751-1097.1987.tb04779.x
+   DAS UN, 1990, BIOCHEM BIOPH RES CO, V167, P1030, DOI 10.1016/0006-291X(90)90626-X
+   Ding HY, 2011, J CONTROL RELEASE, V156, P276, DOI 10.1016/j.jconrel.2011.08.019
+   dos Santos DP, 2018, BRAZ J MED BIOL RES, V51, DOI [10.1590/1414-431x20186773, 10.1590/1414-431X20186773]
+   Duarte Djane B, 2016, Curr Protoc Pharmacol, V72, DOI 10.1002/0471141755.ph0506s72
+   EDWARDS JCW, 1981, J PATHOL, V134, P147, DOI 10.1002/path.1711340205
+   Eo SH, 2013, BIOMOL THER, V21, P364, DOI 10.4062/biomolther.2013.029
+   EVANS S, 1990, J NATL CANCER I, V82, P34, DOI 10.1093/jnci/82.1.34
+   Fischer F, 1998, CLIN CHIM ACTA, V274, P89, DOI 10.1016/S0009-8981(98)00045-X
+   Pansa MF, 2016, TUMOR BIOL, V37, P541, DOI 10.1007/s13277-015-3768-5
+   Fu XJ, 2013, BIOMED RES INT, V2013, DOI 10.1155/2013/159157
+   Garcia VG, 2014, J PERIODONTAL RES, V49, P584, DOI 10.1111/jre.12138
+   Gelatti LC, 2009, AN BRAS DERMATOL, V84, P501, DOI 10.1590/S0365-05962009000500009
+   Giersing BK, 2016, VACCINE, V34, P2962, DOI 10.1016/j.vaccine.2016.03.110
+   Gois MM, 2010, LASER MED SCI, V25, P391, DOI 10.1007/s10103-009-0705-0
+   Gomes AR, 2006, ANTIMICROB AGENTS CH, V50, P3237, DOI 10.1128/AAC.00521-06
+   Grinholc M, 2007, ACTA BIOCHIM POL, V54, P665, DOI 10.18388/abp.2007_3240
+   Guo YY, 2010, NANOTECHNOLOGY, V21, DOI 10.1088/0957-4484/21/6/065102
+   Hanakova A, 2014, MICROBIOL RES, V169, P163, DOI 10.1016/j.micres.2013.07.005
+   Hayashi M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0122351
+   Hempstead J, 2015, SCI REP-UK, V5, DOI 10.1038/srep10093
+   Huang LY, 2012, LASER SURG MED, V44, P490, DOI 10.1002/lsm.22045
+   Huang YY, 2012, EXPERT REV CLIN IMMU, V8, P479, DOI [10.1586/ECI.12.37, 10.1586/eci.12.37]
+   Iyer SS, 2012, CRIT REV IMMUNOL, V32, P23, DOI 10.1615/CritRevImmunol.v32.i1.30
+   Jeong SI, 2016, NEUROBIOL AGING, V44, P74, DOI 10.1016/j.neurobiolaging.2016.04.007
+   Jiang HN, 2017, FRONT PHYSIOL, V8, DOI 10.3389/fphys.2017.00191
+   Kane T., 2016, CURR DRUG TARGETS
+   Kapetanovic R, 2011, AM J PHYSIOL-CELL PH, V300, pC850, DOI 10.1152/ajpcell.00187.2010
+   Kashef N, 2017, DRUG RESIST UPDATE, V31, P31, DOI 10.1016/j.drup.2017.07.003
+   Kashiwabuchi RT, 2012, ARQ BRAS OFTALMOL, V75, P423, DOI 10.1590/S0004-27492012000600011
+   Lancon A, 2016, MOLECULES, V21, DOI 10.3390/molecules21030304
+   Larysz-Brysz M, 2012, CURR NEUROVASC RES, V9, P159, DOI 10.2174/156720212801619045
+   Lauridsen HM, 2017, AM J PATHOL, V187, P1893, DOI 10.1016/j.ajpath.2017.04.008
+   Ley K, 2006, IMMUNOL RES, V34, P229, DOI 10.1385/IR:34:3:229
+   Li R, 2016, INT J BIOCHEM CELL B, V71, P55, DOI 10.1016/j.biocel.2015.12.001
+   Lida S, 2017, J CLIN BIOCHEM NUTR, V61, P169, DOI 10.3164/jcbn.17-24
+   Lin L, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000703
+   Liu GY, 2009, PEDIATR RES, V65, p71R, DOI 10.1203/PDR.0b013e31819dc44d
+   Liu YH, 2011, J IMMUNOL, V186, P3197, DOI 10.4049/jimmunol.1002016
+   Lorenzon E. N., 2018, SCI REP, V8, P1, DOI DOI 10.1038/S41598-018-22687-X
+   Lowy FD, 1998, NEW ENGL J MED, V339, P520, DOI 10.1056/NEJM199808203390806
+   Maisch T, 2007, P NATL ACAD SCI USA, V104, P7223, DOI 10.1073/pnas.0611328104
+   Mamalis A, 2016, DERMATOL SURG, V42, P727, DOI 10.1097/DSS.0000000000000744
+   Manoil D, 2014, PHOTODIAGN PHOTODYN, V11, P372, DOI 10.1016/j.pdpdt.2014.06.003
+   de Melo WDMA, 2013, PHOTODIAGN PHOTODYN, V10, P647, DOI 10.1016/j.pdpdt.2013.08.001
+   Morimoto K, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105173
+   Musser DA, 2001, PHOTOCHEM PHOTOBIOL, V73, P518, DOI 10.1562/0031-8655(2001)073<0518:COTIIB>2.0.CO;2
+   Niu TH, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138754
+   Panhoca VH, 2016, PHOTOMED LASER SURG, V34, P411, DOI 10.1089/pho.2015.4080
+   Park HJ, 2013, MICROBIOL IMMUNOL, V57, P547, DOI 10.1111/1348-0421.12070
+   Ribeiro JBP, 2016, PHOTODIAGN PHOTODYN, V13, P282, DOI 10.1016/j.pdpdt.2015.08.006
+   Ragas X, 2013, MOLECULES, V18, P2712, DOI 10.3390/molecules18032712
+   Rodriguez-Cabo T, 2015, J CHROMATOGR A, V1410, P129, DOI 10.1016/j.chroma.2015.07.088
+   Rosa LP, 2015, PHOTODIAGN PHOTODYN, V12, P276, DOI 10.1016/j.pdpdt.2015.01.001
+   SELMAN SH, 1987, J UROLOGY, V137, P1255, DOI 10.1016/S0022-5347(17)44476-4
+   STEUBING RW, 1991, J PHOTOCH PHOTOBIO B, V10, P133, DOI 10.1016/1011-1344(91)80218-7
+   Szliszka E, 2011, CENT EUR J UROL, V64, P175, DOI 10.5173/ceju.2011.03.art18
+   Teixeira CR, 2005, J IMMUNOL, V175, P8346, DOI 10.4049/jimmunol.175.12.8346
+   Tortik N, 2014, PHOTOCH PHOTOBIO SCI, V13, P1402, DOI 10.1039/c4pp00123k
+   Uesugi D, 2016, NAT PROD COMMUN, V11, P199
+   Vatansever F, 2013, FEMS MICROBIOL REV, V37, P955, DOI 10.1111/1574-6976.12026
+   Leite DPV, 2014, PHOTOMED LASER SURG, V32, P627, DOI 10.1089/pho.2014.3805
+   Wenzel RP, 1998, CLIN INFECT DIS, V27, P245, DOI 10.1086/514646
+   Werner JL, 2011, INFECT IMMUN, V79, P3966, DOI 10.1128/IAI.05493-11
+   Wu J. Y., 2012, YI XUE BAN, V43, P382
+   Yang I, 2012, CHEM COMMUN, V48, P3839, DOI 10.1039/c2cc30940h
+   Zheng X, 2013, EUR J PHARM
+   Zhou ZX, 2018, MOL MED REP, V17, P1269, DOI 10.3892/mmr.2017.7933
+   Zioikowski P, 1997, NEOPLASMA, V44, P192
+NR 85
+TC 1
+Z9 1
+U1 1
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1572-1000
+EI 1873-1597
+J9 PHOTODIAGN PHOTODYN
+JI Photodiagnosis Photodyn. Ther.
+PD MAR
+PY 2019
+VL 25
+BP 227
+EP 236
+DI 10.1016/j.pdpdt.2019.01.005
+PG 10
+WC Oncology
+SC Oncology
+GA HU1VJ
+UT WOS:000465059600033
+PM 30630110
+DA 2020-12-08
+ER
+
+PT J
+AU dos Santos, DP
+   Lopes, DPS
+   Calado, SPD
+   Goncalves, CV
+   Muniz, IPR
+   Ribeiro, IS
+   Galantini, MPL
+   da Silva, RAA
+AF dos Santos, Denisar Palmito
+   Soares Lopes, Diego Patrick
+   de Melo Calado, Stefano Pedro
+   Goncalves, Caroline Vieira
+   Ribeiro Muniz, Igor Pereira
+   Ribeiro, Israel Souza
+   Leite Galantini, Maria Poliana
+   Augusto da Silva, Robson Amaro
+TI Efficacy of photoactivated Myrciaria cauliflora extract against
+   Staphylococcus aureus infection - A pilot study
+SO JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY B-BIOLOGY
+LA English
+DT Article
+DE Staphylococcus aureus; Photodynamic therapy; Photosensitizers; Myrciaria
+   cauliflora
+ID PHOTODYNAMIC THERAPY; CHEMICAL-CHARACTERIZATION; INTRADERMAL INFECTION;
+   NATURAL DYE; S. AUREUS; IN-VITRO; SKIN; ANTIOXIDANT; CURCUMIN; CANCER
+AB Staphylococcus aureus is one of the major microorganisms that cause human diseases, leading from mild skin infections to serious diseases. With the use of semi-synthetic penicillins, methicillin-resistant strains called Methicillin-resistant Staphylococcus aureus (MRSA) have emerged, whose resistance pattern extends to other beta-lactam antibiotics. It has already been shown that photodynamic therapy is capable of inactivating MRSA as the laser excites the photosensitizer responsible for transferring its electrons to the molecular oxygen, generating extremely reactive molecules, such as singlet oxygen, being these reactive components the chemicals that promote the bacterial clearance. Thus, the research aiming at the development of new photosensitizers becomes important, especially to increase the amount of therapeutic resources available for the treatment of persistent infections related to this bacterium. In this context, Myrciaria cauliflora is a plant that has antimicrobial action and there are no reports of the use of its crude extract as a photosensitizer in antimicrobial photodynamic therapy. In that way, this work conveys an innovative way of the use of M. cauliflora extract as a photosensitizer, comprising its use as an antimicrobial agent when activated by light, against S. aureus. In vitro tests were performed where it was observed that after the photoactivation with blue LED light, the extract presented an augment in its antimicrobial activity, together with production of singlet oxygen. In the model of intradermal infection in Balb/c mice, a reduction in bacterial load was also detected, with raised expression of TNF-alpha, IL-17A, and MPO. Here, we demonstrate that the extract of M. cauliflora has photosensitizing action, promoting the production of singlet oxygen, besides IL-17A, TNF-alpha, and MPO.
+C1 [dos Santos, Denisar Palmito; Soares Lopes, Diego Patrick; de Melo Calado, Stefano Pedro; Goncalves, Caroline Vieira; Ribeiro Muniz, Igor Pereira; Ribeiro, Israel Souza; Leite Galantini, Maria Poliana; Augusto da Silva, Robson Amaro] Univ Fed Bahia, Multidisciplinary Inst Hlth, Anisio Teixeira Campus,58 Rio de Contas St, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+RP da Silva, RAA (corresponding author), Univ Fed Bahia, Multidisciplinary Inst Hlth, Anisio Teixeira Campus,58 Rio de Contas St, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+EM robson.amaro@gmail.com
+RI Silva, Robson A A/N-8801-2018
+OI Souza Ribeiro, Israel/0000-0002-1262-1387; Goncalves,
+   Caroline/0000-0003-0895-1583; Lopes, Diego/0000-0002-9211-5758
+FU Coordination for Improvement of Higher Education Personnel (CAPES)CAPES;
+   Research Center in Optics and Photonics (CePOF)
+FX This study was funded by Coordination for Improvement of Higher
+   Education Personnel (CAPES) for the Institutional Program of Scientific
+   Initiation of Federal University of Bahia, and by the Research Center in
+   Optics and Photonics (CePOF) for the equipment to the development of
+   this work.
+CR Aleixandre-Gorriz I, 2014, REV ESP QUIM, V27, P215
+   Almeida PP, 2017, LASER MED SCI, V32, P1337, DOI 10.1007/s10103-017-2247-1
+   Souza MPA, 2017, IRAN J ALLERGY ASTHM, V16, P525
+   Alves F, 2017, LASER MED SCI, V32, P815, DOI 10.1007/s10103-017-2177-y
+   AMES BN, 1981, P NATL ACAD SCI-BIOL, V78, P6858, DOI 10.1073/pnas.78.11.6858
+   Baldin JC, 2016, MEAT SCI, V118, P15, DOI 10.1016/j.meatsci.2016.03.016
+   Bartlett AH, 2010, PEDIATR INFECT DIS J, V29, P860, DOI 10.1097/INF.0b013e3181ef2477
+   Bassetti M, 2017, CURR OPIN INFECT DIS, V30, P150, DOI [10.1097/QCO.0000000000000353, 10.1097/qco.0000000000000353]
+   Lima ADB, 2008, ARCH LATINOAM NUTR, V58, P416
+   Branco TM, 2018, PHOTODIAGN PHOTODYN, V21, P285, DOI 10.1016/j.pdpdt.2018.01.001
+   Bregnhoj M, 2019, PHOTOCHEM PHOTOBIOL, V95, P202, DOI 10.1111/php.12971
+   Cho JS, 2010, J CLIN INVEST, V120, P1762, DOI 10.1172/JCI40891
+   Claeys KC, 2018, INT J ANTIMICROB AG, V51, P43, DOI 10.1016/j.ijantimicag.2017.05.015
+   Clarke SR, 2006, ADV MICROB PHYSIOL, V51, P187, DOI 10.1016/S0065-2911(06)51004-5
+   Cortes DF, 2010, MEM I OSWALDO CRUZ, V105, P736, DOI 10.1590/S0074-02762010000600002
+   de Araujo FP, 2018, INFECTION, V46, P49, DOI 10.1007/s15010-017-1084-2
+   de Jong NWM, 2018, J BIOL CHEM, V293, P2260, DOI 10.1074/jbc.RA117.000134
+   Ribeiro APD, 2013, LASER MED SCI, V28, P391, DOI 10.1007/s10103-012-1064-9
+   Dmitriev BA, 2004, J BACTERIOL, V186, P7141, DOI 10.1128/JB.186.21.7141-7148.2004
+   dos Santos DP, 2018, BRAZ J MED BIOL RES, V51, DOI [10.1590/1414-431x20186773, 10.1590/1414-431X20186773]
+   Dunlap W. C., 1998, International Journal of Cosmetic Science, V20, P1, DOI 10.1046/j.1467-2494.1998.171731.x
+   Duque GA, 2014, FRONT IMMUNOL, V5, P1, DOI 10.3389/fimmu.2014.00491
+   Haddar W, 2018, NAT PROD RES, V32, P141, DOI 10.1080/14786419.2017.1342080
+   Hampton MB, 1996, INFECT IMMUN, V64, P3512, DOI 10.1128/IAI.64.9.3512-3517.1996
+   Hardgrib N, 2016, ACTA RADIOL OPEN, V5, DOI 10.1177/2058460116677180
+   Huang LY, 2012, LASER SURG MED, V44, P490, DOI 10.1002/lsm.22045
+   Kacerovska D, 2008, PHOTOCHEM PHOTOBIOL, V84, P779, DOI 10.1111/j.1751-1097.2007.00260.x
+   Kapsokalyvas D, 2005, J PHOTOCH PHOTOBIO B, V80, P208, DOI 10.1016/j.jphotobiol.2005.04.007
+   Kobayashi SD, 2015, AM J PATHOL, V185, P1518, DOI 10.1016/j.ajpath.2014.11.030
+   Korn T, 2009, ANNU REV IMMUNOL, V27, P485, DOI 10.1146/annurev.immunol.021908.132710
+   Lee HJ, 2017, PHOTODIAGN PHOTODYN, V20, P116, DOI 10.1016/j.pdpdt.2017.09.003
+   Leech JM, 2017, J IMMUNOL, V198, P2352, DOI 10.4049/jimmunol.1601018
+   Liu C, 2018, J INFECT DIS, V218, P64, DOI 10.1093/infdis/jiy149
+   Lushniak BD, 2014, PUBLIC HEALTH REP, V129, P314, DOI 10.1177/003335491412900402
+   Mai BJ, 2017, INT J NANOMED, V12, P5915, DOI 10.2147/IJN.S138185
+   Castano-Jaramillo LM, 2017, REV CHIL INFECTOL, V34, P487, DOI 10.4067/S0716-10182017000500487
+   Hacke ACM, 2016, J FOOD SCI, V81, pC2206, DOI 10.1111/1750-3841.13405
+   Monteiro JSC, 2017, LASER MED SCI, V32, P29, DOI 10.1007/s10103-016-2079-4
+   Nakagawa S, 2017, CELL HOST MICROBE, V22, P667, DOI 10.1016/j.chom.2017.10.008
+   Pan L, 2017, MAT SCI ENG C-MATER, V75, P1448, DOI 10.1016/j.msec.2017.03.021
+   Parcina M, 2013, J IMMUNOL, V190, P1591, DOI 10.4049/jimmunol.1201222
+   Parker H, 2012, J LEUKOCYTE BIOL, V91, P369, DOI 10.1189/jlb.0711387
+   Prabhakara R, 2013, INFECT IMMUN, V81, P1306, DOI 10.1128/IAI.01304-12
+   Reynertson KA, 2006, J NAT PROD, V69, P1228, DOI 10.1021/np0600999
+   Ryu S, 2014, INT J MOL SCI, V15, P8753, DOI 10.3390/ijms15058753
+   Saitawee D, 2018, PHOTODIAGN PHOTODYN, V22, P101, DOI 10.1016/j.pdpdt.2018.03.001
+   Van Puyvelde S., 2017, LANCET INFECT DIS
+   van Roy F, 2008, CELL MOL LIFE SCI, V65, P3756, DOI 10.1007/s00018-008-8281-1
+   Wang CK, 2017, MOLECULES, V22, DOI 10.3390/molecules22112037
+   Wang JH, 2012, SCI REP-UK, V2, DOI 10.1038/srep00606
+   Wozniak A, 2018, FRONT MICROBIOL, V9, DOI 10.3389/fmicb.2018.00930
+   Ye Y, 2014, INT J NANOMED, V9, P5157, DOI 10.2147/IJN.S71365
+   Yoo JO, 2012, INT REV CEL MOL BIO, V295, P139, DOI 10.1016/B978-0-12-394306-4.00010-1
+   Zhan XY, 2018, INFECT GENET EVOL, V59, P16, DOI 10.1016/j.meegid.2018.01.018
+   Zhao K. Q., 2018, JOVE-J VIS EXP, V12
+NR 55
+TC 4
+Z9 4
+U1 1
+U2 6
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 1011-1344
+J9 J PHOTOCH PHOTOBIO B
+JI J. Photochem. Photobiol. B-Biol.
+PD FEB
+PY 2019
+VL 191
+BP 107
+EP 115
+DI 10.1016/j.jphotobiol.2018.12.011
+PG 9
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA HL4RW
+UT WOS:000458711800015
+PM 30599381
+DA 2020-12-08
+ER
+
+PT J
+AU Sharma, R
+   Santos, LC
+   da Silva, RA
+   Goncalves, CV
+   Calado, SD
+   Santos, DP
+   de Melo, JPD
+   Rampazzo, RDP
+   Requiao, L
+   Krieger, MA
+   Barral-Netto, M
+   de Oliveira, CI
+AF Sharma, Rohit
+   Santos, Larissa Costa
+   da Silva, Robson A.
+   Goncalves, Caroline V.
+   Calado, Stefano de Melo
+   Santos, Denisar P.
+   de Andrade de Melo, Josana P.
+   Pontello Rampazzo, Rita de Cassia
+   Requiao, Luciana
+   Krieger, Marco A.
+   Barral-Netto, Manoel
+   de Oliveira, Camila I.
+TI Surveillance of donated blood during the 2016 arbovirus outbreak in
+   Brazil
+SO JOURNAL OF MEDICAL VIROLOGY
+LA English
+DT Article
+DE NAT; transfusion; ZIKV
+ID ZIKA VIRUS; PUERTO-RICO; TRANSFUSION; TRANSMISSION; DONORS; STATES; RNA
+AB Reports of arboviral transmission via blood transfusion may be a cause of concern among asymptomatic infected donors. This study evaluated the presence of arboviruses in donated blood products during the 2016 outbreak in Vitoria da Conquista (Bahia-Brazil). Serum samples (n=676) were screened for ZIKV, CHIKV, and the four DENV serotypes using a one-step reverse transcriptase-based Real-Time Polymerase Chain Reaction (RT-PCR). No samples tested positive for any of the targets, whereas positive controls performed as expected. The results suggest a low risk of arboviral transmission via transfusion of blood products in the endemic area studied during the 2016 outbreak.
+C1 [Sharma, Rohit; Santos, Larissa Costa; Barral-Netto, Manoel; de Oliveira, Camila I.] Fiocruz MS, IGM, Salvador, BA, Brazil.
+   [da Silva, Robson A.; Goncalves, Caroline V.; Calado, Stefano de Melo; Santos, Denisar P.] UFBA, IMS, Vitoria Da Conquista, BA, Brazil.
+   [de Andrade de Melo, Josana P.] Serv Hemoterapia Sudoeste, Vitoria Da Conquista, PR, Brazil.
+   [Pontello Rampazzo, Rita de Cassia; Requiao, Luciana; Krieger, Marco A.] IBMP, Curitiba, PR, Brazil.
+   [Krieger, Marco A.] Fiocruz MS, ICC, Curitiba, PR, Brazil.
+   [Barral-Netto, Manoel; de Oliveira, Camila I.] Inst Nacl Ciencia & Tecnol Invest Imunol, Sao Paulo, SP, Brazil.
+RP de Oliveira, CI (corresponding author), Fiocruz MS, IGM, Rua Waldemar Falcao 121, BR-40196710 Candeal Salvador, BA, Brazil.
+EM camila@bahia.fiocruz.br
+RI de Oliveira, Camila I/B-4358-2009; Rampazzo, Rita/AAA-4590-2020; Silva,
+   Robson A A/N-8801-2018; Krieger, Marco/AAE-8611-2020; Barral Netto,
+   Manoel/B-3904-2009
+OI de Oliveira, Camila I/0000-0002-7868-5164; Rampazzo,
+   Rita/0000-0002-8367-999X; Barral Netto, Manoel/0000-0002-5823-7903;
+   Goncalves, Caroline/0000-0003-0895-1583
+FU CAPES FellowshipCAPES
+FX CAPES Fellowship
+CR Aubry M, 2016, TRANSFUSION, V56, P33, DOI 10.1111/trf.13271
+   Barreto ML, 2016, LANCET, V387, P919, DOI 10.1016/S0140-6736(16)00545-6
+   Bierlaire D, 2017, TRANSFUSION, V57, P729, DOI 10.1111/trf.14028
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Azevedo RDD, 2015, REV SAUDE PUBL, V49, DOI 10.1590/S0034-8910.2015049006219
+   Donalisio MR, 2017, REV SAUDE PUBL, V51, DOI [10.1590/S1518-8787.2017051006889, 10.1590/s1518-8787.2017051006889]
+   Galel SA, 2017, TRANSFUSION, V57, P762, DOI 10.1111/trf.14029
+   Gallian P, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005254
+   Johansson MA, 2016, NEW ENGL J MED, V375, P1, DOI 10.1056/NEJMp1605367
+   Laughhunn A, 2017, TRANSFUSION, V57, P779, DOI 10.1111/trf.13993
+   Motta IJF, 2016, NEW ENGL J MED, V375, P1101, DOI 10.1056/NEJMc1607262
+   Musso D, 2014, EUROSURVEILLANCE, V19, P6, DOI 10.2807/1560-7917.ES2014.19.14.20761
+   Pealer LN, 2003, NEW ENGL J MED, V349, P1236, DOI 10.1056/NEJMoa030969
+   Sabino EC, 2016, J INFECT DIS, V213, P694, DOI 10.1093/infdis/jiv326
+   Santa Maria F, 2017, TRANSFUSION, V57, P2016, DOI 10.1111/trf.14161
+   Slavov SN, 2017, TRANSFUSION, V57, P2897, DOI 10.1111/trf.14322
+   Stramer SL, 2012, TRANSFUSION, V52, P1657, DOI 10.1111/j.1537-2995.2012.03566.x
+   Vasquez AM, 2016, MMWR-MORBID MORTAL W, V65, P375, DOI 10.15585/mmwr.mm6514e1
+   Williamson PC, 2017, TRANSFUSION, V57, P770, DOI 10.1111/trf.14041
+NR 19
+TC 1
+Z9 1
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0146-6615
+EI 1096-9071
+J9 J MED VIROL
+JI J. Med. Virol.
+PD AUG
+PY 2018
+VL 90
+IS 8
+BP 1406
+EP 1410
+DI 10.1002/jmv.25193
+PG 5
+WC Virology
+SC Virology
+GA GK0JY
+UT WOS:000435797200020
+PM 29667206
+DA 2020-12-08
+ER
+
+PT J
+AU dos Santos, DP
+   Muniz, IPR
+   Queiroz, AF
+   Pereira, IS
+   Souza, MPA
+   Lima, LJ
+   Sousa, LRO
+   Ribeiro, IS
+   Galantini, MPL
+   Marques, LM
+   Figueiredo, TB
+   da Silva, RAA
+AF dos Santos, D. P.
+   Muniz, I. P. R.
+   Queiroz, A. F.
+   Pereira, I. S.
+   Souza, M. P. A.
+   Lima, L. J.
+   Sousa, L. R. O.
+   Ribeiro, I. S.
+   Galantini, M. P. L.
+   Marques, L. M.
+   Figueiredo, T. B.
+   da Silva, R. A. A.
+TI Individual variation is the key to the development of a vaccine against
+   Staphylococcus aureus: a comparative study between mice lineages
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article
+DE Immunization; Staphylococcus aureus; Mice; Air pouch; Antibodies
+ID COMPLEMENT COMPONENT C5; ANTIBODY-RESPONSE; IMMUNE-RESPONSES;
+   TEICHOIC-ACID; HOST-DEFENSE; INFECTION; SYSTEM; A/J; INTERLEUKIN-17A;
+   SUSCEPTIBILITY
+AB Bacterial infections occur worldwide and are a major public health problem. Among pathogens, Staphylococcus aureus is the main causative agent of bacterial diseases in the world. This study aimed to evaluate which components of the immune system could act protectively against a S. aureus infection in intradermally immunized mice. C57BL/6 and A/j mice were immunized intradermally with S. aureus inactivated by heat and then challenged with viable strains in an air pouch model. At 6, 12, and 24 h after the challenge, euthanasia was performed, and the cellular profile of the inflammatory infiltrate, cytokines, and the bacterial load were evaluated in the air pouch lavages. Immunized mice demonstrated that the intradermal immunization with S. aureus promoted protection in C57BL/6 mice by reducing the bacterial, which was correlated with increased serum concentration of IgG antibodies (IgG1 and IgG2a) against S. aureus. The increase in IgG2a antibody levels was correlated with a decrease of bacterial load in intradermally immunized C57BL/6 mice, along with production of IL-17A at the inflammation site, as well as IgG1 consumption. Similar results were not found in the A/j lineage. In conclusion, a vaccine against S. aureus should focus more on the individual characteristics of the host because it is a determinant factor for the success of the immunization.
+C1 [dos Santos, D. P.; Muniz, I. P. R.; Queiroz, A. F.; Pereira, I. S.; Souza, M. P. A.; Lima, L. J.; Sousa, L. R. O.; Ribeiro, I. S.; Galantini, M. P. L.; Marques, L. M.; Figueiredo, T. B.; da Silva, R. A. A.] Univ Fed Bahia, Inst Multidisciplinar Saude, Vitoria Da Conquista, BA, Brazil.
+RP dos Santos, DP (corresponding author), Univ Fed Bahia, Inst Multidisciplinar Saude, Vitoria Da Conquista, BA, Brazil.
+EM farmapalmito@gmail.com
+RI Silva, Robson A A/N-8801-2018
+OI Souza Ribeiro, Israel/0000-0002-1262-1387; , Italo/0000-0001-5697-5673
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior
+   (CAPES)CAPES; Instituto Multidisciplinar em Saude, Universidade Federal
+   da Bahia, Campus Anisio Teixeira
+FX This study was supported by grants from Coordenacao de Aperfeicoamento
+   de Pessoal de Nivel Superior (CAPES). We also thank the financial
+   contribution from the Instituto Multidisciplinar em Saude, Universidade
+   Federal da Bahia, Campus Anisio Teixeira.
+CR Alvarez C, 2010, REV CHIL INFECTOL, V27, pS81
+   Archer NK, 2013, INFECT IMMUN, V81, P2070, DOI 10.1128/IAI.00084-13
+   Bavia L, 2015, MEDIAT INFLAMM, V2015, DOI 10.1155/2015/491641
+   Chapman SJ, 2012, NAT REV GENET, V13, P175, DOI 10.1038/nrg3114
+   Cypowyj S, 2012, EUR J IMMUNOL, V42, P2246, DOI 10.1002/eji.201242605
+   FARRELL C, 1975, SCAND J IMMUNOL, V4, P673, DOI 10.1111/j.1365-3083.1975.tb02675.x
+   Grice EA, 2011, NAT REV MICROBIOL, V9, P244, DOI 10.1038/nrmicro2537
+   HAMMARSTROM L, 1984, CLIN EXP IMMUNOL, V55, P593
+   Hua Guoqiang, 2013, Handb Exp Pharmacol, P29, DOI 10.1007/978-3-7091-1511-4_2
+   Inoue S, 2013, SPRINGERPLUS, V2, DOI 10.1186/2193-1801-2-283
+   Iwasaki A, 2015, NAT IMMUNOL, V16, P343, DOI 10.1038/ni.3123
+   Jagannath C, 2000, SCAND J IMMUNOL, V52, P369, DOI 10.1046/j.1365-3083.2000.00770.x
+   Joshi Amita, 2012, Hum Vaccin Immunother, V8, P336, DOI 10.4161/hv.18946
+   Jovicic N, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134089
+   Jung DJ, 2012, J IMMUNOL, V189, P4951, DOI 10.4049/jimmunol.1201294
+   Kobayashi SD, 2015, AM J PATHOL, V185, P1518, DOI 10.1016/j.ajpath.2014.11.030
+   Missiakas D, 2016, J EXP MED, V213, P1645, DOI 10.1084/jem.20160569
+   Montgomery CP, 2014, INFECT IMMUN, V82, P2125, DOI 10.1128/IAI.01491-14
+   MORRISON WI, 1985, PARASITE IMMUNOL, V7, P63, DOI 10.1111/j.1365-3024.1985.tb00479.x
+   Mullick A, 2006, INFECT IMMUN, V74, P4439, DOI 10.1128/IAI.00159-06
+   Murphy AG, 2014, J IMMUNOL, V192, P3697, DOI 10.4049/jimmunol.1303420
+   Pellegrino M, 2016, VACCINE, V34, P3356, DOI 10.1016/j.vaccine.2016.05.014
+   Rigby KM, 2012, SEMIN IMMUNOPATHOL, V34, P237, DOI 10.1007/s00281-011-0295-3
+   Rivas AL, 2007, CAN J VET RES, V71, P135
+   Saputra S, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0176379
+   Sasaki S, 2006, FEMS IMMUNOL MED MIC, V46, P367, DOI 10.1111/j.1574-695X.2005.00037.x
+   Selle M, 2016, SCI REP-UK, V6, DOI 10.1038/srep24754
+   Seok J, 2013, P NATL ACAD SCI USA, V110, P3507, DOI 10.1073/pnas.1222878110
+   Garcia-Romo GS, 2015, MICROBIOL IMMUNOL, V59, P193, DOI 10.1111/1348-0421.12241
+   Tesmer LA, 2008, IMMUNOL REV, V223, P87, DOI 10.1111/j.1600-065X.2008.00628.x
+   Tkaczyk C, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0075103
+   Torre A, 2015, INFECT IMMUN, V83, P3157, DOI 10.1128/IAI.00258-15
+   Turner RB, 2016, ANTIMICROB AGENTS CH, V60, P5682, DOI 10.1128/AAC.00439-16
+   van de Veerdonk FL, 2009, BMB REP, V42, P776, DOI 10.5483/BMBRep.2009.42.12.776
+   Wallach D, 2014, NAT REV IMMUNOL, V14, P51, DOI 10.1038/nri3561
+   WETSEL RA, 1990, J BIOL CHEM, V265, P2435
+   ZHENG LM, 1993, EUR J IMMUNOL, V23, P2826, DOI 10.1002/eji.1830231116
+NR 37
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI SAO PAULO
+PA FACULDADE MEDICINA, SALA 21, 14049 RIBEIRAO PRETO, SAO PAULO, 00, BRAZIL
+SN 0100-879X
+EI 1678-4510
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PY 2018
+VL 51
+IS 5
+AR e6773
+DI 10.1590/1414-431X20186773
+PG 12
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA GA8EB
+UT WOS:000428569900001
+PM 29590259
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Souza, MPA
+   Lima, FMD
+   Muniz, IP
+   Pereira, IS
+   Sousa, LRD
+   Galantini, MPL
+   dos Santos, DP
+   Figueiredo, TB
+   da Silva, RAA
+AF Almeida Souza, Marcos Paulo
+   da Silva Lima, Fernanda Macedo
+   Muniz, Igor Pereira
+   Pereira, Italo Sousa
+   de Oliveira Sousa, Larissa Rodrigues
+   Leite Galantini, Maria Poliana
+   dos Santos, Denisar Palmito
+   Figueiredo, Tiana Baqueiro
+   Augusto da Silva, Robson Amaro
+TI Ovariectomy Modifies TH2, and TH17 Balance in BALB/C Allergic Mice
+SO IRANIAN JOURNAL OF ALLERGY ASTHMA AND IMMUNOLOGY
+LA English
+DT Article
+DE Airway inflammation; Asthma; IL-17A; Ovariectomy; Sex hormones
+ID ESTROGEN-RECEPTOR-ALPHA; MURINE ASTHMA MODEL; REGULATORY T-CELLS; AIRWAY
+   INFLAMMATION; LUNG INFLAMMATION; SEX-DIFFERENCES; GLOBAL BURDEN; MOUSE
+   MODEL; RESPONSES; SYMPTOMS
+AB Asthma is a chronic inflammation of the airways affecting over 300 million people worldwide. As in the autoimmune diseases, it is well described that women are the most affected by asthma. The higher number of women presenting this pathology suggests the involvement of female sex hormones in the construction of the allergic immune response.
+   Female Balb/c mice were used for the experiments. Thirty-eight animals were separated into four groups: OVX-Ova; Sham-Ova; OVX-Sal; Sham-Sal. Then animals underwent acute allergic induction protocol by Ovalbulmin (OVA). Ovariectomized animals showed greater number of leukocytes in bronchoalveolar lavage (BAL) and elevated white blood cells recruitment to the lung environment observed by histological analysis.
+   There was a significant increase of eosinophils and mast cells in inflammatory sites at pulmonary tissue. The relative uterine and body weight were lower in ovariectomized animals and higher in Sham mice, respectively. Moreover, the lack of the sex hormones induced an increase in interleukin (IL)-4 and titers of immunoglobulin G1 (IgG1) antibodies. However, increased production of IL-17A was only observed in Sham animals.
+   Altogether, data this study suggest that ovariectomy induces the formation of a stronger Th-2 response in allergic animal. However, the immune processes involved in the allergic response in females currently remain unclear.
+C1 [Almeida Souza, Marcos Paulo; da Silva Lima, Fernanda Macedo; Muniz, Igor Pereira; Pereira, Italo Sousa; de Oliveira Sousa, Larissa Rodrigues; Leite Galantini, Maria Poliana; dos Santos, Denisar Palmito; Figueiredo, Tiana Baqueiro; Augusto da Silva, Robson Amaro] Univ Fed Bahia, Multidisciplinary Inst Hlth, Histopathol Lab, Dept Biointegrat, Campus Anisio Teixeira, Vitoria Da Conquista, BA, Brazil.
+   [Almeida Souza, Marcos Paulo] Devry Grp, Sch Ruy Barbosa, Dept Hlth, Salvador, BA, Brazil.
+RP da Silva, RAA (corresponding author), Univ Fed Bahia, Multidisciplinary Inst Hlth, Histopathol Lab, Dept Biointegrat, Campus Anisio Teixeira, Vitoria Da Conquista, BA, Brazil.
+EM robson.amaro@gmail.com
+RI Silva, Robson A A/N-8801-2018
+FU Fundacao de Amparo a Pesquisa do Estado da Bahia (FAPESB)
+FX This study was carried out by 106 histopathology laboratory in
+   Multidisciplinary Institute for Health of Federal University of Bahia.
+   The Fundacao de Amparo a Pesquisa do Estado da Bahia (FAPESB) provide
+   funds for execution this work.
+CR Andersson CK, 2011, J ALLERGY CLIN IMMUN, V127, P905, DOI 10.1016/j.jaci.2011.01.022
+   Antunes MA, 2010, J APPL PHYSIOL, V109, P855, DOI 10.1152/japplphysiol.00333.2010
+   Asher I, 2014, INT J TUBERC LUNG D, V18, P1269, DOI 10.5588/ijtld.14.0170
+   Cai YP, 2012, INT ARCH ALLERGY IMM, V158, P252, DOI 10.1159/000331437
+   Card Jeffrey W, 2009, Proc Am Thorac Soc, V6, P588, DOI 10.1513/pats.200904-020RM
+   Carey MA, 2007, AM J RESP CRIT CARE, V175, P126, DOI 10.1164/rccm.200509-1493OC
+   Chen YP, 2015, INT J CLIN EXP MED, V8, P15403
+   Choy DF, 2015, SCI TRANSL MED, V7, DOI 10.1126/scitranslmed.aab3142
+   Davis SR, 2012, CLIMACTERIC, V15, P419, DOI 10.3109/13697137.2012.707385
+   Dimitropoulou C, 2009, LUNG, V187, P116, DOI 10.1007/s00408-008-9129-z
+   Draijer C, 2016, AM J PHYSIOL-LUNG C, V310, pL166, DOI 10.1152/ajplung.00119.2015
+   Ensom MHH, 2003, ANN PHARMACOTHER, V37, P1610, DOI 10.1345/aph.1D090
+   Forno E, 2015, THORAX, V70, P898, DOI 10.1136/thoraxjnl-2015-207199
+   Fu Liang, 2014, Ann Am Thorac Soc, V11, P939, DOI 10.1513/AnnalsATS.201402-084OC
+   GIBBS CJ, 1984, THORAX, V39, P833, DOI 10.1136/thx.39.11.833
+   Hartl D, 2007, J ALLERGY CLIN IMMUN, V119, P1258, DOI 10.1016/j.jaci.2007.02.023
+   Holgate ST, 2006, LANCET, V368, P780, DOI 10.1016/S0140-6736(06)69288-X
+   Itoga M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0123210
+   Ivanov II, 2007, SEMIN IMMUNOL, V19, P409, DOI 10.1016/j.smim.2007.10.011
+   Johnston RA, 2007, AM J RESP CRIT CARE, V176, P650, DOI 10.1164/rccm.200702-323OC
+   Kim DI, 2012, BMC COMPLEM ALTERN M, V12, DOI 10.1186/1472-6882-12-227
+   Ko FWS, 2007, CLIN EXP IMMUNOL, V147, P526, DOI 10.1111/j.1365-2249.2006.03315.x
+   Lambrecht BN, 2015, NAT IMMUNOL, V16, P45, DOI 10.1038/ni.3049
+   Li H, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5259
+   de Oliveira APL, 2007, AM J PHYSIOL-CELL PH, V293, pC1120, DOI 10.1152/ajpcell.00286.2006
+   de Oliveira APL, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0065674
+   Ma LJ, 2007, J ENDOCRINOL, V193, P291, DOI 10.1677/JOE-06-0024
+   Masoli M, 2004, ALLERGY, V59, P469, DOI 10.1111/j.1398-9995.2004.00526.x
+   Matsubara S, 2008, AM J RESP CELL MOL, V38, P501, DOI 10.1165/rcmb.2007-0298OC
+   Nappi RE, 2012, CLIMACTERIC, V15, P36, DOI 10.3109/13697137.2011.647840
+   Newcomb DC, 2015, J ALLERGY CLIN IMMUN, V136, P1025, DOI 10.1016/j.jaci.2015.05.046
+   Newcomb DC, 2013, CURR OPIN IMMUNOL, V25, P755, DOI 10.1016/j.coi.2013.08.002
+   Nie HX, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0119901
+   Oliveira AP, 2010, RESP RES, V11, P2010
+   Riffo-Vasquez Y, 2007, CLIN EXP ALLERGY, V37, P459, DOI 10.1111/j.1365-2222.2007.02670.x
+   Robinson DS, 2009, CLIN EXP ALLERGY, V39, P1314, DOI 10.1111/j.1365-2222.2009.03301.x
+   Robinson DP, 2014, J VIROL, V88, P4711, DOI 10.1128/JVI.02081-13
+   ROBINSON DS, 1993, SPRINGER SEMIN IMMUN, V15, P17
+   Shah S, 2012, ISRN ALLERGY, V2012
+   Shah Saloni P, 2010, Iran Biomed J, V14, P41
+   Takeda M, 2013, RESPIROLOGY, V18, P797, DOI 10.1111/resp.12078
+   Tam A, 2011, BMC WOMENS HEALTH, V11, DOI 10.1186/1472-6874-11-24
+   Townsend EA, 2012, ENDOCR REV, V33, P1, DOI 10.1210/er.2010-0031
+   Valkonen M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0131594
+   Viscardi RM, 2002, INFECT IMMUN, V70, P5721, DOI 10.1128/IAI.70.10.5721-5729.2002
+   Wei Y, 2015, IMMUNOBIOLOGY, V220, P789, DOI 10.1016/j.imbio.2014.12.015
+   Wells AD, 2014, INT IMMUNOPHARMACOL, V23, P356, DOI 10.1016/j.intimp.2014.07.014
+   Yao XJ, 2014, CLIN EXP ALLERGY, V44, P765, DOI 10.1111/cea.12298
+   Zein JG, 2015, CURR ALLERGY ASTHM R, V15, DOI 10.1007/s11882-015-0528-y
+   Zhao J, 2013, MUCOSAL IMMUNOL, V6, P335, DOI 10.1038/mi.2012.76
+NR 50
+TC 1
+Z9 1
+U1 1
+U2 3
+PU IRANIAN SCIENTIFIC SOCIETY MEDICAL ENTOMOLOGY
+PI TEHRAN
+PA SCHOOL PUBLIC HEALTH & INST HEALTH RESEARCH, TEHRAN UNIV MEDICAL
+   SCIENCES, P O BOX  6446-14155, TEHRAN, 00000, IRAN
+SN 1735-1502
+EI 1735-5249
+J9 IRAN J ALLERGY ASTHM
+JI Iran. J. Allergy Asthma Immunol.
+PD DEC
+PY 2017
+VL 16
+IS 6
+BP 525
+EP 536
+PG 12
+WC Allergy; Immunology
+SC Allergy; Immunology
+GA FU8PF
+UT WOS:000424115300008
+PM 29338159
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Almeida, PP
+   Pereira, IS
+   Rodrigues, KB
+   Leal, LS
+   Marques, AS
+   Rosa, LP
+   da Silva, FC
+   da Silva, RAA
+AF Almeida, Palloma Porto
+   Pereira, Italo Sousa
+   Rodrigues, Karine Bitencourt
+   Leal, Lorena Santos
+   Marques, Andressa Souza
+   Rosa, Luciano Pereira
+   da Silva, Francine Cristina
+   Augusto da Silva, Robson Amaro
+TI Photodynamic therapy controls of Staphylococcus aureus intradermal
+   infection in mice
+SO LASERS IN MEDICAL SCIENCE
+LA English
+DT Article
+DE Staphylococcus aureus; Curcumin; Blue light; LED
+ID MRSA IN-VITRO; BLUE-LIGHT; ESCHERICHIA-COLI; CURCUMIN; VIVO; SKIN;
+   PERIODONTITIS; INACTIVATION; NEUTROPHILS; INNATE
+AB Infections caused by Staphylococcus aureus lead to skin infections, as well as soft tissues and bone infections. Given the communal resistance to antibiotics developed by strains of this bacterium, photodynamic therapy emerges as a promising alternative treatment to control and cure infections. Females of the Balb/C mice were infected with 108 CFU of methicillin-resistant S. aureus (MRSA) and divided into four distinct groups: P-L-(negative control group), P+ L-(group exposed only to curcumin), P-L+ (group ex-posed only to LED incidence of 450 nm, 75 mW/cm(2), and 54 J/cm(2) for 10 min), and P+ L+ (group exposed to curcumin followed by 10 min of LED irradiation) (n = 24). The mice were euthanized 48 and 72 h after infection, and biologic materials were collected for analysis of the bacterial load, peripheral blood leukocyte counts, and draining lymph nodes cell counts. The normalization of data was checked and the ANOVA test was applied. The bacterial load in the draining lymph node of P+ L+ group was lower when compared to the control groups 72 h post infection (p < 0.0001), indicating that the LED incidence associated with curcumin controls of the staphylococci intradermal infection. The number of the total lymph node cells shows to be lower than control groups in the two availed times (p < 0.01). The histological analysis and the counting of white blood cells did not show differences among cells in the blood and in the tissue of infection. This is the first report showing that photodynamic therapy may be effective against MRSA infection in a murine model of intradermal infection.
+C1 [Almeida, Palloma Porto; Pereira, Italo Sousa; Rodrigues, Karine Bitencourt; Leal, Lorena Santos; Marques, Andressa Souza; Rosa, Luciano Pereira; da Silva, Francine Cristina; Augusto da Silva, Robson Amaro] UFBA, Multidisciplinary Hlth Inst, Vitoria Da Conquista, BA, Brazil.
+   [Augusto da Silva, Robson Amaro] Univ Fed Bahia, Multidisciplinary Hlth Inst, Rio de Contas St,58 Candeias, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+RP Rosa, LP (corresponding author), UFBA, Multidisciplinary Hlth Inst, Vitoria Da Conquista, BA, Brazil.
+EM pahporto@gmail.com; italo_k9@hotmail.com; karinebitencourt23@gmail.com;
+   lory.leal@hotmail.com; ddmarques23@outlook.com;
+   drlucianorosa@yahoo.com.br; drfransilva@yahoo.com.br;
+   robson.amaro@gmail.com
+RI Silva, Robson A A/N-8801-2018
+OI Almeida, Palloma Porto/0000-0002-1588-8722
+FU Institutional Program of Scientific Initiation of Federal University of
+   Bahia; Research Center in Optics and Photonics (CePOF)
+FX This study was funded by the Institutional Program of Scientific
+   Initiation of Federal University of Bahia for the Scientific Initiation
+   scholarships awarded and by the Research Center in Optics and Photonics
+   (CePOF) for the equipment to the development of this work.
+CR de Sousa NTA, 2015, PHOTOMED LASER SURG, V33, P278, DOI 10.1089/pho.2014.3854
+   Alves E, 2008, J IND MICROBIOL BIOT, V35, P1447, DOI 10.1007/s10295-008-0446-2
+   Silva LAB, 2012, J ENDODONT, V38, P360, DOI 10.1016/j.joen.2011.12.023
+   Broker BM, 2014, INT J MED MICROBIOL, V304, P204, DOI 10.1016/j.ijmm.2013.11.008
+   Bruzell EM, 2005, PHOTOCH PHOTOBIO SCI, V4, P523, DOI 10.1039/b503397g
+   Bumah VV, 2015, LASER SURG MED, V47, P595, DOI 10.1002/lsm.22385
+   Bumah VV, 2015, LASER SURG MED, V47, P266, DOI 10.1002/lsm.22327
+   Bumah VV, 2013, PHOTOMED LASER SURG, V31, P547, DOI 10.1089/pho.2012.3461
+   Dai TH, 2013, PHOTOMED LASER SURG, V31, P531, DOI 10.1089/pho.2012.3365
+   dos Reis JA, 2014, LASER MED SCI, V29, P789, DOI 10.1007/s10103-013-1422-2
+   Elmore SA, 2006, TOXICOL PATHOL, V34, P425, DOI 10.1080/01926230600964722
+   Enwemeka CS, 2013, PHOTOMED LASER SURG, V31, P509, DOI 10.1089/pho.2013.9871
+   Enwemeka CS, 2009, PHOTOMED LASER SURG, V27, P221, DOI 10.1089/pho.2008.2413
+   Epstein J, 2010, BRIT J NUTR, V103, P1545, DOI 10.1017/S0007114509993667
+   Gresham HD, 2000, J IMMUNOL, V164, P3713, DOI 10.4049/jimmunol.164.7.3713
+   Grinholc M, 2015, APPL MICROBIOL BIOT, V99, P4031, DOI 10.1007/s00253-015-6539-8
+   Hajim KI, 2010, LASER MED SCI, V25, P743, DOI 10.1007/s10103-010-0803-z
+   Hamblin MR, 2004, PHOTOCH PHOTOBIO SCI, V3, P436, DOI 10.1039/b311900a
+   Hermida MDR, 2014, BMC INFECT DIS, V14, DOI 10.1186/1471-2334-14-450
+   Krejsgaard T, 2014, BLOOD, V124, P761, DOI 10.1182/blood-2014-01-551184
+   Krishna S, 2012, SEMIN IMMUNOPATHOL, V34, P261, DOI 10.1007/s00281-011-0292-6
+   Lambrechts SAG, 2005, PHOTOCH PHOTOBIO SCI, V4, P503, DOI 10.1039/b502125a
+   Martins CVB, 2009, J ANTIMICROB CHEMOTH, V63, P337, DOI 10.1093/jac/dkn488
+   McCaig LF, 2006, EMERG INFECT DIS, V12, P1715, DOI 10.3201/eid1211.060190
+   PANLILIO AL, 1992, INFECT CONT HOSP EP, V13, P582
+   Prates RA, 2011, PHOTOMED LASER SURG, V29, P835, DOI 10.1089/pho.2010.2984
+   Rigby KM, 2012, SEMIN IMMUNOPATHOL, V34, P237, DOI 10.1007/s00281-011-0295-3
+   Rosa LP, 2015, ARCH ORAL BIOL, V60, P675, DOI 10.1016/j.archoralbio.2015.02.010
+   Senthilkumar K, 2015, INDIAN PEDIATR, V52, P31, DOI 10.1007/s13312-015-0562-9
+   Sutton S., 2006, PMF NEWSL, V12, P3
+   Zolfaghari PS, 2009, BMC MICROBIOL, V9, DOI 10.1186/1471-2180-9-27
+NR 31
+TC 13
+Z9 13
+U1 0
+U2 7
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0268-8921
+EI 1435-604X
+J9 LASER MED SCI
+JI Lasers Med. Sci.
+PD AUG
+PY 2017
+VL 32
+IS 6
+BP 1337
+EP 1342
+DI 10.1007/s10103-017-2247-1
+PG 6
+WC Engineering, Biomedical; Surgery
+SC Engineering; Surgery
+GA FC1MK
+UT WOS:000406601200012
+PM 28646389
+DA 2020-12-08
+ER
+
+PT J
+AU Kaneto, CM
+   Nascimento, JS
+   Moreira, MCR
+   Ludovico, ND
+   Santana, AP
+   Silva, RAA
+   Silva-Jardim, I
+   Santos, JL
+   Sousa, SMB
+   Lima, PSP
+AF Kaneto, C. M.
+   Nascimento, J. S.
+   Moreira, M. C. R.
+   Ludovico, N. D.
+   Santana, A. P.
+   Silva, R. A. A.
+   Silva-Jardim, I.
+   Santos, J. L.
+   Sousa, S. M. B.
+   Lima, P. S. P.
+TI MicroRNA profiling identifies miR-7-5p and miR-26b-5p as differentially
+   expressed in hypertensive patients with left ventricular hypertrophy
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article
+DE Cardiovascular disease; Hypertension; Left ventricular hypertrophy;
+   microRNAs
+ID GROWTH-FACTOR RECEPTOR; CIRCULATING MICRORNAS; HEART-FAILURE;
+   MONONUCLEAR-CELLS; FIBROSIS; CANCER; CARDIOMYOPATHY; BIOMARKERS;
+   PATHWAY; MICE
+AB Recent evidence suggests that cell-derived circulating miRNAs may serve as biomarkers of cardiovascular diseases. However, a few studies have investigated the potential of circulating miRNAs as biomarkers for left ventricular hypertrophy (LVH). In this study, we aimed to characterize the miRNA profiles that could distinguish hypertensive patients with LHV, hypertensive patients without LVH and control subjects, and identify potential miRNAs as biomarkers of LVH. LVH was defined by left ventricular mass indexed to body surface area 4125 g/m(2) in men and 4110 g/m(2) in women and patients were classified as hypertensive when presenting a systolic blood pressure of 140 mmHg or more, or a diastolic blood pressure of 90 mmHg or more. We employed miRNA PCR array to screen serum miRNAs profiles of patients with LVH, essential hypertension and healthy subjects. We identified 75 differentially expressed miRNAs, including 49 upregulated miRNAs and 26 downregulated miRNAs between LVH and control patients. We chose 2 miRNAs with significant differences for further testing in 59 patients. RT-PCR analysis of serum samples confirmed that miR-7-5p and miR-26b-5p were upregulated in the serum of LVH hypertensive patients compared with healthy subjects. Our findings suggest that these miRNAs may play a role in the pathogenesis of hypertensive LVH and may represent novel biomarkers for this disease.
+C1 [Kaneto, C. M.; Silva-Jardim, I.; Santos, J. L.] Univ Estadual Santa Cruz, Dept Ciencias Biol, Ilheus, BA, Brazil.
+   [Nascimento, J. S.; Moreira, M. C. R.; Ludovico, N. D.] Univ Estadual Santa Cruz, Dept Ciencias Saude, Ilheus, BA, Brazil.
+   [Santana, A. P.; Sousa, S. M. B.; Lima, P. S. P.] Univ Estadual Sudoeste Bahia, Dept Ciencias Nat, Vitoria Da Conquista, BA, Brazil.
+   [Silva, R. A. A.] Univ Estadual Sudoeste Bahia, Inst Multidisciplinar Saude, Vitoria Da Conquista, BA, Brazil.
+RP Kaneto, CM (corresponding author), Univ Estadual Santa Cruz, Dept Ciencias Biol, Ilheus, BA, Brazil.
+EM cmkaneto@uesc.br
+RI Silva, Robson A A/N-8801-2018; Avaliacao, PPGCS/ABF-2467-2020
+FU FAPESB (Fundacao de Amparo a Pesquisa do Estado da Bahia); CNPq
+   (Conselho Nacional de Desenvolvimento Cientifico e Tecnologico)National
+   Council for Scientific and Technological Development (CNPq); UESC
+   (Universidade Estadual de Santa Cruz)
+FX This work was supported by FAPESB (Fundacao de Amparo a Pesquisa do
+   Estado da Bahia), CNPq (Conselho Nacional de Desenvolvimento Cientifico
+   e Tecnologico), and UESC (Universidade Estadual de Santa Cruz).
+CR Afridi I, 2003, J HYPERTENS, V21, P1983, DOI 10.1097/01.hjh.0000084751-37215.d2
+   Bagnall RD, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044744
+   Chen JH, 2012, J MOL CELL CARDIOL, V52, P949, DOI 10.1016/j.yjmcc.2012.01.012
+   Chen ZX, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105702
+   Cortez MA, 2011, NAT REV CLIN ONCOL, V8, P467, DOI 10.1038/nrclinonc.2011.76
+   De Oliveira SA, 2012, CYTOTHERAPY, V14, P339, DOI 10.3109/14653249.2011.637668
+   Eisen MB, 1998, P NATL ACAD SCI USA, V95, P14863, DOI 10.1073/pnas.95.25.14863
+   Fang L, 2015, J TRANSL MED, V13, DOI 10.1186/s12967-015-0672-0
+   He L, 2004, NAT REV GENET, V5, P522, DOI 10.1038/nrg1379
+   Huang XT, 2015, EXP THER MED, V10, P921, DOI 10.3892/etm.2015.2645
+   Kahan T, 2005, HEART, V91, P250, DOI 10.1136/hrt.2004.042473
+   Kefas B, 2008, CANCER RES, V68, P3566, DOI 10.1158/0008-5472.CAN-07-6639
+   Kontaraki JE, 2015, J AM SOC HYPERTENS, V9, P802, DOI 10.1016/j.jash.2015.07.013
+   Kumarswamy R, 2013, CIRC RES, V113, P676, DOI 10.1161/CIRCRESAHA.113.300226
+   Kupari M, 2005, EUR HEART J, V26, P1790, DOI 10.1093/eurheartj/ehi290
+   Latronico MVG, 2007, CIRC RES, V101, P1225, DOI 10.1161/CIRCRESAHA.107.163147
+   Martinelli NC, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0093271
+   Martins PAD, 2012, CARDIOVASC RES, V93, P563, DOI 10.1093/cvr/cvs013
+   Mitchell PS, 2008, P NATL ACAD SCI USA, V105, P10513, DOI 10.1073/pnas.0804549105
+   Miyamoto K, 2016, BRIT J CANCER, V115, P354, DOI 10.1038/bjc.2016.179
+   Ovchinnikova ES, 2016, EUR J HEART FAIL, V18, P414, DOI 10.1002/ejhf.332
+   Picon RV, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0048255
+   Portnoy V, 2011, WIRES RNA, V2, P748, DOI 10.1002/wrna.90
+   Roncarati R, 2014, J AM COLL CARDIOL, V63, P920, DOI 10.1016/j.jacc.2013.09.041
+   Saiselet M, 2015, BMC GENOMICS, V16, DOI 10.1186/s12864-015-2082-3
+   Schillaci G, 2000, HYPERTENSION, V35, P580, DOI 10.1161/01.HYP.35.2.580
+   Souza BSD, 2014, INT J EXP PATHOL, V95, P321, DOI 10.1111/iep.12089
+   Leal MMT, 2014, NEUROCHEM RES, V39, P259, DOI 10.1007/s11064-013-1217-7
+   van Rooij E, 2012, NAT REV DRUG DISCOV, V11, P860, DOI 10.1038/nrd3864
+   Wang W, 2013, NEOPLASMA, V60, P274, DOI 10.4149/neo_2013_036
+   Wang Y, 2016, TUMOR BIOL, V37, P10965, DOI 10.1007/s13277-016-4964-7
+   Wang Y, 2016, ONCOTARGET, V7, P24383, DOI 10.18632/oncotarget.8328
+   Webster RJ, 2009, J BIOL CHEM, V284, P5731, DOI 10.1074/jbc.M804280200
+   Wu DC, 2016, J MOL MED, V94, P875, DOI 10.1007/s00109-016-1426-z
+   Xue H, 2008, CLIN SCI, V114, P131, DOI 10.1042/CS20070109
+NR 35
+TC 9
+Z9 9
+U1 0
+U2 2
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI SAO PAULO
+PA FACULDADE MEDICINA, SALA 21, 14049 RIBEIRAO PRETO, SAO PAULO, 00, BRAZIL
+SN 0100-879X
+EI 1678-4510
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PY 2017
+VL 50
+IS 12
+AR e6211
+DI 10.1590/1414-431X20176211
+PG 9
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA FK0QP
+UT WOS:000413184900001
+PM 29069223
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU da Silveira, EA
+   Ribeiro, IS
+   Amorim, MS
+   Rocha, DV
+   Coutinho, HS
+   de Freitas, LM
+   Tomazi, L
+   da Silva, RAA
+AF da Silveira, Eliezer A.
+   Ribeiro, Israel S.
+   Amorim, Miguel S.
+   Rocha, Dalva V.
+   Coutinho, Helder S.
+   de Freitas, Leandro M.
+   Tomazi, Laize
+   da Silva, Robson A. A.
+TI Correlation between infection rate of triatominies and Chagas Disease in
+   Southwest of Bahia, Brazil: a warning sign?
+SO ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS
+LA English
+DT Article
+DE Infection; Chagas disease; Trypanosoma cruzi; vector
+ID HEMIPTERA REDUVIIDAE TRIATOMINAE; TRYPANOSOMA-CRUZI; STATE; CEARA;
+   EPIDEMIOLOGY
+AB Chagas disease, caused by the Trypanosoma cruzi, has a wide distribution in South America, and its main method of control is the elimination of triatomines. It is presented here the geographic distribution and the rate of natural infection by T. cruzi of triatomines collected and evaluated from 2008 to 2013 in southwest of Bahia. Triatomines were captured in the intradomiciliary and peridomiciliary areas of five cities located in the southwest of Bahia state, identified, and analyzed for the presence of trypanosomatids in their feces. During the study period the number of patients suspected for acute Chagas disease was recovered from the Notifiable Diseases Information System (SINAN). 8966 triatomines were captured and identified as belonging to eight species. Twenty-six presented themselves infected, being Triatoma sordida the most abundant and with the highest percentage of infection by T. cruzi. Tremedal was the city with the highest number of cases of acute Chagas' disease reported to SINAN. All cities showed triatomines infected with T. cruzi, so there is considerable risk of vectorial transmission of Chagas disease in the southwestern Bahia state, evidencing the need for vector transmission control programs and preventive surveillance measures.
+C1 [da Silveira, Eliezer A.; Amorim, Miguel S.; Rocha, Dalva V.] Secretaria Saude Estado Bahia, Diretoria Reg Saude 20a, Vigilancia Epidemiol, Controle Doencas Endem, Rua Joao Pereira S-N, BR-45000115 Vitoria Da Conquista, BA, Brazil.
+   [Ribeiro, Israel S.; de Freitas, Leandro M.; Tomazi, Laize; da Silva, Robson A. A.] Univ Fed Bahia, Inst Multidisciplinar Saude, Campus Anisio Teixeira,Rua Rio de Contas 58, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+   [Coutinho, Helder S.] Secretaria Saude Estado Bahia, Vigilancia Epidemiol, Programa Controle Doenca Chagas, Ave ACM S-N, BR-41820300 Salvador, BA, Brazil.
+RP da Silva, RAA (corresponding author), Univ Fed Bahia, Inst Multidisciplinar Saude, Campus Anisio Teixeira,Rua Rio de Contas 58, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+EM robson.amaro@gmail.com
+RI Silva, Robson A A/N-8801-2018; Freitas, Leandro/AAK-3005-2020
+OI Freitas, Leandro/0000-0003-4327-2922; Tomazi, Laize/0000-0003-0977-8508;
+   Souza Ribeiro, Israel/0000-0002-1262-1387
+FU Ministry of Health of Brazil
+FX We thank all the Chagas Disease Control Program staff attached to the
+   20th Regional Board of Health and the Bahia State Health Secretariat
+   involved in the collection and transport of triatomines. We also thank
+   the municipalities for which data were reported through the Notifiable
+   Diseases Information System (SINAN) and also to the financial support
+   granted by Ministry of Health of Brazil.
+CR [Anonymous], 2015, Wkly Epidemiol Rec, V90, P33
+   Araujo RF, 2014, REV SOC BRAS MED TRO, V47, P513, DOI 10.1590/0037-8682-0219-2013
+   Silva MBA, 2012, REV SOC BRAS MED TRO, V45, P60, DOI 10.1590/S0037-86822012000100012
+   ASSIS GFM, 2007, REV SOC BRAS MED TRO, V40, P391
+   BARRETT TV, 1979, T ROY SOC TROP MED H, V73, P703, DOI 10.1016/0035-9203(79)90025-7
+   Belisario CJ, 2013, REV SOC BRAS MED TRO, V46, P779, DOI 10.1590/0037-8682-1712-2013
+   CAMARGO ME, 1984, REV I MED TROP, V26, P192, DOI 10.1590/S0036-46651984000400003
+   Caranha L, 2006, REV SOC BRAS MED TRO, V39, P347, DOI 10.1590/S0037-86822006000400006
+   de Carvalho EOC, 2011, REV SOC BRAS MED TRO, V44, P703, DOI 10.1590/S0037-86822011000600010
+   Coura JR, 2009, MEM I OSWALDO CRUZ, V104, P31, DOI 10.1590/S0074-02762009000900006
+   Pessoa GCD, 2014, REV SOC BRAS MED TRO, V47, P426, DOI 10.1590/0037-8682-0129-2014
+   de Carvalho ME, 2011, REV SOC BRAS MED TRO, V44, P85, DOI 10.1590/S0037-86822011000800013
+   de Oliveira AWS, 2007, REV SOC BRAS MED TRO, V40, P204, DOI 10.1590/S0037-86822007000200011
+   Dias J C, 2000, Cad Saude Publica, V16 Suppl 2, P13, DOI 10.1590/S0102-311X2000000800003
+   Diotaiuti Lileia, 2009, P24
+   Forattini O P, 1981, Rev Saude Publica, V15, P113
+   Forattini O P, 1979, Rev Saude Publica, V13, P220, DOI 10.1590/S0034-89101979000300007
+   Freitas SPC, 2005, REV SAUDE PUBL, V39, P27, DOI 10.1590/s0034-89102005000100004
+   Freitas SPC, 2004, REV SAUDE PUBL, V38, P578, DOI 10.1590/S0034-89102004000400015
+   Frias-Lasserre D, 2010, NEOTROP ENTOMOL, V39, P572, DOI 10.1590/S1519-566X2010000400017
+   Galvao C, 2003, ZOOTAXA, V202, P1, DOI DOI 10.11646/Z00TAXA.202.1.1
+   Gurgel-Goncalves R, 2012, J TROP MED-US, V2012, DOI 10.1155/2012/705326
+   Guzman-Marin E, 1990, REV BIOMED, V1, P144
+   Klink CA, 2005, CONSERV BIOL, V19, P707, DOI 10.1111/j.1523-1739.2005.00702.x
+   Leite GR, 2007, CHECK LIST, P147, DOI DOI 10.15560/3.2.147
+   Marcal JR O, 2004, CAMINHOS GEOGRAFIA, V3, P50
+   Marin-Neto JA, 2009, REV ESP CARDIOL, V62, P1211, DOI 10.1016/S0300-8932(09)73071-4
+   Mota-Sanchez J, 2009, SALUD PUBLICA MEXICO, V51, pS463, DOI 10.1590/s0036-36342009000900012
+   Ostermayer AL, 2011, REV SOC BRAS MED TRO, V44, P108, DOI 10.1590/S0037-86822011000800015
+   PERLOWAGORASZUMLEWICZ A, 1994, MEM I OSWALDO CRUZ, V89, P603, DOI 10.1590/S0074-02761994000400018
+   Rassi A, 2012, INFECT DIS CLIN N AM, V26, P275, DOI 10.1016/j.idc.2012.03.002
+   Rassi A, 2010, LANCET, V375, P1388, DOI 10.1016/S0140-6736(10)60061-X
+   Ribeiro AR, 2014, REV SAUDE PUBL, V48, P296, DOI 10.1590/S0034-8910.2014048004719
+   Santana KDO, 2011, GEOSPATIAL HEALTH, V5, P199
+   Sarquis O, 2004, MEM I OSWALDO CRUZ, V99, P263, DOI 10.1590/S0074-02762004000300004
+   Schofield CJ, 2006, TRENDS PARASITOL, V22, P583, DOI 10.1016/j.pt.2006.09.011
+   Sessa Paulo Augusto, 2002, Cad. Saúde Pública, V18, P1765, DOI 10.1590/S0102-311X2002000600031
+   SiLVEIRA AC, 2003, GUIA AMOSTRAGEM APLI
+   Silveira AC, 2002, CONTROLE DOENCA CHAG
+   Silveira AC, 2006, SALVADOR SECRETARIA
+   Silveira AC, 2011, REV SOC BRAS MED TRO, V44, P52, DOI 10.1590/S0037-86822011000800009
+   Dias FBS, 2008, MEM I OSWALDO CRUZ, V103, P824, DOI 10.1590/S0074-02762008000800014
+   Villela Marcos M., 2005, Cad. Saúde Pública, V21, P878, DOI 10.1590/S0102-311X2005000300022
+   WHO, 1991, WHO TECH REP SER, V811, P1
+NR 44
+TC 2
+Z9 2
+U1 0
+U2 3
+PU ACAD BRASILEIRA DE CIENCIAS
+PI RIO JANEIRO
+PA RUA ANFILOFIO DE CARVALHO, 29, 3 ANDAR, 20030-060 RIO JANEIRO, BRAZIL
+SN 0001-3765
+EI 1678-2690
+J9 AN ACAD BRAS CIENC
+JI An. Acad. Bras. Cienc.
+PD NOV
+PY 2016
+VL 88
+IS 3
+SU S
+BP 1941
+EP 1951
+DI 10.1590/0001-3765201620150744
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EF3BD
+UT WOS:000390198500030
+PM 27411071
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Silva, JR
+   Ferreira, LFAA
+   Oliveira, PVS
+   Nunes, IV
+   Pereira, IS
+   Timenetsky, J
+   Marques, LM
+   Figueiredo, TB
+   Silva, RAA
+AF Silva, Jamile R.
+   Ferreira, Licio F. A. A.
+   Oliveira, Percillia V. S.
+   Nunes, Ivaneia V.
+   Pereira, Italo S.
+   Timenetsky, Jorge
+   Marques, Lucas M.
+   Figueiredo, Tiana B.
+   Silva, Robson A. A.
+TI Intra-uterine experimental infection by Ureaplasma diversum induces
+   TNF-alpha mediated womb inflammation in mice
+SO ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS
+LA English
+DT Article
+DE Mycoplasma; uterus; Ureaplasma; mice
+ID NECROSIS-FACTOR-ALPHA; ESTROUS-CYCLE; UREALYTICUM; DISEASE; MYCOPLASMA;
+   CATTLE; MODEL; LYMPHOCYTES; MACROPHAGES; NEUTROPHILS
+AB Ureaplasma diversum is an opportunistic pathogen associated with uterine inflammation, impaired embryo implantation, infertility, abortions, premature birth of calves and neonatal pneumonia in cattle. It has been suggested that the intra-uterine infection by Ureaplasma diversum can cause vascular changes that hinder the success of pregnancy. Thus, the aim of this study was to evaluate the changes of intrauterine site of A/J mice in estrus or proestrus phase inoculated with Ureaplasma diversum. The infection was monitored at 24, 48 and 72 hours by the PCR methodology to detect the Ureaplasma in the inoculation site and the profile of circulating blood cells. Morphological changes, intensity of inflammation and the production of cytokines were compared. The infected mice showed local inflammation through the production of IFN-gamma and TNF-alpha. Ureaplasma diversum infections in the reproductive tract of studied mice seemed to be associated with the production of pro-inflammatory cytokines in uterine parenchyma. The levels of TNF-a of infected mice were dependent on the bacterial load of inoculated Ureaplasma. Uterine experimental infections by Ureaplasma diversum have not been mentioned yet and herein we presented the first report of an intrauterine infection model in mice.
+C1 [Silva, Jamile R.; Ferreira, Licio F. A. A.; Oliveira, Percillia V. S.; Nunes, Ivaneia V.; Pereira, Italo S.; Marques, Lucas M.; Figueiredo, Tiana B.; Silva, Robson A. A.] Univ Fed Bahia, Lab Histopatol & Parasitol, Inst Multidisciplinar Saude, Campus Anisio Teixeira,Rua Rio Contas,Quadra 17, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+   [Timenetsky, Jorge] Univ Sao Paulo, Dept Microbiol, Inst Ciencias Biomed 2, Av Prof Lineu Prestes 1374, BR-05508000 Sao Paulo, SP, Brazil.
+RP Silva, RAA (corresponding author), Univ Fed Bahia, Lab Histopatol & Parasitol, Inst Multidisciplinar Saude, Campus Anisio Teixeira,Rua Rio Contas,Quadra 17, BR-45029094 Vitoria Da Conquista, BA, Brazil.
+EM robson.amaro@gmail.com
+RI Silva, Robson A A/N-8801-2018
+CR Allam AB, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-101
+   Argue B, 2013, AUST VET J, V91, P99, DOI 10.1111/avj.12009
+   BUZUNHANI M., 2011, BMC RES NOTES, V4, P1
+   Cardoso MV, 2000, VET MICROBIOL, V72, P241, DOI 10.1016/S0378-1135(99)00203-5
+   Chan G, 2005, J PATHOL, V207, P462, DOI 10.1002/path.1849
+   Chandiramani M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0052412
+   Chelmonska-Soyta A, 1994, CAN J VET RES, V58, P275
+   Estrada-Gutierrez G, 2010, INFECT IMMUN, V78, P4792, DOI 10.1128/IAI.00522-10
+   Famuyide ME, 2009, PEDIATR RES, V66, P162, DOI 10.1203/PDR.0b013e3181aabd66
+   Gambarini ML, 2009, TROP ANIM HEALTH PRO, V41, P1421, DOI 10.1007/s11250-009-9330-y
+   Glass JI, 2000, NATURE, V407, P757, DOI 10.1038/35037619
+   Gloerich M, 2010, MOL CELL BIOL, V30, P5421, DOI 10.1128/MCB.00463-10
+   HAIMOVICI F, 1991, BIOL REPROD, V44, P69, DOI 10.1095/biolreprod44.1.69
+   Honma Y, 2007, PEDIATR INT, V49, P479, DOI 10.1111/j.1442-200X.2007.02391.x
+   Jiemtaweeboon S, 2011, REPROD BIOL ENDOCRIN, V9, DOI 10.1186/1477-7827-9-79
+   KIM JJ, 1994, INFECT IMMUN, V62, P1528, DOI 10.1128/IAI.62.5.1528-1533.1994
+   Knights D, 2014, GENOME MED, V6, DOI 10.1186/s13073-014-0107-1
+   Kobayashi Y, 2013, ARCH IMMUNOL THER EX, V61, P187, DOI 10.1007/s00005-013-0218-1
+   KREPLIN CMA, 1989, CAN VET J, V30, P435
+   Kumar A, 2014, J CLIN PERIODONTOL, V41, P357, DOI 10.1111/jcpe.12226
+   Manimtim WM, 2001, INFECT IMMUN, V69, P3906, DOI 10.1128/IAI.69.6.3906-3915.2001
+   Marchioni RM, 2013, WORLD J GASTROENTERO, V19, P2591, DOI 10.3748/wjg.v19.i17.2591
+   Marenzoni ML, 2013, VET RES COMMUN, V37, P311, DOI 10.1007/s11259-013-9578-6
+   MARQUES LM, 2013, VET MICROBIOL, V31, P394
+   Marques LM, 2010, BMC MICROBIOL, V10, DOI 10.1186/1471-2180-10-83
+   McGowin CL, 2013, J INFECT DIS, V207, P1857, DOI 10.1093/infdis/jit101
+   Miller CM, 2009, INT J PARASITOL, V39, P23, DOI 10.1016/j.ijpara.2008.08.002
+   MILLER R, 1994, VET CLIN N AM-FOOD A, V10, P479, DOI 10.1016/S0749-0720(15)30533-8
+   MURRAY RD, 1991, J VET MED A, V38, P660, DOI 10.1111/j.1439-0442.1991.tb01062.x
+   OHLSSON A, 1993, CLIN INFECT DIS, V17, pS144, DOI 10.1093/clinids/17.Supplement_1.S144
+   Peng Y, 2013, FOLIA MICROBIOL, V58, P593, DOI 10.1007/s12223-013-0238-6
+   Reyes L, 2009, BMC INFECT DIS, V9, DOI 10.1186/1471-2334-9-9
+   Robinson JW, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0062746
+   Rogerson SJ, 2007, LANCET INFECT DIS, V7, P105, DOI 10.1016/S1473-3099(07)70022-1
+   RUHNKE HL, 1984, THERIOGENOLOGY, V21, P295, DOI 10.1016/0093-691X(84)90415-1
+   RUHNKE HL, 1994, MYCOPLASMOSIS ANIMAL, P141
+   SAADA AB, 1988, ZBL BAKT-INT J MED M, V269, P160
+   Sasaki S, 2009, BIOCHEM BIOPH RES CO, V382, P35, DOI 10.1016/j.bbrc.2009.02.112
+   Segal AW, 2005, ANNU REV IMMUNOL, V23, P197, DOI 10.1146/annurev.immunol.23.021704.115653
+   SMITH DGE, 1993, J BACTERIOL, V175, P3253, DOI 10.1128/jb.175.11.3253-3258.1993
+   TAYLORRO.D, 1967, ANN NY ACAD SCI, V143, P517, DOI 10.1111/j.1749-6632.1967.tb27697.x
+   Tegtmeier C, 1999, J VET MED B, V46, P693, DOI 10.1046/j.1439-0450.1999.00301.x
+   Thomas A, 2002, VET REC, V151, P472, DOI 10.1136/vr.151.16.472
+   Versalovic J, 2011, MANUAL CLIN MICROBIO
+   Viscardi RM, 2002, INFECT IMMUN, V70, P5721, DOI 10.1128/IAI.70.10.5721-5729.2002
+   Viscardi RM, 2010, CLIN PERINATOL, V37, P393, DOI 10.1016/j.clp.2009.12.003
+   Viscardi RM, 2014, ARCH DIS CHILD-FETAL, V99, pF87, DOI 10.1136/archdischild-2012-303351
+   von Chamier M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044047
+   Waites KB, 2012, J MOL DIAGN, V14, P437, DOI 10.1016/j.jmoldx.2012.06.001
+   Wang X, 2015, 3RD INTERNATIONAL CONFERENCE ON ADVANCED COMPOSITE MATERIALS AND MANUFACTURING ENGINEERING (CMME 2015), P10
+   Yui J, 1996, BIOL REPROD, V55, P400, DOI 10.1095/biolreprod55.2.400
+   Zhu GX, 2011, CAN J MICROBIOL, V57, P987, DOI [10.1139/W11-098, 10.1139/w11-098]
+NR 52
+TC 7
+Z9 7
+U1 0
+U2 10
+PU ACAD BRASILEIRA DE CIENCIAS
+PI RIO JANEIRO
+PA RUA ANFILOFIO DE CARVALHO, 29, 3 ANDAR, 20030-060 RIO JANEIRO, BRAZIL
+SN 0001-3765
+EI 1678-2690
+J9 AN ACAD BRAS CIENC
+JI An. Acad. Bras. Cienc.
+PD MAY
+PY 2016
+VL 88
+IS 1
+SU S
+BP 643
+EP 652
+DI 10.1590/0001-3765201620150244
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DO9JI
+UT WOS:000378102100019
+PM 26871498
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU de Oliveira, THC
+   Amorin, AT
+   Rezende, IS
+   Barbosa, MS
+   Martins, HB
+   Brito, AKP
+   Andrade, EF
+   Goncalves, GKN
+   Campos, GB
+   Silva, RAA
+   Timenetsky, J
+   Marques, LM
+AF Caldeira de Oliveira, Thiago Henrique
+   Amorin, Aline Teixeira
+   Rezende, Izadora Souza
+   Barbosa, Maysa Santos
+   Martins, Hellen Braga
+   Pereira Brito, Anne Karoline
+   Andrade, Ewerton Ferraz
+   Neves Goncalves, Gleisy Kelly
+   Campos, Guilherme Barreto
+   Augusto Silva, Robson Amaro
+   Timenetsky, Jorge
+   Marques, Lucas Miranda
+TI Sepsis Induced by Staphylococcus aureus: Participation of Biomarkers in
+   a Murine Model
+SO MEDICAL SCIENCE MONITOR
+LA English
+DT Article
+DE Biological Markers; Sepsis; Staphylococcus aureus
+ID C-REACTIVE PROTEIN; RAPID DIAGNOSIS; SEPTIC SHOCK; PROCALCITONIN;
+   INFECTION; PATHOPHYSIOLOGY; EMERGENCY; MARKER; INTERLEUKIN-6;
+   MACROPHAGES
+AB Background: This study aimed to evaluate the role of biomarkers in the pathophysiological process induced by a Staphylococcus aureus strain obtained in a hospital environment. For this, we intraperitoneally inoculated groups of male BALB/c mice with S. aureus, using a clinical isolate (CI) of S. aureus.
+   Material/Methods: Mice were divided into groups according to time of euthanasia (24, 48, 72, 96, 120, 144, and 168 hours of infection). After being euthanized, blood samples were collected for quantification of microorganisms and leukocytes, as well as measurement of biomarkers of tumor necrosis factor alpha (TNF-alpha), interleukin 6 (IL-6), C-reactive protein (CRP), and Procalcitonin (PCT) by ELISA. Heart, kidneys, and lungs were removed for histopathological analysis, assessment of biomarkers of tissue expression by RT-PCR (polymerase chain reaction with reverse transcriptase), and quantification of microorganisms by real-time quantitative PCR (real-time PCR).
+   Results: The animals infected at between 120 hours and 168 hours had the highest blood levels of S. aureus. We observed that infection promoted increases in the levels of circulating neutrophils and monocytes. However, there was a reduction of circulating neutrophils and monocytes after 96 hours of infection. The infected mice also had increased levels of blood lymphocytes. In this model of infection with S. aureus, IL-6, CRP, and PCT demonstrated greater fidelity as markers of infection, since serum levels were elevated and lowered along with the number of circulating neutrophils and monocytes after resolution of the infection. The lungs showed hyperemia, with enlargement of the alveolar septa. On the other hand, infection with S. aureus did not promote visible change in histological tissue in the heart and kidneys.
+   Conclusions: In this model of infection with S. aureus, IL-6, CRP, and PCT demonstrated greater fidelity as markers of infection, since serum levels were elevated and lowered along with the number of circulating neutrophils and monocytes after resolution of the infection. We believe our results may provide a better understanding of the pathophysiology, as well as aid in the search for a more reliable method of diagnosis.
+C1 [Caldeira de Oliveira, Thiago Henrique; Amorin, Aline Teixeira; Rezende, Izadora Souza; Barbosa, Maysa Santos; Martins, Hellen Braga; Pereira Brito, Anne Karoline; Andrade, Ewerton Ferraz; Neves Goncalves, Gleisy Kelly; Augusto Silva, Robson Amaro; Marques, Lucas Miranda] Fed Univ Bahia Vitoria Conquista, Multidisciplinary Inst Hlth, Vitoria Da Conquista, BA, Brazil.
+   [Campos, Guilherme Barreto; Timenetsky, Jorge] Univ Sao Paulo, Dept Microbiol, Inst Biomed Sci, Sao Paulo, Brazil.
+RP Marques, LM (corresponding author), Fed Univ Bahia Vitoria Conquista, Multidisciplinary Inst Hlth, Vitoria Da Conquista, BA, Brazil.
+EM lucasm@ufba.br
+RI Oliveira, Thiago H C/U-7868-2017; Silva, Robson A A/N-8801-2018;
+   TEIXEIRA AMORIM, ALINE/H-3026-2016
+OI TEIXEIRA AMORIM, ALINE/0000-0003-2597-8665
+FU FAPESB [BOL0824/2011]; Programa de apoio a pesquisadores emergentes da
+   UFBA [PRODOC 02/2011]
+FX This study was supported by FAPESB (BOL0824/2011) and Programa de apoio
+   a pesquisadores emergentes da UFBA (PRODOC 02/2011)
+CR Al Achkar M, 2012, AM J CASE REP, V13, P26, DOI 10.12659/AJCR.882588
+   Alves JC, 2008, SHOCK, V30, P3, DOI 10.1097/SHK.0b013e3181818466
+   Biju PG, 2012, SHOCK, V38, P170, DOI 10.1097/SHK.0b013e31825b2db3
+   Bloos F, 2014, VIRULENCE, V5, P154, DOI 10.4161/viru.27393
+   BONE RC, 1991, ANN INTERN MED, V115, P457, DOI 10.7326/0003-4819-115-6-457
+   Brown KA, 2006, LANCET, V368, P157, DOI 10.1016/S0140-6736(06)69005-3
+   Cabrera-Perez J, 2014, J LEUKOC BIOL
+   Campos GB, 2012, NEW MICROBIOL, V35, P183
+   Chan YL, 2004, CRIT CARE, V8, pR12, DOI 10.1186/cc2396
+   Chiesa C, 2003, CLIN CHEM, V49, P60, DOI 10.1373/49.1.60
+   Dong Q, 1996, J IMMUNOL, V156, P4815
+   Ferguson NR, 1999, INTENS CARE MED, V25, P106, DOI 10.1007/s001340050795
+   Gentili A, 2006, MED SCI MONITOR, V12, pLE11
+   Goetghebeur M, 2007, CAN J INFECT DIS MED, V18, P27, DOI 10.1155/2007/253947
+   Grandel U, 2000, CIRCULATION, V102, P2758, DOI 10.1161/01.CIR.102.22.2758
+   Gullo A, 2006, CRIT CARE CLIN, V22, P489, DOI 10.1016/j.ccc.2006.03.006
+   Gutierrez J, 2009, MED SCI MONITOR, V15, pCR499
+   Hausfater P, 2002, CLIN INFECT DIS, V34, P895, DOI 10.1086/339198
+   Hotchkiss RS, 2005, CLIN INFECT DIS, V41, pS465, DOI 10.1086/431998
+   Hotchkiss RS, 2003, NEW ENGL J MED, V348, P138, DOI 10.1056/NEJMra021333
+   Jincharadze N, 2006, Georgian Med News, P87
+   Kotoula A, 2009, UROLOGY, V73, P782, DOI 10.1016/j.urology.2008.10.042
+   Kubler A, 2006, MED SCI MONITOR, V12, pCR107
+   Lausevic Z, 2010, VOJNOSANIT PREGL, V67, P893, DOI 10.2298/VSP1011893L
+   Lever A, 2007, BMJ-BRIT MED J, V335, P879, DOI 10.1136/bmj.39346.495880.AE
+   Levi M, 1999, NEW ENGL J MED, V341, P586, DOI 10.1056/NEJM199908193410807
+   LIESCHKE GJ, 1994, BLOOD, V84, P1737
+   Martin G, 2009, CRIT CARE, V13, DOI 10.1186/cc7936
+   Mehanic Snjezana, 2013, Mater Sociomed, V25, P277, DOI 10.5455/msm.2013.25.277-281
+   Morgenthaler NG, 2003, HORM METAB RES, V35, P290
+   MOSCOVITZ H, 1994, CRIT CARE MED, V22, P1102, DOI 10.1097/00003246-199407000-00009
+   Naber CK, 2009, CLIN INFECT DIS, V48, pS231, DOI 10.1086/598189
+   Nelson GE, 2015, BIOMED RES INT, V2114, P264
+   Oberholzer A, 2001, IMMUNOL LETT, V75, P221, DOI 10.1016/S0165-2478(00)00307-2
+   Ozturk E, 2008, PEDIATR SURG INT, V24, P899, DOI 10.1007/s00383-008-2184-y
+   Pierrakos C, 2010, CRIT CARE, V14, DOI 10.1186/cc8872
+   Azevedo LCP, 2013, SHOCK, V39, P1, DOI 10.1097/SHK.0b013e31828fad4a
+   Povoa P, 2002, INTENS CARE MED, V28, P235, DOI 10.1007/s00134-002-1209-6
+   Reinhart K, 2012, CLIN MICROBIOL REV, V25, P609, DOI 10.1128/CMR.00016-12
+   Ribas VJ, 2011, IEEE ENG MED BIO, P100, DOI 10.1109/IEMBS.2011.6089906
+   RUNCIE C, 1990, WORLD J SURG, V14, P196, DOI 10.1007/BF01664873
+   Sahm DF, 1999, CLIN INFECT DIS, V29, P259, DOI 10.1086/520195
+   Silman NJ, 2013, CRIT CARE, V17, DOI 10.1186/cc13137
+   Thomas LC, 2007, J MICROBIOL METH, V68, P296, DOI 10.1016/j.mimet.2006.09.003
+   Ventetuolo CE, 2008, CLIN CHEST MED, V29, P591, DOI 10.1016/j.ccm.2008.07.001
+   Verdrengh M, 2000, ARTHRITIS RHEUM, V43, P2276, DOI 10.1002/1529-0131(200010)43:10<2276::AID-ANR15>3.0.CO;2-C
+   Weidenmaier C, 2004, NAT MED, V10, P243, DOI 10.1038/nm991
+   Yi C, 2009, INFLAMM RES, V58, P855, DOI 10.1007/s00011-009-0056-0
+NR 48
+TC 5
+Z9 5
+U1 0
+U2 3
+PU INT SCIENTIFIC LITERATURE, INC
+PI SMITHTOWN
+PA 361 FOREST LANE, SMITHTOWN, NY 11787 USA
+SN 1643-3750
+J9 MED SCI MONITOR
+JI Med. Sci. Monitor
+PD JAN 29
+PY 2015
+VL 21
+BP 345
+EP 355
+PG 11
+WC Medicine, Research & Experimental
+SC Research & Experimental Medicine
+GA CE9AA
+UT WOS:000352134400001
+PM 25630550
+OA Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Amorim, MM
+   Tomazi, L
+   da Silva, RAA
+   Gestinari, RD
+   Figueiredo, TB
+AF Amorim, Maise Mendonca
+   Tomazi, Laize
+   Augusto da Silva, Robson Amaro
+   Gestinari, Raquel de Souza
+   Figueiredo, Tiana Baqueiro
+TI EVALUATION OF HOUSING AND HEALTH CONDITIONS OF BOQUEIRAO AFRO DESCENDANT
+   COMMUNITY, STATE OF BAHIA, BRAZIL
+SO BIOSCIENCE JOURNAL
+LA Portuguese
+DT Article
+DE Afro descendant community; Parasitic diseases; Protozoosis; Helminthic
+   infections
+ID CHILDREN
+AB The Boqueirao is an afro descendant community located in Vitoria da Conquista, Bahia, Brazil formed by about 500 individuals. This community has an only dam, where animals have free access, used frequently for washing clothes and water collection for domestic use. The water supply is precarious, as well as the basic sanitation, since it does not exist canalized water and sanitary exhaustion. It results in the ousting of dejections in the dam and ground, compromising the quality of the consumed water. These factors associated to limited access of the population health services become these individuals vulnerable to parasitic infections. The aim of this work is register the habitation and health conditions of the Boqueirao community. The sample was composed by 467 individuals that answered a questionnaire about their housing and health conditions. Of these, 404 had been submitted to fecal exam for the diagnosis of parasitic diseases. The population is formed predominantly by young or adult, agricultural worker, and most of houses have not canalized water and bathroom. Most of population uses only the public system of health and the high blood pressure was the most reported preexisting disease. In relation to the intestinal parasitisms, the protozoan infections were more prevalent than helminthic infections. The precarious conditions of habitation, water supply and basic sanitation reflect the social and economic population profiles and the inefficiency of health public politics for the community that explains the data found regarding the prevalence of chronic and parasitic diseases.
+C1 [Amorim, Maise Mendonca] Univ Fed Bahia UFBA, Vitoria Da Conquista, BA, Brazil.
+   [Tomazi, Laize; Augusto da Silva, Robson Amaro; Gestinari, Raquel de Souza; Figueiredo, Tiana Baqueiro] UFBA, Vitoria Da Conquista, BA, Brazil.
+RP Amorim, MM (corresponding author), Univ Fed Bahia UFBA, Vitoria Da Conquista, BA, Brazil.
+EM maimendonca@hotmail.com
+RI Silva, Robson A A/N-8801-2018
+CR Alves Jair Rodrigues, 2003, Cad. Saúde Pública, V19, P667, DOI 10.1590/S0102-311X2003000200034
+   AMOROZO M C D M, 1988, Boletim do Museu Paraense Emilio Goeldi Serie Botanica, V4, P47
+   BANDEIRA M. L., 2002, QUILOMBOS IDENTIDADE, P213
+   BATISTA L. E., 2005, MORTALIDADE POPULACA, P237
+   Begossi A., 1993, Journal of Ethnobiology, V13, P233
+   Biscegli Terezinha Soares, 2009, Rev. paul. pediatr., V27, P289, DOI 10.1590/S0103-05822009000300009
+   BRASIL, 2005, PERFIL COMUNIDADES Q
+   Cabral-Miranda G., 2010, Revista de Patologia Tropical, V39, P48
+   CASTINEIRAS T. M. P. P., 2000, INFECCOES HELMINTOS
+   Cooper RS, 1999, SCI AM, V280, P56, DOI 10.1038/scientificamerican0299-56
+   Devera R, 2003, MEM I OSWALDO CRUZ, V98, P1, DOI 10.1590/S0074-02762003000100001
+   HARPHAM T, 1991, World Health Statistics Quarterly, V44, P62
+   Hoffman W. A., 1934, Puerto Rico Journal of Public Health & Tropical Medicine, V9, P283
+   Lessa I., 2001, MANUAL DOENCAS MAIS, P43
+   Mascarini LM, 2006, REV SOC BRAS MED TRO, V39, P577, DOI 10.1590/S0037-86822006000600015
+   NOKES C, 1992, PARASITOLOGY, V104, P539, DOI 10.1017/S0031182000063800
+   OPARIL S., 2003, ANN INTERNAL MED PHI, V139, P61
+   Pinto Erika de Paula Pedro, 2006, Acta Bot. Bras., V20, P751, DOI 10.1590/S0102-33062006000400001
+   Rey L., 2001, PARASITOLOGIA
+   Rocha R S, 2000, Rev Soc Bras Med Trop, V33, P431
+   Santos L. P., 2007, Revista de Patologia Tropical, V36, P237
+   Santos-Junior G. O., 2006, Revista de Patologia Tropical, V35, P233
+   SATURNINO A. C. R. D., 2003, REV BRASILERIA ANALI, V35, P82
+   Silva José Antonio Novaes da, 2007, Saude soc., V16, P111, DOI 10.1590/S0104-12902007000200011
+   Tsuyuoka R, 1999, Cad Saude Publica, V15, P413, DOI 10.1590/S0102-311X1999000200026
+NR 25
+TC 5
+Z9 9
+U1 0
+U2 2
+PU UNIV FEDERAL UBERLANDIA
+PI UBERLANDIA
+PA AV PARA, 1720 CAMPUS UMUARAMA, UBERLANDIA, 38400-902, BRAZIL
+SN 1981-3163
+J9 BIOSCI J
+JI Biosci. J.
+PD JUL-AUG
+PY 2013
+VL 29
+IS 4
+BP 1049
+EP 1057
+PG 9
+WC Agriculture, Multidisciplinary; Agronomy; Biology
+SC Agriculture; Life Sciences & Biomedicine - Other Topics
+GA 206VJ
+UT WOS:000323551900030
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU da Silva, RAA
+   Tavares, NM
+   Costa, D
+   Pitombo, M
+   Barbosa, L
+   Fukutani, K
+   Miranda, JC
+   de Oliveira, CI
+   Valenzuela, JG
+   Barral, A
+   Soto, M
+   Barral-Netto, M
+   Brodskyn, C
+AF da Silva, Robson A. A.
+   Tavares, Natalia M.
+   Costa, Dirceu
+   Pitombo, Maiana
+   Barbosa, Larissa
+   Fukutani, Kyioshi
+   Miranda, Jose C.
+   de Oliveira, Camila I.
+   Valenzuela, Jesus G.
+   Barral, Aldina
+   Soto, Manuel
+   Barral-Netto, Manoel
+   Brodskyn, Claudia
+TI DNA vaccination with KMP11 and Lutzomyia longipalpis salivary protein
+   protects hamsters against visceral leishmaniasis
+SO ACTA TROPICA
+LA English
+DT Article
+DE Hamster; Leishmonia chagasi; Visceral leishmaniasis; Saliva; DNA
+   plasmids; Protection
+ID KINETOPLASTID MEMBRANE PROTEIN-11; SAND FLY SALIVA; IMMUNE-RESPONSE;
+   BALB/C MICE; CUTANEOUS LEISHMANIASIS; VECTOR SALIVA; MESSENGER-RNA;
+   NITRIC-OXIDE; MODEL; MACROPHAGES
+AB It was recently shown that immunization of hamsters with DNA plasmids coding LJM19, a sand fly salivary protein, partially protected against a challenge with Leishmania chagasi, whereas immunization with KMP11 DNA plasmid, a Leishmania antigen, induced protection against L donovani infection. In the present study, we evaluated the protective effect of immunization with both LJM19 and KMP11 DNA plasmid together. Concerning the protection against an infection by L chagasi, immunization with DNA plasmids coding LJM19 or KMP11, as well as with both plasmids combined, induced IFN-gamma production in draining lymph nodes at 7, 14 and 21 days post-immunization. Immunized hamsters challenged with L chagasi plus Salivary Gland Sonicate (SGS) from Lutzomyia longipalpis showed an enhancement of IFN-gamma/IL-10 and IFN-gamma/TGF-beta in draining lymph nodes after 7 and 14 days of infection. Two and five months after challenge, immunized animals showed reduced parasite load in the liver and spleen, as well as increased IFN-gamma/IL-10 and IFN-gamma/TGF-beta ratios in the spleen. Furthermore, immunized animals remained with a normal hematological profile even five months after the challenge, whereas L chagasi in unimmunized hamsters lead to a significant anemia. The protection observed with LJM19 or KMP11 DNA plasmids used alone was very similar to the protection obtained by the combination of both plasmids. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [da Silva, Robson A. A.; Tavares, Natalia M.; Costa, Dirceu; Pitombo, Maiana; Barbosa, Larissa; Fukutani, Kyioshi; Miranda, Jose C.; de Oliveira, Camila I.; Barral, Aldina; Barral-Netto, Manoel] Fiocruz MS, Ctr Pesquisas Goncalo Moniz CPqGM, BR-40296710 Salvador, BA, Brazil.
+   [da Silva, Robson A. A.] Univ Fed Bahia UFBA, Inst Multidisciplinar Saude, Vitoria Da Conquista, BA, Brazil.
+   [da Silva, Robson A. A.] Inst Ciencias Saude, Salvador, BA, Brazil.
+   [da Silva, Robson A. A.] Fac Med, Salvador, BA, Brazil.
+   [Brodskyn, Claudia] Inst Nacl Ciencia & Tecnol Invest Imunol Iii INCT, Sao Paulo, Brazil.
+   [Soto, Manuel] Univ Autonoma Madrid, Dept Biol Mol, Ctr Biol Mol Severo Ochoa SCIC UAM, E-28049 Madrid, Spain.
+   [Valenzuela, Jesus G.] NIAID, Vector Mol Biol Sect, Lab Malaria & Vector Res, NIH, Bethesda, MD USA.
+RP Brodskyn, C (corresponding author), Fiocruz MS, Lab Imunoregulacao LIMI, Ctr Pesquisas Goncalo Moniz, Rua Waldemar Falcao 121, BR-40296710 Salvador, BA, Brazil.
+EM brodskyn@bahia.fiocruz.br
+RI Barral-Netto, Manoel/B-3904-2009; Silva, Robson A A/N-8801-2018;
+   Fukutani, Kiyoshi/N-7905-2016; Costa, Dirceu/D-7993-2013; Alvarez,
+   Manuel Soto/Q-5234-2018; Fukutani, Kiyoshi/T-1630-2019; de Oliveira,
+   Camila I/B-4358-2009; Tavares, Natalia/AAQ-1527-2020
+OI Barral-Netto, Manoel/0000-0002-5823-7903; Fukutani,
+   Kiyoshi/0000-0003-2223-0918; Costa, Dirceu/0000-0002-0334-3899; Alvarez,
+   Manuel Soto/0000-0001-6825-841X; de Oliveira, Camila
+   I/0000-0002-7868-5164; Machado Tavares, Natalia/0000-0002-4026-679X
+FU FAPESB; CNPqNational Council for Scientific and Technological
+   Development (CNPq); CAPESCAPES
+FX We thank Edivaldo Passos for technical assistance. This research was
+   supported by FAPESB, CNPq and CAPES. CB, AB, CIO and MB-N are senior
+   investigators of CNPq-Brasil. RAAS received a fellowship from CNPq.
+CR Andrade BB, 2007, SCAND J IMMUNOL, V66, P122, DOI 10.1111/j.1365-3083.2007.01964.x
+   Barral A, 2000, AM J TROP MED HYG, V62, P740, DOI 10.4269/ajtmh.2000.62.740
+   Basu R, 2005, J IMMUNOL, V174, P7160, DOI 10.4049/jimmunol.174.11.7160
+   Basu R, 2007, J INFECT DIS, V195, P1373, DOI 10.1086/513439
+   Belkaid Y, 1998, J EXP MED, V188, P1941, DOI 10.1084/jem.188.10.1941
+   Caldas AJM, 2006, ACTA TROP, V97, P252, DOI 10.1016/j.actatropica.2005.09.010
+   Costa DJ, 2004, INFECT IMMUN, V72, P1298, DOI 10.1128/IAI.72.3.1298-1305.2004
+   Dondji B, 2005, INFECT IMMUN, V73, P5286, DOI 10.1128/IAI.73.8.5286-5289.2005
+   Fernandez-Guerrero ML, 2004, ACTA TROP, V90, P11, DOI 10.1016/j.actatropica.2003.09.009
+   Fuertes MA, 2001, J BIOL INORG CHEM, V6, P107, DOI 10.1007/s007750000175
+   Gantt KR, 2003, J IMMUNOL, V170, P2613, DOI 10.4049/jimmunol.170.5.2613
+   Gomes R, 2008, P NATL ACAD SCI USA, V105, P7845, DOI 10.1073/pnas.0712153105
+   Greenland JR, 2007, VACCINE, V25, P3731, DOI 10.1016/j.vaccine.2007.01.120
+   Guilpin VO, 2002, PARASITE IMMUNOL, V24, P437, DOI 10.1046/j.1365-3024.2002.00484.x
+   Kamhawi S, 2000, SCIENCE, V290, P1351, DOI 10.1126/science.290.5495.1351
+   Lima HC, 1997, PARASITOL TODAY, V13, P80, DOI 10.1016/S0169-4758(96)40010-2
+   Lima HC, 1996, INFECT IMMUN, V64, P5442, DOI 10.1128/IAI.64.12.5442-5445.1996
+   Melby PC, 1998, INFECT IMMUN, V66, P2135, DOI 10.1128/IAI.66.5.2135-2142.1998
+   Melby PC, 2001, J IMMUNOL, V166, P1912, DOI 10.4049/jimmunol.166.3.1912
+   Moreno J, 2007, VACCINE, V25, P5290, DOI 10.1016/j.vaccine.2007.05.010
+   Morris RV, 2001, J IMMUNOL, V167, P5226, DOI 10.4049/jimmunol.167.9.5226
+   Nylen S, 2007, J EXP MED, V204, P805, DOI 10.1084/jem.20061141
+   Oliveira F, 2006, VACCINE, V24, P374, DOI 10.1016/j.vaccine.2005.07.085
+   Olivier M, 2005, CLIN MICROBIOL REV, V18, P293, DOI 10.1128/CMR.18.2.293-305.2005
+   Pastorino Antonio C., 2002, J. Pediatr. (Rio J.), V78, P120, DOI 10.1590/S0021-75572002000200010
+   Ramirez JR, 2001, VACCINE, V20, P455, DOI 10.1016/S0264-410X(01)00341-3
+   RIBEIRO JMC, 1995, INFECT AGENT DIS, V4, P143
+   Ribeiro JMC, 2001, J PARASITOL, V87, P915, DOI 10.1645/0022-3395(2001)087[0915:TSAACO]2.0.CO;2
+   Sharma G, 2006, J DRUG TARGET, V14, P301, DOI 10.1080/10611860600809112
+   Silva F, 2005, AM J TROP MED HYG, V72, P94, DOI 10.4269/ajtmh.2005.72.94
+   THEODOS CM, 1991, INFECT IMMUN, V59, P1592, DOI 10.1128/IAI.59.5.1592-1598.1991
+   TITUS RG, 1988, SCIENCE, V239, P1306, DOI 10.1126/science.3344436
+   Valenzuela JG, 2001, J EXP MED, V194, P331, DOI 10.1084/jem.194.3.331
+   Yarali N, 2002, AM J HEMATOL, V71, P191, DOI 10.1002/ajh.10200
+NR 34
+TC 23
+Z9 24
+U1 0
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0001-706X
+J9 ACTA TROP
+JI Acta Trop.
+PD DEC
+PY 2011
+VL 120
+IS 3
+BP 185
+EP 190
+DI 10.1016/j.actatropica.2011.08.007
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 853LS
+UT WOS:000297428400006
+PM 21875567
+OA Green Accepted, Green Published, Bronze
+DA 2020-12-08
+ER
+
+PT J
+AU Tavares, NM
+   Silva, RA
+   Costa, DJ
+   Pitombo, MA
+   Fukutani, KF
+   Miranda, JC
+   Valenzuela, JG
+   Barral, A
+   de Oliveira, CI
+   Barral-Netto, M
+   Brodskyn, C
+AF Tavares, Natalia M.
+   Silva, Robson A.
+   Costa, Dirceu J.
+   Pitombo, Maiana A.
+   Fukutani, Kiyoshi F.
+   Miranda, Jose C.
+   Valenzuela, Jesus G.
+   Barral, Aldina
+   de Oliveira, Camila I.
+   Barral-Netto, Manoel
+   Brodskyn, Claudia
+TI Lutzomyia longipalpis Saliva or Salivary Protein LJM19 Protects against
+   Leishmania braziliensis and the Saliva of Its Vector, Lutzomyia
+   intermedia
+SO PLOS NEGLECTED TROPICAL DISEASES
+LA English
+DT Article
+ID CUTANEOUS LEISHMANIASIS; IMMUNE-RESPONSE; MODEL; IDENTIFICATION;
+   EXPRESSION; MICE
+AB Background: Leishmania transmission occurs in the presence of insect saliva. Immunity to Phlebotomus papatasi or Lutzomyia longipalpis saliva or salivary components confers protection against an infection by Leishmania in the presence of the homologous saliva. However, immunization with Lutzomyia intermedia saliva did not protect mice against Leishmania braziliensis plus Lu. intermedia saliva. In the present study, we have studied whether the immunization with Lu. longipalpis saliva or a DNA plasmid coding for LJM19 salivary protein would be protective against L. braziliensis infection in the presence of Lu. intermedia saliva, the natural vector for L. braziliensis.
+   Methodology/Principal Findings: Immunization with Lu. longipalpis saliva or with LJM19 DNA plasmid induced a Delayed-Type Hypersensitivity (DTH) response against Lu. longipalpis as well as against a Lu. intermedia saliva challenge. Immunized and unimmunized control hamsters were then intradermally infected in the ears with L. braziliensis in the presence of Lu. longipalpis or Lu. intermedia saliva. Animals immunized with Lu. longipalpis saliva exhibited smaller lesion sizes as well as reduced disease burdens both at lesion site and in the draining lymph nodes. These alterations were associated with a significant decrease in the expression levels of IL-10 and TGF-beta. Animals immunized with LJM19 DNA plasmid presented similar findings in protection and immune response and additionally increased IFN-gamma expression.
+   Conclusions/Significance: Immunization with Lu. longipalpis saliva or with a DNA plasmid coding LJM19 salivary protein induced protection in hamsters challenged with L. braziliensis plus Lu. intermedia saliva. These findings point out an important role of immune response against saliva components, suggesting the possibility to develop a vaccine using a single component of Lu. longipalpis saliva to generate protection against different species of Leishmania, even those transmitted by a different vector.
+C1 [Tavares, Natalia M.; Costa, Dirceu J.; Pitombo, Maiana A.; Fukutani, Kiyoshi F.; Miranda, Jose C.; Barral, Aldina; de Oliveira, Camila I.; Barral-Netto, Manoel; Brodskyn, Claudia] Fiocruz MS, Ctr Pesquisa Goncalo Moniz, Salvador, BA, Brazil.
+   [Silva, Robson A.] Univ Fed Bahia, Inst Multidisciplinar Saude, Vitoria Da Conquista, BA, Brazil.
+   [Valenzuela, Jesus G.] NIAID, Vector Mol Biol Unit, Lab Malaria & Vector Res, NIH, Rockville, MD USA.
+   [Barral, Aldina; de Oliveira, Camila I.; Barral-Netto, Manoel; Brodskyn, Claudia] Inst Invest Imunol, Sao Paulo, Brazil.
+RP Tavares, NM (corresponding author), Fiocruz MS, Ctr Pesquisa Goncalo Moniz, Salvador, BA, Brazil.
+EM brodskyn@bahia.fiocruz.br
+RI Barral-Netto, Manoel/B-3904-2009; Silva, Robson A A/N-8801-2018; de
+   Oliveira, Camila I/B-4358-2009; Tavares, Natalia/AAQ-1527-2020;
+   Fukutani, Kiyoshi/N-7905-2016; Fukutani, Kiyoshi/T-1630-2019
+OI Barral-Netto, Manoel/0000-0002-5823-7903; de Oliveira, Camila
+   I/0000-0002-7868-5164; Fukutani, Kiyoshi/0000-0003-2223-0918; Machado
+   Tavares, Natalia/0000-0002-4026-679X
+FU FAPESB; Renorbio [554753/2006-5]; CNPqNational Council for Scientific
+   and Technological Development (CNPq) [472973/2006-1]; NATIONAL INSTITUTE
+   OF ALLERGY AND INFECTIOUS DISEASESUnited States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH National
+   Institute of Allergy & Infectious Diseases (NIAID) [ZIAAI000932,
+   ZIAAI000932, ZIAAI000932, ZIAAI000932, ZIAAI000932, ZIAAI000932,
+   ZIAAI000932, ZIAAI000932, ZIAAI000932, ZIAAI000932] Funding Source: NIH
+   RePORTER
+FX This work was supported by FAPESB, Renorbio (554753/2006-5) and CNPq
+   (472973/2006-1). AB, CIO, MB-N and CB are senior investigators from
+   CNPq. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+CR Andrade BB, 2007, SCAND J IMMUNOL, V66, P122, DOI 10.1111/j.1365-3083.2007.01964.x
+   Araujo-Santos T, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000873
+   Belkaid Y, 1998, J EXP MED, V188, P1941, DOI 10.1084/jem.188.10.1941
+   BITTENCOURT AL, 1991, MEM I OSWALDO CRUZ, V86, P51, DOI 10.1590/S0074-02761991000100009
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1016/0003-2697(76)90527-3
+   Collin N, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000441
+   Costa DJ, 2004, INFECT IMMUN, V72, P1298, DOI 10.1128/IAI.72.3.1298-1305.2004
+   de Moura TR, 2007, PLOS NEGLECT TROP D, V1, DOI 10.1371/journal.pntd.0000084
+   de Moura TR, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000712
+   de Oliveira CI, 2004, MICROBES INFECT, V6, P977, DOI 10.1016/j.micinf.2004.05.009
+   Gomes R, 2008, P NATL ACAD SCI USA, V105, P7845, DOI 10.1073/pnas.0712153105
+   HERRER A, 1979, EXP PARASITOL, V48, P359, DOI 10.1016/0014-4894(79)90120-6
+   Kamhawi S, 2000, SCIENCE, V290, P1351, DOI 10.1126/science.290.5495.1351
+   LABUDA M, 1993, MED VET ENTOMOL, V7, P193, DOI 10.1111/j.1365-2915.1993.tb00674.x
+   Lima HC, 1996, INFECT IMMUN, V64, P5442, DOI 10.1128/IAI.64.12.5442-5445.1996
+   Melby PC, 2001, EXP PARASITOL, V99, P17, DOI 10.1006/expr.2001.4640
+   Oliveira F, 2006, VACCINE, V24, P374, DOI 10.1016/j.vaccine.2005.07.085
+   Ribeiro JMC, 2001, J EXP BIOL, V204, P2001
+   Teixeira MJ, 2005, INFECT IMMUN, V73, P1191, DOI 10.1128/IAI.73.2.1191-1195.2005
+   Thiakaki M, 2005, MICROBES INFECT, V7, P760, DOI 10.1016/j.micinf.2005.01.013
+   TITUS RG, 1988, SCIENCE, V239, P1306, DOI 10.1126/science.3344436
+   TITUS RG, 1985, PARASITE IMMUNOL, V7, P545, DOI 10.1111/j.1365-3024.1985.tb00098.x
+   Valenzuela JG, 2004, J EXP BIOL, V207, P3717, DOI 10.1242/jeb.01185
+   Valenzuela JG, 2001, J EXP MED, V194, P331, DOI 10.1084/jem.194.3.331
+   WILSON HR, 1979, EXP PARASITOL, V47, P270, DOI 10.1016/0014-4894(79)90079-1
+NR 25
+TC 44
+Z9 45
+U1 0
+U2 7
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1935-2735
+J9 PLOS NEGLECT TROP D
+JI Plos Neglect. Trop. Dis.
+PD MAY
+PY 2011
+VL 5
+IS 5
+AR e1169
+DI 10.1371/journal.pntd.0001169
+PG 11
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA 770OZ
+UT WOS:000291099100037
+PM 21655303
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Svensjo, E
+   Batista, PR
+   Brodskyn, CI
+   Silva, R
+   Lima, APCA
+   Schmitz, V
+   Saraiva, E
+   Pesquero, JB
+   Mori, MAS
+   Muller-Esterl, W
+   Scharfstein, J
+AF Svensjo, E
+   Batista, PR
+   Brodskyn, CI
+   Silva, R
+   Lima, APCA
+   Schmitz, V
+   Saraiva, E
+   Pesquero, JB
+   Mori, MAS
+   Muller-Esterl, W
+   Scharfstein, J
+TI Interplay between parasite cysteine proteases and the host kinin system
+   modulates microvascular leakage and macrophage infection by
+   promastigotes of the Leishmania donovani complex
+SO MICROBES AND INFECTION
+LA English
+DT Article
+DE Leishmaniasis; innate immunity; inflammation; macrophages; endothelium;
+   kinins; angiotensin-converting enzyme; cysteine proteases
+ID EXPERIMENTAL VISCERAL LEISHMANIASIS; ANGIOTENSIN-CONVERTING ENZYME;
+   DELAYED-TYPE HYPERSENSITIVITY; TRYPANOSOMA-CRUZI; VASCULAR-PERMEABILITY;
+   DENDRITIC CELLS; CHEEK POUCH; BRADYKININ; RECEPTORS; PROTEINASE
+AB Kinins, the vasoactive peptides proteolytically liberated from kininogens, were recently recognized as signals alerting the innate immune system. Here we demonstrate that Leishmania donovani and Leishmania chagasi, two etiological agents of visceral leishmaniasis (VL), activate the kinin system. Intravital microscopy in the hamster cheek pouch showed that topically applied promastigotes induced macromolecular leakage (FITC-dextran) through postcapillary venules. Peaking at 15 min, the parasite-induced leakage was drastically enhanced by captopril (Cap), an inhibitor of angiotensin-converting enzyme (ACE), a kinin-degrading metallopeptidase. The enhanced microvascular responses were cancelled by HOE-140, an antagonist of the B, bradykinin receptor (13,R), or by pre-treatment of promastigotes with the irreversible cysteine proteinase inhibitor N-methylpiperazine-urea-Phe-homoPhe-vinylsulfone-benzene (N-Pip-hF-VSPh). In agreement with the above-mentioned data, the promastigotes vigorously induced edema in the paw of Cap-treated J129 mice, but not Cap-B2R-/(-) mice. Analysis of parasite-induced breakdown of high molecular weight kininogens (HK), combined with active site-affinity-labeling with biotin-N-Pip-hF-VSPh, identified 35-40 kDa proteins as kinin-releasing cysteine peptidases. We then checked if macrophage infectivity was influenced by interplay between these kinin-releasing parasite proteases, kininogens, and kinin-degrading peptidases (i.e. ACE). Our studies revealed that full-fledged B2R engagement resulted in vigorous increase of L. chagasi uptake by resident macrophages. Evidence that inflammatory macrophages treated with HOE-140 became highly susceptible to amastigote outgrowth, assessed 72 h after initial macrophage interaction, further suggests that the kinin/B2R activation pathway may critically modulate inflammation and innate immunity in visceral leishmaniasis. (c) 2005 Elsevier SAS. All rights reserved.
+C1 Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, BR-21949900 Rio De Janeiro, Brazil.
+   Ctr Pesquisa Goncalo Moniz, LIP, BR-40295001 Salvador, BA, Brazil.
+   Univ Fed Rio de Janeiro, Inst Microbiol Paulo Goes, BR-21949900 Rio De Janeiro, Brazil.
+   Univ Fed Sao Paulo, Dept Biofis, Sao Paulo, Brazil.
+   Goethe Univ Frankfurt, Sch Med, Inst Biochem 2, D-6000 Frankfurt, Germany.
+RP Scharfstein, J (corresponding author), Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, CCS Ilha Fundao, BR-21949900 Rio De Janeiro, Brazil.
+EM scharf@biof.ufrj.br
+RI Saraiva, Elvira M/L-2864-2017; Silva, Robson A A/N-8801-2018; Batista,
+   Paulo Ricardo/E-8883-2013; Pesquero, Joao/C-1470-2012; Brodskyn,
+   Claudia/A-9970-2010; Schmitz, Veronica P/D-2458-2013; Lima, Ana Paula
+   CA/G-4122-2012; Svensjo, Erik/B-5026-2008
+OI Saraiva, Elvira M/0000-0002-6388-5286; Batista, Paulo
+   Ricardo/0000-0002-3399-174X; Pesquero, Joao/0000-0002-4507-632X;
+   Schmitz, Veronica P/0000-0002-0865-133X; Svensjo,
+   Erik/0000-0002-7356-1787; LIMA, ANA PAULA C. A./0000-0003-4631-2694
+CR Ahmed S, 2003, INFECT IMMUN, V71, P401, DOI 10.1128/IAI.71.1.401-410.2003
+   Aliberti J, 2003, J IMMUNOL, V170, P5349, DOI 10.4049/jimmunol.170.11.5349
+   Belkaid Y, 2000, P NATL ACAD SCI USA, V97, P6704, DOI 10.1073/pnas.97.12.6704
+   Belkaid Y, 1998, J EXP MED, V188, P1941, DOI 10.1084/jem.188.10.1941
+   BHOOLA KD, 1992, PHARMACOL REV, V44, P1
+   BITTENCOURT AL, 1995, TROPICAL PATHOLOGY, V8, P597
+   BJORK J, 1985, J IMMUNOL, V134, P1115
+   BLACKWELL JM, 1985, J EXP MED, V162, P324, DOI 10.1084/jem.162.1.324
+   Brown NJ, 1998, CIRCULATION, V97, P1411, DOI 10.1161/01.CIR.97.14.1411
+   DelNery E, 1997, J BIOL CHEM, V272, P25713, DOI 10.1074/jbc.272.41.25713
+   Dominguez M, 2002, J EXP MED, V195, P451, DOI 10.1084/jem.20011319
+   Engel JC, 1998, J EXP MED, V188, P725, DOI 10.1084/jem.188.4.725
+   Engwerda CR, 2004, TRENDS PARASITOL, V20, P524, DOI 10.1016/j.pt.2004.08.009
+   ERLANSSON M, 1991, PROSTAGLANDINS, V41, P157, DOI 10.1016/0090-6980(91)90028-E
+   FARMER SG, 1992, ANNU REV PHARMACOL, V32, P511
+   Ferreira J, 2002, NEUROPHARMACOLOGY, V43, P1188, DOI 10.1016/S0028-3908(02)00311-8
+   FRIEDLAND J, 1978, BIOCHEM BIOPH RES CO, V83, P843, DOI 10.1016/0006-291X(78)91471-7
+   Gantt KR, 2003, J IMMUNOL, V170, P2613, DOI 10.4049/jimmunol.170.5.2613
+   Gomes RB, 2002, J INFECT DIS, V186, P1530, DOI 10.1086/344733
+   Gorak PMA, 1998, EUR J IMMUNOL, V28, P687, DOI 10.1002/(SICI)1521-4141(199802)28:02&lt;687::AID-IMMU687&gt;3.0.CO;2-N
+   Goto H, 2004, BRAZ J MED BIOL RES, V37, P615, DOI 10.1590/S0100-879X2004000400020
+   HASAN AAK, 1995, J BIOL CHEM, V270, P19256, DOI 10.1074/jbc.270.33.19256
+   Herwald H, 1996, J EXP MED, V184, P665, DOI 10.1084/jem.184.2.665
+   IMAMURA T, 1994, J CLIN INVEST, V94, P361, DOI 10.1172/JCI117330
+   KAUFMANN J, 1993, J BIOL CHEM, V268, P9079
+   Kozik A, 1998, J BIOL CHEM, V273, P33224, DOI 10.1074/jbc.273.50.33224
+   Kropf P, 2004, J LEUKOCYTE BIOL, V76, P48, DOI 10.1189/jlb.1003484
+   Laurenti MD, 1996, INT J EXP PATHOL, V77, P15, DOI 10.1046/j.1365-2613.1996.958096.x
+   Lima APCA, 2002, J BIOL CHEM, V277, P5875, DOI 10.1074/jbc.M108518200
+   Lonardoni MVC, 2000, INFECT IMMUN, V68, P6355, DOI 10.1128/IAI.68.11.6355-6361.2000
+   Maeda H, 1996, BIOL CHEM H-S, V377, P217
+   Marceau F, 1998, CLIN REV ALLERG IMMU, V16, P385, DOI 10.1007/BF02737658
+   Matte C, 2002, J INFECT DIS, V185, P673, DOI 10.1086/339260
+   Mottram JC, 1998, CURR OPIN MICROBIOL, V1, P455, DOI 10.1016/S1369-5274(98)80065-9
+   Mundodi V, 2002, GENE, V282, P257, DOI 10.1016/S0378-1119(01)00851-4
+   RAMAMOORTHY R, 1992, J BIOL CHEM, V267, P1888
+   Rao CM, 1999, J PARASITOL, V85, P682, DOI 10.2307/3285743
+   Renne T, 2000, J BIOL CHEM, V275, P33688, DOI 10.1074/jbc.M000313200
+   RIBEIRO JMC, 1987, ANNU REV ENTOMOL, V32, P463, DOI 10.1146/annurev.en.32.010187.002335
+   Rosenthal LA, 1996, INFECT IMMUN, V64, P2206, DOI 10.1128/IAI.64.6.2206-2215.1996
+   Rubinstein I, 2001, INFECT IMMUN, V69, P1199, DOI 10.1128/IAI.69.2.1199-1201.2001
+   SCHAFSTEIN J, 2003, MOL MECH PATHOGENEIS
+   Scharfstein J, 2000, J EXP MED, V192, P1289, DOI 10.1084/jem.192.9.1289
+   Shariat-Madar Z, 1999, J BIOL CHEM, V274, P7137, DOI 10.1074/jbc.274.11.7137
+   Shigematsu S, 2002, AM J PHYSIOL-HEART C, V283, pH2676, DOI 10.1152/ajpheart.00538.2002
+   Shigematsu S, 1999, AM J PHYSIOL-HEART C, V277, pH152
+   Spath GF, 2001, EXP PARASITOL, V99, P97, DOI 10.1006/expr.2001.4656
+   SVENSJO E, 1984, MICROCIRC ENDOTH LYM, V1, P381
+   Svensjo E, 1990, Eur Respir J Suppl, V12, p595s
+   Svensjo E, 1997, MICROVASC RES, V54, P93, DOI 10.1006/mvre.1997.2020
+   SVENSJO E, 1978, PROSTAG LEUKOTR ESS, V1, P397, DOI 10.1016/0161-4630(78)90126-X
+   Todorov AG, 2002, FASEB J, V16, P73, DOI 10.1096/fj.02-0477fje
+   WILSON ME, 1988, INFECT IMMUN, V56, P363, DOI 10.1128/IAI.56.2.363-369.1988
+NR 53
+TC 24
+Z9 25
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1286-4579
+EI 1769-714X
+J9 MICROBES INFECT
+JI Microbes Infect.
+PD JAN
+PY 2006
+VL 8
+IS 1
+BP 206
+EP 220
+DI 10.1016/j.micinf.2005.06.016
+PG 15
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA 013WW
+UT WOS:000235441700024
+PM 16203170
+OA Green Published
+DA 2020-12-08
+ER
+
+EF

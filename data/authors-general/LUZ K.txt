@@ -1,0 +1,2930 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Vechi, HT
+   de Sousa, ASV
+   da Cunha, MA
+   Shaw, JJ
+   Luz, KG
+AF Vechi, Hareton Teixeira
+   Vasconcelos de Sousa, Ana Solange
+   da Cunha, Mirella Alves
+   Shaw, Jeffrey Jon
+   Luz, Kleber Giovanni
+TI Case Report: Combination Therapy with Liposomal Amphotericin B, N-Methyl
+   Meglumine Antimoniate, and Pentamidine Isethionate for Disseminated
+   Visceral Leishmaniasis in a Splenectomized Adult Patient
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID INFANTUM; SUSCEPTIBILITY
+AB In immunocompromised patients, visceral leishmaniasis (VL) can present with atypical clinical symptoms that include poor response to treatment. No optimal therapeutic regimen is available for such cases. In a splenectomized male patient, we observed a disseminated form of the disease in the liver, bone marrow, lymph nodes, and gastrointestinal tract. There was an apparent clinical improvement when he was initially treated with liposomal amphotericin B(L-AmB), but this was followed by a relapse involving severe clinical symptoms. He was finally treated successfully with a combination of L-AmB, meglumine antimoniate, and pentamidine isethionate. It is important to include asplenia as an immunosuppressive condition that induces exotic VL pathologies. In such cases, combination anti-Leishmania drug therapy should be considered.
+C1 [Vechi, Hareton Teixeira; da Cunha, Mirella Alves; Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Hosp Giselda Trigueiro, Dept Infect Dis, 110 Conego Monte St, BR-59037170 Natal, RN, Brazil.
+   [Vasconcelos de Sousa, Ana Solange] Hosp Giselda Trigueiro, Natal, RN, Brazil.
+   [Shaw, Jeffrey Jon] Univ Sao Paulo, Inst Ciencias Biomed, Dept Parasitol, Sao Paulo, SP, Brazil.
+RP Luz, KG (corresponding author), Univ Fed Rio Grande do Norte, Hosp Giselda Trigueiro, Dept Infect Dis, 110 Conego Monte St, BR-59037170 Natal, RN, Brazil.
+EM haretonvechi@gmail.com; anasolv@gmail.com; mirellaac@gmail.com;
+   jayusp@hotmail.com; klebergluz@gmail.com
+OI Vechi, Hareton/0000-0001-7845-3921
+CR Adamama-Moraitou KK, 2007, AM J TROP MED HYG, V76, P53, DOI 10.4269/ajtmh.2007.76.53
+   Agarwal P, 2017, CYTOJOURNAL, V14, DOI 10.4103/1742-6413.205312
+   Aleixo JA, 2006, T ROY SOC TROP MED H, V100, P79, DOI 10.1016/j.trstmh.2005.06.025
+   Alvar J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035671
+   [Anonymous], 2010, WHO TECHN REP SER, V2010, p[xiii, 1]
+   Aronson N, 2016, CLIN INFECT DIS, V63, pE202, DOI 10.1093/cid/ciw670
+   Belo VS, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002982
+   CARTWRIGHT GE, 1948, BLOOD, V3, P249, DOI 10.1182/blood.V3.3.249.249
+   Chapman LAC, 2015, PARASITE VECTOR, V8, DOI 10.1186/s13071-015-1136-3
+   Chattopadhyay A, 2011, BIOCHEM BIOPH RES CO, V416, P7, DOI 10.1016/j.bbrc.2011.11.023
+   Cota GF, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002195
+   Croft SL, 2018, PARASITOLOGY, V145, P237, DOI 10.1017/S0031182017001664
+   Croft SL, 2002, CURR PHARM DESIGN, V8, P319, DOI 10.2174/1381612023396258
+   Dutra RA, 2012, REV SOC BRAS MED TRO, V45, P130, DOI 10.1590/S0037-86822012000100027
+   Eibl M, 1985, Prog Pediatr Surg, V18, P139
+   Gomes MAF, 2018, REV SOC BRAS MED TRO, V51, P393, DOI 10.1590/0037-8682-0398-2017
+   GONZALEZ JL, 1986, BRIT J EXP PATHOL, V67, P353
+   IDOATE MA, 1993, HISTOPATHOLOGY, V22, P589, DOI 10.1111/j.1365-2559.1993.tb00182.x
+   Kumar R, 2011, INFECT AGENTS CANCER, V6, DOI 10.1186/1750-9378-6-17
+   Lachaud L, 2009, CLIN INFECT DIS, V48, pE16, DOI 10.1086/595710
+   Lindoso JA, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003136
+   de Assis TSM, 2017, REV SOC BRAS MED TRO, V50, P478, DOI 10.1590/0037-8682-0133-2017
+   Magill AJ, 2015, MANDELL DOUGLAS BENN, P3097
+   Maia C, 2013, EXP PARASITOL, V135, P36, DOI 10.1016/j.exppara.2013.05.015
+   MCBRIDE JA, 1968, BRIT J HAEMATOL, V14, P225, DOI 10.1111/j.1365-2141.1968.tb01489.x
+   Ministerio da Saude do Brasil, 2006, MAN VIG CONTR LEISHM, P31
+   Ministerio da Saude do Brasil, 2011, LEISHM VISC REC CLIN, P17
+   Morizot G, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004304
+   NAPIER L E, 1949, J Trop Med Hyg, V52, P243
+   Olea P, 2013, REV CHIL INFECTOL, V30, P216, DOI 10.4067/S0716-10182013000200013
+   Osakwe Nwamaka M, 2013, Mil Med, V178, pe386, DOI 10.7205/MILMED-D-12-00407
+   Pomares-Estran C, 2009, ANN TROP MED PARASIT, V103, P555, DOI 10.1179/000349809X12459740922093
+   Saporito L, 2013, INT J INFECT DIS, V 17, pE572, DOI 10.1016/j.ijid.2012.12.024
+   SIDDIG M, 1990, TROP GEOGR MED, V42, P107
+   van Griensven J, 2014, CLIN MICROBIOL INFEC, V20, P286, DOI 10.1111/1469-0691.12556
+   Varma N, 2010, INDIAN J HEMATOL BLO, V26, P78, DOI 10.1007/s12288-010-0027-1
+   Woods ML, 2018, KUCERS USE ANTIBIOTI, P3324
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD FEB
+PY 2020
+VL 102
+IS 2
+BP 268
+EP 273
+DI 10.4269/ajtmh.18-0999
+PG 6
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA KK6WZ
+UT WOS:000512881500008
+PM 31872796
+DA 2020-12-15
+ER
+
+PT J
+AU de Brito, CAA
+   Marques, CDL
+   Falcao, MB
+   da Cunha, RV
+   Simon, F
+   Valadares, LDD
+   Luz, KG
+   Melo, CFCDE
+   Albuquerque, DD
+   de Brito, MCM
+   Duarte, ALBP
+AF Antunes de Brito, Carlos Alexandre
+   Lopes Marques, Claudia Diniz
+   Falcao, Melissa Barreto
+   da Cunha, Rivaldo Venancio
+   Simon, Fabrice
+   de Azevedo Valadares, Lilian David
+   Luz, Kleber Giovanni
+   de Albuquerque e Melo, Carlos Frederico Campelo
+   Albuquerque Filho, Dalcy de Oliveira
+   Moraes de Brito, Marina Coelho
+   Branco Pinto Duarte, Angela Luzia
+TI Update on the treatment of musculoskeletal manifestations in chikungunya
+   fever: a guideline
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Review
+DE Chikungunya fever; Musculoskeletal pain; Arbovirus; Management
+ID MANAGEMENT; INFECTION; ARTHRITIS; VIRUS
+AB Since the emergence of the chikungunya virus in Brazil in 2014, more than 700,000 cases have been reported throughout the country, corresponding to one-third of all cases reported in the Americas. In addition to its high attack rates, resulting in hundreds of thousands of cases, the disease has high chronicity rates with persistent joint manifestations for more than 3 months, which can spread to more than half of the patients affected in the acute phase. Pain associated with musculoskeletal manifestations, often disabling, has an effect on patients' quality of life at different stages of the disease. Currently, the challenge faced by specialists is identifying the best therapy to be instituted for symptom relief despite the limited number of published intervention studies. In 2016, a multidisciplinary group published pharmacological treatment protocols for pain in patients with chikungunya, which was incorporated into the guidelines for clinical management of the Brazilian Ministry of Health in 2017; in that same year, a consensus was published by the Brazilian Society of Rheumatology about diagnosis and treatment. After 5 years of experience with chikungunya epidemics, in 2019, specialists involved in the protocols of the Brazilian Society of Rheumatology and Brazilian Ministry of Health prepared an update with the main objective of developing flowcharts for the therapeutic approach of musculoskeletal manifestations in adult patients to enable specialists at different levels of healthcare to spread and apply this guideline in a systematic and simplified manner.
+C1 [Antunes de Brito, Carlos Alexandre; Lopes Marques, Claudia Diniz; Branco Pinto Duarte, Angela Luzia] Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+   [Falcao, Melissa Barreto] Univ Estadual Feira de Santana, Nucleo Pesquisa & Extensao Vigilancia Saude, Feira De Santana, BA, Brazil.
+   [da Cunha, Rivaldo Venancio] Fundacao Oswaldo Cruz, Campo Grande, MS, Brazil.
+   [Simon, Fabrice] Aix Marseille Univ, Unite Virus Emergents, IRD 190, Inserm 1207,IHU Mediterranee Infect, F-13015 Marseille, France.
+   [de Azevedo Valadares, Lilian David] Hosp Getulio Vargas Pernambuco, Recife, PE, Brazil.
+   [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Inst Med Trop, Natal, RN, Brazil.
+   [de Albuquerque e Melo, Carlos Frederico Campelo] Unidade Tecn Doencas Transmissiveis & Analise Sit, Org Pan Amer Saude, Brasilia, DF, Brazil.
+   [Albuquerque Filho, Dalcy de Oliveira] Minist Saude, Secretaria Vigilancia Saude, Brasilia, DF, Brazil.
+   [Moraes de Brito, Marina Coelho] Univ Fed Pernambuco, Ctr Ciencias Med, Recife, PE, Brazil.
+   [Lopes Marques, Claudia Diniz; Branco Pinto Duarte, Angela Luzia] Univ Fed Pernambuco, Hosp Clin, Serv Reumatol, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+OI Coelho Moraes de Brito, Marina/0000-0002-9298-3184
+CR Amaral JK, 2018, ARTHRIT CARE RES, V70, P1501, DOI 10.1002/acr.23519
+   de Brito CAA, 2016, REV SOC BRAS MED TRO, V49, P668, DOI 10.1590/0037-8682-0279-2016
+   Blettery M, 2016, ARTHRITIS RHEUMATOL, V68, P2817, DOI 10.1002/art.39775
+   Bouquillard E, 2009, JOINT BONE SPINE, V76, P654, DOI 10.1016/j.jbspin.2009.08.005
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude, 2019, B EPIDEMIOL, P1
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude, 2017, B EP, V48, P1
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude. Secretaria de Atencao Basica, 2017, SECR AT BAS
+   BRIGHTON SW, 1984, S AFR MED J, V66, P217
+   Cunha RV, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005319
+   de Andrade DC, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-31
+   De Lamballerie X, 2008, VECTOR-BORNE ZOONOT, V8, P837, DOI 10.1089/vbz.2008.0049
+   Ganu Mohini A, 2011, J Assoc Physicians India, V59, P83
+   Gerardin P, 2018, EMERG INFECT DIS, V24, P1773, DOI 10.3201/eid2409.180724
+   Greenhalgh T, 2018, EUR J CLIN INVEST, V48, DOI 10.1111/eci.12931
+   Javelle E, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003603
+   Marques CDL, 2017, REV BRAS REUMATOL, V57, P421, DOI DOI 10.1016/J.RBR.2017.05.004
+   Morrison TE, 2014, J VIROL, V88, P11644, DOI 10.1128/JVI.01432-14
+   Padmakumar B, 2009, INDIAN J RHEUMATOL, V4, P94, DOI DOI 10.1016/S0973-3698(10)60189-6
+   Paixao ES, 2018, T ROY SOC TROP MED H, V112, P301, DOI 10.1093/trstmh/try063
+   Pan American Health Organization, 2013, NEW CAS CHIK AM, P8
+   Pandya S., 2008, INDIAN J RHEUMATOL, V3, P93, DOI DOI 10.1016/S0973-3698(10)60125-2
+   Ramachandran V, 2012, PLOS ONE, V7
+   Ravindran V, 2017, CLIN RHEUMATOL, V36, P1335, DOI 10.1007/s10067-016-3429-0
+   Renault P, 2007, AM J TROP MED HYG, V77, P727
+   Rodriguez-Morales AJ, 2016, ARTHRIT CARE RES, V68, P1849, DOI 10.1002/acr.22900
+   Rother ET, 2007, ACTA PAUL        JUN, V20, pv
+   Schilte C, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002137
+   Simon F, 2015, MED MALADIES INFECT, V45, P243, DOI 10.1016/j.medmal.2015.05.007
+   Nunes MRT, 2015, BMC MED, V13, DOI 10.1186/s12916-015-0348-x
+NR 29
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PY 2020
+VL 53
+AR e20190517
+DI 10.1590/0037-8682-0517-2019
+PG 8
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA MZ0PU
+UT WOS:000558826500001
+PM 32756797
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Biswal, S
+   Reynales, H
+   Saez-Llorens, X
+   Lopez, P
+   Borja-Tabora, C
+   Kosalaraksa, P
+   Sirivichayakul, C
+   Watanaveeradej, V
+   Rivera, L
+   Espinoza, F
+   Fernando, L
+   Dietze, R
+   Luz, K
+   da Cunha, RV
+   Jimeno, J
+   Lopez-Medina, E
+   Borkowski, A
+   Brose, M
+   Rauscher, M
+   LeFevre, I
+   Bizjajeva, S
+   Bravo, L
+   Wallace, D
+AF Biswal, Shibadas
+   Reynales, Humberto
+   Saez-Llorens, Xavier
+   Lopez, Pio
+   Borja-Tabora, Charissa
+   Kosalaraksa, Pope
+   Sirivichayakul, Chukiat
+   Watanaveeradej, Veerachai
+   Rivera, Luis
+   Espinoza, Felix
+   Fernando, LakKumar
+   Dietze, Reynaldo
+   Luz, Kleber
+   da Cunha, Rivaldo Venancio
+   Jimeno, Jose
+   Lopez-Medina, Eduardo
+   Borkowski, Astrid
+   Brose, Manja
+   Rauscher, Martina
+   LeFevre, Inge
+   Bizjajeva, Svetlana
+   Bravo, Lulu
+   Wallace, Derek
+CA TIDES Study Grp
+TI Efficacy of a Tetravalent Dengue Vaccine in Healthy Children and
+   Adolescents
+SO NEW ENGLAND JOURNAL OF MEDICINE
+LA English
+DT Article
+ID SAFETY; IMMUNOGENICITY
+AB BACKGROUND
+   Dengue, a mosquito-borne viral disease, was designated a World Health Organization top 10 threat to global health in 2019.
+   METHODS
+   We present primary efficacy data from part 1 of an ongoing phase 3 randomized trial of a tetravalent dengue vaccine candidate (TAK-003) in regions of Asia and Latin America in which the disease is endemic. Healthy children and adolescents 4 to 16 years of age were randomly assigned in a 2:1 ratio (stratified according to age category and region) to receive two doses of vaccine or placebo 3 months apart. Participants presenting with febrile illness were tested for virologically confirmed dengue by serotype-specific reverse-transcriptase polymerase chain reaction. The primary end point was overall vaccine efficacy in preventing virologically confirmed dengue caused by any dengue virus serotype.
+   RESULTS
+   Of the 20,071 participants who were given at least one dose of vaccine or placebo (safety population), 19,021 (94.8%) received both injections and were included in the per-protocol analysis. The overall vaccine efficacy in the safety population was 80.9% (95% confidence interval [CI], 75.2 to 85.3; 78 cases per 13,380 [0.5 per 100 person-years] in the vaccine group vs. 199 cases per 6687 [2.5 per 100 person-years] in the placebo group). In the per-protocol analyses, vaccine efficacy was 80.2% (95% CI, 73.3 to 85.3; 61 cases of virologically confirmed dengue in the vaccine group vs. 149 cases in the placebo group), with 95.4% efficacy against dengue leading to hospitalization (95% CI, 88.4 to 98.2; 5 hospitalizations in the vaccine group vs. 53 hospitalizations in the placebo group). Planned exploratory analyses involving the 27.7% of the per-protocol population that was seronegative at baseline showed vaccine efficacy of 74.9% (95% CI, 57.0 to 85.4; 20 cases of virologically confirmed dengue in the vaccine group vs. 39 cases in the placebo group). Efficacy trends varied according to serotype. The incidence of serious adverse events was similar in the vaccine group and placebo group (3.1% and 3.8%, respectively).
+   CONCLUSIONS
+   TAK-003 was efficacious against symptomatic dengue in countries in which the disease is endemic.
+C1 [Biswal, Shibadas] Takeda Vaccines, 21 Biopolis Rd,Level 4, Singapore 138567, Singapore.
+   [Reynales, Humberto] Ctr Atenc & Invest Med, Bogota, Colombia.
+   [Lopez, Pio; Lopez-Medina, Eduardo] Univ Valle, Ctr Estudios Infectol Pediat, Ctr Med Imbanaco, Cali, Colombia.
+   [Lopez, Pio; Lopez-Medina, Eduardo] Univ Valle, Dept Pediat, Cali, Colombia.
+   [Saez-Llorens, Xavier; Jimeno, Jose] Hosp Nino Dr Jose Renan Esquivel, Secretaria Nacl Ciencia & Tecnol SENACYT, Ctr Vacunac Int Cevaxin, Sistema Nacl Invest,Dept Infect Dis, Panama City, Panama.
+   [Borja-Tabora, Charissa] Res Inst Trop Med, Muntinlupa, Philippines.
+   [Bravo, Lulu] Univ Philippines Manila, Ermita, Philippines.
+   [Kosalaraksa, Pope] Khon Kaen Univ, Srinagarind Hosp, Khon Kaen, Thailand.
+   [Sirivichayakul, Chukiat] Mahidol Univ, Fac Trop Med, Dept Trop Pediat, Bangkok, Thailand.
+   [Watanaveeradej, Veerachai] Phramongkutklao Hosp, Bangkok, Thailand.
+   [Rivera, Luis] Hosp Maternidad Nuestra Senora Altagracia, Santo Domingo, Dominican Rep.
+   [Espinoza, Felix] Natl Autonomous Univ Nicaragua, Leon, Spain.
+   [Fernando, LakKumar] Negombo Gen Hosp, Ctr Clin Management Dengue & Dengue Haemorrhag Fe, Negombo, Sri Lanka.
+   [Dietze, Reynaldo] Univ Fed Espirito Santo, Hosp Univ Cassiano Antonio de Moraes, Vitoria, ES, Brazil.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, Inst Med Trop, Natal, RN, Brazil.
+   [da Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Campo Grande, MS, Brazil.
+   [Borkowski, Astrid; Brose, Manja; Rauscher, Martina; LeFevre, Inge; Bizjajeva, Svetlana] Takeda Pharmaceut Int, Zurich, Switzerland.
+   [Wallace, Derek] Takeda Vaccines, Boston, MA USA.
+RP Biswal, S (corresponding author), Takeda Vaccines, 21 Biopolis Rd,Level 4, Singapore 138567, Singapore.
+EM shibadas.biswal@takeda.com
+RI Moreira, Edson D/J-1758-2012
+OI Moreira, Edson D/0000-0002-7081-8348; Dietze,
+   Reynaldo/0000-0002-6995-8001
+FU Takeda Vaccines
+FX Supported by Takeda Vaccines.
+CR [Anonymous], 2018, WKLY EPIDEMIOL REC, V36, P457
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Brady OJ, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001760
+   Capeding MR, 2014, LANCET, V384, P1358, DOI 10.1016/S0140-6736(14)61060-6
+   Guzman MG, 2013, ARCH VIROL, V158, P1445, DOI 10.1007/s00705-013-1645-3
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Huang CYH, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002243
+   Huang CYH, 2003, J VIROL, V77, P11436, DOI 10.1128/JVI.77.21.11436-11447.2003
+   Osorio JE, 2011, VACCINE, V29, P7251, DOI 10.1016/j.vaccine.2011.07.020
+   Saez-Llorens X, 2018, LANCET INFECT DIS, V18, P162, DOI 10.1016/S1473-3099(17)30632-1
+   Sridhar S, 2018, NEW ENGL J MED, V379, P327, DOI 10.1056/NEJMoa1800820
+   Villar LA, 2013, PEDIATR INFECT DIS J, V32, P1102, DOI 10.1097/INF.0b013e31829b8022
+   World Health Organization, 1997, DENG HAEM FEV DIAGN
+   World Health Organization, 2019, IMM VACC BIOL DENG
+   World Health Organization, 2019, DENG SEV DENG
+   World Health Organization, DENGUE CONTROL
+   World Health Organization, 2017, DENG VACC RES
+   Yoksan S, 1986, ARBOVIRUS RES AUSTR, P35
+NR 18
+TC 45
+Z9 45
+U1 5
+U2 11
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0028-4793
+EI 1533-4406
+J9 NEW ENGL J MED
+JI N. Engl. J. Med.
+PD NOV 21
+PY 2019
+VL 381
+IS 21
+BP 2009
+EP 2019
+DI 10.1056/NEJMoa1903869
+PG 11
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA JZ6NB
+UT WOS:000505218800005
+PM 31693803
+OA Bronze
+DA 2020-12-15
+ER
+
+PT J
+AU Zambrano, B
+   Rivera, DM
+   Arredondo, JL
+   Reynales, H
+   Luz, K
+   Deseda, C
+   Bonaparte, M
+   Langevin, E
+   Wu, YK
+   Cortes, M
+   Dayan, GH
+   Granados, CD
+   Savarino, S
+   Noriega, F
+AF Zambrano, Betzana
+   Maribel Rivera, Doris
+   Luis Arredondo, Jose
+   Reynales, Humberto
+   Luz, Kleber
+   Deseda, Carmen
+   Bonaparte, Matthew
+   Langevin, Edith
+   Wu, Yukun
+   Cortes, Margarita
+   Dayan, Gustavo H.
+   Granados, Carlos Diaz
+   Savarino, Stephen
+   Noriega, Fernando
+TI PRIOR VACCINATION WITH CYD-TDV DID NOT POTENTIATE SYMPTOMATIC ZIKA IN
+   DENGUE ENDEMIC AREAS OF LATIN AMERICA
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 68th Annual Meeting of the
+   American-Society-for-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 20-24, 2019
+CL National Harbor, MD
+SP Amer Soc Trop Med & Hyg, Bill & Melinda Gates Fdn, Bavarian Nord, GSK, Takeda, Integrum Sci, Celgene, Vulcan, Plos Neglected Trop Dis, Elsevier
+C1 [Zambrano, Betzana] Sanofi Pasteur, Montevideo, Uruguay.
+   [Maribel Rivera, Doris] Invers Invest Med, Tegucigalpa, Honduras.
+   [Luis Arredondo, Jose] Inst Nacl Pediat, Mexico City, DF, Mexico.
+   [Reynales, Humberto] Ctr Atenc & Invest Med, Bogota, Colombia.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, Natal, RN, Brazil.
+   [Deseda, Carmen] Caribbean Travel Med Clin, San Juan, PR USA.
+   [Bonaparte, Matthew; Wu, Yukun; Dayan, Gustavo H.; Granados, Carlos Diaz; Savarino, Stephen; Noriega, Fernando] Sanofi Pasteur, Swiftwater, PA USA.
+   [Langevin, Edith] Sanofi Pasteur, Marcy Letoile, France.
+   [Cortes, Margarita] Sanofi Pasteur, Bogota, Colombia.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2019
+VL 101
+SU 5
+MA 1367
+BP 420
+EP 420
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA KC7PF
+UT WOS:000507364504077
+DA 2020-12-15
+ER
+
+PT J
+AU Wanderley, NRS
+   Gomes, MAF
+   de Medeiros, LLC
+   Lobo, FPD
+   Lima, CBF
+   Monteiro, MGL
+   Luz, KG
+AF Silva Wanderley, Nathalia Rayane
+   Ferreira Gomes, Maria Antonia
+   Cantidio de Medeiros, Lana Lira
+   Dantas Lobo, Fernanda Paula
+   Fernandes Lima, Carlos Bruno
+   Lins Monteiro, Maria Goretti
+   Luz, Kleber Giovanni
+TI Childhood Sarcoidosis mimicking Tuberculosis: A case report
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Childhood sarcoidosis; Mimicking; Tuberculosis
+AB Sarcoidosis is a rare multisystem chronic inflammatory disease in children We present a case of a five-year-old child with clinical features mimicking several diseases, including tuberculosis. After failure of treatment based on the suspected diagnosis, an axillary lymph node biopsy showed noncaseating granulomas compatible with samoidosis and appropriate treatment was then started.
+C1 [Silva Wanderley, Nathalia Rayane; Lins Monteiro, Maria Goretti] Hosp Infantil Varela Santiago, Natal, RN, Brazil.
+   [Ferreira Gomes, Maria Antonia; Cantidio de Medeiros, Lana Lira; Dantas Lobo, Fernanda Paula; Fernandes Lima, Carlos Bruno] Univ Potiguar, Escola Saude, Natal, RN, Brazil.
+   [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Inst Med Trop Rio Grande Norte, Dept Doencas Infecciosas, Natal, RN, Brazil.
+RP Wanderley, NRS (corresponding author), Hosp Infantil Varela Santiago, Natal, RN, Brazil.
+EM nathaliaray.wanderley@gmail.com
+OI Wanderley, Nathalia/0000-0003-0364-2706
+CR Brasil (MS), 2014, TECNICAS APLICACAO L
+   Cemlyn-Jones J, 2009, REV PORT PNEUMOL, V15, P543
+   Angarita TD, 2016, ARCH ARGENT PEDIATR, V114, pE323, DOI 10.5546/aap.2016.e323
+   El Sayed F, 2013, DERMATOLOGY ONLINE J, V19
+   Fauroux Brigitte, 2005, Paediatr Respir Rev, V6, P128, DOI 10.1016/j.prrv.2005.03.007
+   Fortuna FP, 2000, J PNEUMOL, V26, P259
+   Gokdemir Y, 2013, ARCH ARGENT PEDIATR, V111, pE113, DOI [10.5546/aap.2013.e113, 10.1590/S0325-00752013000500014]
+   Nunes H, 2007, ORPHANET J RARE DIS, V2, DOI 10.1186/1750-1172-2-46
+   Rossoni AM, 2013, PULMAO RJ, V22, P65
+   Sant'Anna C C, 1998, J Pediatr (Rio J), V74 Suppl 1, pS69
+   Zombini EV, 2013, J HUMAN GROWTH DEV, V23, P52
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PY 2019
+VL 52
+AR UNSP e20180229
+DI 10.1590/0037-8682-0229-2018
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA IL1MU
+UT WOS:000477065000001
+PM 31340353
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Luz, KG
+AF Luz, K. G.
+TI Zika congenital syndorme: experience in Brazil
+SO INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Meeting Abstract
+C1 [Luz, K. G.] Hosp Giselda Trigueiro, Natal, RN, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1201-9712
+EI 1878-3511
+J9 INT J INFECT DIS
+JI Int. J. Infect. Dis.
+PD AUG
+PY 2018
+VL 73
+SU S
+MA 48.002
+BP 70
+EP 70
+DI 10.1016/j.ijid.2018.04.3586
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA GO8MP
+UT WOS:000440345100152
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Gomes, MAF
+   de Medeiros, LLC
+   Lobo, FPD
+   Wanderley, NRS
+   Matos, APR
+   Jacome, TD
+   Monteiro, MGL
+   Luz, KG
+AF Ferreira Gomes, Maria Antonia
+   Cantidio de Medeiros, Lana Lira
+   Dantas Lobo, Fernanda Paula
+   Silva Wanderley, Nathalia Rayane
+   Rodrigues Matos, Ana Paula
+   Jacome, Tacito do Nascimento
+   Lins Monteiro, Maria Goretti
+   Luz, Kleber Giovanni
+TI Combination therapy with liposomal amphotericin b (ambisome),
+   n-methylglucamine antimoniate (glucantime), and pentamidine isethionate
+   in a refractory visceral leishmaniasis case
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Visceral leishmaniasis; Refractory; Treatment
+AB Visceral leishmaniasis is a systemic disease that is potentially severe and endemic in Brazil. It clinically manifests as fever, weight loss, swelling, hepatosplenomegaly, paleness, and edema. In this study, we discuss a case of a 1-year-old child diagnosed with refractory visceral leishmaniasis after being treated with liposomal amphotericin B in two distinct occasions. Considering the persistent clinical features and weak response to conventional treatment, a combination therapy with liposomal amphotericin B (ambisome), n-methylglucamine antimoniate (glucantime), and pentamidine isethionate was initiated, and response to treatment was good.
+C1 [Ferreira Gomes, Maria Antonia; Cantidio de Medeiros, Lana Lira; Dantas Lobo, Fernanda Paula] Univ Potiguar, Escola Saude, Natal, RN, Brazil.
+   [Silva Wanderley, Nathalia Rayane; Rodrigues Matos, Ana Paula] Hosp Infantil Varela Santiago, Natal, RN, Brazil.
+   [Jacome, Tacito do Nascimento] Univ Fed Rio Grande do Norte, Hosp Univ Onofre Lopes, Natal, RN, Brazil.
+   [Lins Monteiro, Maria Goretti] Hosp Infantil Varela Santiago, Dept Residencia Med, Natal, RN, Brazil.
+   [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Inst Med Trop Rio Grande Norte, Dept Doencas Infecciosas, Natal, RN, Brazil.
+RP Gomes, MAF (corresponding author), Univ Potiguar, Escola Saude, Natal, RN, Brazil.
+EM fgomesmaria@hotmail.com
+OI Wanderley, Nathalia/0000-0003-0364-2706
+CR ASHFORD RW, 1992, PARASITOL TODAY, V8, P104, DOI 10.1016/0169-4758(92)90249-2
+   Barbosa IR, 2013, SCI MED, V23, P5
+   Caldas AJM, 2014, REV PESQ SAUDE, V14, P91
+   de Alvarenga DG, 2010, REV SOC BRAS MED TRO, V43, P194, DOI 10.1590/S0037-86822010000200017
+   Dionisio MT, 2011, ACTA MEDICA PORT, V24, P399
+   Dutra RA, 2012, REV SOC BRAS MED TRO, V45, P130, DOI 10.1590/S0037-86822012000100027
+   Fundacao Oswaldo Cruz (FIOCRUZ), 1997, LEISHM TRAT
+   Ministerio da Saude (MS), 2009, SECR VIG SAUD GUIA V
+   MS - Ministerio da Saude, 2016, GUIA VIG SAUD
+   Roatt BM, 2014, FRONT IMMUNOL, V5, P1, DOI 10.3389/fimmu.2014.00272
+   Scandar SAS, 2011, OCORRENCIA LEISHMANI, V8, P13
+   Werneck Guilherme L., 2010, Cad. Saúde Pública, V26, P644, DOI 10.1590/S0102-311X2010000400001
+NR 12
+TC 3
+Z9 3
+U1 1
+U2 2
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD APR-JUN
+PY 2018
+VL 51
+IS 3
+BP 393
+EP 396
+DI 10.1590/0037-8682-0398-2017
+PG 4
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA GL3IM
+UT WOS:000437026000025
+PM 29972577
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Dourado, ME
+   Fernandes, U
+   Vital, AL
+   Ramos, E
+   Urbano, JC
+   Sena, A
+   Fraiman, PHA
+   Luz, K
+   Queiroz, JW
+   Jeronimo, SMB
+AF Dourado, M. E.
+   Fernandes, U.
+   Vital, A. L.
+   Ramos, E.
+   Urbano, J. C.
+   Sena, A.
+   Fraiman, P. H. A.
+   Luz, K.
+   Queiroz, J. W.
+   Jeronimo, S. M. B.
+TI HIGH INCIDENCE OF GUILLAIN-BARRE SYNDROME AFTER ZIKA VIRUS INFECTION IN
+   THE STATE RIO GRANDE DO NORTE, IN NORTHEAST BRAZIL
+SO JOURNAL OF THE PERIPHERAL NERVOUS SYSTEM
+LA English
+DT Meeting Abstract
+CT Peripheral-Nerve-Society Meeting
+CY JUL 08-12, 2017
+CL Sitges, SPAIN
+SP Peripheral Nerve Soc, Alnylam Pharmaceut Inc, CSL Behring, Grifols S A, Kedr S p A, Pfizer Inc Rare Dis, Terumo BCT Inc, Shire Plc, GBS CIDP Fdn Int, Octapharma AG, Acceleron Pharma Inc, Ionis Pharmaceut Inc, LFB Biomedicaments, Mayo Med Labs, Pharnext SA, Hereditary Neuropathy Fdn, Syntimmune Inc, UCB Biosciences Inc
+C1 [Dourado, M. E.; Fernandes, U.; Vital, A. L.; Ramos, E.; Urbano, J. C.; Sena, A.; Fraiman, P. H. A.; Luz, K.; Queiroz, J. W.; Jeronimo, S. M. B.] Univ Fed Rio Grande do Norte, Natal, RN, Brazil.
+RI Jeronimo, Selma/AAY-4033-2020
+OI Jeronimo, Selma/0000-0002-4784-9904
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1085-9489
+EI 1529-8027
+J9 J PERIPHER NERV SYST
+JI J. Peripher. Nerv. Syst.
+PD SEP
+PY 2017
+VL 22
+IS 3
+BP 275
+EP 276
+PG 2
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA FF8CU
+UT WOS:000409243500125
+DA 2020-12-15
+ER
+
+PT J
+AU Neto, NNM
+   Maia, JTD
+   Zacarkim, MR
+   Rolim, DD
+   Linz, MG
+   Trindade, TG
+   Luz, K
+   Fulco, G
+   Mendes, TV
+   Vidal, SJA
+   Muniz, IAC
+   de Souza, SMP
+   Queiroz, I
+   LaBeaud, AD
+AF Mendes Neto, Nilson Nogueira
+   da Silva Maia, Jessika Thais
+   Zacarkim, Marcelo Rodrigues
+   Rolim, Daniel Duarte
+   Linz, Maria Goretti
+   Trindade, Thiago Gomes
+   Luz, Kleber
+   Fulco, Giovanna
+   Mendes, Tatyana Vidal
+   Alves Vidal, Sebastiana Jayne
+   Cortez Muniz, Iracema Augusta
+   Pinheiro de Souza, Servulo Marciano
+   Queiroz, Igor
+   LaBeaud, Angelle Desiree
+TI MORTALITY IN NEWBORNS WITH MICROCEPHALY DUE TO MATERNAL ZIKA VIRUS
+   INFECTION IN RIO GRANDE DO NORTE STATE - NORTHEAST BRAZIL: A
+   CROSSSECTIONAL STUDY
+SO NEUROLOGY
+LA English
+DT Meeting Abstract
+C1 [Mendes Neto, Nilson Nogueira] UCDavis, Giselda Trigueiro Hosp, Natal, RN, Brazil.
+   [da Silva Maia, Jessika Thais] Univ Potiguar, Boston, MA USA.
+   [Zacarkim, Marcelo Rodrigues] Harvard Med Sch, Campina Grande, Paraiba, Brazil.
+   [Rolim, Daniel Duarte] FCM, Natal, RN, Brazil.
+   [Linz, Maria Goretti] Varela Santiago Hosp Infantil, Natal, RN, Brazil.
+   [Trindade, Thiago Gomes; Luz, Kleber; Cortez Muniz, Iracema Augusta] Univ Fed Rio Grande do Norte, Natal, RN, Brazil.
+   [Fulco, Giovanna; Queiroz, Igor] UnP, Cajazeiras, PB, Brazil.
+   [Mendes, Tatyana Vidal] FSM, Natal, RN, Brazil.
+   [Alves Vidal, Sebastiana Jayne] SESAP, Natal, RN, Brazil.
+   [Pinheiro de Souza, Servulo Marciano] Brazilian Navy, Natal, RN, Brazil.
+   [LaBeaud, Angelle Desiree] Stanford Childrens Hlth, Stanford, CA USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0028-3878
+EI 1526-632X
+J9 NEUROLOGY
+JI Neurology
+PD APR 18
+PY 2017
+VL 88
+SU 16
+MA S40.003
+PG 3
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA VJ3HU
+UT WOS:000577381505323
+DA 2020-12-15
+ER
+
+PT J
+AU de Brito, CAA
+   von Sohsten, AKA
+   Leitao, CCD
+   de Brito, RDCM
+   Valadares, LDD
+   da Fonte, CAM
+   de Mesquita, ZB
+   Cunha, RV
+   Luz, K
+   Leao, HMC
+   de Brito, CM
+   Frutuoso, LCV
+AF Antunes de Brito, Carlos Alexandre
+   Arraes von Sohsten, Ana Karla
+   de Sa Leitao, Clezio Cordeiro
+   Coelho Moraes de Brito, Rita de Cssia
+   de Azevedo Valadares, Lilian David
+   Magnata da Fonte, Caroline Araujo
+   de Mesquita, Zelina Barbosa
+   Cunha, Rivaldo Venancio
+   Luz, Kleber
+   Carneiro Leao, Helena Maria
+   de Brito, Cecilia Moraes
+   Vinhal Frutuoso, Livia Carla
+TI Pharmacologic management of pain in patients with Chikungunya: a
+   guideline
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Review
+DE Chikungunya; Pain; Arthralgia; Arbovirus; Treatment
+ID VIRUS-INFECTION; PERSISTENT ARTHRALGIA; REUNION ISLAND; ARTHRITIS;
+   MANIFESTATIONS; CHLOROQUINE; SEVERITY; THERAPY; COHORT
+AB From the arrival of Chikungunya virus in the Americas in 2013 until March 2016, approximately two million cases of the disease have been reported. In Brazil, the virus was identified in 2014 and thousands of people have been affected. The disease has high attack rates, infecting 50% of a population within a few months. Approximately 50% of infected people develop chronic symptoms lasting for months or years. Joint involvement is the main clinical manifestation of Chikungunya. It is characterized by swelling and intense pain that is poorly responsive to analgesics, both in the acute and chronic phase of the disease. This significantly compromises quality of life and may have immeasurable psychosocial and economic repercussions, constituting therefore, a serious public health problem requiring a targeted approach. Physicians are often not familiar with how to approach the management of pain, frequently prescribing limited analgesics, such as dipyrone, in sub-therapeutic doses. In addition, there are few published studies or guidelines on the approach to the treatment of pain in patients with Chikungunya. Some groups of specialists from different fields have thus developed a protocol for the pharmacologic treatment of Chikungunya-associated acute and chronic joint pain; this will be presented in this review.
+C1 [Antunes de Brito, Carlos Alexandre; de Sa Leitao, Clezio Cordeiro] Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+   [Arraes von Sohsten, Ana Karla] Real Hosp Portugues Beneficencia Pernambuco, Inst Tratamento Dor, Recife, PE, Brazil.
+   [Coelho Moraes de Brito, Rita de Cssia] Univ Pernambuco, Dept Pediat, Recife, PE, Brazil.
+   [de Azevedo Valadares, Lilian David] Hosp Agamenom Magalhaes, Dept Reumatol, Recife, PE, Brazil.
+   [Magnata da Fonte, Caroline Araujo] Hosp Getulio Vargas, Dept Reumatol, Recife, PE, Brazil.
+   [de Mesquita, Zelina Barbosa] Inst Med Integral Prof Fernando Figueira, Dept Pediat, Recife, PE, Brazil.
+   [Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Dept Infectol, Campo Grande, MS, Brazil.
+   [Cunha, Rivaldo Venancio] Fundacao Oswaldo Cruz, Campo Grande, MS, Brazil.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, Dept Infectol, Natal, RN, Brazil.
+   [Carneiro Leao, Helena Maria] Conselho Reg Med Pernambuco, Escola SUper Eet & Bioet, Recife, PE, Brazil.
+   [de Brito, Cecilia Moraes] Univ Pernambuco, Curso Grad Med, Recife, PE, Brazil.
+   [Vinhal Frutuoso, Livia Carla] Minist Saude, Programa Nacl Controle Dengue, Brasilia, DF, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+RI Frutuoso, Livia Vinhal/AAP-2745-2020
+OI Frutuoso, Livia Vinhal/0000-0001-7926-1075
+CR Alla SAO, 2011, BEST PRACT RES CL RH, V25, P337, DOI 10.1016/j.berh.2011.03.005
+   Arroyo-Avila M, 2015, P R HEALTH SCI J, V34, P71
+   Assuncao-Miranda I, 2013, BIOMED RES INT, V2013, DOI 10.1155/2013/973516
+   Ben-Zvi I, 2012, CLIN REV ALLERG IMMU, V42, P145, DOI 10.1007/s12016-010-8243-x
+   Borgherini G, 2008, CLIN INFECT DIS, V47, P469, DOI 10.1086/590003
+   Bouhassira D, 2005, PAIN, V114, P29, DOI 10.1016/j.pain.2004.12.010
+   Caglioti C, 2013, NEW MICROBIOL, V36, P211
+   Chopra A, 2014, ARTHRITIS RHEUMATOL, V66, P319, DOI 10.1002/art.38221
+   Chow A, 2011, J INFECT DIS, V203, P149, DOI 10.1093/infdis/jiq042
+   de Andrade DC, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-31
+   De Lamballerie X, 2008, VECTOR-BORNE ZOONOT, V8, P837, DOI 10.1089/vbz.2008.0049
+   Ganu Mohini A, 2011, J Assoc Physicians India, V59, P83
+   Haanpaa M, 2011, PAIN, V152, P14, DOI 10.1016/j.pain.2010.07.031
+   Hoarau JJ, 2010, J IMMUNOL, V184, P5914, DOI 10.4049/jimmunol.0900255
+   Javelle E, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003603
+   Malvy D, 2009, BMC INFECT DIS, V9, DOI 10.1186/1471-2334-9-200
+   Ministry of Water Irrigation and Electricity, 2015, FEBR CHIK MAN CLIN, P1
+   Moro ML, 2012, J INFECTION, V65, P165, DOI 10.1016/j.jinf.2012.04.005
+   Ng LFP, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004261
+   Organizacion Panamericana de la Salud (OPS), 2011, PREP RESP ANT EV INT, P1
+   Padmakumar B, 2009, INDIAN J RHEUMATOL, V4, P94, DOI DOI 10.1016/S0973-3698(10)60189-6
+   Pandya S., 2008, INDIAN J RHEUMATOL, V3, P93, DOI DOI 10.1016/S0973-3698(10)60125-2
+   Ramachandran V, 2014, J POSTGRAD MED, V60, P3, DOI 10.4103/0022-3859.128795
+   Rosario V, 2015, CLIN RHEUMATOL, V34, P1285, DOI 10.1007/s10067-015-2979-x
+   Schilte C, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002137
+   Simon F, 2015, MED MALADIES INFECT, V45, P243, DOI 10.1016/j.medmal.2015.05.007
+   Sousa Fátima Aparecida Emm Faleiros, 2002, Rev. Latino-Am. Enfermagem, V10, P446, DOI 10.1590/S0104-11692002000300020
+   Staikowsky F, 2008, EPIDEMIOL INFECT, V136, P196, DOI 10.1017/S0950268807008424
+   Thiberville SD, 2013, ANTIVIR RES, V99, P345, DOI 10.1016/j.antiviral.2013.06.009
+   Waymouth HE, 2013, SEMIN ARTHRITIS RHEU, V43, P273, DOI 10.1016/j.semarthrit.2013.03.003
+   World Health Organisation, 2009, GLOB HLTH RISKS MORT, P1
+   Yaseen HM, 2014, BMC MUSCULOSKEL DIS, V15, DOI 10.1186/1471-2474-15-249
+NR 32
+TC 20
+Z9 21
+U1 1
+U2 5
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD NOV-DEC
+PY 2016
+VL 49
+IS 6
+BP 668
+EP 679
+DI 10.1590/0037-8682-0279-2016
+PG 12
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA EH4CU
+UT WOS:000391719400002
+PM 28001212
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Falcao, MB
+   Cimerman, S
+   Luz, KG
+   Chebabo, A
+   Brigido, HA
+   Lobo, IM
+   Timerman, A
+   Angerami, RN
+   da Cunha, CA
+   Bacha, HA
+   Alves, JR
+   Barbosa, AN
+   Teixeira, RF
+   Weissmann, L
+   Oliveira, PR
+   Cyrillo, MA
+   Bandeira, AC
+AF Falcao, Melissa Barreto
+   Cimerman, Sergio
+   Luz, Kleber Giovanni
+   Chebabo, Alberto
+   Brigido, Helena Andrade
+   Lobo, Iza Maria
+   Timerman, Artur
+   Angerami, Rodrigo Nogueira
+   da Cunha, Clovis Arns
+   Bacha, Helio Arthur
+   Alves, Jesse Reis
+   Barbosa, Alexandre Naime
+   Teixeira, Ralcyon Francis
+   Weissmann, Leonardo
+   Oliveira, Priscila Rosalba
+   Cyrillo, Marco Antonio
+   Bandeira, Antonio Carlos
+TI Management of infection by the Zika virus
+SO ANNALS OF CLINICAL MICROBIOLOGY AND ANTIMICROBIALS
+LA English
+DT Review
+DE Zika virus infection; Guideline; Diagnosis; Therapeutics
+ID FRENCH-POLYNESIA; OUTBREAK; TRANSMISSION; EPIDEMIOLOGY; STATES; BRAZIL
+AB A panel of national experts was convened by the Brazilian Infectious Diseases Society in order to organize the national recommendations for the management of zika virus infection. The focus of this document is the diagnosis, both clinical and laboratorial, and appropriate treatment of the diverse manifestations of this infection, ranging from acute mild disease to Guillain-Barre syndrome and also microcephaly and congenital malformations.
+C1 [Falcao, Melissa Barreto] Univ Estadual Feira de Santana, Ave Transnordestina S-N, BR-44036900 Feira De Santana, BA, Brazil.
+   [Cimerman, Sergio; Alves, Jesse Reis; Teixeira, Ralcyon Francis; Weissmann, Leonardo] Inst Infectol Emilio Ribas, Ave Doutor Arnaldo 165, BR-01246000 Sao Paulo, SP, Brazil.
+   [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Rua Conego Monte S-N, BR-59037170 Natal, RN, Brazil.
+   [Chebabo, Alberto] Univ Fed Rio de Janeiro, Ave Prof Rodolpho Paulo Rocco 255,50 Andar, BR-21941913 Rio De Janeiro, RJ, Brazil.
+   [Brigido, Helena Andrade] Fed Univ Para, Rua Mundurucus S-N, BR-66060060 Belem, Para, Brazil.
+   [Lobo, Iza Maria] Univ Fed Sergipe, Ave Claudio Batista S-N,30 Andar, BR-49060100 Aracaju, SE, Brazil.
+   [Timerman, Artur] Hosp Prof Edmundo Vasconcelos, Rua Borges Lagoa 1450, BR-04038905 Sao Paulo, SP, Brazil.
+   [Angerami, Rodrigo Nogueira] Univ Estadual Campinas, Rua Alexander Fleming 181, BR-13083970 Campinas, SP, Brazil.
+   [da Cunha, Clovis Arns] Univ Fed Parana, Rua Gen Carneiro 181, BR-80060900 Curitiba, Parana, Brazil.
+   [Bacha, Helio Arthur] Hosp Israelita Albert Einstein, Ave Albert Einstein 627,Bloco A1,Sala 220, BR-05651901 Sao Paulo, SP, Brazil.
+   [Oliveira, Priscila Rosalba] Univ Sao Paulo, Rua Doutor Ovidio Pires Campos 333, BR-05403010 Sao Paulo, SP, Brazil.
+   [Cyrillo, Marco Antonio] Hosp Servidor Publ Municipal, Rua Castro Alves 60, BR-01532000 Sao Paulo, SP, Brazil.
+   [Bandeira, Antonio Carlos] Hosp Alianca, R Juracy Magalhaes Jr 2096, BR-41920000 Salvador, BA, Brazil.
+RP Oliveira, PR (corresponding author), Univ Sao Paulo, Rua Doutor Ovidio Pires Campos 333, BR-05403010 Sao Paulo, SP, Brazil.
+EM priscila.rosalba@hc.fm.usp.br
+RI Angerami, Rodrigo Nogueira/A-8926-2013; Oliveira, Priscila
+   Rosalba/J-7531-2012; Weissmann, Leonardo/S-4605-2019; Bacha, Helio
+   Arthur/AAU-8306-2020; CIMERMAN, SERGIO/I-4981-2014; Barbosa, Alexandre
+   Naime/F-5668-2012
+OI Angerami, Rodrigo Nogueira/0000-0002-4976-9238; Oliveira, Priscila
+   Rosalba/0000-0003-1377-6556; Weissmann, Leonardo/0000-0002-4702-3221;
+   Bacha, Helio Arthur/0000-0003-4269-0065; CIMERMAN,
+   SERGIO/0000-0003-4040-220X; Barbosa, Alexandre Naime/0000-0002-2187-4722
+CR [Anonymous], 2016, BRAZIL REPORTS ZIKA
+   Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Brasil Ministerio da Saude, 2015, PROT VIG RESP OC MIC
+   BRASIL. Ministerio da Saude, 2016, PROT VIG RESP OC MIC
+   BRASIL. Ministerio da Saude, 2016, NOT INF
+   Brasil P, 2016, NEW ENGL J MED, DOI [10.1056/nejmMoa1602412, DOI 10.1056/NEJMMOA1602412]
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cao-Lormeau VM, 2014, EMERG INFECT DIS, V20, P1085, DOI 10.3201/eid2006.140138
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Centers for Disease Control and Prevention, ZIK VIR SYMPT DIAGN
+   Centers for Disease Control and Prevention, ZIK VIR TRANSM
+   De Noronha L, 2015, MEM I O CRUZ RIO DE, V110, P569
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P521, DOI 10.1016/0035-9203(52)90043-6
+   Driggers RW, 2016, NEW ENGL J MED, V374, P2142, DOI 10.1056/NEJMoa1601824
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Dupont-Rouzeyrol M, 2016, LANCET, V387, P1051, DOI 10.1016/S0140-6736(16)00624-3
+   European Centre for Disease Prevention and Control, 2015, RAP RISK ASS ZIK VIR
+   Federacao Brasileira das Associacoes de Ginecologia e Obstetricia, 2016, OR REC FEBRASGO INF
+   Freitas BD, 2016, JAMA OPHTHALMOL, V134, P529, DOI 10.1001/jamaophthalmol.2016.0267
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Hayes EB, 2009, EMERG INFECT DIS, V15, P1347, DOI 10.3201/eid1509.090442
+   Hazin AN, 2016, NEW ENGL J MED, V374, P2193, DOI 10.1056/NEJMc1603617
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Kleber de Oliveira Wanderson, 2016, MMWR Morb Mortal Wkly Rep, V65, P242, DOI 10.15585/mmwr.mm6509e2
+   LaBeaud AD, 2016, ZIKA VIRUS INFECT OV
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P159, DOI 10.15585/mmwr.mm6506e1
+   Meaney-Delman D, 2016, OBSTET GYNECOL, V128, P724, DOI 10.1097/AOG.0000000000001625
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Musso D, 2014, EUROSURVEILLANCE, V19, P6, DOI 10.2807/1560-7917.ES2014.19.14.20761
+   Musso D, 2015, J CLIN VIROL, V68, P53, DOI 10.1016/j.jcv.2015.04.021
+   Oehler E., 2014, Eurosurveillance, V19, P20720
+   Paixao ES, 2016, AM J PUBLIC HEALTH, V106, P606, DOI 10.2105/AJPH.2016.303112
+   Pan American Health Organization, 2016, WHO ZIK SIT REP 21 J
+   Pan American Health Organization, 2016, EP UPD NEUR SYNDR CO
+   Paniz-Mondolfi AE, 2016, ANN CLIN MICROB ANTI, V15, DOI 10.1186/s12941-016-0157-x
+   Parreira R, 2013, CHIKUNGUNIYA ZIKA VI, V54, P9
+   Petersen EE, 2016, MMWR-MORBID MORTAL W, V65, P30, DOI 10.15585/mmwr.mm6502e1
+   Prisant N, 2016, LANCET INFECT DIS, V16, P1000, DOI 10.1016/S1473-3099(16)30193-1
+   Rabe IB, 2016, MMWR MORB MORTAL REP, DOI 10.15585/mmwr.mm6521e1
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Rodriguez-Morales AJ, 2015, ARCH MED, V11
+   Rodriguez-Morales AJ, 2016, ANN CLIN MICROB ANTI, V15, DOI 10.1186/s12941-016-0128-2
+   Rodriguez-Morales AJ, 2016, TRAVEL MED INFECT DI, V14, P5, DOI 10.1016/j.tmaid.2016.01.011
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Silvia Sardi, 2016, J CLIN MICROBIOL, DOI [10.1128/JCM.00877-16, DOI 10.1128/JCM.00877-16]
+   Tognarelli J, 2016, ARCH VIROL, V161, P665, DOI 10.1007/s00705-015-2695-5
+   Ventura CV, 2016, ARQ BRAS OFTALMOL, V79, P1, DOI 10.5935/0004-2749.20160002
+   Villamil-Gomez WE, 2016, J INFECT PUBLIC HEAL, V9, P684, DOI 10.1016/j.jiph.2015.12.002
+   Villar J, 2016, LANCET, V387, P844, DOI 10.1016/S0140-6736(16)00384-6
+   World Health Organization, ZIK VIR MICR GUILL B
+   World Health Organization-, ID MAN GUILL BARR SY
+   World Health Organization, GUILL BARR SYNDR BRA
+   Yuki N, 2012, NEW ENGL J MED, V366, P2294, DOI 10.1056/NEJMra1114525
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 56
+TC 13
+Z9 13
+U1 0
+U2 67
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1476-0711
+J9 ANN CLIN MICROB ANTI
+JI Ann. Clin. Microbiol. Antimicrob.
+PD SEP 29
+PY 2016
+VL 15
+AR 57
+DI 10.1186/s12941-016-0172-y
+PG 15
+WC Microbiology
+SC Microbiology
+GA DX4QR
+UT WOS:000384366700001
+PM 27686610
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Martines, RB
+   Bhatnagar, J
+   Ramos, AMD
+   Davi, HPF
+   Iglezias, SD
+   Kanamura, CT
+   Keating, MK
+   Hale, G
+   Silva-Flannery, L
+   Muehlenbachs, A
+   Ritter, J
+   Gary, J
+   Rollin, D
+   Goldsmith, CS
+   Reagan-Steiner, S
+   Ermias, Y
+   Suzuki, T
+   Luz, KG
+   de Oliveira, WK
+   Lanciotti, R
+   Lambert, A
+   Shieh, WJ
+   Zaki, SR
+AF Martines, Roosecelis Brasil
+   Bhatnagar, Julu
+   de Oliveira Ramos, Ana Maria
+   Freire Davi, Helaine Pompeia
+   Iglezias, Silvia D'Andretta
+   Kanamura, Cristina Takami
+   Keating, M. Kelly
+   Hale, Gillian
+   Silva-Flannery, Luciana
+   Muehlenbachs, Atis
+   Ritter, Jana
+   Gary, Joy
+   Rollin, Dominique
+   Goldsmith, Cynthia S.
+   Reagan-Steiner, Sarah
+   Ermias, Yokabed
+   Suzuki, Tadaki
+   Luz, Kleber G.
+   de Oliveira, Wanderson Kleber
+   Lanciotti, Robert
+   Lambert, Amy
+   Shieh, Wun-Ju
+   Zaki, Sherif R.
+TI Pathology of congenital Zika syndrome in Brazil: a case series
+SO LANCET
+LA English
+DT Article
+ID VIRUS-INFECTION; ARTHROGRYPOSIS; ETIOLOGY; TISSUES; UPDATE; STATES;
+   BRAIN; PCR
+AB Background Zika virus is an arthropod-borne virus that is a member of the family Flaviviridae transmitted mainly by mosquitoes of the genus Aedes. Although usually asymptomatic, infection can result in a mild and self-limiting illness characterised by fever, rash, arthralgia, and conjunctivitis. An increase in the number of children born with microcephaly was noted in 2015 in regions of Brazil with high transmission of Zika virus. More recently, evidence has been accumulating supporting a link between Zika virus and microcephaly. Here, we describe findings from three fatal cases and two spontaneous abortions associated with Zika virus infection.
+   Methods In this case series, formalin-fixed paraffin-embedded tissue samples from five cases, including two newborn babies with microcephaly and severe arthrogryposis who died shortly after birth, one 2-month-old baby, and two placentas from spontaneous abortions, from Brazil were submitted to the Infectious Diseases Pathology Branch at the US Centers for Disease Control and Prevention (Atlanta, GA, USA) between December, 2015, and March, 2016. Specimens were assessed by histopathological examination, immunohistochemical assays using a mouse anti-Zika virus antibody, and RT-PCR assays targeting the NS5 and envelope genes. Amplicons of RT-PCR positive cases were sequenced for characterisation of strains.
+   Findings Viral antigens were localised to glial cells and neurons and associated with microcalcifications in all three fatal cases with microcephaly. Antigens were also seen in chorionic villi of one of the first trimester placentas. Tissues from all five cases were positive for Zika virus RNA by RT-PCR, and sequence analyses showed highest identities with Zika virus strains isolated from Brazil during 2015.
+   Interpretation These findings provide strong evidence of a link between Zika virus infection and different congenital central nervous system malformations, including microcephaly as well as arthrogryposis and spontaneous abortions.
+C1 [Martines, Roosecelis Brasil; Bhatnagar, Julu; Keating, M. Kelly; Hale, Gillian; Silva-Flannery, Luciana; Muehlenbachs, Atis; Ritter, Jana; Gary, Joy; Rollin, Dominique; Goldsmith, Cynthia S.; Ermias, Yokabed; Shieh, Wun-Ju; Zaki, Sherif R.] NCEZID, Div High Consequence Pathogens & Pathol, Infect Dis Pathol Branch, Atlanta, GA USA.
+   [Reagan-Steiner, Sarah] Ctr Dis Control & Prevent, Natl Ctr Immunizat & Resp Dis, Immunizat Serv Div, Atlanta, GA USA.
+   [de Oliveira Ramos, Ana Maria] Univ Fed Rio Grande do Norte, Dept Pathol, Natal, RN, Brazil.
+   [de Oliveira Ramos, Ana Maria; Freire Davi, Helaine Pompeia] Serv Ascertaining Death State Rio Grande Norte SV, Natal, RN, Brazil.
+   [Iglezias, Silvia D'Andretta; Kanamura, Cristina Takami] Adolfo Lutz Inst, Sao Paulo, Brazil.
+   [Suzuki, Tadaki] Natl Inst Infect Dis, Dept Pathol, Tokyo, Japan.
+   [Luz, Kleber G.] Univ Fed Rio Grande do Norte, Dept Infect Dis, Natal, RN, Brazil.
+   [de Oliveira, Wanderson Kleber] Minist Hlth, Brasilia, DF, Brazil.
+   [Lanciotti, Robert; Lambert, Amy] Ctr Dis Control & Prevent, NCEZID, Div Vector Borne Dis, Arboviral Dis Branch, Ft Collins, CO USA.
+RP Zaki, SR (corresponding author), Ctr Dis Control & Prevent, NCEZID, Div High Consequence Pathogens & Pathol, Infect Dis Pathol Branch, Atlanta, GA 30329 USA.
+EM szaki@cdc.gov
+RI Oliveira, Wanderson/AAF-5182-2019
+OI Oliveira, Wanderson/0000-0002-9662-1930; Ramos, Ana
+   Maria/0000-0001-7542-4973; Kanamura, Cristina/0000-0003-2537-2356
+CR Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Bhatnagar J, 2016, 32 CLIN VIR S
+   Bhatnagar J, 2012, AM J TROP MED HYG, V86, P335, DOI 10.4269/ajtmh.2012.11-0346
+   Callahan JD, 2001, J CLIN MICROBIOL, V39, P4119, DOI 10.1128/JCM.39.11.4119-4124.2001
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Costa F, 2016, ANN INTERN MED, V164, P689, DOI 10.7326/M16-0332
+   Driggers RW, 2016, NEW ENGL J MED, V374, P2142, DOI 10.1056/NEJMoa1601824
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   Franca GV, 2016, LANCET
+   FRASER SH, 1994, J PAEDIATR CHILD H, V30, P450, DOI 10.1111/j.1440-1754.1994.tb00701.x
+   Gabrielli L, 2012, CLIN MICROBIOL INFEC, V18, pE419, DOI 10.1111/j.1469-0691.2012.03983.x
+   Garcez PP, 2016, SCIENCE, V352, P816, DOI 10.1126/science.aaf6116
+   Hall JG, 2014, EUR J MED GENET, V57, P464, DOI 10.1016/j.ejmg.2014.03.008
+   Jouannic JM, 2016, LANCET, V387, P1051, DOI 10.1016/S0140-6736(16)00625-5
+   Kowalczyk B, 2016, ARCH MED SCI, V12, P10, DOI 10.5114/aoms.2016.57578
+   Lazar M, 2016, EBIOMEDICINE, V3, P86, DOI 10.1016/j.ebiom.2015.11.050
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P159, DOI 10.15585/mmwr.mm6506e1
+   McDonagh S, 2004, J INFECT DIS, V190, P826, DOI 10.1086/422330
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Oduyebo T, 2016, MMWR-MORBID MORTAL W, V65, P122, DOI 10.15585/mmwr.mm6505e2
+   Oehler E, 2014, EUROSURVEILLANCE, V19, P4
+   PASTUSZAK AL, 1994, NEW ENGL J MED, V330, P901, DOI 10.1056/NEJM199403313301305
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Silasi M, 2015, AM J REPROD IMMUNOL, V73, P199, DOI 10.1111/aji.12355
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 29
+TC 175
+Z9 179
+U1 2
+U2 96
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD AUG 27
+PY 2016
+VL 388
+IS 10047
+BP 898
+EP 904
+DI 10.1016/S0140-6736(16)30883-2
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA DU0RI
+UT WOS:000381911800028
+PM 27372395
+OA Bronze
+DA 2020-12-15
+ER
+
+PT J
+AU de Noronha, L
+   Zanluca, C
+   Azevedo, MLV
+   Luz, KG
+   dos Santos, CND
+AF de Noronha, Lucia
+   Zanluca, Camila
+   Viola Azevedo, Marina Luize
+   Luz, Kleber Giovanni
+   Duarte dos Santos, Claudia Nunes
+TI Zika virus damages the human placental barrier and presents marked fetal
+   neurotropism
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE Zika virus; transplacental transmission; Hofbauer cells; neurotropism
+ID WEST-NILE VIRUS; INFECTIONS; TRANSMISSION; PATHOGENESIS; EMERGENCE
+AB An unusually high incidence of microcephaly in newborns has recently been observed in Brazil. There is a temporal association between the increase in cases of microcephaly and the Zika virus (ZIKV) epidemic. Viral RNA has been detected in amniotic fluid samples, placental tissues and newborn and fetal brain tissues. However, much remains to be determined concerning the association between ZIKV infection and fetal malformations. In this study, we provide evidence of the transplacental transmission of ZIKV through the detection of viral proteins and viral RNA in placental tissue samples from expectant mothers infected at different stages of gestation. We observed chronic placentitis (TORCH type) with viral protein detection by immunohistochemistry in Hofbauer cells and some histiocytes in the intervillous spaces. We also demonstrated the neurotropism of the virus via the detection of viral proteins in glial cells and in some endothelial cells and the observation of scattered foci of microcalcifications in the brain tissues. Lesions were mainly located in the white matter. ZIKV RNA was also detected in these tissues by real-time-polymerase chain reaction. We believe that these findings will contribute to the body of knowledge of the mechanisms of ZIKV transmission, interactions between the virus and host cells and viral tropism.
+C1 [de Noronha, Lucia; Viola Azevedo, Marina Luize] Pontificia Univ Catolica Parana, Curitiba, Parana, Brazil.
+   [Zanluca, Camila; Duarte dos Santos, Claudia Nunes] Fundacao Oswaldo Cruz, Inst Carlos Chagas, Lab Virol Mol, Curitiba, Parana, Brazil.
+   [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Inst Med Trop, BR-59072970 Natal, RN, Brazil.
+RP dos Santos, CND (corresponding author), Fundacao Oswaldo Cruz, Inst Carlos Chagas, Lab Virol Mol, Curitiba, Parana, Brazil.
+EM clsantos@fiocruz.br
+RI Santos, Claudia Duarte dos/P-4868-2019; Duarte dos Santos,
+   Claudia/E-1857-2018; noronha, lucia/F-6339-2015
+OI Santos, Claudia Duarte dos/0000-0001-8707-6638; Duarte dos Santos,
+   Claudia/0000-0001-8707-6638; noronha, lucia/0000-0003-0310-7164;
+   Zanluca, Camila/0000-0001-7350-9105
+FU FIOCRUZ; CNPqNational Council for Scientific and Technological
+   Development (CNPq); CAPESCAPES; Fundacao AraucariaFundacao Araucaria
+FX FIOCRUZ, CNPq, CAPES, Fundacao Araucaria. LN and CZ contributed equally
+   to this work.
+CR Alpert SG, 2003, AM J OPHTHALMOL, V136, P733, DOI 10.1016/S0002-9394(03)00452-5
+   Baurakiades E, 2011, DIAGN PATHOL, V6, DOI 10.1186/1746-1596-6-101
+   Benirchke K, 2006, PATHOLOGY HUMAN PLAC, P502
+   Boussemart T, 2001, J Perinatol, V21, P255, DOI 10.1038/sj.jp.7200530
+   Brasil P., 2016, N ENGL J ME IN PRESS
+   Calvet G, 2016, LANCET INFECT DIS
+   Chong DC, 2009, PEDIATR DEVEL PATHOL, V12, P211, DOI 10.2350/07-02-0229.1
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   EBC - Empresa Brasil de Comunicacao, 2016, CAS CONF MICR SOB PA
+   GREENOUGH A, 1994, ARCH DIS CHILD-FETAL, V70, pF163, DOI 10.1136/fn.70.3.F163
+   Hayes EB, 2009, EMERG INFECT DIS, V15, P1347, DOI 10.3201/eid1509.090442
+   Hollidge BS, 2010, J NEUROIMMUNE PHARM, V5, P428, DOI 10.1007/s11481-010-9234-7
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Kim CJ, 2015, AM J OBSTET GYNECOL, V213, pS53, DOI 10.1016/j.ajog.2015.08.041
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Laszczyk Magdalena, 2007, Ginekol Pol, V78, P560
+   Love S, 2002, GREENFIELDS NEUROPAT, P45
+   Martin DA, 2000, J CLIN MICROBIOL, V38, P1823, DOI 10.1128/JCM.38.5.1823-1826.2000
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P1, DOI [DOI 10.15585/MMWR.MM6506E1ER, 10.15585/mmwr.mm6506e1]
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Misra UK, 2010, PROG NEUROBIOL, V91, P108, DOI 10.1016/j.pneurobio.2010.01.008
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Murray KO, 2010, VET RES, V41, DOI 10.1051/vetres/2010039
+   Neu N, 2015, CLIN PERINATOL, V42, P77, DOI 10.1016/j.clp.2014.11.001
+   Oehler E, 2014, EUROSURVEILLANCE, V19, P4
+   Pan American Health Organization (PAHO), 2016, ZIK VIR INF
+   Piersen TC, 2013, FIELDS VIROLOGY, P747
+   Poersch CD, 2005, J CLIN VIROL, V32, P272, DOI 10.1016/j.jcv.2004.08.008
+   Sarno M, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004517
+   TSAI TF, 1993, J INFECT DIS, V168, P1520, DOI 10.1093/infdis/168.6.1520
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 31
+TC 129
+Z9 134
+U1 0
+U2 41
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD MAY
+PY 2016
+VL 111
+IS 5
+BP 287
+EP +
+DI 10.1590/0074-02760160085
+PG 8
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA DN2EI
+UT WOS:000376876500002
+PM 27143490
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Rezende, NCC
+   Bezerra, CLPAM
+   de Almeida, JJS
+   Fernandes, TUG
+   Luz, KG
+AF Cavalcante Rezende, Natania Carol
+   Alves Madeira Bezerra, Camila Loredana Pereira
+   Salviano de Almeida, Jessica Jacinto
+   Gomes Fernandes, Tatiane Uetti
+   Luz, Kleber Giovanni
+TI Secondary transmission of cryptosporidiosis associated with well water
+   consumption: two case studies
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Cryptosporidium spp; Well water; Diarrhea
+ID AGE
+AB Cryptosporidiosis is a very prominent disease in the field of public health, and usually causes diarrhea. We describe two immunocompetent patients who presented with chronic diarrhea that was ultimately found to be caused by continuous exposure to well water contaminated with the microbial cysts (oocysts) of the Cryptosporidium spp parasite. We describe the patients' histories and possible explanations for their prolonged symptoms.
+C1 [Cavalcante Rezende, Natania Carol; Alves Madeira Bezerra, Camila Loredana Pereira; Salviano de Almeida, Jessica Jacinto; Gomes Fernandes, Tatiane Uetti] Univ Fed Rio Grande do Norte, Ctr Ciencias Saude, BR-59072970 Natal, RN, Brazil.
+   [Luz, Kleber Giovanni] Inst Med Trop Rio Grande Norte, Natal, RN, Brazil.
+RP Rezende, NCC (corresponding author), Univ Fed Rio Grande do Norte, Ctr Ciencias Saude, BR-59072970 Natal, RN, Brazil.
+EM carolcavalcante.r@gmail.com
+CR Alves CJ, 2007, REV BRAS PSIQUIATR, V29, P363
+   Chen XM, 2002, NEW ENGL J MED, V346, P1723, DOI 10.1056/NEJMra013170
+   Garlipp C. R., 1995, Revista do Instituto de Medicina Tropical de Sao Paulo, V37, P467, DOI 10.1590/S0036-46651995000500014
+   Haynes L, 2009, CURR OPIN IMMUNOL, V21, P414, DOI 10.1016/j.coi.2009.05.009
+   Lima Erilane de Castro, 2003, Ciênc. saúde coletiva, V8, P791
+   Naylor K, 2005, J IMMUNOL, V174, P7446, DOI 10.4049/jimmunol.174.11.7446
+   Ogawa T, 2000, MECH AGEING DEV, V117, P57, DOI 10.1016/S0047-6374(00)00137-8
+   Plowden J, 2004, AGING CELL, V3, P161, DOI 10.1111/j.1474-9728.2004.00102.x
+   Vismari L, 2008, REV PSIQ CLIN-BRAZIL, V35, P196
+   WOLFSON JS, 1985, NEW ENGL J MED, V312, P1278, DOI 10.1056/NEJM198505163122002
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD MAR-APR
+PY 2016
+VL 49
+IS 2
+BP 260
+EP 262
+DI 10.1590/0037-8682-0232-2015
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA DM9AU
+UT WOS:000376656800021
+PM 27192601
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Martines, RB
+   Bhatnagar, J
+   Keating, MK
+   Silva-Flannery, L
+   Muehlenbachs, A
+   Gary, J
+   Goldsmith, C
+   Hale, G
+   Ritter, J
+   Rollin, D
+   Shieh, WJ
+   Luz, KG
+   Ramos, AMDO
+   Davi, HPF
+   de Oliveria, WK
+   Lanciotti, R
+   Lambert, A
+   Zaki, S
+AF Martines, Roosecelis Brasil
+   Bhatnagar, Julu
+   Keating, M. Kelly
+   Silva-Flannery, Luciana
+   Muehlenbachs, Atis
+   Gary, Joy
+   Goldsmith, Cynthia
+   Hale, Gillian
+   Ritter, Jana
+   Rollin, Dominique
+   Shieh, Wun-Ju
+   Luz, Kleber G.
+   de Oliveira Ramos, Ana Maria
+   Freire Davi, Helaine Pompeia
+   de Oliveria, Wanderson Kleber
+   Lanciotti, Robert
+   Lambert, Amy
+   Zaki, Sherif
+TI Evidence of Zika Virus Infection in Brain and Placental Tissues from Two
+   Congenitally Infected Newborns and Two Fetal Losses - Brazil, 2015
+SO MMWR-MORBIDITY AND MORTALITY WEEKLY REPORT
+LA English
+DT Article
+C1 [Martines, Roosecelis Brasil; Bhatnagar, Julu; Keating, M. Kelly; Silva-Flannery, Luciana; Muehlenbachs, Atis; Gary, Joy; Goldsmith, Cynthia; Hale, Gillian; Ritter, Jana; Rollin, Dominique; Shieh, Wun-Ju; Zaki, Sherif] CDC, Infectious Dis Pathol Branch, Div High Consequence Pathogens & Pathol, NCEZID, Atlanta, GA 30333 USA.
+   [Luz, Kleber G.] Univ Fed Rio Grande do Norte, Dept Infect Dis, BR-59072970 Natal, RN, Brazil.
+   [de Oliveira Ramos, Ana Maria] Univ Fed Rio Grande do Norte, Dept Pathol, BR-59072970 Natal, RN, Brazil.
+   [Freire Davi, Helaine Pompeia] Serv Ascertaining Death State Rio Grande do Nort, Natal, RN, Brazil.
+   [de Oliveria, Wanderson Kleber] Minist Hlth, Sao Paulo, Brazil.
+   [Lanciotti, Robert; Lambert, Amy] CDC, Arboviral Dis Branch, Div Vector Borne Dis, NCEZID, Atlanta, GA 30333 USA.
+RP Martines, RB (corresponding author), CDC, Infectious Dis Pathol Branch, Div High Consequence Pathogens & Pathol, NCEZID, Atlanta, GA 30333 USA.
+EM RBrasilMartines@cdc.gov
+RI Oliveira, Wanderson/D-7140-2016
+OI Oliveira, Wanderson/0000-0002-9662-1930
+CR Bhatnagar J, 2012, AM J TROP MED HYG, V86, P335, DOI 10.4269/ajtmh.2012.11-0346
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Shieh WJ, 2010, AM J PATHOL, V177, P166, DOI 10.2353/ajpath.2010.100115
+   Victoria CG, 2016, LANCET
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 5
+TC 280
+Z9 281
+U1 0
+U2 51
+PU CENTERS  DISEASE CONTROL
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 0149-2195
+EI 1545-861X
+J9 MMWR-MORBID MORTAL W
+JI MMWR-Morb. Mortal. Wkly. Rep.
+PD FEB 19
+PY 2016
+VL 65
+IS 6
+BP 159
+EP 160
+DI 10.15585/mmwr.mm6506e1
+PG 2
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DF4TY
+UT WOS:000371345000005
+OA Bronze
+DA 2020-12-15
+ER
+
+PT J
+AU Pinto, VL
+   Luz, K
+   Parreira, R
+   Ferrinho, P
+AF Pinto Junior, Vitor Laerte
+   Luz, Kleber
+   Parreira, Ricardo
+   Ferrinho, Paulo
+TI Zika Virus: A Review to Clinicians
+SO ACTA MEDICA PORTUGUESA
+LA Portuguese
+DT Article
+DE Aedes; Arboviruses; Flavivirus; Flaviviridae Infections
+ID YELLOW-FEVER; INFECTIONS; TRANSMISSION; EPIDEMIC; NIGERIA; STATE
+AB Zika virus is a flavivirus related to Dengue virus, yellow fever virus and West Nile virus. It is considered an emerging arbovirus transmitted by mosquitos of the genus Aedes. Its first description took place in 1947 in the Zika Forest in Uganda, isolated on Rhesus monkey used as bait to study the yellow fever virus. Sporadic cases have been detected in African countries and at the end of the 70's in Indonesia. In 2007, epidemics were described in Micronesia and other islands in the Pacific Ocean and more recently in Brazil. Clinical picture is characterized as a 'dengue-like' syndrome, with abrupt onset of fever and an early onset evanescent rash, often pruritic. Occasionally the disease has been associated with Guillain-Barre syndrome. Nevertheless, until now deaths and complications caused by the disease were not reported. The diagnosis can be performed by PCR or by IgG and IgM antibodies detection. The rapid spread of the virus and its epidemic potential are especially problematic in countries where there are the circulation of other arboviruses which imposes difficulties in the differential diagnosis and healthcare burden. Control measures are the same recommended for dengue and chikungunya which are based in health education and vector control.
+C1 [Pinto Junior, Vitor Laerte] Fiocruz MS, Dept Epidemiol & Vigilancia Saude, Brasilia, DF, Brazil.
+   [Pinto Junior, Vitor Laerte; Parreira, Ricardo; Ferrinho, Paulo] Univ Nova Lisboa, Inst Higiene & Med Trop, Global Hlth & Trop Med, P-1200 Lisbon, Portugal.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, Inst Med Trop Rio Grande do Norte, Dept Doencas Infecciosas, BR-59072970 Natal, RN, Brazil.
+RP Pinto, VL (corresponding author), Fiocruz MS, Dept Epidemiol & Vigilancia Saude, Brasilia, DF, Brazil.
+EM vitorlaerte@gmail.com
+RI Parreira, Ricardo/AAH-4559-2019; Parreira, Ricardo/I-2304-2012; Pinto
+   Junior, Vitor Laerte/O-9405-2014; Ferrinho, Paulo/J-2835-2012
+OI Parreira, Ricardo/0000-0002-4832-9898; Parreira,
+   Ricardo/0000-0002-4832-9898; Pinto Junior, Vitor
+   Laerte/0000-0003-0556-5310; Ferrinho, Paulo/0000-0002-3722-0803
+CR Ansar V, 2015, PRIMARY CARE, V42, P189, DOI 10.1016/j.pop.2015.01.001
+   BEARCROFT W. G. C., 1956, TRANS ROY SOC TROP MED AND HYG, V50, P442, DOI 10.1016/0035-9203(56)90090-6
+   Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   BOORMAN J. P. T., 1956, TRANS ROY SOC TROP MED AND HYG, V50, P238, DOI 10.1016/0035-9203(56)90029-3
+   Cao-Lormeau VM, 2014, EMERG INFECT DIS, V20, P1085, DOI 10.3201/eid2006.140138
+   Chippaux A, 1981, Med Trop (Mars), V41, P53
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   DICK GWA, 1953, T ROY SOC TROP MED H, V47, P13, DOI 10.1016/0035-9203(53)90021-2
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Dupont-Rouzeyrol M, 2015, EMERG INFECT DIS, V21, P381, DOI 10.3201/eid2102.141553
+   European Centre for Disease Prevention and Control, RAP RISK ASS ZIK VIR
+   FAGBAMI A, 1977, TROP GEOGR MED, V29, P187
+   FAGBAMI AH, 1979, J HYG-CAMBRIDGE, V83, P213, DOI 10.1017/S0022172400025997
+   Faye O, 2008, J CLIN VIROL, V43, P96, DOI 10.1016/j.jcv.2008.05.005
+   Faye O, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002636
+   Fonseca K, 2014, AM J TROP MED HYG, V91, P1035, DOI 10.4269/ajtmh.14-0151
+   GESER A, 1970, Bulletin of the World Health Organization, V43, P539
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Grard G, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002681
+   HADDOW AJ, 1964, B WORLD HEALTH ORGAN, V31, P57
+   Haddow AD, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001477
+   Hayes EB, 2009, EMERG INFECT DIS, V15, P1347, DOI 10.3201/eid1509.090442
+   Heang V, 2012, EMERG INFECT DIS, V18, P349, DOI 10.3201/eid1802.111224
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   JAN C, 1978, B SOC PATHOL EXOT, V71, P140
+   Keighley CL, 2015, CURR OPIN INFECT DIS, V28, P139, DOI 10.1097/QCO.0000000000000145
+   Kuno G, 2007, ARCH VIROL, V152, P687, DOI 10.1007/s00705-006-0903-z
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Ledermann JP, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003188
+   MACNAMARA FN, 1954, T ROY SOC TROP MED H, V48, P139, DOI 10.1016/0035-9203(54)90006-1
+   Mansfield KL, 2011, J GEN VIROL, V92, P2821, DOI 10.1099/vir.0.031641-0
+   MARCHETTE NJ, 1969, AM J TROP MED HYG, V18, P411, DOI 10.4269/ajtmh.1969.18.411
+   MONATH TP, 1973, B WORLD HEALTH ORGAN, V49, P235
+   Musso D, 2014, CLIN MICROBIOL INFEC, V20, pO595, DOI 10.1111/1469-0691.12707
+   Musso D, 2014, EUROSURVEILLANCE, P19
+   Musso D, 2015, J CLIN VIROL, V68, P53, DOI 10.1016/j.jcv.2015.04.021
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Nelwan EJ, 2014, ACTA MED INDONES, V46, P339
+   Oehler E, 2014, EURO SURVEILL, V19
+   OLSON JG, 1981, T ROY SOC TROP MED H, V75, P389, DOI 10.1016/0035-9203(81)90100-0
+   RENAUDET J, 1978, B SOC PATHOL EXOT, V71, P131
+   Robin Y., 1975, Bulletin Soc Path Exot, V68, P249
+   Rudolph KE, 2014, AM J TROP MED HYG, V90, P882, DOI 10.4269/ajtmh.13-0403
+   SALUZZO JF, 1981, B SOC PATHOL EXOT, V74, P490
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   SIMPSON D. I. H., 1964, TRANS ROY SOC TROP MED HYG, V58, P335, DOI 10.1016/0035-9203(64)90201-9
+   Summers DJ, 2015, J TRAVEL MED, V22, P338, DOI 10.1111/jtm.12208
+   WEINBREN M. P., 1958, TRANS ROY SOC TROP MED AND HYG, V52, P263, DOI 10.1016/0035-9203(58)90085-3
+   Zammarchi L, 2015, EUROSURVEILLANCE, V20, P14
+   Zammarchi L, 2015, J CLIN VIROL, V63, P32, DOI 10.1016/j.jcv.2014.12.005
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 51
+TC 31
+Z9 34
+U1 0
+U2 87
+PU ORDEM MEDICOS
+PI LISBON
+PA AV ALMIRANTE GAGO COUTINHO, 151, LISBON, 1749-084, PORTUGAL
+SN 1646-0758
+J9 ACTA MEDICA PORT
+JI Acta Medica Port.
+PD NOV-DEC
+PY 2015
+VL 28
+IS 6
+BP 760
+EP 765
+DI 10.20344/amp.6929
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA DB5AZ
+UT WOS:000368526700015
+PM 26849762
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Luz, KG
+   dos Santos, GIV
+   Vieira, RD
+AF Luz, Kleber Giovanni
+   Viana dos Santos, Glauco Igor
+   Vieira, Renata de Magalhaes
+TI Zika Virus Fever
+SO EPIDEMIOLOGIA E SERVICOS DE SAUDE
+LA Portuguese
+DT Editorial Material
+C1 [Luz, Kleber Giovanni; Viana dos Santos, Glauco Igor; Vieira, Renata de Magalhaes] Univ Fed Rio Grande do Norte, Inst Med Trop, Natal, RN, Brazil.
+RP Luz, KG (corresponding author), Rua Conego Monte 110, BR-59037170 Natal, RN, Brazil.
+EM klebergluz@gmail.com
+CR [Anonymous], 1997, SDF, VL 50/28
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Faye O, 2008, J CLIN VIROL, V43, P96, DOI 10.1016/j.jcv.2008.05.005
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Hayes EB, 2009, EMERG INFECT DIS, V15, P1347, DOI 10.3201/eid1509.090442
+   Ministerio da Saude (BR), 2015, 1 MIN SAUD BR
+   Ministerio de Saude (MS), 2015, B EPIDEMIOL, V46, P1
+   Musso D, 2015, LANCET, V386, P243, DOI 10.1016/S0140-6736(15)61273-9
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 10
+TC 9
+Z9 11
+U1 0
+U2 0
+PU MINISTERIO DA SAUDE
+PI BRASILIA
+PA ESPLANADA MINISTERIOS, BLOCO G, BRASILIA, DF 70058-900, BRAZIL
+SN 1679-4974
+EI 2237-9622
+J9 EPIDEMIOL SERV SAUDE
+JI Epidemiol. Serv. Saude
+PD OCT-DEC
+PY 2015
+VL 24
+IS 4
+BP 785
+EP 788
+DI 10.5123/S1679-49742015000400021
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA VE5VK
+UT WOS:000439661700021
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Dayan, G
+   Arredondo, JL
+   Carrasquilla, G
+   Deseda, CC
+   Dietze, R
+   Luz, K
+   Costa, MSN
+   Cunha, RV
+   Rey, LC
+   Morales, J
+   Reynales, H
+   Miranda, M
+   Zambrano, B
+   Rivas, E
+   Garbes, P
+   Noriega, F
+AF Dayan, Gustavo
+   Arredondo, Jose L.
+   Carrasquilla, Gabriel
+   Deseda, Carmen C.
+   Dietze, Reynaldo
+   Luz, Kleber
+   Costa, Maria Selma N.
+   Cunha, Rivaldo V.
+   Rey, Luis C.
+   Morales, Javier
+   Reynales, Humberto
+   Miranda, Maria
+   Zambrano, Betzana
+   Rivas, Enrique
+   Garbes, Pedro
+   Noriega, Fernando
+TI Prospective Cohort Study with Active Surveillance for Fever in Four
+   Dengue Endemic Countries in Latin America
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID ADJUSTED LIFE YEARS; ECONOMIC-IMPACT; TYPE-2 VIRUS; PUERTO-RICO; NS1
+   ELISA; PHASE-II; VACCINE; SAFETY; IMMUNOGENICITY; RECOMBINANT
+AB To prepare for a Phase III dengue vaccine efficacy trial, 20 investigational sites were selected for this observational study to identify dengue infections in a closed cohort (N = 3,000 children 9-16 years of age). Of 255 acute febrile episodes experienced by 235 children, 50 (21.3%) were considered serologically probable dengue, and 18 (7.7%) were considered virologically confirmed (i.e., dengue NS1 antigen positive) dengue cases. Considering the disease-free and at-risk period from study start to onset of symptoms, the overall incidence density of acute febrile episodes was 17.7 per 1100 person-years of follow-up, ranging from 15.3 in Colombia to 22.0 in Puerto Rico. This study showed that all sites were capable of capturing and following up acute febrile episodes within a specific timeframe among the established cohort and to detect dengue cases.
+C1 Sanofi Pasteur, Clin Res & Dev, Sao Paulo, Brazil.
+   [Arredondo, Jose L.] Inst Nacl Pediat, Unidad Apoyo Invest Clin, Insurgentes Cuicuilco, Mexico City, DF, Mexico.
+   [Carrasquilla, Gabriel] Fdn Santa Fe Bogota, Ctr Estudios Invest Salud, Bogota, Colombia.
+   [Deseda, Carmen C.] Caribbean Travel Med Clin, San Juan, PR USA.
+   [Dietze, Reynaldo] Univ Fed Espirito Santo, Nucleo Doencas Infecciosas, CBM UFES, Vitoria, ES, Brazil.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, Hosp Infanta Varela Santiago, BR-59072970 Natal, RN, Brazil.
+   Univ Fed Goias, Univ Hosp, Goiania, Go, Brazil.
+   Univ Fed Mato Grosso do Sul, Univ Hosp, Campo Grande, MS, Brazil.
+   [Rey, Luis C.] Univ Fed Ceara, Unidade Pesquisas Clin, Inst Biomed, IBIMED, Fortaleza, Ceara, Brazil.
+   Clin Res Puerto Rico, Guayama, PR USA.
+   [Reynales, Humberto] Ctr Atenc Invest Med, Bogota, Colombia.
+   Sanofi Pasteur, Clin Res & Dev, Bogota, Colombia.
+   Sanofi Pasteur, Clin Res & Dev, Montevideo, Uruguay.
+   Sanofi Pasteur, Clin Res & Dev, Mexico City, DF, Mexico.
+   [Dayan, Gustavo; Noriega, Fernando] Sanofi Pasteur, Clin Res & Dev, Swiftwater, PA USA.
+RP Rivas, E (corresponding author), Av Univ 1738, Mexico City 04000, DF, Mexico.
+EM gustavo.dayan@sanofipasteur.com; arredondo.joseluis@gmail.com;
+   Gabriel.Carrasquilla@fsfb.org.co; desedamd@hotmail.com;
+   rdietze@ndi.ufes.br; klebergluz@gmail.com; m.selma@uol.com.br;
+   rivaldo_venancio@uol.com.br; reyluisc@gmail.com;
+   crpr@clinicalresearchpr.com; humberto.reynales@caimed.com;
+   mariaconsuelo.miranda@sanofipasteur.com;
+   betzana.zambrano@sanofipasteur.com; Enrique.Rivas@sanofipasteur.com;
+   pedro.garbes@sanofipasteur.com; fernando.noriega@sanaipasteur.com
+OI Dietze, Reynaldo/0000-0002-6995-8001; Arredondo-Garcia, Jose
+   Luis/0000-0001-6560-046X; Miranda Montoya, Maria
+   Consuelo/0000-0001-5730-0723
+FU Sanofi-Pasteur
+FX This study was sponsored by Sanofi-Pasteur.
+CR Armien B, 2008, AM J TROP MED HYG, V79, P364, DOI 10.4269/ajtmh.2008.79.364
+   Barclay E, 2008, LANCET, V371, P973, DOI 10.1016/S0140-6736(08)60435-3
+   Blacksell SD, 2006, CLIN INFECT DIS, V42, P1127, DOI 10.1086/501358
+   Camacho Tania, 2004, Biomédica, V24, P174
+   Capeding RZ, 2011, VACCINE, V29, P3863, DOI 10.1016/j.vaccine.2011.03.057
+   Clopper CJ, 1934, BIOMETRIKA, V26, P404, DOI 10.2307/2331986
+   Coller BAG, 2011, CURR OPIN IMMUNOL, V23, P391, DOI 10.1016/j.coi.2011.03.005
+   Felix AC, 2012, CLIN VACCINE IMMUNOL, V19, P1972, DOI 10.1128/CVI.00535-12
+   Gubler D. J., 2002, Dengue Bulletin, V26, P96
+   Guirakhoo F, 2000, J VIROL, V74, P5477, DOI 10.1128/JVI.74.12.5477-5485.2000
+   Guirakhoo F, 2001, J VIROL, V75, P7290, DOI 10.1128/JVI.75.16.7290-7304.2001
+   Guirakhoo F, 2006, HUM VACCINES, V2, P60, DOI 10.4161/hv.2.2.2555
+   Guzman MG, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000811
+   Hang VT, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000360
+   Hunsperger EA, 2009, EMERG INFECT DIS, V15, P436, DOI 10.3201/eid1503.080923
+   Hurtado-Diaz M, 2007, TROP MED INT HEALTH, V12, P1327, DOI 10.1111/j.1365-3156.2007.01930.x
+   Lanata CF, 2012, VACCINE, V30, P5935, DOI 10.1016/j.vaccine.2012.07.043
+   Lapphra K, 2008, DIAGN MICR INFEC DIS, V60, P387, DOI 10.1016/j.diagmicrobio.2007.11.010
+   Leo YS, 2012, HUM VACC IMMUNOTHER, V8, P1259, DOI 10.4161/hv.21224
+   San Martin JL, 2010, AM J TROP MED HYG, V82, P128, DOI 10.4269/ajtmh.2010.09-0346
+   Luz PM, 2009, TROP MED INT HEALTH, V14, P237, DOI 10.1111/j.1365-3156.2008.02203.x
+   Meltzer MI, 1998, AM J TROP MED HYG, V59, P265, DOI 10.4269/ajtmh.1998.59.265
+   Morrison D, 2010, J INFECT DIS, V201, P370, DOI 10.1086/649916
+   Padilla J.C., 2012, DENGUE COLOMBIA EPID
+   Pan American Health Organization (PAHO), 2013, DENGUE
+   Poo J, 2011, PEDIATR INFECT DIS J, V30, pE9, DOI 10.1097/INF.0b013e3181fe05af
+   Qiao M, 2011, AM J TROP MED HYG, V85, P724, DOI 10.4269/ajtmh.2011.10-0436
+   Ramos MM, 2008, AM J TROP MED HYG, V79, P123, DOI 10.4269/ajtmh.2008.79.123
+   Restrepo AC, 2014, TROP MED INT HEALTH, V19, P863, DOI 10.1111/tmi.12325
+   Rothman K. J., 1998, MODERN EPIDEMIOLOGY
+   Sabchareon A, 2012, LANCET, V380, P1559, DOI 10.1016/S0140-6736(12)61428-7
+   Sequeira M, 2011, DENGUE IN NICARAGUA
+   Shepard DS, 2011, AM J TROP MED HYG, V84, P200, DOI 10.4269/ajtmh.2011.10-0503
+   Standish K, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000633
+   Suaya JA, 2010, HDB DIS BURDENS QUAL, P1263
+   Teixeira MG, 2008, EMERG INFECT DIS, V14, P1663, DOI 10.3201/eid1410.071164
+   Vaughn DW, 1999, AM J TROP MED HYG, V60, P693, DOI 10.4269/ajtmh.1999.60.693
+   Villar LA, 2013, PEDIATR INFECT DIS J, V32, P1102, DOI 10.1097/INF.0b013e31829b8022
+   World Health Organization, 1997, DENG HEM FEV DIAGN T
+NR 39
+TC 18
+Z9 18
+U1 0
+U2 4
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD JUL
+PY 2015
+VL 93
+IS 1
+BP 18
+EP 23
+DI 10.4269/ajtmh.13-0663
+PG 6
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA CM5YG
+UT WOS:000357764300006
+PM 26013373
+OA Green Published, Other Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Zanluca, C
+   de Melo, VCA
+   Mosimann, ALP
+   dos Santos, GIV
+   dos Santos, CND
+   Luz, K
+AF Zanluca, Camila
+   Andrade de Melo, Vanessa Campos
+   Pamplona Mosimann, Ana Luiza
+   Viana dos Santos, Glauco Igor
+   Duarte dos Santos, Claudia Nunes
+   Luz, Kleber
+TI First report of autochthonous transmission of Zika virus in Brazil
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE Zika virus; "dengue-like syndrome"; Brazil
+ID CHIKUNGUNYA-VIRUS; FRENCH-POLYNESIA; DENGUE VIRUSES; PACIFIC
+AB In the early 2015, several cases of patients presenting symptoms of mild fever, rash, conjunctivitis and arthralgia were reported in the northeastern Brazil. Although all patients lived in a dengue endemic area, molecular and serological diagnosis for dengue resulted negative. Chikungunya virus infection was also discarded. Subsequently, Zika virus (ZIKV) was detected by reverse transcription-polymerase chain reaction from the sera of eight patients and the result was confirmed by DNA sequencing. Phylogenetic analysis suggests that the ZIKV identified belongs to the Asian clade. This is the first report of ZIKV infection in Brazil.
+C1 [Zanluca, Camila; Pamplona Mosimann, Ana Luiza; Duarte dos Santos, Claudia Nunes] Fundacao Oswaldo Cruz, Inst Carlos Chagas, Lab Virol Mol, Curitiba, Parana, Brazil.
+   [Andrade de Melo, Vanessa Campos; Viana dos Santos, Glauco Igor] Secretaria Estadual Saude Rio Grande Norte, Natal, RN, Brazil.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, Inst Med Trop, BR-59072970 Natal, RN, Brazil.
+RP dos Santos, CND (corresponding author), Fundacao Oswaldo Cruz, Inst Carlos Chagas, Lab Virol Mol, Curitiba, Parana, Brazil.
+EM clsantos@fiocruz.br; klebergluz@gmail.com
+RI Duarte dos Santos, Claudia/E-1857-2018; Mosimann, Ana Luiza
+   Pamplona/AAB-4714-2019; Santos, Claudia Duarte dos/P-4868-2019
+OI Duarte dos Santos, Claudia/0000-0001-8707-6638; Mosimann, Ana Luiza
+   Pamplona/0000-0002-3504-5562; Santos, Claudia Duarte
+   dos/0000-0001-8707-6638; Zanluca, Camila/0000-0001-7350-9105
+CR Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Cao-Lormeau VM, 2014, EMERG INFECT DIS, V20, P1085, DOI 10.3201/eid2006.140138
+   Caron M, 2012, CLIN INFECT DIS, V55, pE45, DOI 10.1093/cid/cis530
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Dupont-Rouzeyrol M, 2015, EMERG INFECT DIS, V21, P381, DOI 10.3201/eid2102.141553
+   Faye O, 2008, J CLIN VIROL, V43, P96, DOI 10.1016/j.jcv.2008.05.005
+   Faye O, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002636
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Lanciotti RS, 2007, EMERG INFECT DIS, V13, P764, DOI 10.3201/eid1305.070015
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Musso D, 2014, CLIN MICROBIOL INFEC, V20, pO595, DOI 10.1111/1469-0691.12707
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Piersen TC, 2013, FIELDS VIROLOGY, P747
+   Roth A, 2014, EUROSURVEILLANCE, V19, P2, DOI 10.2807/1560-7917.ES2014.19.41.20929
+NR 17
+TC 668
+Z9 709
+U1 3
+U2 382
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD JUN
+PY 2015
+VL 110
+IS 4
+BP 569
+EP 572
+DI 10.1590/0074-02760150192
+PG 4
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA CL0DT
+UT WOS:000356610000017
+PM 26061233
+OA DOAJ Gold, Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Villar, L
+   Dayan, GH
+   Arredondo-Garcia, JL
+   Rivera, DM
+   Cunha, R
+   Deseda, C
+   Reynales, H
+   Costa, MS
+   Morales-Ramirez, JO
+   Carrasquilla, G
+   Rey, LC
+   Dietze, R
+   Luz, K
+   Rivas, E
+   Montoya, MCM
+   Supelano, MC
+   Zambrano, B
+   Langevin, E
+   Boaz, M
+   Tornieporth, N
+   Saville, M
+   Noriega, F
+AF Villar, Luis
+   Dayan, Gustavo Horacio
+   Luis Arredondo-Garcia, Jose
+   Maribel Rivera, Doris
+   Cunha, Rivaldo
+   Deseda, Carmen
+   Reynales, Humberto
+   Costa, Maria Selma
+   Morales-Ramirez, Javier Osvaldo
+   Carrasquilla, Gabriel
+   Rey, Luis Carlos
+   Dietze, Reynaldo
+   Luz, Kleber
+   Rivas, Enrique
+   Miranda Montoya, Maria Consuelo
+   Cortes Supelano, Margarita
+   Zambrano, Betzana
+   Langevin, Edith
+   Boaz, Mark
+   Tornieporth, Nadia
+   Saville, Melanie
+   Noriega, Fernando
+CA CYD15 Study Grp
+TI Efficacy of a Tetravalent Dengue Vaccine in Children in Latin America
+SO NEW ENGLAND JOURNAL OF MEDICINE
+LA English
+DT Article
+ID PHASE-II; IMMUNOGENICITY; SAFETY; RECOMBINANT; TRIAL; CHALLENGES;
+   GUIDELINES; BRAZIL; VIRUS
+AB Background
+   In light of the increasing rate of dengue infections throughout the world despite vector-control measures, several dengue vaccine candidates are in development.
+   Methods
+   In a phase 3 efficacy trial of a tetravalent dengue vaccine in five Latin American countries where dengue is endemic, we randomly assigned healthy children between the ages of 9 and 16 years in a 2: 1 ratio to receive three injections of recombinant, live, attenuated, tetravalent dengue vaccine (CYD-TDV) or placebo at months 0, 6, and 12 under blinded conditions. The children were then followed for 25 months. The primary outcome was vaccine efficacy against symptomatic, virologically confirmed dengue (VCD), regardless of disease severity or serotype, occurring more than 28 days after the third injection.
+   Results
+   A total of 20,869 healthy children received either vaccine or placebo. At baseline, 79.4% of an immunogenicity subgroup of 1944 children had seropositive status for one or more dengue serotypes. In the per-protocol population, there were 176 VCD cases (with 11,793 person-years at risk) in the vaccine group and 221 VCD cases (with 5809 person-years at risk) in the control group, for a vaccine efficacy of 60.8% (95% confidence interval [CI], 52.0 to 68.0). In the intention-to-treat population (those who received at least one injection), vaccine efficacy was 64.7% (95% CI, 58.7 to 69.8). Serotype-specific vaccine efficacy was 50.3% for serotype 1, 42.3% for serotype 2, 74.0% for serotype 3, and 77.7% for serotype 4. Among the severe VCD cases, 1 of 12 was in the vaccine group, for an intention-to-treat vaccine efficacy of 95.5%. Vaccine efficacy against hospitalization for dengue was 80.3%. The safety profile for the CYD-TDV vaccine was similar to that for placebo, with no marked difference in rates of adverse events.
+   Conclusions
+   The CYD-TDV dengue vaccine was efficacious against VCD and severe VCD and led to fewer hospitalizations for VCD in five Latin American countries where dengue is endemic. (Funded by Sanofi Pasteur; ClinicalTrials.gov number, NCT01374516.)
+C1 [Villar, Luis] Univ Ind Santander, Sch Med, Clin Epidemiol Unit, Bucaramanga, Colombia.
+   [Reynales, Humberto] Ctr Estudios & Invest Salud, Ctr Atenc & Invest Med, Bogota, Colombia.
+   [Carrasquilla, Gabriel] Fdn Santa Fe Bogota, Bogota, Colombia.
+   [Miranda Montoya, Maria Consuelo; Cortes Supelano, Margarita] Sanofi Pasteur, Bogota, Colombia.
+   [Dayan, Gustavo Horacio; Boaz, Mark; Noriega, Fernando] Sanofi Pasteur, Swiftwater, PA 18370 USA.
+   [Luis Arredondo-Garcia, Jose] Inst Nacl Pediat, Mexico City, DF, Mexico.
+   [Rivas, Enrique] Sanofi Pasteur, Mexico City, DF, Mexico.
+   [Maribel Rivera, Doris] ODISH, Tegucigalpa, Honduras.
+   [Cunha, Rivaldo] Fed Univ State Mato Grosso do Sul UFMS, Campo Grande, Brazil.
+   [Costa, Maria Selma] S Leste Univ, Univ Fed Goias, Hosp Clin, Goiania, Go, Brazil.
+   [Rey, Luis Carlos] Univ Fed Ceara, Inst Biomed, Fortaleza, Ceara, Brazil.
+   [Dietze, Reynaldo] Univ Fed Espirito Santo, Nucleo Doencas Infecciosas, Ctr Ciencias Saude, Vitoria, Brazil.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, BR-59072970 Natal, RN, Brazil.
+   [Deseda, Carmen] Caribbean Travel Med Clin, San Juan, PR USA.
+   [Morales-Ramirez, Javier Osvaldo] Clin Res Puerto Rico, San Juan, PR USA.
+   [Zambrano, Betzana] Sanofi Pasteur, Montevideo, Uruguay.
+   [Langevin, Edith; Tornieporth, Nadia] Sanofi Pasteur, Marcy Letoile, France.
+   [Saville, Melanie] Sanofi Pasteur, Lyon, France.
+RP Dayan, GH (corresponding author), Sanofi Pasteur, Discovery Dr, Swiftwater, PA 18370 USA.
+EM gustavo.dayan@sanofipasteur.com
+RI de Matos, Vanessa Terezinha Gubert/A-9484-2013; Paniago, Anamaria M
+   M/B-7747-2012
+OI de Matos, Vanessa Terezinha Gubert/0000-0002-9361-2780; Paniago,
+   Anamaria M M/0000-0002-8925-7712; Dietze, Reynaldo/0000-0002-6995-8001;
+   Arredondo-Garcia, Jose Luis/0000-0001-6560-046X; Miranda Montoya, Maria
+   Consuelo/0000-0001-5730-0723
+FU Sanofi Pasteur
+FX Funded by Sanofi Pasteur; ClinicalTrials.gov number, NCT01374516.
+CR Boaz M., 2014, Trials in Vaccinology, V3, P127, DOI 10.1016/j.trivac.2014.07.002
+   BRESLOW NE, 1987, STAT METHODS CANC RE, V2, P94
+   Cafferata Maria Luisa, 2013, Value Health Reg Issues, V2, P347, DOI 10.1016/j.vhri.2013.10.002
+   Capeding MR, 2014, LANCET, V384, P1358, DOI 10.1016/S0140-6736(14)61060-6
+   da Costa VG, 2014, VACCINE, V32, P4885, DOI 10.1016/j.vaccine.2014.07.008
+   Dayan GH, 2013, AM J TROP MED HYG, V89, P1058, DOI 10.4269/ajtmh.13-0304
+   Dayan GH, 2013, VACCINE, V31, P5047, DOI 10.1016/j.vaccine.2013.08.088
+   Dick OB, 2012, AM J TROP MED HYG, V87, P584, DOI 10.4269/ajtmh.2012.11-0770
+   Guy B, 2011, VACCINE, V29, P7229, DOI 10.1016/j.vaccine.2011.06.094
+   Guzman A, 2010, INT J ANTIMICROB AG, V36, pS40, DOI 10.1016/j.ijantimicag.2010.06.018
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   HANLEY JA, 1983, JAMA-J AM MED ASSOC, V249, P1743, DOI 10.1001/jama.249.13.1743
+   Hombach J, 2009, J CLIN VIROL, V46, pS7, DOI 10.1016/S1386-6532(09)70287-2
+   Lam SK, 2013, EXPERT REV VACCINES, V12, P995, DOI 10.1586/14760584.2013.824712
+   Lanata CF, 2012, VACCINE, V30, P5935, DOI 10.1016/j.vaccine.2012.07.043
+   Leo YS, 2012, HUM VACC IMMUNOTHER, V8, P1259, DOI 10.4161/hv.21224
+   San Martin JL, 2010, AM J TROP MED HYG, V82, P128, DOI 10.4269/ajtmh.2010.09-0346
+   McArthur MA, 2013, EXPERT REV VACCINES, V12, P933, DOI 10.1586/14760584.2013.815412
+   Plotkin SA, 2012, CLIN INFECT DIS, V54, P1615, DOI 10.1093/cid/cis238
+   Poo J, 2010, PEDIAT INFECT DIS J, DOI 10.1097/INF.0b013e3181fe05af
+   Rothman AL, 2011, NAT REV IMMUNOL, V11, P532, DOI 10.1038/nri3014
+   Sabchareon A, 2012, LANCET, V380, P1559, DOI 10.1016/S0140-6736(12)61428-7
+   Shepard DS, 2011, AM J TROP MED HYG, V84, P200, DOI 10.4269/ajtmh.2011.10-0503
+   Suaya JA, 2009, AM J TROP MED HYG, V80, P846, DOI 10.4269/ajtmh.2009.80.846
+   Timiryasova TM, 2013, AM J TROP MED HYG, V88, P962, DOI 10.4269/ajtmh.12-0461
+   Tran NH, 2012, J VACCINES VACCIN, V3, P7, DOI [10.4172/2157-7560.1000162, DOI 10.4172/2157-7560.1000162]
+   Van der Vliet D, 2013, P AM SOC TROP MED HY
+   Machado AAV, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003104
+   Villar LA, 2013, PEDIATR INFECT DIS J, V32, P1102, DOI 10.1097/INF.0b013e31829b8022
+   World Health Organization, 1997, DENG HAEM FEV DIAGN
+   Zambrano B, 2014, J PEDIATR INFECT DIS, V3, P181, DOI 10.1093/jpids/piu071
+NR 31
+TC 525
+Z9 540
+U1 3
+U2 120
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0028-4793
+EI 1533-4406
+J9 NEW ENGL J MED
+JI N. Engl. J. Med.
+PD JAN 8
+PY 2015
+VL 372
+IS 2
+BP 113
+EP 123
+DI 10.1056/NEJMoa1411037
+PG 11
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA AY2UA
+UT WOS:000347443300006
+PM 25365753
+DA 2020-12-15
+ER
+
+PT J
+AU de Andrade, ALDL
+   Novaes, MM
+   Germano, AR
+   Luz, KG
+   Freitas, RD
+   Galvao, HC
+AF Dias Leite de Andrade, Ana Luiza
+   Novaes, Marcio Menezes
+   Germano, Adriano Rocha
+   Luz, Kleber Giovanni
+   Freitas, Roseana de Almeida
+   Galvao, Hebel Cavalcanti
+TI Acute Primary Actinomycosis Involving the Hard Palate of a Diabetic
+   Patient
+SO JOURNAL OF ORAL AND MAXILLOFACIAL SURGERY
+LA English
+DT Article
+ID MELLITUS
+AB Actinomycosis is a relatively rare infection caused by saprophytic bacteria of the oral cavity and gastrointestinal tract that can become pathogenic. The chronic hyperglycemia of diabetes mellitus induces events that promote structural changes in various tissues and are associated with problems in wound healing. This infection remains largely unknown to most clinicians because of its different presentations, and palatal involvement is extremely rare. This report describes the case of a 46-year-old woman who was diagnosed with actinomycosis involving the hard palate. The main clinical, histopathologic, and therapeutic characteristics and differential diagnosis of actinomycosis are reviewed. To date, 3 cases of actinomycosis involving the hard palate have been reported. (C) 2014 American Association of Oral and Maxillofacial Surgeons
+C1 [Dias Leite de Andrade, Ana Luiza; Novaes, Marcio Menezes; Germano, Adriano Rocha; Luz, Kleber Giovanni; Freitas, Roseana de Almeida; Galvao, Hebel Cavalcanti] Univ Fed Rio Grande do Norte, BR-59056 00 Natal, RN, Brazil.
+RP de Andrade, ALDL (corresponding author), Univ Fed Rio Grande do Norte, Dept Odontol, Av Senador Salgado Filho 1787, BR-59056 00 Natal, RN, Brazil.
+EM ana_luiza_dla@hotmail.com
+RI Andrade, Ana Luiza/K-5665-2019; GERMANO, ADRIANO ROCHA/ABF-1550-2020
+CR Ablanedo-Terrazas Y, 2012, CASE REP MED, DOI 10.1155/2012/679728
+   Bastos AD, 2011, DIABETES RES CLIN PR, V92, P100, DOI 10.1016/j.diabres.2011.01.011
+   Blakytny R, 2006, DIABETIC MED, V23, P594, DOI 10.1111/j.1464-5491.2006.01773.x
+   Brook I, 2008, SOUTH MED J, V101, P1019, DOI 10.1097/SMJ.0b013e3181864c1f
+   Carinci F, 2007, GERODONTOLOGY, V24, P121, DOI 10.1111/j.1741-2358.2007.00168.x
+   Carlson DL, 2009, ARCH PATHOL LAB MED, V133, P692, DOI 10.1043/1543-2165-133.5.692
+   De D, 2011, J AM ACAD DERMATOL, V65, P1235, DOI 10.1016/j.jaad.2009.02.043
+   Delamaire M, 1997, DIABETIC MED, V14, P29, DOI 10.1002/(SICI)1096-9136(199701)14:1<29::AID-DIA300>3.0.CO;2-V
+   Garcia NG, 2012, CASE REP PATHOL, DOI 10.1155/2012/679325
+   Gocmen G, 2011, ORAL SURG ORAL MED O, V112, pE121, DOI 10.1016/j.tripleo.2011.06.008
+   Herman WW, 1998, J ORAL MAXIL SURG, V56, P1098, DOI 10.1016/S0278-2391(98)90264-6
+   Hirsch Tobias, 2008, BMC Surg, V8, P5, DOI 10.1186/1471-2482-8-5
+   Iacopino A M, 1995, Oral Dis, V1, P214
+   Johnson N, 2005, WHO CLASSIFICATION T, P171
+   Lin HC, 2007, OPER TECH OTOLARYNGO, V18, P329
+   NIELSEN PM, 1987, INT J ORAL MAX SURG, V16, P440, DOI 10.1016/S0901-5027(87)80081-4
+   RUBIN MM, 1995, J ORAL MAXIL SURG, V53, P701, DOI 10.1016/0278-2391(95)90176-0
+   Samant S, 2009, BRIT J ORAL MAX SURG, V47, P417, DOI 10.1016/j.bjoms.2008.10.009
+   SAMUELS RHA, 1988, BRIT J ORAL MAX SURG, V26, P458, DOI 10.1016/0266-4356(88)90066-6
+   Sato T, 2012, ARCH ORAL BIOL, V57, P1522, DOI 10.1016/j.archoralbio.2012.07.012
+   Schubert S, 1995, IMMUN INFEKT, V23, P200
+   Smego RA, 1998, CLIN INFECT DIS, V26, P1255
+   WYSOCKI J, 1992, THYMUS, V20, P63
+NR 23
+TC 8
+Z9 9
+U1 0
+U2 0
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 0278-2391
+EI 1531-5053
+J9 J ORAL MAXIL SURG
+JI J. Oral Maxillofac. Surg.
+PD MAR
+PY 2014
+VL 72
+IS 3
+BP 537
+EP 541
+DI 10.1016/j.joms.2013.08.006
+PG 5
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA AA5OZ
+UT WOS:000331150800013
+PM 24528563
+OA Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Luz, KG
+   de Britto, MHMF
+   de Farias, DC
+   Almeida, MV
+   Figueiredo, NMD
+   Silva, PDNE
+AF Luz, Kleber Giovanni
+   Marques Fonseca de Britto, Maria Helena
+   de Farias, Domitila Costa
+   Almeida, Mayara Varaschim
+   de Sousa Figueiredo, Nastassja Morgana
+   Nacacio e Silva, Paula de Medeiros
+TI Mycobacterium fortuitum-related lymphadenitis associated with the
+   varicella-zoster virus
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Lymphadenitis; Non-tuberculous mycobacteria; Varicella-zoster virus;
+   Mycobacterium fortuitum
+ID IMMUNITY
+AB Lymphadenitis caused by non-tuberculous mycobacteria is an uncommon manifestation in immunocompetent individuals. Here, we report a case of Mycobacterium fortuitum infection in a previously healthy 9-year-old patient who developed cervical lymphadenitis evolving to a suppurative ulcer associated with a varicella-zoster virus infection. We discuss the relationship between the varicella-zoster virus and the immune response of the host as an explanation for the unusual progression of the case.
+C1 [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Dept Infectol, BR-59072970 Natal, RN, Brazil.
+   [Marques Fonseca de Britto, Maria Helena] Ctr Patol Clin, Natal, RN, Brazil.
+   [de Farias, Domitila Costa; Almeida, Mayara Varaschim; de Sousa Figueiredo, Nastassja Morgana; Nacacio e Silva, Paula de Medeiros] Univ Fed Rio Grande do Norte, Curso Med, BR-59072970 Natal, RN, Brazil.
+RP Luz, KG (corresponding author), Rua Des Tulio Bezerra de Melo 3631 Apt 1000, BR-5964580 Natal, RN, Brazil.
+EM klebergluz@gmail.com
+OI Silva, Paula/0000-0001-7717-4947
+CR BELSEY MA, 1967, AM J DIS CHILD, V113, P444, DOI 10.1001/archpedi.1967.02090190090007
+   Cassidy PM, 2009, CLIN INFECT DIS, V49, pE124, DOI 10.1086/648443
+   Falkinham JO, 2010, FUTURE MICROBIOL, V5, P951, DOI 10.2217/FMB.10.53
+   Guide SV, 2002, INFECT DIS CLIN N AM, V16, P163, DOI 10.1016/S0891-5520(03)00051-5
+   Idigoras P, 2000, EUR J CLIN MICROBIOL, V19, P350, DOI 10.1007/s100960050492
+   Ottenhoff THM, 2005, TUBERCULOSIS, V85, P53, DOI 10.1016/j.tube.2004.09.011
+   Sen N, 2011, PNAS, V109, P600
+   Stenger S, 1999, CURR OPIN MICROBIOL, V2, P89, DOI 10.1016/S1369-5274(99)80015-0
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD JAN-FEB
+PY 2014
+VL 47
+IS 1
+BP 119
+EP 121
+DI 10.1590/0037-8682-0166-2013
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AC1UE
+UT WOS:000332281200025
+PM 24603748
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU da Cunha, MA
+   Nery, AF
+   Lima, FP
+   Diniz, J
+   Neto, JM
+   Calado, NB
+   Luz, KG
+   Milan, EP
+AF da Cunha, Mirella Alves
+   Nery, Andreia Ferreira
+   Lima, Francisco Pignataro
+   Diniz Junior, Jose
+   Maciel Neto, Jose
+   Calado, Nicacia Barbosa
+   Luz, Kleber Giovanni
+   Milan, Eveline Pipolo
+TI Rhinocerebral zygomycosis in a diabetic patient
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Zygomicosis; Diabetes mellitus; Tuberculosis
+AB Rhinocerebral zygomycosis is the most frequent form of fungal infection caused by members of the Zygomycetes class. A fatal case of rhinocerebral zygomycosis caused by Rhizopus (oryzae) arrhizus with histopathological and mycological diagnosis is reported in a diabetic patient.
+C1 [da Cunha, Mirella Alves; Nery, Andreia Ferreira; Calado, Nicacia Barbosa; Luz, Kleber Giovanni; Milan, Eveline Pipolo] Univ Fed Rio Grande do Norte, Dept Infectol, Hosp Giselda Trigueiro, BR-59072970 Natal, RN, Brazil.
+   [Lima, Francisco Pignataro] Univ Fed Rio Grande do Norte, Dept Patol, BR-59072970 Natal, RN, Brazil.
+   [Diniz Junior, Jose] Univ Fed Rio Grande do Norte, Dept Med Integrada, BR-59072970 Natal, RN, Brazil.
+   [Maciel Neto, Jose] Univ Fed Rio Grande do Norte, Hosp Univ Onofre Lopes, BR-59072970 Natal, RN, Brazil.
+RP Milan, EP (corresponding author), Av Alm Alexandrino de Alencar 1384-500, BR-59015350 Natal, RN, Brazil.
+EM evepipolo@gmail.com
+CR Brown J, 2005, AM J HEALTH-SYST PH, V62, P2593, DOI 10.2146/ajhp050188
+   del Palacio Amalia, 1999, Revista Iberoamericana de Micologia, V16, P50
+   Islam MN, 2007, ORAL SURG ORAL MED O, V104, pE28, DOI 10.1016/j.tripleo.2007.06.014
+   Lanternier F, 2009, CLIN MICROBIOL INFEC, V15, P21, DOI 10.1111/j.1469-0691.2009.02975.x
+   Patel T, 2007, J MED CASE REPORTS, V17, P1
+   Ribes JA, 2000, CLIN MICROBIOL REV, V13, P236, DOI 10.1128/CMR.13.2.236-301.2000
+   Romano C, 2002, MYCOSES, V45, P45, DOI 10.1046/j.1439-0507.2002.00703.x
+   Sundaram C, 2005, MYCOSES, V48, P396, DOI 10.1111/j.1439-0507.2005.01167.x
+   Torres-Narbona M, 2007, REV ESP QUIM, V20, P375
+NR 9
+TC 5
+Z9 5
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD MAR-APR
+PY 2011
+VL 44
+IS 2
+BP 257
+EP 259
+DI 10.1590/S0037-86822011000200027
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 761JT
+UT WOS:000290394800027
+PM 21552748
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Luz, KG
+   Tuon, FF
+   Duarte, MIS
+   Maia, GM
+   Matos, P
+   Ramos, AMD
+   Nicodemo, AC
+AF Luz, Kleber Giovanni
+   Tuon, Felipe Francisco
+   Duarte, Maria Irma Seixas
+   Maia, Guilherme Mariz
+   Matos, Paulo
+   de Oliveira Ramos, Ana Maria
+   Nicodemo, Antonio Carlos
+TI Cytokine expression in the duodenal mucosa of patients with visceral
+   leishmaniasis
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Visceral leishmaniasis; Leishmaniasis; Leishmania
+ID INVOLVEMENT; INFECTION; COLITIS
+AB Introduction: Visceral leishmaniasis (VL) is a neglected tropical disease with a complex immune response in different organs. This pattern of organ-specific immune response has never been evaluated in the gastrointestinal tract. The aim of this study was to determine the in situ immune response in duodenal biopsies on patients with VL. Methods: A case-control study was conducted on 13 patients with VL in comparison with nine controls. The immune response was evaluated using immunohistochemistry, for CD4, CD8, CD68, IL-4, IFN-gamma, TNF-alpha and IL-10. Histological findings from the villi, crypts and inflammatory process were analyzed. Results: All the cases of VL presented Leishmania antigens. No antigen was detected in the control group. The villus size was greater in the VL patients (p < 0.05). CD68 (macrophages) and CD4 levels were higher in the VL patients (p < 0.05). No differences in the expression of CD8, TNF-alpha, IL-10 or IL-4 were demonstrated. The number of cells expressing IFN-gamma was lower in the VL patients (p < 0.05). Conclusions: Low levels of cytokines were found in the gastrointestinal tract of patients with VL. This pattern was not found in other organs affected by the disease. Immunotolerance of this tissue against Leishmania could explain these findings, as occurs with intestinal bacteria.
+C1 [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Dept Infect Dis, BR-59072970 Natal, RN, Brazil.
+   [Tuon, Felipe Francisco; Nicodemo, Antonio Carlos] Univ Sao Paulo, Sch Med, Dept Infect Dis, BR-05508 Sao Paulo, Brazil.
+   [Duarte, Maria Irma Seixas] Univ Sao Paulo, Sch Med, Dept Pathol, Lab Infect Dis Pathol, BR-05508 Sao Paulo, Brazil.
+   [Maia, Guilherme Mariz] Hosp Infantil Varela Santiago, Natal, RN, Brazil.
+   [Matos, Paulo] Med Lab Pathol Getulio Sales, Natal, RN, Brazil.
+   [de Oliveira Ramos, Ana Maria] Univ Fed Rio Grande do Norte, Hosp Pediat, BR-59072970 Natal, RN, Brazil.
+RP Luz, KG (corresponding author), R Desembargador Tulio Bezerra de Melo 3631-1000, BR-59065200 Natal, RN, Brazil.
+EM luz@ufrnet.br
+RI Tuon, Felipe/F-4034-2012
+OI Tuon, Felipe/0000-0003-3471-1786
+CR Adamama-Moraitou KK, 2007, AM J TROP MED HYG, V76, P53, DOI 10.4269/ajtmh.2007.76.53
+   Baba Chalamalasetty Sreenivasa, 2006, Indian J Gastroenterol, V25, P309
+   Barati M, 2008, ANN TROP MED PARASIT, V102, P635, DOI 10.1179/136485908X311858
+   DUARTE MIS, 1987, REV INST MED TROP SP, V29, P131, DOI 10.1590/S0036-46651987000300003
+   GONZALEZ JL, 1986, BRIT J EXP PATHOL, V67, P353
+   Guedes F, 2008, BRIT J DERMATOL, V159, P839, DOI 10.1111/j.1365-2133.2008.08755.x
+   Guerin PJ, 2002, LANCET INFECT DIS, V2, P494, DOI 10.1016/S1473-3099(02)00347-X
+   Iweala OI, 2006, IMMUNOL REV, V213, P82, DOI 10.1111/j.1600-065X.2006.00431.x
+   Moussallem TM, 2007, HUM PATHOL, V38, P1239, DOI 10.1016/j.humpath.2007.01.015
+   MUIGAI R, 1983, LANCET, V27, P476
+   Tuon FF, 2009, PARASITE IMMUNOL, V31, P98, DOI 10.1111/j.1365-3024.2008.01080.x
+   Xu DM, 2003, J IMMUNOL, V170, P394, DOI 10.4049/jimmunol.170.1.394
+NR 12
+TC 3
+Z9 3
+U1 0
+U2 3
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD JUL-AUG
+PY 2010
+VL 43
+IS 4
+BP 393
+EP 395
+DI 10.1590/S0037-86822010000400011
+PG 3
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 645BO
+UT WOS:000281426100011
+PM 20802937
+OA DOAJ Gold
+DA 2020-12-15
+ER
+
+PT J
+AU Souza, RM
+   de Oliveira, IBMD
+   Paiva, VCD
+   Lima, KC
+   dos Santos, RP
+   de Almeida, JB
+   Luz, KG
+AF Souza, Roberto Mascarenhas
+   Maia Delfino de Oliveira, Isaac Braullio
+   de Sousa Paiva, Vinicius Camara
+   Lima, Kenio Costa
+   dos Santos, Rivaldo Pereira
+   de Almeida, Jose Bruno
+   Luz, Kleber Giovanni
+TI Presence of antibodies against Leishmania chagasi in haemodialysed
+   patients
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE Visceral leishmaniasis; Leishmania chagasi; Haemodialysis; Kidney
+   transplant; Asymptomatic infection; IFAT
+ID VISCERAL LEISHMANIASIS
+AB In the last decades there has been an increase in cases of viscera[ leishmaniasis complicating the post-transplant phase, mainly following kidney transplantation. The aim of this study was to evaluate the reactivity of haemodialysed patients using IFAT. Blood samples of 310 individuals from Natal, RN, Brazil, were collected and analysed. Data regarding blood transfusion, cause of end-stage renal disease and duration of haemodialysis were also analysed. In total, 69 patients (22.3%) were positive by IFAT. This study suggests that antibody detection should be performed in this group of patients since they are possible candidates for kidney transplantation. (C) 2009 Royal Society of Tropical Medicine and Hygiene. Published by Elsevier Ltd. All rights reserved.
+C1 [Souza, Roberto Mascarenhas; Maia Delfino de Oliveira, Isaac Braullio; de Sousa Paiva, Vinicius Camara; Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Dept Infect Dis, Natal, RN, Brazil.
+   [Lima, Kenio Costa] Univ Fed Rio Grande do Norte, Postgrad Program Hlth Sci & Dent, Natal, RN, Brazil.
+   [dos Santos, Rivaldo Pereira; de Almeida, Jose Bruno] Univ Fed Rio Grande do Norte, Hlth Sci Ctr, Natal, RN, Brazil.
+RP Luz, KG (corresponding author), Hosp Giselda Trigueiro, Dept Infectol, Rua Conego Monte SN, BR-59064500 Natal, RN, Brazil.
+EM klebergluz@gmail.com
+OI Lima, Kenio Costa/0000-0002-5668-4398
+CR Basset D, 2005, MICROBES INFECT, V7, P1370, DOI 10.1016/j.micinf.2005.06.002
+   Elshafie AI, 2006, AM J TROP MED HYG, V75, P864, DOI 10.4269/ajtmh.2006.75.864
+   Luz KG, 1997, AM J TROP MED HYG, V57, P168, DOI 10.4269/ajtmh.1997.57.168
+   Pesanti EL, 2001, INFECT DIS CLIN N AM, V15, P813, DOI 10.1016/S0891-5520(05)70174-4
+   Pisoni RL, 2004, AM J KIDNEY DIS, V44, P94, DOI 10.1053/j.ajkd.2004.03.023
+NR 5
+TC 7
+Z9 7
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0035-9203
+EI 1878-3503
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD JUL
+PY 2009
+VL 103
+IS 7
+BP 749
+EP 751
+DI 10.1016/j.trstmh.2009.01.003
+PG 3
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 465TQ
+UT WOS:000267610900020
+PM 19237180
+OA Green Published
+DA 2020-12-15
+ER
+
+PT J
+AU Borj-Cabrera, GP
+   Pontes, NNC
+   da Silva, VO
+   de Souza, EP
+   Santos, WR
+   Gomes, EM
+   Luz, KG
+   Palatnik, M
+   de Sousa, CBP
+AF Borj-Cabrera, GP
+   Pontes, NNC
+   da Silva, VO
+   de Souza, EP
+   Santos, WR
+   Gomes, EM
+   Luz, KG
+   Palatnik, M
+   de Sousa, CBP
+TI Long lasting protection against canine kala-azar using the FML-QuilA
+   saponin vaccine in an endemic area of Brazil (Sao Goncalo do Amarante,
+   RN)
+SO VACCINE
+LA English
+DT Article
+DE canine visceral leishmaniasis; phase III trial; zoonoses; kala-azar;
+   Leishmania donovani
+ID FUCOSE-MANNOSE LIGAND; HUMAN VISCERAL LEISHMANIASIS; IMMUNE-RESPONSES;
+   DONOVANI; INFECTION; DISEASE; ANTIBODIES; PROGNOSIS; DIAGNOSIS; ANTIGENS
+AB Naturally exposed dogs of an endemic area were vaccinated with the fucose mannose ligand (FML) antigen of Leishmania donovani in formulation with QuilA saponin. The 100% of vaccinees were seropositive to FML and showed intradermal reaction to L. donovani lysate, 2 months after vaccination. The absorbency values and size of intradermal reaction were both significantly higher in vaccinees than in controls along a 3.5 years period (ANOVA, P < 0.0001). The 25% of the control animals (two dogs on the first year and six dogs on the fourth year, respectively) and 5% of the vaccinees (one dog during the fourth year) developed clinical and fatal disease until the end of experiment. This difference was significant (chi(2) = 3.93, P < 0.05). This means that 95% protection against kala-azar was achieved in vaccinees, after FML-QuilA vaccination (80% of vaccine efficacy (VE)). Leishmania infection was also confirmed, 3.5 years after vaccination, in saline controls that showed positive polymerase chain reaction (PCR) for Leishmania DNA and FML-serology with no intradermal reaction. Higher seropositivities and intradermal reactions with no Leishmanial DNA were detected in vaccinees. The FML-QuilA vaccine induced a significant, long lasting and strong protective effect against canine kala-azar in the field. (C) 2002 Elsevier Science Ltd. All rights reserved.
+C1 Univ Fed Rio de Janeiro, CCS, Inst Microbiol Prof Paulo De Goes, BR-21941590 Rio De Janeiro, RJ, Brazil.
+   Univ Fed Rio Grande do Norte, Fac Med, BR-59072970 Natal, RN, Brazil.
+   Univ Fed Rio de Janeiro, Hosp Clementino Fraga Filho, Fac Med, BR-21941590 Rio De Janeiro, RJ, Brazil.
+RP de Sousa, CBP (corresponding author), Univ Fed Rio de Janeiro, CCS, Inst Microbiol Prof Paulo De Goes, Cidade Univ,Ilha Fundao,Caixa Postal 68040, BR-21941590 Rio De Janeiro, RJ, Brazil.
+EM immgcpa@micro.ufrj.br
+OI Borja-Cabrera, Gulnara Patricia/0000-0002-6996-6896; Palatnik-de-Sousa,
+   Clarisa B./0000-0002-6231-0608
+CR ANTUNES CM, 1986, INT J EPIDEMIOL, V15, P572, DOI 10.1093/ije/15.4.572
+   Ashford DA, 1998, AM J TROP MED HYG, V59, P53, DOI 10.4269/ajtmh.1998.59.53
+   BOMFORD R, 1992, AIDS RES HUM RETROV, V8, P1765, DOI 10.1089/aid.1992.8.1765
+   Cabrera GPB, 1999, AM J TROP MED HYG, V61, P296, DOI 10.4269/ajtmh.1999.61.296
+   CABRERA GPB, 2000, THESIS FEDERAL FLUMI
+   Cardoso L, 1998, VET PARASITOL, V79, P213, DOI 10.1016/S0304-4017(98)00169-1
+   CHANG YF, 1995, INFECT IMMUN, V63, P3543, DOI 10.1128/IAI.63.9.3543-3549.1995
+   Cox SJ, 1999, VACCINE, V17, P1858, DOI 10.1016/S0264-410X(98)00486-1
+   da Silva VO, 2000, VACCINE, V19, P1082, DOI 10.1016/S0264-410X(00)00339-X
+   De Luca PM, 2001, ACTA TROP, V80, P251, DOI 10.1016/S0001-706X(01)00181-4
+   DEPLAZES P, 1995, PARASITE IMMUNOL, V17, P451, DOI 10.1111/j.1365-3024.1995.tb00914.x
+   DESOUSA CBP, 1994, CIENCIA CULTURA, V46, P290
+   DUNAN S, 1989, PARASITE IMMUNOL, V11, P397, DOI 10.1111/j.1365-3024.1989.tb00676.x
+   Dye C, 1996, AM J TROP MED HYG, V55, P125, DOI 10.4269/ajtmh.1996.55.125
+   FLIES JL, 1973, STAT METHODS RATES P, P190
+   GENARO O, 1992, MEM I OSWALDO CRUZ, V87, P163, DOI 10.1590/S0074-02761992000100025
+   GENARO O, 1996, MEM I O CRUZ MEMIOC, V91, P166
+   Guarga JL, 2000, RES VET SCI, V69, P249, DOI 10.1053/rvsc.2000.0419
+   Khalil EAG, 2000, LANCET, V356, P1565, DOI 10.1016/S0140-6736(00)03128-7
+   Lasri S, 1999, VET RES, V30, P441
+   Mayrink W, 1996, MEM I OSWALDO CRUZ, V91, P695, DOI 10.1590/S0074-02761996000600006
+   MENDES AC, 2001, P 5 M APPL RES LEISH, P80
+   Nieto CG, 1999, VET IMMUNOL IMMUNOP, V67, P117, DOI 10.1016/S0165-2427(98)00213-X
+   PALATNIK CB, 1989, INFECT IMMUN, V57, P754, DOI 10.1128/IAI.57.3.754-763.1989
+   Palatnik-de-Sousa CB, 2001, AM J TROP MED HYG, V65, P510, DOI 10.4269/ajtmh.2001.65.510
+   PALATNIKDESOUSA CB, 1995, T ROY SOC TROP MED H, V89, P390, DOI 10.1016/0035-9203(95)90022-5
+   PALATNIKDESOUSA CB, 1993, ACTA TROP, V53, P59, DOI 10.1016/0001-706X(93)90006-W
+   PALATNIKDESOUSA CB, 1994, BRAZ J MED BIOL RES, V27, P547
+   ParanhosSilva M, 1996, AM J TROP MED HYG, V55, P39, DOI 10.4269/ajtmh.1996.55.39
+   PINELLI E, 1994, INFECT IMMUN, V62, P229, DOI 10.1128/IAI.62.1.229-235.1994
+   RIKIHISA Y, 1991, VET MICROBIOL, V27, P339, DOI 10.1016/0378-1135(91)90159-D
+   Santos WR, 1999, VACCINE, V17, P2554, DOI 10.1016/S0264-410X(99)00058-4
+   SCHETTERS TPM, 1992, PARASITE IMMUNOL, V14, P295, DOI 10.1111/j.1365-3024.1992.tb00469.x
+   Sjolander S, 1996, VACCINE, V14, P344, DOI 10.1016/0264-410X(95)00163-U
+   Solano-Gallego L, 2000, VET PARASITOL, V90, P37, DOI 10.1016/S0304-4017(00)00223-5
+   TESH RB, 1995, AM J TROP MED HYG, V52, P287, DOI 10.4269/ajtmh.1995.52.287
+   *WHO, 1997, WHOTDRMALVAC97, P24
+NR 37
+TC 145
+Z9 148
+U1 0
+U2 11
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-410X
+EI 1873-2518
+J9 VACCINE
+JI Vaccine
+PD SEP 10
+PY 2002
+VL 20
+IS 27-28
+BP 3277
+EP 3284
+AR PII S0264-410X(02)00294-3
+DI 10.1016/S0264-410X(02)00294-3
+PG 8
+WC Immunology; Medicine, Research & Experimental
+SC Immunology; Research & Experimental Medicine
+GA 602CB
+UT WOS:000178486700007
+PM 12213397
+DA 2020-12-15
+ER
+
+PT J
+AU Ramos, AMO
+   Gayotto, LCC
+   Clemente, CM
+   Mello, ES
+   Luz, KG
+   Freitas, ML
+AF Ramos, AMO
+   Gayotto, LCC
+   Clemente, CM
+   Mello, ES
+   Luz, KG
+   Freitas, ML
+TI Reversible vanishing bile duct syndrome induced by carbamazepine
+SO EUROPEAN JOURNAL OF GASTROENTEROLOGY & HEPATOLOGY
+LA English
+DT Article
+DE hepatotoxic drugs; carbamazepine; vanishing bile duct syndrome;
+   ductopenia
+ID HEPATITIS
+AB Carbamazepine, a widely used anticonvulsant, can induce hepatotoxicity, usually evolving with an acute hepatitis that ceases after drug withdrawal. Carbamazepine-induced vanishing bile duct syndrome (VBDS) is a rare complication and has seldom been reported in the medical literature. This report presents a case of a 26-year-old male who had onset of epilepsy at 12 months of age and was initially treated with phenobarbital. Carbamazepine (11200 mg/day) was added in June 1996 when he was 22 years old to control the frequency of seizures. Two years later, during a routine investigation, elevation of serum gamma-glutamyltransferase (GGT) levels was detected. For this reason, the patient was weaned off carbamazepine, followed 6 months later by complete withdrawal of the drug. The first liver biopsy disclosed total absence of interlobular bile ducts (IBD) in 30 portal tracts. Fourteen months later, a control biopsy showed the presence of IBD in eight of 14 portal tracts. There was also a decrease of GGT levels detected 27 months after withdrawal of carbamazepine. This case illustrates the ductopenic effect of carbamazepine when used for a prolonged time, as reported in three previous publications. However, this is the first case in which there was a remission of the VBDS and bile duct regeneration after withdrawal of the drug. (C) 2002 Lippincott Williams Wilkins.
+C1 Lab Med Patol Getulio Oliveira Sales, Natal, RN, Brazil.
+   Univ Sao Paulo, Hosp Clin, Div Anat Patol, Sao Paulo, Brazil.
+   Univ Fed Rio Grande Norte, Dept Doencas Infecciosas & Trop, BR-59072970 Natal, RN, Brazil.
+RP Ramos, AMO (corresponding author), Rua Alameda Margaridas 1255,Apto 400, BR-59020580 Natal, RN, Brazil.
+CR DEGGOT C, 1992, HEPATOLOGY, V15, P244
+   Desmet V. J., 1997, Journal of Hepatology, V26, P31, DOI 10.1016/S0168-8278(97)82330-6
+   DINCSOY HP, 1982, GASTROENTEROLOGY, V83, P694
+   FORBES GM, 1992, GASTROENTEROLOGY, V102, P1385
+   GALOSCY C, 1994, J CLIN GASTROENTEROL, V19, P269
+   LEVY M, 1981, ANN INTERN MED, V95, P64, DOI 10.7326/0003-4819-95-1-64
+   LUDWIG J, 1988, J HEPATOL, V7, P193, DOI 10.1016/S0168-8278(88)80482-3
+   MANUVEL JC, 1987, GASTROENTEROLOGY, V93, P245
+   OZDEMIR S, 2001, TURK J GASTROENTEROL, V12, P233
+   PELLOCK JM, 1987, EPILEPSIA S3, V28, P64
+   SHERLOCK S, 1987, LANCET, V2, P493
+   SOFFER EE, 1983, SOUTHERN MED J, V76, P681, DOI 10.1097/00007611-198305000-00043
+   TURNER IB, 1989, MED J AUSTRALIA, V151, P701, DOI 10.5694/j.1326-5377.1989.tb139652.x
+   WILLIAMS SJ, 1986, J GASTROEN HEPATOL, V1, P159, DOI 10.1111/j.1440-1746.1986.tb00110.x
+   1989, LANCET, V2, P595
+NR 15
+TC 18
+Z9 19
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0954-691X
+J9 EUR J GASTROEN HEPAT
+JI Eur. J. Gastroenterol. Hepatol.
+PD SEP
+PY 2002
+VL 14
+IS 9
+BP 1019
+EP 1022
+DI 10.1097/00042737-200209000-00014
+PG 4
+WC Gastroenterology & Hepatology
+SC Gastroenterology & Hepatology
+GA 594JK
+UT WOS:000178046200014
+PM 12352223
+DA 2020-12-15
+ER
+
+PT J
+AU da Silva, VO
+   Borja-Cabrera, GP
+   Pontes, NNC
+   de Souza, EP
+   Luz, KG
+   Palatnik, M
+   de Sousa, CBP
+AF da Silva, VO
+   Borja-Cabrera, GP
+   Pontes, NNC
+   de Souza, EP
+   Luz, KG
+   Palatnik, M
+   de Sousa, CBP
+TI A phase III trial of efficacy of the FML-vaccine against canine
+   kala-azar in an endemic area of Brazil (Sao Goncalo do Amaranto, RN)
+SO VACCINE
+LA English
+DT Article
+DE canine visceral leishmaniasis; zoonoses; kala-azar; Leishmania donovani
+ID FUCOSE-MANNOSE LIGAND; EXPERIMENTAL VISCERAL LEISHMANIASIS; PROMASTIGOTE
+   INTERNALIZATION; DONOVANI; ANTIGEN; COMPONENT; INFANTUM; PROTEIN; MICE;
+   DNA
+AB Protection against canine kala-azar was investigated in naturally exposed dogs of an endemic area, vaccinated with the fucose mannose ligand (FML)-vaccine of Leishmania donovani. A total of 97% of vaccinees were seropositive to FML and 100% showed intradermal reaction to L. donovani lysate, 7 months after vaccination. The absorbency values and size of intradermal reaction were both significantly higher in vaccinees than in controls (ANOVA, P < 0.0001). After 2 years, 92% (<chi>(2) = 6.996; P < 0.0025) protection was achieved: only 8% of vaccinees showed mild signs of kala-azar with no deaths while 33% of controls developed clinical or fatal disease. The FML-vaccine induced a significant, long-lasting and strong protective effect against canine kala-azar in the field. (C) 2000 Elsevier Science Ltd. All rights reserved.
+C1 Univ Fed Rio de Janeiro, CCS, Inst Microbiol, Ilha Fundao, BR-21941590 Rio De Janeiro, Brazil.
+   Univ Fed Rio Grande do Norte, Fac Med, BR-59072970 Natal, RN, Brazil.
+   Hosp Univ Clementino Fraga Filho, Fac Med, Rio De Janeiro, Brazil.
+RP de Sousa, CBP (corresponding author), Univ Fed Rio de Janeiro, CCS, Inst Microbiol, Ilha Fundao, Cidade Univ,CP 68040, BR-21941590 Rio De Janeiro, Brazil.
+EM immgcpa@microbio.ufrj.br
+OI Palatnik-de-Sousa, Clarisa B./0000-0002-6231-0608; Borja-Cabrera,
+   Gulnara Patricia/0000-0002-6996-6896
+CR ABRANCHES P, 1991, PARASITE IMMUNOL, V13, P537, DOI 10.1111/j.1365-3024.1991.tb00550.x
+   ABRANCHES P, 1991, J PARASITOL, V77, P557, DOI 10.2307/3283159
+   ALVAR J, 1994, ANN TROP MED PARASIT, V88, P371, DOI 10.1080/00034983.1994.11812879
+   ANTUNES CM, 1986, INT J EPIDEMIOL, V15, P572, DOI 10.1093/ije/15.4.572
+   BINHAZIM AA, 1993, AM J VET RES, V54, P113
+   BORJACABRERA GP, 1998, 25 ANN M BAS RES CHA, V93, P288
+   Cabrera GPB, 1999, AM J TROP MED HYG, V61, P296, DOI 10.4269/ajtmh.1999.61.296
+   COSTA RT, 1996, MEM I OSW CRUZ MEMIO, V91, P154
+   DUNAN S, 1989, PARASITE IMMUNOL, V11, P397, DOI 10.1111/j.1365-3024.1989.tb00676.x
+   EVANS TG, 1990, AM J TROP MED HYG, V42, P118, DOI 10.4269/ajtmh.1990.42.118
+   FLIES JL, 1973, STAT METHODS RATES P, P190
+   GENARO O, 1992, MEM I OSWALDO CRUZ, V87, P163, DOI 10.1590/S0074-02761992000100025
+   Gomes E. M., 1994, J BRAZ ASS ADV SCI, V46, P290
+   Gurunathan S, 1997, J EXP MED, V186, P1137, DOI 10.1084/jem.186.7.1137
+   Handman E, 1997, PARASITOL TODAY, V13, P236, DOI 10.1016/S0169-4758(97)01060-0
+   JAFFE CL, 1990, J IMMUNOL, V144, P699
+   JARDIM A, 1991, J IMMUNOL, V147, P3538
+   MOLINA R, 1994, T ROY SOC TROP MED H, V88, P491, DOI 10.1016/0035-9203(94)90446-4
+   NASCIMENTO MDSB, 1993, T ROY SOC TROP MED H, V87, P91, DOI 10.1016/0035-9203(93)90439-W
+   OLIVEIRA GGS, 1993, MEM I OSWALDO CRUZ, V88, P243, DOI 10.1590/S0074-02761993000200011
+   ORENSTEIN WA, 1985, B WORLD HEALTH ORGAN, V63, P1055
+   Otero ACS, 2000, AM J TROP MED HYG, V62, P128, DOI 10.4269/ajtmh.2000.62.128
+   PALATNIK CB, 1990, PARASITOL RES, V76, P289, DOI 10.1007/BF00928181
+   PALATNIK CB, 1989, INFECT IMMUN, V57, P754, DOI 10.1128/IAI.57.3.754-763.1989
+   Palatnik-de-Sousa Clarisa B., 1996, Revista da Sociedade Brasileira de Medicina Tropical, V29, P153
+   PALATNIKDESOUSA CB, 1995, T ROY SOC TROP MED H, V89, P390, DOI 10.1016/0035-9203(95)90022-5
+   PALATNIKDESOUSA CB, 1993, ACTA TROP, V53, P59, DOI 10.1016/0001-706X(93)90006-W
+   PALATNIKDESOUSA CB, 1994, BRAZ J MED BIOL RES, V27, P547
+   ParanhosSilva M, 1996, AM J TROP MED HYG, V55, P39, DOI 10.4269/ajtmh.1996.55.39
+   PINELLI E, 1994, INFECT IMMUN, V62, P229, DOI 10.1128/IAI.62.1.229-235.1994
+   Santos WR, 1997, VACCINE, V15, P1024, DOI 10.1016/S0264-410X(96)00292-7
+   Santos WR, 1999, VACCINE, V17, P2554, DOI 10.1016/S0264-410X(99)00058-4
+   Skeiky YAW, 1998, J IMMUNOL, V161, P6171
+   TESH RB, 1995, AM J TROP MED HYG, V52, P287, DOI 10.4269/ajtmh.1995.52.287
+   *WORLD HLTH ORG, 1997, TROP DIS RES PROGR 1, P1
+NR 35
+TC 93
+Z9 96
+U1 0
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-410X
+EI 1873-2518
+J9 VACCINE
+JI Vaccine
+PD DEC 8
+PY 2000
+VL 19
+IS 9-10
+BP 1082
+EP 1092
+DI 10.1016/S0264-410X(00)00339-X
+PG 11
+WC Immunology; Medicine, Research & Experimental
+SC Immunology; Research & Experimental Medicine
+GA 383QW
+UT WOS:000165894700014
+PM 11137242
+DA 2020-12-15
+ER
+
+PT J
+AU Otero, ACS
+   da Silva, VO
+   Luz, KG
+   Palatnik, M
+   Pirmez, C
+   Fernandes, O
+   de Sousa, CBP
+AF Otero, ACS
+   da Silva, VO
+   Luz, KG
+   Palatnik, M
+   Pirmez, C
+   Fernandes, O
+   de Sousa, CBP
+TI Short report: Occurrence of Leishmania donovani DNA in donated blood
+   from seroreactive Brazilian blood donors
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID FUCOSE-MANNOSE LIGAND; VISCERAL LEISHMANIASIS; PROMASTIGOTE
+   INTERNALIZATION; GLYCOCONJUGATE LIGANDS; MURINE MACROPHAGES; KALA-AZAR
+AB Human visceral leishmaniasis (kala-azar) transmitted by blood transfusion has been described in previous reports. Seroprevalence of antibodies to Leishmania donovani was shown to be related to prior blood transfusions in multiply transfused hemodialysis patients in Natal. Rio Grande do Norte, Brazil. In this study, a possible correlation between seroreactivity and the presence of L. donovani DNA was investigated in asymptomatic healthy blood donors. Sera were tested using the fucose mannose ligand (FML) ELISA, which was shown to have ii sensitivity of 100%, a specificity of 96-100%. reliability, and diagnostic and prognostic potential for the detection of human and canine kala-azar. respectively. Leishmanial DNA was assessed by the polymerase chain reaction (PCR) and dot-blot hybridization techniques in blood and bone: marrow samples. Among 21 FML-seroreactive asymptomatic blood donors, 5 (24%) were positive by the PCR and 9 (4.3%) were positive in it dot-blot assay of blood samples. showing a significant correlation (chi(2) = 14.24, P < 0.01). No Leishmania DNA was detected in 20 FMF non-reactive blood donors. Our results point to the need for control of transmission of kala-azar by blood transfusion in nl ens endemic for this disease.
+C1 UFRJ, CCS, Inst Microbiol Professor Paulo de Goes, Dept Microbiol Geral, BR-21941590 Rio De Janeiro, Brazil.
+   Univ Fed Rio Grande Norte, Fac Med, BR-59037170 Natal, RN, Brazil.
+   UFRJ, Fac Med, Univ Hosp, BR-21941590 Rio De Janeiro, Brazil.
+   Fdn Oswaldo Cruz, Dept Bioquim & Biol Mol, BR-21045900 Rio De Janeiro, Brazil.
+   Univ Estadual Rio de Janeiro, Dept Parasitol, BR-20550013 Rio De Janeiro, Brazil.
+RP de Sousa, CBP (corresponding author), UFRJ, CCS, Inst Microbiol Professor Paulo de Goes, Dept Microbiol Geral, Caixa Postal 68040,Cidade Univ,Ilha Fundao, BR-21941590 Rio De Janeiro, Brazil.
+RI Pirmez, Claude/AAF-9977-2019; Pirmez, Claude/K-8579-2012
+OI Pirmez, Claude/0000-0002-7443-0455; Pirmez, Claude/0000-0002-7443-0455;
+   Palatnik-de-Sousa, Clarisa B./0000-0002-6231-0608
+CR ANDRE R, 1958, TROP DIS B, V55, P379
+   ASHFORD DA, 1995, AM J TROP MED HYG, V53, P251, DOI 10.4269/ajtmh.1995.53.251
+   COHEN C, 1991, LANCET, V338, P128, DOI 10.1016/0140-6736(91)90129-D
+   CUMMINS D, 1995, ARCH DIS CHILD, V72, P235, DOI 10.1136/adc.72.3.235
+   ELTOUM IA, 1992, AM J TROP MED HYG, V46, P57, DOI 10.4269/ajtmh.1992.46.57
+   FEINBERG AP, 1983, ANAL BIOCHEM, V132, P6, DOI 10.1016/0003-2697(83)90418-9
+   Johnson D. A., 1984, Gene Analysis Techniques, V1, P3, DOI 10.1016/0735-0651(84)90049-9
+   LOPES UG, 1986, MOL BIOCHEM PARASIT, V20, P77, DOI 10.1016/0166-6851(86)90144-1
+   Luz KG, 1997, AM J TROP MED HYG, V57, P168, DOI 10.4269/ajtmh.1997.57.168
+   MAUNY I, 1993, PEDIATRIE, V48, P237
+   PALATNIK CB, 1990, PARASITOL RES, V76, P289, DOI 10.1007/BF00928181
+   PALATNIK CB, 1989, INFECT IMMUN, V57, P754, DOI 10.1128/IAI.57.3.754-763.1989
+   PALATNIKDESOUSA CB, 1995, T ROY SOC TROP MED H, V89, P390, DOI 10.1016/0035-9203(95)90022-5
+   PALATNIKDESOUSA CB, 1993, ACTA TROP, V53, P59, DOI 10.1016/0001-706X(93)90006-W
+   Pirmez C, 1999, J CLIN MICROBIOL, V37, P1819, DOI 10.1128/JCM.37.6.1819-1823.1999
+   SCHULMAN IA, 1994, ARCH PATHOL LAB MED, V118, P366
+   Singh S, 1996, TRANSFUSION, V36, P848, DOI 10.1046/j.1537-2995.1996.36996420769.x
+   YOUDEN WJ, 1950, CANCER, V3, P32, DOI 10.1002/1097-0142(1950)3:1<32::AID-CNCR2820030106>3.0.CO;2-3
+NR 18
+TC 50
+Z9 54
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DRIVE SUITE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD JAN
+PY 2000
+VL 62
+IS 1
+BP 128
+EP 131
+DI 10.4269/ajtmh.2000.62.128
+PG 4
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 298NF
+UT WOS:000086145500024
+PM 10761737
+OA Bronze
+DA 2020-12-15
+ER
+
+PT J
+AU Luz, KG
+   DaSilva, VO
+   Gomes, EM
+   Machado, FCS
+   Araujo, MAF
+   Fonseca, HEM
+   Freire, TC
+   DAlmeida, JB
+   Palatnik, M
+   PalatnikdeSousa, CB
+AF Luz, KG
+   DaSilva, VO
+   Gomes, EM
+   Machado, FCS
+   Araujo, MAF
+   Fonseca, HEM
+   Freire, TC
+   DAlmeida, JB
+   Palatnik, M
+   PalatnikdeSousa, CB
+TI Prevalence of anti-Leishmania donovani antibody among Brazilian blood
+   donors and multiply transfused hemodialysis patients
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID FUCOSE-MANNOSE LIGAND; VISCERAL LEISHMANIASIS; PROMASTIGOTE
+   INTERNALIZATION; GLYCOCONJUGATE LIGANDS; MURINE MACROPHAGES
+AB The prevalence of anti-leishmania donovani antibodies was investigated in 1,500 Brazilian blood donors and multiply transfused hemodialysis patients. Sera were tested using the fucose-mannose ligand (FML) ELISA, which was shown to have 100% sensitivity and 96% specificity for kala-azar. Among 1,194 volunteer blood donors, seroreactivity was 9%, increasing to 25% in a periurban kala-azar focus. However, higher positivity (37%) was found in multiply transfused hemodialysis patients from Natal, where kala-azar is constantly present in low numbers (endemic), with sporadic outbreaks in localized regions (endemic and epidemic). Risk factors included blood transfusion, which was significantly associated with the presence of anti-leishmania antibodies (chi(2) = 8.567, P < 0.005), but did not include potential exposure to sandfly bites (chi(2) = 0.033, P > 0.1). The prevalence significantly decreased to 7% in hemodialysis patients from Rio de Janeiro, where kala-azar is only occasionally seen, and was 0% in patients undergoing continuous ambulatorial peritoneal dialysis. The prospective analysis of 27 FML-seroreactive donors from Natal revealed amastigotes of Leishmania in the bone marrow of one subject while four had clinical complaints, including splenomegaly and hepatosplenomegaly. Our results point to the need for control of blood transfusion as a possible route for transmission of kala-azar in endemic areas.
+C1 FED UNIV RIO DE JANEIRO,INST MICROBIOL,BR-21944590 RIO JANEIRO,BRAZIL.
+   FED UNIV RIO DE JANEIRO,UNIV HOSP,SCH MED,RIO JANEIRO,BRAZIL.
+   HEMOVIDA BLOOD BANK,BR-59000000 NATAL,RN,BRAZIL.
+   HEMONORTE BLOOD BANK,BR-59000000 NATAL,RN,BRAZIL.
+   FED UNIV RIO DE JANEIRO,SCH MED,RIO JANEIRO,BRAZIL.
+OI Palatnik-de-Sousa, Clarisa B./0000-0002-6231-0608
+CR ANDRE R, 1958, TROP DIS B, V55, P379
+   AYOOLA EA, 1991, J MED VIROL, V35, P155, DOI 10.1002/jmv.1890350303
+   BADARO R, 1986, J INFECT DIS, V154, P1003, DOI 10.1093/infdis/154.6.1003
+   COHEN C, 1991, LANCET, V338, P128, DOI 10.1016/0140-6736(91)90129-D
+   CUMMINS D, 1995, ARCH DIS CHILD, V72, P235, DOI 10.1136/adc.72.3.235
+   GROGL M, 1993, AM J TROP MED HYG, V49, P308, DOI 10.4269/ajtmh.1993.49.308
+   MAUNY I, 1993, PEDIATRIE, V48, P237
+   Modabber F, 1993, TROPICAL DIS RES PRO, P77
+   PALATNIK CB, 1990, PARASITOL RES, V76, P289, DOI 10.1007/BF00928181
+   PALATNIK CB, 1989, INFECT IMMUN, V57, P754, DOI 10.1128/IAI.57.3.754-763.1989
+   Palatnik-de-Sousa Clarisa B., 1996, Revista da Sociedade Brasileira de Medicina Tropical, V29, P153
+   PALATNIKDESOUSA CB, 1995, T ROY SOC TROP MED H, V89, P390, DOI 10.1016/0035-9203(95)90022-5
+   PALATNIKDESOUSA CB, 1993, ACTA TROP, V53, P59, DOI 10.1016/0001-706X(93)90006-W
+   PalatnikdeSousa CB, 1996, BRAZ J MED BIOL RES, V29, P1311
+   PAMPIGLIONE S, 1974, T ROY SOC TROP MED H, V68, P447, DOI 10.1016/0035-9203(74)90067-4
+   SCHULMAN IA, 1994, ARCH PATHOL LAB MED, V118, P366
+NR 16
+TC 51
+Z9 54
+U1 0
+U2 1
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DRIVE SUITE 130, MCLEAN, VA 22101
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD AUG
+PY 1997
+VL 57
+IS 2
+BP 168
+EP 171
+DI 10.4269/ajtmh.1997.57.168
+PG 4
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA XT635
+UT WOS:A1997XT63500010
+PM 9288810
+DA 2020-12-15
+ER
+
+PT J
+AU daSilva, VO
+   Gomes, EM
+   Machado, FCS
+   Otero, ACS
+   Luz, KG
+   Pirmez, C
+   Fernandes, O
+   deSousa, CBP
+AF daSilva, VO
+   Gomes, EM
+   Machado, FCS
+   Otero, ACS
+   Luz, KG
+   Pirmez, C
+   Fernandes, O
+   deSousa, CBP
+TI Transmission of Kala-azar transmission by blood transfusion in endemic
+   areas.
+SO TRANSFUSION
+LA English
+DT Meeting Abstract
+C1 UNIV FED RIO GRANDE NORTE,BR-59072970 NATAL,RN,BRAZIL.
+   FED UNIV RIO DE JANEIRO,BR-21941 RIO JANEIRO,BRAZIL.
+   UNIV EST RIO DE JANEIRO,RIO JANEIRO,BRAZIL.
+RI Pirmez, Claude/K-8579-2012; Pirmez, Claude/AAF-9977-2019
+OI Pirmez, Claude/0000-0002-7443-0455; Pirmez, Claude/0000-0002-7443-0455
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC BLOOD BANKS
+PI BETHESDA
+PA 8101 GLENBROOK RD, BETHESDA, MD 20814-2749
+SN 0041-1132
+J9 TRANSFUSION
+JI Transfusion
+PD SEP
+PY 1996
+VL 36
+IS 9
+SU S
+BP S132
+EP S132
+PG 1
+WC Hematology
+SC Hematology
+GA VK089
+UT WOS:A1996VK08900132
+DA 2020-12-15
+ER
+
+PT J
+AU PALATNIKDESOUSA, CB
+   GOMES, EM
+   PARAGUAIDESOUZA, E
+   PALATNIK, M
+   LUZ, K
+   BOROJEVIC, R
+AF PALATNIKDESOUSA, CB
+   GOMES, EM
+   PARAGUAIDESOUZA, E
+   PALATNIK, M
+   LUZ, K
+   BOROJEVIC, R
+TI LEISHMANIA-DONOVANI - TITRATION OF ANTIBODIES TO THE FUCOSE-MANNOSE
+   LIGAND AS AN AID IN DIAGNOSIS AND PROGNOSIS OF VISCERAL LEISHMANIASIS
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE LEISHMANIASIS; LEISHMANIA DONOVANI; FUCOSE-MANNOSE LIGAND; DIAGNOSIS;
+   PROGNOSIS
+ID LINKED-IMMUNOSORBENT-ASSAY; DIRECT AGGLUTINATION-TEST; PROMASTIGOTE
+   INTERNALIZATION; GLYCOCONJUGATE LIGANDS; MURINE MACROPHAGES;
+   IDENTIFICATION; SPECIFICITY; PROTEINS; ANTIGEN; AFRICAN
+AB The fucose-mannose ligand (FML) is a complex glycoprotein fraction present on promastigotes and amastigotes of Leishmania donovani. It participates in parasite interaction with host macrophages in a species-specific pattern. We have tested its use in immunodiagnosis of visceral leishmaniasis (VL) in a recent outbreak in Rio Grande do Norte, north-east Brazil. Enzyme-linked immunosorbent assay (ELISA) of low concentrations of FML in 462 sera showed 100% sensitivity and 96% specificity. The FML-ELISA identified patients with overt VL (P < 0.001 compared to normal sera). It could also identify inhabitants of the endemic area who had incipient or subclinical infection with potentially severe clinical disease: more than 20% of apparently healthy subjects with a positive ELISA for FML developed overt VL during the following 10 months. FML-ELISA reactivity decreased in all patients during treatment, and became negative after parasitological cure. No cross-reaction was observed in patients infected with other Leishmania species, nor in those with Chagas disease. Determination of antibody response to FML may be useful in diagnosis of VL and in identifying patients without overt disease but with a high risk of developing severe VL.
+C1 UNIV FED RIO DE JANEIRO,INST QUIM,DEPT BIOQUIM,BR-21941590 RIO JANEIRO,BRAZIL.
+   UNIV FED RIO DE JANEIRO,INST MICROBIOL,DEPT MICROBIOL GERAL,BR-21941590 RIO JANEIRO,BRAZIL.
+   UNIV FED RIO DE JANEIRO,FAC MED,BR-21941590 RIO JANEIRO,BRAZIL.
+   UNIV FED RIO DE JANEIRO,HOSP CLEMENTINO FRAGA FILHO,BR-21941590 RIO JANEIRO,BRAZIL.
+   UNIV FED RIO GRANDE NORTE,DEPT INFECTOL,NATAL,BRAZIL.
+RI Borojevic, Radovan/V-8500-2019
+OI Borojevic, Radovan/0000-0002-2393-7280; Palatnik-de-Sousa, Clarisa
+   B./0000-0002-6231-0608
+CR ALTUKHI MH, 1993, T ROY SOC TROP MED H, V87, P36, DOI 10.1016/0035-9203(93)90412-J
+   ASHFORD DA, 1993, AM J TROP MED HYG, V48, P1
+   BADARO R, 1983, AM J TROP MED HYG, V32, P480, DOI 10.4269/ajtmh.1983.32.480
+   BADARO R, 1986, J INFECT DIS, V154, P639, DOI 10.1093/infdis/154.4.639
+   BADARO R, 1986, AM J TROP MED HYG, V35, P72, DOI 10.4269/ajtmh.1986.35.72
+   BADARO R, 1986, J INFECT DIS, V156, P1003
+   BOROWY NK, 1991, J INFECT DIS, V164, P422, DOI 10.1093/infdis/164.2.422
+   BURNS JM, 1993, P NATL ACAD SCI USA, V90, P775, DOI 10.1073/pnas.90.2.775
+   DUNSDORF I, 1967, TECHNIQUES BLOOD GRO, P30
+   ELSAFI SH, 1989, T ROY SOC TROP MED H, V83, P334, DOI 10.1016/0035-9203(89)90493-8
+   ETGES R, 1992, ACTA TROP, V50, P205, DOI 10.1016/0001-706X(92)90077-B
+   JACOBSON RL, 1986, ANN TROP MED PARASIT, V76, P45
+   JAFFE CL, 1990, J IMMUNOL, V144, P699
+   JAFFE CL, 1988, J INFECT DIS, V157, P1212, DOI 10.1093/infdis/157.6.1212
+   MEBRAHTU YB, 1993, AM J TROP MED HYG, V48, P530, DOI 10.4269/ajtmh.1993.48.530
+   MENGISTU G, 1990, T ROY SOC TROP MED H, V84, P359, DOI 10.1016/0035-9203(90)90317-8
+   PALATNIK CB, 1990, PARASITOL RES, V76, P289, DOI 10.1007/BF00928181
+   PALATNIK CB, 1989, INFECT IMMUN, V57, P754, DOI 10.1128/IAI.57.3.754-763.1989
+   PALATNIKDESOUSA CB, 1993, ACTA TROP, V53, P59, DOI 10.1016/0001-706X(93)90006-W
+   PALATNIKDESOUSA CB, 1994, BRAZ J MED BIOL RES, V27, P547
+   PALATNIKDESOUSA.CB, 1994, J BRAZILIAN ASS ADV, V46, P290
+   REED SG, 1987, J IMMUNOL, V138, P1596
+   REED SG, 1990, AM J TROP MED HYG, V43, P632, DOI 10.4269/ajtmh.1990.43.632
+   SCHREFFLER WG, 1993, J INFECT DIS, V167, P426
+   YOUDEN WJ, 1950, CANCER, V3, P32, DOI 10.1002/1097-0142(1950)3:1<32::AID-CNCR2820030106>3.0.CO;2-3
+NR 25
+TC 49
+Z9 50
+U1 0
+U2 4
+PU ROYAL SOC TROPICAL MEDICINE
+PI LONDON
+PA MANSON HOUSE 26 PORTLAND PLACE, LONDON, ENGLAND W1N 4EY
+SN 0035-9203
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD JUL-AUG
+PY 1995
+VL 89
+IS 4
+BP 390
+EP 393
+DI 10.1016/0035-9203(95)90022-5
+PG 4
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA RT595
+UT WOS:A1995RT59500019
+PM 7570874
+DA 2020-12-15
+ER
+
+PT J
+AU JERONIMO, SMB
+   OLIVEIRA, RM
+   MACKAY, S
+   COSTA, RM
+   SWEET, J
+   NASCIMENTO, ET
+   LUZ, KG
+   FERNANDES, MZ
+   JERNIGAN, J
+   PEARSON, RD
+AF JERONIMO, SMB
+   OLIVEIRA, RM
+   MACKAY, S
+   COSTA, RM
+   SWEET, J
+   NASCIMENTO, ET
+   LUZ, KG
+   FERNANDES, MZ
+   JERNIGAN, J
+   PEARSON, RD
+TI AN URBAN OUTBREAK OF VISCERAL LEISHMANIASIS IN NATAL, BRAZIL
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID KALA-AZAR; INFECTION
+AB The epidemiological pattern of visceral leishmaniasis in north-eastern Brazil is changing. The disease was typically seen in rural, endemic areas, but is now occurring as an epidemic in the city of Natal where 316 cases have been reported since 1989; 49% mere in children less than 5 years of age. The principle clinical and laboratory findings were weight loss, fever, hepato-splenomegaly, anaemia, leucopenia and hypergammaglobulinaemia. Elevated transaminases and hyperbilirubinaemia were also observed. The diagnosis was confirmed in 87% of cases by identifying amastigotes in aspirates from bone marrow or spleen. Five isolates were identified as Leishmania (L.) chagasi by isoenzyme analysis. The mortality rate was 9%; all deaths occurred during the first week in hospital. One person had concurrent human immunodeficiency virus infection. Among 210 household contacts and neighbours of patients from the endemic area examined for evidence of L. (L.) chagasi infection, 6 additional cases of visceral leishmaniasis were diagnosed. Thirty-eight percent of house-mates and neighbours gave a positive Montenegro skin test reaction, indicating prior subclinical infection.
+C1 UNIV VIRGINIA, SCH MED, CTR HLTH SCI 485, DEPT MED, DIV GEOG MED, CHARLOTTESVILLE, VA 22903 USA.
+   UNIV FED RIO GRANDE NORTE, DEPT BIOCHEM, RIO GRANDE NORTE, BRAZIL.
+   FDN NACL SAUDE, NATAL, RN, BRAZIL.
+   HOSP GIZELDA TRIGUEIRO, NATAL, RN, BRAZIL.
+   UNIV VIRGINIA, SCH MED, DEPT PATHOL, CHARLOTTESVILLE, VA 22908 USA.
+RI Jeronimo, Selma/AAY-4033-2020; Jeronimo, Selma M.B./M-8672-2014
+OI Jeronimo, Selma/0000-0002-4784-9904; Jeronimo, Selma
+   M.B./0000-0002-4784-9904
+FU NIAID NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [P01-AI-26512] Funding Source: Medline;
+   NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASESUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH National Institute of Allergy & Infectious Diseases (NIAID)
+   [P01AI026512, P01AI026512, P01AI026512, P01AI026512, P01AI026512,
+   P01AI026512, P01AI026512, P01AI026512, P01AI026512, P01AI026512,
+   P01AI026512, P01AI026512, P01AI026512, P01AI026512, P01AI026512,
+   P01AI026512, P01AI026512, P01AI026512, P01AI026512, P01AI026512,
+   P01AI026512, P01AI026512, P01AI026512, P01AI026512, P01AI026512,
+   P01AI026512, P01AI026512, P01AI026512, P01AI026512, P01AI026512,
+   P01AI026512, P01AI026512, P01AI026512, P01AI026512, P01AI026512,
+   P01AI026512] Funding Source: NIH RePORTER
+CR ALENCAR JE, 1962, REV INST MED TROP SP, V3, P175
+   BADARO R, 1986, J INFECT DIS, V154, P639, DOI 10.1093/infdis/154.4.639
+   COSTA CHN, 1990, REV SAUDE PUBL, V24, P361, DOI 10.1590/S0034-89101990000500003
+   DEANE L. M., 1955, REV BRASIL BIOL, V15, P83
+   Deane LM, 1955, HOSPITAL-RIO DE JAN, V48, P61
+   EVANS T, 1985, WESTERN J MED, V142, P777
+   EVANS TG, 1992, J INFECT DIS, V166, P1124, DOI 10.1093/infdis/166.5.1124
+   EVANS TG, 1989, MEM I OSWALDO CRUZ, V84, P157, DOI 10.1590/S0074-02761989000200003
+   HALIM MA, 1993, CLIN INFECT DIS, V16, P397, DOI 10.1093/clind/16.3.397
+   KHALDI F, 1990, ARCH FR PEDIATR, V47, P257
+   MEDRANO FJ, 1992, AIDS, V6, P1499, DOI 10.1097/00002030-199212000-00013
+   MONTALBAN C, 1990, J INFECTION, V21, P261, DOI 10.1016/0163-4453(90)93933-J
+   PENNA HA, 1934, J BRASILIERO MED, V48, P949
+   PETERS BS, 1990, Q J MED, V77, P1101, DOI 10.1093/qjmed/77.2.1101
+   VIEIRA JB, 1990, PARASITOL TODAY, V6, P339, DOI 10.1016/0169-4758(90)90180-C
+NR 15
+TC 96
+Z9 105
+U1 0
+U2 2
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0035-9203
+EI 1878-3503
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD JUL-AUG
+PY 1994
+VL 88
+IS 4
+BP 386
+EP 388
+DI 10.1016/0035-9203(94)90393-X
+PG 3
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA PE901
+UT WOS:A1994PE90100006
+PM 7570812
+DA 2020-12-15
+ER
+
+PT J
+AU DIETZE, R
+   MILAN, EP
+   BERMAN, JD
+   GROGL, M
+   FALQUETO, A
+   FEITOSA, TF
+   LUZ, KG
+   SUASSUNA, FAB
+   MARINHO, LAC
+   KSIONSKI, G
+AF DIETZE, R
+   MILAN, EP
+   BERMAN, JD
+   GROGL, M
+   FALQUETO, A
+   FEITOSA, TF
+   LUZ, KG
+   SUASSUNA, FAB
+   MARINHO, LAC
+   KSIONSKI, G
+TI TREATMENT OF BRAZILIAN KALA-AZAR WITH A SHORT-COURSE OF AMPHOCIL
+   (AMPHOTERICIN-B CHOLESTEROL DISPERSION)
+SO CLINICAL INFECTIOUS DISEASES
+LA English
+DT Article
+ID VISCERAL LEISHMANIASIS; SODIUM STIBOGLUCONATE; STEROL BIOSYNTHESIS;
+   KETOCONAZOLE; EFFICACY; TOXICITY; REGIMENS
+AB Amphotericin B is an effective but toxic antileishmanial agent. Lipid-encapsulated amphotericin B should have a high therapeutic index for visceral leishmaniasis because reticuloendothelial cells, the sole site in which Leishmania is found, will phagocytize and concentrate the complex. Amphotericin B cholesterol dispersion (Amphocil; 2 mg/[kg.d] intravenously) was administered to 10 Brazilians with kala-azar for 10 days (cohort 1) and to 10 Brazilians with kala-azar for 7 days (cohort 2). All patients were successfully treated: 19 of the 20 patients were without visible parasites in the bone marrow; the mean time to afebrility was 4.2 days; spleen size regressed by a mean of 79% 2 months after therapy; and no patient had clinical or laboratory abnormalities by the end of 6-12 months of follow-up. Side effects were fever and chills accompanied by respiratory distress, but not nephrotoxicity, in children <3 years of age.
+C1 FED UNIV ESPIRITO SANTO,TROP MED UNIT,VITORIA,ES,BRAZIL.
+   FED UNIV RIO GRANDE NORTE,HOSP GISELDA TRIGUEIRO,DEPT TROP & INFECT DIS,NATAL,RN,BRAZIL.
+   LIPOSOME TECHNOL,MENLO PK,CA.
+OI Dietze, Reynaldo/0000-0002-6995-8001
+CR ASHFORD RW, 1992, PARASITOL TODAY, V8, P104, DOI 10.1016/0169-4758(92)90249-2
+   BADARO R, 1986, J INFECT DIS, V154, P1003, DOI 10.1093/infdis/154.6.1003
+   BADARO R, 1990, NEW ENGL J MED, V322, P16, DOI 10.1056/NEJM199001043220104
+   BERENGUER J, 1989, ANN INTERN MED, V111, P129, DOI 10.7326/0003-4819-111-2-129
+   BERMAN JD, 1988, REV INFECT DIS, V10, P560
+   BERMAN JD, 1986, MOL BIOCHEM PARASIT, V20, P85, DOI 10.1016/0166-6851(86)90145-3
+   BERMAN JD, 1992, ANTIMICROB AGENTS CH, V36, P1978, DOI 10.1128/AAC.36.9.1978
+   BERMAN JD, 1980, J INFECT DIS, V142, P83, DOI 10.1093/infdis/142.1.83
+   CHULAY JD, 1983, J INFECT DIS, V148, P148, DOI 10.1093/infdis/148.1.148
+   DAVIDSON RN, 1991, LANCET, V337, P1061, DOI 10.1016/0140-6736(91)91708-3
+   FERNANDEZGUERRERO ML, 1987, AM J MED, V83, P1098, DOI 10.1016/0002-9343(87)90948-X
+   FIELDING RM, 1992, ANTIMICROB AGENTS CH, V36, P299, DOI 10.1128/AAC.36.2.299
+   FRANKE ED, 1990, ANN INTERN MED, V113, P934, DOI 10.7326/0003-4819-113-12-934
+   HARDIE WD, 1992, J INFECT DIS, V166, P134, DOI 10.1093/infdis/166.1.134
+   HART DT, 1989, MOL BIOCHEM PARASIT, V33, P123, DOI 10.1016/0166-6851(89)90026-1
+   HERWALDT BL, 1992, AM J TROP MED HYG, V46, P296, DOI 10.4269/ajtmh.1992.46.296
+   LEVINE SJ, 1991, ANN INTERN MED, V114, P664, DOI 10.7326/0003-4819-114-8-664
+   MISHRA M, 1991, LANCET, V337, P926, DOI 10.1016/0140-6736(91)90268-T
+   PRATA ALUIZIO, 1963, TRANS ROY SOC TROP MED AND HYG, V57, P266, DOI 10.1016/0035-9203(63)90183-4
+   SAMPAIO S A P, 1971, International Journal of Dermatology, V10, P179, DOI 10.1111/j.1365-4362.1971.tb01694.x
+   THAKUR CP, 1988, BRIT MED J, V296, P1557, DOI 10.1136/bmj.296.6636.1557
+   1992, MMWR, V41, P131
+   1991, AMPHOTERICIN B COLLO
+NR 23
+TC 57
+Z9 59
+U1 0
+U2 1
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 5720 S WOODLAWN AVE, CHICAGO, IL 60637
+SN 1058-4838
+J9 CLIN INFECT DIS
+JI Clin. Infect. Dis.
+PD DEC
+PY 1993
+VL 17
+IS 6
+BP 981
+EP 986
+DI 10.1093/clinids/17.6.981
+PG 6
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA ML918
+UT WOS:A1993ML91800004
+PM 8110956
+DA 2020-12-15
+ER
+
+EF

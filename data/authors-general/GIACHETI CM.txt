@@ -1,0 +1,3051 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rossi, NF
+   Fernandes, C
+   Moreira, CS
+   Giacheti, CM
+   Sichieri, BB
+   Pinheiro, AP
+   Sampaio, A
+AF Rossi, Natalia Freitas
+   Fernandes, Catarina
+   Moreira, Celia Sofia
+   Giacheti, Celia Maria
+   Sichieri, Bianca Bortolai
+   Pinheiro, Ana Patricia
+   Sampaio, Adriana
+TI Sentence contexts and cloze probabilities for Brazilian Portuguese
+   children and adolescents
+SO PLOS ONE
+LA English
+DT Article
+ID WORD COMPLETION NORMS; BRAIN POTENTIALS; LANGUAGE; MEMORY; CONSTRAINT;
+   CULTURE; COMPREHENSION; EXPECTANCY; ACTIVATION; RESPONSES
+AB Purpose In this study we investigated a set of 100 sentence contexts and their cloze probabilities to develop a database of linguistic stimuli for Brazilian Portuguese children and adolescents. The study also examined age-related changes on cloze probabilities, and specified the predictor effects of age and cloze probabilities on idiosyncratic responses and errors (semantic, syntactic, and other errors). Finally, the study also aimed to shed light on cultural effects on word generation by comparing Brazilian and Portuguese sentence databases. Method 361 typically developing monolingual Brazilian speakers, with ages ranging from 7 to 18 years, participated in the study. The cloze task was composed by 100 sentence contexts, grounded on the European Portuguese database. Responses were classified as valid (correct) or invalid (semantic, syntactic, and other-type errors). Statistical analyses were based on mixed-effects logistic models. Results Sixty-three sentences met criteria for high cloze probabilities, 30 for medium cloze, and 7 for low cloze. Age was a significant predictor of idiosyncratic responses, semantic and syntactic errors: older participants were less likely to produce idiosyncratic responses, as well as semantic and syntactic errors. Cloze probability values were concordant in the Brazilian and Portuguese databases for 31 out of 49 (83.7%) high-cloze sentences and for 7 low-cloze sentences. Conclusion In this study we have provided a database with cloze probability values for a set of 100 sentence-final word contexts for Brazilian Portuguese children and adolescents. Results showed that both age and sentence contextual level predicted sentence final word completion. Older participants were more likely to choose more consistently the same final word, with the contextual level of a given sentence also contributing to the final word selection. Age should be controlled for in future studies probing semantic processing with this set of sentences.
+C1 [Rossi, Natalia Freitas; Giacheti, Celia Maria; Sichieri, Bianca Bortolai] Sao Paulo State Univ UNESP, Fac Philosophy & Sci, Speech Language & Hearing Sci Dept, Campus Marilia, Sao Paulo, Brazil.
+   [Fernandes, Catarina; Pinheiro, Ana Patricia; Sampaio, Adriana] Univ Minho, Sch Psychol, Psychol Neurosci Lab, CIPsi, Braga, Portugal.
+   [Moreira, Celia Sofia] Univ Porto, Fac Sci, Porto, Portugal.
+   [Moreira, Celia Sofia] Univ Porto, Ctr Math FCUP&CMUP, Porto, Portugal.
+   [Pinheiro, Ana Patricia] Univ Lisbon, Fac Psychol, Lisbon, Portugal.
+RP Rossi, NF (corresponding author), Sao Paulo State Univ UNESP, Fac Philosophy & Sci, Speech Language & Hearing Sci Dept, Campus Marilia, Sao Paulo, Brazil.
+EM nataliafreitasrossi@yahoo.com.br
+OI Moreira, Celia Sofia/0000-0001-5602-7171
+FU Coordenacao de Aperfeicoamento de Pessoal de Ensino Superior
+   (CAPES)CAPES; Post-Doctoral Fellowship at the University of Minho [BEX
+   9573/11-9]; Instituto Nacional de Ciencia e Tecnologia sobre
+   Comportamento, Cognicao e Ensino; Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq)National Council for Scientific and
+   Technological Development (CNPq) [465686/2014-1]; Fundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP)Fundacao de Amparo a Pesquisa do
+   Estado de Sao Paulo (FAPESP) [2014/50909-8]; Psychology Research Centre
+   [PSI/01662]; Portuguese Foundation for Science and TechnologyPortuguese
+   Foundation for Science and Technology; Portuguese Ministry of Science,
+   Technology and Higher Education through the national funds (PIDDAC)
+   [UID/PSI/01662/2019]; national funds from the Portuguese Foundation for
+   Science and Technology [PTDC/PSI-PCL/115316/2009]; CMUP
+   [UID/MAT/00144/2013]; national funds through FCT (Portugal)
+   [UIDB/00144/2020]
+FX This research was supported by Grants from Coordenacao de
+   Aperfeicoamento de Pessoal de Ensino Superior (CAPES), and by a
+   Post-Doctoral Fellowship at the University of Minho (Process BEX
+   9573/11-9). This study was partially conducted at the Psychology
+   Research Centre (PSI/01662), University of Minho, and supported by the
+   Instituto Nacional de Ciencia e Tecnologia sobre Comportamento, Cognicao
+   e Ensino, with funding of the Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq, process no 465686/2014-1), Fundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP, process no
+   2014/50909-8), Portuguese Foundation for Science and Technology and the
+   Portuguese Ministry of Science, Technology and Higher Education
+   (UID/PSI/01662/2019), through the national funds (PIDDAC) and by
+   national funds from the Portuguese Foundation for Science and Technology
+   (Grant PTDC/PSI-PCL/115316/2009). CSM was partially supported by CMUP
+   (UID/MAT/00144/2013), which is financed by national funds through FCT
+   (Portugal) under the project with reference UIDB/00144/2020.
+CR Allison P. D., 2012, LOGISTIC REGRESSION
+   Arcuri SM, 2001, BEHAV RES METH INS C, V33, P80, DOI 10.3758/BF03195350
+   Barreiro Anabela, 1996, INESC J RES DEV, V5, P75
+   Best JR, 2011, LEARN INDIVID DIFFER, V21, P327, DOI 10.1016/j.lindif.2011.01.007
+   Biderman MTC, 2001, REV BELGE PHILOLOGIE, V79, P963
+   Bishop DVM, 2014, PSYCHOL PRESS CLASS, P1
+   Block CK, 2010, BEHAV RES METHODS, V42, P665, DOI 10.3758/BRM.42.3.665
+   BLOOM PA, 1980, MEM COGNITION, V8, P631, DOI 10.3758/BF03213783
+   Brasil C., 2013, CRIT CLASS EC BRAS
+   Brauer J, 2007, J COGNITIVE NEUROSCI, V19, P1609, DOI 10.1162/jocn.2007.19.10.1609
+   Brooks ME, 2017, R J, V9, P378, DOI 10.32614/RJ-2017-066
+   Caceres-Assenco AM, 2018, CODAS, V30, DOI 10.1590/2317-1782/20182017113
+   Canet-Juric L, 2009, INT J PSYCHOL RES, V2, P99, DOI 10.21500/20112084.865
+   Capellari E. T. C., 2002, REV DA ABRALIN, V1, P185
+   Carneiro MP, 2004, LAB PSICOLOGIA, V2, P49
+   COLLINS AM, 1975, PSYCHOL REV, V82, P407, DOI 10.1037/0033-295X.82.6.407
+   Collins AM, 1969, RETRIEVAL TIME SEMAN
+   Cummings A, 2008, BRAIN RES, V1208, P137, DOI 10.1016/j.brainres.2008.02.015
+   Davidson MC, 2006, NEUROPSYCHOLOGIA, V44, P2037, DOI 10.1016/j.neuropsychologia.2006.02.006
+   Delong KA, 2011, PSYCHOPHYSIOLOGY, V48, P1203, DOI 10.1111/j.1469-8986.2011.01199.x
+   Demonet JF, 2005, PHYSIOL REV, V85, P49, DOI 10.1152/physrev.00049.2003
+   Ellis C, 2015, SOC COGN AFFECT NEUR, V10, P1392, DOI 10.1093/scan/nsv028
+   Federmeier KD, 2007, BRAIN RES, V1146, P75, DOI 10.1016/j.brainres.2006.06.101
+   Ferreira SCA, 2018, AUDIOLOGY COMMUNICAT, V23
+   Fox J, 2018, J STAT SOFTW, V87, P1, DOI 10.18637/jss.v087.i09
+   Friederici AD, 2012, TRENDS COGN SCI, V16, P262, DOI 10.1016/j.tics.2012.04.001
+   Frota S., 2015, INTONATION ROMANCE, P235, DOI DOI 10.1093/ACPROF:OSO/9780199685332.003.0007
+   GATHERCOLE SE, 1992, DEV PSYCHOL, V28, P887, DOI 10.1037//0012-1649.28.5.887
+   Geeraerts D, 2012, STRUCTURE LEXICAL VA
+   Hahne A, 2004, J COGNITIVE NEUROSCI, V16, P1302, DOI 10.1162/0898929041920504
+   Hamberger MJ, 1996, BEHAV RES METH INSTR, V28, P102, DOI 10.3758/BF03203644
+   HOLCOMB PJ, 1992, DEV NEUROPSYCHOL, V8, P203, DOI 10.1080/87565649209540525
+   Ji LJ, 2004, J PERS SOC PSYCHOL, V87, P57, DOI 10.1037/0022-3514.87.1.57
+   Jobard G, 2003, NEUROIMAGE, V20, P693, DOI 10.1016/S1053-8119(03)00343-4
+   Johnson MH, 2001, NAT REV NEUROSCI, V2, P475, DOI 10.1038/35081509
+   Kellas G, 1991, UNDERSTANDING WORD S, P47
+   Kidd E, 2013, TOP LANG DISORD, V33, P208, DOI 10.1097/TLD.0b013e31829d623e
+   Kimble MO, 2002, PSYCHIAT RES, V113, P303, DOI 10.1016/S0165-1781(02)00229-9
+   Kircher TTJ, 2001, SCHIZOPHR RES, V50, P27, DOI 10.1016/S0920-9964(00)00042-6
+   KUTAS M, 1980, SCIENCE, V207, P203, DOI 10.1126/science.7350657
+   Kutas M, 2000, TRENDS COGN SCI, V4, P463, DOI 10.1016/S1364-6613(00)01560-6
+   KUTAS M, 1984, NATURE, V307, P161, DOI 10.1038/307161a0
+   Lahar CJ, 2004, J GERONTOL B-PSYCHOL, V59, pP7, DOI 10.1093/geronb/59.1.P7
+   Larina T, 2015, INT REV PRAGMAT, V7, P195, DOI 10.1163/18773109-00702003
+   Lau EF, 2008, NAT REV NEUROSCI, V9, P920, DOI 10.1038/nrn2532
+   Lima WF, 2001, ALFA REV LINGUISTICA, V45
+   Loerts H, 2013, J PSYCHOLINGUIST RES, V42, P551, DOI 10.1007/s10936-012-9234-2
+   LOFTUS EF, 1973, AM J PSYCHOL, V86, P331, DOI 10.2307/1421441
+   Macdonald JA, 2014, CHILD NEUROPSYCHOL, V20, P509, DOI 10.1080/09297049.2013.822060
+   Marsh EJ, 2004, APPL COGNITIVE PSYCH, V18, P491, DOI 10.1002/acp.1001
+   McGregor KK, 2002, J SPEECH LANG HEAR R, V45, P332, DOI 10.1044/1092-4388(2002/026)
+   Minami M., 2002, CULTURE SPECIFIC LAN
+   Munson B, 2005, J SPEECH LANG HEAR R, V48, P108, DOI 10.1044/1092-4388(2005/009)
+   NEBES RD, 1991, CORTEX, V27, P237, DOI 10.1016/S0010-9452(13)80128-1
+   Pinheiro AP, 2010, BEHAV RES METHODS, V42, P1022, DOI 10.3758/BRM.42.4.1022
+   Principe GF, 2008, APPL COGNITIVE PSYCH, V22, P625, DOI 10.1002/acp.1402
+   Robichon F, 1996, COMPLETION NORMS 744
+   Rodriguez-Camacho M, 2011, AV PSICOL LATINOAM, V29, P258
+   ROSENZWEIG MR, 1984, AM PSYCHOL, V39, P365, DOI 10.1037/0003-066X.39.4.365
+   Rossi NF, 2016, AVALIACAO FALA LINGU, P109
+   Schneider W, 2013, MEMORY DEV 2 20
+   SCHWANENFLUGEL PJ, 1985, J MEM LANG, V24, P232, DOI 10.1016/0749-596X(85)90026-9
+   SIMPSON GB, 1989, J EXP PSYCHOL LEARN, V15, P88
+   Staub A, 2015, J MEM LANG, V82, P1, DOI 10.1016/j.jml.2015.02.004
+   Storkel HL, 2002, J CHILD LANG, V29, P251, DOI 10.1017/S0305000902005032
+   Storkel HL, 2009, J CHILD LANG, V36, P291, DOI 10.1017/S030500090800891X
+   Taylor WL, 1953, JOURNALISM QUART, V30, P415, DOI 10.1177/107769905303000401
+   TAYLOR WL, 1956, JOURNALISM QUART, V33, P42, DOI 10.1177/107769905603300106
+   Tulving E., 1972, ORG MEMORY, P381, DOI DOI 10.1017/S0140525X00047257
+   Wicha NYY, 2004, J COGNITIVE NEUROSCI, V16, P1272, DOI 10.1162/0898929041920487
+   Xu F., 2013, PLOS ONE, V8
+   Yoon C, 2004, PSYCHOL AGING, V19, P379, DOI 10.1037/0882-7974.19.3.379
+   Zhu ZD, 2019, J NEUROLINGUIST, V52, DOI 10.1016/j.jneuroling.2019.100855
+NR 73
+TC 0
+Z9 0
+U1 1
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 30
+PY 2020
+VL 15
+IS 7
+AR e0236388
+DI 10.1371/journal.pone.0236388
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA MW2PD
+UT WOS:000556884700074
+PM 32730342
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Zenaro, MP
+   Rossi, NF
+   de Souza, ALDM
+   Giacheti, CM
+AF Zenaro, Mariana Pereira
+   Rossi, Natalia Freitas
+   Miranda de Souza, Ana Luiza Decanini
+   Giacheti, Celia Maria
+TI Oral narrative structure and coherence of children with attention
+   deficit hyperactivity disorder
+SO CODAS
+LA English
+DT Article
+DE Narration; Children's Language; Language Development; Developmental
+   Disabilities; Attention Deficit Disorder with Hyperactivity
+ID STORY COMPREHENSION; DEFICIT/HYPERACTIVITY DISORDER; LANGUAGE; ADHD;
+   ABILITIES; RECALL
+AB Purpose: This study aimed to characterize and compare the use of typical story grammar elements and global coherence level in the oral narrative of children with Attention Deficit Hyperactivity Disorder with the narrative of children without the disorder and with typical development. Methods: A total of 40 children of both sexes aged 5 to 10 years who attended elementary school participated in the study, 20 of whom were diagnosed with Attention Deficit Hyperactivity Disorder (ADHD Group), and 20 with typical development (TD Group). Participants from each group were similar in sex, chronological age, schooling and socioeconomic status. The wordless picture book Frog, Where Are You? was used to elicit the oral narrative analyzed for the presence of the main typical elements of the story schema (character, theme/topic, event/plot and outcome), and afterwards their narration was classified according to four different levels of organization corresponding to the global story coherence level. Results: The ADHD Group presented lower scores on the structural elements "theme/ topic" and "outcome" and a narrative with lower degree of coherence compared to the TD Group. Conclusion: The children with ADHD included in this study presented difficulties to use typical story grammar elements, mainly related to the maintenance of the central theme and outcome of the story. These elements are considered fundamental for construction of narrative coherence, which justifies the lower levels of global coherence found in the oral narrative of the ADHD Group.
+C1 [Zenaro, Mariana Pereira; Rossi, Natalia Freitas; Miranda de Souza, Ana Luiza Decanini; Giacheti, Celia Maria] Univ Estadual Paulista Julio de Mesquita Filho UN, Fac Filosofia & Ciencias Marilia, Marilia, SP, Brazil.
+   [Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Fed Sao Carlos UFSCar, Inst Nacl Ciencia & Tecnol Comportaunento Cognica, Sao Carlos, SP, Brazil.
+RP Giacheti, CM (corresponding author), Av Higyno Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+EM giacheti@uol.com.br
+RI Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672; Souza, Ana/0000-0002-6131-1377;
+   Rossi, Natalia/0000-0003-1003-4573
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)Fundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) [2014/50909-8,
+   12/00344-9]; Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (CNPq)National Council for Scientific and Technological
+   Development (CNPq) [465686/2014-1]
+FX funded by the Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP, process number 12/00344-9). This research is part of the
+   scientific program of the Instituto Nacional de Ciencia e Tecnologia
+   sobre Comportamento, Cognicao e Ensino, with funding of the Conselho
+   Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq, process no
+   465686/2014-1) and Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP, process no 2014/50909-8).
+CR American Psychiatric Association, 2014, MAN DIAGN EST TRANST
+   American Psychiatric Association, 2014, DSM 5 MAN DIAGN EST
+   Fernandez AY, 2004, ARBOR, V177, P189
+   Flory K, 2006, J ABNORM CHILD PSYCH, V34, P853, DOI 10.1007/s10802-006-9070-7
+   Friend M, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00469
+   Ganthous G, 2017, CODAS, V29, DOI 10.1590/2317-1782/20172017012
+   Gillam SL, 2017, COMMUN DISORD Q, V38, P96, DOI 10.1177/1525740116651442
+   Graham S, 2017, CONTEMP EDUC PSYCHOL, V50, P97, DOI 10.1016/j.cedpsych.2017.01.001
+   Green BC, 2014, INT J LANG COMM DIS, V49, P15, DOI 10.1111/1460-6984.12056
+   Hawkins E, 2016, BRAIN SCI, V6, DOI 10.3390/brainsci6040050
+   Hayden A, 2018, CONTEMP EDUC PSYCHOL, V53, P123, DOI 10.1016/j.cedpsych.2018.02.003
+   Helland WA, 2016, J ATTEN DISORD, V20, P581, DOI 10.1177/1087054712461530
+   Korrel H, 2017, J CHILD PSYCHOL PSYC, V58, P640, DOI 10.1111/jcpp.12688
+   Kuijper SJM, 2017, J ABNORM PSYCHOL, V126, P63, DOI 10.1037/abn0000231
+   Lorch EP, 2004, J CLIN CHILD ADOLESC, V33, P506, DOI 10.1207/s15374424jccp3303_8
+   Machado-Nascimento N, 2016, CODAS, V28, P833, DOI 10.1590/2317-1782/20162015270
+   Mayer M., 1969, FROG ARE YOU
+   McInnes A, 2003, J ABNORM CHILD PSYCH, V31, P427, DOI 10.1023/A:1023895602957
+   Norbury CF, 2014, J CHILD LANG, V41, P485, DOI 10.1017/S030500091300007X
+   Papaeliou CF, 2015, J ATTEN DISORD, V19, P53, DOI 10.1177/1087054712446812
+   Redmond SM, 2015, LANG SPEECH HEAR SER, V46, P68, DOI 10.1044/2014_LSHSS-14-0045
+   Reilly J, 2004, BRAIN LANG, V88, P229, DOI 10.1016/S0093-934X(03)00101-9
+   Renz K, 2003, J ABNORM CHILD PSYCH, V31, P93, DOI 10.1023/A:1021777417160
+   Rodrigues MRF, 2012, PSICOL CIENC PROFIS, V32, P422, DOI [10.1590/S1414-98932012000200011, DOI 10.1590/S1414-98932012000200011]
+   Rumpf AL, 2012, RES DEV DISABIL, V33, P1395, DOI 10.1016/j.ridd.2012.03.007
+   SPINILLO AG, 1997, PSICOL-REFLEX CRIT, V10, P219, DOI DOI 10.1590/S0102-79721997000200004
+   TANNOCK R, 1993, J ABNORM CHILD PSYCH, V21, P103, DOI 10.1007/BF00910492
+   Vaquerizo J., 2005, REV NEUROLOGIA, V41, P83
+   Ygual A, 2010, REV LOGOPEDIA FONIAT, V30, P151, DOI DOI 10.1016/S0214-4603(10)70163-7
+NR 29
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PD NOV
+PY 2019
+VL 31
+IS 6
+AR e20180197
+DI 10.1590/2317-1782/20192018197
+PG 8
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA JU8DS
+UT WOS:000501901400006
+PM 31778423
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Santos, JS
+   Giacheti, CM
+   Dornelas, LS
+   Silva, NC
+   Souza, ALDM
+   Campos, LMG
+   Pinato, L
+AF Santos, Janaina S.
+   Giacheti, Celia M.
+   Dornelas, Lilian S.
+   Silva, Nathani C.
+   Souza, Ana L. D. M.
+   Guissoni Campos, Leila M.
+   Pinato, Luciana
+TI Day/night melatonin content in cerebral palsy
+SO NEUROSCIENCE LETTERS
+LA English
+DT Article
+DE Melatonin; Sleep; Neurodevelopment; Behavior; Cerebral palsy
+ID GROSS MOTOR FUNCTION; SLEEP PROBLEMS; CLASSIFICATION-SYSTEM;
+   CULTURAL-ADAPTATION; CHILDREN; DISTURBANCES; DISORDERS; COMMUNICATION;
+   QUESTIONNAIRE; DEFINITION
+AB Changes in the sleep-wake cycle are frequent and may impair quality of life in individuals with cerebral palsy (CP). To investigate if a lack of a day/night variation of melatonin content could be related with sleep disorders (SD), the SD were evaluated with a Sleep Questionnaire and the melatonin content using ELISA in 33 individuals with CP and 24 controls. The indicative of SD were present in 47% of CP group, and the most frequent was the indicative of sleep breathing disorder. The CP group showed higher diurnal and lower nocturnal melatonin content than controls. Individuals with CP that had indicative of SD showed lower nocturnal content of melatonin than those without SD. These results showed that the lack of the day/night variation of melatonin was related to SD in individuals with CP.
+C1 [Santos, Janaina S.; Dornelas, Lilian S.] Sorri, Specialized Ctr Rehabil, Bauru, SP, Brazil.
+   [Santos, Janaina S.; Giacheti, Celia M.; Dornelas, Lilian S.; Silva, Nathani C.; Souza, Ana L. D. M.; Pinato, Luciana] Sao Paulo State Univ, UNESP, Marilia, SP, Brazil.
+   [Guissoni Campos, Leila M.] Univ Marilia, UNIMAR, Marilia, SP, Brazil.
+RP Pinato, L (corresponding author), Av Hygino Muzzi Filho 737, Marilia, SP, Brazil.
+EM lpinato@marilia.unesp.br
+RI Giacheti, Celia M/I-4863-2012; Pinato, luciana/A-8314-2018
+OI Giacheti, Celia M/0000-0001-9691-4672; Guissoni Campos, Leila
+   Maria/0000-0002-2344-4750; da Silva, Nathani
+   Cristina/0000-0001-8828-9854; Pinato, luciana/0000-0001-7788-9205
+CR AXELROD J, 1974, SCIENCE, V184, P1341, DOI 10.1126/science.184.4144.1341
+   Barty E, 2016, DEV MED CHILD NEUROL, V58, P1036, DOI 10.1111/dmcn.13124
+   Bax M, 2005, DEV MED CHILD NEUROL, V47, P571, DOI 10.1017/S001216220500112X
+   Belisio A. S., 2010, SLEEP SCI, V3, P82
+   Blake S. F., 2015, COCHRANE LIB, P11
+   Blunden S, 2004, ARCH DIS CHILD, V89, P708, DOI 10.1136/adc.2003.027011
+   Elsayed RM, 2013, ANN INDIAN ACAD NEUR, V16, P62, DOI 10.4103/0972-2327.107708
+   Ferreira VR, 2009, SLEEP MED, V10, P457, DOI 10.1016/j.sleep.2008.03.018
+   Garstang J, 2006, CHILD CARE HLTH DEV, V32, P585, DOI 10.1111/j.1365-2214.2006.00616.x
+   Guedes Silva K., 2016, REV CEFAC, V8, P1020
+   Hiratuka E, 2010, BRAZ J PHYS THER, V14, P537, DOI 10.1590/S1413-35552010000600013
+   KAHN A, 1989, PEDIATRICS, V84, P542
+   Kontorinis G, 2013, INT J PEDIATR OTORHI, V77, P1647, DOI 10.1016/j.ijporl.2013.07.017
+   KOTAGAL S, 1994, DEV MED CHILD NEUROL, V36, P304
+   Lelis ALPA, 2016, SLEEP MED REV, V30, P63, DOI 10.1016/j.smrv.2015.11.008
+   Lockley SW, 1997, J CLIN ENDOCR METAB, V82, P3763, DOI 10.1210/jc.82.11.3763
+   Malow B, 2012, J AUTISM DEV DISORD, V42, P1729, DOI 10.1007/s10803-011-1418-3
+   Marcus CL, 2001, AM J RESP CRIT CARE, V164, P16, DOI 10.1164/ajrccm.164.1.2008171
+   Markus RP, 2013, INT J MOL SCI, V14, P10979, DOI 10.3390/ijms140610979
+   Martin J, 2007, PEDIATRICS, V119, P947, DOI 10.1542/peds.2006-2569
+   McCabe SM, 2015, J PAEDIATR CHILD H, V51, P1188, DOI 10.1111/jpc.12933
+   Morley A, 2016, BREATHE, V12, P357, DOI 10.1183/20734735.012016
+   Newman CJ, 2006, DEV MED CHILD NEUROL, V48, P564, DOI 10.1017/S0012162206001198
+   Palisano RJ, 2000, PHYS THER, V80, P974, DOI 10.1093/ptj/80.10.974
+   Pinato L, 2015, BRAIN STRUCT FUNCT, V220, P827, DOI 10.1007/s00429-013-0686-4
+   Richdale AL, 1999, DEV MED CHILD NEUROL, V41, P60, DOI 10.1017/S0012162299000122
+   Romeo DM, 2014, SLEEP MED, V15, P1089, DOI 10.1016/j.sleep.2014.05.008
+   Romeo DM, 2014, SLEEP MED, V15, P213, DOI 10.1016/j.sleep.2013.08.793
+   Rosenbaum P, 2012, CHILD CARE HLTH DEV, V38, P457, DOI 10.1111/j.1365-2214.2011.01338.x
+   Rosenbaum P, 2007, DEV MED CHILD NEUROL, V49, P8, DOI 10.1111/j.1469-8749.2007.tb12610.x
+   Schlereth T, 2009, DTSCH ARZTEBL INT, V106, P32, DOI 10.3238/arztebl.2009.0032
+   Schuh-Hofer S, 2013, PAIN, V154, P1613, DOI 10.1016/j.pain.2013.04.046
+   Shochat T, 1998, ANN MED, V30, P109
+   Shott SR, 2011, CURR OPIN OTOLARYNGO, V19, P449, DOI 10.1097/MOO.0b013e32834c1728
+   Stein MA, 2001, PEDIATRICS, V107, DOI 10.1542/peds.107.4.e60
+   Tietze AL, 2012, SLEEP MED REV, V16, P117, DOI 10.1016/j.smrv.2011.03.006
+   TZISCHINSKY O, 1993, J BIOL RHYTHM, V8, P199, DOI 10.1177/074873049300800303
+   Verschuren O, 2016, DEV MED CHILD NEUROL, V58, P989, DOI 10.1111/dmcn.13212
+   Virella D, 2016, DEV MED CHILD NEUROL, V58, P285, DOI 10.1111/dmcn.12866
+   Wayte S, 2012, ACTA PAEDIATR, V101, P618, DOI 10.1111/j.1651-2227.2012.02603.x
+   Wirrell E, 2005, DEV MED CHILD NEUROL, V47, P754, DOI 10.1017/S0012162205001581
+   Wright Marilyn, 2006, Phys Occup Ther Pediatr, V26, P55, DOI 10.1300/J006v26n03_05
+   Zhdanova IV, 1997, SLEEP, V20, P899
+   Zuculo GM, 2017, CHRONOBIOL INT, V34, P527, DOI 10.1080/07420528.2017.1308375
+   Zuculo GM, 2014, CODAS, V26, P447, DOI 10.1590/2317-1782/20140201435
+NR 45
+TC 1
+Z9 1
+U1 0
+U2 2
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0304-3940
+EI 1872-7972
+J9 NEUROSCI LETT
+JI Neurosci. Lett.
+PD NOV 1
+PY 2018
+VL 686
+BP 23
+EP 27
+DI 10.1016/j.neulet.2018.08.045
+PG 5
+WC Neurosciences
+SC Neurosciences & Neurology
+GA HA0KW
+UT WOS:000449897900004
+PM 30176339
+OA Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Fonteles, CSR
+   Ribeiro, EM
+   Santos, MSA
+   Leite, RFP
+   Assuncao, GS
+   Monteiro, AJ
+   Pessoa, ALS
+   Giacheti, CM
+   Kerbage, SC
+   Ribeiro, TR
+   Cavalcanti, LPD
+AF Roriz Fonteles, Cristiane Sa
+   Ribeiro, Erlane Marques
+   Aragao Santos, Marinisi Sales
+   Pequeno Leite, Rebeka Ferreira
+   Assuncao, Gabryela Sales
+   Monteiro, Andre Jalles
+   Santos Pessoa, Andre Luiz
+   Giacheti, Celia Maria
+   Kerbage, Saile Cavalcante
+   Ribeiro, Thyciana Rodrigues
+   de Goes Cavalcanti, Luciano Pamplona
+TI Lingual Frenulum Phenotypes in Brazilian Infants With Congenital Zika
+   Syndrome
+SO CLEFT PALATE-CRANIOFACIAL JOURNAL
+LA English
+DT Article
+DE microcephaly; Zika virus; lingual frenum; stomatognathic system
+ID BREAST-FEEDING DIFFICULTIES; EHLERS-DANLOS-SYNDROME; POSTERIOR
+   ANKYLOGLOSSIA; VIRUS-INFECTION; TONGUE-TIE; ASSOCIATION; MANAGEMENT;
+   FRENOTOMY; DYSPHAGIA; OUTBREAK
+AB Objective: The present study aimed to evaluate lingual frenulum in children affected by congenital Zika syndrome (CZS) and to analyze the association of lingual frenulum phenotypes with other variables.
+   Design: This present work had a cross-sectional, descriptive study design.
+   Setting: This study was carried out in Fortaleza (Brazil). The health professionals provided tertiary level of care. Data collection occurred during a multidisciplinary task force for evaluating infants affected by CZS in December 2 to 3, 2016.
+   Patients: Fifty-four patients with CZS (1-12 months old; 32 girls and 22 boys) were recruited from a population of 70 infants.
+   Interventions: A multidisciplinary group comprised of speech-language pathologist/audiologists and pediatric dentists evaluated all patients through an intraoral examination and a specific tongue maneuver protocol for infants.
+   Main Outcome Measures: Lingual frenulum visibility was the primary outcome measure. Before initiating the study, we hypothesized that children with CZS had an absent lingual frenulum.
+   Results: Lingual frenula were visible in 34 (63%) infants, whereas in 20 (37%) infants lingual frenula visibility required a specific maneuver to retract the tongue. Six of 20 infants presented posteriorly positioned lingual frenula that were visible after maneuver. Lingual frenula were covered by mucous tissue in 14 infants. Presence of posterior frenulum was associated with dysphagia (P = 0.038). However, the presence of dysphagia in a multivariate model did not associate with the presence of a posterior lingual frenulum (P = .069) or neurologic symptoms (P = .056).
+   Conclusion: Children with CZS showed predominance of a posterior lingual frenula covered by an overlapping curtain-like mucous membrane.
+C1 [Roriz Fonteles, Cristiane Sa; Monteiro, Andre Jalles; Ribeiro, Thyciana Rodrigues] Univ Fed Ceara, Dept Clin Dent, Rua Monsenhor Furtado 1273, BR-60430 Fortaleza, Ceara, Brazil.
+   [Ribeiro, Erlane Marques; Aragao Santos, Marinisi Sales; Pequeno Leite, Rebeka Ferreira; Assuncao, Gabryela Sales; Santos Pessoa, Andre Luiz; Kerbage, Saile Cavalcante] Albert Sabin Childrens Hosp HIAS, Fortaleza, Ceara, Brazil.
+   [Ribeiro, Erlane Marques] Christus Univ Ctr UNICHRISTUS, Fac Med, Fortaleza, Ceara, Brazil.
+   [Giacheti, Celia Maria] Sao Paulo State Univ Julio de Mesquita Filho UNES, Dept Speech Language Pathol & Audiol, Sao Paulo, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Community Hlth, Fortaleza, Ceara, Brazil.
+RP Fonteles, CSR (corresponding author), Univ Fed Ceara, Dept Clin Dent, Rua Monsenhor Furtado 1273, BR-60430 Fortaleza, Ceara, Brazil.
+EM cfontele@ufc.br
+RI Ribeiro, Thyciana/ABC-1677-2020; Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+CR [Anonymous], 2016, BMJ, V353, pi3182, DOI 10.1136/bmj.i3182
+   Bayless NL, 2016, CELL HOST MICROBE, V20, P423, DOI 10.1016/j.chom.2016.09.006
+   BEIGHTON P, 1969, ANN RHEUM DIS, V28, P228, DOI 10.1136/ard.28.3.228
+   Benoiton L, 2016, INT J PEDIATR OTORHI, V88, P13, DOI 10.1016/j.ijporl.2016.06.037
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cavalcanti LPG, 2017, REV MED UFC, V57, P52
+   Chu MW, 2009, INT J PEDIATR OTORHI, V73, P881, DOI 10.1016/j.ijporl.2009.02.011
+   De Felice C, 2001, LANCET, V357, P1500, DOI 10.1016/S0140-6736(00)04661-4
+   del Campo M, 2017, AM J MED GENET A, V173, P841, DOI 10.1002/ajmg.a.38170
+   Dollberg S, 2014, BREASTFEED MED, V9, P286, DOI 10.1089/bfm.2014.0010
+   Douglas PS, 2013, BREASTFEED MED, V8, P503, DOI 10.1089/bfm.2013.0103
+   Fehrenbach MJ, 2002, ILLUSTRATED ANATOMY
+   Ghaheri BA, 2017, LARYNGOSCOPE, V127, P1217, DOI 10.1002/lary.26306
+   Haham A, 2014, BREASTFEED MED, V9, P438, DOI 10.1089/bfm.2014.0040
+   Hazelbaker AK, 2010, TONGUE TIE MORPHOGEN
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   Hong P, 2010, INT J PEDIATR OTORHI, V74, P1003, DOI 10.1016/j.ijporl.2010.05.025
+   Ingram J, 2015, ARCH DIS CHILD-FETAL, V100, pF344, DOI 10.1136/archdischild-2014-307503
+   Kamal K, 2016, ANAESTHESIA, V71, P478, DOI 10.1111/anae.13427
+   Knox I, 2010, NEOREVIEWS, V11, P513
+   Leal MC, 2017, EMERG INFECT DIS, V23, P1253, DOI 10.3201/eid2308.170354
+   Machet L, 2010, AM J CLIN DERMATOL, V11, P269, DOI 10.2165/11530090-000000000-00000
+   Marchesan IQ, 2014, TRATADO ESPECIALIDAD, P283
+   Marcione Enajes Silva Soares, 2016, Rev. CEFAC, V18, P1042, DOI 10.1590/1982-0216201618522915
+   Martinelli Roberta Lopes de Castro, 2013, Rev. CEFAC, V15, P599, DOI 10.1590/s1516-18462013005000032
+   Mintz SM, 2005, ORAL SURG ORAL MED O, V99, P321, DOI 10.1016/j.tripleo.2004.08.008
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   O'Callahan C, 2013, INT J PEDIATR OTORHI, V77, P827, DOI 10.1016/j.ijporl.2013.02.022
+   Parada C, 2015, CURR TOP DEV BIOL, V115, P31, DOI 10.1016/bs.ctdb.2015.07.023
+   Pradhan S, 2012, INT J LASER DENT, V2, P41
+   Pradhan S, 2013, INT J LASER DENT, V3, P19
+   Pransky SM, 2015, INT J PEDIATR OTORHI, V79, P1714, DOI 10.1016/j.ijporl.2015.07.033
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Svystun O, 2017, INT J PEDIATR OTORHI, V99, P54, DOI 10.1016/j.ijporl.2017.05.024
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+NR 36
+TC 1
+Z9 2
+U1 0
+U2 4
+PU ALLIANCE COMMUNICATIONS GROUP DIVISION ALLEN PRESS
+PI LAWRENCE
+PA 810 EAST 10TH STREET, LAWRENCE, KS 66044 USA
+SN 1055-6656
+EI 1545-1569
+J9 CLEFT PALATE-CRAN J
+JI Cleft Palate-Craniofac. J.
+PD NOV
+PY 2018
+VL 55
+IS 10
+BP 1391
+EP 1398
+DI 10.1177/1055665618766999
+PG 8
+WC Dentistry, Oral Surgery & Medicine; Surgery
+SC Dentistry, Oral Surgery & Medicine; Surgery
+GA GW4GX
+UT WOS:000446871400007
+PM 29613837
+DA 2020-11-24
+ER
+
+PT J
+AU Pinato, L
+   Ribeiro, EM
+   Leite, RFP
+   Lopes, TF
+   Pessoa, ALS
+   Campos, LMG
+   Piffer, GE
+   Souza, ALDM
+   Giacheti, CM
+AF Pinato, Luciana
+   Ribeiro, Erlane M.
+   Leite, Rebeka F. P.
+   Lopes, Thayse F.
+   Pessoa, Andre L. S.
+   Guissoni Campos, Leila M.
+   Piffer, Giovanna E.
+   Souza, Ana L. D. M.
+   Giacheti, Celia M.
+TI Sleep findings in Brazilian children with congenital Zika syndrome
+SO SLEEP
+LA English
+DT Article
+DE neurodevelopment; Zika virus; microcephaly; sleep habits
+ID VIRUS-INFECTION; YOUNG-CHILDREN; INFANTS; DISORDERS; MELATONIN;
+   SPECTRUM; BEHAVIOR; INTERVENTIONS; ARCHITECTURE; PATTERNS
+AB Study Objectives: Zika virus infection during pregnancy may result in congenital Zika syndrome (CZS), whose characteristics are being described.
+   Methods: The aim of the present study was to investigate the sleep characteristics of 136 infants and toddlers (88 with CZS and 48 with typical development [TD], age and gender matched, 60% girls and 40% boys in both groups) using the Brief Infant Sleep Questionnaire. The ages of children in both groups ranged from 5 to 24 months (CZS 15.9 +/- 0.4 vs. TD 15.8 +/- 1.0 months, p = 0.90).
+   Results: The results show that 34.1% of CZS and 2% of TD children were defined as poor sleepers, 15% of CZS and 2% of TD children remained awake at night for a period longer than 1 hr, and 24% of CZS and 2% of TD children slept less than 9 hr. The CZS group showed shorter total sleep time (CZS 11.24 +/- 2.6 vs. TD 12.02 +/- 1.9 hr, p = 0.03) and shorter nocturnal sleep duration than the TD group (CZS 8.2 +/- 0.2 vs. TD 9.4 +/- 0.2 hr, p = 0.0002). In contrast to the control group (p = 0.02, r = -0.34), in the CZS group, no correlation was found between age and nocturnal wakefulness. Future studies should explore these data in relation to the development and maturation of the central nervous system of these children.
+   Conclusions: Considering the well-known consequences of poor sleep quality on health in several populations, the presence of sleep disorders should be considered in CZS using multidisciplinary treatments.
+C1 [Pinato, Luciana; Souza, Ana L. D. M.; Giacheti, Celia M.] Sao Paulo State Univ UNESP, Marilia, SP, Brazil.
+   [Ribeiro, Erlane M.; Leite, Rebeka F. P.; Lopes, Thayse F.; Pessoa, Andre L. S.] Albert Sabin Childrens Hosp, Fortaleza, Ceara, Brazil.
+   [Ribeiro, Erlane M.] Christus Univ Ctr, Fortaleza, Ceara, Brazil.
+   [Guissoni Campos, Leila M.; Piffer, Giovanna E.] Univ Marilia UNIMAR, Marilia, SP, Brazil.
+   [Pessoa, Andre L. S.] State Univ Ceara UECE, Fortaleza, Ceara, Brazil.
+   CAVIVER, Fortaleza, Ceara, Brazil.
+RP Pinato, L (corresponding author), Av Hygino Muzzi Filho 737, Mirante Marilia, SP, Brazil.
+EM lpinato@marilia.unesp.br
+RI Giacheti, Celia M/I-4863-2012; Pinato, luciana/A-8314-2018
+OI Giacheti, Celia M/0000-0001-9691-4672; Guissoni Campos, Leila
+   Maria/0000-0002-2344-4750; Pinato, luciana/0000-0001-7788-9205
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [11/51495-4]
+FX This work was supported by FAPESP (11/51495-4) funding grant to L.P.
+CR ANDERS TF, 1992, PEDIATRICS, V90, P554
+   ARMSTRONG KL, 1994, MED J AUSTRALIA, V161, P202, DOI 10.5694/j.1326-5377.1994.tb127383.x
+   Begum Esmot ara, 2006, J Circadian Rhythms, V4, P11, DOI 10.1186/1740-3391-4-11
+   Bertolazi AN, 2011, SLEEP MED, V12, P70, DOI 10.1016/j.sleep.2010.04.020
+   Carvalho MDCG, 2017, CLIN NEUROPHYSIOL, V128, P204, DOI 10.1016/j.clinph.2016.11.004
+   Cragan JD, 2017, MMWR-MORBID MORTAL W, V66, P19, DOI 10.15585/mmwr.mm6608a4
+   del Campo M, 2017, AM J MED GENET A, V173, P841, DOI 10.1002/ajmg.a.38170
+   Fadini CC, 2015, FRONT HUM NEUROSCI, V9, DOI [10.3339/fnhum.2015.00347, 10.3389/fnhum.2015.00347]
+   Galland BC, 2017, BMJ OPEN, V7, DOI 10.1136/bmjopen-2016-014908
+   Gelman VS, 2001, AUST J PSYCHOL, V53, P18, DOI 10.1080/00049530108255117
+   Hazin AN, 2016, NEW ENGL J MED, V374, P2193, DOI 10.1056/NEJMc1603617
+   Hoppenbrouwers T, 2005, SLEEP, V28, P1428, DOI 10.1093/sleep/28.11.1428
+   Horner Richard L, 2017, Continuum (Minneap Minn), V23, P955, DOI 10.1212/CON.0000000000000495
+   Ivanenko A, 2009, CHILD ADOL PSYCH CL, V18, P839, DOI 10.1016/j.chc.2009.04.005
+   Juca E, 2018, CHILD NERV SYST, V34, P101, DOI 10.1007/s00381-017-3636-2
+   Kahn A, 1996, J CLIN NEUROPHYSIOL, V13, P184, DOI 10.1097/00004691-199605000-00002
+   KATARIA S, 1987, J PEDIATR-US, V110, P642, DOI 10.1016/S0022-3476(87)80571-1
+   Kortum F, 2011, J MED GENET, V48, P396, DOI 10.1136/jmg.2010.087528
+   Kuhn BR, 2000, CHILD FAM BEHAV THER, V22, P33, DOI 10.1300/J019v22n02_03
+   Malow BA, 2006, SLEEP, V29, P1563, DOI 10.1093/sleep/29.12.1563
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Meltzer LJ, 2017, J CHILD HEALTH CARE, V21, P301, DOI 10.1177/1367493517712064
+   Mindell JA, 2009, SLEEP, V32, P599, DOI 10.1093/sleep/32.5.599
+   Montemitro E, 2008, SLEEP, V31, P47, DOI 10.1093/sleep/31.1.47
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   da Silva AAM, 2016, EMERG INFECT DIS, V22, P1953, DOI 10.3201/eid2211.160956
+   Nunes ML, 2014, CLIN NEUROPHYSIOL, V125, P1121, DOI 10.1016/j.clinph.2013.10.049
+   Nunes ML, 2012, SLEEP SCI, V5, P89
+   O'Brien LM, 2004, SLEEP, V27, P279, DOI 10.1093/sleep/27.2.279
+   Owens JA, 2001, PEDIATRICS, V108, DOI 10.1542/peds.108.3.e51
+   Owens JL, 1999, SLEEP MED REV, V3, P281
+   Ozkurt Z, 2017, EURASIAN J MED, V49, P142, DOI 10.5152/eurasianjmed.2017.17147
+   Pandi-Perumal SR, 2008, PROG NEUROBIOL, V85, P335, DOI 10.1016/j.pneurobio.2008.04.001
+   Peever JH, 2007, SLEEP AND PAIN, P1
+   Sadeh A, 2002, CHILD DEV, V73, P405, DOI 10.1111/1467-8624.00414
+   Santoro SD, 2016, PHYSIOL BEHAV, V159, P14, DOI 10.1016/j.physbeh.2016.03.010
+   Bonan KCSD, 2015, ARQ NEURO-PSIQUIAT, V73, P147, DOI 10.1590/0004-282X20140214
+   Smith L, 2017, BEHAV SLEEP MED, V26, P1
+   Urfer-Maurer N, 2017, SLEEP MED, V38, P64, DOI 10.1016/j.sleep.2017.07.010
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   Aragao MDV, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1901
+   Vercosa I, 2017, J AAPOS, V21, P300, DOI 10.1016/j.jaapos.2017.05.024
+   WHO, 2016, 1 M INT HLTH REG 200
+   ZUCKERMAN B, 1987, PEDIATRICS, V80, P664
+   Zuculo GM, 2017, CHRONOBIOL INT, V34, P527, DOI 10.1080/07420528.2017.1308375
+   Zuculo GM, 2014, CODAS, V26, P447, DOI 10.1590/2317-1782/20140201435
+NR 46
+TC 7
+Z9 8
+U1 1
+U2 2
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0161-8105
+EI 1550-9109
+J9 SLEEP
+JI Sleep
+PD MAR
+PY 2018
+VL 41
+IS 3
+AR zsy009
+DI 10.1093/sleep/zsy009
+PG 7
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA FY8NZ
+UT WOS:000427123100008
+PM 29325155
+OA Bronze, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Leite, RFP
+   Santos, MSA
+   Ribeiro, EM
+   Pessoa, ALS
+   Lewis, DR
+   Giacheti, CM
+   Cavalcanti, LPD
+AF Pequeno Leite, Rebeka Ferreira
+   Aragao Santos, Marinisi Sales
+   Ribeiro, Erlane Marques
+   Santos Pessoa, Andre Luiz
+   Lewis, Doris Ruthy
+   Giacheti, Celia Maria
+   de Goes Cavalcanti, Luciano Pamplona
+TI Hearing Screening in children with Congenital Zika Virus Syndrome in
+   Fortaleza, Ceara, Brazil, 2016
+SO EPIDEMIOLOGIA E SERVICOS DE SAUDE
+LA English
+DT Article
+DE Epidemiology, Descriptive; Zika Virus Infection; Microcephaly;
+   Arboviruses; Hearing Loss
+ID INFECTION; OUTBREAK
+AB Objective: to describe the results of hearing screening performed in children with Congenital Zika Virus Syndrome (CZS) in Fortaleza, Ceara, Brazil. Methods: this was a descriptive cross-sectional study involving children with CZS receiving health care in Fortaleza, 2016; the hearing screening tests performed were immittance audiometry, transient otoacoustic emissions (TOAE), acoustic reflexes, and cochleopalpebral reflex (CPR). Results: The study included 45 children with an average age of 10 months. 44 of them underwent tympanometric screening, with 16 of these having the right ear within the normal range and 22 having the left ear within the normal range. Among the 43 children evaluated by TOAE, 30 "passed" in both ears, nine "refered" in both ears and four "refered" just in ear; 13/43 "refered" and needed to repeat screening. 43 children evaluated by CPR, 37 showed responses. Conclusion: most of the children evaluated had completed cochlear function and middle ear results refer in compatible with their age range.
+C1 [Pequeno Leite, Rebeka Ferreira; Aragao Santos, Marinisi Sales; Santos Pessoa, Andre Luiz] Hosp Infantil Albert Sabin, Secretaria Saude Estado Ceara, Fortaleza, CE, Brazil.
+   [Ribeiro, Erlane Marques] Ctr Univ Christus, Fac Med, Fortaleza, CE, Brazil.
+   [Lewis, Doris Ruthy] Pontificia Univ Catolica Sao Paulo, Programa Posgrad Fonoaudiol, Sao Paulo, Brazil.
+   [Giacheti, Celia Maria] Univ Estadual Paulista, Dept Fonoaudiol, Sao Paulo, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, CE, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Dept Saude Comunitaria, Rua Prof Costa Mendes 1608,5 Andar, BR-60430140 Fortaleza, CE, Brazil.
+EM pamplona.luciano@gmail.com
+RI Giacheti, Celia M/I-4863-2012; Cavalcanti, Luciano/N-4391-2015
+OI Giacheti, Celia M/0000-0001-9691-4672; Cavalcanti,
+   Luciano/0000-0002-3440-1182
+CR American Academy of Pediatrics, 2007, PEDIATRICS
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cohen BE, 2014, TRENDS HEAR, V18, DOI 10.1177/2331216514541361
+   de Carvalho Leal M, 2016, BRAZ J OTORHINOLAR, V30, P30127
+   Di Francesco Renata Cantisani, 2016, Rev. paul. pediatr., V34, P148, DOI [10.1016/j.rpped.2015.08.005, 10.1016/j.rppede.2016.01.003]
+   Eickmann SH, 2016, ZIKA VIRUS CONGENITA
+   Garcia Michele Vargas, 2009, Braz J Otorhinolaryngol, V75, P80
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   JERGER J, 1970, ARCHIV OTOLARYNGOL, V92, P311
+   Leal MC, 2016, MMWR-MORBID MORTAL W, V65, P917, DOI 10.15585/mmwr.mm6534e3
+   Lewis DR, 2010, BRAZ J OTORHINOLAR, V76, P121, DOI 10.1590/S1808-86942010000100020
+   Linares Ana Emilia, 2008, Braz J Otorhinolaryngol, V74, P410
+   Ministerio da Saude, 2015, PROT VIG RESP OC MIC
+   Ministerio da Saude (BR), 2017, B EP
+   Ministerio da Saude (BR), 2015, MIN SAUD CONF REL EN
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   MOLLER AAGE R., 1962, JOUR ACOUSTICAL SOC AMER, V34, P1524, DOI 10.1121/1.1918384
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Redondo MC, 2015, MANUAL AUDIOLOGIA PE, P58
+   Saes Sandra de O, 2005, J Pediatr (Rio J), V81, P133
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Aragao MDV, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1901
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 2
+PU MINISTERIO DA SAUDE
+PI BRASILIA
+PA ESPLANADA MINISTERIOS, BLOCO G, BRASILIA, DF 70058-900, BRAZIL
+SN 1679-4974
+EI 2237-9622
+J9 EPIDEMIOL SERV SAUDE
+JI Epidemiol. Serv. Saude
+PY 2018
+VL 27
+IS 4
+AR UNSP e2017553
+DI 10.5123/S1679-49742018000400002
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HI8FE
+UT WOS:000456689900012
+PM 30427400
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Costa, GM
+   Rossi, NF
+   Giacheti, CM
+AF Costa, Gabriela Mello
+   Rossi, Natalia Freitas
+   Giacheti, Celia Maria
+TI Performance of Brazilian Portuguese speakers in the Test of Narrative
+   Language (TNL)
+SO CODAS
+LA Portuguese
+DT Article
+DE Narration; Child Language; Evaluation; Language Development; Language
+   Tests
+ID TYPICALLY DEVELOPING-CHILDREN; BILINGUAL-CHILDREN; IMPAIRMENT; SKILLS;
+   LITERACY; DISORDER
+AB Purpose: To investigate the performance of Brazilian Portuguese speakers in the Test of Narrative Language and to correlate the performance in the production and comprehension tasks of the narrative. Methods: Participants were 140 individuals aged between 5 and 11 years and 11 months of age with typical language development who divided according to their age group. Results: The five-year-old group was different from all the other groups and the six-year-old group was different from eight, nine, ten and eleven- year-old groups. The seven-year group did not differ from the six- and eight-year groups. Half of the seven-year group attended the first year of school and the other half the second year, which may have contributed to the non-differentiation of the group with the border age groups. No statistically significant difference was found between groups from the age or eight years. There was a positive correlation between comprehension and production performance in the age groups of five, six and seven years, which did not occur for the other groups. Conclusion: The test differentiated the age groups of five, six and seven years, which did not occur in the age groups from the age of eight. Also front the age of eight. no correlation was found between production and narrative comprehension, which suggest the mastery of both skills front this age group.
+C1 [Costa, Gabriela Mello; Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Estadual Paulista, Fac Filosofia & Ciencias, UNESP, Ave Higyno Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+   [Costa, Gabriela Mello; Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Fed Sao Carlos UFSCar, Inst Nacl Ciencia & Tecnol Comportamento Cognicao, Sao Carlos, SP, Brazil.
+RP Giacheti, CM (corresponding author), Univ Estadual Paulista, Fac Filosofia & Ciencias, UNESP, Ave Higyno Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+EM giacheti@uol.com.br
+RI Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+CR Anthony S, 2009, CONT ISSUES COMMUN S, V36, P5
+   Bento Ana Carolina Paiva, 2010, Pró-Fono R. Atual. Cient., V22, P503, DOI 10.1590/S0104-56872010000400024
+   Botting N, 2002, CHILD LANG TEACH THE, V18, P1, DOI DOI 10.1191/0265659002ct224oa
+   BRANDAO A. C. P., 2001, ESTUDOS PSICOLOGIA, V6, P51, DOI DOI 10.1590/S1413-294X2001000100006
+   Colozzo P, 2011, J SPEECH LANG HEAR R, V54, P1609, DOI 10.1044/1092-4388(2011/10-0247)
+   Crosbie S, 2011, INT J LANG COMM DIS, V46, P83, DOI 10.3109/13682821003624998
+   Demir OE, 2015, DEV PSYCHOL, V51, P161, DOI 10.1037/a0038476
+   Domsch C, 2012, INT J LANG COMM DIS, V47, P197, DOI 10.1111/j.1460-6984.2011.00095.x
+   Eisenberg SL, 2008, LANG SPEECH HEAR SER, V39, P145, DOI 10.1044/0161-1461(2008/014)
+   Giacheti CM, 2016, AVALIACAO FALA LINGU, P245
+   Gillam R. B., 2004, TNL TEST NARRATIVE L
+   Gillam R. B., 2017, TNL TEST NARRATIVE L
+   Gillam RB, 2013, J SPEECH LANG HEAR R, V56, P1813, DOI 10.1044/1092-4388(2013/12-0056)
+   Gillam SL, 2017, COMMUN DISORD Q, V38, P96, DOI 10.1177/1525740116651442
+   Gillam SL, 2016, TOP LANG DISORD, V36, P20, DOI 10.1097/TLD.0000000000000081
+   Heilmann JJ, 2010, LANG SPEECH HEAR SER, V41, P84, DOI 10.1044/0161-1461(2009/08-0075)
+   Justice LM, 2006, AM J SPEECH-LANG PAT, V15, P177, DOI 10.1044/1058-0360(2006/017)
+   Khan KS, 2016, J SPEECH LANG HEAR R, V59, P1395, DOI 10.1044/2016_JSLHR-L-15-0275
+   Lins ME, 2007, REV BRAS ESTUD PEDAG, P5
+   Luo F, 2008, CLIN LINGUIST PHONET, V22, P25, DOI 10.1080/02699200701627430
+   McKeough A, 2000, MINDS MAKING, P98
+   Melo LE, 2008, CALIDOSCOPIO, V6, P20
+   Miles S, 2002, J SPEECH LANG HEAR R, V45, P175, DOI 10.1044/1092-4388(2002/013)
+   Norbury CF, 2014, J CHILD LANG, V41, P485, DOI 10.1017/S030500091300007X
+   Rossi NF, 2016, CODAS, V28, DOI 10.1590/2317-1782/20162016018
+   Spinillo AG, 2012, PSICOL-TEOR PESQUI, V7, P311
+   SPINILLO AG, 1997, PSICOL-REFLEX CRIT, V10, P219, DOI DOI 10.1590/S0102-79721997000200004
+   Squires KE, 2014, INT J LANG COMM DIS, V49, P60, DOI 10.1111/1460-6984.12044
+   Wellman RL, 2011, LANG SPEECH HEAR SER, V42, P561, DOI 10.1044/0161-1461(2011/10-0038)
+   Whitely C, 2013, J SPEECH LANG HEAR R, V56, P1625, DOI 10.1044/1092-4388(2013/12-0176)
+NR 30
+TC 0
+Z9 0
+U1 1
+U2 2
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PY 2018
+VL 30
+IS 4
+AR e20170148
+DI 10.1590/2317-1782/20182017148
+PG 7
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA HA1NQ
+UT WOS:000449981000006
+PM 30043829
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Franklin, AM
+   Giacheti, CM
+   da Silva, NC
+   Campos, LMG
+   Pinato, L
+AF Franklin, Amanda Maiao
+   Giacheti, Celia Maria
+   da Silva, Nathani Cristina
+   Guissoni Campos, Leila Maria
+   Pinato, Luciana
+TI Correlation between sleep profile and behavior in individuals with
+   specific learning disorder
+SO CODAS
+LA Portuguese
+DT Article
+DE Neurodevelopment; Behavior; Sleep; CBCL; Learning
+ID CHILDREN; LANGUAGE; PREVALENCE; PATTERNS
+AB Purpose: This study aimed to correlate sleep profile and behavior in individuals with Specific Learning Disorder (SLD). Methods: The Sleep General Habits Questionnaire, Sleep Diary, and Sleep Disturbance Scale for Children (SDSC) were used in analysis of sleep. whereas the Child Behavior Checklist (CBCL) inventory was used in analysis of behavior. Results: 65.5% of the individuals with SLD presented symptoms of sleep disorders. most frequently wakefulness-sleep transition and sleep disturbance total score, which showed values higher than acceptable. In addition, individuals with SLD presented higher sleep latency than those with typical development. Concerning behavior, 72.4% of the individuals with SLD presented clinical condition of behavior problems. In the control group, none of the participants showed symptoms Asleep or behavior problems. In the SLD group. correlation was observed between behavioral problems and sleep disturbance. Conclusion: Individuals with SLD showed high rates of sleep disturbance and behavioral problems. The worse the sleep disturbance, the worse the behavioral aspects in these individuals.
+C1 [Franklin, Amanda Maiao; Giacheti, Celia Maria; da Silva, Nathani Cristina; Pinato, Luciana] Univ Estadual Paulista, UNESP, Fac Filosofia & Ciencias, Marilia, SP, Brazil.
+   [Guissoni Campos, Leila Maria] Univ Marilia UNIMAR, Marilia, SP, Brazil.
+RP Pinato, L (corresponding author), Av Hygino Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+EM lpinato@marilia.unesp.br
+RI Giacheti, Celia M/I-4863-2012; Pinato, luciana/A-8314-2018
+OI Giacheti, Celia M/0000-0001-9691-4672; da Silva, Nathani
+   Cristina/0000-0001-8828-9854; Pinato, luciana/0000-0001-7788-9205;
+   Guissoni Campos, Leila Maria/0000-0002-2344-4750
+CR American Psychiatric Association, 2013, DIAGN STAT MAN MENT
+   (ASHA) AS-L-HA, 1993, DEF COMM DIS VAR
+   Belisio A. S., 2010, SLEEP SCI, V3, P82
+   Blissitt P A, 2001, J Neurosci Nurs, V33, P208
+   Bordin IA, 2013, CAD SAUDE PUBLICA, V29, P13, DOI 10.1590/S0102-311X2013000100004
+   Byars AW, 2014, EPILEPSY BEHAV, V31, P167, DOI 10.1016/j.yebeh.2013.11.007
+   Deriziotis P, 2017, TRENDS GENET, V33, P642, DOI 10.1016/j.tig.2017.07.002
+   Dewald JF, 2010, SLEEP MED REV, V14, P179, DOI 10.1016/j.smrv.2009.10.004
+   Engle-Friedman M, 2003, J SLEEP RES, V12, P113, DOI 10.1046/j.1365-2869.2003.00351.x
+   Fadini CC, 2015, FRONT HUM NEUROSCI, V9, DOI [10.3339/fnhum.2015.00347, 10.3389/fnhum.2015.00347]
+   Fensterseifer GS, 2013, BRAZ J OTORHINOLAR, V79, P620, DOI 10.5935/1808-8694.20130111
+   Ferreira VR, 2009, SLEEP MED, V10, P457, DOI 10.1016/j.sleep.2008.03.018
+   Giacheti CM, 2016, AVALIACAO FALA LINGU
+   Gomes AD, 2012, BRAZ J OTORHINOLAR, V78, P12, DOI 10.5935/1808-8694.20120003
+   Gregory AM, 2012, SLEEP MED REV, V16, P129, DOI 10.1016/j.smrv.2011.03.007
+   Gupta R, 2008, INDIAN PEDIATR, V45, P183
+   Hochadel J, 2014, PSYCHOPATHOLOGY, V47, P119, DOI 10.1159/000345403
+   Kaemingk KL, 2003, J INT NEUROPSYCH SOC, V9, P1016, DOI 10.1017/S1355617703970056
+   Moll K, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0103537
+   O'Brien LM, 2004, PEDIATR CLIN N AM, V51, P187, DOI 10.1016/S0031-3955(03)00184-6
+   Owens Judith, 2000, Sleep Breath, V4, P67, DOI 10.1055/s-2000-19814
+   Pham AV, 2015, CURR PSYCHIAT REP, V17, DOI 10.1007/s11920-015-0584-y
+   RHODES SK, 1995, J PEDIATR-US, V127, P741, DOI 10.1016/S0022-3476(95)70164-8
+   Saur D, 2010, NEUROIMAGE, V49, P3187, DOI 10.1016/j.neuroimage.2009.11.009
+   Schirmer Carolina R., 2004, J. Pediatr. (Rio J.), V80, P95, DOI 10.1590/S0021-75572004000300012
+   Silver CH, 2008, ARCH CLIN NEUROPSYCH, V23, P217, DOI 10.1016/j.acn.2007.09.006
+   Stein LM, 1994, TDE TESTE EESEMPENHO, P1
+   Tomblin JB, 2000, J CHILD PSYCHOL PSYC, V41, P473, DOI 10.1111/1469-7610.00632
+   Velez-Galarraga R, 2016, EUR J PAEDIATR NEURO, V20, P925, DOI 10.1016/j.ejpn.2016.07.004
+   Wiggs L, 2004, DEV MED CHILD NEUROL, V46, P372
+   Zuculo GM, 2014, CODAS, V26, P447, DOI 10.1590/2317-1782/20140201435
+NR 31
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PY 2018
+VL 30
+IS 3
+AR e20170104
+DI 10.1590/2317-1782/20182017104
+PG 8
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA HA1NO
+UT WOS:000449980600007
+PM 29972444
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Rossi, NF
+   Giacheti, CM
+AF Rossi, N. F.
+   Giacheti, C. M.
+TI Association between speech-language, general cognitive functioning and
+   behaviour problems in individuals with Williams syndrome
+SO JOURNAL OF INTELLECTUAL DISABILITY RESEARCH
+LA English
+DT Article
+DE behavioural; cognition; speech-language; Williams syndrome
+ID LONGITUDINAL COURSE; GENETIC INFLUENCES; BEUREN SYNDROME;
+   YOUNG-CHILDREN; IMPAIRMENT; NARRATIVES; ADULTS; AGE; DISSOCIATIONS;
+   PERSONALITY
+AB BackgroundWilliams syndrome (WS) phenotype is described as unique and intriguing. The aim of this study was to investigate the associations between speech-language abilities, general cognitive functioning and behavioural problems in individuals with WS, considering age effects and speech-language characteristics of WS sub-groups.
+   MethodsThe study's participants were 26 individuals with WS and their parents. General cognitive functioning was assessed with the Wechsler Intelligence Scale. Peabody Picture Vocabulary Test, Token Test and the Cookie Theft Picture test were used as speech-language measures. Five speech-language characteristics were evaluated from a 30-min conversation (cliches, echolalia, perseverative speech, exaggerated prosody and monotone intonation). The Child Behaviour Checklist (CBCL 6-18) was used to assess behavioural problems.
+   ResultsHigher single-word receptive vocabulary and narrative vocabulary were negatively associated with CBCL T-scores for Social Problems, Aggressive Behaviour and Total Problems. Speech rate was negatively associated with the CBCL Withdrawn/Depressed T-score. Monotone intonation was associated with shy behaviour, as well as exaggerated prosody with talkative behaviour. WS with perseverative speech and exaggerated prosody presented higher scores on Thought Problems. Echolalia was significantly associated with lower Verbal IQ. No significant association was found between IQ and behaviour problems. Age-associated effects were observed only for the Aggressive Behaviour scale.
+   ConclusionsAssociations reported in the present study may represent an insightful background for future predictive studies of speech-language, cognition and behaviour problems in WS.
+C1 [Rossi, N. F.; Giacheti, C. M.] Sao Paulo State Univ UNESP, Speech Language & Hearing Sci Master Program, Sao Paulo, Brazil.
+   [Giacheti, C. M.] Sao Paulo State Univ UNESP, Speech Language & Hearing Sci Dept, Sao Paulo, Brazil.
+RP Rossi, NF (corresponding author), Sao Paulo State Univ, Language & Hearing Sci Master Program, Hygino Muzzi Filho Ave 737, BR-17525000 Sao Paulo, Brazil.
+EM nataliafreitasrossi@yahoo.com.br
+RI Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [141307/2006-4, 309294/2015-0, 465686/2014-1]; Coordenacao de
+   Aperfeicoamento de Pessoal de Ensino Superior (Programa Nacional de
+   Pos-Doutorado, PNPD); Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP) [2014/50909-8]
+FX This research was supported by Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq, grant 141307/2006-4 and 309294/2015-0)
+   and Coordenacao de Aperfeicoamento de Pessoal de Ensino Superior
+   (Programa Nacional de Pos-Doutorado, PNPD). This research was part of
+   the scientific programme of Instituto Nacional de Ciencia e Tecnologia
+   sobre Comportamento, Cognicao e Ensino, with support from Conselho
+   Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq, grant no.
+   465686/2014-1) and the Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP, grant no. 2014/50909-8). We thank Danilo
+   Moretti-Ferreira, Deise H. de Souza and Agnes Fett-Conte for genetic
+   diagnostic and Carolyn B. Mervis who read the manuscript and gave
+   valuable suggestions.
+CR Achenbach TM, 2001, MANUAL ASEBA SCH AGE, P99
+   Alves D., 2005, REV CEFAC, V7, P13
+   Bellugi U, 2000, J COGNITIVE NEUROSCI, V12, P7, DOI 10.1162/089892900561959
+   Bordin I. A. S., 2001, CHILD BEHAV CHECKLIS
+   Bordin IA, 2013, CAD SAUDE PUBLICA, V29, P13, DOI 10.1590/S0102-311X2013000100004
+   Capovilla F. C., 1997, CIENCIA COGNITIVA TE, P381
+   Croisile B, 1996, BRAIN LANG, V53, P1, DOI 10.1006/brln.1996.0033
+   de Villiers J, 2007, J AUTISM DEV DISORD, V37, P1375, DOI 10.1007/s10803-006-0264-1
+   DERENZI E, 1978, CORTEX, V14, P41, DOI 10.1016/S0010-9452(78)80006-9
+   Desmarais C, 2008, INT J LANG COMM DIS, V43, P361, DOI 10.1080/13682820701546854
+   Einfeld SL, 2001, AM J MENT RETARD, V106, P73, DOI 10.1352/0895-8017(2001)106<0073:LCOBAE>2.0.CO;2
+   Elison S, 2010, RES DEV DISABIL, V31, P587, DOI 10.1016/j.ridd.2009.12.013
+   Ellis E. M., 2008, PERSPECTIVES LANGUAG, V15, P93, DOI [DOI 10.1044/LLE15.3.93, 10.1044/lle15.3.93]
+   EWART AK, 1993, NAT GENET, V5, P11, DOI 10.1038/ng0993-11
+   Figueiredo V. L. M., 2001, ADAPTACAO AMOSTRA BR
+   Goncalves O. F., 2004, INT J CLIN HLTH PSYC, V4, P623
+   Goncalves OF, 2010, BRIT J DEV DISABIL, V56, P89, DOI 10.1179/096979510799102943
+   Goodglass H, 1983, ASSESSMENT APHASIA R
+   Gosch A, 1996, AM J MED GENET, V61, P26, DOI 10.1002/(SICI)1096-8628(19960102)61:1<26::AID-AJMG5>3.3.CO;2-V
+   Gosch A, 1997, DEV MED CHILD NEUROL, V39, P527
+   Haas BW, 2009, J NEUROSCI, V29, P1132, DOI 10.1523/JNEUROSCI.5324-08.2009
+   Hahn LJ, 2014, AJIDD-AM J INTELLECT, V119, P49, DOI 10.1352/1944-7558-119.1.49
+   Hartley SL, 2008, J MENT HEALTH RES IN, V2, P11, DOI 10.1080/19315860802601317
+   Hatton DD, 2002, AM J MED GENET, V108, P105, DOI 10.1002/ajmg.10216
+   Hughes D. L., 1997, GUIDE NARRATIVE LANG, P204
+   Jones W, 2000, J COGNITIVE NEUROSCI, V12, P30, DOI 10.1162/089892900561968
+   Karmiloff-Smith A, 2003, DEV NEUROPSYCHOL, V23, P227, DOI 10.1207/S15326942DN231&2_10
+   Kirchner RM, 2016, FRONT PSYCHOL, V7, DOI 10.3389/fpsyg.2016.00598
+   Klein-Tasman BP, 2007, CHILD NEUROPSYCHOL, V13, P444, DOI 10.1080/09297040601033680
+   Klein-Tasman BP, 2015, AJIDD-AM J INTELLECT, V120, P72, DOI 10.1352/1944-7558-120.1.72
+   Laws G, 2004, INT J LANG COMM DIS, V39, P45, DOI 10.1080/13682820310001615797
+   Lincoln AJ, 2007, J AM ACAD CHILD PSY, V46, P323, DOI 10.1097/chi.0b013e31802b9522
+   Losh M, 2000, NARRAT INQ, V10, P265, DOI 10.1075/ni.10.2.01los
+   Mairesse F, 2007, J ARTIF INTELL RES, V30, P457, DOI 10.1613/jair.2349
+   Malloy-Diniz LF, 2007, REV NEUROLOGIA, V44, P275, DOI 10.33588/rn.4405.2006089
+   Martens MA, 2008, J CHILD PSYCHOL PSYC, V49, P576, DOI 10.1111/j.1469-7610.2008.01887.x
+   Mervis CB, 2007, MENT RETARD DEV D R, V13, P3, DOI 10.1002/mrdd.20140
+   Mervis CB, 2001, AM J MENT RETARD, V106, P82, DOI 10.1352/0895-8017(2001)106<0082:ABOTYO>2.0.CO;2
+   Meyer-Lindenberg A, 2006, NAT REV NEUROSCI, V7, P380, DOI 10.1038/nrn1906
+   Nascimento E., 2004, ADAPTACAO VALIDACAO
+   Ng R, 2014, RES DEV DISABIL, V35, P2403, DOI 10.1016/j.ridd.2014.06.010
+   Nunes Carlos Henrique Sancineto da Silva, 2006, Psico-USF, V11, P147, DOI 10.1590/S1413-82712006000200003
+   Osborne Lucy R., 2007, Expert Reviews in Molecular Medicine, V9, P1, DOI 10.1017/S146239940700035X
+   Osorio A., 2016, CHILD NEUROPSYCHOL, P1
+   Perez-Garcia D, 2011, RES DEV DISABIL, V32, P643, DOI 10.1016/j.ridd.2010.12.005
+   Perez-Garcia D, 2017, AJIDD-AM J INTELLECT, V122, P156, DOI 10.1352/1944-7558-122.2.156
+   Peterson C, 2001, SEX ROLES, V45, P801, DOI 10.1023/A:1015692403932
+   Porter MA, 2005, DEV NEUROPSYCHOL, V27, P275, DOI 10.1207/s15326942dn2702_5
+   Porter MA, 2009, CHILD NEUROPSYCHOL, V15, P359, DOI 10.1080/09297040802577881
+   Reilly J, 2004, BRAIN LANG, V88, P229, DOI 10.1016/S0093-934X(03)00101-9
+   Rescorla L, 2007, J SPEECH LANG HEAR R, V50, P1063, DOI 10.1044/1092-4388(2007/074)
+   Rhodes SM, 2010, NEUROPSYCHOLOGIA, V48, P1216, DOI 10.1016/j.neuropsychologia.2009.12.021
+   Rocha MM, 2013, EPIDEMIOL PSYCH SCI, V22, P329, DOI 10.1017/S2045796012000637
+   Rossi Natalia Freitas, 2007, Rev. soc. bras. fonoaudiol., V12, P1, DOI 10.1590/S1516-80342007000100003
+   Sampaio A, 2009, EUR J PAEDIATR NEURO, V13, P337, DOI 10.1016/j.ejpn.2008.06.010
+   Searcy YM, 2004, AM J MENT RETARD, V109, P231, DOI 10.1352/0895-8017(2004)109<231:TRBAAI>2.0.CO;2
+   Stojanovik V, 2001, INT J LANG COMM DIS, V36, P234, DOI 10.3109/13682820109177890
+   Stromme P, 2002, J CHILD NEUROL, V17, P269, DOI 10.1177/088307380201700406
+   Teixeira Maria Cristina Triguero Veloz, 2010, Pró-Fono R. Atual. Cient., V22, P215, DOI 10.1590/S0104-56872010000300010
+   Tomblin JB, 2000, J CHILD PSYCHOL PSYC, V41, P473, DOI 10.1111/1469-7610.00632
+   van Daal J, 2007, J CHILD PSYCHOL PSYC, V48, P1139, DOI 10.1111/j.1469-7610.2007.01790.x
+   van der Fluit F, 2012, FRONT PSYCHOL, V3, DOI 10.3389/fpsyg.2012.00197
+   Willinger U, 2003, CAN J PSYCHIAT, V48, P607, DOI 10.1177/070674370304800907
+   Woodruff-Borden J, 2010, AM J MED GENET C, V154C, P277, DOI 10.1002/ajmg.c.30259
+NR 64
+TC 3
+Z9 3
+U1 0
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0964-2633
+EI 1365-2788
+J9 J INTELL DISABIL RES
+JI J. Intell. Disabil. Res.
+PD JUL
+PY 2017
+VL 61
+IS 7
+BP 707
+EP 718
+DI 10.1111/jir.12388
+PG 12
+WC Education, Special; Genetics & Heredity; Clinical Neurology; Psychiatry;
+   Rehabilitation
+SC Education & Educational Research; Genetics & Heredity; Neurosciences &
+   Neurology; Psychiatry; Rehabilitation
+GA EX7WV
+UT WOS:000403461000008
+PM 28612476
+DA 2020-11-24
+ER
+
+PT J
+AU Osorio, AAC
+   Rossi, NF
+   Goncalves, OF
+   Sampaio, A
+   Giacheti, CM
+AF Osorio, Ana A. C.
+   Rossi, Natalia F.
+   Goncalves, Oscar F.
+   Sampaio, Adriana
+   Giacheti, Celia M.
+TI Psychopathology and behavior problems in children and adolescents with
+   Williams syndrome: Distinctive relationships with cognition
+SO CHILD NEUROPSYCHOLOGY
+LA English
+DT Article
+DE Williams syndrome; Psychopathology; Behavior problems; Cognitive
+   abilities
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; EMOTIONAL DISTURBANCE; BEUREN
+   SYNDROME; ANXIETY; INDIVIDUALS; PERSONALITY; PREVALENCE; PHENOTYPES;
+   CHECKLIST; FEATURES
+AB Several studies have documented the high prevalence of psychopathology and behavior problems in Williams syndrome (WS). However, the links between cognitive development and such symptoms need further clarification. Our study aims to expand current knowledge on levels of behavior problems and its links to cognition in a sample of Brazilian individuals with WS. A total of 25 children and adolescents with WS and their parents participated in this study. The participants' IQs were assessed with the Wechsler Scales of Intelligence (for children or adults) and parental reports of psychopathology/behavior problems were collected using the Child Behavior Checklist (CBCL). The presence of clinically significant attention problems was a main feature in our sample of children and adolescents with WS. In the children, higher IQ scores were found to be significantly associated with less externalizing problems, while in the adolescents cognitive abilities were found to be associated with less internalizing symptoms. These results provide further insight into the links between psychopathology and behavior problems and cognitive abilities in WS, and suggest the need to take age into consideration when analyzing such relationships.
+C1 [Osorio, Ana A. C.] Univ Prebiteriana Mackenzie, Ctr Biol & Hlth Sci, Sao Paulo, Brazil.
+   [Osorio, Ana A. C.; Goncalves, Oscar F.; Sampaio, Adriana] Univ Minho, CIPsi Sch Psychol, Braga, Portugal.
+   [Rossi, Natalia F.; Giacheti, Celia M.] Sao Paulo State Univ UNESP, Postgrad Program Speech Language Pathol & Audiol, Sao Paulo, Brazil.
+   [Goncalves, Oscar F.] Harvard Med Sch, Spaulding Rehabil Hosp, Dept Phys Med & Rehabil, Charlestown, MA USA.
+   [Goncalves, Oscar F.] Harvard Med Sch, Massachusetts Gen Hosp, Charlestown, MA USA.
+   [Goncalves, Oscar F.] Northeastern Univ, Bouve Coll Hlth Sci, Appl Psychol Dept, Boston, MA 02115 USA.
+   [Giacheti, Celia M.] Sao Paulo State Univ UNESP, Dept Speech Language Pathol & Audiol, Marilia, Brazil.
+RP Osorio, AAC (corresponding author), Univ Prebiteriana Mackenzie, Ctr Biol & Hlth Sci, Sao Paulo, Brazil.; Osorio, AAC (corresponding author), Univ Minho, CIPsi Sch Psychol, Braga, Portugal.
+EM ana.osorio@mackenzie.br
+RI Goncalves, Oscar/G-5278-2010; Sampaio, Adriana/C-8361-2011; Giacheti,
+   Celia M/I-4863-2012
+OI Goncalves, Oscar/0000-0003-2735-9155; Sampaio,
+   Adriana/0000-0001-7347-1282; Giacheti, Celia M/0000-0001-9691-4672;
+   Osorio, Ana/0000-0002-1692-4609
+FU CAPESCAPES [BEX 1551/08-6, BEX 9573/11-9]; CNPqNational Council for
+   Scientific and Technological Development (CNPq) [308540/2012-3,
+   487188/2013-6]; FEDER through the Competitive Factors Operational
+   Programme (COMPETE); national funds from the Portuguese Foundation for
+   Science and Technology [PTDC/PSI-PCL/115316/2009]
+FX This work was supported by CAPES [grant numbers BEX 1551/08-6 and BEX
+   9573/11-9]; CNPq [grant numbers 308540/2012-3 and 487188/2013-6]; and
+   FEDER through the Competitive Factors Operational Programme (COMPETE)
+   and national funds from the Portuguese Foundation for Science and
+   Technology [grant number PTDC/PSI-PCL/115316/2009].
+CR Achenbach T. M., 2001, MANUAL ASEBA SCH AGE
+   Atkinson J, 2003, DEV NEUROPSYCHOL, V23, P139, DOI 10.1207/S15326942DN231&2_7
+   Bellugi U, 2000, J COGNITIVE NEUROSCI, V12, P7, DOI 10.1162/089892900561959
+   Bellugi U, 2001, CLIN NEUROSCI RES, V1, P217, DOI 10.1016/S1566-2772(01)00008-1
+   Bordin IA, 2009, B WORLD HEALTH ORGAN, V87, P336, DOI 10.2471/BLT.07.043125
+   Capitao L, 2011, RES DEV DISABIL, V32, P1169, DOI 10.1016/j.ridd.2011.01.006
+   COHEN J, 1992, PSYCHOL BULL, V112, P155, DOI 10.1037/0033-2909.112.1.155
+   Dodd HF, 2009, J MENT HEALTH RES IN, V2, P89, DOI 10.1080/19315860902725867
+   Dykens EM, 2003, DEV NEUROPSYCHOL, V23, P291, DOI 10.1207/S15326942DN231&2_13
+   Dykens EM, 1999, AM J MENT RETARD, V104, P158, DOI 10.1352/0895-8017(1999)104<0158:RBPPIW>2.0.CO;2
+   EINFELD SL, 1995, J AUTISM DEV DISORD, V25, P81, DOI 10.1007/BF02178498
+   Einfeld SL, 1997, AM J MENT RETARD, V102, P45, DOI 10.1352/0895-8017(1997)102<0045:BAEDII>2.0.CO;2
+   Farran EK, 2001, J CHILD PSYCHOL PSYC, V42, P719, DOI 10.1111/1469-7610.00768
+   Figueiredo VLM, 2001, ESCALA INTELIGENCIA
+   Gagliardi C, 2011, J INTELL DISABIL RES, V55, P121, DOI 10.1111/j.1365-2788.2010.01376.x
+   Greer MK, 1997, AM J MED GENET, V74, P521, DOI 10.1002/(SICI)1096-8628(19970919)74:5<521::AID-AJMG13>3.0.CO;2-E
+   Kennedy J. C. M. D., 2006, JEFFERSON J PSYCHIAT, V20, P4
+   Klein-Tasman BP, 2015, AJIDD-AM J INTELLECT, V120, P72, DOI 10.1352/1944-7558-120.1.72
+   Korenberg JR, 2000, J COGNITIVE NEUROSCI, V12, P89, DOI 10.1162/089892900562002
+   Leyfer OT, 2006, AM J MED GENET B, V141B, P615, DOI 10.1002/ajmg.b.30344
+   Martens MA, 2008, J CHILD PSYCHOL PSYC, V49, P576, DOI 10.1111/j.1469-7610.2008.01887.x
+   Martens MA, 2013, RES DEV DISABIL, V34, P1700, DOI 10.1016/j.ridd.2013.02.015
+   Mervis CB, 2000, MENT RETARD DEV D R, V6, P148
+   Nascimento E., 2004, ADAPTACAO VALIDACAO
+   Ng R, 2014, RES DEV DISABIL, V35, P2403, DOI 10.1016/j.ridd.2014.06.010
+   Papaeliou C, 2012, CHILD CARE HLTH DEV, V38, P844, DOI 10.1111/j.1365-2214.2011.01306.x
+   Porter MA, 2009, CHILD NEUROPSYCHOL, V15, P359, DOI 10.1080/09297040802577881
+   Rhodes SM, 2011, J CLIN EXP NEUROPSYC, V33, P147, DOI 10.1080/13803395.2010.495057
+   Rocha MM, 2013, EPIDEMIOL PSYCH SCI, V22, P329, DOI 10.1017/S2045796012000637
+   Semel E. M., 2003, UNDERSTANDING WILLIA
+   SPSS Inc, 2009, PASW STAT WIND VERS
+   Stromme P, 2002, J CHILD NEUROL, V17, P269, DOI 10.1177/088307380201700406
+   Teixeira Maria Cristina Triguero Veloz, 2010, Pró-Fono R. Atual. Cient., V22, P215, DOI 10.1590/S0104-56872010000300010
+   Woodruff-Borden J, 2010, AM J MED GENET C, V154C, P277, DOI 10.1002/ajmg.c.30259
+NR 34
+TC 6
+Z9 6
+U1 0
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0929-7049
+EI 1744-4136
+J9 CHILD NEUROPSYCHOL
+JI Child Neuropsychol.
+PY 2017
+VL 23
+IS 6
+BP 631
+EP 641
+DI 10.1080/09297049.2016.1183607
+PG 11
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA EW7DJ
+UT WOS:000402669700001
+PM 27224940
+DA 2020-11-24
+ER
+
+PT J
+AU Ganthous, G
+   Rossi, NF
+   Giacheti, CM
+AF Ganthous, Giulia
+   Rossi, Natalia Freitas
+   Giacheti, Celia Maria
+TI Oral narrative of individuals with Fetal Alcohol Spectrum Disorder
+SO CODAS
+LA English
+DT Article
+DE Language; Narration; Speech,Language and Hearing Sciences; Language
+   Development Disorders; Fetal Alcohol Spectrum Disorder
+AB Purpose: To investigate and compare the oral narrative of individuals with FASD and individuals with typical language development (TLD), as well as to correlate the narrative performance with the score from 4-Digit Diagnostic Code. Methods: Participants were 20 individuals with FASD, of both genders, with chronological age between 6 and 16 years, and 20 individuals with TLD, same gender and similar to the FASD group in age and socioeconomic status. The oral narrative was elicited using the hook Frog, where are you? and the data were analyzed in terms of macrostructure, microstructure and global coherence level. Measures regarding the macrostructure included the presence of typical structural elements of storytelling, while the microstructural aspects included words (total and different words). communication units (C-Units). lexical diversity, and mean length of C-Units. Results: Low performance was found in the FASD group for all macrostructural aspects. with the exception of linguistic markers. Among the microstructural aspects. lexical diversity and incomplete C-Units were different between the FASD and TLD groups. The FASD group presented lower global coherence level compared to the TLD group. Negative correlations were found between macrostructural aspects, facial characteristics, and Central Nervous System impairment. Conclusion: Restricted use of typical structural elements of storytelling with lower levels of coherence and reduced vocabulary distinguished the FASD from the TDL group. Future studies may explore whether the association between narrative performance and the 4-Digit Diagnostic Code items present predictive values in the narrative performance of individuals with FASD.
+C1 [Ganthous, Giulia; Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Estadual Paulista, UNESP, Postgrad Program Speech Language Therapy, Lab Estudos Avaliacao & Diagnost Fonoaudiol LEAD, Marilia, SP, Brazil.
+   [Ganthous, Giulia; Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Estadual Paulista, UNESP, Av Hygino Muzzy Filho,737,Campus Univ, BR-17525900 Marilia, SP, Brazil.
+   [Ganthous, Giulia; Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Fed Sao Carlos, UFSCar, Inst Nacl Ciencia & Tecnol Comportamento Cognicao, INCT,ECCE, Sao Carlos, SP, Brazil.
+RP Giacheti, CM (corresponding author), Univ Estadual Paulista, UNESP, Av Hygino Muzzy Filho,737,Campus Univ, BR-17525900 Marilia, SP, Brazil.; Giacheti, CM (corresponding author), Univ Fed Sao Carlos, UFSCar, Inst Nacl Ciencia & Tecnol Comportamento Cognicao, INCT,ECCE, Sao Carlos, SP, Brazil.
+EM giacheti@uol.com.br
+RI Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo -FAPESPFundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) [2011/16672-2];
+   Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [465686/2014-1]; Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP) [2014/50909-8]
+FX Fundacao de Amparo a Pesquisa do Estado de Sao Paulo -FAPESP (process no
+   2011/16672-2). This research was part of the scientific program of
+   Instituto Nacional de Ciencia e Tecnologia sobre Comportamento, Cognicao
+   e Ensino, with support from Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq, Grant no 465686/2014-1) and the Fundacao
+   de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP, Grant no
+   2014/50909-8).
+CR Astley S, 2004, DIAGNOSTIC GUIDE FET
+   Calhoun F, 2007, NEUROSCI BIOBEHAV R, V31, P168, DOI 10.1016/j.neubiorev.2006.06.023
+   Coggins TE, 1998, CLIN LINGUIST PHONET, V12, P221, DOI 10.3109/02699209808985223
+   Ganthous Giulia, 2015, Rev. CEFAC, V17, P253, DOI 10.1590/1982-021620150914
+   Ganthous Giulia, 2013, Audiol., Commun. Res., V18, P37
+   Garcia Roberta, 2007, Rev. CEFAC, V9, P461, DOI 10.1590/S1516-18462007000400005
+   Justice LM, 2006, AM J SPEECH-LANG PAT, V15, P177, DOI 10.1044/1058-0360(2006/017)
+   Kully-Martens K, 2012, ALCOHOL CLIN EXP RES, V36, P568, DOI 10.1111/j.1530-0277.2011.01661.x
+   Lamônica Dionísia Aparecida Cusin, 2010, Rev. soc. bras. fonoaudiol., V15, P129, DOI 10.1590/S1516-80342010000100021
+   Lee DH, 2015, GENES GENET SYST, V90, P335, DOI 10.1266/ggs.15-00026
+   Marquardt K, 2016, ALCOHOL, V51, P1, DOI 10.1016/j.alcohol.2015.12.002
+   Mattson SN, 2010, ALCOHOL CLIN EXP RES, V34, P1640, DOI 10.1111/j.1530-0277.2010.01250.x
+   Mayer M, 1996, WHERE ARE YOU
+   McGee CL, 2009, NEUROTOXICOL TERATOL, V31, P71, DOI 10.1016/j.ntt.2008.09.004
+   Miller J., 2010, SYSTEMATIC ANAL LANG
+   Nash K, 2008, THESCIENTIFICWORLDJO, V8, P873, DOI 10.1100/tsw.2008.75
+   Norman AL, 2009, DEV DISABIL RES REV, V15, P209, DOI 10.1002/ddrr.72
+   Popova S, 2016, LANCET, V387, P978, DOI 10.1016/S0140-6736(15)01345-8
+   Riley EP, 2011, NEUROPSYCHOL REV, V21, P73, DOI 10.1007/s11065-011-9166-x
+   Rossi NF, 2015, 23 C BRAS 9 C INT FO, P6148
+   Scherer S, 2002, REV CEFAC, V4, P223
+   SPINILLO A. G., 2001, DESENVOLVIMENTO LING, P73
+   SPINILLO AG, 1997, PSICOL-REFLEX CRIT, V10, P219, DOI DOI 10.1590/S0102-79721997000200004
+   Stein N., 1979, ANAL STORY COMPREHEN
+   Stevens SA, 2015, J INT NEUROPSYCH SOC, V21, P74, DOI 10.1017/S1355617714001088
+   Thorne JC, 2008, INT J LANG COMM DIS, V43, P570, DOI 10.1080/13682820701698960
+   Thorne JC, 2007, J SPEECH LANG HEAR R, V50, P459, DOI 10.1044/1092-4388(2007/032)
+   Thorne JC, 2016, AM J SPEECH-LANG PAT, V25, P532, DOI 10.1044/2016_AJSLP-15-0124
+   Troiani V, 2008, NEUROIMAGE, V40, P932, DOI 10.1016/j.neuroimage.2007.12.002
+   Wyper KR, 2011, J POPUL THER CLIN PH, V18, pE364
+NR 30
+TC 2
+Z9 2
+U1 1
+U2 1
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PY 2017
+VL 29
+IS 4
+AR e20170012
+DI 10.1590/2317-1782/20172017012
+PG 7
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA VH8BL
+UT WOS:000455276000008
+PM 28813074
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Sales, AVMN
+   Giacheti, CM
+   Cola, PC
+   da Silva, RG
+AF Marcondes Natel Sales, Andre Vinicius
+   Giacheti, Celia Maria
+   Cola, Paula Cristina
+   da Silva, Roberta Goncalves
+TI Qualitative and quantitative analysis of oropharyngeal swallowing in
+   Down syndrome
+SO CODAS
+LA English
+DT Article
+DE Swallowing; Deglutition Disorders; Down syndrome; Fluoroscopy;
+   Quantitative Analysis; Software
+AB Purpose: To describe the qualitative and quantitative temporal analysis of oropharyngeal swallowing in children diagnosed with Down syndrome (DS) through a case series study of six individuals aged 4 to 17 months (mean age = 11.16 months; median = 12 months). Methods: Qualitative and quantitative temporal analysis of swallowing using videofluoroscopy and specific software. The following parameters were assessed: presence or absence of oral incoordination, labial sphincter sealing incompetence, oral residue, posterior oral spillage, laryngotracheal penetration and aspiration, pharyngeal and total oral transit time (TOTT). Results: Qualitative analysis identified individuals with disorders in at least four of the swallowing parameters investigated. Only one individual presented total oral transit time (TOTT) different from the others. No difference was observed between the cases regarding pharyngeal transit time. Conclusion: Qualitative swallowing disorders are observed in children with DS, with difference in TOTT only in the case report of the youngest infant.
+C1 [Marcondes Natel Sales, Andre Vinicius; Giacheti, Celia Maria; Cola, Paula Cristina; da Silva, Roberta Goncalves] Univ Estadual Paulista, UNESP, Programa Posgrad Fonoaudiol, Lab Disfagia, Marilia, SP, Brazil.
+   [Marcondes Natel Sales, Andre Vinicius; Giacheti, Celia Maria; Cola, Paula Cristina; da Silva, Roberta Goncalves] Univ Estadual Paulista, UNESP, Marilia, SP, Brazil.
+   [Cola, Paula Cristina] Univ Marilia, UNIMAR, Marilia, SP, Brazil.
+RP da Silva, RG (corresponding author), Univ Estadual Paulista, UNESP, Marilia, SP, Brazil.; da Silva, RG (corresponding author), Univ Estadual Paulista, UNESP, Fac Filosofia & Ciencias, Dept Fonoaudiol, Ave Higyno Muzzi Filho 737, BR-17525900 Marilia, SP, Brazil.
+EM rgsilva@marilia.unesp.br
+RI Cola, Paula Cristina/J-2388-2015; Giacheti, Celia M/I-4863-2012; da
+   Silva, Roberta Goncalves/AAE-4570-2020
+OI Cola, Paula Cristina/0000-0002-7010-5874; Giacheti, Celia
+   M/0000-0001-9691-4672; da Silva, Roberta Goncalves/0000-0002-2016-3566
+FU Fundacao de Amparo ao Desenvolvimento da Pesquisa do Estado de Sao
+   Paulo-FAPESP [2009/13779-0]
+FX Fundacao de Amparo ao Desenvolvimento da Pesquisa do Estado de Sao
+   Paulo-FAPESP. Process no. 2009/13779-0.
+CR Breia P, 2014, ACTA MEDICA PORT, V27, P357, DOI 10.20344/amp.4898
+   Durvasula VSPB, 2014, OTOLARYNG CLIN N AM, V47, P691, DOI 10.1016/j.otc.2014.06.004
+   Gatto AR, 2013, CODAS, V25, P164
+   Hashimoto M, 2014, DYSPHAGIA, V29, P509, DOI 10.1007/s00455-014-9538-5
+   Henderson M, 2016, J PEDIATR-US, V178, P200, DOI 10.1016/j.jpeds.2016.07.050
+   Kendall KA, 2001, ANN OTO RHINOL LARYN, V110, P1059, DOI 10.1177/000348940111001113
+   Ling KH, 2014, BMC GENOMICS, V15, DOI 10.1186/1471-2164-15-624
+   LOGEMANN JA, 1995, J SPEECH HEAR RES, V38, P556, DOI 10.1044/jshr.3803.556
+   Lopez CP, 2014, CODAS, V26, P81, DOI 10.1590/s2317-17822014000100012
+   Martin-Harris B, 2008, DYSPHAGIA, V23, P392, DOI 10.1007/s00455-008-9185-9
+   O'Neill AC, 2013, OTOLARYNG HEAD NECK, V149, P146, DOI 10.1177/0194599813483445
+   Spadotto André Augusto, 2008, Radiol Bras, V41, P25, DOI 10.1590/S0100-39842008000100008
+   Uppal H, 2015, J INTELL DISABIL RES, V59, P873, DOI 10.1111/jir.12196
+   Weckmueller J, 2011, DYSPHAGIA, V26, P135, DOI 10.1007/s00455-010-9283-3
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 1
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PY 2017
+VL 29
+IS 6
+AR e20170005
+DI 10.1590/2317-1782/20172017005
+PG 5
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA VH8BN
+UT WOS:000455276500013
+PM 29069232
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Lamonica, DAC
+   Ribeiro, CD
+   Richieri-Costa, A
+   Giacheti, CM
+AF Cusin Lamonica, Dionisia Aparecida
+   Ribeiro, Camila da Costa
+   Richieri-Costa, Antonio
+   Giacheti, Celia Maria
+TI Language, behavior and neurodevelopment in Joubert syndrome: a case
+   report
+SO CODAS
+LA English
+DT Article
+DE Child Language; Child Development; Psychomotor Performance; Behavior;
+   Joubert Syndrome
+AB The Joubert syndrome (JS) is a rare, heterogeneous genetic condition among the ciliopathies. More than 20 genes have been identified associated with this phenotype. The main manifestations include hypotonia, ataxia, psychomotor retardation, ocular-motor apraxia and neonatal respiratory abnormalities. The objective of this paper was to present language and neurodevelopmental findings of an individual diagnosed with JS. The following procedures were performed: anamnesis, clinical genetic evaluation observation of communicative behavior, evaluation of language, the Denver Developmental Screening Test II (DDST-II) and the Early Language Milestone Scale (ELMS). The main findings of the MRI brain showed severe hypoplasia of the cerebellar vermis, "molar tooth sign", hypoplastic brain stem and atrophy of the cerebellar hemispheres. The observation and evaluation of the language showed no oral, impaired reception of language, confirming the diagnosis of language disorder with severe degree of impairment. The DDST-II and the ELMS confirmed the observation and clinical assessment and indicated serious delay in motor domains, self-care and receptive and expressive language. Given the presence of hypotonia, ataxia, delayed psychomotor and neonatal respiratory abnormalities it is essential to carry out examination imaging and genetic evaluation for the diagnosis of this condition, so complex, with unique therapeutic needs. This set of findings, along with the familial history and unique phenotypic characteristics reinforce the clinical genetic diagnosis JS. This genetic syndrome is rarely recognized and deserves to be presented to the recognition of the scientific community, targeting the correct diagnosis and treatment planning that minimizes the deleterious effects of this condition.
+C1 [Cusin Lamonica, Dionisia Aparecida; Ribeiro, Camila da Costa; Richieri-Costa, Antonio] Univ Sao Paulo, Bauru, SP, Brazil.
+   [Giacheti, Celia Maria] Univ Estadual Paulista, UNESP, Marilia, SP, Brazil.
+RP Lamonica, DAC (corresponding author), Univ Sao Paulo, Fac Odontol Bauru, Al Octavio Pinheiro Brisolla 9-75, BR-17012901 Bauru, SP, Brazil.
+EM dionelam@uol.com.br
+RI Giacheti, Celia M/I-4863-2012; Lamonica, Dionisia AC/E-7663-2012; da
+   Costa Ribeiro, Camila/AAU-9839-2020
+OI Giacheti, Celia M/0000-0001-9691-4672; Lamonica, Dionisia
+   AC/0000-0002-9381-0680; da Costa Ribeiro, Camila/0000-0003-0907-9205
+CR Arora R, 2014, POL J RADIOL, V79, P381, DOI 10.12659/PJR.890941
+   Barreirinho S, 2001, REV NEUROLOGIA, V32, P812, DOI 10.33588/rn.3209.2000589
+   Braddock BA, 2006, J CHILD NEUROL, V21, P160, DOI 10.1177/08830738060210020501
+   Brancati F, 2010, ORPHANET J RARE DIS, V5, DOI 10.1186/1750-1172-5-20
+   COPLAN J, 1983, EARLY LANGUAGE MILES
+   Elhassanien AF, 2013, ANN INDIAN ACAD NEUR, V16, P239, DOI 10.4103/0972-2327.112480
+   Frankenburg WK, 1992, DENVER 2 TRAINING MA
+   Karegowda LH, 2014, BMJ CASE REP, V20, P2014
+   Nag C, 2013, ANN MED HEALTH SCI R, V3, P291, DOI 10.4103/2141-9248.113686
+   Romani M, 2013, LANCET NEUROL, V12, P894, DOI 10.1016/S1474-4422(13)70136-4
+   Sattar S, 2011, DEV MED CHILD NEUROL, V53, P793, DOI 10.1111/j.1469-8749.2011.04021.x
+   Singh P, 2011, J PEDIATR NEUROSCI, V6, P44, DOI 10.4103/1817-1745.84407
+   Valente EM, 2008, EUR J MED GENET, V51, P1, DOI 10.1016/j.ejmg.2007.11.003
+   Velloso RL, 2011, CAD POS GRADUACAO DI, V11, P9
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 4
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PD NOV-DEC
+PY 2016
+VL 28
+IS 6
+BP 823
+EP 827
+DI 10.1590/2317-1782/20162015184
+PG 5
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA VH8BE
+UT WOS:000455264700018
+PM 28001274
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Rossi, NF
+   Lindau, TD
+   Gillam, RB
+   Giacheti, CM
+AF Rossi, Natalia Freitas
+   Lindau, Tamara de Andrade
+   Gillam, Ronald Bradley
+   Giacheti, Celia Maria
+TI Cultural adaptation of the Test of Narrative Language (TNL) into
+   Brazilian Portuguese
+SO CODAS
+LA English
+DT Article
+DE Language Tests; Translation; Adaptation; Narration; Child Language
+AB Purpose: To accomplish the translation and cultural adaptation of the Test of Narrative Language (TNL) into Brazilian Portuguese. Methods: The TNL is a formal instrument which assesses narrative comprehension and oral narration of children between the ages of 5-0 and 11-11 (years-months). The TNL translation and adaptation process had the following steps: (1) translation into the target language; (2) summary of the translated versions; (3) back-translation; (4) checking of the conceptual, semantics and cultural equivalence process and (5) pilot study (56 children within the test age range and from both genders). Results: The adapted version maintained the same structure as the original version: number of tasks (both, three comprehension and oral narration), narrative formats (no picture, sequenced pictures and single picture) and scoring system. There were no adjustments to the pictures. The "McDonald's Story" was replaced by the "Snack Bar History" to meet the semantic and experiential equivalence of the target population. The other stories had semantic and grammatical adjustments. Statistically significant difference was found when comparing the raw score (comprehension, narration and total) of age groups from the adapted version. Conclusion: Adjustments were required to meet the equivalence between the original and the translated versions. The adapted version showed it has the potential to identify differences in oral narratives of children in the age range provided by the test. Measurement equivalence for validation and test standardization are in progress and will be able to supplement the study outcomes.
+C1 [Rossi, Natalia Freitas; Lindau, Tamara de Andrade; Gillam, Ronald Bradley; Giacheti, Celia Maria] Univ Estadual Paulista UNESP, Fac Filosofia & Ciencias, Lab Estudos Avaliacao & Diagnost Fonoaudiol LEAD, Marilia, SP, Brazil.
+   [Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Estadual Paulista UNESP, Ave Higyno Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+   [Lindau, Tamara de Andrade] Univ Fed Sao Carlos UFSCar, Sao Carlos, SP, Brazil.
+   [Gillam, Ronald Bradley] Utah State Univ, Logan, UT 84322 USA.
+RP Rossi, NF (corresponding author), Univ Estadual Paulista UNESP, Ave Higyno Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+EM nataliafreitasrossi@yahoo.com.br
+RI Gillam, Ron/E-9147-2010; Giacheti, Celia M/I-4863-2012; Lindau, Tamara
+   Andrade/M-2427-2014
+OI Gillam, Ron/0000-0003-0106-1908; Giacheti, Celia M/0000-0001-9691-4672;
+   Lindau, Tamara Andrade/0000-0002-6523-759X
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES),
+   Programa Nacional de Pos-Doutorado (PNPD)
+FX Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES),
+   Programa Nacional de Pos-Doutorado (PNPD).
+CR AbdulSabur NY, 2014, CORTEX, V57, P107, DOI 10.1016/j.cortex.2014.01.017
+   ACOSTA V., 2013, REV LOGOPEDIA FONIAT, V33, P165, DOI DOI 10.1016/J.RLFA.2013.07.004
+   Allende NC, 2015, REV LOGOPEDIA FONIAT, V35, P114, DOI [10.1016/j.rlfa.2014.12.003, DOI 10.1016/J.RLFA.2014.12.003]
+   Associacao Brasileira de Empresas de Pesquisa, 2014, CRIT CLASS EC BRAS
+   Borsa Juliane Callegaro, 2012, Paidéia (Ribeirão Preto), V22, P423, DOI 10.1590/S0103-863X2012000300014
+   BRANDAO A. C. P., 2001, ESTUDOS PSICOLOGIA, V6, P51, DOI DOI 10.1590/S1413-294X2001000100006
+   Catts HW, 2015, READ WRIT, V28, P1407, DOI 10.1007/s11145-015-9576-x
+   Channell MM, 2015, FRONT BEHAV NEUROSCI, V9, DOI 10.3389/fnbeh.2015.00283
+   Dockrell JE, 2015, CHILD ADOL MENT H-UK, V20, P116, DOI 10.1111/camh.12072
+   Domsch C, 2012, INT J LANG COMM DIS, V47, P197, DOI 10.1111/j.1460-6984.2011.00095.x
+   Gillam R, 2004, TEST NARRATIVE LANGU
+   Giusti Elisabete, 2008, Pró-Fono R. Atual. Cient., V20, P207, DOI 10.1590/S0104-56872008000300012
+   Gjersing L, 2010, BMC MED RES METHODOL, V10, DOI 10.1186/1471-2288-10-13
+   Gurgel L. G., 2010, REV NEUROPSICOLOGIA, V2, P1
+   Heilmann JJ, 2010, LANG SPEECH HEAR SER, V41, P84, DOI 10.1044/0161-1461(2009/08-0075)
+   Hughes D. L., 1997, GUIDE NARRATIVE LANG
+   Justice LM, 2006, AM J SPEECH-LANG PAT, V15, P177, DOI 10.1044/1058-0360(2006/017)
+   Justice LM, 2010, EARLY CHILD RES Q, V25, P218, DOI 10.1016/j.ecresq.2009.11.002
+   Kidd E, 2013, TOP LANG DISORD, V33, P208, DOI 10.1097/TLD.0b013e31829d623e
+   Lindau Tâmara Andrade, 2015, Rev. CEFAC, V17, P656, DOI 10.1590/1982-021620151114
+   Mar RA, 2004, NEUROPSYCHOLOGIA, V42, P1414, DOI 10.1016/j.neuropsychologia.2003.12.016
+   Mills MT, 2015, LANG SPEECH HEAR SER, V46, P337, DOI 10.1044/2015_LSHSS-14-0070
+   Petersen DB, 2010, J SPEECH LANG HEAR R, V53, P961, DOI 10.1044/1092-4388(2009/09-0001)
+   Petersen DR, 2008, TOP LANG DISORD, V28, P115, DOI 10.1097/01.TLD.0000318933.46925.86
+   Pinto G, 2016, EARLY CHILD RES Q, V36, P1, DOI 10.1016/j.ecresq.2015.12.001
+   Richland LE, 2013, PSYCHOL SCI, V24, P87, DOI 10.1177/0956797612450883
+   SPINILLO A. G., 2001, DESENVOLVIMENTO LING, P73
+   Stein NL, 1979, MULTIDISCIPLINARY AP
+   Wassenburg SI, 2015, READ WRIT, V28, P1203, DOI 10.1007/s11145-015-9568-x
+NR 29
+TC 2
+Z9 3
+U1 0
+U2 2
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PD SEP-OCT
+PY 2016
+VL 28
+IS 5
+DI 10.1590/2317-1782/20162016018
+PG 10
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA VH8BO
+UT WOS:000455278400004
+PM 27683830
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Santos, AO
+   Rossi, NF
+   Tande, MDFF
+   Richieri-Costa, A
+   Giacheti, CM
+AF Santos, Amanda Oliveira
+   Rossi, Natalia Freitas
+   Faria Freitas Tande, Maria da Conceicao
+   Richieri-Costa, Antonio
+   Giacheti, Celia Maria
+TI Fluency aspects of oral narrative task in del22q11.2 syndrome
+SO CODAS
+LA English
+DT Article
+DE Narration; Language; Speech; Speech Production Measurement; DiGeorge
+   Syndrome
+AB Purpose: To investigate the fluency aspects of the oral narrative task in individuals with del22q11.2 syndrome and compare them with those of individuals with typical language development. Methods: Fifteen individuals diagnosed with del22q11.2 syndrome, both genders, aged 7-17 years participated in this study. They were compared with 15 individuals with typical language development, with similar gender and chronological age profiles. The oral narrative was elicited using the book "Frog, Where Are You?", and the fluency aspects were analyzed according to speech rate and type and frequency of disfluency (typical and stuttering). The number and duration of pauses were also investigated. The data were statistically analyzed. Results: The group with del22q11.2 syndrome showed a higher average when compared with the group without the syndrome for the percentage of typical disfluencies, mainly hesitation and revision. The group presenting the syndrome also showed a higher average for stuttering disfluencies, with pause as the most frequent disfluency. With respect to speech rate, the group with the syndrome presented a lower average for the number of words and syllables per minute. Individuals with del22q11.2 syndrome showed greater difficulties of narration than their peers. Conclusion: The fluency aspects of the oral narrative task in subjects with del22q11.2 syndrome were similar to those of individuals with typical language development regarding the presence of hesitation, revision, and pause, but they were different with respect to frequency of disfluency, which was higher in individuals with the syndrome.
+C1 [Santos, Amanda Oliveira; Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Estadual Paulista, UNESP, Marilia, SP, Brazil.
+   [Faria Freitas Tande, Maria da Conceicao] Univ Estadual Paulista, UNESP, Rio Claro, SP, Brazil.
+   [Richieri-Costa, Antonio] Hosp Reabilitacao Anomalias Craniofaciais, Bauru, SP, Brazil.
+RP Giacheti, CM (corresponding author), Ave Hygino Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+EM giacheti@uol.com.br
+RI Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico - CNPq
+   (MCT/CNPq) [14/2009, 474092/2009-7]; Fundacao de Amparo a Pesquisa do
+   Estado de Sao Paulo - FAPESPFundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo (FAPESP) [2011/16539-0]
+FX Conselho Nacional de Desenvolvimento Cientifico e Tecnologico - CNPq
+   (MCT/CNPq no 14/2009, Process no 474092/2009-7); Fundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo - FAPESP (Process no 2011/16539-0).
+CR ANDRADE CRF, 2004, ABFW TESTE LINGUAGEM, P51
+   Bassett AS, 1998, AM J MED GENET, V81, P328, DOI 10.1002/(SICI)1096-8628(19980710)81:4<328::AID-AJMG10>3.3.CO;2-8
+   Bearden CE, 2005, CHILD NEUROPSYCHOL, V11, P109, DOI 10.1080/09297040590911239
+   Befi-Lopes DM, 2013, CODAS, V25, P64, DOI 10.1590/S2317-17822013000100012
+   Bortfeld H, 2001, LANG SPEECH, V44, P123, DOI 10.1177/00238309010440020101
+   Campbell LE, 2015, J INTELL DISABIL RES, V59, P845, DOI 10.1111/jir.12183
+   Cancrini C, 2014, J PEDIATR-US, V164, P1475, DOI 10.1016/j.jpeds.2014.01.056
+   COOPER MD, 1965, J PEDIATR-US, V67, P907, DOI 10.1016/S0022-3476(65)81796-6
+   Davis H, 1970, HEARING AND DEAFNESS
+   Ganthous Giulia, 2013, Audiol., Commun. Res., V18, P37
+   Glaser B, 2002, J PEDIATR-US, V140, P753, DOI 10.1067/mpd.2002.124774
+   Gothelf D, 2011, J PSYCHIATR RES, V45, P322, DOI 10.1016/j.jpsychires.2010.07.008
+   Jacobson C, 2010, J INTELL DISABIL RES, V54, P701, DOI 10.1111/j.1365-2788.2010.01298.x
+   Martins Vanessa de Oliveira, 2008, Pró-Fono R. Atual. Cient., V20, P7, DOI 10.1590/S0104-56872008000100002
+   Mayer M., 1969, FROG ARE YOU
+   Moss EM, 1999, J PEDIATR-US, V134, P193, DOI 10.1016/S0022-3476(99)70415-4
+   Oliveira Lívia F. S., 2014, Psychol. Neurosci., V7, P151, DOI 10.3922/j.psns.2014.02.04
+   Persson C, 2006, INT J LANG COMM DIS, V41, P313, DOI 10.1080/13682820500361497
+   Rossi Natalia Freitas, 2007, Rev. soc. bras. fonoaudiol., V12, P1, DOI 10.1590/S1516-80342007000100003
+   Rossi NF, 2011, RES DEV DISABIL, V32, P2957, DOI 10.1016/j.ridd.2011.05.006
+   Rossi Natalia Freitas, 2009, Pró-Fono R. Atual. Cient., V21, P107, DOI 10.1590/S0104-56872009000200004
+   SEDLACKOVA E, 1955, Cas Lek Cesk, V94, P1304
+   SHPRINTZEN RJ, 1978, CLEFT PALATE J, V15, P56
+   Shprintzen RJ, 2008, DEV DISABIL RES REV, V14, P3, DOI 10.1002/ddrr.2
+   Solot CB, 2000, J COMMUN DISORD, V33, P187, DOI 10.1016/S0021-9924(00)00018-6
+   Swillen A, 2015, AM J MED GENET C, V169, P172, DOI 10.1002/ajmg.c.31435
+   Vicari S, 2012, BEHAV GENET, V42, P287, DOI 10.1007/s10519-011-9499-5
+   Wechsler D., 1997, WAIS 3 ADM SCORING M
+   Wechsler D, 1991, WECHSLER INTELLIGENC
+   Wilson DI., 1994, AM J HUM GENET, V55, P18
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PD JUL-AUG
+PY 2016
+VL 28
+IS 4
+BP 373
+EP 378
+DI 10.1590/2317-1782/20162015179
+PG 6
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA VH8BD
+UT WOS:000455261400009
+PM 27509399
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Santoro, SD
+   Giacheti, CM
+   Rossi, NF
+   Campos, LMG
+   Pinato, L
+AF Santoro, Stella Donadon
+   Giacheti, Celia Maria
+   Rossi, Natalia Freitas
+   Guissoni Campos, Leila Maria
+   Pinato, Luciana
+TI Correlations between behavior, memory, sleep-wake and melatonin in
+   Williams-Beuren syndrome
+SO PHYSIOLOGY & BEHAVIOR
+LA English
+DT Article
+DE Neurodevelopment; Verbal memory; Visual memory; Sleep-wake cycle;
+   Rhythm; aMT6s
+ID AUTISM SPECTRUM DISORDERS; SMITH-MAGENIS-SYNDROME; BETA(1)-ADRENERGIC
+   ANTAGONISTS; INTELLECTUAL DISABILITIES; LANGUAGE IMPAIRMENT; EXECUTIVE
+   FUNCTIONS; CHILDREN; DISTURBANCE; PROFILE; HYPERSEROTONEMIA
+AB Williams-Beuren syndrome (WBS), a neurodevelopmental disorder caused by a microdeletion on chromosomic region 7q11.23, presents with peculiar behavioral and neurocognitive phenotypes that are marked by apparently preserved social and communicative abilities, which contrasts with low overall cognitive and particularly visuospatial performance. In addition, parents often report complaints of sleep disorders and behavioral problems of unknown cause. Sleep is a biological phenomenon that is modulated by the plasma concentration of melatonin and with influence on behavioral aspects and memory. Thus, this study sought to investigate the behavior, memory and the presence of sleep disorders in WBS and to correlate these factors with each other and with the plasma melatonin content. We used the Child Behavior Checklist for ages 6-18 (CBCL), the digit subtest of the Wechsler scale for auditory memory, the visual sequential memory subtest of the Illinois Test of Psycholinguistic Abilities (ITPA) and the Sleep Disturbance Scale for Children (SDSC). Determination of urinary aMT6s, an indirect measure of plasma melatonin content, was held for 72 h by ELISA, and the analysis of the circadian rhythm of this content was performed by the Cosinor method. The results of the CBCL showed that 87% of the WBS group presented with a clinical score on the overall competence and total behavioral problems. Furthermore, the behavioral problems that were most frequently reported by parents were anxiety and problems of thought. All individuals with WBS presented with impairments in auditory memory and 47% with impairments in visual sequential memory; 65% of the WBS group presented with an indicative of at least one sleep disorder, where respiratory, initiation and maintenance of sleep (DIMS) and hyperhidrosis were the most frequent disorders. The night time aMT6s levels were lower in individuals with WBS when compared with controls; 53% of the WBS group did not present with circadian rhythm variations in aMT6s levels. In addition, there was a negative correlation between the scores of auditory memory and the total score of sleep disorders and between the DIMS and nocturnal aMT6s content. In conclusion, in the present study, individuals with WBS showed a high frequency of behavioral and memory problems, sleep disturbances and no rhythm variation in aMT6s levels. The low melatonin content may be related with sleep disorders in this population, which, in turn, can have an adverse effect on specific cognitive skills such as memory. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Santoro, Stella Donadon; Giacheti, Celia Maria; Rossi, Natalia Freitas; Guissoni Campos, Leila Maria; Pinato, Luciana] Sao Paulo State Univ UNESP, Marilia, SP, Brazil.
+   [Guissoni Campos, Leila Maria] Univ Marilia UNIMAR, Sch Med, Marilia, SP, Brazil.
+RP Pinato, L (corresponding author), Ave Hygino Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+EM lpinato@marilia.unesp.br
+RI Giacheti, Celia M/I-4863-2012; Pinato, luciana/A-8314-2018
+OI Giacheti, Celia M/0000-0001-9691-4672; Pinato,
+   luciana/0000-0001-7788-9205
+FU Fundacao de Amparo a Pesquisa do Estado de Sao PauloFundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP) [FAPESP 11/51495-4]
+FX The authors thank Larissa B. Zochio for technical support and the CAPES
+   fellowships to Stella D. Santoro and Natalia F. Rossi. This work was
+   supported by funding from Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP 11/51495-4).
+CR ACHENBACH TM, 1979, J CONSULT CLIN PSYCH, V47, P223, DOI 10.1037/0022-006X.47.2.223
+   Anderson GM, 2002, MOL PSYCHIATR, V7, P831, DOI 10.1038/sj.mp.4001099
+   Annaz D, 2011, RES DEV DISABIL, V32, P164, DOI 10.1016/j.ridd.2010.09.008
+   Arendt J, 2005, J BIOL RHYTHM, V20, P291, DOI 10.1177/0748730405277492
+   Arens R, 1998, J PEDIATR-US, V133, P670, DOI 10.1016/S0022-3476(98)70110-6
+   Argyriou A, 1998, EUR J PHARMACOL, V349, P159, DOI 10.1016/S0014-2999(98)00300-8
+   AssociacAo Brasileira de Empresas de Pesquisa, 2012, CRIT CLASS EC BRAS
+   Barozzi S, 2013, EUR J MED GENET, V56, P490, DOI 10.1016/j.ejmg.2013.07.001
+   Bayes M, 2003, AM J HUM GENET, V73, P131, DOI 10.1086/376565
+   Bellugi U, 2001, CLIN NEUROSCI RES, V1, P217, DOI 10.1016/S1566-2772(01)00008-1
+   Bodizs R, 2014, RES DEV DISABIL, V35, P3226, DOI 10.1016/j.ridd.2014.07.056
+   Bogossian M.A.D.S., 1975, J BRASILEIRO REABILI, V1, P8
+   Bordin IA, 2013, CAD SAUDE PUBLICA, V29, P13, DOI 10.1590/S0102-311X2013000100004
+   Carazo I, 2013, PHYSIOL BEHAV, V118, P201, DOI 10.1016/j.physbeh.2013.05.032
+   Carpizo R, 2006, J PEDIATR-US, V149, P409, DOI 10.1016/j.jpeds.2006.04.055
+   Carrasco X, 2005, PEDIATR NEUROL, V32, P166, DOI 10.1016/j.pediatrneurol.2004.09.013
+   Cherniske EM, 2004, AM J MED GENET A, V131A, P255, DOI 10.1002/ajmg.a.30400
+   Chorney DB, 2008, J PEDIATR PSYCHOL, V33, P339, DOI 10.1093/jpepsy/jsm105
+   Claustrat B, 2005, SLEEP MED REV, V9, P11, DOI 10.1016/j.smrv.2004.08.001
+   Costanzo F, 2013, RES DEV DISABIL, V34, P1770, DOI 10.1016/j.ridd.2013.01.024
+   De Butte M, 2007, NEUROBIOL AGING, V28, P306, DOI 10.1016/j.neurobiolaging.2005.12.004
+   De Leersnyder H, 2003, J MED GENET, V40, P74, DOI 10.1136/jmg.40.1.74
+   de Montgolfier-Aubron I, 2000, ARCH PEDIATRIE, V7, P1085, DOI 10.1016/S0929-693X(00)00318-3
+   Dykens EM, 2003, DEV NEUROPSYCHOL, V23, P291, DOI 10.1207/S15326942DN231&2_13
+   Einfeld SL, 1997, AM J MENT RETARD, V102, P45, DOI 10.1352/0895-8017(1997)102<0045:BAEDII>2.0.CO;2
+   Fadini CC, 2015, FRONT HUM NEUROSCI, V9, DOI [10.3339/fnhum.2015.00347, 10.3389/fnhum.2015.00347]
+   Farran EK, 2005, NEUROPSYCHOLOGIA, V43, P815, DOI 10.1016/j.neuropsychologia.2004.09.001
+   Ferreira VR, 2009, SLEEP MED, V10, P457, DOI 10.1016/j.sleep.2008.03.018
+   Figueiredo V. D., 2002, WISC 3 ESCALA INTELL
+   Garcia-Nonell C, 2003, REV NEUROLOGIA, V37, P826, DOI 10.33588/rn.3709.2003121
+   Goldman SE, 2009, J INTELL DISABIL RES, V53, P182, DOI 10.1111/j.1365-2788.2008.01140.x
+   Gombos F, 2011, J INTELL DISABIL RES, V55, P255, DOI 10.1111/j.1365-2788.2010.01354.x
+   Greer M.K., 1997, AM J MED GENET, V5, P103
+   Griefahn B, 2003, J PINEAL RES, V34, P26, DOI 10.1034/j.1600-079X.2003.02931.x
+   Hissa M.N., 2008, REV ELETRONICA PESQU, V2
+   Hu VW, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0005775
+   Joyce CA, 1996, J MED GENET, V33, P986, DOI 10.1136/jmg.33.12.986
+   KLEIN DC, 1970, IN VITRO CELL DEV B, V6, P197
+   Klein-Tasman BP, 2015, AJIDD-AM J INTELLECT, V120, P72, DOI 10.1352/1944-7558-120.1.72
+   Laws G, 2004, INT J LANG COMM DIS, V39, P45, DOI 10.1080/13682820310001615797
+   Leyfer OT, 2006, AM J MED GENET B, V141B, P615, DOI 10.1002/ajmg.b.30344
+   Malpaux B, 1997, BRAIN RES BULL, V44, P431, DOI 10.1016/S0361-9230(97)00223-2
+   Mason T.B., 2011, SLEEP MED, V14, P1
+   Mason T. B., 2006, WILLIAMS BEUREN SYND
+   Melke J, 2008, MOL PSYCHIATR, V13, P90, DOI 10.1038/sj.mp.4002016
+   Mervis CB, 2000, BRAIN COGNITION, V44, P604, DOI 10.1006/brcg.2000.1232
+   MORRIS CA, 1988, J PEDIATR-US, V113, P318, DOI 10.1016/S0022-3476(88)80272-5
+   Nascimento E., 2004, WAIS 3 ESCALA INTELI
+   Novakova M, 2012, J CLIN ENDOCR METAB, V97, pE312, DOI 10.1210/jc.2011-2750
+   Osorio A, 2012, RES DEV DISABIL, V33, P1169, DOI 10.1016/j.ridd.2012.02.003
+   PAGON RA, 1987, PEDIATRICS, V80, P85
+   Papaeliou C, 2012, CHILD CARE HLTH DEV, V38, P844, DOI 10.1111/j.1365-2214.2011.01306.x
+   Philofsky A, 2007, AM J SPEECH-LANG PAT, V16, P368, DOI 10.1044/1058-0360(2007/040)
+   Pinto A. R., 2015, SLEEP BREATH, P1
+   Porter MA, 2005, DEV NEUROPSYCHOL, V27, P275, DOI 10.1207/s15326942dn2702_5
+   Refinetti R, 2007, BIOL RHYTHM RES, V38, P275, DOI 10.1080/09291010600903692
+   Rossi NF, 2012, RES DEV DISABIL, V33, P819, DOI 10.1016/j.ridd.2011.12.013
+   Rossi Natalia Freitas, 2007, Rev. soc. bras. fonoaudiol., V12, P1, DOI 10.1590/S1516-80342007000100003
+   Rossi NF, 2011, RES DEV DISABIL, V32, P2957, DOI 10.1016/j.ridd.2011.05.006
+   Saksvik-Lehouillier I, 2015, J GERONTOL A-BIOL, V70, P1569, DOI 10.1093/gerona/glv088
+   Sampaio A, 2009, EUR J PAEDIATR NEURO, V13, P337, DOI 10.1016/j.ejpn.2008.06.010
+   Santos M. J., 1977, THESIS
+   Schwichtenberg AJ, 2015, SLEEP MED CLIN, V10, P181, DOI 10.1016/j.jsmc.2015.02.008
+   Shin JC, 2013, BIOCHEM BIOPH RES CO, V440, P312, DOI 10.1016/j.bbrc.2013.09.076
+   Sniecinska-Cooper AM, 2015, SLEEP MED, V16, P94, DOI 10.1016/j.sleep.2014.09.003
+   Stojanovik V, 2006, J NEUROLINGUIST, V19, P157, DOI 10.1016/j.jneuroling.2005.11.005
+   Stores G, 2001, Semin Pediatr Neurol, V8, P188, DOI 10.1053/spen.2001.29042
+   Stromme P, 2002, J CHILD NEUROL, V17, P269, DOI 10.1177/088307380201700406
+   Tordjman S, 2013, INT J MOL SCI, V14, P20508, DOI 10.3390/ijms141020508
+   Tordjman S, 2013, MOL AUTISM, V4, DOI 10.1186/2040-2392-4-29
+   Tordjman S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0030778
+   Wechsler D., 1997, WAIS 3 ADM SCORING M
+   Wechsler D, 1991, WECHSLER INTELLIGENC
+   Wiggs L, 2001, BRIT J HEALTH PSYCH, V6, P257, DOI 10.1348/135910701169197
+   Zuculo GM, 2014, CODAS, V26, P447, DOI 10.1590/2317-1782/20140201435
+NR 75
+TC 12
+Z9 13
+U1 0
+U2 29
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0031-9384
+J9 PHYSIOL BEHAV
+JI Physiol. Behav.
+PD MAY 15
+PY 2016
+VL 159
+BP 14
+EP 19
+DI 10.1016/j.physbeh.2016.03.010
+PG 6
+WC Psychology, Biological; Behavioral Sciences
+SC Psychology; Behavioral Sciences
+GA DL2ZX
+UT WOS:000375505000002
+PM 26976740
+OA Bronze
+DA 2020-11-24
+ER
+
+PT J
+AU Lindau, TA
+   Rossi, NF
+   Giacheti, CM
+AF Lindau, Tamara Andrade
+   Rossi, Natalia Freitas
+   Giacheti, Celia Maria
+TI Preschoolers' Performance on the Brazilian Adaptation of the Preschool
+   Language Assessment Instrument - Second Edition
+SO FOLIA PHONIATRICA ET LOGOPAEDICA
+LA English
+DT Article
+DE Assessment; Language; Language tests; Child; Preschool; Speech-language
+   pathology
+AB Purpose: The objective was to test whether the Brazilian version of the Preschool Language Assessment Instrument Second Edition (PLAI-2) has the potential to assess and identify differences in typical language development of Portuguese-speaking preschoolers. Methods: The study included 354 children of both genders with typical language development who were between the ages of 3 years and 5 years 11 months. The version of the PLAI-2 previously translated into Brazilian Portuguese was used to assess the communication skills of these preschool-age children. Results: Statistically significant differences were found between the age groups, and the raw score tended to increase as a function of age. With nonstandardized assessments, the performances of the younger groups revealed behavioral profiles (e.g., nonresponsive, impulsive behavior) that directly influenced the evaluation. Conclusions: The findings of this study show that the PLAI-2 is effective in identifying differences in language development among Brazilian children of preschool age. Future research should include studies validating and standardizing these findings. (C) 2016 S. Karger AG, Basel
+C1 [Lindau, Tamara Andrade; Rossi, Natalia Freitas; Giacheti, Celia Maria] Sao Paulo State Univ UNESP, Speech Language & Hearing Sci Dept, Hygino Muzzi Filho Ave 737, BR-17525000 Marilia, SP, Brazil.
+RP Giacheti, CM (corresponding author), Sao Paulo State Univ UNESP, Speech Language & Hearing Sci Dept, Hygino Muzzi Filho Ave 737, BR-17525000 Marilia, SP, Brazil.
+EM giacheti@uol.com.br
+RI Giacheti, Celia M/I-4863-2012; Lindau, Tamara Andrade/AAD-7402-2019
+OI Giacheti, Celia M/0000-0001-9691-4672; Lindau, Tamara
+   Andrade/0000-0002-6523-759X
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2012/19808-5]; CNPqNational Council for Scientific and Technological
+   Development (CNPq) [308540-2012-3]; INCT (CNPq)National Council for
+   Scientific and Technological Development (CNPq) [573972/2008-7]; INCT
+   (FAPESP) [2008/57705-8]
+FX Our thanks go to Dr. Marion Blank for providing information about the
+   PLAI-2, to Denise Giacheti for her assistance and cooperation in
+   checking the reference list, to the families that participated in the
+   study, as well as to the support agencies FAPESP (process
+   #2012/19808-5), CNPq (#308540-2012-3) and INCT (CNPq #573972/2008-7,
+   FAPESP #2008/57705-8).
+CR Blank M, 1978, LANGUAGE LEARNING PR, P193
+   Blank M, 2003, PRESCHOOL LANGUAGE A, P78
+   Boit RJ, 2010, THESIS
+   CLARK EV, 1983, ANNU REV PSYCHOL, V34, P325, DOI 10.1146/annurev.ps.34.020183.001545
+   Duarte C.S., 2000, REV BRAS PSIQUIATR, V22, P55, DOI DOI 10.1590/S1516-44462000000600015
+   Dunn L. M., 2007, PPVT 4 PEABODY PICTU
+   Giacheti CM, 2008, PROFONO R ATUAL CI S, V20, P4
+   Gillam R, 2004, TEST NARRATIVE LANGU
+   Giusti Elisabete, 2008, Pró-Fono R. Atual. Cient., V20, P207, DOI 10.1590/S0104-56872008000300012
+   Golinkoff RM, 1997, COMPENDIO LINGUAGEM, P355
+   Gombert JE, 2003, APPRENTISSAGE LECT P, P19
+   Gurgel L. G., 2010, REV NEUROPSICOLOGIA, V2, P1
+   Hay I, 2007, J LEARN DISABIL-US, V40, P400, DOI 10.1177/00222194070400050301
+   Lightbown Patsy M., 2013, LANGUAGES ARE LEARNE
+   Lindau TA, 2014, THESIS
+   Lindau Tâmara Andrade, 2015, Rev. CEFAC, V17, P656, DOI 10.1590/1982-021620151114
+   Lindau TA, 2014, CODAS, V26, P428, DOI 10.1590/2317-1782/20142014116
+   Lindau TA, 2014, CODAS, V26, P328, DOI 10.1590/2317-1782/201420130067
+   Moriguchi Y, 2011, DEV COGN NEUROS-NETH, V1, P153, DOI 10.1016/j.dcn.2010.12.004
+   Neufeld RE, 2008, J THORAC CARDIOV SUR, V136, P1413, DOI 10.1016/j.jtcvs.2008.05.011
+   Newell S, 2007, GOONELLABAH TRANSITI
+   Northen JL, 1984, HEARING CHILDREN
+   Rasmussen C, 2010, J POPUL THER CLIN PH, V17, pE165
+   Rice M, 2014, SPEECH LANGUAGE IMPA, P17
+   Seabra AG, 2014, NEUROPSICOLOGIA TEOR, P67
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 1
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 1021-7762
+EI 1421-9972
+J9 FOLIA PHONIATR LOGO
+JI Folia Phoniatr. Logop.
+PY 2016
+VL 68
+IS 2
+BP 73
+EP 79
+DI 10.1159/000447968
+PG 7
+WC Audiology & Speech-Language Pathology; Otorhinolaryngology;
+   Rehabilitation
+SC Audiology & Speech-Language Pathology; Otorhinolaryngology;
+   Rehabilitation
+GA EC2SC
+UT WOS:000387973200004
+PM 27583970
+OA Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Fadini, CC
+   Lamonica, DA
+   Fett-Conte, AC
+   Osorio, E
+   Zuculo, GM
+   Giacheti, CM
+   Pinato, L
+AF Fadini, Cintia C.
+   Lamonica, Dionsia A.
+   Fett-Conte, Agnes C.
+   Osorio, Elaine
+   Zuculo, Gabriela M.
+   Giacheti, Celia M.
+   Pinato, Luciana
+TI Influence of sleep disorders on the behavior of individuals with autism
+   spectrum disorder
+SO FRONTIERS IN HUMAN NEUROSCIENCE
+LA English
+DT Article
+DE sleep; behavior; autism spectrum disorder; communication; social
+   interaction
+ID PERVASIVE DEVELOPMENTAL DISORDERS; CONTROLLED-RELEASE MELATONIN;
+   DISTURBANCE SCALE; CONTROLLED-TRIAL; CHILDREN; PATTERNS; EPIDEMIOLOGY;
+   ASSOCIATION; VALIDATION; CHILDHOOD
+AB The aim of this study was to investigate the correlation between sleep disorders and the behavior of subjects with autism spectrum disorder (ASD) and control subjects using specific questionnaires. A small percentage (1.8%) of the control subjects had symptoms indicative of sleep-breathing disorders (SBD) and nocturnal sweating. Fifty-nine percent of the subjects with ASD had symptoms indicative of at least one sleep disorder, with SBD the most commonly reported (38%). In the control group, the symptoms of SAD were correlated with social, thought, attentional, aggression, externalizing and behavioral problems. In the ASD group, disorders of arousal (DA) were correlated with thinking problems, and disorders of excessive somnolence were correlated with thinking and behavioral problems. These results suggest that children and adolescents with ASD have a high frequency of sleep disorders, which in turn correlate with some of the behavioral traits that they already exhibit. Furthermore, sleep disturbances, when present in the typically developing children, also correlated with behavioral problems.
+C1 [Fadini, Cintia C.; Osorio, Elaine; Zuculo, Gabriela M.; Giacheti, Celia M.; Pinato, Luciana] Sao Paulo State Univ, Dept Speech Language & Hearing Therapy, Marilia, SP, Brazil.
+   [Lamonica, Dionsia A.] Univ Sao Paulo, Dept Speech Language & Hearing Therapy, Bauru, SP, Brazil.
+   [Fett-Conte, Agnes C.] Fac Med Sao Jose Do Rio Preto FAMERP, Sao Jose Do Rio Preto, SP, Brazil.
+RP Pinato, L (corresponding author), Dept Fonoaudiol, Ave Hygino Muzzi Filho 737,Vila Univ, BR-17525000 Marilia, SP, Brazil.
+EM lpinato@marilia.unesp.br
+RI Giacheti, Celia M/I-4863-2012; Lamonica, Dionisia AC/E-7663-2012;
+   Pinato, luciana/A-8314-2018
+OI Giacheti, Celia M/0000-0001-9691-4672; Lamonica, Dionisia
+   AC/0000-0002-9381-0680; Pinato, luciana/0000-0001-7788-9205
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)Fundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) [11/51495-4];
+   FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2011/15713-7]
+FX This work was supported by grants from the Fundacao de Amparo a Pesquisa
+   do Estado de Sao Paulo (FAPESP; 11/51495-4). Cintia C. Fadini was
+   supported by a fellowship from FAPESP (FAPESP; 2011/15713-7).
+CR *ABEP, 2003, CRIT CLASS EC BRAS
+   Achenbach TM, 1991, MANUAL CHILD BEHAV C
+   APA, 2013, DIAGN STAT MAN MENT
+   Assumpcao FB, 1999, ARQ NEURO-PSIQUIAT, V57, P23, DOI 10.1590/S0004-282X1999000100005
+   Bolte S, 1999, PSYCHOPATHOLOGY, V32, P93, DOI 10.1159/000029072
+   Bordin I. A. S., 1995, Revista ABP-APAL (Associacao Brasileira de Psiquiatria-Asociacion Psiquiatrica de la America Latina), V17, P55
+   Bruni O, 1996, J SLEEP RES, V5, P251, DOI 10.1111/j.1365-2869.1996.00251.x
+   Cortesi F, 2012, J SLEEP RES, V21, P700, DOI 10.1111/j.1365-2869.2012.01021.x
+   De Leersnyder H, 2011, PEDIATR NEUROL, V45, P23, DOI 10.1016/j.pediatrneurol.2011.02.001
+   Dorris L, 2008, DEV NEUROREHABIL, V11, P95, DOI 10.1080/17518420701860149
+   Elia M, 2000, BRAIN DEV-JPN, V22, P88, DOI 10.1016/S0387-7604(99)00119-9
+   Ferreira VR, 2009, SLEEP MED, V10, P457, DOI 10.1016/j.sleep.2008.03.018
+   Fombonne E, 2005, J CLIN PSYCHIAT, V66, P3
+   Forbes EE, 2008, J AM ACAD CHILD PSY, V47, P148, DOI 10.1097/chi.0b013e31815cd9bc
+   Garstang J, 2006, CHILD CARE HLTH DEV, V32, P585, DOI 10.1111/j.1365-2214.2006.00616.x
+   Giannotti F, 2006, J AUTISM DEV DISORD, V36, P741, DOI 10.1007/s10803-006-0116-z
+   Giannotti F, 2008, J AUTISM DEV DISORD, V38, P1888, DOI 10.1007/s10803-008-0584-4
+   Golombek DA, 2013, J PHYSIOL-PARIS, V107, P310, DOI 10.1016/j.jphysparis.2013.03.007
+   Gregory AM, 2002, J AM ACAD CHILD PSY, V41, DOI 10.1097/00004583-200208000-00015
+   Hodge D, 2014, RES DEV DISABIL, V35, P1631, DOI 10.1016/j.ridd.2014.03.037
+   Hoffman CD, 2008, FOCUS AUTISM DEV DIS, V23, P155, DOI 10.1177/1088357608316271
+   Hollway JA, 2011, RES DEV DISABIL, V32, P1399, DOI 10.1016/j.ridd.2011.04.001
+   Horrigan JP, 1997, J AM ACAD CHILD PSY, V36, P1014, DOI 10.1097/00004583-199708000-00002
+   Hunnphreys JS, 2014, ARCH DIS CHILD, V99, P114, DOI 10.1136/archdischild-2013-304083
+   Ishizaki Asayo, 1999, No To Hattatsu, V31, P428
+   Ivanenko A, 2009, CHILD ADOL PSYCH CL, V18, P839, DOI 10.1016/j.chc.2009.04.005
+   Ivanova MY, 2007, J CLIN CHILD ADOLESC, V36, P405, DOI 10.1080/15374410701444363
+   JAN JE, 1994, DEV MED CHILD NEUROL, V36, P97
+   Johnson KP, 2009, CHILD ADOL PSYCH CL, V18, P917, DOI 10.1016/j.chc.2009.04.001
+   Kobayashi R, 1998, PSYCHIAT CLIN NEUROS, V52, P383, DOI 10.1046/j.1440-1819.1998.00415.x
+   Kuusikko S, 2008, J AUTISM DEV DISORD, V38, P1697, DOI 10.1007/s10803-008-0555-9
+   Liu XC, 2006, CHILD PSYCHIAT HUM D, V37, P179, DOI 10.1007/s10578-006-0028-3
+   Malow B, 2012, J AUTISM DEV DISORD, V42, P1729, DOI 10.1007/s10803-011-1418-3
+   Malow BA, 2006, SLEEP, V29, P1563, DOI 10.1093/sleep/29.12.1563
+   Marteleto Márcia Regina Fumagalli, 2011, Psic.: Teor. e Pesq., V27, P5, DOI 10.1590/S0102-37722011000100002
+   Maski KP, 2013, INT J PSYCHOPHYSIOL, V89, P259, DOI 10.1016/j.ijpsycho.2013.06.019
+   Mazefsky CA, 2011, J PSYCHOPATHOL BEHAV, V33, P31, DOI 10.1007/s10862-010-9198-1
+   Miano Silvia, 2010, Paediatr Drugs, V12, P75, DOI 10.2165/11316140-000000000-00000
+   Minkel JD, 2012, EMOTION, V12, P1015, DOI 10.1037/a0026871
+   O'Brien LM, 2004, PEDIATR CLIN N AM, V51, P187, DOI 10.1016/S0031-3955(03)00184-6
+   Paavonen EJ, 2009, EUR CHILD ADOLES PSY, V18, P747, DOI 10.1007/s00787-009-0033-8
+   Paavonen EJ, 2003, J CHILD ADOL PSYCHOP, V13, P83, DOI 10.1089/104454603321666225
+   Park S, 2014, EUR ARCH PSY CLIN N, V264, P507, DOI 10.1007/s00406-013-0480-6
+   Pereira A. M., 2007, THESIS FM U FEDERAL
+   Richdale AL, 1999, DEV MED CHILD NEUROL, V41, P60, DOI 10.1017/S0012162299000122
+   Richdale AL, 2009, SLEEP MED REV, V13, P403, DOI 10.1016/j.smrv.2009.02.003
+   Rotta Newra Tellechea, 2002, J. Pediatr. (Rio J.), V78, pS48, DOI 10.1590/S0021-75572002000700008
+   Sadeh A, 2006, SLEEP MED REV, V10, P381, DOI 10.1016/j.smrv.2006.03.004
+   Schreck KA, 2000, J AUTISM DEV DISORD, V30, P127, DOI 10.1023/A:1005407622050
+   Schwichtenberg AJ, 2013, AUTISM RES, V6, P169, DOI 10.1002/aur.1278
+   Taylor MA, 2012, RES DEV DISABIL, V33, P1408, DOI 10.1016/j.ridd.2012.03.013
+   Thunstrom M, 2002, ACTA PAEDIATR, V91, P584, DOI 10.1080/080352502753711731
+   Tordjman S, 2015, FRONT PEDIATR, V3, DOI 10.3389/fped.2015.00001
+   Touchette E, 2009, PEDIATRICS, V124, pE985, DOI 10.1542/peds.2008-2005
+   Vriend JL, 2011, J PEDIATR PSYCHOL, V36, P1017, DOI 10.1093/jpepsy/jsr044
+   Wiggs L, 2004, DEV MED CHILD NEUROL, V46, P372
+   Wright B, 2011, J AUTISM DEV DISORD, V41, P175, DOI 10.1007/s10803-010-1036-5
+NR 57
+TC 25
+Z9 25
+U1 0
+U2 36
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1662-5161
+J9 FRONT HUM NEUROSCI
+JI Front. Hum. Neurosci.
+PD JUN 18
+PY 2015
+VL 9
+AR 347
+DI 10.3339/fnhum.2015.00347
+PG 8
+WC Neurosciences; Psychology
+SC Neurosciences & Neurology; Psychology
+GA CK9WL
+UT WOS:000356590100001
+PM 26150777
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Giorgetti, MD
+   de Oliveira, CMC
+   Giacheti, CM
+AF Giorgetti, Marilia de Paula
+   Canhetti de Oliveira, Cristiane Moco
+   Giacheti, Celia Maria
+TI Behavioral and social competency profiles of stutterers
+SO CODAS
+LA English
+DT Article
+DE Speech, Language and Hearing Sciences; Speech Disorders; Evaluation;
+   Stuttering; Behavior
+AB Purpose: To investigate the behavioral and social competency profiles of individuals who stutter and to compare them with persons who do not stutter, according to their parents; to correlate the behavioral and the social competence performances with the severity of stuttering. Methods: Sixty-four participants, aged 6 to 18 years, of both genders, were divided into two groups: the study group (SG), composed of 32 individuals with persistent developmental stuttering, and the control group (CG), composed of 32 fluent individuals. The procedures used were fluency assessment, stuttering severity instrument, and the Child Behavior Checklist inventory. Results: In the behavioral profile of the SG, the mean of the total score and that of the internalizing problems were classified as clinical. The comparison between the groups showed differences in the behavioral profile concerning the total score, and in the internalizing and externalizing problems; and in the social profile, concerning the total score and activity scale. There were no statistically significant differences in the scales among the mild, moderate, and severe stuttering. Conclusion: According to the information provided by parents, children who stutter showed peculiar behavior and social competence, with a higher tendency to manifest alterations in this area, in comparison to those who do not stutter. Fear, nervousness/tension, guilt, anxiety, perfectionism, and worry were the most frequent alterations in relation to the behavior, whereas damages in the social field and in the habitual communication situations characterized the social competence of persons who stutter.
+C1 [Giorgetti, Marilia de Paula] Univ Estadual Paulista, UNESP, Sch Philosophy & Sci, Undergrad Program Speech Language Pathol & Audiol, Marilia, SP, Brazil.
+   [Canhetti de Oliveira, Cristiane Moco; Giacheti, Celia Maria] Univ Estadual Paulista, UNESP, Sch Philosophy & Sci, Speech Language Pathol & Audiol Dept, Marilia, SP, Brazil.
+   [Canhetti de Oliveira, Cristiane Moco; Giacheti, Celia Maria] Univ Estadual Paulista, UNESP, Sch Philosophy & Sci, Grad Program Speech Language Pathol & Audiol, Marilia, SP, Brazil.
+RP Giacheti, CM (corresponding author), Ave Hygino Muzzi Filho 737, BR-17525000 Marilia, SP, Brazil.
+EM giacheti@uol.com.br
+RI Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo - FAPESPFundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+FX Fundacao de Amparo a Pesquisa do Estado de Sao Paulo - FAPESP.
+CR Achenbach T. M., 1988, CHILD BEHAV CHECKLIS
+   Achenbach T. M., 2001, MANUAL ASEBA SCH AGE
+   Andrade Claudia Regina Furquim de, 2008, Pró-Fono R. Atual. Cient., V20, P219, DOI 10.1590/S0104-56872008000400003
+   Andrade CRF, 2011, ABFW TESTE LINGUAGEM, P51
+   Arnold HS, 2011, J COMMUN DISORD, V44, P276, DOI 10.1016/j.jcomdis.2010.12.003
+   Beilby JM, 2013, J FLUENCY DISORD, V38, P14, DOI 10.1016/j.jfludis.2012.12.001
+   Beilby JM, 2012, J FLUENCY DISORD, V37, P289, DOI 10.1016/j.jfludis.2012.05.003
+   Bleek B, 2012, J FLUENCY DISORD, V37, P325, DOI 10.1016/j.jfludis.2012.07.003
+   Bleek B, 2011, J COMMUN DISORD, V44, P218, DOI 10.1016/j.jcomdis.2010.11.001
+   Blumgart E, 2012, J FLUENCY DISORD, V37, P83, DOI 10.1016/j.jfludis.2011.12.002
+   Blumgart E, 2010, J FLUENCY DISORD, V35, P203, DOI 10.1016/j.jfludis.2010.03.002
+   Conture EG, 2013, J COMMUN DISORD, V46, P125, DOI 10.1016/j.jcomdis.2012.11.002
+   CRAIG A, 2006, ADV PSYCHIAT TREATME, V12, P63
+   Craig A, 2010, J FLUENCY DISORD, V35, P159, DOI 10.1016/j.jfludis.2010.08.002
+   Craig A, 2009, J FLUENCY DISORD, V34, P61, DOI 10.1016/j.jfludis.2009.05.002
+   Crawford AM, 2011, J ANXIETY DISORD, V25, P924, DOI 10.1016/j.janxdis.2011.05.005
+   Iverach L, 2011, AM J SPEECH-LANG PAT, V20, P221, DOI 10.1044/1058-0360(2011/10-0091)
+   Kefalianos E, 2012, J FLUENCY DISORD, V37, P151, DOI 10.1016/j.jfludis.2012.03.002
+   Koedoot C, 2011, J COMMUN DISORD, V44, P429, DOI 10.1016/j.jcomdis.2011.02.002
+   Langevin M, 2009, AM J SPEECH-LANG PAT, V18, P264, DOI 10.1044/1058-0360(2009/07-0087)
+   Lau SR, 2012, J COMMUN DISORD, V45, P98, DOI 10.1016/j.jcomdis.2011.12.002
+   MacKinnon SP, 2007, J FLUENCY DISORD, V32, P297, DOI 10.1016/j.jfludis.2007.03.003
+   Plexico LW, 2010, J FLUENCY DISORD, V35, P333, DOI 10.1016/j.jfludis.2010.07.001
+   Riley G., 1994, STUTTERING SEVERITY
+   Santos Erika de Oliveira Lino dos, 2006, Psicol. Reflex. Crit., V19, P277, DOI 10.1590/S0102-79722006000200014
+   Seery CH, 2007, J FLUENCY DISORD, V32, P197, DOI 10.1016/j.jfludis.2007.07.001
+   Tran Y, 2011, J FLUENCY DISORD, V36, P17, DOI 10.1016/j.jfludis.2010.12.003
+   Van Borsel J, 2011, J FLUENCY DISORD, V36, P41, DOI 10.1016/j.jfludis.2011.01.002
+   Von Tiling J, 2011, J COMMUN DISORD, V44, P161, DOI 10.1016/j.jcomdis.2010.09.002
+   Yaruss JS, 2010, J FLUENCY DISORD, V35, P190, DOI 10.1016/j.jfludis.2010.05.010
+NR 30
+TC 1
+Z9 1
+U1 0
+U2 5
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PD JAN-FEB
+PY 2015
+VL 27
+IS 1
+BP 44
+EP 50
+DI 10.1590/2317-1782/20152013065
+PG 7
+WC Audiology & Speech-Language Pathology
+SC Audiology & Speech-Language Pathology
+GA VH8AT
+UT WOS:000455243100008
+PM 25885196
+OA DOAJ Gold
+DA 2020-11-24
+ER
+
+PT J
+AU Domingues, CEF
+   Olivera, CMC
+   Oliveira, BV
+   Juste, FS
+   Andrade, CRF
+   Giacheti, CM
+   Moretti-Ferreira, D
+   Drayna, D
+AF Domingues, C. E. F.
+   Olivera, C. M. C.
+   Oliveira, B. V.
+   Juste, F. S.
+   Andrade, C. R. F.
+   Giacheti, C. M.
+   Moretti-Ferreira, D.
+   Drayna, D.
+TI A genetic linkage study in Brazil identifies a new locus for persistent
+   developmental stuttering on chromosome 10
+SO GENETICS AND MOLECULAR RESEARCH
+LA English
+DT Article
+DE Stuttering; Linkage; Dominant; Chromosome 10q
+ID TWIN; ETIOLOGY; SAMPLE
+AB Although twin, adoption, and family studies demonstrate that genetic factors are involved in the origins of stuttering, the mode of transmission of the disorder in families is not well defined and stuttering is considered a genetically complex trait. We performed a genome-wide linkage scan in a group of 43 Brazilian families, each containing multiple cases of persistent developmental stuttering. Linkage analysis under a dominant model of inheritance generated significant evidence of linkage in two Brazilian families, with a combined maximum single-point LOD score of 4.02 and a multipoint LOD score of 4.28 on chromosome 10q21. This demonstrated the presence of a novel variant gene at this locus that predisposes individuals to stuttering, which provides an opportunity to identify novel genetic mechanisms that underlie this disorder.
+C1 [Domingues, C. E. F.; Drayna, D.] NIDCD, NIH, Rockville, MD 20850 USA.
+   [Domingues, C. E. F.; Oliveira, B. V.; Moretti-Ferreira, D.] Univ Estadual Paulista, Inst Biociencias Botucatu, Dept Genet, Botucatu, SP, Brazil.
+   [Olivera, C. M. C.; Giacheti, C. M.] Univ Estadual Paulista, Dept Fonoaudiol, Ctr Estudos Educ & Saude, Marilia, SP, Brazil.
+   [Juste, F. S.; Andrade, C. R. F.] Univ Sao Paulo, Dept Fonoaudiol Fisioterapia & Terapia Ocupac, Fac Med, Sao Paulo, SP, Brazil.
+RP Drayna, D (corresponding author), NIDCD, NIH, Rockville, MD 20850 USA.
+EM drayna@nidcd.nih.gov
+RI Moretti-Ferreira, Danilo/P-3456-2019; Domingues, Carlos/D-3262-2019;
+   Domingues, Carlos Eduardo Frigerio/B-5511-2013; Andrade, Claudia
+   F/D-2187-2012; Giacheti, Celia M/I-4863-2012; Juste, Fabiola/B-3544-2015
+OI Moretti-Ferreira, Danilo/0000-0002-9256-7623; Domingues,
+   Carlos/0000-0002-0598-4956; Giacheti, Celia M/0000-0001-9691-4672;
+   Juste, Fabiola/0000-0002-2882-9895
+FU National Institute on Deafness and Other Communication
+   Disorders/National Institutes of Health Intramural [Z01-000046-12];
+   Coordination for the Improvement of Higher Education Personnel (CAPES)
+   foundation, BrazilCAPES; NATIONAL INSTITUTE ON DEAFNESS AND OTHER
+   COMMUNICATION DISORDERSUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   on Deafness & Other Communication Disorders (NIDCD) [ZIADC000046,
+   ZIADC000046, ZIADC000046, ZIADC000046, ZIADC000046, ZIADC000046,
+   ZIADC000046, ZIADC000046, ZIADC000046, ZIADC000046] Funding Source: NIH
+   RePORTER
+FX Research supported by the National Institute on Deafness and Other
+   Communication Disorders/National Institutes of Health Intramural (Grant
+   #Z01-000046-12), and by the Coordination for the Improvement of Higher
+   Education Personnel (CAPES) foundation, Brazil (C. E. F. Domingues). We
+   thank M. Hashim Raza, Eduardo Sainz, Alejandro Schaffer, Thomas
+   Friedman, and Andrew Griffith for technical guidance and comments on the
+   manuscript, and the family members who participated in this research
+   study.
+CR Abecasis GR, 2002, NAT GENET, V30, P97, DOI 10.1038/ng786
+   Alm PA, 2007, J COMMUN DISORD, V40, P1, DOI 10.1016/j.jcomdis.2006.04.001
+   Andrade CRF, 2004, ABFW TESTE LINGUAGEM
+   ANDREWS G, 1991, ARCH GEN PSYCHIAT, V48, P1034
+   COTTINGHAM RW, 1993, AM J HUM GENET, V53, P252
+   COX N J, 1984, Genetic Epidemiology, V1, P245, DOI 10.1002/gepi.1370010304
+   Dworzynski K, 2007, AM J SPEECH-LANG PAT, V16, P169, DOI 10.1044/1058-0360(2007/021)
+   Fagnani C, 2011, LOGOP PHONIATR VOCO, V36, P114, DOI 10.3109/14015439.2010.534503
+   Felsenfeld S, 2000, BEHAV GENET, V30, P359, DOI 10.1023/A:1002765620208
+   Fishelson M, 2002, Bioinformatics, V18 Suppl 1, pS189
+   Giolo SR, 2012, EUR J HUM GENET, V20, P111, DOI 10.1038/ejhg.2011.144
+   Hoffmann K, 2005, BIOINFORMATICS, V21, P3565, DOI 10.1093/bioinformatics/bti571
+   HOWIE PM, 1981, J SPEECH HEAR RES, V24, P317, DOI 10.1044/jshr.2403.317
+   Kang C, 2010, NEW ENGL J MED, V362, P677, DOI 10.1056/NEJMoa0902630
+   KIDD KK, 1978, J FLUENCY DISORD, V3, P13, DOI 10.1016/0094-730X(78)90003-7
+   Ooki S, 2005, TWIN RES HUM GENET, V8, P649, DOI 10.1375/twin.8.6.649
+   OTT J, 1989, P NATL ACAD SCI USA, V86, P4175, DOI 10.1073/pnas.86.11.4175
+   Rautakoski P, 2012, J FLUENCY DISORD, V37, P202, DOI 10.1016/j.jfludis.2011.12.003
+   Raza MH, 2012, HUM GENET, V131, P311, DOI 10.1007/s00439-011-1134-2
+   Raza MH, 2010, HUM GENET, V128, P461, DOI 10.1007/s00439-010-0871-y
+   Riaz N, 2005, AM J HUM GENET, V76, P647, DOI 10.1086/429226
+   Riley G., 1994, STUTTERING SEVERITY
+   SEIDER RA, 1983, J SPEECH HEAR DISORD, V48, P402, DOI 10.1044/jshd.4804.402
+   Shugart YY, 2004, AM J MED GENET A, V124A, P133, DOI 10.1002/ajmg.a.20347
+   Silberstein M, 2006, AM J HUM GENET, V78, P922, DOI 10.1086/504158
+   Suresh R, 2006, AM J HUM GENET, V78, P554, DOI 10.1086/501370
+   Thiele H, 2005, BIOINFORMATICS, V21, P1730, DOI 10.1093/bioinformatics/bth488
+   Viswanath N, 2004, HUM BIOL, V76, P401, DOI 10.1353/hub.2004.0050
+NR 28
+TC 9
+Z9 10
+U1 1
+U2 10
+PU FUNPEC-EDITORA
+PI RIBEIRAO PRETO
+PA RUA FLORIANO PEIXOTO 2444, ALTO DA BOA VISTA, RIBEIRAO PRETO, SP 00000,
+   BRAZIL
+SN 1676-5680
+J9 GENET MOL RES
+JI Genet. Mol. Res.
+PY 2014
+VL 13
+IS 1
+BP 2094
+EP 2101
+DI 10.4238/2014.March.24.13
+PG 8
+WC Biochemistry & Molecular Biology; Genetics & Heredity
+SC Biochemistry & Molecular Biology; Genetics & Heredity
+GA AE6PA
+UT WOS:000334114800133
+PM 24737434
+OA Bronze, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Rossi, NF
+   Heinze, EG
+   Giacheti, CM
+   Goncalves, OF
+   Sarnpaio, A
+AF Rossi, Natalia F.
+   Garayzabal Heinze, Elena
+   Giacheti, Celia M.
+   Goncalves, Oscar F.
+   Sarnpaio, Adriana
+TI Psycholinguistic abilities of children with Williams syndrome
+SO RESEARCH IN DEVELOPMENTAL DISABILITIES
+LA English
+DT Article
+DE Williams syndrome; Psycho linguistic abilities; Visual and auditory
+   processing
+ID LONG-TERM-MEMORY; SYNDROME PHENOTYPE; PERFORMANCE; HETEROGENEITY;
+   CONSTRUCTION; LANGUAGE; PROFILE; ADULTS
+AB The objective of this study was to investigate the psycholinguistic abilities of children with Williams syndrome (WS) and typically developing children using the Illinois Test of Psycholinguistic Abilities (ITPA). Performance on the ITPA was analysed in a group with WS (N = 20, mean age = 8.5 years, SD = 1.62) and two typically developing groups, matched in mental (MA, N = 20, mean age = 4.92 years, SD = 1.14) and chronological age (CA, N = 19, mean age = 8.35 years, SD = 3.07). Overall, within-group analyses showed that individuals with WS displayed higher scalar scores on the visual reception and visual association subtests. When groups were compared, we observed inferior performance of the WS group on all ITPA subtests when compared with typically developing groups. Moreover, an interaction between reception and group was found, only the WS group demonstrated superior performance on the visual reception subtest when compared to the auditory reception subtest. Evidence from this study offers relevant contributions to the development of educational intervention programs for children with WS. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Rossi, Natalia F.; Giacheti, Celia M.] Univ Estadual Paulista UNESP, Philosophy & Sci Fac, Dept Speech Language Pathol, BR-17525900 Marilia, SP, Brazil.
+   [Garayzabal Heinze, Elena] Univ Autonoma Madrid, Dept Linguist, E-28049 Madrid, Spain.
+   [Goncalves, Oscar F.; Sarnpaio, Adriana] Univ Minho, Sch Psychol, Neuropsychophysiol Lab, CIPsi, Braga, Portugal.
+RP Rossi, NF (corresponding author), Univ Estadual Paulista UNESP, Philosophy & Sci Fac, Dept Speech Language Pathol, Ave Hygino Muzzi Filho 737, BR-17525900 Marilia, SP, Brazil.
+EM nataliafreitasrossi@yahoo.com.br; elena.garayzabal@uam.es
+RI Giacheti, Celia M/I-4863-2012; Goncalves, Oscar/G-5278-2010; Sampaio,
+   Adriana/C-8361-2011
+OI Giacheti, Celia M/0000-0001-9691-4672; Goncalves,
+   Oscar/0000-0003-2735-9155; Sampaio, Adriana/0000-0001-7347-1282
+CR Atkinson J, 2003, DEV NEUROPSYCHOL, V23, P139, DOI 10.1207/S15326942DN231&2_7
+   BELLUGI U, 1990, AM J MED GENET, P115
+   Bellugi U, 2000, J COGNITIVE NEUROSCI, V12, P7, DOI 10.1162/089892900561959
+   BOGOSSIAN MAD, 1977, ADAPTACAO BRASILEIRA
+   Brock J, 2006, CORTEX, V42, P366, DOI 10.1016/S0010-9452(08)70363-0
+   Brock J, 2007, DEV PSYCHOPATHOL, V19, P97, DOI 10.1017/S095457940707006X
+   Cherniske EM, 2004, AM J MED GENET A, V131A, P255, DOI 10.1002/ajmg.a.30400
+   CRISCO JJ, 1988, DEV MED CHILD NEUROL, V30, P650
+   Davis H, 1970, HEARING AND DEAFNESS
+   EWART AK, 1993, NAT GENET, V5, P11, DOI 10.1038/ng0993-11
+   Farran EK, 2005, BRAIN COGNITION, V59, P159, DOI 10.1016/j.bandc.2005.05.011
+   Farran EK, 2005, NEUROPSYCHOLOGIA, V43, P815, DOI 10.1016/j.neuropsychologia.2004.09.001
+   Farran EK, 2001, J CHILD PSYCHOL PSYC, V42, P719, DOI 10.1111/1469-7610.00768
+   Gejao M. G., 2007, DISTURBIOS COMMUNICA, V19, P203
+   Goncalves O. F., 2004, INT J CLIN HLTH PSYC, V4, P623
+   GOSCH A, 1994, AM J MED GENET, V52, P291, DOI 10.1002/ajmg.1320520308
+   Greer MK, 1997, AM J MED GENET, V74, P521, DOI 10.1002/(SICI)1096-8628(19970919)74:5<521::AID-AJMG13>3.0.CO;2-E
+   Hoffmann JE, 2003, COGNITIVE PSYCHOL, V46, P260, DOI 10.1016/S0010-0285(02)00518-2
+   Jarrold C, 1998, J CHILD PSYCHOL PSYC, V39, P511
+   Jarrold C., 2000, COGNITIVE NEUROPSYCH, V5, P293, DOI DOI 10.1080/13546800050199739
+   Jarrold C, 2007, CORTEX, V43, P233, DOI 10.1016/S0010-9452(08)70478-7
+   Johnson LB, 2001, J OTOLARYNGOL, V30, P90, DOI 10.2310/7070.2001.20811
+   Karmiloff-Smith A, 2003, DEV NEUROPSYCHOL, V23, P227, DOI 10.1207/S15326942DN231&2_10
+   Kirk S., 1986, TEST ILLINOIS APTITU
+   KIRK SA, 1961, AM J MENT DEF, V66, P399
+   Leyfer OT, 2006, AM J MED GENET B, V141B, P615, DOI 10.1002/ajmg.b.30344
+   Marler JA, 2005, AM J MED GENET A, V138A, P318, DOI 10.1002/ajmg.a.30970
+   Martens MA, 2008, J CHILD PSYCHOL PSYC, V49, P576, DOI 10.1111/j.1469-7610.2008.01887.x
+   Mervis CB, 2000, BRAIN COGNITION, V44, P604, DOI 10.1006/brcg.2000.1232
+   MORRIS CA, 1988, J PEDIATR-US, V113, P318, DOI 10.1016/S0022-3476(88)80272-5
+   Nakamura M, 1999, J INTELL DISABIL RES, V43, P562, DOI 10.1046/j.1365-2788.1999.00237.x
+   Pani JR, 1999, PSYCHOL SCI, V10, P453, DOI 10.1111/1467-9280.00186
+   Porter MA, 2005, DEV NEUROPSYCHOL, V27, P275, DOI 10.1207/s15326942dn2702_5
+   Sampaio A, 2009, EUR J PAEDIATR NEURO, V13, P337, DOI 10.1016/j.ejpn.2008.06.010
+   Sarnpaio A, 2008, BRAIN COGNITION, V66, P290, DOI 10.1016/j.bandc.2007.09.005
+   Schubert C, 2009, CELL MOL LIFE SCI, V66, P1178, DOI 10.1007/s00018-008-8401-y
+   Semel E. M., 2003, UNDERSTANDING WILLIA
+   Shaheen EA, 2011, INT J PEDIATR OTORHI, V75, P1117, DOI 10.1016/j.ijporl.2011.06.001
+   Stojanovik V, 2006, CLIN LINGUIST PHONET, V20, P547, DOI 10.1080/02699200500266422
+   Terman L. M., 1916, MEASUREMENT INTELLIG
+   Wechsler D., 1989, WECHSLER PRESCHOOL P
+   Wechsler D, 1991, WECHSLER INTELLIGENC
+NR 42
+TC 5
+Z9 5
+U1 0
+U2 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0891-4222
+J9 RES DEV DISABIL
+JI Res. Dev. Disabil.
+PD MAY-JUN
+PY 2012
+VL 33
+IS 3
+BP 819
+EP 824
+DI 10.1016/j.ridd.2011.12.013
+PG 6
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA 902CH
+UT WOS:000301015700005
+PM 22230237
+OA Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Cassab, TV
+   Zanchetta, S
+   Giacheti, CM
+   Zorzetto, NL
+   Richieri-Costa, A
+AF Cassab, Tatiana Vialogo
+   Zanchetta, Sthella
+   Giacheti, Celia Maria
+   Zorzetto, Neivo Luiz
+   Richieri-Costa, Antonio
+TI Auditory findings and electrophysiologics in individuals with G/BBB
+   syndrome
+SO BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY
+LA English
+DT Article
+DE evoked potentials; auditory; brainstem; hearing; hypertelorism;
+   hypospadias
+ID OPITZ GBBB SYNDROME; CLEFT-PALATE; OTITIS-MEDIA; 22Q11.2 DELETION; BBBG
+   SYNDROME; HEARING-LOSS; FAMILY; DIAGNOSIS; CHILDREN
+AB The G/BBB syndrome is a rare condition characterized by hypertelorism, cleft lip and palate, and hypospadias. No studies were found on the hearing of individuals with this syndrome.
+   Aim: To investigate the auditory function in patients with G/BBB syndrome, such as the occurrence of hearing loss, and central and peripheral auditory nerve conduction.
+   Methods: Fourteen male patients aged 7-34 years with the G/BBB syndrome were assessed by otoscopy, audiometry, tympanometry and evoked auditory brainstem response (ABR). Model: A retrospective clinical series study.
+   Results: Audiometric thresholds were normal in 12 (66.7%) of the sample and altered in two (33.3%), one with conductive and one with sensorineural loss. ABR resuts were: all patients had normal absolute wave I latencies; absolute wave III and V latencies were increased in two and six patients, respectively; interpeak latencies I-III, IV and V interpeak latencies were increased in four, three and eight patients respectively.
+   Conclusion: Hearing loss can occur in the G/BBB syndrome. There is evidence of central auditory pathway involvement in the brainstem. Imaging studies are needed to clarify the clinical findings.
+C1 [Cassab, Tatiana Vialogo] Univ Sao Paulo, HRAC, Sao Paulo, Brazil.
+   [Zanchetta, Sthella] FMRP USP, Ribeirao Preto Med Sch, Speech Therapy Course, Sao Paulo, Brazil.
+   [Giacheti, Celia Maria; Zorzetto, Neivo Luiz] Univ Estadual Paulista, UNESP, Speech Therapy Dept, Sao Paulo, Brazil.
+   [Richieri-Costa, Antonio] Univ Sao Paulo, Craniofacial Anomaly Rehabil Hosp, Bauru, SP, Brazil.
+RP Cassab, TV (corresponding author), Univ Sao Paulo, HRAC, Sao Paulo, Brazil.
+RI Giacheti, Celia M/I-4863-2012; Richieri-Costa, Antonio/B-2514-2013;
+   Zanchetta, Sthella/Y-6572-2018
+OI Giacheti, Celia M/0000-0001-9691-4672; Zanchetta,
+   Sthella/0000-0001-9171-6116
+CR ALLANSON JE, 1988, AM J MED GENET, V31, P637, DOI 10.1002/ajmg.1320310319
+   ANTONELI MZ, 2006, THESIS U SAO PAULO
+   Arnold WH, 2005, CLEFT PALATE-CRAN J, V42, P197, DOI 10.1597/03-138.1
+   BUYSE ML, 1990, BIRTH DEFECTS ENCY, P912
+   CAPPA M, 1987, AM J MED GENET, V28, P303, DOI 10.1002/ajmg.1320280207
+   Cho HJ, 2006, J KOREAN MED SCI, V21, P790, DOI 10.3346/jkms.2006.21.5.790
+   CHRISTODOULOU J, 1990, AM J MED GENET, V37, P422, DOI 10.1002/ajmg.1320370324
+   ERNESTINO GMR, 2007, THESIS U SAO PAULO
+   Finitzo T, 2000, PEDIATRICS, V106, P798
+   Flynn T, 2009, INT J PEDIATR OTORHI, V73, P1441, DOI 10.1016/j.ijporl.2009.07.015
+   Goudy S, 2006, OTOLARYNG HEAD NECK, V134, P946, DOI 10.1016/j.otohns.2005.12.020
+   GRAVEL JS, 1995, ACTA OTO-LARYNGOL, V115, P279, DOI 10.3109/00016489509139309
+   GUIONALMEIDA ML, 1992, AM J MED GENET, V43, P918, DOI 10.1002/ajmg.1320430603
+   Hall J. W., 1997, AUDIOLOGISTS DESK RE
+   Hood L, 1998, CLIN APPL AUDITORY B
+   Jones K, 2006, SMITHS RECOGNIZABLE
+   KIMMELMAN CP, 1982, INT J PEDIATR OTORHI, V4, P343, DOI 10.1016/0165-5876(82)90047-7
+   Lacassie Y, 1996, AM J MED GENET, V62, P318, DOI 10.1002/(SICI)1096-8628(19960329)62:3<318::AID-AJMG21>3.3.CO;2-1
+   Magliaro Fernanda Cristina Leite, 2010, Pró-Fono R. Atual. Cient., V22, P31, DOI 10.1590/S0104-56872010000100007
+   MCDONALDMCGINN DM, 1995, AM J MED GENET, V59, P103, DOI 10.1002/ajmg.1320590122
+   NERI G, 1987, AM J MED GENET, V28, P287, DOI 10.1002/ajmg.1320280204
+   Opitz J. M., 1969, BIRTH DEFECTS OAS, V2, P95
+   OPITZ JM, 1996, COMMUNICATION   0225
+   PARADISE JL, 1994, PEDIATRICS, V94, P853
+   PIAZENTIN SHA, 1989, THESIS PONTIFICIA U
+   PIAZENTINPENNA SHA, 2002, THESIS U SAO PAULO
+   Ramana YV, 2005, CLEFT PALATE-CRAN J, V42, P570, DOI 10.1597/03-043.1
+   ROOD SR, 1981, OTOLARYNG CLIN N AM, V14, P865
+   SCHRANDER J, 1995, CLIN GENET, V48, P76
+   So J, 2005, AM J MED GENET A, V132A, P1, DOI 10.1002/ajmg.a.30407
+   Trindade IEK, 2007, FISSURAS LABIOPALATI
+   Tuncbilek G, 2003, CLEFT PALATE-CRAN J, V40, P304, DOI 10.1597/1545-1569(2003)040<0304:AATFIC>2.0.CO;2
+   WILLIAMS CA, 1987, AM J MED GENET, V28, P297, DOI 10.1002/ajmg.1320280206
+   Yoshida H, 2009, AURIS NASUS LARYNX, V36, P269, DOI 10.1016/j.anl.2008.07.004
+   YOUNG ID, 1988, AM J MED GENET, V29, P863, DOI 10.1002/ajmg.1320290417
+   Zambonato Ticiana Cristina de Freitas, 2009, Braz. j. otorhinolaryngol., V75, P888, DOI 10.1590/S1808-86942009000600020
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 4
+PU ASSOC BRASILEIRA OTORRINOLARINGOLOGIA & CIRURGIA CERVICOFACIAL
+PI SAO PAULO
+PA AV INDIANOPOLOS 740, MOEMA, SAO PAULO, SP 04062-001, BRAZIL
+SN 1808-8694
+J9 BRAZ J OTORHINOLAR
+JI Braz. J. Otorhinolaryngol.
+PD NOV-DEC
+PY 2011
+VL 77
+IS 6
+BP 768
+EP 774
+DI 10.1590/S1808-86942011000600014
+PG 7
+WC Otorhinolaryngology
+SC Otorhinolaryngology
+GA 864ZS
+UT WOS:000298280300014
+PM 22183284
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Rossi, NF
+   Sampaio, A
+   Goncalves, OF
+   Giacheti, CM
+AF Rossi, Natalia Freitas
+   Sampaio, Adriana
+   Goncalves, Oscar F.
+   Giacheti, Celia Maria
+TI Analysis of speech fluency in Williams syndrome
+SO RESEARCH IN DEVELOPMENTAL DISABILITIES
+LA English
+DT Article
+DE Fluency; Oral narrative; Language; Williams syndrome
+ID LANGUAGE IMPAIRMENT; NONVERBAL ABILITIES; SYNDROME PHENOTYPE; CHILDREN;
+   NARRATIVES; PROFILE; DISSOCIATION; MECHANISMS; MEMORY
+AB Williams syndrome (WS) is a neurodevelopmental genetic disorder, often referred as being characterized by dissociation between verbal and non-verbal abilities, although the number of studies disputing this proposal is emerging. Indeed, although they have been traditionally reported as displaying increased speech fluency, this topic has not been fully addressed in research. In previous studies carried out with a small group of individuals with WS, we reported speech breakdowns during conversational and autobiographical narratives suggestive of language difficulties. In the current study, we characterized the speech fluency profile using an ecologically based measure - a narrative task (story generation) was collected from a group of individuals with WS (n = 30) and typically developing group (n = 39) matched in mental age. Oral narratives were elicited using a picture stimulus - the cookie theft picture from Boston Diagnosis Aphasia Test. All narratives were analyzed according to typology and frequency of fluency breakdowns (non-stuttered and stuttered disfluencies). Oral narratives in WS group differed from typically developing group, mainly due to a significant increase in the frequency of disfluencies, particularly in terms of hesitations, repetitions and pauses. This is the first evidence of disfluencies in WS using an ecologically based task (oral narrative task), suggesting that these speech disfluencies may represent a significant marker of language problems in WS. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Rossi, Natalia Freitas; Giacheti, Celia Maria] Univ Estadual Paulista UNESP, Phylosophy & Sci Fac, Dept Speech Language Pathol, BR-17525900 Sao Paulo, Brazil.
+   [Sampaio, Adriana; Goncalves, Oscar F.] Univ Minho, Sch Psychol, CIPsi, Neuropsychophysiol Lab, Braga, Portugal.
+RP Rossi, NF (corresponding author), Univ Estadual Paulista UNESP, Phylosophy & Sci Fac, Dept Speech Language Pathol, Marilia Campus,Ave Hygino Muzzi Filho 737, BR-17525900 Sao Paulo, Brazil.
+EM nataliafreitasrossi@yahoo.com.br
+RI Goncalves, Oscar/G-5278-2010; Giacheti, Celia M/I-4863-2012; Sampaio,
+   Adriana/C-8361-2011
+OI Goncalves, Oscar/0000-0003-2735-9155; Giacheti, Celia
+   M/0000-0001-9691-4672; Sampaio, Adriana/0000-0001-7347-1282
+CR Andrade CRF, 2004, ABFW TESTE LINGUAGEM
+   Atkinson J, 2001, DEV MED CHILD NEUROL, V43, P330, DOI 10.1017/S0012162201000615
+   Bajaj A, 2007, CLIN LINGUIST PHONET, V21, P227, DOI 10.1080/02699200601075896
+   Barr DJ, 2003, PSYCHON B REV, V10, P462, DOI 10.3758/BF03196507
+   Bayes M, 2003, AM J HUM GENET, V73, P131, DOI 10.1086/376565
+   Bellugi U, 2000, J COGNITIVE NEUROSCI, V12, P1, DOI 10.1162/089892900561940
+   Binetti G, 1996, J NEUROL NEUROSUR PS, V60, P91, DOI 10.1136/jnnp.60.1.91
+   BISHOP DVM, 1997, UNCOMMOM UNDERSTANDI
+   Bortfeld H, 2001, LANG SPEECH, V44, P123, DOI 10.1177/00238309010440020101
+   Brock J, 2007, DEV PSYCHOPATHOL, V19, P97, DOI 10.1017/S095457940707006X
+   Clahsen H, 1998, COGNITION, V68, P167, DOI 10.1016/S0010-0277(98)00049-3
+   EWART AK, 1993, NAT GENET, V5, P11, DOI 10.1038/ng0993-11
+   Goldman-Eisler F., 1968, PSYCHOLINGUISTICS EX
+   GONCALVES O, 2011, J DEV PHYS DISABIL, P1
+   Goncalves O. F., 2004, INT J CLIN HLTH PSYC, V4, P623
+   Goncalves OF, 2010, BRIT J DEV DISABIL, V56, P89, DOI 10.1179/096979510799102943
+   Goodglass H, 1983, ASSESSMENT APHASIA R
+   Grant J, 2002, J CHILD LANG, V29, P403, DOI 10.1017/S030500090200510X
+   Guo LY, 2008, J SPEECH LANG HEAR R, V51, P722, DOI 10.1044/1092-4388(2008/051)
+   Jarrold C, 1998, J CHILD PSYCHOL PSYC, V39, P511
+   Jarrold C, 2001, CORTEX, V37, P423, DOI 10.1016/S0010-9452(08)70582-3
+   Jarrold C., 2000, COGNITIVE NEUROPSYCH, V5, P293, DOI DOI 10.1080/13546800050199739
+   Karmiloff-Smith A, 2003, DEV NEUROPSYCHOL, V23, P227, DOI 10.1207/S15326942DN231&2_10
+   Marini A, 2010, J NEUROLINGUIST, V23, P97, DOI 10.1016/j.jneuroling.2009.10.002
+   Merlo S, 2006, HESITACOES FALA SEMI
+   Mervis CB, 2000, BRAIN COGNITION, V44, P604, DOI 10.1006/brcg.2000.1232
+   Nichols S, 2004, BRAIN LANG, V88, P180, DOI 10.1016/S0093-934X(03)00097-X
+   OCONNELL DC, 1969, PSYCHOL FORSCH, V33, P50, DOI 10.1007/BF00424616
+   PAGON RA, 1987, PEDIATRICS, V80, P85
+   Reilly J, 2004, BRAIN LANG, V88, P229, DOI 10.1016/S0093-934X(03)00101-9
+   Rossen M., 1996, LANGUAGE LEARNING BE
+   Rossi Natalia Freitas, 2007, Rev. soc. bras. fonoaudiol., V12, P1, DOI 10.1590/S1516-80342007000100003
+   Rossi Natalia Freitas, 2009, Pró-Fono R. Atual. Cient., V21, P107, DOI 10.1590/S0104-56872009000200004
+   Sarnpaio A, 2008, BRAIN COGNITION, V66, P290, DOI 10.1016/j.bandc.2007.09.005
+   Shriberg E., 2001, J INT PHON ASSOC, V31, P153, DOI DOI 10.1017/S0025100301001128
+   Stiles J, 2000, DEV NEUROPSYCHOL, V18, P213, DOI 10.1207/S15326942DN1802_4
+   Stojanovik V, 2008, J NEUROLINGUIST, V21, P18, DOI 10.1016/j.jneuroling.2007.06.003
+   Stromme P, 2002, J CHILD NEUROL, V17, P269, DOI 10.1177/088307380201700406
+   Temple CM, 2002, J NEUROLINGUIST, V15, P463, DOI 10.1016/S0911-6044(01)00006-9
+   UDWIN O, 1990, AM J MED GENET, P108
+   Vicari S, 2004, J INT NEUROPSYCH SOC, V10, P862, DOI 10.1017/S1355617704106073
+   Vicari S, 2001, NEUROPSYCHOLOGIA, V39, P665, DOI 10.1016/S0028-3932(01)00012-4
+   Volterra V, 2003, DEV NEUROPSYCHOL, V23, P33, DOI 10.1207/S15326942DN231&2_3
+   WANG PP, 1994, J CLIN EXP NEUROPSYC, V16, P317, DOI 10.1080/01688639408402641
+   Wechsler D., 1989, WECHSLER PRESCHOOL P
+   Wechsler D, 1991, WECHSLER INTELLIGENC
+   Wechsler D., 1997, WECHSLER ADULT INTEL
+NR 47
+TC 9
+Z9 10
+U1 0
+U2 15
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0891-4222
+J9 RES DEV DISABIL
+JI Res. Dev. Disabil.
+PD NOV-DEC
+PY 2011
+VL 32
+IS 6
+BP 2957
+EP 2962
+DI 10.1016/j.ridd.2011.05.006
+PG 6
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA 838PF
+UT WOS:000296304000111
+PM 21624815
+OA Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Antoneli, MZ
+   Giacheti, CM
+   Genaro, KF
+   Zorzetto, NL
+   Richieri-Costa, A
+AF Antoneli, Melissa Zattoni
+   Giacheti, Celia Maria
+   Genaro, Katia Flores
+   Zorzetto, Neivo Luiz
+   Richieri-Costa, Antonio
+TI Frontonasal dysplasia: clinical evaluation on audiological and brainstem
+   electrophysiological profiles
+SO BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY
+LA English
+DT Article
+DE evoked potentials; auditory; brain stem; hearing; hypertelorism
+ID CLEFT FACE SYNDROME; CORPUS-CALLOSUM; MALFORMATION
+AB Frontonasal dysplasia (FND) is a rare malformative complex affecting the frontal portion of the face, the eyes and the nose; it may occur singly or associated with other clinical signs. No systematic studies describing hearing in this condition were found.
+   Aim: To evaluate hearing sensitivity and sound stimulus conduction from cochlea to brainstem in patients with clinical signs of FND.
+   Methods: 21 patients with isolated or syndromic FND were submitted to a clinical (otological/vestibular antecedents and otoscopy) and instrumental (pure tone and speech audiometry, tympanometry and brainstem auditory evoked response) hearing evaluation.
+   Design: A clinical, cross-sectional observational prospective study.
+   Results: Hearing thresholds were normal in 15 (70%) patients, abnormal in 5 (25%), mostly with conductive hearing loss; one patient did not cooperate with testing. The tympanometric curve was type A in 30 (72%) ears, type C in 5 (12%), type As in 4 (9%) and type B in 3 (7%). The auditory brainstem response (ABR) showed no abnormalities.
+   Conclusion: Patients with FND showed no abnormalities in the auditory system from cochlea to brainstem in this study. Mild conductive hearing loss found in some is probably related to cleft palate. Further evaluation of hearing pathways at higher levels is recommended.
+RP Antoneli, MZ (corresponding author), Rua Silvio Marchione,3-20 Vila Univ, BR-17012900 Bauru, SP, Brazil.
+RI Genaro, Katia/D-6886-2012; Richieri-Costa, Antonio/B-2514-2013;
+   Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+CR Antoneli MZ, 2006, AN 21 ENC INT AUD AB
+   DEMYER W, 1967, NEUROLOGY, V17, P961, DOI 10.1212/WNL.17.10.961
+   Doherty D, 2006, CHILD CARE HLTH DEV, V32, P333, DOI 10.1111/j.1365-2214.2006.00602.x
+   FONTAINE G, 1983, J GENET HUM, V31, P351
+   Genc E, 2002, INT J PEDIATR OTORHI, V65, P75, DOI 10.1016/S0165-5876(02)00126-X
+   Giffoni SDA, 2004, ARQ NEURO-PSIQUIAT, V62, P195, DOI 10.1590/S0004-282X2004000200001
+   Guerrini R, 1998, NEUROLOGY, V51, P499, DOI 10.1212/WNL.51.2.499
+   Guion-Almeida ML, 2009, AM J MED GENET A, V149A, P1006, DOI 10.1002/ajmg.a.32717
+   GuionAlmeida ML, 1996, INT J ORAL MAX SURG, V25, P91, DOI 10.1016/S0901-5027(96)80048-8
+   Kayserili H, 2009, HUM MOL GENET, V18, P4357, DOI 10.1093/hmg/ddp391
+   Kean J, 2010, INT J PEDIATR OTORHI, V74, P306, DOI 10.1016/j.ijporl.2009.12.002
+   Lopes VLGD, 2004, CLIN DYSMORPHOL, V13, P35, DOI 10.1097/01.mcd.0000092960.11849.1d
+   MICHELS VV, 1989, AM J MED GENET, V34, P445, DOI 10.1002/ajmg.1320340323
+   NAIDICH TP, 1988, J COMPUT ASSIST TOMO, V12, P57, DOI 10.1097/00004728-198801000-00011
+   Piazentin-Penna SHA, 2007, FISSURAS LABIOPALATI, P165
+   Rizvi M, 2010, CLEFT PALATE-CRAN J, V47, P104, DOI 10.1597/08-271
+   ROIZENBLATT J, 1979, J PEDIAT OPHTH STRAB, V16, P16
+   SEDANO HO, 1970, J PEDIATR, V76, P906, DOI 10.1016/S0022-3476(70)80374-2
+   SEDANO HO, 1988, ORAL SURG ORAL MED O, V65, P704, DOI 10.1016/0030-4220(88)90014-X
+   TESSIER P, 1976, Journal of Maxillofacial Surgery, V4, P69, DOI 10.1016/S0301-0503(76)80013-6
+   Tuncbilek G, 2009, J CRANIOFAC SURG, V20, P1056, DOI 10.1097/SCS.0b013e3181abb29f
+   Twigg SRF, 2004, P NATL ACAD SCI USA, V101, P8652, DOI 10.1073/pnas.0402819101
+   Twigg SRF, 2009, AM J HUM GENET, V84, P698, DOI 10.1016/j.ajhg.2009.04.009
+   Uz E, 2010, AM J HUM GENET, V86, P789, DOI 10.1016/j.ajhg.2010.04.002
+   Win E, 2007, AM J MED GENET A, V143A, P3069, DOI 10.1002/ajmg.a.31963
+   Zambonato Ticiana Cristina de Freitas, 2009, Braz. j. otorhinolaryngol., V75, P888, DOI 10.1590/S1808-86942009000600020
+NR 26
+TC 2
+Z9 2
+U1 0
+U2 7
+PU ASSOC BRASILEIRA OTORRINOLARINGOLOGIA & CIRURGIA CERVICOFACIAL
+PI SAO PAULO
+PA AV INDIANOPOLOS 740, MOEMA, SAO PAULO, SP 04062-001, BRAZIL
+SN 1808-8694
+EI 1808-8686
+J9 BRAZ J OTORHINOLAR
+JI Braz. J. Otorhinolaryngol.
+PD SEP-OCT
+PY 2011
+VL 77
+IS 5
+BP 611
+EP 615
+DI 10.1590/S1808-86942011000500013
+PG 5
+WC Otorhinolaryngology
+SC Otorhinolaryngology
+GA 837UM
+UT WOS:000296229700013
+PM 22030970
+OA DOAJ Gold, Green Published
+DA 2020-11-24
+ER
+
+PT J
+AU Petrin, AL
+   Giacheti, CM
+   Maximino, LP
+   Abramides, DVM
+   Zanchetta, S
+   Rossi, NF
+   Richieri-Costa, A
+   Murray, JC
+AF Petrin, Aline L.
+   Giacheti, Celia M.
+   Maximino, Luciana P.
+   Abramides, Dagma V. M.
+   Zanchetta, Sthella
+   Rossi, Natalia F.
+   Richieri-Costa, Antonio
+   Murray, Jeffrey C.
+TI Identification of a Microdeletion at the 7q33-q35 Disrupting the CNTNAP2
+   Gene in a Brazilian Stuttering Case
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+LA English
+DT Article
+DE microdeletion; CNTNAP2; stuttering
+ID CHRM2 GENE; ACETYLCHOLINE; RECEPTOR; LINKAGE; SPEECH; FAMILY;
+   ASSOCIATION; DISORDERS; MUTATIONS; AXONS
+AB Speech and language disorders are some of the most common referral reasons to child development centers accounting for approximately 40% of cases. Stuttering is a disorder in which involuntary repetition, prolongation, or cessation of the sound precludes the flow of speech. About 5% of individuals in the general population have a stuttering problem, and about 80% of the affected children recover naturally. The causal factors of stuttering remain uncertain in most cases; studies suggest that genetic factors are responsible for 70% of the variance in liability for stuttering, whereas the remaining 30% is due to environmental effects supporting a complex cause of the disorder. The use of high-resolution genome wide array comparative genomic hybridization has proven to be a powerful strategy to narrow down candidate regions for complex disorders. We report on a case with a complex set of speech and language difficulties including stuttering who presented with a 10Mb deletion of chromosome region 7q33-35 causing the deletion of several genes and the disruption of CNTNAP2 by deleting the first three exons of the gene. CNTNAP2 is known to be involved in the cause of language and speech disorders and autism spectrum disorder and is in the same pathway as FOXP2, another important language gene, which makes it a candidate gene for causal studies speech and language disorders such as stuttering. (C) 2010 Wiley-Liss, Inc.
+C1 [Petrin, Aline L.; Murray, Jeffrey C.] Univ Iowa, Dept Pediat, Iowa City, IA 52242 USA.
+   [Giacheti, Celia M.; Rossi, Natalia F.] UNESP, Dept Fonoaudiol, Marilia, SP, Brazil.
+   [Maximino, Luciana P.; Abramides, Dagma V. M.] Univ Sao Paulo, Dept Fonoaudiol, FOB, Bauru, SP, Brazil.
+   [Zanchetta, Sthella] Univ Sao Paulo, FMRP, Dept Oftalmol Otorrinolaringol & Cirurgia Cabeca, Bauru, SP, Brazil.
+   [Richieri-Costa, Antonio] Univ Sao Paulo, Hosp Reabilitacao Anomalias Craniofaciais, Bauru, SP, Brazil.
+RP Murray, JC (corresponding author), Univ Iowa, Dept Pediat, 500 Newton Rd,2182ML, Iowa City, IA 52242 USA.
+EM jeff-murray@uiowa.edu
+RI Petrin, Aline/I-1880-2019; Maximino, Luciana Paula/J-1589-2012;
+   Giacheti, Celia M/I-4863-2012; Petrin, Aline/AAE-9204-2020; Abramides,
+   Dagma Venturini M/J-6254-2012; Richieri-Costa, Antonio/B-2514-2013;
+   Zanchetta, Sthella/Y-6572-2018
+OI Maximino, Luciana Paula/0000-0003-3949-4426; Giacheti, Celia
+   M/0000-0001-9691-4672; Petrin, Aline/0000-0003-2239-8120; Abramides,
+   Dagma Venturini M/0000-0002-2447-3860; Zanchetta,
+   Sthella/0000-0001-9171-6116
+FU NIHUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USA [DE08559]; NATIONAL INSTITUTE OF DENTAL
+   & CRANIOFACIAL RESEARCHUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Dental & Craniofacial Research (NIDCR) [R37DE008559, R37DE008559,
+   R37DE008559] Funding Source: NIH RePORTER; NATIONAL INSTITUTE OF DENTAL
+   &CRANIOFACIAL RESEARCHUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Dental & Craniofacial Research (NIDCR) [R37DE008559, R01DE008559,
+   R37DE008559, R01DE008559, R01DE008559, R01DE008559, R37DE008559,
+   R01DE008559, R01DE008559, R01DE008559, R37DE008559, R01DE008559,
+   R01DE008559, R37DE008559, R01DE008559, R01DE008559, R01DE008559,
+   R37DE008559, R01DE008559, R01DE008559, R37DE008559, R37DE008559] Funding
+   Source: NIH RePORTER
+FX Grant sponsor: NIH DE08559.
+CR Abrahams BS, 2007, P NATL ACAD SCI USA, V104, P17849, DOI 10.1073/pnas.0706128104
+   Alarcon M, 2008, AM J HUM GENET, V82, P150, DOI 10.1016/j.ajhg.2007.09.005
+   AMBROSE NG, 1993, J SPEECH HEAR RES, V36, P701, DOI 10.1044/jshr.3604.701
+   ANDREWS G, 1991, ARCH GEN PSYCHIAT, V48, P1034
+   ANDREWS J G, 1964, Med J Aust, V2, P919
+   Baxter MG, 1999, CURR OPIN NEUROBIOL, V9, P178, DOI 10.1016/S0959-4388(99)80024-5
+   Bellen HJ, 1998, TRENDS NEUROSCI, V21, P444, DOI 10.1016/S0166-2236(98)01267-3
+   Belloso JM, 2007, EUR J HUM GENET, V15, P711, DOI 10.1038/sj.ejhg.5201824
+   Buchel C, 2004, PLOS BIOL, V2, P159, DOI 10.1371/journal.pbio.0020046
+   Canhetti-Oliveira CM, 2006, AM J MED GENET A, V140A, P2139, DOI 10.1002/ajmg.a.31320
+   Carey GJ, 2001, EUR J PHARMACOL, V431, P189, DOI 10.1016/S0014-2999(01)01440-6
+   Cautam D, 2006, J MOL NEUROSCI, V30, P157, DOI 10.1385/JMN/30:1-2:157
+   CONTURE EG, 1991, J SPEECH HEAR RES, V34, P1041, DOI 10.1044/jshr.3405.1041
+   Felsenfeld S, 2002, J COMMUN DISORD, V35, P329, DOI 10.1016/S0021-9924(02)00088-6
+   Felsenfeld S, 2000, BEHAV GENET, V30, P359, DOI 10.1023/A:1002765620208
+   Fenech AG, 2004, AM J RESP CELL MOL, V30, P678, DOI 10.1165/rcmb.2003-0011OC
+   Gosso FM, 2007, BMC MED GENET, V8, DOI 10.1186/1471-2350-8-66
+   Kang C, 2010, NEW ENGL J MED, V362, P677, DOI 10.1056/NEJMoa0902630
+   Levelt WJM, 1999, TRENDS COGN SCI, V3, P223, DOI 10.1016/S1364-6613(99)01319-4
+   Lu C, 2009, NEUROSCIENCE, V161, P1008, DOI 10.1016/j.neuroscience.2009.04.020
+   Lu CM, 2010, CORTEX, V46, P49, DOI 10.1016/j.cortex.2009.02.017
+   Orsetti M, 1996, BRAIN RES, V724, P89, DOI 10.1016/0006-8993(96)00292-2
+   Peles E, 1997, EMBO J, V16, P978, DOI 10.1093/emboj/16.5.978
+   Poliak S, 1999, NEURON, V24, P1037, DOI 10.1016/S0896-6273(00)81049-1
+   Poot M, 2010, NEUROGENETICS, V11, P81, DOI 10.1007/s10048-009-0205-1
+   Raza MH, 2010, HUM GENET, V128, P461, DOI 10.1007/s00439-010-0871-y
+   Riaz N, 2005, AM J HUM GENET, V76, P647, DOI 10.1086/429226
+   Rossi E, 2008, EUR J MED GENET, V51, P631, DOI 10.1016/j.ejmg.2008.06.010
+   Seeger T, 2004, J NEUROSCI, V24, P10117, DOI 10.1523/JNEUROSCI.3581-04.2004
+   Shugart YY, 2004, AM J MED GENET A, V124A, P133, DOI 10.1002/ajmg.a.20347
+   Stromswold K, 2008, NEW ENGL J MED, V359, P2381, DOI 10.1056/NEJMe0807813
+   Suresh R, 2006, AM J HUM GENET, V78, P554, DOI 10.1086/501370
+   Verkerk AJMH, 2003, GENOMICS, V82, P1, DOI 10.1016/S0888-7543(03)00097-1
+   Vernes SC, 2008, NEW ENGL J MED, V359, P2337, DOI 10.1056/NEJMoa0802828
+   Vernes SC, 2006, HUM MOL GENET, V15, P3154, DOI 10.1093/hmg/ddl392
+   Wang JC, 2004, HUM MOL GENET, V13, P1903, DOI 10.1093/hmg/ddh194
+   Weksberg R, 2005, BMC GENOMICS, V6, DOI 10.1186/1471-2164-6-180
+   WINGATE ME, 1964, J SPEECH HEAR DISORD, V29, P484, DOI 10.1044/jshd.2904.484
+   Wittke-Thompson JK, 2007, J FLUENCY DISORD, V32, P33, DOI 10.1016/j.jfludis.2006.12.002
+   Yairi E, 1999, J SPEECH LANG HEAR R, V42, P1097, DOI 10.1044/jslhr.4205.1097
+NR 40
+TC 35
+Z9 37
+U1 0
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1552-4825
+EI 1552-4833
+J9 AM J MED GENET A
+JI Am. J. Med. Genet. A
+PD DEC
+PY 2010
+VL 152A
+IS 12
+BP 3164
+EP 3172
+DI 10.1002/ajmg.a.33749
+PG 9
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA 693UV
+UT WOS:000285251800037
+PM 21108403
+OA Green Accepted
+DA 2020-11-24
+ER
+
+PT J
+AU Richieri-Costa, A
+   Abramides, DVM
+   Maximino, LP
+   Giacheti, CM
+   Lamonica, DAC
+AF Richieri-Costa, Antonio
+   Abramides, Dagma V. M.
+   Maximino, Luciana P.
+   Giacheti, Celia M.
+   Lamonica, Dionisia A. C.
+TI Reply to Dr. Finsterer "Callosal Agenesis and Left Ventricular
+   Hypertrabeculation/Noncompaction"
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+LA English
+DT Letter
+C1 [Richieri-Costa, Antonio] USP, HRAC, Dept Med Genet, BR-17012900 Bauru, SP, Brazil.
+   [Abramides, Dagma V. M.; Maximino, Luciana P.; Lamonica, Dionisia A. C.] USP, FOB, Dept Fonoaudiol, BR-17012900 Bauru, SP, Brazil.
+   [Giacheti, Celia M.] UNESP, Dept Fonoaudiol, Marilia, SP, Brazil.
+RP Richieri-Costa, A (corresponding author), USP, HRAC, Dept Med Genet, Rua Silvio Marchione 3-20, BR-17012900 Bauru, SP, Brazil.
+EM richieri@usp.br
+RI Giacheti, Celia M/I-4863-2012; Lamonica, Dionisia AC/E-7663-2012;
+   Maximino, Luciana Paula/J-1589-2012; Richieri-Costa,
+   Antonio/B-2514-2013; Abramides, Dagma Venturini M/J-6254-2012
+OI Giacheti, Celia M/0000-0001-9691-4672; Lamonica, Dionisia
+   AC/0000-0002-9381-0680; Maximino, Luciana Paula/0000-0003-3949-4426;
+   Abramides, Dagma Venturini M/0000-0002-2447-3860
+CR COHEN MM, 1997, OXFORD MONOGRAPHS ME, V31, P151
+   Lamonica DAC, 2009, AM J MED GENET A, V149A, P1041, DOI 10.1002/ajmg.a.32787
+   MCKUSICK VA, 1969, BIRTH DEFECTS ORIG A, V1, P23
+   McKusick Victor A, 2005, Trans Am Clin Climatol Assoc, V116, P15
+   OPITZ JM, 1969, BIRTH DEFECTS ORIG 5, V2, P1
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 4
+PU WILEY-LISS
+PI HOBOKEN
+PA DIV JOHN WILEY & SONS INC, 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 1552-4825
+J9 AM J MED GENET A
+JI Am. J. Med. Genet. A
+PD MAY
+PY 2010
+VL 152A
+IS 5
+BP 1330
+EP 1330
+DI 10.1002/ajmg.a.33116
+PG 1
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA 597ES
+UT WOS:000277739800038
+DA 2020-11-24
+ER
+
+PT J
+AU Lamonica, DAC
+   Abramides, DVM
+   Maximino, LP
+   Gejao, MG
+   da Silva, GK
+   Ferreira, AT
+   Furlan, RH
+   Giacheti, CM
+   Barros, PA
+   Richieri-Costa, A
+AF Lamonica, Dionisia A. C.
+   Abramides, Dagma V. M.
+   Maximino, Luciana P.
+   Gejao, Mariana G.
+   da Silva, Greyce K.
+   Ferreira, Amanda T.
+   Furlan, Renata H.
+   Giacheti, Celia M.
+   Barros-Neto, Plinio A.
+   Richieri-Costa, A.
+TI Possible New Syndrome: Left Ventricular Noncompaction, Partial Agenesis
+   of the Corpus Callosum, and Developmental Delay in a Brazilian Child
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+LA English
+DT Article
+DE left ventricular noncompaction cardiomyopathy; mental retardation;
+   speech/language disorders
+ID RUBINSTEIN-TAYBI-SYNDROME; NON-COMPACTION; CARDIAC MANIFESTATION;
+   GENETIC-HETEROGENEITY; 1P36 SYNDROME; PATIENT; CARDIOMYOPATHY;
+   MYOCARDIUM; PILOMATRICOMAS; ASSOCIATION
+AB We report oil the clinical, neuropsychological and language characteristics of it boy with left ventricular noncompaction cardiomyopathy (LVNC), agenesis of the splenium of the corpus callosum, minor anomalies of face and limbs, mild mental retardation, and speech and language disabilities. The occurrence of pilomatricoma (calcifying epithelioma) may be part of the clinical spectrum or a fortuitous finding. Compared to other related conditions with LVNC suggests that this is a "new" unique pattern MCA/MR syndrome. (C) 2009 Wiley-Liss, Inc.
+C1 [Furlan, Renata H.; Richieri-Costa, A.] HRAC USP, Dept Med Genet, BR-17012900 Bauru, SP, Brazil.
+   [Lamonica, Dionisia A. C.; Abramides, Dagma V. M.; Maximino, Luciana P.; Gejao, Mariana G.; da Silva, Greyce K.; Ferreira, Amanda T.] FOB USP, Dept Fonoaudiol, Bauru, SP, Brazil.
+   [Giacheti, Celia M.] UNESP, Dept Fonoaudiol, Marilia, SP, Brazil.
+   [Barros-Neto, Plinio A.] CentroCard Bauru, Bauru, SP, Brazil.
+RP Richieri-Costa, A (corresponding author), HRAC USP, Dept Med Genet, Rua Silvio Marchione 3-20, BR-17012900 Bauru, SP, Brazil.
+EM richieri@usp.br
+RI Richieri-Costa, Antonio/B-2514-2013; Abramides, Dagma Venturini
+   M/J-6254-2012; Giacheti, Celia M/I-4863-2012; Maximino, Luciana
+   Paula/J-1589-2012; Lamonica, Dionisia AC/E-7663-2012
+OI Abramides, Dagma Venturini M/0000-0002-2447-3860; Giacheti, Celia
+   M/0000-0001-9691-4672; Maximino, Luciana Paula/0000-0003-3949-4426;
+   Lamonica, Dionisia AC/0000-0002-9381-0680
+FU CNPqNational Council for Scientific and Technological Development (CNPq)
+   [470996/2006-4, 301926/2007-7]
+FX The senior author (A.R.-C.) is indebted for CNPq support (Grant:
+   470996/2006-4 and 301926/2007-7). We Would like to thanks Dr. Carla
+   Rosenberg who performed the CGH-array Study.
+CR Battaglia A, 2005, BRAIN DEV-JPN, V27, P358, DOI 10.1016/j.braindev.2004.03.011
+   Battaglia A, 2008, PEDIATRICS, V121, P404, DOI 10.1542/peds.2007-0929
+   Bleyl SB, 1997, AM J HUM GENET, V61, P868, DOI 10.1086/514879
+   Brady AN, 2006, PRENATAL DIAG, V26, P462, DOI 10.1002/pd.1438
+   Brown WS, 2005, BRAIN LANG, V93, P135, DOI 10.1016/j.bandl.2004.09.003
+   Burke A, 2005, HUM PATHOL, V36, P403, DOI 10.1016/j.humpath.2005.02.004
+   CAMBIAGHI S, 1994, PEDIATR DERMATOL, V11, P21, DOI 10.1111/j.1525-1470.1994.tb00067.x
+   CHIN TK, 1990, CIRCULATION, V82, P507, DOI 10.1161/01.CIR.82.2.507
+   Digilio MC, 1999, AM J MED GENET, V85, P90, DOI 10.1002/(SICI)1096-8628(19990702)85:1<90::AID-AJMG19>3.0.CO;2-U
+   ENGBERDING R, 1984, AM J CARDIOL, V53, P1733, DOI 10.1016/0002-9149(84)90618-0
+   Engberding R, 2007, CLIN RES CARDIOL, V96, P481, DOI 10.1007/s00392-007-0528-6
+   ENGBERDING R, 1984, Z KARDIOL, V73, P786
+   Finsterer J, 2005, ACTA CARDIOL, V60, P445, DOI 10.2143/AC.60.4.2004996
+   Finsterer J, 2008, SCAND CARDIOVASC J, V42, P25, DOI 10.1080/14017430701744451
+   Finsterer J, 2007, CARDIOVASC PATHOL, V16, P310, DOI 10.1016/j.carpath.2006.12.005
+   Finsterer J, 2007, J ELECTROCARDIOL, V40, P352, DOI 10.1016/j.jelectrocard.2006.11.008
+   Friedman MA, 2007, EUR J ECHOCARDIOGR, V8, P70, DOI 10.1016/j.euje.2005.12.011
+   Gilaberte Y, 2008, PEDIATR DERMATOL, V25, P122, DOI 10.1111/j.1525-1470.2007.00602.x
+   Ichida F, 2001, CIRCULATION, V103, P1256
+   Kalyoncu U, 2006, J NATL MED ASSOC, V98, P1692
+   Kanemoto N, 2006, EUR J MED GENET, V49, P247, DOI 10.1016/j.ejmg.2005.06.004
+   Kherbaoui-Redouani L, 2003, ARCH PEDIATRIE, V10, P224, DOI 10.1016/S0929-693X(03)00014-9
+   Markiewicz-Loskot G, 2006, EUROPACE, V8, P1064, DOI 10.1093/europace/eul125
+   Matsuura H, 2002, DERMATOLOGY, V204, P82, DOI 10.1159/000051819
+   McMahon CJ, 2005, PEDIATR CARDIOL, V26, P477, DOI 10.1007/s00246-004-0788-0
+   Moric-Janiszewska E, 2008, CLIN CARDIOL, V31, P201, DOI 10.1002/clc.20202
+   Noguchi H, 1999, DERMATOLOGY, V199, P338, DOI 10.1159/000018286
+   Paul LK, 2003, BRAIN LANG, V85, P313, DOI 10.1016/S0093-934X(03)00062-2
+   Robinson DM, 2008, AM J MED GENET A, V146A, P1571, DOI 10.1002/ajmg.a.32096
+   Rosenberg C, 2006, J MED GENET, V43, P180, DOI 10.1136/jmg.2005.032268
+   Rudnik-Schoneborn S, 2008, AM J MED GENET A, V146A, P2018, DOI 10.1002/ajmg.a.32405
+   Sasse-Klaassen S, 2004, CIRCULATION, V109, P2720, DOI 10.1161/01.CIR.0000131865.21260.56
+   Spencer CT, 2006, PEDIATRICS, V118, pE337, DOI 10.1542/peds.2005-2667
+   Stollberger C, 2007, CARDIOLOGY, V107, P374, DOI 10.1159/000099055
+   Stollberger C, 2007, PACE, V30, P1047, DOI 10.1111/j.1540-8159.2007.00810.x
+   Stollberger C, 2005, EUR J HEART FAIL, V7, P95, DOI 10.1016/j.ejheart.2004.02.011
+   Tan TY, 2005, AM J MED GENET A, V139A, P216, DOI 10.1002/ajmg.a.31013
+   Tatton-Brown K, 2005, J MED GENET, V42, P307, DOI 10.1136/jmg.2004.027755
+   Thienpont B, 2007, EUR J MED GENET, V50, P233, DOI 10.1016/j.ejmg.2007.01.002
+   Tunaoglu FS, 2003, TURKISH J PEDIATR, V45, P363
+   van Heerde M, 2003, CARDIOL YOUNG, V13, P364, DOI 10.1017/S1047951103000738
+   Vijayvergiya R, 2008, INT J CARDIOL, V123, pE54, DOI 10.1016/j.ijcard.2006.11.147
+   Wang JC, 2007, AM J MED GENET A, V143A, P2744, DOI 10.1002/ajmg.a.32004
+   Wessels MW, 2008, HUM GENET, V122, P595, DOI 10.1007/s00439-007-0436-x
+   Wood S, 2008, PEDIATR DERMATOL, V25, P449, DOI 10.1111/j.1525-1470.2008.00732.x
+   Xia SD, 2008, INTERNAL MED, V47, P577, DOI 10.2169/internalmedicine.47.0630
+   Xing YL, 2006, MOL GENET METAB, V88, P71, DOI 10.1016/j.ymgme.2005.11.009
+NR 47
+TC 4
+Z9 4
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1552-4825
+EI 1552-4833
+J9 AM J MED GENET A
+JI Am. J. Med. Genet. A
+PD MAY
+PY 2009
+VL 149A
+IS 5
+BP 1041
+EP 1045
+DI 10.1002/ajmg.a.32787
+PG 5
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA 441YG
+UT WOS:000265805900035
+PM 19396836
+DA 2020-11-24
+ER
+
+PT J
+AU Rossi, NF
+   Gatto, AR
+   Cola, PC
+   Souza, DH
+   Moretti-Ferreira, D
+   Giacheti, CM
+AF Rossi, N. F.
+   Gatto, A. R.
+   Cola, P. C.
+   Souza, D. H.
+   Moretti-Ferreira, D.
+   Giacheti, C. M.
+TI Oropharyngeal dysphagia and language delay in partial trisomy 9p: case
+   report
+SO GENETICS AND MOLECULAR RESEARCH
+LA English
+DT Article
+DE Deglutition evaluation; Language evaluation; Deglutition disorders;
+   Language delay; Partial trisomy 9p
+ID TRANSLOCATION
+AB The phenotype of partial trisomy 9p includes global developmental delay, microcephaly, bulbous nose, downturned oral commissures, malformed ears, hypotonia, and severe cognitive and language disorders. We present a case report and a comparative review of clinical findings on this condition, focusing on speech-language development, cognitive abilities and swallowing evaluation. We suggest that oropharyngeal dysphagia should be further investigated, considering that pulmonary and nutritional disorders affect the survival and quality of life of the patient. As far as we know, this is the first study of a patient with partial trisomy 9p described with oropharyngeal dysphagia.
+C1 [Rossi, N. F.; Souza, D. H.; Moretti-Ferreira, D.] Univ Estadual Paulista, Dept Genet, Inst Biociencias, Botucatu, SP, Brazil.
+   [Gatto, A. R.] Univ Estadual Paulista, Fac Med, Dept Neurol, Botucatu, SP, Brazil.
+   [Cola, P. C.] Univ Estadual Paulista, Fac Med, Dept Cirurgia, Botucatu, SP, Brazil.
+   [Giacheti, C. M.] Univ Estadual Paulista, Fac Filosofia & Ciencias, Dept Fonoaudiol, Botucatu, SP, Brazil.
+RP Moretti-Ferreira, D (corresponding author), Univ Estadual Paulista, Dept Genet, Inst Biociencias, Botucatu, SP, Brazil.
+EM sag@fmb.unesp.br
+RI Moretti-Ferreira, Danilo/P-3456-2019; Giacheti, Celia M/I-4863-2012;
+   Cola, Paula Cristina/J-2388-2015; Moretti-Ferreira, Danilo/F-9565-2012
+OI Moretti-Ferreira, Danilo/0000-0002-9256-7623; Giacheti, Celia
+   M/0000-0001-9691-4672; Cola, Paula Cristina/0000-0002-7010-5874; 
+CR de Pater JM, 2002, CLIN GENET, V62, P482, DOI 10.1034/j.1399-0004.2002.620611.x
+   Littooij AS, 2002, AM J MED GENET, V109, P125, DOI 10.1002/ajmg.10322
+   San Roman Munoz M, 2004, An Pediatr (Barc), V61, P336
+   SANGER DD, 1984, J COMMUN DISORD, V17, P385, DOI 10.1016/0021-9924(84)90002-9
+   Schnater JM, 2005, CANCER GENET CYTOGEN, V156, P77, DOI 10.1016/j.cancergencyto.2004.04.011
+   Tihy F, 2000, AM J MED GENET, V91, P383, DOI 10.1002/(SICI)1096-8628(20000424)91:5<383::AID-AJMG12>3.0.CO;2-G
+   WILLIAMS LCA, 2001, INVENTARIO PORTAGE O, V1
+   Woo KS, 2008, KOR J LAB MED, V28, P155, DOI 10.3343/kjlm.2008.28.2.155
+NR 8
+TC 5
+Z9 6
+U1 0
+U2 4
+PU FUNPEC-EDITORA
+PI RIBEIRAO PRETO
+PA RUA FLORIANO PEIXOTO 2444, ALTO DA BOA VISTA, RIBEIRAO PRETO, SP 00000,
+   BRAZIL
+SN 1676-5680
+J9 GENET MOL RES
+JI Genet. Mol. Res.
+PY 2009
+VL 8
+IS 3
+BP 1133
+EP 1138
+DI 10.4238/vol8-3gmr621
+PG 6
+WC Biochemistry & Molecular Biology; Genetics & Heredity
+SC Biochemistry & Molecular Biology; Genetics & Heredity
+GA 523CR
+UT WOS:000272050000023
+PM 19866432
+OA Green Published, Bronze
+DA 2020-11-24
+ER
+
+PT J
+AU Giacheti, CM
+   Richieri-Costa, A
+AF Giacheti, Celia M.
+   Richieri-Costa, Antonio
+TI Reply to Hunter's letter on the "Misuse of the Descriptor "Marfanoid""
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+LA English
+DT Letter
+C1 [Giacheti, Celia M.; Richieri-Costa, Antonio] USP, HRAC, Serv Genet Clin, BR-17012900 Bauru, SP, Brazil.
+   [Giacheti, Celia M.] UNESP, Dept Fonoaudiol, Marilia, SP, Brazil.
+RP Richieri-Costa, A (corresponding author), USP, HRAC, Serv Genet Clin, POB 620,Rua Silvio Marchione 320, BR-17012900 Bauru, SP, Brazil.
+EM richieri@usp.br
+RI Richieri-Costa, Antonio/B-2514-2013; Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+CR Giacheti CM, 2007, AM J MED GENET A, V143A, P3137, DOI 10.1002/ajmg.a.32024
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 3
+PU WILEY-LISS
+PI HOBOKEN
+PA DIV JOHN WILEY & SONS INC, 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 1552-4825
+J9 AM J MED GENET A
+JI Am. J. Med. Genet. A
+PD JUL 1
+PY 2008
+VL 146A
+IS 13
+BP 1772
+EP 1772
+DI 10.1002/ajmg.a.32373
+PG 1
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA 324WF
+UT WOS:000257549400022
+PM 18512231
+DA 2020-11-24
+ER
+
+PT J
+AU Giacheti, CM
+   Zanchetta, S
+   Maranhe, E
+   Cassab, TV
+   Abran-Tides, DV
+   Souza, DH
+   DeVitto, LPM
+   Richieri-Costa, A
+AF Giacheti, Celia M.
+   Zanchetta, Sthella
+   Maranhe, Elizandra
+   Cassab, Tatiana V.
+   Abran-Tides, Dagma V.
+   Souza, Deise H.
+   DeVitto, Luciana P. M.
+   Richieri-Costa, Antonio
+TI A newly recognized syndrome of marfanoid habitus; Long face;
+   Hypotelorism; Long, thin nose; Long, thin hands and feet; And a specific
+   pattern of language and learning disabilities
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+LA English
+DT Article; Proceedings Paper
+CT Festschrift Symposium 2007 held in Honor of M Michael Cohen
+CY MAR   31, 2007
+CL Univ Utah, Salt Lake City, UT
+HO Univ Utah
+DE tall stature; minor facial anomalies; specific language and learning
+   problems; autosomal dominant inheritance; new syndrome; 22q21 region
+AB Here, we report on a newly recognized syndrome in a Brazilian family with three affected women, who had a Marfanoid habitus; long face; hypotelorism; long, thin nose; long, thin hands and feet; and language and learning disabilities. The disorder is compatible with autosomal dominant inheritance. (C) 2007 Wiley-Liss, Inc.
+C1 Univ Sao Paulo, HRAC, Serv Genet Clin, BR-17012900 Bauru, SP, Brazil.
+   UNESP, Dept Fonoaudiol, Marilia, SP, Brazil.
+RP Richieri-Costa, A (corresponding author), Univ Sao Paulo, HRAC, Serv Genet Clin, POB 620,Rua Silvio Marchione 320, BR-17012900 Bauru, SP, Brazil.
+EM richieri@usp.br
+RI Zanchetta, Sthella/Y-6572-2018; Giacheti, Celia M/I-4863-2012;
+   Richieri-Costa, Antonio/B-2514-2013; Maximino, Luciana
+   Paula/J-1589-2012; Abramides, Dagma Venturini M/J-6254-2012
+OI Zanchetta, Sthella/0000-0001-9171-6116; Giacheti, Celia
+   M/0000-0001-9691-4672; Maximino, Luciana Paula/0000-0003-3949-4426;
+   Abramides, Dagma Venturini M/0000-0002-2447-3860
+CR BOGOSSIAN MAD, 1977, MANUAL EXAMINADOR TE
+   DERENZI E, 1962, BRAIN, V85, P665, DOI 10.1093/brain/85.4.665
+   KIRK SA, 1961, AM J MENT DEF, V66, P399
+   KIRK SA, 1968, ILLINOIS TEST PSYCHO
+NR 4
+TC 2
+Z9 3
+U1 0
+U2 3
+PU WILEY-LISS
+PI HOBOKEN
+PA DIV JOHN WILEY & SONS INC, 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 1552-4825
+J9 AM J MED GENET A
+JI Am. J. Med. Genet. A
+PD DEC 15
+PY 2007
+VL 143A
+IS 24
+BP 3137
+EP 3139
+DI 10.1002/ajmg.a.32024
+PG 3
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA 237VS
+UT WOS:000251405100034
+PM 17907158
+DA 2020-11-24
+ER
+
+PT J
+AU Richieri-Costa, A
+   Giacheti, CM
+   Abramides, DV
+   Feniman, MR
+   Baldelin, CGR
+AF Richieri-Costa, A
+   Giacheti, CM
+   Abramides, DV
+   Feniman, MR
+   Baldelin, CGR
+TI Arachnoidal cyst, orofacial dysplasia, poor motor control, and severe
+   language delay
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+LA English
+DT Letter
+ID GLIAL CYSTS; DISORDER; DEFICIT; SPEECH
+C1 Univ Sao Paulo, Hosp Reabilitacao Anomalias Craniofaciais, Serv Genet Clin, Sao Paulo, Brazil.
+RP Richieri-Costa, A (corresponding author), Univ Sao Paulo, Hosp Reabilitacao Anomalias Craniofaciais, Serv Genet Clin, Sao Paulo, Brazil.
+RI Giacheti, Celia M/I-4863-2012; Abramides, Dagma Venturini M/J-6254-2012;
+   Feniman, Mariza Ribeiro/I-6596-2012; Richieri-Costa, Antonio/B-2514-2013
+OI Giacheti, Celia M/0000-0001-9691-4672; Abramides, Dagma Venturini
+   M/0000-0002-2447-3860; Feniman, Mariza Ribeiro/0000-0003-4702-5654; 
+CR Barboriak DP, 2001, AM J ROENTGENOL, V176, P737, DOI 10.2214/ajr.176.3.1760737
+   Fabbro F, 2002, NEUROPSYCHOLOGIA, V40, P1541, DOI 10.1016/S0028-3932(02)00026-X
+   FAIN JS, 1994, J NEUROSURG, V80, P454, DOI 10.3171/jns.1994.80.3.0454
+   FLEEGE M, 1994, AM J NEURORADIOL, V15, P161
+   Hardy R C, 1996, Tex Med, V92, P64
+   Horiguchi T, 2000, World J Biol Psychiatry, V1, P159, DOI 10.3109/15622970009150585
+   Hund-Georgiadis M, 2002, NEUROLOGY, V59, P1935, DOI 10.1212/01.WNL.0000038745.98689.6B
+   Lai CSL, 2003, BRAIN, V126, P2455, DOI 10.1093/brain/awg247
+   Leggio MG, 2000, J NEUROL NEUROSUR PS, V69, P102, DOI 10.1136/jnnp.69.1.102
+   Lieberman P, 2002, YEARB PHYS ANTHROPOL, V45, P36, DOI 10.1002/ajpa.10171
+   Millichap JG, 1997, NEUROLOGY, V48, P1435, DOI 10.1212/WNL.48.5.1435
+   Pollmann S, 2002, NEUROPSYCHOLOGY, V16, P56, DOI 10.1037//0894-4105.16.1.56
+   Purcell R, 1998, BIOL PSYCHIAT, V43, P348, DOI 10.1016/S0006-3223(97)00201-1
+   Riva D, 1998, CORTEX, V34, P279, DOI 10.1016/S0010-9452(08)70755-X
+   Stowe LA, 2000, BRAIN LANG, V75, P347, DOI 10.1006/brln.2000.2358
+   Vargha-Khadem F, 1998, P NATL ACAD SCI USA, V95, P12695, DOI 10.1073/pnas.95.21.12695
+   Wester K, 1999, NEUROSURGERY, V45, P775, DOI 10.1097/00006123-199910000-00008
+   Wester K, 2003, J NEUROL, V250, P36, DOI 10.1007/s00415-003-0941-3
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1552-4825
+EI 1552-4833
+J9 AM J MED GENET A
+JI Am. J. Med. Genet. A
+PD AUG 15
+PY 2005
+VL 137A
+IS 1
+BP 110
+EP 111
+DI 10.1002/ajmg.a.30798
+PG 2
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA 952ND
+UT WOS:000231009900022
+PM 15988745
+DA 2020-11-24
+ER
+
+PT J
+AU SPINELLI, M
+   ROCHA, ACD
+   GIACHETI, CM
+   RICHIERICOSTA, A
+AF SPINELLI, M
+   ROCHA, ACD
+   GIACHETI, CM
+   RICHIERICOSTA, A
+TI WORD-FINDING DIFFICULTIES, VERBAL PARAPHASIAS, AND VERBAL DYSPRAXIA IN
+   10 INDIVIDUALS WITH FRAGILE-X-SYNDROME
+SO AMERICAN JOURNAL OF MEDICAL GENETICS
+LA English
+DT Article
+DE FRAGILE X SYNDROME; FRA-X; VERBAL DYSPRAXIA; WORD-FINDING DIFFICULTIES;
+   LANGUAGE DISORDERS; SPECIFIC LANGUAGE DISORDERS
+ID MENTAL-RETARDATION; LANGUAGE; SPEECH; AUTISM; MALES; ADULTS
+AB Speech/language disorders are common in the fragile X syndrome. [Howard-Peebles, 1979: Am J Hom Genet 31:214-222; Renier et al., 1983: J Ment Defic Res 27:51-59; Sparks, 1984: Birth Defects and Speech-Language Disorders, pp, 39-43; Hanson et al., 1986: Am J Med Genet 23:195-206]. Verbal paraphasias have been considered a rare feature and word-finding difficulties have seldom been reported. Here we report on ten Brazilian patients who were evaluated for speech/language disturbances and found that word-finding difficulties were present in 50% of the cases, which is a slightly higher frequency than that of clear dyspraxia. We suggest, therefore, that word-finding difficulties and verbal dyspraxia can be a common feature within the spectrum of this syndrome. Additional speech findings are discussed. (C) 1995 Wiley-Liss, Inc.
+C1 UNIV ESTADUAL PAULISTA, FAC S CAMILO, MARILIA, SP, BRAZIL.
+   UNIV SAO PAULO, HOSP PESQUISA & REABILITACAO LESOES LABIO PALATAI, BAURU, SP, BRAZIL.
+   PONTIFICIA UNIV CATOLICA SAO PAULO, DIV EDUC & REABILITACAO DISTURBIOS COMUNICACAO, SAO PAULO, BRAZIL.
+RI Richieri-Costa, Antonio/B-2514-2013; Giacheti, Celia M/I-4863-2012
+OI Giacheti, Celia M/0000-0001-9691-4672
+CR BEITCHMAN JH, 1992, CAN J PSYCHIAT, V37, P151, DOI 10.1177/070674379203700301
+   CARROLWOOLFOLK E, 1982, INTERGRATIVE APPROAC, P215
+   CHUDLEY AE, 1987, J PEDIATR-US, V110, P821, DOI 10.1016/S0022-3476(87)80392-X
+   CRITCHLEY M, 1970, APHASIOLOGY OTHER AS, P210
+   FERRIER LJ, 1991, DEV MED CHILD NEUROL, V33, P776, DOI 10.1111/j.1469-8749.1991.tb14961.x
+   FISCH GS, 1993, AM J MED GENET, V48, P112, DOI 10.1002/ajmg.1320480210
+   GOODGLASS H, 1972, ASSESSMENT APHASIA R, P5
+   GRAHAM JM, 1988, PEDIATRICS, V81, P795
+   HANSON DM, 1986, AM J MED GENET, V23, P195, DOI 10.1002/ajmg.1320230114
+   HOWARDPEEBLES PN, 1979, AM J HUM GENET, V31, P214
+   HURST JA, 1990, DEV MED CHILD NEUROL, V32, P352
+   JAFFE M, 1989, DISORDERS COMMUNICAT, P120
+   KEARNS KP, 1988, SPEECH LANGUAGE PATH, P592
+   PAUL R, 1984, J SPEECH HEAR DISORD, V49, P328, DOI 10.1044/jshd.4903.328
+   PAUL R, 1987, J AUTISM DEV DISORD, V17, P457, DOI 10.1007/BF01486963
+   PORTER ME, 1988, CLIN GENET, V33, P246
+   RENIER WO, 1983, J MENT DEFIC RES, V27, P51
+   SAMPLES JM, 1985, GENETIC POSSIBILITIE, P27
+   SCHWARTZ A, 1991, FLOW CYTOMETRY STAND, V3, P7
+   SPARKS SN, 1984, BIRTH DEFECTS SPEECH, P39
+   STACKHOUSE J, 1992, EUR J DISORDER COMM, V27, P19, DOI 10.3109/13682829209012027
+   SUDHALTER V, 1991, AM J MED GENET, V38, P493, DOI 10.1002/ajmg.1320380270
+   SUDHALTER V, 1990, AM J MENT RETARD, V94, P431
+   TALLAL P, 1989, J SPEECH HEAR DISORD, V54, P167, DOI 10.1044/jshd.5402.167
+   THOMPSON CK, 1988, HDB SPEECH LANGUAGE, P548
+   VILKMAN E, 1988, BRAIN LANG, V34, P203, DOI 10.1016/0093-934X(88)90133-2
+   WALZER S, 1985, J CHILD PSYCHOL PSYC, V26, P177, DOI 10.1111/j.1469-7610.1985.tb02258.x
+   Wolf-Schein E G, 1987, ASHA, V29, P35
+NR 28
+TC 21
+Z9 21
+U1 0
+U2 6
+PU WILEY-LISS
+PI HOBOKEN
+PA DIV JOHN WILEY & SONS INC, 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0148-7299
+EI 1096-8628
+J9 AM J MED GENET
+JI Am. J. Med. Genet.
+PD FEB 27
+PY 1995
+VL 60
+IS 1
+BP 39
+EP 43
+DI 10.1002/ajmg.1320600108
+PG 5
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA QJ654
+UT WOS:A1995QJ65400007
+PM 7485233
+DA 2020-11-24
+ER
+
+EF

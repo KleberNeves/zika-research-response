@@ -1,0 +1,1120 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Petrini, CG
+   Bastos, LB
+   Duarte, G
+   Melli, PPD
+   Alves, JC
+   Quintana, SM
+AF Petrini, Caetano Galvao
+   Bastos, Larissa Brito
+   Duarte, Geraldo
+   Dos Santos Melli, Patricia Pereira
+   Alves-Filho, Jose Carlos
+   Quintana, Silvana Maria
+TI Downregulation of IL-2 and IL-23 in Cervical Biopsies of Cervical
+   Intraepithelial Lesions: A Cross-Sectional Study
+SO ACTA CYTOLOGICA
+LA English
+DT Article
+DE Human papillomavirus; Cytokines; Cervix; Intraepithelial lesions
+ID PAPILLOMA-VIRUS INFECTION; T-CELLS; IMMUNE-RESPONSES; NATURAL-HISTORY;
+   TH17 CELLS; HPV; CYTOKINES; CANCER; INTERLEUKIN-10; PROGRESSION
+AB Introduction:Persistent infection with high-risk human papillomavirus (HPV) types is associated with high-grade intraepithelial lesions (HSILs) and invasive cervical cancer. The host immune response plays a key role in whether HPV clears or persists. Most studies on local immune response to HPV collect cervical mucus in order to quantify secreted cytokines; however, cells located inside the tissue can release different cytokines associated with HPV infection.Objective:This study compared the cytokine levels in cervical biopsy specimens of women with abnormal colposcopic findings according to the histopathological results: low-grade intraepithelial lesion (LSIL), HSIL, and no intraepithelial lesion (NSIL).Methods:A cross-sectional study enrolling 141 cervical biopsy specimens examined the cytokine profile for interleukin (IL-) 2, IL-4, IL-10, IL-12, IL-17, and IL-23 and interferon-gamma, using the Luminex assay/ELISA. Differences in cytokine levels among the cervical lesion groups were assessed using the Kruskal-Wallis test.Results:The 141 specimens included 90 HSILs, 22 LSILs, and 29 NSILs. IL-2 levels were significantly higher in NSIL samples than in LSIL or in HSIL samples (p= 0.0001) and IL-23 levels were significantly higher in NSIL than in HSIL samples (p= 0.003).Conclusions:Our study shows that in samples from the lesion site point, 2 important pro-inflammatory cytokines, IL-2 and IL-23, are downregulated in HPV lesions.
+C1 [Petrini, Caetano Galvao; Bastos, Larissa Brito; Duarte, Geraldo; Dos Santos Melli, Patricia Pereira; Quintana, Silvana Maria] Univ Sao Paulo, Ribeirao Preto Med Sch, Gynecol & Obstet Dept, Sao Paulo, Brazil.
+   [Alves-Filho, Jose Carlos] Univ Sao Paulo, Ribeirao Preto Med Sch, Pharmacol Dept, Sao Paulo, Brazil.
+RP Quintana, SM (corresponding author), Univ Sao Paulo, Gynecol & Obstet Dept, Ribeirao Preto Med Sch, Av Bandeirantes 3900, BR-14049900 Ribeirao Preto, Brazil.
+EM quintana@fmrp.usp.br
+OI Petrini, Caetano/0000-0002-9589-0004
+FU Gynecology and Obstetrics Department, Ribeirao Preto Medical School,
+   University of Sao Paulo, Ribeirao Preto (SP), Brazil; Fundacao de
+   Assistencia ao Ensino e Pesquisa (FAEPA); Coordenacao de Aperfeicoamento
+   do Ensino Superior (CAPES)CAPES; Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq)National Council for Scientific and
+   Technological Development (CNPq); Fundacao de Amparo a Pesquisa do
+   Estado de Sao Paulo (FAPESP)Fundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo (FAPESP)
+FX The authors thank the Gynecology and Obstetrics Department, Ribeirao
+   Preto Medical School, University of Sao Paulo, Ribeirao Preto (SP),
+   Brazil, and the following institutions: Fundacao de Assistencia ao
+   Ensino e Pesquisa (FAEPA), Coordenacao de Aperfeicoamento do Ensino
+   Superior (CAPES), Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (CNPq), and Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP) for financing this study.
+CR Amador-Molina A, 2013, VIRUSES-BASEL, V5, P2624, DOI 10.3390/v5112624
+   Apetoh L, 2010, NAT IMMUNOL, V11, P854, DOI 10.1038/ni.1912
+   Bais AG, 2007, MEDIAT INFLAMM, V2007, DOI 10.1155/2007/24147
+   BERNARD HU, 1994, J INFECT DIS, V170, P1077, DOI 10.1093/infdis/170.5.1077
+   Berti FCB, 2017, CYTOKINE GROWTH F R, V34, P1, DOI 10.1016/j.cytogfr.2017.03.002
+   Brower V, 2005, J NATL CANCER I, V97, P1175, DOI 10.1093/jnci/dji269
+   Castle PE, 2002, J CLIN IMMUNOL, V22, P23, DOI 10.1023/A:1014252402630
+   Caughron B, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0196034
+   Cohen PA, 2019, LANCET, V393, P169, DOI 10.1016/S0140-6736(18)32470-X
+   Crane JMG, 2003, OBSTET GYNECOL, V102, P1058, DOI 10.1016/S0029-7844(03)00741-5
+   Cua DJ, 2010, NAT REV IMMUNOL, V10, P479, DOI 10.1038/nri2800
+   Daniilidis A, 2016, ACTA CYTOL, V60, P58, DOI 10.1159/000445161
+   de Gonzalez AB, 2007, INT J CANCER, V120, P885, DOI 10.1002/ijc.22357
+   de Roda Husman AM, 1995, BRIT J CANCER, V72, P412
+   Einstein MH, 2009, LANCET INFECT DIS, V9, P347, DOI 10.1016/S1473-3099(09)70108-2
+   Ekalaksananan T, 2014, ASIAN PAC J CANCER P, V15, P4197, DOI 10.7314/APJCP.2014.15.10.4197
+   Farzaneh F, 2006, BJOG-INT J OBSTET GY, V113, P961, DOI 10.1111/j.1471-0528.2006.00956.x
+   Gosmann C, 2014, J IMMUNOL, V193, P2248, DOI 10.4049/jimmunol.1400216
+   Gravitt PE, 2011, J CLIN INVEST, V121, P4593, DOI 10.1172/JCI57149
+   Guan P, 2012, INT J CANCER, V131, P2349, DOI 10.1002/ijc.27485
+   Hou F, 2012, CLIN CHIM ACTA, V413, P1848, DOI 10.1016/j.cca.2012.07.012
+   Iwakura Y, 2011, IMMUNITY, V34, P149, DOI 10.1016/j.immuni.2011.02.012
+   Iwata T, 2015, INT J CLIN ONCOL, V20, P126, DOI 10.1007/s10147-014-0680-8
+   Koeneman MM, 2015, EXPERT REV MOL DIAGN, V15, P527, DOI 10.1586/14737159.2015.1012068
+   Koshiol J, 2014, INT J CANCER, V134, P411, DOI 10.1002/ijc.28354
+   Kryczek I, 2009, BLOOD, V114, P1141, DOI 10.1182/blood-2009-03-208249
+   Kyrgiou M, 2006, LANCET, V367, P489, DOI 10.1016/S0140-6736(06)68181-6
+   Laniewski P, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-43849-5
+   Lazarenko Liudmyla M, 2014, EPMA J, V5, P1, DOI 10.1186/1878-5085-5-1
+   Li BH, 2019, INFECT AGENTS CANCER, V14, DOI 10.1186/s13027-019-0231-z
+   Li L, 2016, TUMOR BIOL, V37, P16093, DOI 10.1007/s13277-016-5466-3
+   Lin W, 2019, INT J CLIN EXP PATHO, V12, P3604
+   Mant C, 1997, J VIROL METHODS, V66, P169, DOI 10.1016/S0166-0934(97)00056-6
+   Marks MA, 2012, J IMMUNOL METHODS, V382, P211, DOI 10.1016/j.jim.2012.05.012
+   Marks MA, 2011, CYTOKINE, V56, P798, DOI 10.1016/j.cyto.2011.09.012
+   Miossec P, 2012, NAT REV DRUG DISCOV, V11, P763, DOI 10.1038/nrd3794
+   Miranda LN, 2015, SAO PAULO MED J, V133, P336, DOI 10.1590/1516-3180.2013.7170009
+   Moscicki AB, 2006, VACCINE, V24, P42, DOI 10.1016/j.vaccine.2006.06.018
+   Orbegoso C, 2018, REP PRACT ONCOL RADI, V23, P580, DOI 10.1016/j.rpor.2018.05.001
+   Otani S, 2019, CYTOKINE, V120, P210, DOI 10.1016/j.cyto.2019.05.011
+   Ouyang WJ, 2008, IMMUNITY, V28, P454, DOI 10.1016/j.immuni.2008.03.004
+   Paradkar PH, 2014, ASIAN PAC J CANCER P, V15, P3851, DOI 10.7314/APJCP.2014.15.9.3851
+   Peghini BC, 2012, HUM IMMUNOL, V73, P920, DOI 10.1016/j.humimm.2012.06.003
+   Plummer M, 2016, LANCET GLOB HEALTH, V4, pE609, DOI 10.1016/S2214-109X(16)30143-7
+   Sanjabi S, 2009, CURR OPIN PHARMACOL, V9, P447, DOI 10.1016/j.coph.2009.04.008
+   Scott ME, 2013, INT J CANCER, V133, P1187, DOI 10.1002/ijc.28119
+   Serrano B, 2018, BEST PRACT RES CL OB, V47, P14, DOI 10.1016/j.bpobgyn.2017.08.006
+   Sim GC, 2014, CYTOKINE GROWTH F R, V25, P377, DOI 10.1016/j.cytogfr.2014.07.018
+   Solomon D, 2002, JAMA-J AM MED ASSOC, V287, P2114, DOI 10.1001/jama.287.16.2114
+   Song D, 2015, ONCOL LETT, V10, P600, DOI 10.3892/ol.2015.3295
+   Spracklen CN, 2013, BJOG-INT J OBSTET GY, V120, P960, DOI 10.1111/1471-0528.12209
+   Stanley M, 2006, VACCINE, V24, P16, DOI 10.1016/j.vaccine.2005.09.002
+   Stanley MA, 2009, INDIAN J MED RES, V130, P266
+   Stanley MA, 2014, CURR PROBL DERMATOL, V45, P58, DOI 10.1159/000355964
+   Steinman RM, 2003, ANNU REV IMMUNOL, V21, P685, DOI 10.1146/annurev.immunol.21.120601.141040
+   Stumbar SE, 2019, PRIMARY CARE, V46, P117, DOI 10.1016/j.pop.2018.10.011
+   Syrjanen S, 2009, VIRCHOWS ARCH, V455, P505, DOI 10.1007/s00428-009-0850-7
+   TELESHEVA L, 2019, ZH MIKROB EPID I JUL, P118
+   Tirone NR, 2010, RECENT PAT ANTI-CANC, V5, P165, DOI 10.2174/157489210790936225
+   Torres-Poveda K, 2018, BMC INFECT DIS, V18, DOI 10.1186/s12879-018-3490-1
+   Valle-Mendiola A, 2016, MEDIAT INFLAMM, V2016, DOI 10.1155/2016/2849523
+   Xue JS, 2018, CANCER MED-US, V7, P297, DOI 10.1002/cam4.1279
+   Zhu JF, 2001, J IMMUNOL, V166, P7276, DOI 10.4049/jimmunol.166.12.7276
+   Zhu JF, 2008, BLOOD, V112, P1557, DOI 10.1182/blood-2008-05-078154
+   zur Hausen H, 2009, VIROLOGY, V384, P260, DOI 10.1016/j.virol.2008.11.046
+NR 65
+TC 0
+Z9 0
+U1 4
+U2 4
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0001-5547
+EI 1938-2650
+J9 ACTA CYTOL
+JI Acta Cytol.
+PD SEP
+PY 2020
+VL 64
+IS 5
+BP 442
+EP 451
+DI 10.1159/000508015
+PG 10
+WC Pathology
+SC Pathology
+GA NJ1II
+UT WOS:000565795300007
+PM 32599588
+DA 2020-12-09
+ER
+
+PT J
+AU Goncalves, PVB
+   Moreira, FD
+   Benzi, JRD
+   Cavalli, RC
+   Duarte, G
+   Lanchote, VL
+AF Goncalves, Paulo Vinicius Bernardes
+   Moreira, Fernanda de Lima
+   Benzi, Jhohann Richard de Lima
+   Cavalli, Ricardo Carvalho
+   Duarte, Geraldo
+   Lanchote, Vera Lucia
+TI Nonrelevant Pharmacokinetic Drug-Drug Interaction Between Furosemide and
+   Pindolol Enantiomers in Hypertensive Parturient Women
+SO JOURNAL OF CLINICAL PHARMACOLOGY
+LA English
+DT Letter
+ID CARDIOVASCULAR-DISEASE; LAMOTRIGINE CLEARANCE; ACYL GLUCURONIDE;
+   PREGNANCY; ELIMINATION; MEDICATION; METABOLISM; LABETALOL
+C1 [Goncalves, Paulo Vinicius Bernardes; Moreira, Fernanda de Lima; Benzi, Jhohann Richard de Lima; Lanchote, Vera Lucia] Univ Sao Paulo, Sch Pharmaceut Sci Ribeirao Preto, Dept Clin Anal Food Sci & Toxicol, Ave Cafe S-N, BR-14040903 Ribeirao Preto, SP, Brazil.
+   [Cavalli, Ricardo Carvalho; Duarte, Geraldo] Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Obstet & Gynecol, Ribeirao Preto, SP, Brazil.
+RP Lanchote, VL (corresponding author), Univ Sao Paulo, Sch Pharmaceut Sci Ribeirao Preto, Dept Clin Anal Food Sci & Toxicol, Ave Cafe S-N, BR-14040903 Ribeirao Preto, SP, Brazil.
+EM lanchote@fcfrp.usp.br
+RI ; Moreira, Fernanda de Lima/G-4393-2015
+OI Benzi, Jhohann/0000-0001-6986-6193; Moreira, Fernanda de
+   Lima/0000-0001-7699-2665
+FU Coordination for the Improvement of Higher Education Personnel (CAPES,
+   Brazil)CAPES [001]; Brazilian National Council for Scientific and
+   Technological Development (CNPq)National Council for Scientific and
+   Technological Development (CNPq)
+FX The authors thank the Coordination for the Improvement of Higher
+   Education Personnel (CAPES, Brazil, Finance Code 001) and the Brazilian
+   National Council for Scientific and Technological Development (CNPq) for
+   financial support.
+CR Anderson GD, 2009, CLIN PHARMACOKINET, V48, P159, DOI 10.2165/00003088-200948030-00002
+   Chen HQ, 2009, DRUG METAB DISPOS, V37, P1841, DOI 10.1124/dmd.109.026609
+   CLARK BJ, 1983, GEN PHARMACOL, V14, P117, DOI 10.1016/0306-3623(83)90078-2
+   Ellison DH, 2019, CLIN J AM SOC NEPHRO, V14, P1248, DOI 10.2215/CJN.09630818
+   Fischer JH, 2014, CLIN PHARMACOKINET, V53, P373, DOI 10.1007/s40262-013-0123-0
+   Fotopoulou C, 2009, EPILEPSY RES, V85, P60, DOI 10.1016/j.eplepsyres.2009.02.011
+   Goncalves PVB, 2020, J CLIN PHARMACOL, V60, P1655, DOI 10.1002/jcph.1681
+   Goncalves PVB, 2002, CHIRALITY, V14, P683, DOI 10.1002/chir.10124
+   GUILLOUZO A, 1988, XENOBIOTICA, V18, P131, DOI 10.3109/00498258809041649
+   Halpern DG, 2019, J AM COLL CARDIOL, V73, P457, DOI 10.1016/j.jacc.2018.10.075
+   Hasannejad H, 2004, J PHARMACOL EXP THER, V308, P1021, DOI 10.1124/jpet.103.059139
+   Jeong H, 2008, XENOBIOTICA, V38, P62, DOI 10.1080/00498250701744633
+   JEPPSSON AB, 1984, ACTA PHARMACOL TOX, V54, P285
+   OHNHAUS EE, 1982, EUR J CLIN PHARMACOL, V22, P423, DOI 10.1007/BF00542547
+   Petrenaite V, 2018, EPILEPSY RES, V140, P199, DOI 10.1016/j.eplepsyres.2018.01.011
+   Pieper PG, 2015, NAT REV CARDIOL, V12, P718, DOI 10.1038/nrcardio.2015.172
+   Tran TA, 2002, NEUROLOGY, V59, P251, DOI 10.1212/WNL.59.2.251
+   Vree TB, 1999, J PHARM PHARMACOL, V51, P239, DOI 10.1211/0022357991772402
+   VREE TB, 1994, J CHROMATOGR B, V655, P53, DOI 10.1016/0378-4347(94)00093-X
+   Zhang HF, 2020, THER DRUG MONIT, V42, P264, DOI 10.1097/FTD.0000000000000724
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0091-2700
+EI 1552-4604
+J9 J CLIN PHARMACOL
+JI J. Clin. Pharmacol.
+PD NOV
+PY 2020
+VL 60
+IS 11
+BP 1527
+EP 1529
+DI 10.1002/jcph.1719
+EA AUG 2020
+PG 3
+WC Pharmacology & Pharmacy
+SC Pharmacology & Pharmacy
+GA NX2QJ
+UT WOS:000558616000001
+PM 32789919
+DA 2020-12-09
+ER
+
+PT J
+AU Goncalves, PVB
+   Moreira, FD
+   Benzi, JRD
+   Duarte, G
+   Lanchote, VL
+AF Goncalves, Paulo Vinicius Bernardes
+   Moreira, Fernanda de Lima
+   Benzi, Jhohann Richard de Lima
+   Duarte, Geraldo
+   Lanchote, Vera Lucia
+TI A Pilot Study of the Maternal-Fetal Pharmacokinetics of Furosemide in
+   Plasma, Urine, and Amniotic Fluid of Hypertensive Parturient Women Under
+   Cesarean Section
+SO JOURNAL OF CLINICAL PHARMACOLOGY
+LA English
+DT Article
+DE amniotic fluid; furosemide; organic anion transporter; pharmacokinetics;
+   pregnancy; transplacental transfer; ugt
+ID ENDOGENOUS BIOMARKERS; DRUG-INTERACTION; GESTATIONAL-AGE; PREGNANCY;
+   IDENTIFICATION; TRANSPORTERS; DISPOSITION; CLEARANCE; FRUSEMIDE;
+   METFORMIN
+AB The third trimester of pregnancy is related to physiological changes that can modify the process of absorption, distribution, metabolism, and excretion and, consequently, the efficacy and toxicity of drugs. However, little is known about furosemide pharmacokinetics and placental transfer in pregnancy. This study evaluated the maternal-fetal pharmacokinetics and distribution to amniotic fluid of furosemide in hypertensive parturient women under cesarean section. Twelve hypertensive parturient women under methyldopa (250 mg/8 h) and/or pindolol (10 mg/12 h) treatment received a 40-mg single oral dose of furosemide 1 to 10 hours before delivery by cesarean section. Blood and urine samples were collected for 12 hours after furosemide administration. At delivery, samples were obtained from maternal and umbilical cord blood (n = 8) to assess the transplacental transfer. Amniotic fluid (n = 4) was collected at the time of delivery. The following furosemide pharmacokinetic parameters were obtained as median (interquartile range): C-max, 403 ng/mL (229 to 715 ng/mL); T-max, 2.00 hours (1.50 to 4.83 hours); elimination half-life (t(1/2)), 2.50 hours (1.77 to 2.97 hours); AUC(0-12 h), 1366 ng.h/mL (927 to 2531 ng.h/mL); AUC(0-infinity), 1580 ng.h/mL (1270 to 2881 ng.h/mL); CL/F 25.3 L/h (13.8 to 31.4 L/h); CLR, 2.50 L/h (1.77 to 2.97 L/h); CLNR, 22.7 L/h (12.1 to 25.6 L/h); and V-d/F 82.8 L (34.4 to 173 L). The transplacental transfer of furosemide was 0.43 (0.10 to 0.73), and the amniotic fluid concentration was 11.0 ng/mL (5.51 to 14.6 ng/mL). From a clinical point of view, these results suggest that substrates of uridine diphosphate-glucuronosyltransferase isoenzymes such as furosemide may have increased clearance during pregnancy and could require dose adjustment in this population.
+C1 [Goncalves, Paulo Vinicius Bernardes; Moreira, Fernanda de Lima; Benzi, Jhohann Richard de Lima; Lanchote, Vera Lucia] Univ Sao Paulo, Sch Pharmaceut Sci Ribeirao Preto, Dept Clin Anal Food Sci & Toxicol, Ave Cafe S-N, BR-14040903 Ribeirao Preto, SP, Brazil.
+   [Duarte, Geraldo] Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Obstet & Gynecol, Ribeirao Preto, SP, Brazil.
+RP Lanchote, VL (corresponding author), Univ Sao Paulo, Sch Pharmaceut Sci Ribeirao Preto, Dept Clin Anal Food Sci & Toxicol, Ave Cafe S-N, BR-14040903 Ribeirao Preto, SP, Brazil.
+EM lanchote@fcfrp.usp.br
+RI Moreira, Fernanda L/G-4393-2015; Lanchote, Vera Lucia/P-5925-2016
+OI Moreira, Fernanda L/0000-0001-7699-2665; Benzi,
+   Jhohann/0000-0001-6986-6193; Lanchote, Vera Lucia/0000-0002-0074-4953
+FU Coordination for the Improvement of Higher Education Personnel (CAPES,
+   Brazil)CAPES [001]; Brazilian National Council for Scientific and
+   Technological Development (CNPq, Brazil)National Council for Scientific
+   and Technological Development (CNPq) [303142/2019-7]
+FX The authors thank the Coordination for the Improvement of Higher
+   Education Personnel (CAPES, Brazil, Finance Code 001) and the Brazilian
+   National Council for Scientific and Technological Development (CNPq,
+   Brazil, Process 303142/2019-7) for financial support.
+CR Abduljalil K, 2012, CLIN PHARMACOKINET, V51, P365, DOI 10.2165/11597440-000000000-00000
+   Antunes ND, 2015, BRIT J CLIN PHARMACO, V79, P605, DOI 10.1111/bcp.12523
+   Ayalasomayajula S, 2018, BRIT J CLIN PHARMACO, V84, P926, DOI 10.1111/bcp.13505
+   BEERMANN B, 1978, CLIN PHARMACOL THER, V24, P560
+   Bellos I, 2020, AM J OBSTET GYNECOL, V223, P525, DOI 10.1016/j.ajog.2020.03.016
+   Benet LZ, 2011, AAPS J, V13, P519, DOI 10.1208/s12248-011-9290-9
+   Chen HQ, 2009, DRUG METAB DISPOS, V37, P1841, DOI 10.1124/dmd.109.026609
+   Chu XY, 2018, CLIN PHARMACOL THER, V104, P836, DOI 10.1002/cpt.1216
+   Chu XY, 2017, J PHARM SCI-US, V106, P2357, DOI 10.1016/j.xphs.2017.04.007
+   Costantine Maged M, 2014, Front Pharmacol, V5, P65, DOI 10.3389/fphar.2014.00065
+   Dallmann A, 2019, J CLIN PHARMACOL, V59, pS70, DOI 10.1002/jcph.1491
+   Ebner T, 2015, J PHARM SCI-US, V104, P3220, DOI 10.1002/jps.24489
+   Ellison DH, 2019, CLIN J AM SOC NEPHRO, V14, P1248, DOI 10.2215/CJN.09630818
+   Evers R, 2018, CLIN PHARMACOL THER, V104, P900, DOI 10.1002/cpt.1115
+   Fischer JH, 2014, CLIN PHARMACOKINET, V53, P373, DOI 10.1007/s40262-013-0123-0
+   Fotopoulou C, 2009, EPILEPSY RES, V85, P60, DOI 10.1016/j.eplepsyres.2009.02.011
+   Giacomini KM, 2018, CLIN PHARMACOL THER, V104, P766, DOI 10.1002/cpt.1224
+   GUGLER R, 1974, EUR J CLIN PHARMACOL, V7, P17, DOI 10.1007/BF00614385
+   Halpern DG, 2019, J AM COLL CARDIOL, V73, P457, DOI 10.1016/j.jacc.2018.10.075
+   Huang XH, 2016, AM J PHYSIOL-RENAL, V310, pP958, DOI 10.1152/ajprenal.00476.2015
+   Kaye AB, 2019, J WOMENS HEALTH, V28, P686, DOI 10.1089/jwh.2018.7145
+   Kerdpin O, 2008, BIOCHEM PHARMACOL, V76, P249, DOI 10.1016/j.bcp.2008.04.014
+   Loughhead AM, 2006, AM J PSYCHIAT, V163, P145, DOI 10.1176/appi.ajp.163.1.145
+   MARTIN U, 1995, EUR J CLIN PHARMACOL, V48, P385
+   Mizuma T, 1998, J CHROMATOGR B, V718, P153, DOI 10.1016/S0378-4347(98)00357-0
+   Morrissey KM, 2013, ANNU REV PHARMACOL, V53, P503, DOI 10.1146/annurev-pharmtox-011112-140317
+   Muller AE, 2008, BRIT J CLIN PHARMACO, V66, P866, DOI 10.1111/j.1365-2125.2008.03292.x
+   MYHRE E, 1982, CLIN PHARMACOKINET, V7, P221, DOI 10.2165/00003088-198207030-00003
+   Noguchi S, 2015, J PHARM SCI-US, V104, P3128, DOI 10.1002/jps.24434
+   OHNHAUS EE, 1974, EUR J CLIN PHARMACOL, V7, P25, DOI 10.1007/BF00614386
+   Pariente G, 2016, PLOS MED, V13, DOI 10.1371/journal.pmed.1002160
+   PRANDOTA J, 1975, CLIN PHARMACOL THER, V17, P159, DOI 10.1002/cpt1975172159
+   Regitz-Zagrosek V, 2018, EUR HEART J, V39, P3165, DOI 10.1093/eurheartj/ehy340
+   RIVA E, 1978, EUR J CLIN PHARMACOL, V14, P361, DOI 10.1007/BF00611907
+   Ryu RJ, 2016, J CLIN PHARMACOL, V56, P581, DOI 10.1002/jcph.631
+   Stopfer P, 2016, CLIN PHARMACOL THER, V100, P259, DOI 10.1002/cpt.406
+   Tasnif Y, 2016, CLIN PHARMACOL THER, V100, P53, DOI 10.1002/cpt.382
+   Tomi M, 2015, ENDOCRINOLOGY, V156, P2704, DOI 10.1210/en.2015-1130
+   Tran TA, 2002, NEUROLOGY, V59, P251, DOI 10.1212/WNL.59.2.251
+   Tsuda M, 2009, J PHARMACOL EXP THER, V329, P185, DOI 10.1124/jpet.108.147918
+   VERBEECK RK, 1982, CLIN PHARMACOL THER, V31, P719, DOI 10.1038/clpt.1982.101
+   VERT P, 1982, EUR J CLIN PHARMACOL, V22, P39, DOI 10.1007/BF00606423
+   VREE TB, 1995, BRIT J CLIN PHARMACO, V39, P692
+   YERBY MS, 1990, EPILEPSY RES, V5, P223, DOI 10.1016/0920-1211(90)90042-T
+   Zamek-Gliszczynski MJ, 2018, CLIN PHARMACOL THER, V104, P890, DOI 10.1002/cpt.1112
+   Zhang HF, 2020, THER DRUG MONIT, V42, P264, DOI 10.1097/FTD.0000000000000724
+   Zou YH, 2010, DRUG METAB PHARMACOK, V25, P442, DOI 10.2133/dmpk.DMPK-10-RG-031
+NR 47
+TC 1
+Z9 1
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0091-2700
+EI 1552-4604
+J9 J CLIN PHARMACOL
+JI J. Clin. Pharmacol.
+PD DEC
+PY 2020
+VL 60
+IS 12
+BP 1655
+EP 1661
+DI 10.1002/jcph.1681
+EA JUN 2020
+PG 7
+WC Pharmacology & Pharmacy
+SC Pharmacology & Pharmacy
+GA OJ1AX
+UT WOS:000541270400001
+PM 32562572
+DA 2020-12-09
+ER
+
+PT J
+AU Pinto, L
+   Moreira, FD
+   Nardotto, GHB
+   Cavalli, RC
+   Moises, ECD
+   Duarte, G
+   Lanchote, VL
+AF Pinto, Leonardo
+   Moreira, Fernanda de Lima
+   Nardotto, Glauco Henrique Balthazar
+   Cavalli, Ricardo Carvalho
+   Moises, Elaine Christine Dantas
+   Duarte, Geraldo
+   Lanchote, Vera Lucia
+TI Chiral Discrimination of P-glycoprotein in Parturient Women: Effect of
+   Fluoxetine on Maternal-Fetal Fexofenadine Pharmacokinetics
+SO PHARMACEUTICAL RESEARCH
+LA English
+DT Article
+DE CPKA-D-20-00095; fexofenadine; fluoxetine; pregnancy; pharmacokinetics;
+   P-gp
+ID PROTEIN EXPRESSION; ENANTIOMERS; DRUG; DISPOSITION; INHIBITORS;
+   PREGNANCY; SINGLE; CLASSIFICATION; RIFAMPICIN; RESPONSES
+AB Background and Objective Fluoxetine, antidepressant widely-used during pregnancy, is a selective inhibitor for P-glycoprotein (P-gp). Fexofenadine, anin vivoP-gp probe, is an antihistamine drug for seasonal allergic rhinitis and chronic urticaria treatment during pregnancy and it is available as a racemic mixture. This study evaluated the chiral discrimination of P-gp investigating the effect of fluoxetine on maternal-fetal pharmacokinetics of fexofenadine. Methods Healthy parturient women received either a single oral dose of 60 mg racemic fexofenadine (Control group;n = 8) or a single oral dose of 40 mg racemic fluoxetine 3 h before a single oral dose of 60 mg racemic fexofenadine (Interaction group;n = 8). Maternal blood and urine samples were collected up to 48 h after fexofenadine administration. At delivery, maternal-placental-fetal blood samples were collected. Results The maternal pharmacokinetics of fexofenadine was enantioselective (AUC(R-(+)/S-(-))(0-infinity) similar to 1.5) in both control and interaction groups. Fluoxetine increased AUC(0-infinity)(267.7 vs 376.1 ng.h/mL) and decreased oral total clearance (105.1 vs 74.4 L/h) only of S-(-)-fexofenadine, whereas the renal clearance were reduced for both enantiomers, suggesting that the intestinal P-gp-mediated transport of S-(-)-fexofenadine is influenced by fluoxetine to a greater extent that the R-(+)-fexofenadine. However, the transplacental transfer of fexofenadine is low (similar to 16%), non-enantioselective and non-influenced by fluoxetine. Conclusions A single oral dose of 40 mg fluoxetine inhibited the intestinal P-gp mediated transport of S-(-)-fexofenadine to a greater extent than R-(+)-fexofenadine in parturient women. However, the placental P-gp did not discriminate fexofenadine enantiomers and was not inhibited by fluoxetine.
+C1 [Pinto, Leonardo; Moreira, Fernanda de Lima; Nardotto, Glauco Henrique Balthazar; Lanchote, Vera Lucia] Univ Sao Paulo, Fac Ciencias Farmaceut Ribeirao Preto, Dept Anal Clin Toxicol & Bromatol, Ribeirao Preto, SP, Brazil.
+   [Cavalli, Ricardo Carvalho; Moises, Elaine Christine Dantas; Duarte, Geraldo] Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Obstet & Ginecol, Ribeirao Preto, SP, Brazil.
+RP Lanchote, VL (corresponding author), Univ Sao Paulo, Fac Ciencias Farmaceut Ribeirao Preto, Dept Anal Clin Toxicol & Bromatol, Ribeirao Preto, SP, Brazil.
+EM lanchote@fcfrp.usp.br
+RI Pinto, Leonardo/AAR-6097-2020; Nardotto, Glauco Henrique
+   Balthazar/E-1154-2016; Nardotto, Glauco Henrique
+   Balthazar/AAC-8403-2020; Moreira, Fernanda L/G-4393-2015; Lanchote, Vera
+   Lucia/P-5925-2016
+OI Pinto, Leonardo/0000-0002-3578-4525; Nardotto, Glauco Henrique
+   Balthazar/0000-0001-7024-4252; Moreira, Fernanda L/0000-0001-7699-2665;
+   Duarte, Geraldo/0000-0002-1689-6142; Lanchote, Vera
+   Lucia/0000-0002-0074-4953; Cavalli, Ricardo/0000-0001-5010-4914
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq); Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+FX This study was funded by Conselho Nacional de Desenvolvimento Cientifico
+   e Tecnologico (CNPq) and Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP).
+CR Akamine Y, 2015, J CLIN PHARM THER, V40, P98, DOI 10.1111/jcpt.12213
+   Akamine Y, 2018, EXPERT OPIN DRUG MET, V14, P429, DOI 10.1080/17425255.2018.1459565
+   Akamine Y, 2015, DRUG METAB PHARMACOK, V30, P352, DOI 10.1016/j.dmpk.2015.06.005
+   Akamine Y, 2014, EUR J CLIN PHARMACOL, V70, P1087, DOI 10.1007/s00228-014-1705-y
+   Akamine Y, 2012, BRIT J CLIN PHARMACO, V73, P478, DOI 10.1111/j.1365-2125.2011.04106.x
+   Akamine Y, 2010, XENOBIOTICA, V40, P782, DOI 10.3109/00498254.2010.515318
+   Al-Enazy S, 2017, ADV DRUG DELIVER REV, V116, P63, DOI 10.1016/j.addr.2016.08.002
+   Alwan S, 2016, CNS DRUGS, V30, P499, DOI 10.1007/s40263-016-0338-3
+   Argov M, 2009, CANCER LETT, V274, P118, DOI 10.1016/j.canlet.2008.09.005
+   Cooper WO, 2007, AM J OBSTET GYNECOL, V196, P544, DOI 10.1016/j.ajog.2007.01.033
+   Cvetkovic M, 1999, DRUG METAB DISPOS, V27, P866
+   DeVane CL, 2002, CNS SPECTRUMS, V7, P28, DOI 10.1017/S1092852900028571
+   DeVane CL, 1999, CELL MOL NEUROBIOL, V19, P443, DOI 10.1023/A:1006934807375
+   Field T, 2017, INFANT BEHAV DEV, V49, P120, DOI 10.1016/j.infbeh.2017.08.008
+   FULLER RW, 1992, NEUROPHARMACOLOGY, V31, P997, DOI 10.1016/0028-3908(92)90100-4
+   Gavin NI, 2005, OBSTET GYNECOL, V106, P1071, DOI 10.1097/01.AOG.0000183597.31630.db
+   Gundogdu E, 2011, INT J NANOMED, V6, P631, DOI 10.2147/IJN.S22673
+   Hebert MF, 2008, CLIN PHARMACOL THER, V84, P248, DOI 10.1038/clpt.2008.1
+   Joshi AA, 2016, PHARM RES-DORDR, V33, P2847, DOI 10.1007/s11095-016-2028-8
+   Karlgren M, 2012, J MED CHEM, V55, P4740, DOI 10.1021/jm300212s
+   Koren G, 2018, EXPERT REV CLIN PHAR, V11, P373, DOI 10.1080/17512433.2018.1425615
+   Kusuhara H, 2013, DRUG METAB DISPOS, V41, P206, DOI 10.1124/dmd.112.048330
+   Li F, 2017, J PHARM PHARMACOL, V69, P274, DOI 10.1111/jphp.12687
+   Mathias AA, 2005, AM J PHYSIOL-REG I, V289, pR963, DOI 10.1152/ajpregu.00173.2005
+   McConathy Jonathan, 2003, Prim Care Companion J Clin Psychiatry, V5, P70
+   Miarelli Carvalho D., 2017, J RES ANAL, V3, P15
+   Miura M, 2007, CHIRALITY, V19, P223, DOI 10.1002/chir.20370
+   Miura M, 2010, EXPERT OPIN DRUG MET, V6, P69, DOI 10.1517/17425250903382615
+   Peer D, 2004, CANCER RES, V64, P7562, DOI 10.1158/0008-5472.CAN-03-4046
+   Pinto LSR, 2020, J CHROMATOGR B, V1145, DOI 10.1016/j.jchromb.2020.122094
+   Robbins DK, 1998, BIOPHARM DRUG DISPOS, V19, P455, DOI 10.1002/(SICI)1099-081X(199810)19:7<455::AID-BDD130>3.0.CO;2-W
+   Sakugawa T, 2009, BRIT J CLIN PHARMACO, V67, P535, DOI 10.1111/j.1365-2125.2009.03396.x
+   Sanofi-Aventis, ALL FEX HYDR US PRES
+   Schrickx JA, 2014, J VET PHARMACOL THER, V37, P515, DOI 10.1111/jvp.12111
+   Tahara H, 2005, DRUG METAB DISPOS, V33, P963, DOI 10.1124/dmd.105.004192
+   Tasnif Y, 2016, CLIN PHARMACOL THER, V100, P53, DOI 10.1002/cpt.382
+   Tateishi T, 2008, BRIT J CLIN PHARMACO, V65, P693, DOI 10.1111/j.1365-2125.2008.03116.x
+   Togami K, 2013, J PHARM PHARMACOL, V65, P22, DOI 10.1111/j.2042-7158.2012.01569.x
+   Weiss J, 2003, J PHARMACOL EXP THER, V305, P197, DOI 10.1124/jpet.102.046532
+   WONG DT, 1990, ACTA PHARM NORDICA, V2, P171
+   Wu CY, 2005, PHARM RES-DORDR, V22, P11, DOI 10.1007/s11095-004-9004-4
+   Yasui-Furukori N, 2005, CLIN PHARMACOL THER, V77, P17, DOI 10.1016/j.clpt.2004.08.026
+NR 42
+TC 0
+Z9 0
+U1 2
+U2 2
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0724-8741
+EI 1573-904X
+J9 PHARM RES-DORDR
+JI Pharm. Res.
+PD JUN 17
+PY 2020
+VL 37
+IS 7
+AR 131
+DI 10.1007/s11095-020-02854-4
+PG 10
+WC Chemistry, Multidisciplinary; Pharmacology & Pharmacy
+SC Chemistry; Pharmacology & Pharmacy
+GA MC3SJ
+UT WOS:000543210800002
+PM 32557079
+DA 2020-12-09
+ER
+
+PT J
+AU Benzi, JRD
+   Moreira, FD
+   Marques, MP
+   Duarte, G
+   Suarez-Kurtz, G
+   Lanchote, VL
+AF de Lima Benzi, Jhohann Richard
+   Moreira, Fernanda de Lima
+   Marques, Maria Paula
+   Duarte, Geraldo
+   Suarez-Kurtz, Guilherme
+   Lanchote, Vera Lucia
+TI A background subtraction approach for determination of endogenous
+   cortisol and 6 beta-hydroxycortisol in urine by UPLC-MS/MS with
+   application in a within-day variability study in HIV-infected pregnant
+   women
+SO JOURNAL OF CHROMATOGRAPHY B-ANALYTICAL TECHNOLOGIES IN THE BIOMEDICAL
+   AND LIFE SCIENCES
+LA English
+DT Article
+DE Background subtraction; 6 beta-hydroxycortisol; Cortisol; Pregnancy;
+   UPLC-MS/MS
+ID ULTRAVIOLET ABSORBENCY DETECTION; CYP3A ACTIVITY; LIQUID-CHROMATOGRAPHY;
+   INTRAINDIVIDUAL VARIABILITY; RATIO; SPECTROMETRY; RALTEGRAVIR
+AB Different methods have been used for CYP3A phenotyping, such as probe drugs or the urinary index 6 beta-hydroxycortisol/cortisol ratio (6 beta-OHF:C). This work describes a simple and affordable method for the simultaneous determination of the endogenous compounds cortisol and 6 beta-hydroxycortisol in urine using a background subtraction approach. The method was applied to investigate the CYP3A activity in HIV-infected pregnant women (n = 9) in the third trimester and postpartum periods. Also, the within-day variability in the 6 ss-OHF:C index was also evaluated. The sample preparation consists of a pre-cleanup with acetonitrile followed by liquidliquid extraction with ethyl acetate. The analytes were resolved by employing an Acquity UPLC (R) BEH C18 column with a mobile phase that consisted of a mixture of acetonitrile containing 0.1% formic acid and 0.1% formic acid in gradient mode. The method presented linearities of 1-1.000 ng/mL and 2-1.000 ng/mL for C and 6 beta-OHF, respectively, and presented acceptable precision and accuracy. Qualitative and quantitative matrix effects tests were also performed. A high 6 beta-OHF:C within-day variability was observed in both phases. In the third trimester period, the 6 beta-OHF:C ranged from 2.57 to 51.69, with a mean +/- standard deviation (SD) of 15.12 +/- 5.41 (n = 9). Similar values were obtained in the postpartum period, with 6 beta-OHF:C ranging from 3.48 to 44.54 with a mean +/- SD of 14.37 +/- 5.73 (n = 7). Even though the 6 beta-OHF:C is a non-invasive index for CYP3A phenotyping, its use is susceptible to high within-day variability.
+C1 [de Lima Benzi, Jhohann Richard; Moreira, Fernanda de Lima; Marques, Maria Paula; Lanchote, Vera Lucia] Univ Sao Paulo, Sch Pharmaceut Sci Ribeirao Preto, Dept Clin Toxicol & Bromatol Anal, Ave Cafe S-N,Campus USP, BR-14040903 Ribeirao Preto, SP, Brazil.
+   [Duarte, Geraldo] Univ Sao Paulo, Ribeirao Preto Med Sch, Ribeirao Preto, SP, Brazil.
+   [Suarez-Kurtz, Guilherme] Natl Canc Inst, Rio De Janeiro, RJ, Brazil.
+RP Lanchote, VL (corresponding author), Univ Sao Paulo, Sch Pharmaceut Sci Ribeirao Preto, Dept Clin Toxicol & Bromatol Anal, Ave Cafe S-N,Campus USP, BR-14040903 Ribeirao Preto, SP, Brazil.
+EM lanchote@fcfrp.usp.br
+RI Moreira, Fernanda L/G-4393-2015; Suarez-Kurtz, Guilherme/J-6648-2012
+OI Moreira, Fernanda L/0000-0001-7699-2665; Suarez-Kurtz,
+   Guilherme/0000-0002-1115-8319; Benzi, Jhohann/0000-0001-6986-6193
+FU Sao Paulo Research Foundation, FAPESPFundacao de Amparo a Pesquisa do
+   Estado de Sao Paulo (FAPESP) [FAPESP 2016/23938-2, 2019/03429-4,
+   2018/05616-3]; Coordination for the Improvement of Higher Education
+   Personnel (CAPES, Brazil)CAPES [001]; Brazilian National Council for
+   Scientific and Technological Development (CNPq)National Council for
+   Scientific and Technological Development (CNPq)
+FX The authors thank the Sao Paulo Research Foundation, FAPESP (grant
+   number FAPESP 2016/23938-2, 2019/03429-4 and 2018/05616-3), the
+   Coordination for the Improvement of Higher Education Personnel (CAPES,
+   Brazil, Finance Code 001) and the Brazilian National Council for
+   Scientific and Technological Development (CNPq) for financial support.
+CR Arrhen YM, 2013, BRIT J CLIN PHARMACO, V75, P1536, DOI 10.1111/bcp.12016
+   Aweeka FT, 2015, HIV MED, V16, P176, DOI 10.1111/hiv.12195
+   Barrett YC, 2005, J CHROMATOGR B, V821, P159, DOI 10.1016/j.jchromb.2005.04.030
+   Furuta T, 2004, J CHROMATOGR B, V801, P165, DOI 10.1016/j.jchromb.2003.11.001
+   Furuta T, 2000, J CHROMATOGR B, V738, P367, DOI 10.1016/S0378-4347(99)00550-2
+   Guengerich F.P., 2012, ENCY DRUG METABOLISM, V1
+   Han J, 2011, DATA MINING CONCEPTS, V5, P1
+   Hirano R, 2018, J MASS SPECTROM, V53, P665, DOI 10.1002/jms.4200
+   Hohmann N, 2016, EXPERT OPIN DRUG MET, V12, P479, DOI 10.1517/17425255.2016.1163337
+   Homma M, 2000, J PHARMACEUT BIOMED, V23, P629, DOI 10.1016/S0731-7085(00)00334-4
+   Hu ZY, 2005, J CHROMATOGR B, V826, P238, DOI 10.1016/j.jchromb.2005.09.007
+   Inagaki K, 2002, THER DRUG MONIT, V24, P722, DOI 10.1097/00007691-200212000-00007
+   Iwamoto M, 2008, J CLIN PHARMACOL, V48, P209, DOI 10.1177/0091270007310382
+   Kashuba ADM, 1998, CLIN PHARMACOL THER, V64, P269, DOI 10.1016/S0009-9236(98)90175-8
+   Khatri A, 2016, ANTIMICROB AGENTS CH, V60, P2965, DOI 10.1128/AAC.02605-15
+   Kosel BW, 2003, AIDS, V17, P1195, DOI 10.1097/00002030-200305230-00011
+   Lee J, 2019, DRUG METAB PHARMACOK, V34, P247, DOI 10.1016/j.dmpk.2019.04.002
+   Lutz U, 2010, J CHROMATOGR B, V878, P97, DOI 10.1016/j.jchromb.2009.11.023
+   Magliocco G, 2019, CLIN PHARMACOKINET, V58, P1373, DOI 10.1007/s40262-019-00783-z
+   Ohno M, 2000, EUR J CLIN PHARMACOL, V55, P861, DOI 10.1007/s002280050708
+   Penzak SR, 2019, J CLIN PHARMACOL, V59, P611, DOI 10.1002/jcph.1391
+   Shibasaki H, 2014, STEROIDS, V87, P137, DOI 10.1016/j.steroids.2014.05.023
+   Suzuki A, 2003, J CHROMATOGR B, V794, P373, DOI 10.1016/S1570-0232(03)00519-1
+   Tai SSC, 2004, ANAL CHEM, V76, P1008, DOI 10.1021/ac034966f
+   Tang CY, 2000, J CHROMATOGR B, V742, P303, DOI 10.1016/S0378-4347(00)00175-4
+   Thakare R, 2016, J PHARMACEUT BIOMED, V128, P426, DOI 10.1016/j.jpba.2016.06.017
+   Yeh RF, 2009, ANTIMICROB AGENTS CH, V53, P2367, DOI 10.1128/AAC.01523-08
+   Yin OQR, 2004, J CLIN PHARMACOL, V44, P1412, DOI 10.1177/0091270004269760
+   Zheng LY, 2015, J CHROMATOGR SCI, V53, P451, DOI 10.1093/chromsci/bmt034
+NR 29
+TC 0
+Z9 0
+U1 2
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-0232
+EI 1873-376X
+J9 J CHROMATOGR B
+JI J. Chromatogr. B
+PD MAY 1
+PY 2020
+VL 1144
+AR 122074
+DI 10.1016/j.jchromb.2020.122074
+PG 6
+WC Biochemical Research Methods; Chemistry, Analytical
+SC Biochemistry & Molecular Biology; Chemistry
+GA LE5BI
+UT WOS:000526733000005
+PM 32247187
+DA 2020-12-09
+ER
+
+PT J
+AU Bonifacio, LP
+   Franzon, ACA
+   Zaratini, FS
+   Vicentine, FB
+   Barbosa, F
+   Braga, GC
+   Sanchez, JAC
+   Oliveira-Ciabati, L
+   Andrade, MS
+   Fernandes, M
+   Fabio, SV
+   Duarte, G
+   Pileggi, VN
+   Souza, JP
+   Vieira, EM
+AF Bonifacio, Livia Pimenta
+   Arruda Franzon, Ana Carolina
+   Zaratini, Fabiani Spessoto
+   Vicentine, Fernanda Bergamini
+   Barbosa-Junior, Francisco
+   Braga, Giordana Campos
+   Cifuentes Sanchez, Jazmin Andrea
+   Oliveira-Ciabati, Livia
+   Andrade, Magna Santos
+   Fernandes, Mariana
+   Fabio, Suzi Volpato
+   Duarte, Geraldo
+   Pileggi, Vicky Nogueira
+   Souza, Joao Paulo
+   Vieira, Elisabeth Meloni
+TI PRENACEL partner-use of short message service (SMS) to encourage male
+   involvement in prenatal care: a cluster randomized trial
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Paternal involvement; Prenatal; mHealth; Text messaging; SMS text
+ID MATERNAL HEALTH; FATHERS; BIRTH; MORTALITY; IMPACT; ENGAGEMENT;
+   PREGNANCY; HUSBANDS; MEN
+AB Background The partner has an important role when he participates of the prenatal care as showed in the positive results relate to the mother and the child health. For this reason it is an important strategy to bring future fathers closer to health services and to improve their link with paternity. Aim To evaluate whether the implementation of SMS technology, through the PRENACEL program for the partner as a health education program, is a useful supplement to the standard prenatal monitoring. Methods A parallel cluster randomized trial was carried out, with the clusters representing primary care health units. The 20 health units with the largest number of pregnant women in 2013 were selected for the study. There was a balance of the health units according to the size of the affiliated population and the vulnerability situation and these were allocated in intervention and control health units by the randomization. The partners of the pregnant women who started prenatal care prior to the 20th week of gestation were the study population of the intervention group. The participants received periodic short text messages via mobile phone with information about the pregnancy and birth. In the control group units the partners, together with the women, received the standard prenatal care. Results One hundred eighty-six partners were interviewed, 62 from the PRENACEL group, 73 from the intervention group that did not opt for PRENACEL and 51 from the control group. A profile with a mean age of 30 years was found and the majority of respondents (51.3%) declared themselves as brown race/color. The interviewees presented a mean of 9.3 years of study. The majority of the men (95.2%) cohabited with their partner and 63.7% were classified as socioeconomic class C. The adherence to the PRENACEL program was 53.4%. In relation to the individual results, there was a greater participation of the PRENACEL partners in the prenatal consultations, as well as a greater presence of them accompanying the woman at the moment of the childbirth when compared to the other groups. Conclusion The study showed that a health education strategy using communication technology seems to be a useful prenatal care supplement; the intervention had a good acceptability and has a promising role in men's involvement in prenatal, labour and postpartum care of their partners.
+C1 [Bonifacio, Livia Pimenta; Arruda Franzon, Ana Carolina; Vicentine, Fernanda Bergamini; Barbosa-Junior, Francisco; Braga, Giordana Campos; Oliveira-Ciabati, Livia; Pileggi, Vicky Nogueira; Souza, Joao Paulo; Vieira, Elisabeth Meloni] Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Social Med, Ribeirao Preto, SP, Brazil.
+   [Zaratini, Fabiani Spessoto; Braga, Giordana Campos; Cifuentes Sanchez, Jazmin Andrea; Fernandes, Mariana; Duarte, Geraldo] Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Gynecol & Obstet, Ribeirao Preto, SP, Brazil.
+   [Andrade, Magna Santos] State Univ Bahia UNEB, Coll Nursing, Dept Educ, Senhor Do Bonfim, BA, Brazil.
+   [Fabio, Suzi Volpato] Ribeirao Preto Hlth Dept, Women Hlth Programme, Ribeirao Preto, SP, Brazil.
+RP Bonifacio, LP (corresponding author), Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Social Med, Ribeirao Preto, SP, Brazil.
+EM livia_pb@usp.br
+RI Souza, Joao Paulo/G-1982-2010; Vieira, Elisabeth M./H-6842-2012;
+   Oliveira-Ciabati, Livia/M-6412-2019; Oliveira-Ciabati, Livia/H-7982-2018
+OI Souza, Joao Paulo/0000-0002-2288-4244; Oliveira-Ciabati,
+   Livia/0000-0002-7163-9456; Oliveira-Ciabati, Livia/0000-0002-7163-9456;
+   Franzon, Ana Carolina/0000-0003-4333-3326; Pimenta Bonifacio,
+   Livia/0000-0002-4309-0304
+FU Foundation for the Support of Research of Sao Paulo State
+   (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP);
+   Capes/CNPq Foudantions [CSF-PAJT 2514/2013, 23,038.007622/2013-60]
+FX This work was supported by the Foundation for the Support of Research of
+   Sao Paulo State (FAPESP). The Capes/CNPq Foudantions funding the
+   research and the scholarship with the Science without Borders Programme
+   (CSF-PAJT 2514/2013, grant #. 23,038.007622/2013-60).
+CR Aguiar C, 2015, MATERN CHILD HLTH J, V19, P2012, DOI 10.1007/s10995-015-1713-2
+   Franzon ACA, 2019, CAD SAUDE PUBLICA, V35, DOI [10.1590/0102-311X00111218, 10.1590/0102-311x00111218]
+   Aveyard P, 2005, BMC PUBLIC HEALTH, V5, DOI 10.1186/1471-2458-5-80
+   Berti PR, 2015, REV PANAM SALUD PUBL, V37, P90
+   Bonifacio LP, 2019, INTERFACE-BOTUCATU, V23, DOI [10.1590/Interface.180250, 10.1590/interface.180250]
+   Brasil, IND MORT C 3 RAZ MOR
+   Brasil. Ministerio da saude, 2016, GUIA PREN PARC PROF
+   Brasil Ministerio da Saude, 2016, HOM QUE SE CUID CURT
+   Bruggemann Odalea M, 2007, Reprod Health, V4, P5, DOI 10.1186/1742-4755-4-5
+   Bruggemann OM, 2016, CIENC SAUDE COLETIVA, V21, P2555, DOI 10.1590/1413-81232015218.16612015
+   Carter M, 2002, SOC SCI MED, V55, P437, DOI 10.1016/S0277-9536(01)00175-7
+   Criterio de ClassificacAo Economica Brasil (CCEB), 2015, CRIT CLASS EC BRAS C
+   Cunningham SA, 2010, POP STUD-J DEMOG, V64, P229, DOI 10.1080/00324728.2010.510201
+   Monguilhott JJD, 2018, REV SAUDE PUBL, V52, DOI [10.11606/S1518-8787.2018052006258, 10.11606/s1518-8787.2018052006258]
+   Davis J, 2016, REPROD HEALTH, V13, DOI 10.1186/s12978-016-0184-2
+   Declercq ER, 2014, J PERINAT EDUC, V23, P9, DOI 10.1891/1058-1243.23.1.9
+   Declercq ER, 2014, J PERINAT EDUC, V23, P17, DOI 10.1891/1058-1243.23.1.17
+   Derbyshire E, 2013, INT J TELEMED APPL, V2013, DOI 10.1155/2013/782074
+   Duarte G, 2007, REV BRAS GINECOL OBS, V29, P171, DOI 10.1590/S0100-72032007000400001
+   Farquhar C, 2004, JAIDS-J ACQ IMM DEF, V37, P1620, DOI 10.1097/00126334-200412150-00016
+   FIGUEIREDO W. S., 2008, THESIS
+   Fletcher R, 2017, BMC PUBLIC HEALTH, V17, DOI 10.1186/s12889-017-4978-0
+   Fletcher R, 2017, ADV MENT HEALTH, V15, P121, DOI 10.1080/18387357.2016.1245586
+   Fletcher R, 2016, J REPROD INFANT PSYC, V34, P525, DOI 10.1080/02646838.2016.1214250
+   Ganle JK, 2015, REPROD HEALTH, V12, DOI 10.1186/s12978-015-0083-y
+   Gill MM, 2017, BMC PREGNANCY CHILDB, V17, DOI 10.1186/s12884-017-1587-y
+   Diniz CSG, 2014, CAD SAUDE PUBLICA, V30, DOI 10.1590/0102-311X00127013
+   Harris PA, 2009, J BIOMED INFORM, V42, P377, DOI 10.1016/j.jbi.2008.08.010
+   Hildingsson I, 2011, WOMEN BIRTH, V24, P129, DOI 10.1016/j.wombi.2010.12.003
+   Hodnett ED, 2011, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD003766.pub3
+   Jefferys LF, 2015, REPROD HEALTH, V12, DOI 10.1186/s12978-015-0084-x
+   Kumar V, 2008, LANCET, V372, P1151, DOI 10.1016/S0140-6736(08)61483-X
+   Kurniati A, 2017, HEALTH POLICY PLANN, V32, P1203, DOI 10.1093/heapol/czx073
+   Lalonde A, 2019, INT J GYNECOL OBSTET, V146, P65, DOI 10.1002/ijgo.12844
+   Lavender T, 1997, BR J MIDWIFERY, V5, P92
+   Lee SH, 2016, J GLOB HEALTH, V6, DOI 10.7189/jogh.06.010401
+   Li HT, 2009, BIRTH-ISS PERINAT C, V36, P289, DOI 10.1111/j.1523-536X.2009.00356.x
+   Mackert M, 2015, TELEMED E-HEALTH, V21, P207, DOI 10.1089/tmj.2014.0048
+   Merrell RC, 2016, TELEMED E-HEALTH, V22, P787, DOI 10.1089/tmj.2016.29013.rcm
+   Mullany BC, 2007, HEALTH EDUC RES, V22, P166, DOI 10.1093/her/cyl060
+   Oliveira-Ciabati L, 2017, REPROD HEALTH, V14, DOI 10.1186/s12978-017-0407-1
+   Santoso Hanna Yuanita Dana, 2017, J Family Reprod Health, V11, P30
+   Secretaria Municipal de Saude de RibeirAo Preto, 2014, ESTR MELH MORB MORT
+   Sondaal SFV, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0154664
+   Souza JP, 2015, REV BRAS GINECOL OBS, V37, P549, DOI 10.1590/SO100-720320150005526
+   Souza JP, 2013, REV BRAS GINECOL OBS, V35, P533, DOI 10.1590/S0100-72032013001200001
+   Steen M, 2012, MIDWIFERY, V28, P422, DOI 10.1016/j.midw.2011.06.009
+   Suto M, 2016, SYST REV-LONDON, V5, DOI 10.1186/s13643-016-0199-3
+   The Fifty-eighth World Health Assembly, 2005, 58 WORLD HLTH ASS
+   United Nations, 2015, SUST DEV GOALS
+   Vital Wave Consulting. mHealth for Development, 2009, TECHNOLOGY, V46, P1
+   Watterson JL, 2015, BIOMED RES INT, V2015, DOI 10.1155/2015/153402
+   WHO, 2015, STRAT END PREV MAT M
+   Wolfberg AJ, 2004, AM J OBSTET GYNECOL, V191, P708, DOI 10.1016/j.ajog.2004.05.019
+   World Health Organization (WHO), 2007, ENGAGING MEN BOYS CH
+NR 55
+TC 0
+Z9 0
+U1 2
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD APR 6
+PY 2020
+VL 17
+IS 1
+AR 45
+DI 10.1186/s12978-020-0859-6
+PG 12
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA LC3VH
+UT WOS:000525252800001
+PM 32252789
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Machado, MDR
+   Bertagnolli, TV
+   Veiga, ECD
+   Ferreira, CJH
+   Duarte, G
+   Machado, JDR
+   Carvalho, R
+AF Rangel Machado, Michelle de Souza
+   Bertagnolli, Tawana Vicente
+   de Arruda Veiga, Eduardo Carvalho
+   Homsi Ferreira, Cristine Jorge
+   Duarte, Geraldo
+   Rangel Machado, Jackeline de Souza
+   Carvalho, Ricardo
+TI Multiprofessional care promotes of quality of life in pregnant women
+   with preeclampsia: a cross- sectional study
+SO CLINICS
+LA English
+DT Article
+DE Preeclampsia; Pregnancy; Quality of Life; WHOQOL-Bref; Healthy Pregnancy
+ID DEPRESSION
+AB OBJECTIVES: To assess the quality of life of hospitalized pregnant women with preeclampsia (PE), and compare with a group of healthy pregnant women (HP).
+   METHODS: This was an observational cross-sectional study conducted among 58 pregnant women; 28 of them had preeclampsia and 30 were healthy. The WHOQOL-Bref questionnaire, which was divided into four aspects: physical, psychological, social, and environmental, was applied to each subject.
+   RESULTS: A statistically significant difference was observed regarding maternal age (PE 27.8 6.2 x HG 23.0 +/- 6.6, p < 0.01) and gestational age (PE 224 +/- 28.1 x HG 253.8 +/- 43.7, p < 0.01) in relation to the clinical and obstetric data. No significant difference was observed among groups in the physical (PE 57.7 +/- 18.9 x HG 65.7 +/- 16.6, p=0.19), psychological (PE 68.2 +/- 12.8 x HG 73.3 +/- 13.30, p=0.16), social (PE 72.0 +/- 15.8 x HG 71.7 +/- 18.7, p=0.78), or environmental (PE 61.1 +/- 11.9 x HG 59.3 +/- 15.9, p=0.88) aspects of the WHOQOL-Bref.
+   CONCLUSION: There was no difference in quality of life between the groups studied, a result possibly due to the fact that women with PE were hospitalized and received multiprofessional care.
+C1 [Rangel Machado, Michelle de Souza; Bertagnolli, Tawana Vicente; de Arruda Veiga, Eduardo Carvalho; Duarte, Geraldo; Rangel Machado, Jackeline de Souza; Carvalho, Ricardo] Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Gynecol & Obstretr, Ribeirao Preto, SP, Brazil.
+   [Homsi Ferreira, Cristine Jorge] Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Biomech Med & Rehabil Locmotor Apparat, Ribeirao Preto, SP, Brazil.
+RP Veiga, ECD (corresponding author), Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Gynecol & Obstretr, Ribeirao Preto, SP, Brazil.
+EM eduardo.veiga@fm.usp.br
+CR Bien A, 2016, INT J ENV RES PUB HE, V13, DOI 10.3390/ijerph13010068
+   Brandon AR, 2008, J CLIN PSYCHIAT, V69, P635, DOI 10.4088/JCP.v69n0417
+   Byatt N, 2014, GEN HOSP PSYCHIAT, V36, P644, DOI 10.1016/j.genhosppsych.2014.07.011
+   de Oliveira CS, 2017, REV BRAS GINECOL OBS, V39, P424, DOI 10.1055/s-0037-1604180
+   Eraballi Amaravathi, 2017, Ayu, V38, P102, DOI 10.4103/ayu.AYU_152_17
+   Espinoza J, 2019, OBSTET GYNECOL, V133, pE1, DOI 10.1097/AOG.0000000000003018
+   Ferreira DQ, 2012, REV BRAS GINECOL OBS, V34, P409, DOI 10.1590/S0100-72032012000900004
+   Fleck MPA, 2000, REV SAUDE PUBL, V34, P178, DOI 10.1590/S0034-89102000000200012
+   Foster C, 2018, BRIT J SPORT MED, V52, P484, DOI 10.1136/bjsports-2017-098070
+   Gaiser BK, 2009, ENVIRON HEALTH-GLOB, V8, DOI 10.1186/1476-069X-8-S1-S2
+   Gamble DT, 2019, FRONT CARDIOVASC MED, V6, DOI 10.3389/fcvm.2019.00055
+   Gifford RW, 2000, AM J OBSTET GYNECOL, V183, pS1, DOI 10.1067/mob.2000.107928
+   Haas JS, 2005, J GEN INTERN MED, V20, P45, DOI 10.1111/j.1525-1497.2004.40097.x
+   Milani HS, 2017, J RES MED SCI, V22, DOI 10.4103/jrms.JRMS_319_17
+   Moher D, 2009, BMJ-BRIT MED J, V339, DOI [10.1371/journal.pmed.1000097, 10.1136/bmj.b2535]
+   Mortazavi F, 2014, IRAN RED CRESCENT ME, V16, DOI 10.5812/ircmj.8443
+   Mourady D, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0178181
+   Pantzartzis KA, 2019, QUAL LIFE RES, V28, P1349, DOI 10.1007/s11136-018-2090-2
+   Patricia Medeiros Falcao K, 2016, HYPERTENS PREGNANCY, V35, P306
+   Pillitteri A., 2010, MATERNAL CHILD HLTH
+   Postma IR, 2013, PREGNANCY HYPERTENS, V3, P227, DOI 10.1016/j.preghy.2013.06.003
+   Rezaei Elham, 2013, J Family Reprod Health, V7, P87
+   Rezende CL, 2012, PSICOLOGO INFORM, V16, P45
+   Rodrigues Paula Borba, 2016, Trends Psychiatry Psychother., V38, P136, DOI 10.1590/2237-6089-2015-0067
+   Roncada Cristian, 2015, Rev. paul. pediatr., V33, P267, DOI 10.1016/j.rpped.2015.01.007
+   Say L, 2014, LANCET GLOB HEALTH, V2, pE323, DOI 10.1016/S2214-109X(14)70227-X
+   Stern C, 2014, QUAL LIFE RES, V23, P1019, DOI 10.1007/s11136-013-0525-3
+   von Dadelszen P, 2016, BEST PRACT RES CL OB, V36, P83, DOI 10.1016/j.bpobgyn.2016.05.005
+NR 28
+TC 0
+Z9 0
+U1 1
+U2 1
+PU HOSPITAL CLINICAS, UNIV SAO PAULO
+PI SAO PAULO
+PA FAC MEDICINA, UNIV SAO PAULO, SAO PAULO, SP 00000, BRAZIL
+SN 1807-5932
+EI 1980-5322
+J9 CLINICS
+JI Clinics
+PY 2020
+VL 75
+AR e1951
+DI 10.6061/clinics/2020/e1951
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA ON6RR
+UT WOS:000586826000001
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Hoffman, RM
+   Warshaw, MG
+   Amico, KR
+   Pilotto, J
+   Masheto, G
+   Achalapong, J
+   Machado, E
+   Chokephaibulkit, K
+   Duarte, G
+   Joao, E
+   Graham, KK
+   Knapp, KM
+   Stek, AM
+   Scott, GB
+   Coletti, A
+   Loftis, AJ
+   Chakhtoura, N
+   Currier, JS
+AF Hoffman, Risa M.
+   Warshaw, Meredith G.
+   Amico, K. Rivet
+   Pilotto, Jose
+   Masheto, Gaerolwe
+   Achalapong, Jullapong
+   Machado, Elizabeth
+   Chokephaibulkit, Kulkanya
+   Duarte, Geraldo
+   Joao, Esau
+   Graham, Kathleen K.
+   Knapp, Katherine M.
+   Stek, Alice M.
+   Scott, Gwendolyn B.
+   Coletti, Anne
+   Loftis, Amy J.
+   Chakhtoura, Nahida
+   Currier, Judith S.
+CA PROMISE 1077HS Team
+TI Predictors of Viremia in Postpartum Women on Antiretroviral Therapy
+SO JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES
+LA English
+DT Article; Proceedings Paper
+CT Conference on Retroviruses and Opportunistic Infections (CROI)
+CY MAR 03-07, 2018
+CL Boston, MA
+DE HIV; AIDS; ART; postpartum; adherence; viremia
+ID OPTION B PLUS; DRUG-RESISTANCE; HIV; ADHERENCE; PREGNANCY;
+   LOPINAVIR/RITONAVIR; CARE; INITIATION; PATTERNS; FAILURE
+AB Background: HIV-infected, postpartum women on antiretroviral therapy (ART) have high rates of viremia. We examined predictors of postpartum viremia in the PROMISE study. Methods: Women with pre-ART CD4(+) T-cell counts >= 400 cells/mm(3) who started ART during pregnancy were randomized postpartum to continue ART (CTART) or discontinue ART (DCART). Viral load and self-reported adherence were collected every 12 weeks, up to 144 weeks. Women in DCART reinitiated therapy when clinically indicated. Viremia was defined as 2 consecutive viral loads >1000 copies/mL after 24 weeks on ART. Adherence was dichotomized as missing versus not missing ART doses in the past 4 weeks. Predictors of viremia were examined using Cox proportional hazards regression with adherence as a time-varying covariate. Results: Among 802 women in the CTART arm, median age at entry was 27 years and median CD4(+) T-cell count 696 cells/mm(3). Of 175 women in CTART with viremia (22%), 141 had resistance data, and 12% had resistance to their current regimen. There was an estimated 0.12 probability of viremia by week 48 and 0.25 by week 144. Predictors of viremia included missed ART doses within the past 4 weeks, younger age, shorter duration of pre-entry ART, and being from the South American/Caribbean region. Of 137 women in DCART who reinitiated therapy, probability of viremia was similar to CTART (0.24 by week 96; 0.27 by week 144). Conclusions: Rates of postpartum viremia are high and viremia is more likely in younger postpartum women who start ART later in pregnancy. Interventions should target these higher-risk women.
+C1 [Hoffman, Risa M.; Currier, Judith S.] Univ Calif Los Angeles, David Geffen Sch Med, Div Infect Dis, Los Angeles, CA 90095 USA.
+   [Warshaw, Meredith G.] Harvard TH Chan Sch Publ Hlth, Ctr Biostat AIDS Res, Boston, MA USA.
+   [Amico, K. Rivet] Univ Michigan, Sch Publ Hlth, Hlth Behav & Hlth Educ, Ann Arbor, MI 48109 USA.
+   [Pilotto, Jose] Fundacao Oswaldo Cruz, IOC Lab AIDS & Imunol Mol, JP, Rio De Janeiro, Brazil.
+   [Masheto, Gaerolwe] Botswana Harvard AIDS Inst Partnership, Gaborone, Botswana.
+   [Achalapong, Jullapong] Chiang Rai Prachanukroh Hosp, Chiang Rai, Thailand.
+   [Machado, Elizabeth] Univ Fed Rio de Janeiro, Inst Puericultura & Pediat Martagao Gesteira, Rio De Janeiro, Brazil.
+   [Chokephaibulkit, Kulkanya] Mahidol Univ, Siriraj Hosp, Fac Med, Bangkok, Thailand.
+   [Duarte, Geraldo] Univ Sao Paulo, Ribeirao Preto Med Sch, Ribeirao Preto, SP, Brazil.
+   [Joao, Esau] Hosp Fed Servidores Estado, Infect Dis Dept, Rio De Janeiro, RJ, Brazil.
+   [Graham, Kathleen K.] Childrens Diagnost & Treatment Ctr, Ft Lauderdale, FL USA.
+   [Knapp, Katherine M.] St Jude Childrens Res Hosp, Dept Infect Dis, 332 N Lauderdale St, Memphis, TN 38105 USA.
+   [Stek, Alice M.] Univ Southern Calif, Sch Med, Dept Obstet & Gynecol, Los Angeles, CA 90007 USA.
+   [Scott, Gwendolyn B.] Univ Miami, Sch Med, Miami, FL USA.
+   [Coletti, Anne] FHI 360, Durham, NC USA.
+   [Loftis, Amy J.] Univ N Carolina, Inst Global Hlth & Infect Dis, Chapel Hill, NC 27515 USA.
+   [Chakhtoura, Nahida] Eunice Kennedy Shriver Natl Inst Child Hlth & Hum, NIH, Bethesda, MD USA.
+   NIAID, RB, KK DAIDS, NIH, 9000 Rockville Pike, Bethesda, MD 20892 USA.
+RP Hoffman, RM (corresponding author), Univ Calif Los Angeles, Div Infect Dis, Dept Med, David Geffen Sch Med, 10833 Le Conte Ave 37-121 CHS, Los Angeles, CA 90095 USA.
+EM rhoffman@mednet.ucla.edu
+RI Knapp, Katherine M/B-4273-2019; Pilotto, Jose Henrique/AAD-9773-2019
+OI Knapp, Katherine M/0000-0002-8474-3359; Pilotto, Jose
+   Henrique/0000-0003-0521-8597; Joao, Esau/0000-0002-2412-0627
+FU National Institute of Allergy and Infectious Diseases (NIAID) of the
+   National Institutes of Health (NIH)United States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH National
+   Institute of Allergy & Infectious Diseases (NIAID) [UM1AI068632,
+   UM1AI068616, UM1AI106716]; Eunice Kennedy Shriver National Institute of
+   Child Health and Human Development (NICHD)United States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   Eunice Kennedy Shriver National Institute of Child Health & Human
+   Development (NICHD); National Institute of Mental Health (NIMH)United
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH National Institute of Mental Health (NIMH);
+   National Institute of Allergy and Infectious Diseases (NIAID)United
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH National Institute of Allergy & Infectious
+   Diseases (NIAID); National Institute of Mental Health (NIMH), National
+   Institutes of Health (NIH)United States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Mental Health (NIMH) [UM1AI068632, UM1AI068616, UM1AI106716];
+   NICHDUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD)
+   [HHSN275201800001I]; Kennedy Shriver National Institute of Child Health
+   and Human Development (NICHD), National Institutes of Health (NIH)
+   [UM1AI068632, UM1AI068616, UM1AI106716];  [5UM1AI068636]
+FX Overall support for the International Maternal Pediatric Adolescent AIDS
+   Clinical Trials (IMPAACT) Network was provided by the National Institute
+   of Allergy and Infectious Diseases (NIAID) of the National Institutes of
+   Health (NIH) under Award Numbers UM1AI068632 (IMPAACT LOC), UM1AI068616
+   (IMPAACT SDMC) and UM1AI106716 (IMPAACT LC), with co-funding from the
+   Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development (NICHD) and the National Institute of Mental Health (NIMH).
+   Overall support for the AIDS Clinical Trials Group (ACTG) 5UM1AI068636.
+   Overall support for the International Maternal Pediatric Adolescent AIDS
+   Clinical Trials Network (IMPAACT) was provided by the National Institute
+   of Allergy and Infectious Diseases (NIAID) with co-funding from the
+   Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development (NICHD) and the National Institute of Mental Health (NIMH),
+   all components of the National Institutes of Health (NIH), under Award
+   Numbers UM1AI068632 (IMPAACT LOC), UM1AI068616 (IMPAACT SDMC), and
+   UM1AI106716 (IMPAACT LC), and by NICHD contract number
+   HHSN275201800001I. The content is solely the responsibility of the
+   authors and does not necessarily represent the official views of the
+   NIH. The study products were provided free of charge by AbbVie,
+   Bristol-Myers Squibb, Gilead Sciences, GlaxoSmithKline/ViiV, and Merck
+   and Company.
+CR [Anonymous], 2010, REC US ANT DRUGS PRE, P1
+   Azale T, 2016, BMC PSYCHIATRY, V16, DOI 10.1186/s12888-016-0892-8
+   Barber TJ, 2012, J ANTIMICROB CHEMOTH, V67, P995, DOI 10.1093/jac/dkr569
+   Chesney MA, 2000, AIDS CARE, V12, P255, DOI 10.1080/09540120050042891
+   Currier JS, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0176009
+   Erlwanger AS, 2017, JAIDS-J ACQ IMM DEF, V75, pS198, DOI [10.1097/QAI.0000000000001347, 10.1097/qai.0000000000001347]
+   Haas AD, 2016, CLIN INFECT DIS, V63, P1227, DOI 10.1093/cid/ciw500
+   Hodgson I, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0111421
+   Hosseinipour M, 2017, JAIDS-J ACQ IMM DEF, V75, pS149, DOI 10.1097/qai.0000000000001368
+   Katz IT, 2015, AIDS BEHAV, V19, P704, DOI 10.1007/s10461-014-0920-y
+   Kim MH, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149527
+   Kreitchmann R, 2016, INT J STD AIDS, V27, P377, DOI 10.1177/0956462415584483
+   Kreitchmann R, 2012, AIDS PATIENT CARE ST, V26, P486, DOI 10.1089/apc.2012.0013
+   Lambert RF, 2018, AIDS BEHAV, V22, P733, DOI 10.1007/s10461-017-1704-y
+   Lathouwers E, 2011, ANTIVIR THER, V16, P99, DOI 10.3851/IMP1719
+   Levy JM, 2009, REPROD HEALTH MATTER, V17, P152, DOI 10.1016/S0968-8080(09)33436-9
+   Lundgren D, 2015, NEW ENGL J MED, V373, P795, DOI 10.1056/NEJMoa1506816
+   Mancinelli S, 2016, AIDS RES HUM RETROV, V32, P737, DOI [10.1089/aid.2015.0366, 10.1089/AID.2015.0366]
+   McLean E, 2017, SEX TRANSM INFECT, V93, DOI 10.1136/sextrans-2016-052972
+   Molina JM, 2010, JAIDS-J ACQ IMM DEF, V53, P323, DOI 10.1097/QAI.0b013e3181c990bf
+   Musheke M, 2013, AIDS PATIENT CARE ST, V27, P231, DOI 10.1089/apc.2012.0341
+   Myer L, 2018, PLOS MED, V15, DOI 10.1371/journal.pmed.1002547
+   Myer L, 2017, J INT AIDS SOC, V20, DOI 10.7448/IAS.20.5.21636
+   Myer L, 2017, CLIN INFECT DIS, V64, P422, DOI 10.1093/cid/ciw792
+   Nachega JB, 2012, AIDS, V26, P2039, DOI 10.1097/QAD.0b013e328359590f
+   Nance N, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181919
+   Ngarina M, 2015, BMC INFECT DIS, V15, DOI 10.1186/s12879-015-0914-z
+   Okawa S, 2015, BMC PREGNANCY CHILDB, V15, DOI 10.1186/s12884-015-0697-7
+   Onoya D, 2017, AIDS, V31, P1593, DOI 10.1097/QAD.0000000000001517
+   Villegas L, 2011, J RURAL HEALTH, V27, P278, DOI 10.1111/j.1748-0361.2010.00339.x
+   Vitalis D, 2013, INT J STD AIDS, V24, P427, DOI 10.1177/0956462412472807
+   WHO &VERBAR; World Health Organization, PREV MOTH CHILD TRAN
+   Yator O, 2016, AIDS CARE, V28, P884, DOI 10.1080/09540121.2016.1160026
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 1525-4135
+EI 1077-9450
+J9 JAIDS-J ACQ IMM DEF
+JI JAIDS
+PD JAN 1
+PY 2020
+VL 83
+IS 1
+BP 72
+EP 80
+DI 10.1097/QAI.0000000000002228
+PG 9
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA LB0YI
+UT WOS:000524363000011
+PM 31651545
+OA Green Accepted, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Moreira, FD
+   Marques, MP
+   Duarte, G
+   Lanchote, VL
+AF Moreira, Fernanda de Lima
+   Marques, Maria Paula
+   Duarte, Geraldo
+   Lanchote, Vera Lucia
+TI Determination of raltegravir and raltegravir glucuronide in human plasma
+   and urine by LC-MS/MS with application in a maternal-fetal
+   pharmacokinetic study
+SO JOURNAL OF PHARMACEUTICAL AND BIOMEDICAL ANALYSIS
+LA English
+DT Article
+DE Raltegravir; Raltegravir glucuronide; LC-MS/MS; Pregnancy
+ID ANTIRETROVIRAL AGENTS; QUANTITATIVE-ANALYSIS; ETRAVIRINE; VALIDATION;
+   MARAVIROC; TENOFOVIR; DARUNAVIR; SAFETY
+AB Raltegravir (RAL) is a HIV-integrase inhibitor recommended for treatment of HIV type 1 infection during pregnancy. The elimination of RAL to RAL glucuronide (RAL GLU) is mediated primarily by UDP glucuronosyltransferase 1A1 (UGT1A1). The present study shows the development and validation of 4 different methods for the analysis of RAL and RAL GLU in plasma and in urine samples. The methods were applied to evaluate the maternal-fetal pharmacokinetics of RAL and RAL GLU in a HIV-infected pregnant woman receiving RAL 400 mg twice daily. The sample preparation for RAL and RAL GLU analysis in 25 mu L plasma and 100 mu L diluted urine (10-fold with water containing 0.1% formic acid) were carried out by protein precipitation procedure. RAL and RAL GLU generate similar product mass fragments and require separation in the chromatographic system, so a suitable resolution was achieved for unchanged RAL and RAL GLU employing Ascentis Express C18 (75 x 4.6 mm, 2.7 mu m) for both plasma and urine samples. The methods showed linearities at the ranges of 0.1-13.5 mu g/mL RAL and 0.15-19.5 mu g/mL RAL GLU in urine and 10-2000 ng/mL RAL and 2.5-800 RAL GLU in plasma. Precise and accurate evaluation showed coefficients of variation and relative errors <= 15%. The methods have been successfully applied in a maternal-fetal pharmacokinetic study. (C) 2019 Published by Elsevier B.V.
+C1 [Moreira, Fernanda de Lima; Marques, Maria Paula; Lanchote, Vera Lucia] Univ Sao Paulo, Dept Anal Clin Toxicol & Bromatol, Fac Ciencias Farmaceut Ribeirao Preto, Ribeirao Preto, SP, Brazil.
+   [Duarte, Geraldo] Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Obstet & Ginecol, Ribeirao Preto, SP, Brazil.
+RP Lanchote, VL (corresponding author), Univ Sao Paulo, Fac Ciencias Farmaceut Ribeirao Preto, Dept Anal Clin Toxicol & Bromatol, Ave Cafe S-N Campus USP, BR-14040903 Ribeirao Preto, SP, Brazil.
+EM lanchote@fcfrp.usp.br
+RI Moreira, Fernanda L/G-4393-2015; Lanchote, Vera Lucia/P-5925-2016
+OI Moreira, Fernanda L/0000-0001-7699-2665; Lanchote, Vera
+   Lucia/0000-0002-0074-4953
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)Fundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) [FAPESP 2016/23938-2,
+   2018/05616-3]
+FX The authors thank the Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP) for financial support (grant number FAPESP 2016/23938-2
+   and 2018/05616-3).
+CR Arab-Alameddine M, 2012, ANTIMICROB AGENTS CH, V56, P2959, DOI 10.1128/AAC.05424-11
+   Belkhir L, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-25803-z
+   Blakney AK, 2016, J CHROMATOGR B, V1025, P110, DOI 10.1016/j.jchromb.2016.04.048
+   Blonk MI, 2015, CLIN INFECT DIS, V61, P809, DOI 10.1093/cid/civ366
+   Burger DM, 2010, EXPERT OPIN DRUG MET, V6, P1151, DOI 10.1517/17425255.2010.513383
+   Cattaneo D, 2012, J ANTIMICROB CHEMOTH, V67, P460, DOI 10.1093/jac/dkr498
+   Croci L, 2012, EUR J CLIN PHARMACOL, V68, P1231, DOI 10.1007/s00228-012-1250-5
+   Department of Natural Resources and Ecology of the Voronezh Region, 2018, REC US ANT DRUGS PRE, P1
+   Djerada Z, 2013, J PHARMACEUT BIOMED, V86, P100, DOI 10.1016/j.jpba.2013.08.002
+   European Medicines Agency, 2017, EMAS FIN OP CONF RES, P1
+   Fayet A, 2009, J CHROMATOGR B, V877, P1057, DOI 10.1016/j.jchromb.2009.02.057
+   Hegazi A, 2013, INT J STD AIDS, V24, P245, DOI 10.1258/ijsa.2012.012121
+   Hernandez-Novoa B, 2014, J ANTIMICROB CHEMOTH, V69, P471, DOI 10.1093/jac/dkt386
+   Jourdil JF, 2009, J CHROMATOGR B, V877, P3734, DOI 10.1016/j.jchromb.2009.08.031
+   Kassahun K, 2007, DRUG METAB DISPOS, V35, P1657, DOI 10.1124/dmd.107.016196
+   Maliakkal A, 2016, JAIDS-J ACQ IMM DEF, V72, P153, DOI 10.1097/QAI.0000000000000932
+   Ministerio da Saude do Brasil, 2018, PROT CLIN DIR TER PR, P1
+   Neely M, 2010, ANTIMICROB AGENTS CH, V54, P4619, DOI 10.1128/AAC.00712-10
+   Parsons TL, 2016, J PHARMACEUT BIOMED, V131, P333, DOI 10.1016/j.jpba.2016.08.016
+   Quaranta S, 2009, THER DRUG MONIT, V31, P695, DOI 10.1097/FTD.0b013e3181c05adf
+   ter Heine R, 2009, J PHARMACEUT BIOMED, V49, P451, DOI 10.1016/j.jpba.2008.11.025
+   ter Heine R, 2011, BIOANALYSIS, V3, P1093, DOI 10.4155/BIO.11.72
+   Tsuchiya K, 2018, BIOMED CHROMATOGR, V32, DOI 10.1002/bmc.4058
+   Wang LZ, 2011, J MASS SPECTROM, V46, P202, DOI 10.1002/jms.1874
+   Watts DH, 2014, JAIDS-J ACQ IMM DEF, V67, P375, DOI 10.1097/QAI.0000000000000318
+   Yamada E, 2015, J PHARMACEUT BIOMED, V114, P390, DOI 10.1016/j.jpba.2015.06.005
+NR 26
+TC 2
+Z9 2
+U1 2
+U2 9
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0731-7085
+EI 1873-264X
+J9 J PHARMACEUT BIOMED
+JI J. Pharm. Biomed. Anal.
+PD JAN 1
+PY 2020
+VL 177
+AR 112838
+DI 10.1016/j.jpba.2019.112838
+PG 9
+WC Chemistry, Analytical; Pharmacology & Pharmacy
+SC Chemistry; Pharmacology & Pharmacy
+GA JK9HA
+UT WOS:000495148000039
+PM 31525573
+DA 2020-12-09
+ER
+
+PT J
+AU Souza, MCO
+   Marques, MP
+   Duarte, G
+   Lanchote, VL
+AF Oliveira Souza, Marilia Cristina
+   Marques, Maria Paula
+   Duarte, Geraldo
+   Lanchote, Vera Lucia
+TI Pharmacokinetics and Placental Transfer of Bupivacaine Enantiomers in
+   HIV-Infected Parturient Women on Antiretroviral Therapy
+SO JOURNAL OF CLINICAL PHARMACOLOGY
+LA English
+DT Article; Early Access
+DE bupivacaine; enantiomers; HIV; parturient; pharmacokinetic
+ID P-GLYCOPROTEIN; DISPOSITION; PREGNANCY; METABOLISM; EXPRESSION;
+   INFUSION; EFFICACY; LABOR
+AB Bupivacaine, a local anesthetic, is commercialized as a racemic mixture of R-bupivacaine and S-bupivacaine enantiomers. HIV infection increases the expression of placental P-glycoprotein (P-gp), and antiretroviral (ARV) therapy inhibits cytochrome P450 3A and P-gp. The present study evaluates the kinetic disposition of bupivacaine enantiomers in HIV-infected parturient women on ARV therapy. In this study, HIV-infected parturient women (n = 10) treated with zidovudine, lamivudine, lopinavir, and ritonavir were investigated. Anesthesia and/or analgesia was achieved by the administration of 0.5% racemic bupivacaine hydrochloride with 1:200000 epinephrine in the epidural space at doses of 2.5 to 22.5 mg. Maternal serial blood samples were obtained at the time immediately before and 5, 15, 30, 45, and 60 minutes and 2, 4, 6, 8, 10, 12, and 14 hours after administration of the bupivacaine. At the time of delivery, samples of maternal and umbilical cord vein blood were also collected. The results suggest that bupivacaine pharmacokinetics are enantioselective, revealing higher maternal plasma concentrations of the R-bupivacaine enantiomer (area under the total plasma concentration-time curve was calculated by the trapezoid method with extrapolation to infinity/dose((S)/(R)) = 0.91; P < .05). The plasma unbound fraction of the drug (0.09 vs 0.06) and the umbilical cord vein/maternal plasma ratio (0.47 vs 0.39) were higher for the R-bupivacaine enantiomer than the S-bupivacaine enantiomer (P < .05). ARV therapy with ritonavir confers an enantioselective interaction between the enantiomers of bupivacaine and placental P-gp, producing greater inhibition of efflux transport of the R-bupivacaine enantiomer. Possible changes in the well-being of the fetuses of mothers under analgesia may be a consequence of the increased placental transfer of bupivacaine enantiomers to the fetal circulation.
+C1 [Oliveira Souza, Marilia Cristina; Marques, Maria Paula; Lanchote, Vera Lucia] Univ Sao Paulo, Dept Clin Toxicol & Bromatol Anal, Sch Pharmaceut Sci Ribeirao Preto, Sao Paulo, Brazil.
+   [Duarte, Geraldo] Univ Sao Paulo, Dept Gynecol & Obstet, Ribeirao Preto Med Sch, Sao Paulo, Brazil.
+RP Lanchote, VL (corresponding author), Univ Sao Paulo, Fac Ciencias Farmaceut Ribeirao Preto, Dept Anal Clin Toxicol & Bromatol, Ave Cafe S-N,Campus USP, BR-14040903 Ribeirao Preto, SP, Brazil.
+EM lanchote@fcfrp.usp.br
+RI Souza, Marilia/F-9352-2019; Lanchote, Vera Lucia/P-5925-2016
+OI Souza, Marilia/0000-0002-2947-992X; Lanchote, Vera
+   Lucia/0000-0002-0074-4953
+FU Sao Paulo Research Foundation (FAPESP)Fundacao de Amparo a Pesquisa do
+   Estado de Sao Paulo (FAPESP) [2013/06708-5]
+FX This research was supported in part by the Sao Paulo Research Foundation
+   (FAPESP, grant numbers 2013/06708-5).
+CR Abalos E, 2018, EUR J OBSTET GYN R B, V223, P123, DOI 10.1016/j.ejogrb.2018.02.026
+   Abduljalil K, 2012, CLIN PHARMACOKINET, V51, P365, DOI 10.2165/11597440-000000000-00000
+   Anderson GD, 2005, CLIN PHARMACOKINET, V44, P989, DOI 10.2165/00003088-200544100-00001
+   Camus M, 2006, PLACENTA, V27, P699, DOI 10.1016/j.placenta.2005.08.001
+   Ceccaldi PF, 2009, OBSTET GYNECOL INT, V2009, P1, DOI DOI 10.1155/2009/726593
+   Ceckova-Novotna M, 2006, REPROD TOXICOL, V22, P400, DOI 10.1016/j.reprotox.2006.01.007
+   Cheng YW, 2014, OBSTET GYNECOL, V123, P527, DOI 10.1097/AOG.0000000000000134
+   Chintamaneni P, 2016, J CLIN ANESTH, V32, P137, DOI 10.1016/j.jclinane.2016.01.035
+   Cox CR, 1998, BRIT J ANAESTH, V80, P289
+   Duarte LD, 2011, J CLIN PHARMACOL, V51, P212, DOI 10.1177/0091270010365551
+   Food and DrugAdnrinistration US Department. of Health and Human Services, 2018, BIOAN METH VAL
+   Gabrielsson J., 2000, PHARMACOKINETIC PHAR
+   Gantenbein M, 2000, DRUG METAB DISPOS, V28, P383
+   Gulati A, 2009, J PHARM SCI-US, V98, P2317, DOI 10.1002/jps.21623
+   Isoherranen N, 2013, DRUG METAB DISPOS, V41, P256, DOI 10.1124/dmd.112.050245
+   Kharasch ED, 2008, CLIN PHARMACOL THER, V84, P506, DOI 10.1038/clpt.2008.102
+   Knoppert D, 2011, J POPUL THER CLIN PH, V18, pE509
+   Li X, 2014, Drug Res (Stuttg), V64, P675, DOI 10.1055/s-0034-1368716
+   Souza MCO, 2019, J PHARMACEUT BIOMED, V164, P268, DOI 10.1016/j.jpba.2018.10.040
+   Pal D, 2011, LIFE SCI, V88, P959, DOI 10.1016/j.lfs.2010.09.012
+   Papini O, 2004, CHIRALITY, V16, P65, DOI 10.1002/chir.10308
+   Ribeiro RMP, 2018, BRIT J CLIN PHARMACO, V84, P2415, DOI 10.1111/bcp.13700
+   Sakugawa T, 2009, BRIT J CLIN PHARMACO, V67, P535, DOI 10.1111/j.1365-2125.2009.03396.x
+   Scott DA, 1997, ANESTH ANALG, V85, P1322, DOI 10.1097/00000539-199712000-00026
+   Sidebotham DA, 1997, CLIN EXP PHARMACOL P, V24, P126, DOI 10.1111/j.1440-1681.1997.tb01794.x
+   Sudhakaran S, 2008, BRIT J CLIN PHARMACO, V65, P667, DOI 10.1111/j.1365-2125.2007.03067.x
+   ter Heine R, 2011, J PHARM SCI-US, V100, P2508, DOI 10.1002/jps.22457
+   Valenzuela C, 2012, CHIRALITY, V24, P944, DOI 10.1002/chir.22051
+   Varma MVS, 2003, PHARMACOL RES, V48, P347, DOI 10.1016/S1043-6618(03)00158-0
+   Veering BT, 2002, ANESTHESIOLOGY, V96, P1062, DOI 10.1097/00000542-200205000-00006
+   Wu YT, 2010, INT J PHARMACEUT, V396, P127, DOI 10.1016/j.ijpharm.2010.06.038
+   Zhang J, 2010, OBSTET GYNECOL, V116, P1281, DOI 10.1097/AOG.0b013e3181fdef6e
+NR 32
+TC 0
+Z9 0
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0091-2700
+EI 1552-4604
+J9 J CLIN PHARMACOL
+JI J. Clin. Pharmacol.
+DI 10.1002/jcph.1554
+EA NOV 2019
+PG 7
+WC Pharmacology & Pharmacy
+SC Pharmacology & Pharmacy
+GA JK2FI
+UT WOS:000494662200001
+PM 31696528
+DA 2020-12-09
+ER
+
+EF

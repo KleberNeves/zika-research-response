@@ -1,0 +1,519 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Souza, TML
+   Vieira, YR
+   Delatorre, E
+   Barbosa-Lima, G
+   Luiz, RLF
+   Vizzoni, A
+   Jain, K
+   Miranda, MM
+   Bhuva, N
+   Gogarten, JF
+   Ng, J
+   Thakkar, R
+   Calheiros, AS
+   Monteiro, APT
+   Bozza, PT
+   Bozza, FA
+   Tschoeke, DA
+   Leomil, L
+   de Mendonca, MCL
+   Rodrigues, CDD
+   Torres, MC
+   de Filippis, AMB
+   Nogueira, RMR
+   Thompson, FL
+   Lemos, C
+   Durovni, B
+   Cerbino-Neto, J
+   Morel, CM
+   Lipkin, WI
+   Mishra, N
+AF Souza, Thiago Moreno L.
+   Vieira, Yasmine Rangel
+   Delatorre, Edson
+   Barbosa-Lima, Giselle
+   Faria Luiz, Raul Leal
+   Vizzoni, Alexandre
+   Jain, Komal
+   Miranda, Milene Mesquita
+   Bhuva, Nishit
+   Gogarten, Jan F.
+   Ng, James
+   Thakkar, Riddhi
+   Calheiros, Andrea Surrage
+   Teixeira Monteiro, Ana Paula
+   Bozza, Patricia T.
+   Bozza, Fernando A.
+   Tschoeke, Diogo A.
+   Leomil, Luciana
+   Lima de Mendonca, Marcos Cesar
+   dos Santos Rodrigues, Cintia Damasceno
+   Torres, Maria C.
+   Bispo de Filippis, Ana Maria
+   Ribeiro Nogueira, Rita Maria
+   Thompson, Fabiano L.
+   Lemos, Cristina
+   Durovni, Betina
+   Cerbino-Neto, Jose
+   Morel, Carlos M.
+   Lipkin, W. Ian
+   Mishra, Nischay
+TI Emergence of the East-Central-South-African genotype of Chikungunya
+   virus in Brazil and the city of Rio de Janeiro may have occurred years
+   before surveillance detection
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID ZIKA VIRUS; PHYLOGENETIC ANALYSES; POPULATION-DYNAMICS; MODEL;
+   TRANSMISSION; INFERENCE; ACCURACY
+AB Brazil, which is hyperendemic for dengue virus DENV), has had recent Zika ZIKV) and CHIKV) Chikungunya virus outbreaks. Since March 2016, CHIKV is the arbovirus infection most frequently diagnosed in Rio de Janeiro. In the analysis of 1835 syndromic patients, screened by real time RT-PCR, 56.4% of the cases were attributed to CHIKV, 29.6% to ZIKV, and 14.1% to DENV-4. Sequence analyses of CHIKV from sixteen samples revealed that the East-Central-South-African ECSA) genotype of CHIKV has been circulating in Brazil since 2013 [95% bayesian credible interval BCI): 03/2012-10/2013], almost a year before it was detected by arbovirus surveillance program. Brazilian cases are related to Central African Republic sequences from 1980's. To the best of our knowledge, given the available sequence published here and elsewhere, the ECSA genotype was likely introduced to Rio de Janeiro early on 2014 02/2014; BCI: 07/2013-08/2014) through a single event, after primary circulation in the Bahia state at the Northestern Brazil in the previous year. The observation that the ECSA genotype of CHIKV was circulating undetected underscores the need for improvements in molecular methods for viral surveillance.
+C1 [Souza, Thiago Moreno L.; Vieira, Yasmine Rangel; Barbosa-Lima, Giselle; Faria Luiz, Raul Leal; Vizzoni, Alexandre; Bozza, Fernando A.; Cerbino-Neto, Jose] Fundacao Oswaldo Cruz Fiocruz, INI, Rio De Janeiro, RJ, Brazil.
+   [Jain, Komal; Bhuva, Nishit; Gogarten, Jan F.; Ng, James; Thakkar, Riddhi; Lipkin, W. Ian; Mishra, Nischay] Columbia Univ, Mailman Sch Publ Hlth, Ctr Infect & Immun, New York, NY 10027 USA.
+   [Delatorre, Edson] Fiocruz MS, IOC, Lab AIDS & Imunol Mol, Rio De Janeiro, RJ, Brazil.
+   [Miranda, Milene Mesquita] Fiocruz MS, IOC, Lab Virus Resp & Sarampo, Rio De Janeiro, RJ, Brazil.
+   [Souza, Thiago Moreno L.; Calheiros, Andrea Surrage; Teixeira Monteiro, Ana Paula; Bozza, Patricia T.] Fiocruz MS, IOC, Lab Imunofarmacol, Rio De Janeiro, RJ, Brazil.
+   [Bozza, Fernando A.] DOr Inst Res & Educ IDOR, Rio De Janeiro, RJ, Brazil.
+   [Tschoeke, Diogo A.; Leomil, Luciana; Thompson, Fabiano L.] Univ Fed Rio De Janeiro UFRJ, Inst Biol, Rio De Janeiro, RJ, Brazil.
+   [Lima de Mendonca, Marcos Cesar; dos Santos Rodrigues, Cintia Damasceno; Torres, Maria C.; Bispo de Filippis, Ana Maria; Ribeiro Nogueira, Rita Maria] Fiocruz MS, IOC, Lab Flavivirus, Rio De Janeiro, RJ, Brazil.
+   [Thompson, Fabiano L.] Univ Fed Rio de Janeiro, SAGE COPPE, Rio de Janeiro, RJ, Brazil.
+   [Lemos, Cristina; Durovni, Betina] Secretaria Municipal Saude, Rio De Janeiro, RJ, Brazil.
+   [Souza, Thiago Moreno L.; Morel, Carlos M.] Fiocruz MS, Ctr Technol Dev Hlth CDTS, Natl Inst Sci & Technol Innovat Dis Neglected Pop, INCT IDPN, Rio De Janeiro, RJ, Brazil.
+   [Gogarten, Jan F.] Robert Koch Inst, Epidemiol Highly Pathogen Microorganisms, Berlin, Germany.
+   [Gogarten, Jan F.] Free Univ Berlin, Inst Microbiol & Epizoot, Berlin, Germany.
+RP Lipkin, WI (corresponding author), Columbia Univ, Mailman Sch Publ Hlth, Ctr Infect & Immun, New York, NY 10027 USA.
+EM wil2001@cumc.columbia.edu
+RI Neto, Jose Cerbino/P-3713-2018; Lipkin, W. Ian/ABE-6216-2020; Delatorre,
+   Edson/J-8330-2015; Leomil, Luciana/O-4860-2019; Morel,
+   Carlos/Q-9657-2019; Tschoeke, Diogo A/F-9913-2019; Vizzoni,
+   Alexandre/W-8718-2019; Bozza, Fernando A/A-2618-2013; Monteiro, Ana
+   Paula T/L-9540-2013
+OI Neto, Jose Cerbino/0000-0001-9254-917X; Lipkin, W.
+   Ian/0000-0002-8768-9386; Delatorre, Edson/0000-0002-5746-0820; Morel,
+   Carlos/0000-0003-2752-0009; Tschoeke, Diogo A/0000-0001-8134-4259;
+   Vizzoni, Alexandre/0000-0003-0004-5084; Bozza, Fernando
+   A/0000-0003-4878-0256; Thompson, Fabiano/0000-0002-7562-1683; Souza,
+   Thiago/0000-0003-2212-3899; Bozza, Patricia/0000-0001-8349-9529
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil
+   (CAPES)CAPES [001]; Coordenacao de Aperfeicoamento de Pessoal de Nivel
+   Superior - Brasil (CAPES)CAPES; National Council for Scientific and
+   Technological Development (CNPq), Ministry of Science, Technology,
+   Information and Communications [465313/2014-0]; Ministry of
+   Education/CAPESCAPES [465313/2014-0]; Research Foundation of the State
+   of Rio de Janeiro/FAPERJCarlos Chagas Filho Foundation for Research
+   Support of the State of Rio de Janeiro (FAPERJ) [465313/2014-0]; Oswaldo
+   Cruz Foundation/FIOCRUZ; National Institutes of HealthUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USA [U19 AI109761]; DAADDeutscher Akademischer Austausch Dienst
+   (DAAD); German Federal Ministry of Education and Research (BMBF)Federal
+   Ministry of Education & Research (BMBF); People Programme (Marie Curie
+   Actions) of the European Union's Seventh Framework Programme
+   (FP7/2007-2013) under REAEuropean Union (EU) [605728]; NATIONAL
+   INSTITUTE OF ALLERGY AND INFECTIOUS DISEASESUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Allergy & Infectious Diseases (NIAID)
+   [U19AI109761, U19AI109761, U19AI109761, U19AI109761, U19AI109761,
+   U19AI109761, U19AI109761, U19AI109761, U19AI109761, U19AI109761,
+   U19AI109761, U19AI109761, U19AI109761, U19AI109761, U19AI109761,
+   U19AI109761, U19AI109761, U19AI109761, U19AI109761] Funding Source: NIH
+   RePORTER
+FX We appreciate the contribution from Rio de Janeiro's city surveillance
+   SMS-RJ. This study was financed in part by the Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior - Brasil (CAPES) - Finance
+   Code 001. YRV and ED are funded by fellowships from the Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior - Brasil (CAPES). Funding
+   was also provided by National Council for Scientific and Technological
+   Development (CNPq), Ministry of Science, Technology, Information and
+   Communications (No. 465313/2014-0); Ministry of Education/CAPES (No.
+   465313/2014-0); Research Foundation of the State of Rio de
+   Janeiro/FAPERJ (No. 465313/2014-0) and Oswaldo Cruz Foundation/FIOCRUZ.
+   The study was also supported by the National Institutes of Health (U19
+   AI109761) to N.M., W.I.L., K.J., R.T., J.N., N.B. at the Center for
+   Infection and Immunity at Columbia University, New York; and J.F.G. is a
+   fellow working at CII who was supported by the DAAD with funds from the
+   German Federal Ministry of Education and Research (BMBF) and the People
+   Programme (Marie Curie Actions) of the European Union's Seventh
+   Framework Programme (FP7/2007-2013) under REA grant agreement no 605728
+   (P.R.I.M.E. - Postdoctoral Researchers International Mobility
+   Experience). Funders had no role in the experiment design or
+   interpretation.
+CR [Anonymous], 1969, B EP SECR VIG SAUD
+   Baele G, 2012, MOL BIOL EVOL, V29, P2157, DOI 10.1093/molbev/mss084
+   Benson DA, 2013, NUCLEIC ACIDS RES, V41, pD36, DOI [10.1093/nar/gkr1202, 10.1093/nar/gkt1030, 10.1093/nar/gks1195]
+   Briese T, 2015, MBIO, V6, DOI 10.1128/mBio.01491-15
+   Conteville LC, 2016, MEM I OSWALDO CRUZ, V111, P347, DOI 10.1590/0074-02760160004
+   Costa-da-Silva AL, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005630
+   Cunha MS, 2017, EMERG INFECT DIS, V23, P1737, DOI 10.3201/eid2310.161855
+   da Costa AC, 2017, EMERG INFECT DIS, V23, P1742, DOI 10.3201/eid2310.170307
+   Drummond AJ, 2005, MOL BIOL EVOL, V22, P1185, DOI 10.1093/molbev/msi103
+   Drummond AJ, 2007, BMC EVOL BIOL, V7, DOI 10.1186/1471-2148-7-214
+   Drummond AJ, 2006, PLOS BIOL, V4, P699, DOI 10.1371/journal.pbio.0040088
+   Faria NR, 2017, NATURE, V546, P406, DOI 10.1038/nature22401
+   Gill MS, 2013, MOL BIOL EVOL, V30, P713, DOI 10.1093/molbev/mss265
+   Katoh K, 2005, NUCLEIC ACIDS RES, V33, P511, DOI 10.1093/nar/gki198
+   Lemey P, 2009, PLOS COMPUT BIOL, V5, DOI 10.1371/journal.pcbi.1000520
+   Metsky HC, 2017, NATURE, V546, P411, DOI 10.1038/nature22402
+   Parra B, 2016, NEW ENGL J MED, V375, P1513, DOI 10.1056/NEJMoa1605564
+   Pialoux G, 2007, LANCET INFECT DIS, V7, P319, DOI 10.1016/S1473-3099(07)70107-X
+   Pinheiro TJ, 2016, ARQ NEURO-PSIQUIAT, V74, P937, DOI [10.1590/0004-282X20160138, 10.1590/0004-282x20160138]
+   Posada D, 2008, MOL BIOL EVOL, V25, P1253, DOI 10.1093/molbev/msn083
+   Rambaut A, 2016, VIRUS EVOL, V2, DOI 10.1093/ve/vew007
+   Rathore Mobeen H, 2017, Adv Pediatr, V64, P27, DOI 10.1016/j.yapd.2017.04.002
+   Sacramento C. Q., 2016, BIORXIV, DOI [10.1101/061671, DOI 10.1101/061671]
+   Souza Thiara Manuele Alves, 2017, PLoS Curr, V9, DOI 10.1371/currents.outbreaks.4200119978d62ccaa454599cd2735727
+   Stamatakis A, 2014, BIOINFORMATICS, V30, P1312, DOI 10.1093/bioinformatics/btu033
+   STRAUSS JH, 1994, MICROBIOL REV, V58, P491, DOI 10.1128/MMBR.58.3.491-562.1994
+   Teixeira MG, 2015, EMERG INFECT DIS, V21, P906, DOI 10.3201/eid2105.141727
+   Nunes MRT, 2015, BMC MED, V13, DOI 10.1186/s12916-015-0348-x
+   Tsetsarkin KA, 2007, PLOS PATHOG, V3, P1895, DOI 10.1371/journal.ppat.0030201
+   US Food and Drug Administration, 2017, CII ARBOVIROPLEX RRT
+   Volk SM, 2010, J VIROL, V84, P6497, DOI 10.1128/JVI.01603-09
+   Weaver SC, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002921
+   World Health Organization, 2004, LAB BIOS MAN 3 ED
+NR 33
+TC 14
+Z9 14
+U1 0
+U2 2
+PU NATURE RESEARCH
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 26
+PY 2019
+VL 9
+AR 2760
+DI 10.1038/s41598-019-39406-9
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA HM7ZT
+UT WOS:000459698900021
+PM 30809003
+OA DOAJ Gold, Green Published
+DA 2020-11-30
+ER
+
+PT J
+AU dos Santos, BMC
+   Coelho, FC
+   Armstrong, M
+   Saraceni, V
+   Lemos, C
+AF Coimbra dos Santos, Beatriz Macedo
+   Coelho, Flavio Codeco
+   Armstrong, Margaret
+   Saraceni, Valeria
+   Lemos, Cristina
+TI Zika: an ongoing threat to women and infants
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Article
+DE Zika Virus; Women; Child; Incidence
+ID SEXUAL TRANSMISSION; VIRUS; BRAZIL
+AB Recent data from the municipality of Rio de Janeiro, Brazil, shows a sharp drop in the number of reported occurrences of Zika during the summer of 2016/2017 compared to the previous summer. There is still a much higher incidence among women than men, almost certainly due to sexual transmission. An unexpected feature of the new data is that there are proportionally far more cases affecting children under 15 months than older age classes. By comparing incidence rates in 2016/2017 and 2015/2016, we were able to deduce the proportion of reported cases affecting men and women, and verify that gender disparity is still present. Women and children are still risk groups for Zika infection, even during non-epidemic seasons.
+C1 [Coimbra dos Santos, Beatriz Macedo; Coelho, Flavio Codeco; Armstrong, Margaret] Fundacao Getulio Vargas, Praia Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.
+   [Saraceni, Valeria; Lemos, Cristina] Secretaria Municipal Saude, Rio De Janeiro, Brazil.
+RP dos Santos, BMC (corresponding author), Fundacao Getulio Vargas, Praia Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.
+EM beatrizmcoimbra@outlook.com
+CR Bastos Maria do Ceu, 2018, THESIS
+   Codeco C, 2016, BIORXIV
+   Coelho FC, 2016, INT J INFECT DIS, V51, P128, DOI 10.1016/j.ijid.2016.08.023
+   Cohen J, 2017, SCIENCE, V357, P631, DOI 10.1126/science.357.6352.631
+   D'Ortenzio E, 2016, NEW ENGL J MED, V374, P2195, DOI 10.1056/NEJMc1604449
+   Davidson A, 2016, MMWR-MORBID MORTAL W, V65, P716, DOI 10.15585/mmwr.mm6528e2
+   Freour T., 2016, EURO SURVEILL, V21
+   Guerra-Silveira F, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0062390
+   Hamer DH, 2017, CURR INFECT DIS REP, V19, DOI 10.1007/s11908-017-0571-z
+   Maxian O, 2017, EPIDEMICS-NETH, V21, P48, DOI 10.1016/j.epidem.2017.06.003
+   Moore CA, 2017, JAMA PEDIATR, V171, P288, DOI 10.1001/jamapediatrics.2016.3982
+   Pacheco O, 2016, N ENGL J MED
+   Possas C, 2017, MEM I OSWALDO CRUZ, V112, P319, DOI 10.1590/0074-02760160510
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PY 2018
+VL 34
+IS 11
+AR e00038218
+DI 10.1590/0102-311X00038218
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HF0TG
+UT WOS:000453875600001
+PM 30427409
+OA DOAJ Gold
+DA 2020-11-30
+ER
+
+PT J
+AU dos Santos, BMC
+   Coelho, FC
+   Armstrong, M
+   Saraceni, V
+   Lemos, C
+AF Coimbra dos Santos, Beatriz Macedo
+   Coelho, Flavio Codeco
+   Armstrong, Margaret
+   Saraceni, Valeria
+   Lemos, Cristina
+TI Reply to commentary on Zika: An Ongoing Threat to Women and Infants
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Editorial Material
+C1 [Coimbra dos Santos, Beatriz Macedo; Coelho, Flavio Codeco; Armstrong, Margaret] Fundacao Getulio Vargas, Praia Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.
+   [Saraceni, Valeria; Lemos, Cristina] Secretaria Municipal Saude, Rio De Janeiro, Brazil.
+RP dos Santos, BMC (corresponding author), Fundacao Getulio Vargas, Praia Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.
+EM beatrizmcoimbra@outlook.com
+CR Balmaseda A, 2010, J INFECT DIS, V201, P5, DOI 10.1086/648592
+   Barros AC, 2018, 347104 BIORXIV, DOI [10.1101/347104, DOI 10.1101/347104]
+   de Azevedo MB, 2018, REV SOC BRAS MED TRO, V51, P347, DOI 10.1590/0037-8682-0327-2017
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PY 2018
+VL 34
+IS 11
+AR e00192318
+DI 10.1590/0102-311X00192318
+PG 2
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HF0UN
+UT WOS:000453879300001
+PM 30427419
+OA DOAJ Gold
+DA 2020-11-30
+ER
+
+PT J
+AU Coelho, FC
+   Armstrong, M
+   Saraceni, V
+   Lemos, C
+AF Coelho, Flavio Codeco
+   Armstrong, Margaret
+   Saraceni, Valeria
+   Lemos, Cristina
+TI Can Zika Account for the Missing Babies?
+SO FRONTIERS IN PUBLIC HEALTH
+LA English
+DT Article
+DE Zika; sexually transmitted diseases; infant; newborn; diseases; live
+   birth rate; epidemiology
+ID VIRUS
+AB The Zika virus (ZIKV) spread rapidly in Brazil in 2015 and 2016. Rio de Janeiro was among the Brazilian cities which were hit the hardest, with more that a hundred thousand confirmed cases up to the end of 2016. Given the severity of the neurological damage caused by ZIKV on fetuses, we wondered whether it would also cause an increase in the number of miscarriages, especially very early ones. As early miscarriages are unlikely to be recorded as a health event, this effect-if it occurred-would only show up as a reduction in the number of live births. In this article, we show that there was a 15% drop in live births between September and December 2016 compared with the previous year, and that this sharp drop from epidemiological week 33 onward is strongly correlated with the number of recorded cases of Zika about 40 weeks earlier. We postulate that ZIKV is directly responsible for this drop in the birth rate. Further work is required to ascertain whether other factors such as the fear of having a microcephaly baby or the economic crisis are having a significant effect.
+C1 [Coelho, Flavio Codeco; Armstrong, Margaret] Fundacao Getulio Vargas, Ctr Math Epidemiol, Sch Appl Math, Brasilia, DF, Brazil.
+   [Saraceni, Valeria; Lemos, Cristina] Prefeitura Cidade Rio de Janeiro, Rio De Janeiro, Brazil.
+RP Coelho, FC (corresponding author), Fundacao Getulio Vargas, Ctr Math Epidemiol, Sch Appl Math, Brasilia, DF, Brazil.
+EM fccoelho@fgv.br
+RI Coelho, Flavio Codeco/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989
+CR Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Cao B, 2017, J INTERF CYTOK RES, V37, P287, DOI 10.1089/jir.2017.0011
+   Coelho FC, 2016, BIORXIV, DOI 10.1101/055459
+   de Oliveira WK, 2017, NEW ENGL J MED, V376, P1591, DOI 10.1056/NEJMc1608612
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   Johansson MA, 2016, NEW ENGL J MED, V375, P1, DOI 10.1056/NEJMp1605367
+   Teixeira MG, 2016, AM J PUBLIC HEALTH, V106, P601, DOI 10.2105/AJPH.2016.303113
+   van der Eijk AA, 2016, NEW ENGL J MED, V375, P1002, DOI 10.1056/NEJMc1605898
+   Vermillion MS, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14575
+NR 9
+TC 3
+Z9 3
+U1 0
+U2 3
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-2565
+J9 FRONT PUBLIC HEALTH
+JI Front. Public Health
+PD NOV 29
+PY 2017
+VL 5
+AR 317
+DI 10.3389/fpubh.2017.00317
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FO7ZJ
+UT WOS:000417099200001
+PM 29238705
+OA DOAJ Gold, Green Published
+DA 2020-11-30
+ER
+
+PT J
+AU Coelho, FC
+   Durovni, B
+   Saraceni, V
+   Lemos, C
+   Codeco, CT
+   Camargo, S
+   de Carvalho, LM
+   Bastos, L
+   Arduini, D
+   Villela, DAM
+   Armstrong, M
+AF Coelho, Flavio Codeco
+   Durovni, Betina
+   Saraceni, Valeria
+   Lemos, Cristina
+   Codeco, Claudia Torres
+   Camargo, Sabrina
+   de Carvalho, Luiz Max
+   Bastos, Leonardo
+   Arduini, Denise
+   Villela, Daniel A. M.
+   Armstrong, Margaret
+TI Higher incidence of Zika in adult women than adult men in Rio de Janeiro
+   suggests a significant contribution of sexual transmission from men to
+   women
+SO INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Article
+DE Zika; Sexual transmission; Dengue; Age-adjusted incidence
+ID POTENTIAL VECTOR; VIRUS; DENGUE
+AB Objectives: The recent emergence of Zika in Brazil and its association with an increased rate of congenital malformations has raised concerns over its impact on the birth rate in the country. Using data on the incidence of Zika in 2015-2016 and dengue in 2013 and 2015-2016 for the city of Rio de Janeiro (population 6.4 million), a massive increase of Zika in women compared to men was documented.
+   Methods: The age-adjusted incidence was compared between men and women. A negative binomial Poisson generalized linear model was fitted to the Zika incidence data to determine the significance of sexual transmission statistically.
+   Results: Even after correcting for the bias due to the systematic testing of pregnant women for Zika, there were found to be 90% more registered cases per 100 000 women than men in the sexually active age group (15-65 years); this was not the case for age groups < 15 years and > 65 years. Assuming that infected men transmit the disease to women in their semen, but that the converse is not true, some extra incidence in women is to be expected. An alternate hypothesis would be that women visit doctors more often than men. To test this, the incidence of dengue fever was compared in men and women in 2015 and in 2013 (before Zika reached Rio de Janeiro): in both years, women were 30% more likely to be reported with dengue.
+   Conclusion: Women in the sexually active age group are far more likely to get Zika than men (+ 90% increase); sexual transmission is the most probable cause. Women in the 15-65 years age group are also 30% more likely to be reported with dengue than men, which is probably due to women being more careful with their health. (C) 2016 The Author(s). Published by Elsevier Ltd on behalf of International Society for Infectious Diseases.
+C1 [Coelho, Flavio Codeco; Camargo, Sabrina; Armstrong, Margaret] Fundacao Getulio Vargas, Praia Botafogo 190, Rio De Janeiro, Brazil.
+   [Durovni, Betina; Saraceni, Valeria; Lemos, Cristina; Arduini, Denise] Secretaria Municipal Saude, Rio De Janeiro, Brazil.
+   [Codeco, Claudia Torres; de Carvalho, Luiz Max; Bastos, Leonardo; Villela, Daniel A. M.] Fundacao Oswaldo Cruz, Programa Comp Cient, Rio De Janeiro, Brazil.
+   [de Carvalho, Luiz Max] Univ Edinburgh, Inst Evolutionary Biol, Edinburgh, Midlothian, Scotland.
+   [Armstrong, Margaret] PSL Res Univ, MINES Paristech, CERNA Ctr Ind Econ, I3,CNRS UMR 9217, Paris, France.
+RP Coelho, FC (corresponding author), Fundacao Getulio Vargas, Praia Botafogo 190, Rio De Janeiro, Brazil.
+EM fccoelho@fgv.br
+RI Carvalho, Luiz Max F/J-6446-2014; Camargo, Sabrina/AAH-4857-2020;
+   Carvalho, Luiz Max/AAC-8266-2020; Bastos, Leonardo Soares/AAD-5335-2019;
+   Camargo, Sabrina/J-3745-2013; amsalu, ribka/G-8780-2019; Coelho, Flavio
+   Codeco/L-1089-2018; Villela, Daniel/AAG-6445-2019; Coelho,
+   Flavio/L-1089-2018
+OI Carvalho, Luiz Max F/0000-0001-5736-5578; Camargo,
+   Sabrina/0000-0002-0237-3535; Carvalho, Luiz Max/0000-0001-5736-5578;
+   Bastos, Leonardo Soares/0000-0002-1406-0122; Camargo,
+   Sabrina/0000-0002-0237-3535; Coelho, Flavio Codeco/0000-0003-0635-8989;
+   Villela, Daniel/0000-0001-8371-2959; Coelho, Flavio/0000-0003-3868-4391
+CR Ahmad SSY, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i1062
+   Brady OJ, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-338
+   D'Ortenzio E, 2016, NEW ENGL J MED, V374, P2195, DOI 10.1056/NEJMc1604449
+   Davidson A, 2016, MMWR-MORBID MORTAL W, V65, P716, DOI 10.15585/mmwr.mm6528e2
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Kassam Ashifa, 2015, GUARDIAN
+   Kraemer MUG, 2015, ELIFE, V4, DOI 10.7554/eLife.08347
+   Ledermann JP, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003188
+   Machado CR, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002217
+   Mansuy JM, 2016, LANCET INFECT DIS, V16, P894, DOI 10.1016/S1473-3099(16)30153-0
+   Musso D, 2015, J CLIN VIROL, V68, P53, DOI 10.1016/j.jcv.2015.04.021
+   Schaffner F, 2014, LANCET INFECT DIS, V14, P1271, DOI 10.1016/S1473-3099(14)70834-5
+   Vouga M, 2016, LANCET, V387, P843, DOI 10.1016/S0140-6736(16)00383-4
+   Wong PSJ, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002348
+NR 14
+TC 77
+Z9 79
+U1 0
+U2 10
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1201-9712
+EI 1878-3511
+J9 INT J INFECT DIS
+JI Int. J. Infect. Dis.
+PD OCT
+PY 2016
+VL 51
+BP 128
+EP 132
+DI 10.1016/j.ijid.2016.08.023
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA EC7NK
+UT WOS:000388326700031
+PM 27664930
+OA DOAJ Gold, Green Published
+DA 2020-11-30
+ER
+
+PT J
+AU Sanz, JC
+   Lemos, C
+   Herrera, D
+   Ramirez-Fernandez, R
+AF Sanz, JC
+   Lemos, C
+   Herrera, D
+   Ramirez-Fernandez, R
+TI Rubella outbreak in a Latin American immigrant population
+SO ENFERMEDADES INFECCIOSAS Y MICROBIOLOGIA CLINICA
+LA Spanish
+DT Letter
+C1 Comunidad Madrid, Lab Reg Salud Publ, Madrid, Spain.
+   Comunidad Madrid, Serv Epidemiol, Inst Salud Publ, Madrid, Spain.
+   Inst Salud Carlos III, Ctr Nacl Epidemiol, Programa Epidemiol Aplicada Campo, Madrid, Spain.
+RP Sanz, JC (corresponding author), Comunidad Madrid, Lab Reg Salud Publ, Madrid, Spain.
+CR Castro EA, 2002, INDIAN J HETEROCY CH, V11, P273
+   Danovaro-Holliday MC, 2000, JAMA-J AM MED ASSOC, V284, P2733, DOI 10.1001/jama.284.21.2733
+   HINMAN A, 1998, PAN AM J PUBLIC HLTH, V4, P156
+   Reef SE, 2000, CLIN INFECT DIS, V31, P85, DOI 10.1086/313928
+   Zimmerman L, 2001, PEDIATRICS, V107, DOI 10.1542/peds.107.3.e40
+   1996, B EPIDEMIOLOGICO COM, V19, P25
+   1999, B EPIDEMIOLOGICO COM, V4, P50
+   2002, B EPIDEMIOLOGICO COM, V5, P3
+   2002, DOCUMENTO TECNICO SA, V73
+   2000, M PREV CONG RUB SYND
+NR 10
+TC 8
+Z9 8
+U1 0
+U2 0
+PU EDICIONES DOYMA S/L
+PI BARCELONA
+PA TRAV DE GRACIA 17-21, 08021 BARCELONA, SPAIN
+SN 0213-005X
+J9 ENFERM INFEC MICR CL
+JI Enferm. Infec. Microbiol. Clin.
+PD MAR
+PY 2004
+VL 22
+IS 3
+BP 197
+EP 197
+DI 10.1157/13058030
+PG 1
+WC Infectious Diseases; Microbiology
+SC Infectious Diseases; Microbiology
+GA 805DH
+UT WOS:000220346500012
+PM 14987542
+DA 2020-11-30
+ER
+
+EF

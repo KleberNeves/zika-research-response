@@ -1,0 +1,957 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gimenez, IL
+   Arakaki, VDNM
+   Correa, RM
+   dos Santos, RS
+   Peres, RT
+   Sant'Anna, CC
+   Ferreira, HC
+AF Gimenez, Isabelle Leandro
+   Neves Moreira Arakaki, Vanessa da Silva
+   Correa, Raquel Miranda
+   dos Santos, Rosana Silva
+   Peres, Rodrigo Tosta
+   Sant'Anna, Clemax Couto
+   Ferreira, Halina Cidrini
+TI Neonatal pain: characterization of the physiotherapist's perception in
+   the Neonatal Intensive Care Unit
+SO REVISTA PAULISTA DE PEDIATRIA
+LA Portuguese
+DT Article
+DE Pain; Pain measurement; infant premature; physiotherapy; neonatal
+   intensive care unit
+ID DEFINITION; NICU
+AB Objective: To describe the perception of physiotherapists in neonatal units regarding pain, the use of measurement scales and strategies that minimize pain.
+   Methods: Interviews were conducted with physiotherapists in hospitals with neonatal units between 2013 and 2015 in Rio de Janeiro. The questions concerned the knowledge of the feeling of pain, from its recognition to its care or treatment. The description of the results was done by comparing public and private hospitals (Fisher"s Exact exact Testtest), considering p<0.05 as significant.
+   Results: 27 hospitals were visited. All the professionals interviewed (n=27) stated that the newborns feel pain, with facial expression being the most cited and known sign for pain. 26% of physiotherapists believe that newborns experience pain at the same magnitude as adults. Among the scales, the Neonatal Infant Pain Scale (NIPS) was the most well known, but only 37% of the units had routine pain assessment protocols. IV cannulation and blood collection were the most mentioned procedures as a cause of pain and there was no difference between public and private hospitals.
+   Conclusions: There is a gap in the knowledge about neonatal pain and how to evaluate it among the participating physiotherapists, with no systematization of care routines involving this assessment.
+C1 [Gimenez, Isabelle Leandro; Neves Moreira Arakaki, Vanessa da Silva; Correa, Raquel Miranda; dos Santos, Rosana Silva; Sant'Anna, Clemax Couto; Ferreira, Halina Cidrini] Univ Fed Rio de Janeiro, Rio De Janeiro, RJ, Brazil.
+   [Peres, Rodrigo Tosta] Ctr Fed Educ Tecnol Celso Suckow Fonseca Rio de J, Rio De Janeiro, RJ, Brazil.
+RP Ferreira, HC (corresponding author), Univ Fed Rio de Janeiro, Rio De Janeiro, RJ, Brazil.
+EM halinacidrini@me.ufrj.br
+OI Ferreira, Halina Cidrini/0000-0002-0111-5649
+CR Alves FB, 2013, REV CUID, V4, P510
+   Anand KJS, 1996, PAIN, V67, P3
+   Arakaki Vanessa da Silva Neves Moreira, 2017, Fisioter. Pesqui., V24, P143, DOI 10.1590/1809-2950/16470124022017
+   Balda RCX, 2018, LINGUAGEM DOR RECEMN
+   Batalha L, 2005, ACTA PEDIAT PORT, V36, P201
+   Bueno M, 2007, SINAL VITAL REFLEXOE, P228
+   Capellini VK, 2014, REV ELETR ENF, V16, P361
+   Carter BS, 2017, SEMIN PERINATOL, V41, P111, DOI 10.1053/j.semperi.2016.11.001
+   Christoffel MM, 2002, ESC ANNA NERY, V6, P53
+   Cruz Cibele Thomé da, 2016, Rev. dor, V17, P197, DOI 10.5935/1806-0013.20160070
+   de Aymar CLG, 2014, J PEDIAT-BRAZIL, V90, P308, DOI 10.1016/j.jped.2013.09.008
+   Melo Gleicia Martins de, 2014, Rev. paul. pediatr., V32, P395, DOI [10.1590/S0103-05822014000400017, 10.1016/j.rpped.2014.04.007]
+   Derbyshire SWG, 2006, BRIT MED J, V332, P909, DOI 10.1136/bmj.332.7546.909
+   Falcao LFM, 2007, REV PAUL PEDIATR, V25, P53
+   Keels E, 2016, PEDIATRICS, V137, DOI 10.1542/peds.2015-4271
+   Lanza Fernanda de Cordoba, 2010, Rev. paul. pediatr., V28, P10, DOI 10.1590/S0103-05822010000100003
+   Linhares MBM, 2012, DESENVOLVIMENTO CRIA, P56
+   Lohmann PM, 2017, REV DESTAQUES ACAD, V9, P34, DOI [10.22410/issn.2176-3070.v9i3a2017.1328, DOI 10.22410/ISSN.2176-3070.V9I3A2017.1328]
+   Maxwell LG, 2013, CLIN PERINATOL, V40, P457, DOI 10.1016/j.clp.2013.05.001
+   Motta BTS, 2017, INT ARCH MED, V10, P1
+   Moura- Ribeiro MV, 2010, NEUROLOGIA DESENVOLV
+   Polkki T, 2010, SCAND J CARING SCI, V24, P49, DOI 10.1111/j.1471-6712.2008.00683.x
+   Prestes Ana Claudia Y., 2005, J. Pediatr. (Rio J.), V81, P405, DOI 10.1590/S0021-75572005000600012
+   Santos LM, 2012, REV BRAS ENFERM, V65, P27, DOI 10.1590/S0034-71672012000100004
+   Silva Y, 2006, DOR PEDIATRIA
+   Soares AC, 2016, COGITARE ENFERM, V21, P1
+   Vinall J, 2012, PAIN, V153, P1374, DOI 10.1016/j.pain.2012.02.007
+   Williams ACD, 2016, PAIN, V157, P2420, DOI 10.1097/j.pain.0000000000000613
+   Prestes ACY, 2016, J PEDIAT-BRAZIL, V92, P88, DOI 10.1016/j.jped.2015.04.009
+   2006, PEDIATRICS, V118, P2231, DOI DOI 10.1542/PEDS.2006-2277
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC PEDIATRIA SAO PAULO
+PI SAO PAULO SP
+PA ALAMEDA SANTOS 211, 5O ANDAR, SAO PAULO SP, 01419-000, BRAZIL
+SN 0103-0582
+EI 1984-0462
+J9 REV PAUL PEDIATR
+JI Rev. Paul. Pediatr.
+PY 2020
+VL 38
+AR e2018178
+DI 10.1590/1984-0462/2020/38/2018178
+PG 6
+WC Pediatrics
+SC Pediatrics
+GA NO0KK
+UT WOS:000569176000066
+PM 31778412
+OA DOAJ Gold, Green Published
+DA 2020-10-30
+ER
+
+PT J
+AU Cardoso, TF
+   dos Santos, RS
+   Correa, RM
+   Campos, JV
+   Silva, RD
+   Tobias, CC
+   Prata-Barbosa, A
+   da Cunha, AJLA
+   Ferreira, HC
+AF Cardoso, Taissa Ferreira
+   dos Santos, Rosana Silva
+   Correa, Raquel Miranda
+   Campos, Juliana Vieira
+   Silva, Ricardo de Bastos
+   Tobias, Christine Castinheiras
+   Prata-Barbosa, Arnaldo
+   Ledo Alves da Cunha, Antonio Jose
+   Ferreira, Halina Cidrini
+TI Congenital Zika infection: neurology can occur without microcephaly
+SO ARCHIVES OF DISEASE IN CHILDHOOD
+LA English
+DT Letter
+C1 [Cardoso, Taissa Ferreira; Campos, Juliana Vieira] Univ Fed Rio de Janeiro, Maternidade Escola, Postgrad Program Perinatal Hlth Care, Rio de Janeiro, Brazil.
+   [dos Santos, Rosana Silva; Ferreira, Halina Cidrini] Univ Fed Rio de Janeiro, Sch Med, Dept Phys Therapy, BR-21941913 Rio de Janeiro, RJ, Brazil.
+   [dos Santos, Rosana Silva; Ferreira, Halina Cidrini] Univ Fed Rio de Janeiro, Maternidade Escola, Program Perinatal Hlth Care, Rio de Janeiro, Brazil.
+   [Correa, Raquel Miranda; Tobias, Christine Castinheiras] Univ Fed Rio de Janeiro, Maternidade Escola, Rio de Janeiro, Brazil.
+   [Silva, Ricardo de Bastos] Univ Fed Rio de Janeiro, Sch Med, Phys Therapy Course, Rio de Janeiro, Brazil.
+   [Prata-Barbosa, Arnaldo; Ledo Alves da Cunha, Antonio Jose] Univ Fed Rio de Janeiro, Sch Med, Dept Pediat, Rio de Janeiro, Brazil.
+   [Prata-Barbosa, Arnaldo; Ledo Alves da Cunha, Antonio Jose] DOr Inst Res & Educ IDOR, Rio De Janeiro, Brazil.
+RP Ferreira, HC (corresponding author), Univ Fed Rio de Janeiro, Sch Med, Dept Phys Therapy, BR-21941913 Rio de Janeiro, RJ, Brazil.
+EM halinacidrini@me.ufrj.br
+RI da Cunha, Antonio Jose Ledo Alves/O-5914-2019; Prata-Barbosa,
+   Arnaldo/B-2212-2009
+OI da Cunha, Antonio Jose Ledo Alves/0000-0003-3592-1849; Prata-Barbosa,
+   Arnaldo/0000-0002-4726-9782; Ferreira, Halina
+   Cidrini/0000-0002-0111-5649
+CR [Anonymous], 2016, BMJ, V353, pi3182, DOI 10.1136/bmj.i3182
+   Marinho Penelope Saldanha, 2017, Matern Health Neonatol Perinatol, V3, P17, DOI 10.1186/s40748-017-0054-0
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   World Health Organization, CHILD GROWTH STAND H
+   Yang H, 2012, EARLY HUM DEV, V88, P837, DOI 10.1016/j.earlhumdev.2012.06.004
+NR 5
+TC 7
+Z9 8
+U1 0
+U2 6
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0003-9888
+EI 1468-2044
+J9 ARCH DIS CHILD
+JI Arch. Dis. Child.
+PD FEB
+PY 2019
+VL 104
+IS 2
+BP 199
+EP +
+DI 10.1136/archdischild-2018-314782
+PG 2
+WC Pediatrics
+SC Pediatrics
+GA HM7DY
+UT WOS:000459638700028
+PM 29858269
+DA 2020-10-30
+ER
+
+PT J
+AU Ferreira, HC
+   Mazzoli-Rocha, F
+   Momesso, DP
+   Garcia, CSNB
+   Carvalho, GMC
+   Lassance-Soares, RM
+   Prota, LFM
+   Morales, MM
+   Faffe, DS
+   Carvalho, AR
+   Rocco, PRM
+   Zin, WA
+AF Ferreira, Halina C.
+   Mazzoli-Rocha, Flavia
+   Momesso, Denise P.
+   Garcia, Cristiane S. N. B.
+   Carvalho, Giovanna M. C.
+   Lassance-Soares, Roberta M.
+   Prota, Luiz F. M.
+   Morales, Marcelo M.
+   Faffe, Debora S.
+   Carvalho, Alysson R.
+   Rocco, Patricia R. M.
+   Zin, Walter A.
+TI On the crucial ventilatory setting adjustment from two- to one-lung
+   ventilation
+SO RESPIRATORY PHYSIOLOGY & NEUROBIOLOGY
+LA English
+DT Article
+DE One-lung ventilation; Procollagen type-III; Shear stress; VILI;
+   Extracellular matrix expression; Protective ventilator strategies
+ID END-EXPIRATORY PRESSURE; VOLUME-CONTROLLED VENTILATION;
+   THORACIC-SURGERY; TIDAL VOLUME; MECHANICAL VENTILATION; RESPIRATORY
+   MECHANICS; EXTRACELLULAR-MATRIX; AIRWAY PRESSURES; GAS-EXCHANGE; RAT
+   LUNGS
+AB Lung mechanics, histology, oxygenation and type-III procollagen (PCIII) mRNA were studied aiming to evaluate the need to readjust ventilatory pattern when going from two- to one-lung ventilation (OLV). Wistar rats were assigned to three groups: the left lung was not ventilated while the right lung received: (1) tidal volume (V-T) = 5 ml/kg and positive end-expiratory pressure (PEEP)= 2 cm H2O (V5P2), (2) V-T = 10 ml/kg and PEEP = 2 cm H2O (V10P2), and (3) V-T = 5 ml/kg and PEEP = 5 cm H2O (V5P5). At 1-h ventilation, V5P2 showed hypoxemia, alveolar collapse and impaired lung function. Higher PEEP minimized these changes and prevented hypoxemia. Although high V-T prevented hypoxemia and maintained a higher specific compliance than V5P2, a morphologically inhomogeneous parenchyma and higher PCIII expression resulted. In conclusion, the association of low V-T and an adequate PEEP level could be useful to maintain arterial oxygenation without inducing a possible inflammatory/remodeling response. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Zin, Walter A.] Univ Fed Rio de Janeiro, Ctr Ciencias Saude, Inst Biofis Carlos Chagas Filho, Lab Fisiol Resp,Ilha Fundao, BR-21941902 Rio De Janeiro, Brazil.
+   [Garcia, Cristiane S. N. B.; Rocco, Patricia R. M.] Univ Fed Rio de Janeiro, Lab Pulm Invest, Inst Biofis Carlos Chagas Filho, BR-21941902 Rio De Janeiro, Brazil.
+   [Lassance-Soares, Roberta M.; Prota, Luiz F. M.; Morales, Marcelo M.] Univ Fed Rio de Janeiro, Lab Cellular & Mol Physiol, Inst Biofis Carlos Chagas Filho, BR-21941902 Rio De Janeiro, Brazil.
+RP Zin, WA (corresponding author), Univ Fed Rio de Janeiro, Ctr Ciencias Saude, Inst Biofis Carlos Chagas Filho, Lab Fisiol Resp,Ilha Fundao, BR-21941902 Rio De Janeiro, Brazil.
+EM hcidrini@gmail.com; flamazzoli@gmail.com; dmomesso@terra.com.br;
+   crisbaezgarcia@gmail.com; giovannamcc@gmail.com;
+   ro.lassance@yahoo.com.br; felprota@gmail.com; mmorales@biof.ufrj.br;
+   faffe@biof.ufrj.br; roncally.carvalho@gmail.com; prmrocco@biof.ufrj.br;
+   walter_zin@hotmail.com
+RI Carvalho, Alysson/AAF-1022-2019; Zin, Walter/H-8220-2013; Fisiologia,
+   Ciencias Biologicas/C-2407-2012
+OI Zin, Walter/0000-0001-8226-9123; Mazzoli da Rocha,
+   Flavia/0000-0003-0972-194X; Carvalho, Alysson/0000-0003-2708-7735
+FU PRONEX-FAPERJCarlos Chagas Filho Foundation for Research Support of the
+   State of Rio de Janeiro (FAPERJ); Brazilian Council for Scientific and
+   Technological Development (CNPq/MCT)National Council for Scientific and
+   Technological Development (CNPq); Carlos Chagas Filho Rio de Janeiro
+   State Research Supporting Foundation (FAPERJ)Carlos Chagas Filho
+   Foundation for Research Support of the State of Rio de Janeiro (FAPERJ)
+FX This work was supported by The Centers of Excellence Program
+   (PRONEX-FAPERJ), The Brazilian Council for Scientific and Technological
+   Development (CNPq/MCT), and The Carlos Chagas Filho Rio de Janeiro State
+   Research Supporting Foundation (FAPERJ).
+CR Asaph JW, 2000, ANN THORAC SURG, V70, P373, DOI 10.1016/S0003-4975(00)01364-3
+   BATES JHT, 1985, J APPL PHYSIOL, V58, P1840
+   Brodsky JB, 2001, WORLD J SURG, V25, P162
+   Unzueta MC, 2007, ANESTH ANALG, V104, P1029, DOI 10.1213/01.ane.0000260313.63893.2f
+   CHOMCZYNSKI P, 1987, ANAL BIOCHEM, V162, P156, DOI 10.1006/abio.1987.9999
+   Copland IB, 2003, AM J RESP CRIT CARE, V168, P1051, DOI 10.1164/rccm.200208-964OC
+   Pardos PC, 2009, J CARDIOTHOR VASC AN, V23, P770, DOI 10.1053/j.jvca.2009.06.002
+   D'Angelo E, 2002, J APPL PHYSIOL, V92, P949, DOI 10.1152/japplphysiol.00776.2001
+   de Abreu MG, 2003, ANESTH ANALG, V96, P220, DOI 10.1213/01.ANE.0000040081.52397.34
+   de Carvalho MEP, 2007, CRIT CARE, V11, DOI 10.1186/cc5702
+   de Prost N, 2007, INTENS CARE MED, V33, P711, DOI 10.1007/s00134-007-0575-5
+   Dreyfuss D, 1998, AM J RESP CRIT CARE, V157, P294, DOI 10.1164/ajrccm.157.1.9604014
+   Farias LL, 2005, J APPL PHYSIOL, V98, P53, DOI 10.1152/japplphysiol.00118.2004
+   Frank JA, 2002, AM J RESP CRIT CARE, V165, P242, DOI 10.1164/ajrccm.165.2.2108087
+   Gal TJ, 2006, ANESTH ANALG, V103, P271, DOI 10.1213/01.ane.0000223678.64129.7c
+   Garcia CSNB, 2004, RESP PHYSIOL NEUROBI, V144, P59, DOI 10.1016/j.resp.2004.07.023
+   Gattinoni L, 2003, EUR RESPIR J, V22, p15S, DOI 10.1183/09031936.03.00021303
+   GUNDERSEN HJG, 1988, APMIS, V96, P379, DOI 10.1111/j.1699-0463.1988.tb05320.x
+   Ishikawa S, 2011, CURR OPIN ANESTHESIO, V24, P24, DOI 10.1097/ACO.0b013e3283415659
+   Kilpatrick B, 2010, BRIT J ANAESTH, V105, pI108, DOI 10.1093/bja/aeq299
+   KOCHI T, 1988, J APPL PHYSIOL, V64, P441
+   Lohser Jens, 2008, Anesthesiol Clin, V26, P241, DOI 10.1016/j.anclin.2008.01.011
+   MEAD J, 1959, J APPL PHYSIOL, V14, P669
+   Michelet P, 2005, BRIT J ANAESTH, V95, P267, DOI 10.1093/bja/aei178
+   Michelet P, 2006, ANESTHESIOLOGY, V105, P911, DOI 10.1097/00000542-200611000-00011
+   Montes FR, 2010, J CARDIOTHORAC SURG, V5, DOI 10.1186/1749-8090-5-99
+   Musch G, 2007, ANESTHESIOLOGY, V106, P723, DOI 10.1097/01.anes.0000264748.86145.ac
+   Nagase T, 1996, J APPL PHYSIOL, V80, P583
+   Parker JC, 1997, J APPL PHYSIOL, V83, P1697
+   Prella M, 2002, CHEST, V122, P1382, DOI 10.1378/chest.122.4.1382
+   RAGHU G, 1985, AM REV RESPIR DIS, V131, P281, DOI 10.1164/ajrccm/138.3.703
+   Rocco PRM, 2001, AM J RESP CRIT CARE, V164, P1067, DOI 10.1164/ajrccm.164.6.2007062
+   SALDIVA PHN, 1992, J APPL PHYSIOL, V72, P302
+   SCHERLE W, 1970, Mikroskopie, V26, P57
+   Schilling T, 2005, ANESTH ANALG, V101, P957, DOI 10.1213/01.ane.0000172112.02902.77
+   SIMILOWSKI T, 1989, J APPL PHYSIOL, V67, P2219
+   SUTER PM, 1978, CHEST, V73, P158, DOI 10.1378/chest.73.2.158
+   Tekinbas C, 2007, J THORAC CARDIOV SUR, V134, P405, DOI 10.1016/j.jtcvs.2007.05.003
+   Tugrul M, 1997, BRIT J ANAESTH, V79, P306, DOI 10.1093/bja/79.3.306
+   Watanabe S, 2000, ANESTH ANALG, V90, P28, DOI 10.1097/00000539-200001000-00007
+   Weibel E.R., 1990, MODELS LUNG DIS MICR, V47, P199
+NR 41
+TC 5
+Z9 7
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1569-9048
+EI 1878-1519
+J9 RESP PHYSIOL NEUROBI
+JI Respir. Physiol. Neuro.
+PD DEC 15
+PY 2011
+VL 179
+IS 2-3
+BP 198
+EP 204
+DI 10.1016/j.resp.2011.08.006
+PG 7
+WC Physiology; Respiratory System
+SC Physiology; Respiratory System
+GA 859VI
+UT WOS:000297903500018
+PM 21871975
+DA 2020-10-30
+ER
+
+PT J
+AU Burburan, SM
+   Xisto, DG
+   Ferreira, HC
+   Riva, DD
+   Carvalho, GMC
+   Zin, WA
+   Rocco, PRM
+AF Burburan, Shirley Moreira
+   Xisto, Debora Goncalves
+   Ferreira, Halina Cidrini
+   dos Reis Riva, Douglas
+   Cavalcante Carvalho, Giovanna Marcella
+   Zin, Walter Araujo
+   Macedo Rocco, Patricia Rieken
+TI Lung mechanics and histology during sevoflurane anesthesia in a model of
+   chronic allergic asthma
+SO ANESTHESIA AND ANALGESIA
+LA English
+DT Article
+ID RESPIRATORY MECHANICS; TRACHEAL INTUBATION; SMOOTH-MUSCLE;
+   PEDIATRIC-PATIENTS; MURINE MODEL; MOUSE MODEL; AIRWAY; INFLAMMATION;
+   PREVALENCE; ISOFLURANE
+AB BACKGROUND: There are no studies examining the effects of sevoflurane on a chronically inflamed and remodeled airway, such as that found in asthma. In the present study, we sought to define the respiratory effects of sevoflurane in a model of chronic allergic asthma. For this purpose, pulmonary mechanics were studied and lung morphometry analyzed to determine whether the physiological modifications reflected underlying morphological changes.
+   METHODS: Thirty-six BALB/c mice (20-25 g) were randomly divided into four groups. In OVA groups, mice were sensitized with ovalbumin and exposed to repeated ovalbumin challenges. In SAL groups, mice received saline using the same protocol. Twenty-four hours after the last challenge, the animals were anesthetized with pentobarbital sodium (PENTO, 20 mg/kg i.p.) or sevoflurane (SEVO, 1 MAC). Lung static elastance (E-st), resistive (Delta P-1) and viscoelastic/inhomogeneous (Delta P-2) pressure decreases were analyzed by an end-inflation occlusion method. Lungs were fixed and stained for histological analysis.
+   RESULTS: Animals in the OVASEVO group showed lower Delta P-1 (38%), Delta P-2 (24%), and E-st (22%) than animals in the OVAPENTO group. Histology demonstrated greater airway dilation (16%) and a lower degree of alveolar collapse (25%) in the OVASEVO compared with OVAPENTO group. Delta P-1 was lower (35%) and airway diameters larger (12%) in the SALSEVO compared with SALPENTO group.
+   CONCLUSION: Sevoflurane anesthesia acted both at airway level and lung periphery reducing (Delta P-1 and Delta P-2 pressures, and E-st in chronic allergic asthma.
+C1 Univ Fed Rio de Janeiro, Lab Invest Pulm, Inst Biofis Carlos Chagas Filho, BR-21941 Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Fac Med, Div Anesthesiol, BR-21941 Rio De Janeiro, Brazil.
+RP Rocco, PRM (corresponding author), Univ Fed Rio de Janeiro, Lab Invest Pulm, Inst Biofis Carlos Chagas Filho, BR-21941 Rio De Janeiro, Brazil.
+EM prmrocco@biof.ufrj.br
+RI Zin, Walter/H-8220-2013
+OI Zin, Walter/0000-0001-8226-9123
+CR Arif AA, 2004, J PAEDIATR CHILD H, V40, P189, DOI 10.1111/j.1440-1754.2004.00335.x
+   Barnes PJ, 1996, AM J RESP CRIT CARE, V153, pS5, DOI 10.1164/ajrccm/153.6_Pt_2.S5
+   BATES JHT, 1988, J APPL PHYSIOL, V64, P2204
+   Beasley R, 2000, J ALLERGY CLIN IMMUN, V105, pS466, DOI 10.1016/S0091-6749(00)90044-7
+   Blyth DI, 1996, AM J RESP CELL MOL, V14, P425, DOI 10.1165/ajrcmb.14.5.8624247
+   Bousquet J, 2000, AM J RESP CRIT CARE, V161, P1720, DOI 10.1164/ajrccm.161.5.9903102
+   BROWN B, 1995, ANESTH ANALG, V81, pS1, DOI 10.1097/00000539-199512001-00001
+   Cerveri I, 1999, EUR RESPIR J, V14, P288, DOI 10.1034/j.1399-3003.1999.14b09.x
+   Cohn L, 2004, ANNU REV IMMUNOL, V22, P789, DOI 10.1146/annurev.immunol.22.012703.104716
+   Correa FCF, 2001, J APPL PHYSIOL, V91, P803
+   FLETCHER SW, 1968, ANESTHESIOLOGY, V29, P517, DOI 10.1097/00000542-196805000-00027
+   Goff MJ, 2000, ANESTHESIOLOGY, V93, P404, DOI 10.1097/00000542-200008000-00018
+   Gomes RFM, 2000, J APPL PHYSIOL, V89, P908
+   Gomes RFM, 2002, RESP PHYSIOL NEUROBI, V130, P317, DOI 10.1016/S0034-5687(02)00017-8
+   Groeben H, 2004, Best Pract Res Clin Anaesthesiol, V18, P579, DOI 10.1016/j.bpa.2004.05.013
+   Habre W, 1999, ANESTH ANALG, V89, P1177, DOI 10.1213/00000539-199911000-00017
+   INOMATA S, 1994, ANESTHESIOLOGY, V80, P93, DOI 10.1097/00000542-199401000-00016
+   Ishikawa T, 1998, BRIT J ANAESTH, V80, P807, DOI 10.1093/bja/80.6.807
+   JAMES AL, 1988, AM REV RESPIR DIS, V138, P136, DOI 10.1164/ajrccm/138.1.136
+   KATOH T, 1994, CAN J ANAESTH, V41, P1214, DOI 10.1007/BF03020665
+   Kips JC, 2003, EUR RESPIR J, V22, P374, DOI 10.1183/09031936.03.00026403
+   Mazzeo AT, 2004, PEDIATR ANESTH, V14, P596, DOI 10.1111/j.1460-9592.2004.01260.x
+   MITSUHATA H, 1994, ANESTHESIOLOGY, V81, P1230, DOI 10.1097/00000542-199411000-00017
+   Park KW, 1998, ANESTH ANALG, V86, P646, DOI 10.1097/00000539-199803000-00039
+   Que JC, 1999, ANESTHESIOLOGY, V90, P1475, DOI 10.1097/00000542-199905000-00033
+   Rhodes L, 2003, JAMA-J AM MED ASSOC, V289, P2639
+   Rooke GA, 1997, ANESTHESIOLOGY, V86, P1294, DOI 10.1097/00000542-199706000-00010
+   SAKAE RS, 1994, AM J PHYSIOL, V266, pL23
+   Schultz Thomas E, 2005, AANA J, V73, P35
+   Schutz N, 2004, BRIT J ANAESTH, V92, P254, DOI 10.1093/bja/aeh049
+   Shinagawa K, 2003, AM J RESP CRIT CARE, V168, P959, DOI 10.1164/rccm.200210-1188OC
+   Sunyer J, 1999, EUR RESPIR J, V14, P885, DOI 10.1034/j.1399-3003.1999.14d26.x
+   TAGUCHI M, 1994, ANESTHESIOLOGY, V81, P628, DOI 10.1097/00000542-199409000-00016
+   Takala RSK, 2004, ACTA ANAESTH SCAND, V48, P40, DOI 10.1111/j.1399-6576.2004.00266.x
+   Tulic MK, 2003, CHEST, V123, p348S, DOI 10.1378/chest.123.3_suppl.348S
+   Wagers S, 2004, J APPL PHYSIOL, V96, P2019, DOI 10.1152/japplphysiol.00924.2003
+   Weibel E.R., 1990, MODELS LUNG DIS MICR, V47, P199
+   Wiklund CU, 2002, ANESTH ANALG, V95, P1650, DOI 10.1097/00000539-200212000-00032
+   Xisto DG, 2005, AM J RESP CRIT CARE, V171, P829, DOI 10.1164/rccm.200408-997OC
+NR 39
+TC 28
+Z9 28
+U1 0
+U2 5
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0003-2999
+J9 ANESTH ANALG
+JI Anesth. Analg.
+PD MAR
+PY 2007
+VL 104
+IS 3
+BP 631
+EP 637
+DI 10.1213/01.ane.0000255073.96001.cb
+PG 7
+WC Anesthesiology
+SC Anesthesiology
+GA 139KU
+UT WOS:000244431500039
+PM 17312222
+DA 2020-10-30
+ER
+
+PT J
+AU Fernandes, FC
+   Ferreira, HC
+   Cagido, VR
+   Carvalho, GMC
+   Pereira, LS
+   Faffe, DS
+   Zin, WA
+   Rocco, PRM
+AF Fernandes, Fatima C.
+   Ferreira, Halina C.
+   Cagido, Viviane R.
+   Carvalho, Giovanna M. C.
+   Pereira, Leonel S.
+   Faffe, Debora S.
+   Zin, Walter A.
+   Rocco, Patricia R. M.
+TI Effects of dexmedetomidine on respiratory mechanics and control of
+   breathing in normal rats
+SO RESPIRATORY PHYSIOLOGY & NEUROBIOLOGY
+LA English
+DT Article
+DE mammals; rat; mechanics of breathing; elastance; lung viscoelasticity;
+   ventilation; blood gases; pathology; lung histology
+ID INCREASING PLASMA-CONCENTRATIONS; AGONIST DEXMEDETOMIDINE; DOGS;
+   PRESSURE; HUMANS; LUNG; VENTILATION; TRACHEAL; RABBITS; OUTPUT
+AB Dexmedetomidine is a highly selective and specific alpha(2)-adrenergic agorist, with sedative, analgesic, and sympatholytic activities. The aim of the present study was to define the effects of DMED in respiratory mechanics in normal rats. In addition, lung morphometry was studied to determine whether the physiological changes reflected underlying morphological changes defining the sites of action of dexmedetomidine. Arterial blood gases were also determined. Twelve adult Wistar rats were randomly assigned to two groups of six animals each: PENTO and DMED. In PENTO group animals were sedated (diazepam, 5 mg, i.p.) and anaesthetised with pentobarbital sodium (20 mg kg(-1) i.p.). The rats of the DMED group received dexmedetomidine (250 mu g kg(-1) i.p. followed by intravenous infusion of 0.5 mu g kg(-1) h(-1)). In spontaneously breathing rats, minute ventilation, respiratory frequency, and neuromuscular inspiratory drive were lower in dexmedetomidine group, which also presented hypercapnia, whereas tidal volume, inspiratory, expiratory, and total respiratory cycle times were higher in dexmedetomidine group compared to the PENTO group. During mechanical ventilation, respiratory mechanical parameters were similar in both groups. These findings were supported by the absence of histological changes. In conclusion, under the conditions studied, dexmedetomidine did not change respiratory mechanical parameters and lung histology, but induced ventilatory depression. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Univ Fed Rio de Janeiro, Ctr Ciencias Saude, Inst Biofis Carlos Chagas Filho, Lab Pulm Invest, BR-21949900 Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Fac Med, Dept Surg, BR-21949900 Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Physiol Resp Lab, Inst Biofis Carlos Chagas Filho, BR-21949900 Rio De Janeiro, Brazil.
+RP Rocco, PRM (corresponding author), Univ Fed Rio de Janeiro, Ctr Ciencias Saude, Inst Biofis Carlos Chagas Filho, Lab Pulm Invest, Ilha Fundao, BR-21949900 Rio De Janeiro, Brazil.
+EM prmrocco@biof.ufrj.br
+RI Zin, Walter/H-8220-2013
+OI Zin, Walter/0000-0001-8226-9123
+CR ANDERSON S, 1984, J MOL GRAPHICS, V2, P83, DOI 10.1016/0263-7855(84)80060-0
+   Angst MS, 2004, ANESTHESIOLOGY, V101, P744, DOI 10.1097/00000542-200409000-00024
+   BATES JHT, 1988, J APPL PHYSIOL, V65, P408
+   BAYDUR A, 1982, AM REV RESPIR DIS, V126, P788
+   BELLEVILLE JP, 1992, ANESTHESIOLOGY, V77, P1125, DOI 10.1097/00000542-199212000-00013
+   BLOOR BC, 1992, J PHARMACOL EXP THER, V263, P690
+   Bol CJJG, 1997, J PHARMACOL EXP THER, V283, P1051
+   CALDEIRA MPR, 1988, RESP PHYSIOL, V73, P43, DOI 10.1016/0034-5687(88)90126-0
+   Correa FCF, 2001, J APPL PHYSIOL, V91, P803
+   DOZE VA, 1989, ANESTHESIOLOGY, V71, P75, DOI 10.1097/00000542-198907000-00014
+   Ebert TJ, 2000, ANESTHESIOLOGY, V93, P382, DOI 10.1097/00000542-200008000-00016
+   Groeben H, 2004, ANESTHESIOLOGY, V100, P359, DOI 10.1097/00000542-200402000-00026
+   GRUNDSTROM N, 1985, ACTA PHYSIOL SCAND, V125, P513, DOI 10.1111/j.1748-1716.1985.tb07749.x
+   Guo TZ, 1998, ANESTHESIOLOGY, V88, P1634, DOI 10.1097/00000542-199806000-00028
+   Hall JE, 2000, ANESTH ANALG, V90, P699, DOI 10.1097/00000539-200003000-00035
+   Hsu YW, 2004, ANESTHESIOLOGY, V101, P1066, DOI 10.1097/00000542-200411000-00005
+   KNEUSSL MP, 1978, J APPL PHYSIOL, V45, P307
+   MANDERS WT, 1976, CIRC RES, V39, P512, DOI 10.1161/01.RES.39.4.512
+   MILICEMILI J, 1976, CHEST, V70, P131, DOI 10.1378/chest.70.1.131
+   MORTOLA JP, 1983, J APPL PHYSIOL, V55, P250
+   NAGASE T, 1992, J APPL PHYSIOL, V73, P1900
+   NGUYEN D, 1992, ANESTHESIOLOGY, V76, P573, DOI 10.1097/00000542-199204000-00014
+   Nishida T, 2002, INTENS CARE MED, V28, P969, DOI 10.1007/s00134-002-1338-y
+   Ramsay MAE, 2004, ANESTHESIOLOGY, V101, P787
+   Reta GS, 2000, BRIT J ANAESTH, V84, P372
+   Rocco PRM, 1997, RESP PHYSIOL, V110, P9, DOI 10.1016/S0034-5687(97)00067-4
+   SAKAE RS, 1994, AM J PHYSIOL, V266, pL23
+   SALMENPERA MT, 1994, ANESTHESIOLOGY, V80, P837, DOI 10.1097/00000542-199404000-00017
+   SIMILOWSKI T, 1989, J APPL PHYSIOL, V67, P2219
+   Venn RM, 2003, INTENS CARE MED, V29, P201, DOI 10.1007/s00134-002-1579-9
+   Weibel E.R., 1990, MODELS LUNG DIS MICR, V47, P199
+   WHITELAW WA, 1975, RESP PHYSIOL, V23, P181, DOI 10.1016/0034-5687(75)90059-6
+   YAMADA KA, 1983, J PHARMACOL EXP THER, V226, P349
+   ZORNOW MH, 1992, ANESTH ANALG, V75, P232
+   ZORNOW MH, 1991, NEUROPHARMACOLOGY, V30, P1065, DOI 10.1016/0028-3908(91)90135-X
+NR 35
+TC 9
+Z9 9
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1569-9048
+EI 1878-1519
+J9 RESP PHYSIOL NEUROBI
+JI Respir. Physiol. Neuro.
+PD DEC
+PY 2006
+VL 154
+IS 3
+BP 342
+EP 350
+DI 10.1016/j.resp.2006.02.002
+PG 9
+WC Physiology; Respiratory System
+SC Physiology; Respiratory System
+GA 118NZ
+UT WOS:000242950300003
+PM 16527548
+DA 2020-10-30
+ER
+
+PT J
+AU Xisto, DG
+   Farias, LL
+   Ferreira, HC
+   Picanco, MR
+   Amitrano, D
+   Silva, LRLE
+   Negri, EM
+   Mauad, T
+   Carnielli, D
+   Silva, LFF
+   Capelozzi, VL
+   Faffe, DS
+   Zin, WA
+   Rocco, PRM
+AF Xisto, DG
+   Farias, LL
+   Ferreira, HC
+   Picanco, MR
+   Amitrano, D
+   Silva, LRLE
+   Negri, EM
+   Mauad, T
+   Carnielli, D
+   Silva, LFF
+   Capelozzi, VL
+   Faffe, DS
+   Zin, WA
+   Rocco, PRM
+TI Lung parenchyma remodeling in a murine model of chronic allergic
+   inflammation
+SO AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+LA English
+DT Article
+DE actin; collagen; remodeling; tissue mechanics
+ID DENDRITIC CELLS; SMALL AIRWAYS; ASTHMATIC SUBJECTS; INDUCED
+   CONSTRICTION; TISSUE EOSINOPHILIA; PULMONARY-DISEASE; NOCTURNAL ASTHMA;
+   ALVEOLAR TISSUE; ATOPIC ASTHMA; FIBER NETWORK
+AB This study tested the hypotheses that chronic allergic inflammation induces not only bronchial but also lung parenchyma remodeling, and that these histologic changes are associated with concurrent changes in respiratory mechanics. For this purpose, airway and lung parenchyma remodeling were evaluated by quantitative analysis of Collagen and elastin, immunohistochemistry (smooth-muscle actin expression, eosinophil, and dendritic cell densities), and electron microscopy. In vivo (airway resistance, viscoelastic pressure, and static elastance) and in vitro (tissue elastance, resistance, and hysteresivity) respiratory mechanics were also analyzed. BALB/c mice were sensitized with ovalbumin and exposed to repeated ovalbumin challenges. A marked eosinophilic infiltration was seen in lung parenchyma and in large and distal airways. Neutrophils, lymphocytes, and dendritic cells also infiltrated the lungs. There was subepithelial fibrosis, myocyte hypertrophy and hyperplasia, elastic fiber fragmentation, and increased numbers of myofibroblasts in airways and lung parenchyma. Collagen fiber content was increased in the alveolar walls. The volume proportion of smooth muscle-specific actin was augmented in distal airways and alveolar duct walls. Airway resistance, viscoelastic pressure, static elastance, and tissue elastance and resistance were significantly increased. In conclusion, prolonged allergen exposure induced remodeling not only of the airway wall but also of the lung parenchyma, leading to in vivo and in vitro mechanical changes.
+C1 Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, CCS, Lab Invest Pulm,Ilha Fdn, BR-21949900 Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Inst Thorac Dis, Clementino Fraga Filho Univ Hosp, Rio De Janeiro, Brazil.
+   Univ Sao Paulo, Lab Cellular Biol, Sao Paulo, Brazil.
+   Univ Sao Paulo, Dept Pathol, Sao Paulo, Brazil.
+RP Rocco, PRM (corresponding author), Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, CCS, Lab Invest Pulm,Ilha Fdn, BR-21949900 Rio De Janeiro, Brazil.
+EM prmrocco@biof.ufrj.br
+RI Lapa e Silva, Jose R./AAS-4793-2020; Capelozzi, Vera Luiza/C-6363-2013;
+   Silva, Luiz/D-2760-2012; Mauad, Thais/G-1254-2012; Negri, Eva Vanna
+   Lorenza/AAC-5698-2019; Zin, Walter/H-8220-2013; CAPELOZZI, VERA
+   LUIZA/N-1737-2019
+OI Lapa e Silva, Jose R./0000-0003-3116-0253; Silva,
+   Luiz/0000-0002-0181-6357; Mauad, Thais/0000-0002-3354-1466; Negri, Eva
+   Vanna Lorenza/0000-0001-9712-8526; Zin, Walter/0000-0001-8226-9123;
+   CAPELOZZI, VERA LUIZA/0000-0001-9732-5853; delmonte,
+   samuel/0000-0002-3289-4577
+CR Alam R, 2004, J ALLERGY CLIN IMMUN, V113, P38, DOI 10.1016/j.jaci.2003.10.054
+   Albertine KH, 2002, AM J PHYSIOL-LUNG C, V283, pL219, DOI 10.1152/ajplung.00324.2001
+   Arantes-Costa FM, 2002, EUR RESPIR J, V19, P1008, DOI 10.1183/09031936.02.00232402
+   BATES JHT, 1985, J APPL PHYSIOL, V58, P1840
+   BELLINI A, 1993, CHEST, V103, P997, DOI 10.1378/chest.103.4.997
+   Blyth DI, 1996, AM J RESP CELL MOL, V14, P425, DOI 10.1165/ajrcmb.14.5.8624247
+   Bousquet J, 2000, AM J RESP CRIT CARE, V161, P1720, DOI 10.1164/ajrccm.161.5.9903102
+   Bousquet J, 1996, AM J RESP CRIT CARE, V153, P1648, DOI 10.1164/ajrccm.153.5.8630616
+   BROWN PJ, 1984, THORAX, V39, P131, DOI 10.1136/thx.39.2.131
+   Burastero SE, 1999, J ALLERGY CLIN IMMUN, V103, P1136, DOI 10.1016/S0091-6749(99)70189-2
+   Busse W, 1999, AM J RESP CRIT CARE, V160, P1035, DOI 10.1164/ajrccm.160.3.9902064
+   Carroll N, 1997, EUR RESPIR J, V10, P292, DOI 10.1183/09031936.97.10020292
+   CARROLL N, 1993, AM REV RESPIR DIS, V147, P405, DOI 10.1164/ajrccm/147.2.405
+   Carroll NG, 2000, AM J RESP CRIT CARE, V161, P244, DOI 10.1164/ajrccm.161.1.9805005
+   Cheng XM, 2003, IMMUNOL LETT, V89, P31, DOI 10.1016/S0165-2478(03)00107-X
+   Dolhnikoff M, 1999, AM J RESP CRIT CARE, V160, P1750, DOI 10.1164/ajrccm.160.5.9812040
+   Dolhnikoff M, 1998, AM J RESP CRIT CARE, V158, P1607, DOI 10.1164/ajrccm.158.5.9801068
+   Duvernelle C, 2003, PULM PHARMACOL THER, V16, P181, DOI 10.1016/S1094-5539(03)00051-8
+   Faffe DS, 2001, J APPL PHYSIOL, V90, P1400
+   Flood-Page P, 2003, J CLIN INVEST, V112, P1029, DOI 10.1172/JCI200317974
+   FREDBERG JJ, 1989, J APPL PHYSIOL, V67, P2408
+   Hamid Q, 1997, J ALLERGY CLIN IMMUN, V100, P44, DOI 10.1016/S0091-6749(97)70193-3
+   Harris N, 1997, J EXP MED, V185, P177, DOI 10.1084/jem.185.1.177
+   HESSEL EM, 1995, J APPL PHYSIOL, V79, P1711
+   Hirst SJ, 1996, EUR RESPIR J, V9, P808, DOI 10.1183/09031936.96.09040808
+   Homer RJ, 2000, CLIN CHEST MED, V21, P331, DOI 10.1016/S0272-5231(05)70270-7
+   INGENITO EP, 1993, J APPL PHYSIOL, V75, P2541
+   JAMES AL, 1989, AM REV RESPIR DIS, V139, P242, DOI 10.1164/ajrccm/139.1.242
+   Kaminsky DA, 2000, AM J RESP CRIT CARE, V162, P179, DOI 10.1164/ajrccm.162.1.9806079
+   Kapanci Y., 1997, LUNG SCI FDN, P697
+   Komai M, 2003, BRIT J PHARMACOL, V138, P912, DOI 10.1038/sj.bjp.0705105
+   Kraft M, 1999, AM J RESP CRIT CARE, V159, P228, DOI 10.1164/ajrccm.159.1.9804033
+   Kraft M, 2001, AM J RESP CRIT CARE, V163, P1551, DOI 10.1164/ajrccm.163.7.2008013
+   Kraft M, 1996, AM J RESP CRIT CARE, V154, P1505, DOI 10.1164/ajrccm.154.5.8912772
+   KUWANO K, 1993, AM REV RESPIR DIS, V148, P1220, DOI 10.1164/ajrccm/148.5.1220
+   Lagranderie M, 2003, IMMUNOLOGY, V108, P352, DOI 10.1046/j.1365-2567.2003.01609.x
+   Lambrecht BN, 2003, NAT REV IMMUNOL, V3, P994, DOI 10.1038/nri1249
+   LeickMaldonado EA, 1997, J SUBMICR CYTOL PATH, V29, P427
+   LESLIE KO, 1992, CELL MOTIL CYTOSKEL, V22, P92, DOI 10.1002/cm.970220203
+   Lima C., 2002, Clinical and Experimental Allergy, V32, P1659, DOI 10.1046/j.1365-2222.2002.01506.x
+   Lloyd CM, 2001, ADV IMMUNOL, V77, P263, DOI 10.1016/S0065-2776(01)77019-8
+   Lopez-Aguilar J, 1998, RESP PHYSIOL, V113, P239, DOI 10.1016/S0034-5687(98)00054-1
+   LUDWIG MS, 1989, J APPL PHYSIOL, V67, P1220
+   Mcmillan SJ, 2004, CLIN EXP ALLERGY, V34, P497, DOI 10.1111/j.1365-2222.2004.01895.x
+   Moller GM, 1996, CLIN EXP ALLERGY, V26, P517, DOI 10.1046/j.1365-2222.1996.d01-337.x
+   Montes GS, 1996, CELL BIOL INT, V20, P15, DOI 10.1006/cbir.1996.0004
+   NAGASE T, 1994, AM J RESP CRIT CARE, V150, P218, DOI 10.1164/ajrccm.150.1.8025752
+   Nagase T, 1998, CAN J PHYSIOL PHARM, V76, P176
+   NAGASE T, 1992, J APPL PHYSIOL, V73, P1900
+   NOGUCHI H, 1992, AM J PATHOL, V140, P521
+   Palmans E, 2000, AM J RESP CRIT CARE, V161, P627, DOI 10.1164/ajrccm.161.2.9902094
+   Phipps S, 2002, J IMMUNOL, V169, P4604, DOI 10.4049/jimmunol.169.8.4604
+   Rocco PRM, 2003, AM J RESP CRIT CARE, V168, P677, DOI 10.1164/rccm.200302-256OC
+   Rocco PRM, 2001, AM J RESP CRIT CARE, V164, P1067, DOI 10.1164/ajrccm.164.6.2007062
+   ROCCO PRM, 2003, EUR RESPIR J, V22, P3044
+   ROCHE WR, 1989, LANCET, V1, P520
+   SAKAE RS, 1994, AM J PHYSIOL, V266, pL23
+   Schlick W, 1993, Monaldi Arch Chest Dis, V48, P237
+   SEKIZAWA K, 1986, AM REV RESPIR DIS, V133, P593
+   Shinagawa K, 2003, AM J RESP CRIT CARE, V168, P959, DOI 10.1164/rccm.200210-1188OC
+   Tulic MK, 2003, CHEST, V123, p348S, DOI 10.1378/chest.123.3_suppl.348S
+   Tulic MK, 2001, RESP RES, V2, P333, DOI 10.1186/rr83
+   Upham JW, 2003, PHARMACOL THERAPEUT, V100, P75, DOI 10.1016/S0163-7258(03)00094-9
+   Vignola AM, 2003, CHEST, V123, p417S, DOI 10.1378/chest.123.3_suppl.417S
+   Wagers S, 2004, J APPL PHYSIOL, V96, P2019, DOI 10.1152/japplphysiol.00924.2003
+   Wagner EM, 1998, AM J RESP CRIT CARE, V157, P447, DOI 10.1164/ajrccm.157.2.9611043
+   WAGNER EM, 1990, AM REV RESPIR DIS, V141, P584, DOI 10.1164/ajrccm/141.3.584
+   Weibel E.R., 1990, MODELS LUNG DIS MICR, V47, P199
+   Weigert C, 1898, Z ALLG PATHOL, V9, P289
+   Wenzel SE, 1997, AM J RESP CRIT CARE, V156, P737, DOI 10.1164/ajrccm.156.3.9610046
+   Williams TJ, 2004, J CLIN INVEST, V113, P507, DOI 10.1172/JCI200421073
+   WILSON JW, 1993, AM REV RESPIR DIS, V148, P806, DOI 10.1164/ajrccm/148.3.806
+   WONG DTW, 1993, AM J PATHOL, V143, P130
+   XISTO DG, 2004, AM J RESP CRIT CARE, V169, pA295
+   YANAI M, 1992, J APPL PHYSIOL, V72, P1016
+   Yiamouyiannis CA, 1999, AM J PATHOL, V154, P1911, DOI 10.1016/S0002-9440(10)65449-1
+   YING S, 2002, ACI INT, V14, P64
+   Yuan HC, 1997, J APPL PHYSIOL, V83, P1420
+NR 78
+TC 73
+Z9 74
+U1 0
+U2 5
+PU AMER THORACIC SOC
+PI NEW YORK
+PA 25 BROADWAY, 18 FL, NEW YORK, NY 10004 USA
+SN 1073-449X
+EI 1535-4970
+J9 AM J RESP CRIT CARE
+JI Am. J. Respir. Crit. Care Med.
+PD APR 15
+PY 2005
+VL 171
+IS 8
+BP 829
+EP 837
+DI 10.1164/rccm.200408-997OC
+PG 9
+WC Critical Care Medicine; Respiratory System
+SC General & Internal Medicine; Respiratory System
+GA 916VP
+UT WOS:000228414800006
+PM 15657464
+DA 2020-10-30
+ER
+
+PT J
+AU Rocco, PRM
+   Facchinetti, LD
+   Ferreira, HC
+   Negri, EM
+   Capelozzi, VL
+   Faffe, DS
+   Zin, WA
+AF Rocco, PRM
+   Facchinetti, LD
+   Ferreira, HC
+   Negri, EM
+   Capelozzi, VL
+   Faffe, DS
+   Zin, WA
+TI Time course of respiratory mechanics and pulmonary structural
+   remodelling in acute lung injury
+SO RESPIRATORY PHYSIOLOGY & NEUROBIOLOGY
+LA English
+DT Article
+DE mechanics of breathing; elastance; lung viscoelasticity; hysteresivity;
+   extracellular matrix; collagen; elastin; mammals; rat; pathology; lung
+   histopathology
+ID DISTRESS-SYNDROME; EXTRACELLULAR-MATRIX; FLOW INTERRUPTION; TISSUE
+   MECHANICS; EARLY PHASE; FIBROSIS; PROCOLLAGEN; RATS; FIBROPROLIFERATION;
+   PARENCHYMA
+AB The aim of this study was to evaluate the time course of in vivo and in vitro respiratory mechanics and examine whether these parameters could reflect the temporal changes in lung parenchyma remodelling in paraquat (PQ)-induced lung injury. Measurements were done 1, 3 and 8 weeks after the intraperitoneal (i.p.) injection of saline (control) or paraquat (7 mg kg(-1)) in rats. Airway and tissue resistances increased from control in PQ1 and PQ3 and returned to control values in PQ8, in accordance with the magnitude of bronchoconstriction. Viscoelastic/inhomogeneous pressure, tissue elastance, the number of polymorphonuclear cells, and collagen fibre content in lung parenchyma increased in PQ1 and remained elevated in PQ3 and PQ8. Static elastance increased in PQ1, returned to control values after 3 weeks, and was correlated with the volume fraction of collapsed alveoli. In conclusion, there is a restoration of normal alveolar-capillary lung units with a gradual improvement in airway and tissue resistances and static elastance. However, the on-going fibrotic process kept elevated tissue elastance and viscoelastic/inhomogeneous pressure. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, Lab Pulm Invest, Ilha Fdn, BR-21949900 Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, Physiol Resp Lab, Ilha Fdn, BR-21949900 Rio De Janeiro, Brazil.
+   Hosp AC Camargo Fund Antonio Prudente, Dept Thorac Med, Sao Paulo, Brazil.
+   Univ Sao Paulo, Fac Med, Dept Pathol, BR-05508 Sao Paulo, Brazil.
+RP Rocco, PRM (corresponding author), Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, Lab Pulm Invest, Ilha Fdn, BR-21949900 Rio De Janeiro, Brazil.
+EM prmrocco@biof.ufrj.br
+RI CAPELOZZI, VERA LUIZA/N-1737-2019; Negri, Elnara M/F-3643-2019;
+   Capelozzi, Vera Luiza/C-6363-2013; Zin, Walter/H-8220-2013
+OI CAPELOZZI, VERA LUIZA/0000-0001-9732-5853; Negri, Elnara
+   M/0000-0002-6428-6066; Zin, Walter/0000-0001-8226-9123; delmonte,
+   samuel/0000-0002-3289-4577
+CR BATES JHT, 1987, MED BIOL ENG COMPUT, V25, P136, DOI 10.1007/BF02442841
+   BATES JHT, 1988, J APPL PHYSIOL, V64, P2204
+   BAYDUR A, 1982, AM REV RESPIR DIS, V126, P788
+   Chesnutt AN, 1997, AM J RESP CRIT CARE, V156, P840, DOI 10.1164/ajrccm.156.3.9701124
+   DANGELO E, 1989, J APPL PHYSIOL, V67, P2556
+   DELAVAL PM, 1985, CRIT CARE MED, V13, P1056, DOI 10.1097/00003246-198512000-00015
+   Ebihara T, 2000, AM J RESP CRIT CARE, V162, P1569, DOI 10.1164/ajrccm.162.4.9912011
+   Faffe DS, 2001, J APPL PHYSIOL, V90, P1400
+   FREDBERG JJ, 1989, J APPL PHYSIOL, V67, P2408
+   Fullmer H M, 1974, J Oral Pathol, V3, P291, DOI 10.1111/j.1600-0714.1974.tb01724.x
+   GREGORY TJ, 1991, J CLIN INVEST, V88, P1976, DOI 10.1172/JCI115523
+   GROSSMAN RF, 1980, J APPL PHYSIOL, V48, P1045
+   Hoff CR, 1999, CONNECT TISSUE RES, V40, P145, DOI 10.3109/03008209909029110
+   KOCHI T, 1988, J APPL PHYSIOL, V64, P441
+   Liebler JM, 1998, THORAX, V53, P823, DOI 10.1136/thx.53.10.823
+   Lopez-Aguilar J, 1998, RESP PHYSIOL, V113, P239, DOI 10.1016/S0034-5687(98)00054-1
+   Marshall RP, 2000, AM J RESP CRIT CARE, V162, P1783, DOI 10.1164/ajrccm.162.5.2001061
+   Meduri GU, 1998, AM J RESP CRIT CARE, V158, P1432
+   MIJAILOVICH SM, 1993, J APPL PHYSIOL, V74, P665
+   Montes GS, 1996, CELL BIOL INT, V20, P15, DOI 10.1006/cbir.1996.0004
+   MORTOLA JP, 1983, J APPL PHYSIOL, V55, P250
+   Nagase T, 1996, J APPL PHYSIOL, V80, P583
+   Pugin J, 1999, CRIT CARE MED, V27, P304, DOI 10.1097/00003246-199902000-00036
+   RAGHOW R, 1985, J CLIN INVEST, V76, P1733, DOI 10.1172/JCI112163
+   RAGHU G, 1985, AM REV RESPIR DIS, V131, P281, DOI 10.1164/ajrccm/138.3.703
+   Rocco PRM, 2003, AM J RESP CRIT CARE, V168, P677, DOI 10.1164/rccm.200302-256OC
+   Rocco PRM, 2001, AM J RESP CRIT CARE, V164, P1067, DOI 10.1164/ajrccm.164.6.2007062
+   SAKAE RS, 1994, AM J PHYSIOL-LUNG C, V266, P23
+   SALDIVA PHN, 1992, J APPL PHYSIOL, V72, P302
+   SIMILOWSKI T, 1989, J APPL PHYSIOL, V67, P2219
+   SMITH P, 1974, J PATHOL, V114, P57, DOI 10.1002/path.1711140202
+   WEIBEL E, 1990, MORPHOMETRY STEREOLO
+   Weigert C, 1898, Z ALLG PATHOL, V9, P289
+   Yuan HC, 2000, J APPL PHYSIOL, V89, P3
+   Yuan HC, 1997, J APPL PHYSIOL, V83, P1420
+NR 35
+TC 19
+Z9 21
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1569-9048
+J9 RESP PHYSIOL NEUROBI
+JI Respir. Physiol. Neuro.
+PD OCT 12
+PY 2004
+VL 143
+IS 1
+BP 49
+EP 61
+DI 10.1016/j.resp.2004.06.017
+PG 13
+WC Physiology; Respiratory System
+SC Physiology; Respiratory System
+GA 866OU
+UT WOS:000224783600005
+PM 15477172
+DA 2020-10-30
+ER
+
+PT J
+AU Rocco, PRM
+   Momesso, DP
+   Figueira, RC
+   Ferreira, HC
+   Cadete, RA
+   Legora-Machado, A
+   Koatz, VLG
+   Lima, LM
+   Barreiro, EJ
+   Zin, WA
+AF Rocco, PRM
+   Momesso, DP
+   Figueira, RC
+   Ferreira, HC
+   Cadete, RA
+   Legora-Machado, A
+   Koatz, VLG
+   Lima, LM
+   Barreiro, EJ
+   Zin, WA
+TI Therapeutic potential of a new phosphodiesterase inhibitor in acute lung
+   injury
+SO EUROPEAN RESPIRATORY JOURNAL
+LA English
+DT Article
+DE inflammation; lung morphometry; phosphodiesterasc inhibitor; respiratory
+   mechanics
+ID ANTIINFLAMMATORY ACTIVITY; FIBROBLAST CHEMOTAXIS; TISSUE MECHANICS;
+   DOUBLE-BLIND; GUINEA-PIGS; RAT MODEL; MICE; PENTOXIFYLLINE; ROLIPRAM;
+   INFLAMMATION
+AB The effects of LASSBio596, a phosphodiesterase type-4 and -5 inhibitor, were tested in Escherichia coli lipopolysaccharide (LPS)-induced acute lung injury.
+   Twenty-four BALB/c mice were randomly divided into four groups. In the control group, saline (0.05 mL) was injected intratracheally (i.t.). The LPS group received LPS (10 mug i.t., 0.05 mL). In the LASSBio596 groups, LASSBio596 (10 mg(.)kg(-1), 0.2 mL) was injected intra peritoneally 1 h before or 6 h after LPS administration. After 24 h, in vivo (lung resistive and viscoelastic pressures, and static and dynamic elastances) and in vitro (tissue resistance, elastance and hysteresivity) pulmonary mechanics, lung morphometry and collagenous fibre content were computed. Neutrophils and tumour necrosis factor (TNF)-alpha levels were evaluated in the bronchoalveolar lavage fluid.
+   LASSBio596 prevented the changes in lung mechanics, and inhibited neutrophilic recruitment, TNF-alpha release, bronchoconstriction, alveolar collapse and the increment of collagen fibre content induced by LPS, independently of the moment of injection.
+   In conclusion, LASSBio596 modulated the lung inflammatory process and had the potential to block fibroproliferation. Thus, agents that inhibit phosphodiesterase 4 and 5 simultaneously may be a useful adjunct therapy for acute lung injury.
+C1 Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, Physiol Resp Lab, BR-21941 Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Dept Med Biochem, Rio De Janeiro, Brazil.
+   Univ Fed Rio de Janeiro, Lab Avaliacao & Sintese Substancias Bioativas, Rio De Janeiro, Brazil.
+RP Zin, WA (corresponding author), Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, CCS, Lab Fisiol Resp Ilha Fundao, BR-21949900 Rio De Janeiro, Brazil.
+RI Barreiro, Eliezer J/B-1131-2011; Zin, Walter/H-8220-2013
+OI Zin, Walter/0000-0001-8226-9123; Moreira Lima, Lidia/0000-0002-8625-6351
+CR AGOSTONI E, 1964, HANDBOOK PHYSIOLOG 3, V1, P387
+   Asti C, 2000, PULM PHARMACOL THER, V13, P61, DOI 10.1006/pupt.2000.0231
+   BATES JHT, 1988, J APPL PHYSIOL, V64, P2204
+   Corbel M, 2002, J PHARMACOL EXP THER, V301, P258, DOI 10.1124/jpet.301.1.258
+   Creamer KM, 2001, CHEST, V119, P1893, DOI 10.1378/chest.119.6.1893
+   de Moraes VLG, 1998, BRIT J PHARMACOL, V123, P631
+   Essayan DM, 2001, J ALLERGY CLIN IMMUN, V108, P671, DOI 10.1067/mai.2001.119555
+   Faffe DS, 2000, EUR RESPIR J, V15, P85, DOI 10.1183/09031936.00.15108500
+   Faffe DS, 2001, J APPL PHYSIOL, V90, P1400
+   FREDBERG JJ, 1989, J APPL PHYSIOL, V67, P2408
+   Hafner D, 2000, AM J RESP CRIT CARE, V161, P1495
+   Holzmann A, 2001, INTENS CARE MED, V27, P251, DOI 10.1007/s001340000774
+   HOWELL RE, 1995, J PHARMACOL EXP THER, V275, P703
+   Ichinose F, 2001, CRIT CARE MED, V29, P1000, DOI 10.1097/00003246-200105000-00024
+   Ichinose F, 1998, ANESTHESIOLOGY, V88, P410, DOI 10.1097/00000542-199802000-00020
+   KAMBAYASHI T, 1995, J IMMUNOL, V155, P4909
+   Kohyama T, 2002, AM J RESP CELL MOL, V26, P694, DOI 10.1165/ajrcmb.26.6.4743
+   Kohyama T, 2001, CHEST, V120, p14S, DOI 10.1378/chest.120.1_suppl.S14
+   Lauterbach R, 1999, CRIT CARE MED, V27, P807, DOI 10.1097/00003246-199904000-00042
+   Lima LM, 2002, BIOORGAN MED CHEM, V10, P3067, DOI 10.1016/S0968-0896(02)00152-9
+   Lopez-Aguilar J, 1998, RESP PHYSIOL, V113, P239, DOI 10.1016/S0034-5687(98)00054-1
+   Miotla JM, 1998, AM J RESP CELL MOL, V18, P411, DOI 10.1165/ajrcmb.18.3.2913
+   Montes GS, 1996, CELL BIOL INT, V20, P15, DOI 10.1006/cbir.1996.0004
+   MORTOLA JP, 1983, J APPL PHYSIOL, V55, P250
+   Nagase T, 1996, J APPL PHYSIOL, V80, P583
+   RICE GC, 1994, P NATL ACAD SCI USA, V91, P3857, DOI 10.1073/pnas.91.9.3857
+   Rocco PRM, 2001, AM J RESP CRIT CARE, V164, P1067, DOI 10.1164/ajrccm.164.6.2007062
+   SAKAE RS, 1994, AM J PHYSIOL, V2669, P223
+   SEKUT L, 1995, CLIN EXP IMMUNOL, V100, P126
+   SIMILOWSKI T, 1989, J APPL PHYSIOL, V67, P2219
+   Spond J, 2001, PULM PHARMACOL THER, V14, P157, DOI 10.1006/pupt.2001.0291
+   Staubach KH, 1998, ARCH SURG-CHICAGO, V133, P94, DOI 10.1001/archsurg.133.1.94
+   Steinhorn RH, 2000, CRIT CARE MED, V28, P490, DOI 10.1097/00003246-200002000-00034
+   Toward TJ, 2002, J PHARMACOL EXP THER, V302, P814, DOI 10.1124/jpet.102.033951
+   TURNER CR, 1993, CIRC SHOCK, V39, P237
+   Weibel E.R., 1990, MODELS LUNG DIS MICR, V47, P199
+   Wiedemann HP, 2002, CRIT CARE MED, V30, P1
+   Yuan HC, 1997, J APPL PHYSIOL, V83, P1420
+   ZABEL P, 1989, LANCET, V2, P1474
+NR 39
+TC 33
+Z9 33
+U1 0
+U2 0
+PU EUROPEAN RESPIRATORY SOC JOURNALS LTD
+PI SHEFFIELD
+PA 146 WEST ST, STE 2.4, HUTTONS BLDG, SHEFFIELD S1 4ES, ENGLAND
+SN 0903-1936
+J9 EUR RESPIR J
+JI Eur. Resp. J.
+PD JUL
+PY 2003
+VL 22
+IS 1
+BP 20
+EP 27
+DI 10.1183/09031936.03.00108603
+PG 8
+WC Respiratory System
+SC Respiratory System
+GA 701NV
+UT WOS:000184174400006
+PM 12882446
+OA Bronze
+DA 2020-10-30
+ER
+
+PT J
+AU Guinsburg, R
+   Almeida, MFB
+   Zagari, MCF
+   Latorre, MRDO
+   Santos, AMN
+   Daniel, AS
+   Ferreira, H
+   Kopelman, B
+AF Guinsburg, R
+   Almeida, MFB
+   Zagari, MCF
+   Latorre, MRDO
+   Santos, AMN
+   Daniel, AS
+   Ferreira, H
+   Kopelman, B
+TI Contributing factors to analgesic prescription in mechanically
+   ventilated newborn infants
+SO PEDIATRIC RESEARCH
+LA English
+DT Meeting Abstract
+C1 Univ Fed Sao Paulo, Div Neonatol, Sao Paulo, Brazil.
+   Univ Sao Paulo, Sch Publ Hlth, Sao Paulo, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INT PEDIATRIC RESEARCH FOUNDATION, INC
+PI BALTIMORE
+PA 351 WEST CAMDEN ST, BALTIMORE, MD 21201-2436 USA
+SN 0031-3998
+J9 PEDIATR RES
+JI Pediatr. Res.
+PD MAR
+PY 2000
+VL 47
+IS 3
+MA 11
+BP 424
+EP 424
+PG 1
+WC Pediatrics
+SC Pediatrics
+GA 287HH
+UT WOS:000085500100034
+DA 2020-10-30
+ER
+
+PT J
+AU Guinsburg, R
+   Almeida, MFB
+   Zagari, MCF
+   Latorre, MDDO
+   Santos, AMN
+   Daniel, AS
+   Ferreira, HMGC
+   Kopelman, BI
+AF Guinsburg, R
+   Almeida, MFB
+   Zagari, MCF
+   Latorre, MDDO
+   Santos, AMN
+   Daniel, AS
+   Ferreira, HMGC
+   Kopelman, BI
+TI Contributing factors to analgesic prescription in mechanically
+   ventilated newborn infants
+SO PEDIATRIC RESEARCH
+LA English
+DT Meeting Abstract
+C1 Univ Fed Sao Paulo, Div Neonatol, Sao Paulo, Brazil.
+RI Guinsburg, Ruth/F-1984-2013; Latorre, Maria RDO/J-5780-2014
+OI Guinsburg, Ruth/0000-0003-1967-9861; Latorre, Maria
+   RDO/0000-0002-5189-3457
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU INT PEDIATRIC RESEARCH FOUNDATION, INC
+PI BALTIMORE
+PA 351 WEST CAMDEN ST, BALTIMORE, MD 21201-2436 USA
+SN 0031-3998
+J9 PEDIATR RES
+JI Pediatr. Res.
+PD APR
+PY 1999
+VL 45
+IS 4
+MA 1172
+BP 200A
+EP 200A
+PN 2
+PG 1
+WC Pediatrics
+SC Pediatrics
+GA 182AQ
+UT WOS:000079476701173
+DA 2020-10-30
+ER
+
+EF

@@ -1,0 +1,1074 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gomes, APF
+   da Costa, ACC
+   Yokoo, EM
+   Fonseca, VD
+AF Fernandes Gomes, Ana Paula
+   Carioca da Costa, Ana Carolina
+   Yokoo, Edna Massae
+   Fonseca, Vania de Matos
+TI Impact of Bean Consumption on Nutritional Outcomes amongst Adolescents
+SO NUTRIENTS
+LA English
+DT Article
+DE adolescent; food behaviour; food consumption; nutritional status;
+   Fabaceae; obesity
+ID RIO-DE-JANEIRO; FREQUENCY; QUALITY
+AB Brazilian adolescents have undergone a noteworthy nutritional epidemiological transition. There is an increase in the prevalence of overweight and high consumption of ultra-processed foods in parallel with patterns of traditional meals that include beans. This study analyzed associations between bean consumption in the diet of adolescents and nutrition outcomes. Multiple regression analysis showed a significant reduction in body mass index (BMI), body fat percentage (%BF) and LDL-cholesterol (LDL-c) values among those with bean consumption equal to or greater than five times a week. Adolescents who had lunch outside the home and those who did not have the habit of having lunch showed a significantly higher BMI. There was an increase in the %BF among married adolescents and those who did not have lunch. There was a reduction of LDL-c among those with intermediate per capita income and those who consumed processed juice less than 5 times a week, and an increase among those who did not have breakfast. There were significant interactions between sexual maturation, energy consumption, physical activity and energy consumption. Thus, in the context of this study, the presence of beans in the diet, at frequencies equal to or greater than five times a week, can be considered a proxy for healthy eating.
+C1 [Fernandes Gomes, Ana Paula] Fundacao Oswaldo Cruz, Natl Inst Womens Child & Adolescent Hlth Fernande, Postgrad Program Child & Womens Hlth, Rio De Janeiro 20021140, Brazil.
+   [Fernandes Gomes, Ana Paula] Fed Univ State Rio de Janeiro, Dept Fundamental Nutr, Rio De Janeiro 22290240, Brazil.
+   [Carioca da Costa, Ana Carolina; Fonseca, Vania de Matos] Fundacao Oswaldo Cruz, Natl Inst Womens Child & Adolescent Hlth Fernande, Rio De Janeiro 20021140, Brazil.
+   [Yokoo, Edna Massae] Fluminense Fed Univ, Dept Epidemiol & Biostat, Niteroi 24220000, RJ, Brazil.
+RP Gomes, APF (corresponding author), Fundacao Oswaldo Cruz, Natl Inst Womens Child & Adolescent Hlth Fernande, Postgrad Program Child & Womens Hlth, Rio De Janeiro 20021140, Brazil.; Gomes, APF (corresponding author), Fed Univ State Rio de Janeiro, Dept Fundamental Nutr, Rio De Janeiro 22290240, Brazil.
+EM apnandes@yahoo.com; ana.costa@iff.fiocruz.br; eyokoo@gmail.com;
+   vaniamf@iff.fiocruz.br
+OI Yokoo, Edna/0000-0002-3513-2084; Carioca da Costa, Ana
+   Carolina/0000-0002-9456-3319; GOMES, ANA/0000-0002-3855-2818
+FU Research Foundation of the State of Rio de Janeiro (FAPERJ)Carlos Chagas
+   Filho Foundation for Research Support of the State of Rio de Janeiro
+   (FAPERJ); Fluminense Federal University; National Council for Scientific
+   and Technological Development (CNPq)National Council for Scientific and
+   Technological Development (CNPq)
+FX The Cardio metabolic, Renal and Family (Camelia) study was supported by
+   the Research Foundation of the State of Rio de Janeiro (FAPERJ),
+   Fluminense Federal University and National Council for Scientific and
+   Technological Development (CNPq).
+CR Araujo MC, 2017, PUBLIC HEALTH NUTR, V20, P3145, DOI 10.1017/S1368980017002099
+   Araujo MC, 2008, CAD SAUDE PUBLICA, V24, P2775, DOI 10.1590/S0102-311X2008001200006
+   Araujo MP, 2008, THESIS
+   ARNOLD LM, 1993, AM J CLIN NUTR, V57, P446
+   Barbosa Kiriaque Barra Ferreira, 2006, Rev. Bras. Saude Mater. Infant., V6, P375, DOI 10.1590/S1519-38292006000400003
+   Martins APB, 2013, REV SAUDE PUBL, V47, P656, DOI 10.1590/S0034-8910.2013047004968
+   Brasil. Instituto Brasileiro de Geografia e Estatistica, 2010, PESQ ORC FAM 2008 20
+   Brasil. Ministerio da Saude. Secretaria de Atencao a Saude. Departamento de Atencao Basica, 2014, GUIA ALIMENTAR POPUL
+   Castanheira M, 2018, PUBLIC HEALTH NUTR, V21, P1028, DOI [10.1017/S136898001700338X, 10.1017/s136898001700338x]
+   Chor D., 2018, THESIS
+   Costa CD, 2018, CAD SAUDE PUBLICA, V34, DOI [10.1590/0102-311x00021017, 10.1590/0102-311X00021017]
+   Cunha DB, 2018, APPETITE, V120, P374, DOI 10.1016/j.appet.2017.09.028
+   D’Avila Helen Freitas, 2017, Rev. paul. pediatr., V35, P54, DOI 10.1590/1984-0462/;2017;35;1;00001
+   Assumpção Daniela de, 2012, Rev. bras. epidemiol., V15, P605, DOI 10.1590/S1415-790X2012000300014
+   Oliveira Patrícia Morais de, 2016, Rev. paul. pediatr., V34, P30, DOI [10.1016/j.rppede.2015.06.020, 10.1016/j.rpped.2015.06.003]
+   Instituto Brasileiro de Geografia e Estatistica, 2019, PESQ ORC FAM 2017 20
+   Instituto Brasileiro de Geografia e Estatistica, 2016, PESQ NAC SAUD ESC 20
+   Instituto Brasileiro de Geografia e Estatistica [Homepage na Internet], DEZ IPCA FOI 1 15 AC
+   Joint WHO/ FAO Expert Consultation, 2003, DIET NUTR PREV CHRON
+   Leal Greisse Viero da Silva, 2010, Rev. bras. epidemiol., V13, P457, DOI 10.1590/S1415-790X2010000300009
+   Leung CW, 2018, AM J PREV MED, V54, P394, DOI 10.1016/j.amepre.2017.11.005
+   Lintsi M, 2004, CLIN PHYSIOL FUNCT I, V24, P85, DOI 10.1111/j.1475-097X.2004.00534.x
+   Lohman TG, 1988, ANTHROPOMETRIC STAND
+   Lopez-Legarrea P, 2015, NUTR HOSP, V31, P2088, DOI 10.3305/nh.2015.31.5.8598
+   Maia Emanuella Gomes, 2018, Rev. bras. epidemiol., V21, pe180009, DOI 10.1590/1980-549720180009.supl.1
+   Mann J, 2007, EUR J CLIN NUTR, V61, pS100, DOI 10.1038/sj.ejcn.1602940
+   Ministe'rio da Sau'de (Brasil) Secretaria de Atencao a Sau'de Departamento de Atencao Ba'sica, 2011, OR COL AN DAD ANT TR
+   Ministerio da Saude (Brasil) Secretaria de AtencAo a Saude Departamento de AtencAo Basica, 2008, GUIA AL POP BRAS PRO
+   Monteiro CA, 2019, ULTRAPROCESSED FOOD
+   O'Brien E, 2001, BMJ-BRIT MED J, V322, P1167, DOI 10.1136/bmj.322.7295.1167
+   Organizacion Mundial de la Salud, 2016, 69 AS MUND SAL INF C
+   Orihuela CA, 2017, APPETITE, V117, P303, DOI 10.1016/j.appet.2017.07.008
+   Roba AC, 2015, ECOL FOOD NUTR, V54, P240, DOI 10.1080/03670244.2014.974593
+   ROCHE AF, 1981, AM J CLIN NUTR, V34, P2831
+   Rodrigues Paulo Rogério Melo, 2012, Rev. bras. epidemiol., V15, P662, DOI 10.1590/S1415-790X2012000300019
+   Salles-Costa Rosana, 2003, Cad. Saúde Pública, V19, P1095, DOI 10.1590/S0102-311X2003000400031
+   Silva FA, 2017, J PEDIAT-BRAZIL, V93, P79, DOI [10.1016/j.jped.2016.04.008, 10.1016/j.jpedp.2016.07.007]
+   Souza AD, 2016, REV SAUDE PUBL, V50, DOI 10.1590/S01518-8787.2016050006698
+   Tavares LF, 2014, CAD SAUDE PUBLICA, V30, P1029, DOI 10.1590/0102-311X00000413
+   Tavares LF, 2012, PUBLIC HEALTH NUTR, V15, P82, DOI 10.1017/S1368980011001571
+   Universidade Federal de SAo Paulo Departamento de Informatica em Saude, 2005, PROGR AP NUTR NUTWIN
+   *USDA, 2001, USDA NUTR DAT STAND
+   World Health Organization, GLOB HLTH OBS
+   World Health Organization, 1995, EXP COMM PHYS STAT U
+   World Health Organization, 2010, GLOB REC PHYS ACT HL
+   World Heath Organization, 2003, FRUIT VEG PROM IN RE
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2072-6643
+J9 NUTRIENTS
+JI Nutrients
+PD APR
+PY 2020
+VL 12
+IS 4
+AR 1083
+DI 10.3390/nu12041083
+PG 14
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA LL8VE
+UT WOS:000531831300203
+PM 32295142
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU dos Santos, SFM
+   Soares, FVM
+   de Abranches, AD
+   da Costa, ACC
+   Moreira, MEL
+   Fonseca, VD
+AF Morais dos Santos, Samira Fernandes
+   Mendes Soares, Fernanda Valente
+   de Abranches, Andrea Dunshee
+   Carioca da Costa, Ana Carolina
+   Lopes Moreira, Maria Elisabeth
+   Fonseca, Vania de Matos
+TI Infants with microcephaly due to ZIKA virus exposure: nutritional status
+   and food practices
+SO NUTRITION JOURNAL
+LA English
+DT Article
+DE Zika virus; Microcephaly; Nutritional status; Infant nutrition
+ID FEEDING PRACTICES; CHILDREN; BRAZIL; AGE
+AB BackgroundChildren with microcephaly due to vertical exposure to Zika virus are an interesting population for investigation. Highlighted among their unique aspects are those related to nutrition due to its impact on child growth and development. Knowledge about the nutrition of microcephalic infants can help mothers and caregivers provide better care. Thus, this study aimed to describe the nutritional status and feeding practices of infants with microcephaly due to Zika virus exposure at birth and 12-23months of age.MethodsThis is a descriptive study developed from a cohort of patients attending a public institution of reference. A total of 65 infants attended outpatient nutrition clinics. The food practices were described using the 24-h food recall and food consumption indicators. Anthropometric measurements and consultations were made using the Child Health Handbook to obtain information on the nutritional status (weight, height and head circumference) at the time of consultation and birth.ResultsThere was a significant decrease in z-scores for weight, height and head circumference (HC) from birth to the time of the consultation. However, most infants did not show weight-for-height deficits. Additionally, HC was correlated with the anthropometric indices weight-for-age, height-for-age, body mass index-for-age and weight-for-height.ConclusionInfants exhibited a worsening of their nutritional status between birth and the time of their consultation, notably when we evaluated the indices of height and head circumference for age. The main inadequacies regarding dietary practices were low food diversity, use of ultra-processed products and low lipid intake.
+C1 [Morais dos Santos, Samira Fernandes; Mendes Soares, Fernanda Valente; de Abranches, Andrea Dunshee; Carioca da Costa, Ana Carolina; Lopes Moreira, Maria Elisabeth; Fonseca, Vania de Matos] Fiocruz MS, Fundacao Oswaldo Cruz, IFF, Inst Inst Nacl Saude Mulher Crianca & Adolescente, Av Rui Barbosa 716, BR-22250020 Rio De Janeiro, Brazil.
+RP dos Santos, SFM (corresponding author), Fiocruz MS, Fundacao Oswaldo Cruz, IFF, Inst Inst Nacl Saude Mulher Crianca & Adolescente, Av Rui Barbosa 716, BR-22250020 Rio De Janeiro, Brazil.
+EM samira_fernandes13@hotmail.com
+RI Moreira, Maria Elisabeth Lopes/AAA-3775-2020; de Abranches, Andrea
+   Dunshee/ABA-8578-2020
+OI Moreira, Maria Elisabeth Lopes/0000-0002-2034-0294; Santos,
+   Samira/0000-0002-1745-7678
+FU Wellcome TrustWellcome Trust [205377/Z/16/Z]; United Kingdom's
+   Department for International Development; Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq)National Council for
+   Scientific and Technological Development (CNPq) [441098/2016-9];
+   Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ)Carlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ) [E_18/2015TXB]; European Union's Horizon 2020 research
+   and innovation programme under Zika-PLAN grant [734584]
+FX This study was supported by the Wellcome Trust (205377/Z/16/Z) and the
+   United Kingdom's Department for International Development; Conselho
+   Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq)
+   (441098/2016-9); Fundacao de Amparo a Pesquisa do Estado do Rio de
+   Janeiro (FAPERJ)(E_18/2015TXB) and European Union's Horizon 2020
+   research and innovation programme under Zika-PLAN grant agreement no.
+   734584.
+CR [Anonymous], 2015, DEZ PASS AL SAUD GUI
+   [Anonymous], 2017, OR INT VIG AT SAUD A
+   [Anonymous], 2002, DIET REF INT EN CARB
+   Brasil. Ministerio da Saude. Secretaria de Atencao a Saude. Departamento de Atencao Basica, 2011, OR COL AN DAD ANTR S
+   Claro RM, 2015, EPIDEMIOL SERV SAUDE, V24, P257, DOI 10.5123/S1679-49742015000200008
+   Cozzolino SMF, 2013, BASES BIOQUIMICAS FI, P1257
+   CULLEY WJ, 1969, J PEDIATR-US, V75, P380, DOI 10.1016/S0022-3476(69)80262-3
+   del Campo M, 2017, AM J MED GENET A, V173, P841, DOI 10.1002/ajmg.a.38170
+   Eickmann SH, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00047716
+   Marinho LMF, 2016, CIENC SAUDE COLETIVA, V21, P977, DOI 10.1590/1413-81232015213.06532015
+   Leal MC, 2017, EMERG INFECT DIS, V23, P1253, DOI 10.3201/eid2308.170354
+   Leandro CG, 2016, DEV MED CHILD NEUROL, V58, P893, DOI 10.1111/dmcn.13134
+   da Cunha AJLA, 2015, J PEDIAT-BRAZIL, V91, pS44, DOI 10.1016/j.jped.2015.07.002
+   Marinho F, 2016, EPIDEMIOL SERV SAUDE, V25, P701, DOI [10.5123/S1679-49742016000400004, 10.5123/s1679-49742016000400004]
+   Ministerio da Saude (BR), 2015, MIN SAUD CONF REL EN
+   Ministerio da Saude (BR) Secretaria de Atencao a Saude. Departamento de Atencao Basica, 2015, OR AV MARC CONS AL A
+   Ministerio da Saude. Sistema de Vigilancia Alimentar e Nutricional, 2006, SIST VIG AL NUTR
+   Monteiro C, 2010, WORLD NUTR, V1, P237
+   da Silva AAM, 2016, EMERG INFECT DIS, V22, P1953, DOI 10.3201/eid2211.160956
+   Mozetic RM, 2016, REAS REV ELETRONICA, V8
+   Oliveira JM, 2015, CAD SAUDE PUBLICA, V31, P377, DOI 10.1590/0102-311X00209513
+   Penagini F, 2015, NUTRIENTS, V7, P9400, DOI 10.3390/nu7115469
+   Prado EL, 2014, NUTR REV, V72, P267, DOI 10.1111/nure.12102
+   Saldan PC, 2015, REV NUTR, V28, P409, DOI 10.1590/1415-52732015000400007
+   Villar J, 2014, LANCET, V384, P857, DOI 10.1016/S0140-6736(14)60932-6
+   White JM, 2017, MATERN CHILD NUTR, V13, DOI 10.1111/mcn.12505
+   WHO (World Health Organization), 2011, WHO ANTHR VERS 3 2 2
+   World Health Organization, 2016, SCREEN ASS MAN NEON
+   World Health Organization, 2016, ASS INF MICR CONT ZI
+   Zin AA, 2017, JAMA PEDIATR, V171, P847, DOI 10.1001/jamapediatrics.2017.1474
+NR 30
+TC 4
+Z9 4
+U1 0
+U2 2
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1475-2891
+J9 NUTR J
+JI Nutr. J.
+PD JAN 11
+PY 2019
+VL 18
+AR 4
+DI 10.1186/s12937-019-0429-3
+PG 7
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA HH2LR
+UT WOS:000455550600002
+PM 30634976
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Araujo, RG
+   Fonseca, VD
+   de Oliveira, MIC
+   Ramos, EG
+AF Araujo, Renara Guedes
+   Fonseca, Vania de Matos
+   Couto de Oliveira, Maria Ines
+   Ramos, Eloane Goncalves
+TI External evaluation and self-monitoring of the Baby-friendly Hospital
+   Initiative's maternity hospitals in Brazil
+SO INTERNATIONAL BREASTFEEDING JOURNAL
+LA English
+DT Article
+DE Breastfeeding; System; Monitoring; Program evaluation; Maternity
+   hospital; Normative evaluation; Baby-friendly hospital initiative
+AB BackgroundIn Brazil, the Baby-Friendly Hospital Initiative (BFHI) proposes following the criteria, the Ten Steps to Successful Breastfeeding, International Code of Marketing of Breast-milk Substitutes and Good birth and delivery practices. Brazilian Baby-Friendly Hospitals are reassessed triennially by external evaluators and annually by self-monitoring. This study aimed to verify if the self-monitoring system fulfills its role of enabling accredited hospitals to assess and improve their compliance with the BFHI criteria. In this sense, we will analyze the self-monitoring evaluation results and compare them with those of the external reassessment.MethodsThis descriptive evaluation study of the compliance with the BFHI criteria by the Brazilian Baby-Friendly Hospitals by self-monitoring evaluators from 2010 to 2015 and by external evaluators in 2015.ResultsSelf-monitoring was performed in all years from 2010 to 2015 by 143 BFHI accredited hospitals. The trend of the levels of compliance with BFHI's criteria according to self-monitoring evaluations was stable over the assessed period. Most criteria presented compliance above 70%, except Step 4 (skin-to-skin contact and breastfeeding in the first hour of life), with mean compliance of 67%. Steps 1 (written policy), 7 (rooming-in) and 9 (give no artificial teats) showed mean compliance above 90%. Regarding the external evaluation carried out in 2015, the criteria with lowest compliance were Step 4 and Woman-Friendly care, both below 50%. Steps 9 and 10 (refer mothers to breastfeeding support groups) reached levels of compliance above 90%. For 2015, self-monitoring provided significant higher compliance levels than those from external evaluations in most criteria, except Step 3 (prenatal information on breastfeeding) and Step 10. There was a difference of more than 30% points between evaluations of Steps 1 (written policy), 2 (training), 5 (show mothers how to breastfeed), Woman-Friendly Care and father or mother stay with their newborn.ConclusionsThe self-monitoring system fulfilled partially its role of allowing accredited hospitals to self-assess and improve rates of compliance with BFHI criteria. Future trainings of hospital managers need to address difficulties and identify solutions to improve implementation of Steps 4 and 6.
+C1 [Araujo, Renara Guedes] Anexo Minist Saude, Coordinat Brazilian Child Hlth & Breastfeeding Pr, SAF Quadra 1,Bloco B,4 Andar, BR-70058900 Brasilia, DF, Brazil.
+   [Fonseca, Vania de Matos; Ramos, Eloane Goncalves] Fundacao Oswaldo Cruz, Fernandes Figueira Inst, Unidade Pesquisa Clin, Ave Rui Barbosa 716, BR-20021140 Rio De Janeiro, RJ, Brazil.
+   [Couto de Oliveira, Maria Ines] Fluminense Fed Univ, Biostat & Epidemiol Dept, Publ Hlth Inst, Ave Marques Parana 303, BR-24020071 Niteroi, RJ, Brazil.
+RP Ramos, EG (corresponding author), Fundacao Oswaldo Cruz, Fernandes Figueira Inst, Unidade Pesquisa Clin, Ave Rui Barbosa 716, BR-20021140 Rio De Janeiro, RJ, Brazil.
+EM eloane.alt@gmail.com
+CR Atchan M, 2017, WOMEN BIRTH, V30, P51, DOI 10.1016/j.wombi.2016.07.004
+   Esteves TMB, 2015, CAD SAUDE PUBLICA, V31, P2390, DOI 10.1590/0102-311X00123114
+   Brasil Ministerio da Saude, 2014, EV GROUP 32 MAT HOSP
+   Brasil. Ministerio da Saude. Secretaria de Atencao a Saude. Departamento de Acoes Programaticas e Estrategicas, 2009, 2 PESQ PREV AL MAT N
+   Chaparro CM, 2007, ALEM SOBREVIVENCIA P
+   de Oliveira MIC, 2010, REV SAUDE PUBL, V44, P60, DOI 10.1590/S0034-89102010000100007
+   de Carvalho ML, 2016, REPROD HEALTH, V13, DOI 10.1186/s12978-016-0234-9
+   Feliciano Katia Virginia de Oliveira, 2005, Rev. Bras. Saude Mater. Infant., V5, ps83, DOI 10.1590/S1519-38292005000500009
+   Grguric J, 2016, J HUM LACT, V32, P568, DOI 10.1177/0890334415625872
+   Haiek LN, 2012, PUBLIC HEALTH NUTR, V15, P894, DOI 10.1017/S1368980011002394
+   Leal MD, 2012, REPROD HEALTH, V9, DOI 10.1186/1742-4755-9-15
+   Ministerio da Saude, 2017, SIST INF HOSP SUS
+   Ministerio da Saude, 2017, SIST INF NASC VIV
+   Ministerio da Saude, BFHI DAT SYST
+   Ministerio da Saude, 2004, MAN NORM PROF SAUD M
+   de Araujo MDM, 2007, J HUM LACT, V23, P246, DOI 10.1177/0890334407303899
+   Oliveira Maria Inês Couto de, 2012, Rev. Bras. Saude Mater. Infant., V12, P281, DOI 10.1590/S1519-38292012000300008
+   Organizacion Panamericana de la Salud, 2016, IN HOSP AM NIN AM LA
+   Rea Marina Ferreira, 2003, Cad. Saúde Pública, V19, pS37, DOI 10.1590/S0102-311X2003000700005
+   Semenic S, 2012, J HUM LACT, V28, P317, DOI 10.1177/0890334412445195
+   Toma TS, 2011, REV PANAM SALUD PUBL, V30, P505
+   Venancio SI, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00010315
+   Venancio SI, 2012, J EPIDEMIOL COMMUN H, V66, P914, DOI 10.1136/jech-2011-200332
+   Victora CG, 2016, LANCET, V387, P475, DOI 10.1016/S0140-6736(15)01024-7
+   WHO, 2009, BAB FRIENDL HOSP IN
+   World Health Organization, 2017, WHONMHNHD174
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 4
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1746-4358
+J9 INT BREASTFEED J
+JI Int. Breastfeed. J.
+PD JAN 5
+PY 2019
+VL 14
+AR 1
+DI 10.1186/s13006-018-0195-4
+PG 9
+WC Obstetrics & Gynecology; Pediatrics
+SC Obstetrics & Gynecology; Pediatrics
+GA HG4BE
+UT WOS:000454918400001
+PM 30627208
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU dos Santos, SFM
+   Soares, FVM
+   de Abranches, AD
+   da Costa, ACC
+   Gomes, SD
+   Fonseca, VD
+   Moreira, MEL
+AF Morais dos Santos, Samira Fernandes
+   Mendes Soares, Fernanda Valente
+   de Abranches, Andrea Dunshee
+   Carioca da Costa, Ana Carolina
+   Dos Santos Gomes-Junior, Saint Clair
+   Fonseca, Vania de Matos
+   Lopes Moreira, Maria Elisabeth
+TI Nutritional profile of newborns with microcephaly and factors associated
+   with worse outcomes
+SO CLINICS
+LA English
+DT Article
+DE Zika Virus; Microcephaly; Nutritional Status; Newborn
+ID ZIKA VIRUS-INFECTION; CHILDREN; INFANTS; BRAZIL
+AB OBJECTIVE: To describe the nutritional profile of newborns with microcephaly and factors associated with worse outcomes during the first 14 days of life.
+   METHODS: This investigation is a longitudinal, descriptive study carried out in 21 full-term neonates exposed vertically to the Zika virus and hospitalized in a neonatal intensive care unit from February to September 2016. Patients receiving parenteral nutrition were excluded. Data analysis was performed using a generalized estimating equation model and Student's t-test to evaluate the association between worsening weight-for-age z-scores and independent clinical, sociodemographic and nutritional variables during hospitalization, with p < 0.05 indicating significance.
+   RESULTS: During hospitalization, there was a decrease in the mean values of the weight-for-age z-scores. The factors associated with worse nutritional outcomes were symptomatic exposure to the Zika virus, low maternal schooling, absence of maternal income and consumption of infant formula (p <0.05). Calcification and severe microcephaly were also associated with poor nutritional outcomes. Energy and macronutrient consumption remained below the recommendations and had an upward trend during hospitalization.
+   CONCLUSION: The presence of cerebral calcification, the severity of microcephaly and symptomatic maternal exposure to Zika virus affected the nutritional status of newborns. In terms of nutritional factors, human milk intake had a positive impact, reducing weight loss in the first days of life. Other known factors, such as income and maternal schooling, were still associated with a poor nutritional status.
+C1 [Morais dos Santos, Samira Fernandes; Mendes Soares, Fernanda Valente; de Abranches, Andrea Dunshee; Carioca da Costa, Ana Carolina; Dos Santos Gomes-Junior, Saint Clair; Fonseca, Vania de Matos; Lopes Moreira, Maria Elisabeth] Fundacao Oswaldo Cruz IFF Fiocruz, Inst Nacl Saude Mulher Crianca & Adolescente Fern, Rio De Janeiro, RJ, Brazil.
+RP Moreira, MEL (corresponding author), Fundacao Oswaldo Cruz IFF Fiocruz, Inst Nacl Saude Mulher Crianca & Adolescente Fern, Rio De Janeiro, RJ, Brazil.
+EM bebethiff@gmail.com
+RI de Abranches, Andrea Dunshee/ABA-8578-2020; Moreira, Maria Elisabeth
+   Lopes/AAA-3775-2020; Gomes Junior, Saint Clair/V-5393-2018
+OI Moreira, Maria Elisabeth Lopes/0000-0002-2034-0294; Gomes Junior, Saint
+   Clair/0000-0002-1554-943X
+FU Conselho Nacional de Desenvolvimento Cientifico e TecnologicoNational
+   Council for Scientific and Technological Development (CNPq) [CNPq
+   441098/2016-9]; Fundacao de Amparo a Pesquisa do Estado do Rio de
+   JaneiroCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ) [FAPERJ -E_18/2015TXB]; Wellcome
+   TrustWellcome Trust [205377/Z/16/Z]; United Kingdom's Department for
+   International Development; European Union's Horizon 2020 research and
+   innovation programme under Zika-PLAN grant [734584]
+FX Conselho Nacional de Desenvolvimento Cientifico e Tecnologico - CNPq
+   441098/2016-9. Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro
+   - FAPERJ -E_18/2015TXB. Wellcome Trust (205377/Z/16/Z) and the United
+   Kingdom's Department for International Development. European Union's
+   Horizon 2020 research and innovation programme under Zika-PLAN grant
+   agreement no. 734584.
+CR Caram ALA, 2010, REV NUTR, V23, P211, DOI 10.1590/S1415-52732010000200004
+   Bell KL, 2010, BMC PUBLIC HEALTH, V10, DOI 10.1186/1471-2458-10-179
+   Black MM, 2017, LANCET, V389, P77, DOI 10.1016/S0140-6736(16)31389-7
+   Botelho AC, 2016, REV BRAS SAUDE MA S1, V16, pS45
+   Brasil. Ministerio da Saude, 2012, SAUDE CRIANCA CRESCI
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Brunoni D, 2016, CIENC SAUDE COLETIVA, V21, P3296, DOI 10.1590/1413-812320152110.16832016
+   Chimelli L, 2018, J NEUROPATH EXP NEUR, V77, P193, DOI 10.1093/jnen/nlx116
+   Pone MVD, 2018, CHILD NERV SYST, V34, P63, DOI 10.1007/s00381-017-3635-3
+   Davanzo R, 2013, J HUM LACT, V29, P45, DOI 10.1177/0890334412444005
+   de Oliveira CS, 2016, J PEDIAT-BRAZIL, V92, P103, DOI 10.1016/j.jped.2016.02.003
+   del Campo M, 2017, AM J MED GENET A, V173, P841, DOI 10.1002/ajmg.a.38170
+   Diniz D, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00046316
+   Horovitz DDG, 2016, NEUROLOGY, V87, P118, DOI 10.1212/WNL.0000000000002814
+   Gulland A, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i657
+   Institute of Medicine, 2002, DIET REF INT EN CARB
+   Kehinde O, 2013, NIGER J PAEDIAT, V40, P299
+   Leal MC, 2016, MMWR-MORBID MORTAL W, V65, P917, DOI 10.15585/mmwr.mm6534e3
+   Leandro CG, 2016, DEV MED CHILD NEUROL, V58, P893, DOI 10.1111/dmcn.13134
+   da Cunha AJLA, 2015, J PEDIAT-BRAZIL, V91, pS44, DOI 10.1016/j.jped.2015.07.002
+   Lopes Patrícia Ayrosa C., 2013, Rev. paul. pediatr., V31, P344, DOI 10.1590/S0103-05822013000300011
+   Ministerio da Saude (BR), 2015, SAUD CRIANC AL MAT A
+   Ministerio da Saude (BR), 2015, MIN SAUD CONF REL EN
+   Ministerio da Saude Brazil, 2009, ALEITAMENTO MATERNO, V123
+   Ministerio da Saude. Secretaria de Vigilancia em Saude. Secretaria de Atencao a Saude, 2017, OR INT VIG AT SAUD A
+   National Institute of Neurological Disorders and Stroke, HYDR FACT SHEET
+   Oliveira FLC, 2013, MANUAL TERAPIA NUTR
+   Penagini F, 2015, NUTRIENTS, V7, P9400, DOI 10.3390/nu7115469
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Soares FVM, 2017, PED AC SOC M SAN FRA
+   Souza Alex Sandro Rolland, 2016, Rev. Bras. Saude Mater. Infant., V16, P467, DOI 10.1590/1806-93042016000400007
+   Vieira AA, 2011, EARLY HUM DEV, V87, P577, DOI 10.1016/j.earlhumdev.2011.04.016
+   WHO, 2016, WHO CHILD GROWTH STA
+   World Health Organization, 2016, SCREEN ASS MAN NEON
+   World Health Organization ( WHO), 2011, CHILD GROWTH STAND W
+   Zin AA, 2017, JAMA PEDIATR, V171, P847, DOI 10.1001/jamapediatrics.2017.1474
+NR 36
+TC 2
+Z9 2
+U1 0
+U2 1
+PU HOSPITAL CLINICAS, UNIV SAO PAULO
+PI SAO PAULO
+PA FAC MEDICINA, UNIV SAO PAULO, SAO PAULO, SP 00000, BRAZIL
+SN 1807-5932
+EI 1980-5322
+J9 CLINICS
+JI Clinics
+PY 2019
+VL 74
+AR e798
+DI 10.6061/clinics/2019/e798
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA JH5QK
+UT WOS:000492823100001
+PM 31644665
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, VD
+AF Fonseca, Vania de Matos
+TI The Food and Nutrition Agenda and the challenges it faces
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Editorial Material
+C1 [Fonseca, Vania de Matos] Fiocruz MS, Inst Fernandes Figueira, Rio De Janeiro, RJ, Brazil.
+RP Fonseca, VD (corresponding author), Fiocruz MS, Inst Fernandes Figueira, Rio De Janeiro, RJ, Brazil.
+CR Brasil. Ministerio da Saude (MS), 2012, POL NAC AL NUTR
+   Jaime PC, 2018, CIENC SAUDE COLETIVA, V23, P1829, DOI 10.1590/1413-81232018236.05392018
+   Monteiro CA, 2015, PUBLIC HEALTH NUTR, V18, P2311, DOI 10.1017/S1368980015002165
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD DEC
+PY 2018
+VL 23
+IS 12
+BP 4030
+EP 4030
+DI 10.1590/1413-812320182312.30152018
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HD3KP
+UT WOS:000452415400001
+PM 30539987
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Sally, ED
+   dos Anjos, LA
+   Ramos, EG
+   Fonseca, VD
+   da Silva, BDM
+   Wahrlich, V
+AF Fonseca Sally, Enilce de Oliveira
+   dos Anjos, Luiz Antonio
+   Ramos, Eloane Goncalves
+   Fonseca, Vania de Matos
+   Messias da Silva, Bruna de Andrade
+   Wahrlich, Vivian
+TI Dietary intake of pregnant adolescents cared for in primary health care
+   units of a Brazilian urban municipality
+SO NUTRICION HOSPITALARIA
+LA English
+DT Article
+DE Pregnancy; Adolescent; Nutritional status; Dietary intake
+ID ENERGY
+AB Objective: to evaluate the adequacy of dietary intake and the anthropometric nutritional status of pregnant adolescents in the city of Niteroi, Rio de Janeiro, Brazil.
+   Materials and methods: forty-two adolescents (13-19 years of age), with single-fetus gestation, assisted in the public prenatal health care units between 2008-2014, participated in the study. Body mass index (BMI) was used to assess the nutritional status. Dietary intake was assessed by 24h dietary recalls on two days during a week and one during weekend. Basal metabolic rate was measured by indirect calorimetry and used to determine the energy requirements. Mixed effects models were used to assess dietary intake over the gestational weeks (random effect) and BMI.
+   Results: mean age (SD) of the pregnant women was 16.5 (1.5) years and the majority received allowance from a cash transfer federal program. Overall, 30.3% were overweight/obese pre-pregnancy and 16.7%, during pregnancy. Energy and protein intake adequacies decreased with increasing BMI and gestational week. There was adequate dietary intake of energy, protein, vitamin A and zinc and insufficient intakes of iron and calcium. There was excessive intake of sodium.
+   Conclusions: pregnant adolescents living in underprivileged socio-economic environments assisted for prenatal care in primary health care units have adequate intakes of energy, protein, vitamin A and zinc. Pre-pregnancy overweight and high sodium intake are causes of concern due to the future implications for their health. The official Brazilian recommended criterion for anthropometric assessment in pregnancy of adolescents proved to be inadequate.
+C1 [Fonseca Sally, Enilce de Oliveira; dos Anjos, Luiz Antonio; Messias da Silva, Bruna de Andrade; Wahrlich, Vivian] Univ Fed Fluminense, Dept Nutr Social, Lab Avaliacao Nutr & Func, Rua Mario Santos Braga 30,Sala 415, BR-24020140 Niteroi, RJ, Brazil.
+   [Ramos, Eloane Goncalves; Fonseca, Vania de Matos] Fiocruz MS, Inst Nacl Saude Mulher Crianca & Adolescente Fern, Rio De Janeiro, Brazil.
+RP dos Anjos, LA (corresponding author), Univ Fed Fluminense, Dept Nutr Social, Lab Avaliacao Nutr & Func, Rua Mario Santos Braga 30,Sala 415, BR-24020140 Niteroi, RJ, Brazil.
+EM lanjos@gmail.com
+FU Brazilian Ministry of Health [551359/2007-2]; National Research Council
+   [311801/2006-4, 310461/2016-2]
+FX The study was partially funded by the Brazilian Ministry of Health
+   (Proc. 551359/2007-2) and the National Research Council (Procs.
+   311801/2006-4 and 310461/2016-2).
+CR [Anonymous], 2007, WHO TECHN REP SER, V935
+   Associacao Brasileira de Empresas de Pesquisa, CRIT CLASS EC BRAS A
+   Atalah E, 1997, REV MED CHILE, V125, P1429
+   Baker PN, 2009, AM J CLIN NUTR, V89, P1114, DOI 10.3945/ajcn.2008.27097
+   Bianchi CM, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149858
+   Martins APB, 2011, REV SAUDE PUBL, V45, P870, DOI 10.1590/s0034-89102011005000056
+   Chiavegatto ADP, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-1369-2
+   de Onis M, 2007, B WORLD HEALTH ORGAN, V85, P660, DOI 10.2471/BLT.07.043497
+   de Vasconcellos MB, 2013, CAD SAUDE PUBLICA, V29, P713, DOI 10.1590/S0102-311X2013000800009
+   Enes Carla Cristina, 2015, Rev. bras. epidemiol., V18, P798, DOI 10.1590/1980-5497201500040010
+   Campos ABF, 2013, REV NUTR, V26, P551, DOI 10.1590/S1415-52732013000500006
+   Food and Agriculture Organization/World Health Organization/United Nations University. Human energy requirements, 2004, FOOD NUTR TECHN REP, V1
+   Instituto Brasileiro de Geografia e Estatistica, 2011, PESQ ORC FAM 2008 20
+   Instituto Brasileiro de Geografia e Estatistica, PESQ ORC FAM 2008 20
+   Jesus Reyes D, 2014, SEX SALUD SOC, V17, P98
+   Lee SE, 2013, PUBLIC HEALTH NUTR, V16, P1340, DOI 10.1017/S1368980012004417
+   Lohman TG, 1988, ANTHROPOMETRIC STAND
+   Ministerio da Saude, SIST INF NASC VIV SI
+   Ministerio da Saude. MS, 2012, CAD AT BAS, V32, P318
+   Moran VH, 2007, BRIT J NUTR, V97, P411, DOI 10.1017/S0007114507381373
+   Nucleo de Estudos e Pesquisas em Alimentacao/Universidade Estadual de Campinas, 2011, TAB BRAS COMP AL, P161
+   Ota E, 2015, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD000032.pub3
+   Padilha PD, 2007, REV BRAS GINECOL OBS, V29, P511, DOI 10.1590/S0100-72032007001000004
+   Rodrigues Érika Marafon, 2006, Cad. Saúde Pública, V22, P923, DOI 10.1590/S0102-311X2006000500005
+   Fraga ACSA, 2014, CAD SAUDE PUBLICA, V30, P633, DOI 10.1590/0102-311X00085313
+   Scott C, 2014, BMC PREGNANCY CHILDB, V14, DOI 10.1186/1471-2393-14-167
+   Thomas DM, 2016, OBES SCI PRACT, V2, P174, DOI 10.1002/osp4.29
+   U. S. Department of Agriculture Agricultural Research Service, USDA NAT NUTR DAT ST
+   Vieira EM, 2017, REV SAUDE PUBL, V51, DOI [10.1590/S1518-8787.2017051006528, 10.1590/s1518-8787.2017051006528]
+   Wahrlich V, 2006, CLIN NUTR, V25, P687, DOI 10.1016/j.clnu.2006.01.002
+   WEIR JBD, 1949, J PHYSIOL-LONDON, V109, P1, DOI 10.1113/jphysiol.1949.sp004363
+   WHO, 2003, WHO TECHN REP SER, V916
+   WHO, 1988, WPRRC3912 WHO, P5
+   WHO, 2016, CONS EV CHILDH OB CO
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ARAN EDICIONES, S L
+PI MADRID
+PA C/ CASTELLO, 128, 1O, MADRID, 28006, SPAIN
+SN 0212-1611
+EI 1699-5198
+J9 NUTR HOSP
+JI Nutr. Hosp.
+PD MAY-JUN
+PY 2018
+VL 35
+IS 3
+BP 596
+EP 605
+DI 10.20960/nh.1412
+PG 10
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA GM4LK
+UT WOS:000438091500016
+PM 29974768
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Villela, LD
+   Meio, MDBB
+   Fonseca, VD
+   de Abranches, AD
+   Gomes, S
+   da Costa, ACC
+   Murta, MM
+   Nehab, SRG
+   Soares, FVM
+   Moreira, MEL
+AF Villela, Leticia Duarte
+   Barbosa Baker Meio, Maria Dalva
+   Fonseca, Vania de Matos
+   de Abranches, Andrea Dunshee
+   Gomes Junior, Saint-Clair
+   Carioca da Costa, Ana Carolina
+   Murta, Maria M.
+   Goncalves Nehab, Sylvia Reis
+   Mendes Soares, Fernanda Valente
+   Lopes Moreira, Maria Elisabeth
+TI Growth and body composition of preterm infants less than or equal to 32
+   weeks: Cohort study
+SO EARLY HUMAN DEVELOPMENT
+LA English
+DT Article
+ID AIR-DISPLACEMENT PLETHYSMOGRAPH; POSTNATAL-GROWTH; BIRTH-WEIGHT; LEAN
+   MASS; NUTRITION; AGE; ADIPOSITY; STANDARDS; VELOCITY; WATER
+AB Background: Extremely preterm infants with weights less than the 10th percentile at discharge have a fat-free mass deficit.
+   Aim To analyze the relationship of weight Z-scores less than-2SD at term age with fat-free mass and fat mass at term age and at 1 and 3 months of corrected age in very preterm infants.
+   Study design: cohort study: Subjects: Sixty-six preterm infants born before or at 32 weeks gestation with birth weight equal or greater than the 10th percentile for age were included at term age. They were classified according to weight Z-score as either: "term (-)" (n = 18) if weight Z-scores were less-2SD or "term (+)" (n = 48) if the weight Z-scores were equal or greater than-2SD at term age.
+   Outcome measures: Growth and body composition by an air displacement plethysmography system and bioimpedance were assessed at term age and 1 and 3 months of corrected age.
+   Results: Lower fat-free mass persisted up to 3 months in the "term (-)" group [4137 g (645) vs 4592 g (707), p <.01]. Fat mass was lower in the "term (-)" group at term and at 1 month but was similar at 3 months of corrected age [1295 g (774) vs 1477 g (782), p =.109]. Weight, length and head circumference Z-scores were lower in the "term (-)" group compared to those in the "term ( +)" group.
+   Conclusions: The lean tissue deficits were maintained in the "term (-)" group while the differences in body fat percentage were not.
+C1 [Villela, Leticia Duarte; Barbosa Baker Meio, Maria Dalva; Fonseca, Vania de Matos; de Abranches, Andrea Dunshee; Gomes Junior, Saint-Clair; Carioca da Costa, Ana Carolina; Murta, Maria M.; Goncalves Nehab, Sylvia Reis; Mendes Soares, Fernanda Valente; Lopes Moreira, Maria Elisabeth] Inst Fernandes Figueira IFF Fiocruz, Ave Rui Barbosa,716 Flamengo, BR-22250020 Rio De Janeiro, RJ, Brazil.
+RP Moreira, MEL (corresponding author), Inst Fernandes Figueira IFF Fiocruz, Ave Rui Barbosa,716 Flamengo, BR-22250020 Rio De Janeiro, RJ, Brazil.
+EM mdmeio@centroin.com.br; scgomes@iff.fiocruz.br;
+   ana.costa@iff.ftocruz.br; mariamurta@id.uff.br; bebeth@iff.fiocruz.br
+RI Moreira, Maria Elisabeth Lopes/AAA-3775-2020; de Abranches, Andrea
+   Dunshee/ABA-8578-2020; Junior, Clair Gomes/F-7579-2012
+OI Moreira, Maria Elisabeth Lopes/0000-0002-2034-0294; Junior, Clair
+   Gomes/0000-0002-1554-943X
+FU CNPq - Conselho Nacional de Pesquisa -BrazilNational Council for
+   Scientific and Technological Development (CNPq)
+FX CNPq - Conselho Nacional de Pesquisa -Brazil
+CR Agostoni C, 2010, J PEDIATR GASTR NUTR, V50, P85, DOI 10.1097/MPG.0b013e3181adaee0
+   Meio MDBB, 2008, J PERINAT MED, V36, P354, DOI 10.1515/JPM.2008.058
+   Belfort MB, 2013, J PEDIATR-US, V163, P1564, DOI 10.1016/j.jpeds.2013.06.032
+   BELL MJ, 1978, ANN SURG, V187, P1, DOI 10.1097/00000658-197801000-00001
+   Cooke RJ, 2004, ARCH DIS CHILD-FETAL, V89, pF428, DOI 10.1136/adc.2001.004044
+   de Onis M, 2006, PUBLIC HEALTH NUTR, V9, P942, DOI 10.1017/PHN20062005
+   Demerath EW, 2017, AM J CLIN NUTR, V105, P70, DOI 10.3945/ajcn.116.138248
+   Demerath EW, 2014, AM J HUM BIOL, V26, P291, DOI 10.1002/ajhb.22500
+   Embleton ND, 2014, WORLD REV NUTR DIET, V110, P177, DOI 10.1159/000358466
+   Fenton TR, 2013, BMC PEDIATR, V13, DOI 10.1186/1471-2431-13-59
+   Gianni ML, 2015, ACTA PAEDIATR, V104, pE119, DOI 10.1111/apa.12856
+   Gianni ML, 2012, EARLY HUM DEV, V88, pS13, DOI 10.1016/j.earlhumdev.2011.12.022
+   Griffin IJ, 2012, EARLY HUM DEV, V88, pS19, DOI 10.1016/j.earlhumdev.2011.12.023
+   Hay WW, 2008, NEONATOLOGY, V94, P245, DOI 10.1159/000151643
+   Higgins RD, 2012, J PEDIATR-US, V160, P511, DOI 10.1016/j.jpeds.2011.12.024
+   Horbar JD, 2015, PEDIATRICS, V136, pE84, DOI 10.1542/peds.2015-0129
+   Huke V, 2013, J PEDIATR-US, V163, P1301, DOI 10.1016/j.jpeds.2013.06.035
+   Johnson MJ, 2012, PEDIATRICS, V130, pE640, DOI 10.1542/peds.2011-3379
+   Kensara OA, 2005, AM J CLIN NUTR, V82, P980
+   Lapillonne A, 2013, J PEDIATR-US, V162, pS7, DOI 10.1016/j.jpeds.2012.11.048
+   Ma GS, 2004, AM J CLIN NUTR, V79, P653
+   Mamelle N, 2006, EUR J PEDIATR, V165, P717, DOI 10.1007/s00431-005-0045-4
+   Martin CR, 2009, PEDIATRICS, V124, P649, DOI 10.1542/peds.2008-3258
+   Okada T, 2015, PEDIATR RES, V77, P136, DOI 10.1038/pr.2014.164
+   Ong KK, 2015, ACTA PAEDIATR, V104, P974, DOI 10.1111/apa.13128
+   Quintal Virginia S., 2014, J. Pediatr. (Rio J.), V90, P556, DOI 10.1016/j.jped.2014.03.001
+   Raiten DJ, 2016, AM J CLIN NUTR, V103, p648S, DOI 10.3945/ajcn.115.117309
+   Ramel SE, 2011, J PEDIATR GASTR NUTR, V53, P333, DOI 10.1097/MPG.0b013e3182243aa7
+   Rice MS, 2015, NUTR CLIN PRACT, V30, P625, DOI 10.1177/0884533615578917
+   Richardosn DK, 2001, J PEDIATR-US, V138, P92, DOI 10.1067/mpd.2001.109608
+   Rochow N, 2016, PEDIATR RES, V79, P870, DOI 10.1038/pr.2016.15
+   Roggero P., 2014, ITAL J PEDIAT S2, V40, pA27
+   Roggero P, 2012, PEDIATR RES, V72, P316, DOI 10.1038/pr.2012.75
+   Roggero P, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0014489
+   Roggero P, 2009, EARLY HUM DEV, V85, P349, DOI 10.1016/j.earlhumdev.2008.12.011
+   Senterre T, 2014, WORLD REV NUTR DIET, V110, P201, DOI 10.1159/000358468
+   SHENNAN AT, 1988, PEDIATRICS, V82, P527
+   Singhal A, 2004, LANCET, V363, P1642, DOI 10.1016/S0140-6736(04)16210-7
+   Lima PAT, 2014, J PEDIAT-BRAZIL, V90, P427, DOI 10.1016/j.jped.2014.04.004
+   Tang W, 1997, ARCH DIS CHILD-FETAL, V77, pF123, DOI 10.1136/fn.77.2.F123
+   Tudehope D, 2013, J PEDIATR-US, V162, pS72, DOI 10.1016/j.jpeds.2012.11.056
+   Urlando A, 2003, PEDIATR RES, V53, P486, DOI 10.1203/01.PDR.0000049669.74793.E3
+   van de Lagemaat M, 2014, EUR J CLIN NUTR, V68, P1261, DOI 10.1038/ejcn.2014.182
+   Villar J, 2010, ARCH DIS CHILD, V95, P1034, DOI 10.1136/adc.2009.175067
+NR 44
+TC 3
+Z9 3
+U1 0
+U2 3
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0378-3782
+EI 1872-6232
+J9 EARLY HUM DEV
+JI Early Hum. Dev.
+PD FEB
+PY 2018
+VL 117
+BP 90
+EP 95
+DI 10.1016/j.earlhumdev.2018.01.007
+PG 6
+WC Obstetrics & Gynecology; Pediatrics
+SC Obstetrics & Gynecology; Pediatrics
+GA GB9KF
+UT WOS:000429392000015
+PM 29360048
+DA 2020-11-10
+ER
+
+PT J
+AU Ventura, DD
+   Fonseca, VD
+   Ramos, EG
+   Marinheiro, LPF
+   de Souza, RAG
+   Chaves, CRMD
+   Peixoto, MVM
+AF Ventura, Danyelle de Almeida
+   Fonseca, Vania de Matos
+   Ramos, Eloane Goncalves
+   Figueiredo Marinheiro, Lizanka Paola
+   Gomes de Souza, Rita Adriana
+   Moutinho de Miranda Chaves, Celia Regina
+   Marques Peixoto, Maria Virginia
+TI Association between quality of the diet and cardiometabolic risk factors
+   in postmenopausal women
+SO NUTRITION JOURNAL
+LA English
+DT Article
+DE Aging; Menopause; Eating habits
+ID BRAZIL
+AB Background: Climateric is a phase of women's life marked by the transition from the reproductive to the non-reproductive period. In addition to overall weight gain, the menopause is also associated with the increase of abdominal fat. We used The Healthy Eating Index as a summary measure to evaluate the major components and the quality of women's diet after the onset of the menopause. This study aims at examining the association between the quality of the diet and cardiometabolic risk factors in postmenopausal women.
+   Methods: Cross-sectional study including 215 postmenopausal women attending a public outpatient clinic. The 24-hour dietary recall method was used to assess the food intake and to establish the Healthy Eating Index. Diets were then classified as appropriate diet (> 80 points), diet "requiring improvement" (80-51 points), and poor diet (< 51 points). Cardiometabolic risk factors included abdominal obesity, dyslipidemia, diabetes mellitus, and hypertension. The Fisher's exact test was utilized for the Statistical analysis.
+   Results: The analysis of the food intake showed that the average daily intake of lipids (36.7%) and sodium (2829.9 mg) were above the recommended. Only 8.8% of the women performed moderate or intense physical exercises on a regular basis. The diet was considered poor in 16.3%, "requiring improvement" in 82.8%, and appropriate for only 0.9% of the women. The study detected increased waist circumference in 92.1% of the participants. The mean concentration of triglycerides was of 183.3 mg/dl, and 130.7 mg/dl for cholesterol (Low Density Lipoprotein).
+   Conclusion: Women consume a low quality diet, possibly due to the low intake of vegetables and fruits and excessive consumption of sodium. These inappropriate eating habits are associated with and, have a negative impact on the cardiometabolic risk factors such as abdominal obesity.
+C1 [Ventura, Danyelle de Almeida; Fonseca, Vania de Matos; Ramos, Eloane Goncalves; Figueiredo Marinheiro, Lizanka Paola; Moutinho de Miranda Chaves, Celia Regina; Marques Peixoto, Maria Virginia] Fiocruz MS, IFF, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Gomes de Souza, Rita Adriana] Univ Mato Grosso, Cuiaba, Mato Grosso, Brazil.
+RP Fonseca, VD (corresponding author), Fiocruz MS, IFF, Ave Rui Barbosa,716 Flamengo, BR-21045900 Rio De Janeiro, RJ, Brazil.
+EM vaniamf36@hotmail.com
+CR Ancao MS, 2005, PROGRAMA APOIO NUTR
+   Fernandes CE, 2004, CLIMATERIO MANUAL OR
+   Fisberg Regina Mara, 2004, Rev. Nutr., V17, P301, DOI 10.1590/S1415-52732004000300003
+   França Ana Paula, 2008, Rev. Bras. Saude Mater. Infant., V8, P65, DOI 10.1590/S1519-38292008000100008
+   FRIEDEWALD WT, 1972, CLIN CHEM, V18, P499
+   Frisancho AR, 1990, ANTHROPOMETRIC STAND
+   Gambacciani M, 2001, MATURITAS, V39, P125, DOI 10.1016/S0378-5122(01)00194-3
+   Hung HC, 2004, JNCI-J NATL CANCER I, V96, P1577, DOI 10.1093/jnci/djh296
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2011, PESQ ORC FAM POF 200
+   Levy-Costa RB, 2005, REV SAUDE PUBL, V39, P530, DOI [10.1590/S0034-89102005000400003, 10.1590/s0034-89102005000400003]
+   Lohman T.G., 1988, ANTROPHOMETRIC STAND
+   Martinazzo J, 2013, CIENC SAUDE COLETIVA, V18, P3349, DOI 10.1590/S1413-81232013001100024
+   -Ministerio da Saude, 2005, GUIA AL POP BRAS PRO
+   National Academy of Sciences Institute of Medicine Food and Nutrition Board, 2005, DIET REF INT EN CARB
+   NCEP Expert Panel on the Detection Evaluation and Treatment of High Blood Pressure in Adults, 2001, JAMA-J AM MED ASSOC, V285, P2444
+   Pereira RA, 2009, CAD SAUDE PUBLICA, V25, P2419, DOI 10.1590/S0102-311X2009001100012
+   Perozzo G, 2008, CAD SAUDE PUBLICA, V24, P2427, DOI 10.1590/S0102-311X2008001000023
+   Philippi S. T., 1999, Revista de Nutricao, V12, P65, DOI 10.1590/S1415-52731999000100006
+   Pinheiro A.B.V., 2000, TABELA AVALIACAO CON
+   Volp ACP, 2010, REV NUTR, V23, P281, DOI 10.1590/S1415-52732010000200011
+   Schmiit ACB, 2009, THESIS U SAO PAULO
+   De Lorenzi DRS, 2005, REV BRAS GINECOL OBS, V27, P479, DOI 10.1590/S0100-72032005000800008
+   [Anonymous], 2010, Arq. Bras. Cardiol., V95, pI, DOI 10.1590/S0066-782X2010001700001
+   Tardivo AP, 2010, NUTR J, V9, DOI 10.1186/1475-2891-9-64
+   Toth MJ, 2000, INT J OBESITY, V24, P226, DOI 10.1038/sj.ijo.0801118
+   *WHO, 1997, WHO CONS OB GEN 3 5
+   Willett W, 1998, NUTR EPIDEMIOLOGY, P50, DOI DOI 10.1093/ACPROF:OSO/9780195122978.003.04
+   Willett WC, 1998, NUTR EPIDEMIOLOGY, DOI [10.1186/1475-2891-13-121, DOI 10.1186/1475-2891-13-121]
+NR 28
+TC 11
+Z9 12
+U1 0
+U2 10
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1475-2891
+J9 NUTR J
+JI Nutr. J.
+PD DEC 22
+PY 2014
+VL 13
+AR 121
+DI 10.1186/1475-2891-13-121
+PG 10
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA AZ5DC
+UT WOS:000348239300001
+PM 25529573
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Meirelles, CDB
+   Oliveira, MID
+   de Mello, RR
+   Varela, MAB
+   Fonseca, VD
+AF Brandao Meirelles, Cynthia de Almeida
+   do Couto Oliveira, Maria Ines
+   de Mello, Rosane Reis
+   Bonfim Varela, Maria Angelica
+   Fonseca, Vania de Matos
+TI Justifications for formula supplementation in low-risk newborns at a
+   Baby-Friendly Hospital
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE supplementary feeding; breast feeding; newborn infant
+ID SUCCESS; GROWTH
+AB The Baby-Friendly Hospital Initiative recommends not giving newborn infants any food or drink other than breast milk unless medically indicated. This study investigated the prevalence and alleged reasons for giving formula supplementation to rooming-in newborns at a Baby-Friendly Hospital. Participants were 300 formula-supplemented, exclusively rooming-in newborns at a Baby-Friendly Hospital in Rio de Janeiro, Brazil. Reasons for formula supplementation were classified as acceptable or unacceptable in accordance with the WHO/UNICEF Baby-Friendly Hospital Initiative guidelines. A supplementation prevalence of 33.3% was found. The main allegations were: hypogalactia/ agalactia (36.8%), conditions involving risk of hypoglicemia (21.1%), cesarean section (7.9%), stomatognathic system-related conditions (7.4%), maternal conditions (6.3%), and absence of maternal HIV serology (4.5%). Cesarean section was associated with a higher risk of supplementation (RP = 2.1; 95% CI: 1.77-2.55) as compared to vaginal delivery. Supplementation prevalence was high, and only 9% of the allegations were justified.
+C1 [Fonseca, Vania de Matos] Univ Fed Fluminense, Inst Saude Comunidade, Dept Epidemiol & Bioestat, BR-24320570 Niteroi, RJ, Brazil.
+   [Brandao Meirelles, Cynthia de Almeida; Bonfim Varela, Maria Angelica] Univ Grande Rio, Duque De Caxias, Brazil.
+   [Brandao Meirelles, Cynthia de Almeida; Bonfim Varela, Maria Angelica] Secretaria Municipal Saude Rio de Janeiro, Hosp Maternidade Carmela Dutra, Rio De Janeiro, Brazil.
+   [de Mello, Rosane Reis; Fonseca, Vania de Matos] Fundacao Oswaldo Cruz, Inst Fernandes Figueira, Rio De Janeiro, Brazil.
+RP Fonseca, VD (corresponding author), Univ Fed Fluminense, Inst Saude Comunidade, Dept Epidemiol & Bioestat, BR-24320570 Niteroi, RJ, Brazil.
+EM vaniamf@oi.com.br
+CR Alexander GR, 1996, OBSTET GYNECOL, V87, P163, DOI 10.1016/0029-7844(95)00386-X
+   Berra S, 2002, REV SAUDE PUBL, V36, P661, DOI 10.1590/S0034-89102002000700002
+   Carvalhaes Maria Antonieta de Barros Leite, 2003, J. Pediatr. (Rio J.), V79, P13, DOI 10.1590/S0021-75572003000100005
+   CARVALHO MD, 1983, PEDIATRICS, V72, P307
+   CONNOR EM, 1994, NEW ENGL J MED, V331, P1173, DOI 10.1056/NEJM199411033311801
+   CORREA LG, 2005, MONOGRAFIA GRADUACAO
+   de Oliveira Maria Ines Couto, 2003, J Hum Lact, V19, P365
+   Ekstrom Anette, 2003, J Hum Lact, V19, P172, DOI 10.1177/0890334403252537
+   *FUND NAC UN INF, 1993, MAN PROM AL MAT CURS
+   Gagnon AJ, 2005, J HUM LACT, V21, P397, DOI 10.1177/0890334405280835
+   HOPKINSON JM, 1988, PEDIATRICS, V81, P815
+   LUBCHENCO LO, 1963, PEDIATRICS, V32, P793
+   NANTES MGD, 1986, FEMINA, V14, P692
+   NEIFERT TM, 1995, J PEDIAT, V126, pS125
+   *ORG MUND SAUD FUN, 1999, GUIA AV HOSP AM CRIA
+   PEREZESCAMILLA R, 1994, AM J PUBLIC HEALTH, V84, P89, DOI 10.2105/AJPH.84.1.89
+   PINTO LM, 1996, REV CIENC MED PUCCAM, V5, P63
+   PROCIANOY RS, 1982, J PEDIAT, V53, P327
+   *PROGR NAC DST AID, 2006, REC PROF TRANSM VERT
+   REA MF, 1990, REV SAUDE PUBL, V24, P241, DOI 10.1590/S0034-89101990000300011
+   Rezende Magda Andrade, 2002, Rev. Latino-Am. Enfermagem, V10, P234, DOI 10.1590/S0104-11692002000200017
+   RIGHARD L, 1990, LANCET, V336, P1105, DOI 10.1016/0140-6736(90)92579-7
+   Sanches Maria Teresa C., 2004, J. Pediatr. (Rio J.), V80, ps155, DOI 10.1590/S0021-75572004000700007
+   Sandre-Pereira G, 2000, Cad Saude Publica, V16, P457, DOI 10.1590/S0102-311X2000000200016
+   VICTORA CG, 1990, ARCH DIS CHILD, V65, P632, DOI 10.1136/adc.65.6.632
+   VICTORA CG, 1987, LANCET, V2, P319
+   World Health Organization / United Nations Children's Fund, 1990, INN DECL PROT PROM S
+NR 27
+TC 5
+Z9 7
+U1 1
+U2 3
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD SEP
+PY 2008
+VL 24
+IS 9
+BP 2001
+EP 2012
+DI 10.1590/S0102-311X2008000900006
+PG 12
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 351PB
+UT WOS:000259435300006
+PM 18813676
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Caldeira, RJD
+   Fonseca, VD
+   Gomes, SCD
+   Chaves, CRMD
+AF do Amaral Caldeira, Reinaldo Jose
+   Fonseca, Vania de Matos
+   dos Santos Gomes Junior, Saint Clair
+   Moutinho de Miranda Chaves, Celia Regina
+TI Prevalence of bone mineral disease among adolescents with cystic
+   fibrosis
+SO JORNAL DE PEDIATRIA
+LA English
+DT Article
+ID AIRWAY ION-TRANSPORT; YOUNG-ADULTS; CHILDREN; DENSITY; OSTEOPOROSIS;
+   MANAGEMENT; OSTEOPENIA
+AB Objective: To evaluate the prevalence of bone mineral disease among adolescents with cystic fibrosis and to relate the findings with the variables studied.
+   Methods: The study enrolled 37 adolescents who were assessed for: nutritional status according to height/age and body mass/age ratios; bone mineral density of the lumbar spine and entire body by densitometry with dual emission X-ray; daily dietary intake according to a 3-day dietary recall; and pulmonary function by the forced expiratory volume in one second test.
+   Results: Mean age was 13.2 (+/-2.8) years. Nutritional status was adequate in 70.3 and 75.7% of patients according to the height/age and body mass/age indices, respectively; 54.1% of the patients exhibited reduced lumbar spine bone mineral density and 32.5% for the whole body. There was a positive correlation between bone mineral density and body mass index (p = 0.04). Lung disease and pancreatic insufficiency exhibited a correlation with altered bone mineral density. The dietary recall revealed adequate percentages of calcium, phosphorous and calories, according to the nutritional recommendations laid out in the European Cystic Fibrosis Consensus. The multivariate analysis indicated that these variables were not statistically significant.
+   Conclusions: There is a high prevalence of bone mineral disease among adolescents. Good nutritional status, pancreatic enzyme replacement and control of lung disease may have a protective effect on bone mass.
+C1 [do Amaral Caldeira, Reinaldo Jose; Fonseca, Vania de Matos; dos Santos Gomes Junior, Saint Clair; Moutinho de Miranda Chaves, Celia Regina] Fundacao Oswaldo Cruz, Inst Fernandes Figueira, Rio De Janeiro, Brazil.
+   [Fonseca, Vania de Matos] Univ Fed Fluminense, Inst Saude Comunidade, Rio De Janeiro, Brazil.
+RP Caldeira, RJD (corresponding author), Ave Rui Barbosa 716, BR-22250020 Rio De Janeiro, Brazil.
+EM reinaldojacaldeira@yahoo.com.br
+RI Junior, Clair Gomes/F-7579-2012
+OI Junior, Clair Gomes/0000-0002-1554-943X
+CR Adde F V, 1997, J Pediatr (Rio J), V73, P317
+   Allgrove J, 2002, J PEDIATR ENDOCR MET, V15, P921
+   Ancao MS, 2002, PROGRAMA APOIO NUTRI
+   Aris RM, 2004, AM J RESP CRIT CARE, V169, P77, DOI 10.1164/rccm.200307-1049OC
+   BALFOURLYNN IM, 2002, PEDIAT PULMONOL S24, V34, P101
+   Bhudhikanok GS, 1996, PEDIATRICS, V97, P103
+   Botton E, 2003, JOINT BONE SPINE, V70, P327, DOI 10.1016/S1297-319X(03)00063-0
+   BOUCHER RC, 1994, AM J RESP CRIT CARE, V150, P581, DOI 10.1164/ajrccm.150.2.8049852
+   BOUCHER RC, 1994, AM J RESP CRIT CARE, V150, P271, DOI 10.1164/ajrccm.150.1.8025763
+   Brousse C, 2001, REV MAL RESPIR, V18, P411
+   Buntain HM, 2006, THORAX, V61, P146, DOI 10.1136/thx.2005.046516
+   Buntain HM, 2004, THORAX, V59, P149, DOI 10.1136/thorax.2003.006726
+   Campos Lúcia M. A., 2003, J. Pediatr. (Rio J.), V79, P481, DOI 10.1590/S0021-75572003000600005
+   *CDCP, 2000, EP 2000 DAT STAT PRO
+   Conway S P, 2001, Paediatr Respir Rev, V2, P324, DOI 10.1053/prrv.2001.0167
+   Conway SP, 2000, THORAX, V55, P798, DOI 10.1136/thorax.55.9.798
+   DIA RM, 2000, TESTES FUNCAO RESP L
+   Frantz S, 2003, NAT REV DRUG DISCOV, V2, P163, DOI 10.1038/nrd1028
+   Gibson RL, 2003, AM J RESP CRIT CARE, V168, P918, DOI 10.1164/rccm.200304-505SO
+   Gronowitz E, 2003, ACTA PAEDIATR, V92, P688, DOI 10.1080/08035250310002443
+   Hecker TM, 2004, DRUGS, V64, P133, DOI 10.2165/00003495-200464020-00002
+   Kerem Eitan, 2005, J Cyst Fibros, V4, P7, DOI 10.1016/j.jcf.2004.12.002
+   Littlewood J M, 2005, J Cyst Fibros, V4, P1, DOI 10.1016/j.jcf.2004.12.001
+   MISCHLER EH, 1979, AM J DIS CHILD, V133, P632, DOI 10.1001/archpedi.1979.02130060072016
+   REITER EO, 1985, J PEDIATR-US, V106, P21, DOI 10.1016/S0022-3476(85)80458-3
+   Schulze KJ, 2003, J PEDIATR-US, V143, P765, DOI 10.1067/S0022-3476(03)00539-0
+   Shane E, 1996, AM J MED, V101, P262, DOI 10.1016/S0002-9343(96)00155-6
+   SLAUGHTER MH, 1988, HUM BIOL, V60, P709
+   Ujhelyi R, 2004, J PEDIATR GASTR NUTR, V38, P401, DOI 10.1097/00005176-200404000-00007
+   *US DEP HHS, CDCNCHS2000 US DEP H
+   *WHO, 1994, 843 WHO
+NR 31
+TC 9
+Z9 10
+U1 0
+U2 2
+PU SOC BRASIL PEDIATRIA
+PI RIO DE JANEIRO, RJ
+PA RUA SANTA CLARA 292, RIO DE JANEIRO, RJ, CEP 22401-01, BRAZIL
+SN 0021-7557
+EI 1678-4782
+J9 J PEDIAT-BRAZIL
+JI J. Pediatr.
+PD JAN-FEB
+PY 2008
+VL 84
+IS 1
+BP 18
+EP 25
+DI 10.2223/JPED.1737
+PG 8
+WC Pediatrics
+SC Pediatrics
+GA 281NG
+UT WOS:000254503700005
+PM 18060251
+OA Bronze
+DA 2020-11-10
+ER
+
+PT J
+AU Rosa, MLG
+   Mesquita, ET
+   da Rocha, ERR
+   Fonseca, VD
+AF Rosa, Maria Luiza Garcia
+   Mesquita, Evandro Tinoco
+   da Rocha, Emanuel Ribeiro Romeiro
+   Fonseca, Vania de Matos
+TI Body mass index and waist circumference as markers of arterial
+   hypertension in adolescents
+SO ARQUIVOS BRASILEIROS DE CARDIOLOGIA
+LA Portuguese
+DT Article
+DE adolescents; prevalence; hypertension; obesity; abdominal circunference
+ID BLOOD-PRESSURE; CARDIOVASCULAR RISK; METABOLIC SYNDROME; ADIPOSE-TISSUE;
+   OBESITY; CHILDREN; CHILDHOOD
+AB Objective: To evaluate the sensitivity and specificity of anthropometric measurements of body fat in a sample of Brazilian adolescents for the prediction of hypertension.
+   Methods: The arterial blood pressure was measured on two visits in a sample of 456 students aged 12 to 17 years, from public and private schools of the Fonseca neighborhood, in Niterdi between 2003 and 2004. A subject was defined as hypertensive if he/she had systolic and diastolic pressures above the 95(th) percentile for sex, age and height. A questionnaire was applied and Body Mass Index (BMI) and waist circumference (WO measurements were made.
+   Results: A statistically significant correlation was observed between hypertension and the cutoff points considered unfavorable, both for BMI and WC. The greatest association was with the cutoff point proposed for the Brazilian population. As to the BMI sensitivity used for American Black or White populations or for the Brazilian population, we found 52.4% to 57.1% and 52.4%, respectively. And BMI specificity was 69.3%, 70.0% and 80.88%, respectively. The sensitivity found in our sample, relative to the cutoff points for WC proposed for all American ethnic groups, was also low (45.0%) and specificity was a little higher (77.6% and 74.5%, respectively).
+   Conclusion: Existing American WC measurements showed low sensitivity and specificity for hypertension in our population. As to BMI, the available cutoff points also showed a low level of sensitivity. There is a need to establish body fat cutoff points that can provide a better prediction of cardiovascular risk.
+C1 [Rosa, Maria Luiza Garcia; Mesquita, Evandro Tinoco; da Rocha, Emanuel Ribeiro Romeiro; Fonseca, Vania de Matos] Univ Fed Fluminense, Inst Saude Comunidade, Niteroi, RJ, Brazil.
+   [Rosa, Maria Luiza Garcia; Mesquita, Evandro Tinoco; da Rocha, Emanuel Ribeiro Romeiro; Fonseca, Vania de Matos] Univ Fed Fluminense, Dept Clin Med, Niteroi, RJ, Brazil.
+   [Rosa, Maria Luiza Garcia; Mesquita, Evandro Tinoco; da Rocha, Emanuel Ribeiro Romeiro; Fonseca, Vania de Matos] Fundacao Oswaldo Cruz, Inst Fernandes Figueira, Niteroi, RJ, Brazil.
+RP Fonseca, VD (corresponding author), Estrada Caetano Monteiro 2301, BR-24320570 Niteroi, RJ, Brazil.
+EM mluizagr@vm.uff.br
+CR BRANDAO AP, 1996, HIPERATIVO, V3, P86
+   Fernandez JR, 2004, J PEDIATR-US, V145, P439, DOI 10.1016/j.jpeds.2004.06.044
+   Fonseca VD, 1998, REV SAUDE PUBL, V32, P541, DOI 10.1590/S0034-89101998000600007
+   Freedman DS, 2005, PEDIATRICS, V115, P22, DOI 10.1542/peds.2004-0220
+   Giorgino F, 2005, ACTA PHYSIOL SCAND, V183, P13, DOI 10.1111/j.1365-201X.2004.01385.x
+   Goran MI, 1998, CORONARY ARTERY DIS, V9, P483, DOI 10.1097/00019501-199809080-00003
+   Gus M, 2004, AM J HYPERTENS, V17, P50, DOI 10.1016/j.amjhyper.2003.08.010
+   Iwao S, 2001, OBES RES, V9, P685, DOI 10.1038/oby.2001.93
+   Katzmarzyk PT, 2004, PEDIATRICS, V114, P198
+   Katzmarzyk PT, 2003, J CLIN EPIDEMIOL, V56, P456, DOI 10.1016/S0895-4356(02)00595-4
+   Katzmarzyk PT, 2001, J CLIN EPIDEMIOL, V54, P190, DOI 10.1016/S0895-4356(00)00315-2
+   Kuczmarski R. J., 2000, VITAL HLTH STAT, V11, P1, DOI DOI 10.1016/J.BBRC.2015.06.114
+   LAUER RM, 1989, PEDIATRICS, V84, P633
+   Lurbe E, 1998, AM J HYPERTENS, V11, P418, DOI 10.1016/S0895-7061(97)00493-7
+   Natl High Blood Pressure Educ Prog, 2004, PEDIATRICS, V114, P555
+   Newcombe RG, 1998, STAT MED, V17, P873, DOI 10.1002/(SICI)1097-0258(19980430)17:8<873::AID-SIM779>3.0.CO;2-I
+   NHLBI Obesity Education Initiative, 2000, PRACT GUID ID EV TRE
+   O'Brien E, 2001, BMJ-BRIT MED J, V322, P1167, DOI 10.1136/bmj.322.7295.1167
+   Okosun IS, 2000, ANN EPIDEMIOL, V10, P263, DOI 10.1016/S1047-2797(00)00045-4
+   Owens S, 1998, J PEDIATR-US, V133, P41, DOI 10.1016/S0022-3476(98)70175-1
+   Pi-Sunyer FX, 1998, OBES RES, V6, p51S
+   Power C, 1997, INT J OBESITY, V21, P507, DOI 10.1038/sj.ijo.0800454
+   Rosner B, 2000, AM J EPIDEMIOL, V151, P1007, DOI 10.1093/oxfordjournals.aje.a010129
+   Sichieri R, 1996, J Pediatr (Rio J), V72, P80
+   Travassos Claudia, 2004, Cad. Saúde Pública, V20, P660, DOI 10.1590/S0102-311X2004000300003
+   WHO, 1998, OB PREV MAN GLOB EP
+   Yusuf S, 2005, LANCET, V366, P1640, DOI 10.1016/S0140-6736(05)67663-5
+NR 27
+TC 36
+Z9 45
+U1 0
+U2 3
+PU ARQUIVOS BRASILEIROS CARDIOLOGIA
+PI RIO DE JANEIRO
+PA AVENIDA MARECHAL CAMARA 160-330 CENTRO, RIO DE JANEIRO, RJ 20 020-907,
+   BRAZIL
+SN 0066-782X
+J9 ARQ BRAS CARDIOL
+JI Arq. Bras. Cardiol.
+PD MAY
+PY 2007
+VL 88
+IS 5
+BP 573
+EP 578
+DI 10.1590/S0066-782X2007000500012
+PG 6
+WC Cardiac & Cardiovascular Systems
+SC Cardiovascular System & Cardiology
+GA 278IK
+UT WOS:000254278300012
+PM 17589633
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, VD
+   Sichieri, R
+   da Veiga, GV
+AF Fonseca, VD
+   Sichieri, R
+   da Veiga, GV
+TI Factors associated with obesity among adolescents
+SO REVISTA DE SAUDE PUBLICA
+LA Spanish
+DT Article
+DE obesity; body mass index; nutritional status
+ID BODY-MASS INDEX; ENERGY-INTAKE; PHYSICAL-ACTIVITY; DIET COMPOSITION;
+   FAT; CHILDREN; WEIGHT; GROWTH
+AB Introduction
+   Obesity during adolescence is considered a strong predictor of adult obesity. The present study assessed the overweight/obesity prevalence and associated factors in middle class adolescents of a school in the city Niteroi, Rio de Janeiro, Brazil, and evaluated the correlation between body mass index with anthropometric measures of fatness.
+   Method
+   The analysis covered 391 students aged from 15 to 17 years. Adolescents had their weight, height, skinfold thickness and upper arm circumference measured at school. A food frequency questionnaire (list of 79 items) and a questionnaire including food habits, parents anthropometric characteristics, physical activity and other factors associated with obesity were filled out by the adolescents at school.
+   Results
+   The proportion of overweight individuals among boys (Body Mass Index (BMI) greater than the 90th percentile of the Brazilian population) was 23.9%, whereas the prevalence among girls was 7.2%. The fact of being on a slimming diet was a relevant factor for the prediction of BMI and was 7 times more frequent among girls than among boys. Among bogs, being on a diet, absence of breakfast, and family body appearance were positively associated with BMI. Among girls these variables were also significantly associated whereas age at menarche was negatively associated with BMI. Hours of watching TV/video/video-game was associated with BMI only among boys. The correlation coefficient between BMI and measures of fatness varied from 0.7 to 0.9 for boys, and from 0.8 to 0.90 for girls.
+   Conclusions
+   BMI appears to be a good indicator of obesity among adolescents and showed that girls demonstrated an exaggerated preoccupation with body image and stereotyped slim body patterns.
+C1 Inst Fernandes Figueira Fiocruz, Dept Pediat, Rio De Janeiro, Brazil.
+   Univ Estado Rio De Janeiro, Inst Social Med, Rio De Janeiro, Brazil.
+   Univ Fed Fluminense, Fac Nutr, Niteroi, RJ, Brazil.
+RP Sichieri, R (corresponding author), Rua Sao Francisco Xavier 524,7 Andar Maracana, BR-20531030 Rio De Janeiro, Brazil.
+EM sichieri@uerj.br
+CR BRADFIELD RB, 1971, AM J CLIN NUTR, V24, P1482
+   COLLI AS, 1985, PUBLICACION CIENTIFI, V489, P249
+   COSTA R, 1997, THESIS I MED SOCIAL
+   Dietz W.H, 1993, WORKSH PREV OB POP R, P64
+   DIETZ WH, 1990, KLIN PADIATR, V202, P69, DOI 10.1055/s-2007-1025490
+   DIETZ WH, 1985, PEDIATRICS, V75, P807
+   Duarte M de F, 1993, Cad Saude Publica, V9 Suppl 1, P71
+   DURNIN JVG, 1967, BRIT J NUTR, V21, P681, DOI 10.1079/BJN19670070
+   *ESC PAUL MED, 1995, PROGRAMA AP NUTR
+   Eveleth P.B., 1990, WORLD VARIATION HUMA
+   FISHER KD, 1985, AM J CLIN NUTR, V42, P1318
+   FRISANCHO AR, 1981, AM J CLIN NUTR, V34, P2540
+   *FUND IBGE, 1985, TAB COMP AL
+   GARN SM, 1960, AMA J DIS CHILD, V99, P746, DOI 10.1001/archpedi.1960.02070030748008
+   GAZZANIGA JM, 1993, AM J CLIN NUTR, V58, P21
+   GORTMAKER SL, 1987, AM J DIS CHILD, V141, P535, DOI 10.1001/archpedi.1987.04460050077035
+   HIMES JH, 1994, AM J CLIN NUTR, V59, P307
+   HUBBARD VS, 1995, OBES RES, V3, pS75, DOI 10.1002/j.1550-8528.1995.tb00449.x
+   KLESGES RC, 1988, AM J CLIN NUTR, V48, P1252
+   Malina R., 1991, GROWTH MATURATION PH
+   MILLER WC, 1990, AM J CLIN NUTR, V52, P426
+   *NAT RES COUNC, 1989, COMM DIET HLTH DIET, P99
+   OBARZANEK E, 1994, AM J CLIN NUTR, V60, P15
+   Ortega RM, 1995, BRIT J NUTR, V74, P765, DOI 10.1079/BJN19950004
+   PENNINGTON JAT, 1989, FOOD VALUES PORTIONS
+   REVICKI DA, 1986, AM J PUBLIC HEALTH, V76, P992, DOI 10.2105/AJPH.76.8.992
+   ROMIEU I, 1988, AM J CLIN NUTR, V47, P406
+   *SAS I INC, 1985, STAT AN SIST SAS
+   SHILS ME, 1988, MODERN NUTR HLTH DIS
+   Sichieri R, 1996, J Pediatr (Rio J), V72, P80
+   SICHIERI R, 1994, AM J PUBLIC HEALTH, V84, P793, DOI 10.2105/AJPH.84.5.793
+   SICHIERI R, 1995, OBES RES, V3, pS117, DOI 10.1002/j.1550-8528.1995.tb00454.x
+   SICHIERI R, 1995, AM J CLIN NUTR, V61, P904
+   SORENSEN TI, 1990, INT J OBESITY, V14, P231
+   SUNNEGARDH J, 1986, ACTA PAEDIATR SCAND, V75, P955, DOI 10.1111/j.1651-2227.1986.tb10323.x
+   Tojo R, 1991, An Esp Pediatr, V35 Suppl 46, P74
+   VEIGA GV, 1992, J PEDIAT S PAULO, V68, P26
+NR 37
+TC 59
+Z9 91
+U1 0
+U2 7
+PU REVISTA DE SAUDE PUBLICA
+PI SAO PAULO
+PA FACULDADE SAUDE PUBL DA USP, AV DR ARNALDO 715, 01246-904SP SAO PAULO,
+   BRAZIL
+SN 0034-8910
+EI 1518-8787
+J9 REV SAUDE PUBL
+JI Rev. Saude Publica
+PD DEC
+PY 1998
+VL 32
+IS 6
+BP 541
+EP 549
+DI 10.1590/S0034-89101998000600007
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 171GB
+UT WOS:000078853700007
+PM 10349146
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+EF

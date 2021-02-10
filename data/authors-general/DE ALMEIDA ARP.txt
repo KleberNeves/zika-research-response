@@ -1,0 +1,779 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Robbiani, DF
+   Olsen, PC
+   Costa, F
+   Wang, Q
+   Oliveira, TY
+   Nery, N
+   Aromolaran, A
+   do Rosario, MS
+   Sacramento, GA
+   Cruz, JS
+   Khouri, R
+   Wunder, EA
+   Mattos, A
+   Freitas, BD
+   Sarno, M
+   Archanjo, G
+   Daltro, D
+   Carvalho, GBS
+   Pimentel, K
+   de Siqueira, IC
+   de Almeida, JRM
+   Henriques, DF
+   Lima, JA
+   Vasconcelos, PFC
+   Schaefer-Babajew, D
+   Azzopardi, SA
+   Bozzacco, L
+   Gazumyan, A
+   Belfort, R
+   Alcantara, AP
+   Carvalho, G
+   Moreira, L
+   Araujo, K
+   Reis, MG
+   Keesler, RI
+   Coffey, LL
+   Tisoncik-Go, J
+   Gale, M
+   Rajagopal, L
+   Waldorf, KMA
+   Dudley, DM
+   Simmons, HA
+   Mejia, A
+   O'Connor, DH
+   Steinbach, RJ
+   Haese, N
+   Smith, J
+   Lewis, A
+   Colgin, L
+   Roberts, V
+   Frias, A
+   Kelleher, M
+   Hirsch, A
+   Streblow, DN
+   Rice, CM
+   MacDonald, MR
+   de Almeida, ARP
+   Van Rompay, KKA
+   Ko, AI
+   Nussenzweig, MC
+AF Robbiani, Davide F.
+   Olsen, Priscilla C.
+   Costa, Federico
+   Wang, Qiao
+   Oliveira, Thiago Y.
+   Nery Jr, Nivison
+   Aromolaran, Adeolu
+   do Rosario, Mateus S.
+   Sacramento, Gielson A.
+   Cruz, Jaqueline S.
+   Khouri, Ricardo
+   Wunder, Elsio A., Jr.
+   Mattos, Adriana
+   Freitas, Bruno de Paula
+   Sarno, Manoel
+   Archanjo, Gracinda
+   Daltro, Dina
+   Carvalho, Gustavo B. S.
+   Pimentel, Kleber
+   de Siqueira, Isadora C.
+   de Almeida, Joo R. M.
+   Henriques, Daniele F.
+   Lima, Juliana A.
+   Vasconcelos, Pedro F. C.
+   Schaefer-Babajew, Dennis
+   Azzopardi, Stephanie A.
+   Bozzacco, Leonia
+   Gazumyan, Anna
+   Belfort Jr, Rubens
+   Alcantara, Ana P.
+   Carvalho, Gustavo
+   Moreira, Licia
+   Araujo, Katiaci
+   Reis, Mitermayer G.
+   Keesler, Rebekah, I
+   Coffey, Lark L.
+   Tisoncik-Go, Jennifer
+   Gale, Michael, Jr.
+   Rajagopal, Lakshmi
+   Waldorf, Kristina M. Adams
+   Dudley, Dawn M.
+   Simmons, Heather A.
+   Mejia, Andres
+   O'Connor, David H.
+   Steinbach, Rosemary J.
+   Haese, Nicole
+   Smith, Jessica
+   Lewis, Anne
+   Colgin, Lois
+   Roberts, Victoria
+   Frias, Antonio
+   Kelleher, Meredith
+   Hirsch, Alec
+   Streblow, Daniel N.
+   Rice, Charles M.
+   MacDonald, Margaret R.
+   de Almeida, Antonio R. P.
+   Van Rompay, Koen K. A.
+   Ko, Albert, I
+   Nussenzweig, Michel C.
+TI Risk of Zika microcephaly correlates with features of maternal
+   antibodies
+SO JOURNAL OF EXPERIMENTAL MEDICINE
+LA English
+DT Article
+ID DENGUE VIRUS; DEPENDENT ENHANCEMENT; PREGNANCY OUTCOMES;
+   CROSS-REACTIVITY; INFECTION; DISEASE; TRANSMISSION; TERRITORIES; RNA
+AB Zika virus (ZIKV) infection during pregnancy causes congenital abnormalities, including microcephaly. However, rates vary widely, and the contributing risk factors remain unclear. We examined the serum antibody response to ZIKV and other flaviviruses in Brazilian women giving birth during the 2015-2016 outbreak. Infected pregnancies with intermediate or higher ZIKV antibody enhancement titers were at increased risk to give birth to microcephalic infants compared with those with lower titers (P < 0.0001). Similarly, analysis of ZIKV-infected pregnant macaques revealed that fetal brain damage was more frequent in mothers with higher enhancement titers. Thus, features of the maternal antibodies are associated with and may contribute to the genesis of ZIKV-associated microcephaly.
+C1 [Robbiani, Davide F.; Olsen, Priscilla C.; Oliveira, Thiago Y.; Schaefer-Babajew, Dennis; Gazumyan, Anna; Nussenzweig, Michel C.] Rockefeller Univ, Lab Mol Immunol, 1230 York Ave, New York, NY 10021 USA.
+   [Azzopardi, Stephanie A.; Bozzacco, Leonia; Rice, Charles M.; MacDonald, Margaret R.] Rockefeller Univ, Lab Virol & Infect Dis, 1230 York Ave, New York, NY 10021 USA.
+   [Nussenzweig, Michel C.] Rockefeller Univ, Howard Hughes Med Inst, New York, NY 10021 USA.
+   [Olsen, Priscilla C.] Univ Fed Rio de Janeiro, Fac Farm, Rio De Janeiro, Brazil.
+   [Wang, Qiao] Fudan Univ, Shanghai Med Coll, Sch Basic Med Sci, Key Lab Med Mol Virol MOE NHC CAMS, Shanghai, Peoples R China.
+   [Nery Jr, Nivison; Sacramento, Gielson A.; Cruz, Jaqueline S.; Khouri, Ricardo; de Siqueira, Isadora C.; Reis, Mitermayer G.; Ko, Albert, I] Fundacao Oswald Cruz MS, Inst Goncalo Moniz, Salvador, BA, Brazil.
+   [Costa, Federico; Aromolaran, Adeolu; Wunder, Elsio A., Jr.; Reis, Mitermayer G.; Ko, Albert, I] Yale Sch Publ Hlth, Dept Epidemiol Microbial Dis, New Haven, CT USA.
+   [Costa, Federico; Sarno, Manoel; de Almeida, Joo R. M.; Reis, Mitermayer G.; de Almeida, Antonio R. P.] Univ Fed Bahia, Fac Med, Salvador, BA, Brazil.
+   [Costa, Federico; Sarno, Manoel; de Almeida, Joo R. M.; Reis, Mitermayer G.; de Almeida, Antonio R. P.] Univ Fed Bahia, Inst Saude Colet, Salvador, BA, Brazil.
+   [do Rosario, Mateus S.; Mattos, Adriana; Freitas, Bruno de Paula; Archanjo, Gracinda; Daltro, Dina; Carvalho, Gustavo B. S.; Pimentel, Kleber] Hosp Geral Roberto Santos, Secreteria Saude Estado Bahia, Salvador, BA, Brazil.
+   [Henriques, Daniele F.; Lima, Juliana A.; Vasconcelos, Pedro F. C.] Minist Saude Ananindeua, Inst Evandro Chagas, Ananindeua, Para, Brazil.
+   [Freitas, Bruno de Paula; Belfort Jr, Rubens] Univ Fed Sao Paulo, Sao Paulo, Brazil.
+   [Araujo, Katiaci] Hosp Alianca, Salvador, BA, Brazil.
+   [Alcantara, Ana P.; Carvalho, Gustavo; Moreira, Licia] Hosp Santo Amaro, Salvador, BA, Brazil.
+   [Keesler, Rebekah, I; Van Rompay, Koen K. A.] Univ Calif Davis, Calif Natl Primate Res Ctr, Davis, CA 95616 USA.
+   [Coffey, Lark L.; Van Rompay, Koen K. A.] Univ Calif Davis, Dept Pathol Microbiol & Immunol, Sch Vet Med, Davis, CA 95616 USA.
+   [Tisoncik-Go, Jennifer; Gale, Michael, Jr.; Waldorf, Kristina M. Adams] Washington Natl Primate Res Ctr, Seattle, WA USA.
+   [Tisoncik-Go, Jennifer; Gale, Michael, Jr.; Waldorf, Kristina M. Adams] Univ Washington, Ctr Innate Immun & Immune Dis, Seattle, WA 98195 USA.
+   [Tisoncik-Go, Jennifer; Gale, Michael, Jr.] Univ Washington, Dept Immunol, Seattle, WA 98195 USA.
+   [Gale, Michael, Jr.; Rajagopal, Lakshmi; Waldorf, Kristina M. Adams] Univ Washington, Dept Global Hlth, Seattle, WA 98195 USA.
+   [Rajagopal, Lakshmi] Univ Washington, Dept Pediat, Seattle, WA 98195 USA.
+   [Waldorf, Kristina M. Adams] Univ Washington, Dept Obstet & Gynecol, Seattle, WA 98195 USA.
+   [Rajagopal, Lakshmi] Seattle Childrens Res Inst, Ctr Global Infect Dis Res, Seattle, WA USA.
+   [Dudley, Dawn M.; O'Connor, David H.] Univ Wisconsin, Dept Pathol & Lab Med, Madison, WI USA.
+   [Simmons, Heather A.; Mejia, Andres] Univ Wisconsin, Wisconsin Natl Primate Res Ctr, Madison, WI USA.
+   [Steinbach, Rosemary J.; Roberts, Victoria; Frias, Antonio; Kelleher, Meredith] Oregon Natl Primate Res Ctr, Div Reprod & Dev Sci, Beaverton, OR USA.
+   [Haese, Nicole; Colgin, Lois; Hirsch, Alec; Streblow, Daniel N.] Oregon Natl Primate Res Ctr, Div Pathobiol & Immunol, Beaverton, OR USA.
+   [Lewis, Anne] Oregon Natl Primate Res Ctr, Pathol Serv Unit, Div Comparat Med, Beaverton, OR USA.
+   [Haese, Nicole; Smith, Jessica; Hirsch, Alec; Streblow, Daniel N.] Oregon Hlth & Sci Univ, Vaccine & Gene Therapy Inst, Portland, OR 97201 USA.
+   [Frias, Antonio] Oregon Hlth & Sci Univ, Dept Obstet & Gynecol, Portland, OR 97201 USA.
+   [Bozzacco, Leonia] Regeneron Pharmaceut Inc, 777 Old Saw Mill River Rd, Tarrytown, NY 10591 USA.
+RP Robbiani, DF; Nussenzweig, MC (corresponding author), Rockefeller Univ, Lab Mol Immunol, 1230 York Ave, New York, NY 10021 USA.; Nussenzweig, MC (corresponding author), Rockefeller Univ, Howard Hughes Med Inst, New York, NY 10021 USA.
+EM drobbiani@rockefeller.edu; nussen@rockefeller.edu
+RI Haese, Nicole/AAN-4551-2020; Olsen, Priscilla C/I-8994-2012; Reis,
+   Mitermayer/AAO-9742-2020; Robbiani, Davide F./AAF-7662-2019; de
+   Siqueira, Isadora Cristina/R-9953-2016; Wunder, Elsio
+   Augusto/C-2733-2013; Ko, Albert Icksang/P-2343-2015; Costa,
+   Federico/G-1838-2015; Nussenzweig, Michel/AAE-7292-2019; Oliveira,
+   Thiago Yukio Kikuchi/ABF-5186-2020
+OI Olsen, Priscilla C/0000-0002-8795-037X; Reis,
+   Mitermayer/0000-0002-3051-9060; Robbiani, Davide F./0000-0001-7379-3484;
+   de Siqueira, Isadora Cristina/0000-0002-2520-4099; Wunder, Elsio
+   Augusto/0000-0002-5239-8511; Ko, Albert Icksang/0000-0001-9023-2339;
+   Costa, Federico/0000-0001-6951-2336; Oliveira, Thiago Yukio
+   Kikuchi/0000-0002-2654-0879; Wang, Qiao/0000-0001-6416-1733;
+   Schaefer-Babajew, Dennis/0000-0002-5380-2950; do Rosario,
+   Mateus/0000-0001-7404-6392; Kelleher, Meredith/0000-0002-5313-004X;
+   Rocha Nery Junior, Nivison Ruy/0000-0002-8164-0602
+FU National Institutes of HealthUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [5R01AI121207,
+   R01TW009504, R25TW009338, U19AI111825, UL1TR001866, R01AI037526,
+   UM1AI100663, P01AI138938, R21AI129479, R01AI124690, U19AI057229,
+   R01AI100989, R01AI133976, AI083019, AI104002, P51OD010425, P51 OD011092,
+   R21-HD091032, R01-HD08633]; Rockefeller University Development Office;
+   Fundacao de Amparo a Pesquisa do Estado da Bahia grant [PET0021/2016];
+   National Institutes of Health Office of Research Infrastructure
+   Programs/OD [P51OD011107, P51OD011106]; United States Food and Drug
+   Administration [HHSF223201610542P]; DHHS/PHS/National Institutes of
+   Health [R01Al116382-01A1]; Research Facilities Improvement ProgramUnited
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH National Center for Research Resources (NCRR)
+   [RR15459-01, RR020141-01]; Conselho Nacional de De-senvolvimento
+   Cientifico e TecnologicoNational Council for Scientific and
+   Technological Development (CNPq) [303999/2016-0, 439971/20016-0,
+   440405/2016-5]; Coordenacao de Aperfeicoamento de Pessoal de Nivel
+   Superior (Zika fast-track); Pew Latin American Fellows Program in the
+   Biomedical Sciences; Studienstiftung des Deutschen Volkes; FOGARTY
+   INTERNATIONAL CENTERUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH Fogarty
+   International Center (FIC) [R01TW009504, R25TW009338, R25TW009338,
+   R25TW009338] Funding Source: NIH RePORTER; NATIONAL INSTITUTE OF ALLERGY
+   AND INFECTIOUS DISEASESUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Allergy & Infectious Diseases (NIAID) [U19AI083019, U19AI111825,
+   R21AI129479, R01AI121207, U19AI111825, U19AI083019, R01AI145296,
+   U19AI083019, U19AI083019, R01AI121207, U19AI111825, U19AI083019,
+   R21AI129479, U19AI111825, R01AI121207, U19AI111825, U19AI111825,
+   U19AI083019, U19AI111825, U19AI083019, U19AI111825, U19AI111825,
+   U19AI111825, U19AI111825, R01AI104002, U19AI111825, U19AI083019,
+   U19AI111825, U19AI111825, U19AI083019, R01AI133976, U19AI111825,
+   R01AI133976, U19AI083019, U19AI111825, U19AI111825, U19AI111825,
+   U19AI111825, U19AI083019, U19AI083019, U19AI111825, R01AI121207,
+   U19AI111825, U19AI111825, U19AI111825, U19AI083019, U19AI111825,
+   U19AI083019, U19AI083019, U19AI111825, U19AI111825, U19AI083019,
+   U19AI111825, R01AI145296, R01AI133976, U19AI083019, U19AI111825,
+   U19AI083019, U19AI111825, R01AI104002] Funding Source: NIH RePORTER;
+   OFFICE OF THE DIRECTOR, NATIONAL INSTITUTES OF HEALTHUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USA [P51OD010425, P51OD010425, P51OD011092, P51OD011092, P51OD011092,
+   P51OD010425, P51OD010425, P51OD011092, P51OD011092, P51OD011092,
+   P51OD010425, P51OD011092, P51OD011092, P51OD010425, P51OD011092,
+   P51OD011107, P51OD011092, P51OD010425, P51OD011106, P51OD011107,
+   P51OD010425, P51OD011107, P51OD011106, P51OD010425, P51OD011092,
+   P51OD011106, P51OD011092, P51OD010425, P51OD010425, P51OD011092,
+   P51OD011092, P51OD010425, P51OD011092, P51OD010425, P51OD010425,
+   P51OD011092, P51OD011107, P51OD011092, P51OD011092, P51OD011106,
+   P51OD010425, P51OD011092, P51OD011107, P51OD010425, P51OD011092,
+   P51OD011106, P51OD011107, P51OD011092, P51OD010425, P51OD011106,
+   P51OD010425, P51OD011092, P51OD011092, P51OD011107, P51OD011107,
+   P51OD011107, P51OD011092, P51OD011092, P51OD011107, P51OD011092,
+   P51OD010425, P51OD011106, P51OD010425, P51OD010425, P51OD010425,
+   P51OD011092, P51OD011092, P51OD011092, P51OD011107, P51OD010425,
+   P51OD010425, P51OD011092, P51OD010425, P51OD010425, P51OD010425,
+   P51OD011092, P51OD010425, P51OD011092, P51OD011107, P51OD011107,
+   P51OD011092, P51OD011092, P51OD010425, P51OD011092, P51OD011092,
+   P51OD011092, P51OD010425, P51OD011106, P51OD010425, P51OD011107,
+   P51OD011092, P51OD011107, P51OD011092, P51OD011092, P51OD011092,
+   P51OD011092, P51OD010425, P51OD011092] Funding Source: NIH RePORTER
+FX This work was supported by National Institutes of Health grants
+   5R01AI121207, R01TW009504, and R25TW009338 to A.I. Ko; National
+   Institutes of Health pilot awards U19AI111825 and UL1TR001866 to D.F.
+   Robbiani; National Institutes of Health grants R01AI037526, UM1AI100663,
+   U19AI111825, UL1TR001866, and P01AI138938 to M.C. Nussenzweig; National
+   Institutes of Health grants R01AI124690 and U19AI057229 (Cooperative
+   Center for Human Immunology pilot project); The Rockefeller University
+   Development Office and anonymous donors (to C.M. Rice); Fundacao de
+   Amparo a Pesquisa do Estado da Bahia grant PET0021/2016 (to M.G. Reis);
+   National Institutes of Health grant R21AI129479-Supplement (to K.K.A.
+   Van Rompay) and the National Institutes of Health Office of Research
+   Infrastructure Programs/OD (P51OD011107 to the CNPRC); the United States
+   Food and Drug Administration contract HHSF223201610542P (to L.L.
+   Coffey); National Institutes of Health grants R01AI100989 and
+   R01AI133976 (to L. Rajagopal and K.M. Adams Waldorf); and National
+   Institutes of Health grants AI083019 and AI104002 (to M. Gale Jr.) and
+   grant P51OD010425 to the WaNPRC (to K.M. Adams Waldorf, J. Tisoncik-Go,
+   and M. Gale Jr.). Studies at WNPRC were supported by DHHS/PHS/National
+   Institutes of Health grant R01Al116382-01A1 (to D.H. O'Connor), in part
+   by the National Institutes of Health Office of Research Infrastructure
+   Programs/OD (grant P51OD011106) awarded toWNPRC, at a facility
+   constructed in part with support from Research Facilities Improvement
+   Program grants RR15459-01 and RR020141-01; and National Institutes of
+   Health core and pilot grant P51 OD011092 and grants R21-HD091032 and
+   R01-HD08633 (to ONPRC). P.F.C. Vasconcelos was supported by Conselho
+   Nacional de De-senvolvimento Cientifico e Tecnologico (projects
+   303999/2016-0, 439971/20016-0, and 440405/2016-5) and Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior (Zika fast-track). P.C.
+   Olsen is supported by the Pew Latin American Fellows Program in the
+   Biomedical Sciences. D. Schaefer-Babajew is supported by Studienstiftung
+   des Deutschen Volkes. F. Costa is a Wellcome Trust Fellow in Public
+   Health and Tropical Medicine, and M.C. Nussenzweig is a Howard Hughes
+   Medical Institute Investigator.
+CR Aldo P, 2016, AM J REPROD IMMUNOL, V76, P348, DOI 10.1111/aji.12578
+   Andrade DV, 2018, VIRUS RES, V254, P27, DOI 10.1016/j.virusres.2017.06.019
+   Barba-Spaeth G, 2016, NATURE, V536, P48, DOI 10.1038/nature18938
+   Bardina SV, 2017, SCIENCE, V356, P175, DOI 10.1126/science.aal4365
+   Blight KJ, 2002, J VIROL, V76, P13001, DOI 10.1128/JVI.76.24.13001-13014.2002
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Brown JA, 2019, IMMUNITY, V50, P751, DOI 10.1016/j.immuni.2019.01.005
+   CAIRESJUNIOR LC, 2018, NAT COMM, V0009
+   Coelho AVC, 2017, INT J MOL SCI, V18, DOI 10.3390/ijms18081714
+   Coffey LL, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-04777-6
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   Driggers RW, 2016, NEW ENGL J MED, V374, P2142, DOI 10.1056/NEJMoa1601824
+   Dudley DM, 2018, NAT MED, V24, P1104, DOI 10.1038/s41591-018-0088-5
+   Halai UA, 2017, CLIN INFECT DIS, V65, P877, DOI 10.1093/cid/cix472
+   Halstead SB, 2003, ADV VIRUS RES, V60, P421, DOI 10.1016/S0065-3527(03)60011-4
+   Halstead SB, 2017, EMERG INFECT DIS, V23, P569, DOI 10.3201/eid2304.161879
+   Harrison SC, 2016, NAT IMMUNOL, V17, P1010, DOI 10.1038/ni.3539
+   Heinz FX, 2017, MICROBIOL MOL BIOL R, V81, DOI [10.1128/mmbr.00055-16, 10.1128/MMBR.00055-16]
+   Hirsch AJ, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-017-02499-9
+   Hirsch AJ, 2017, PLOS PATHOG, V13, DOI 10.1371/journal.ppat.1006219
+   Hoen B, 2018, NEW ENGL J MED, V378, P985, DOI 10.1056/NEJMoa1709481
+   Katzelnick LC, 2017, SCIENCE, V358, P929, DOI 10.1126/science.aan6836
+   Keeffe JR, 2018, CELL REP, V25, P1385, DOI 10.1016/j.celrep.2018.10.031
+   Kleber de Oliveira Wanderson, 2016, MMWR Morb Mortal Wkly Rep, V65, P242, DOI 10.15585/mmwr.mm6509e2
+   Lanciotti RS, 2016, EMERG INFECT DIS, V22, P933, DOI 10.3201/eid2205.160065
+   LITTAUA R, 1990, J IMMUNOL, V144, P3183
+   Magnani DM, 2017, SCI TRANSL MED, V9, DOI 10.1126/scitranslmed.aan8184
+   Martin DA, 2000, J CLIN MICROBIOL, V38, P1823, DOI 10.1128/JCM.38.5.1823-1826.2000
+   Martinot AJ, 2018, CELL, V173, P1111, DOI 10.1016/j.cell.2018.03.019
+   Meaney-Delman D, 2016, OBSTET GYNECOL, V128, P724, DOI 10.1097/AOG.0000000000001625
+   Miner JJ, 2017, IMMUNITY, V46, P771, DOI 10.1016/j.immuni.2017.04.023
+   Ministry of Health of Brazil, 2017, HLTH BRAZ 2015 2016
+   Moreira-Soto Andres, 2017, J Infect Dis, V216, P1501, DOI 10.1093/infdis/jix539
+   Netto EM, 2017, MBIO, V8, DOI [10.1128/mBio.01390-17, 10.1128/mbio.01390-17]
+   Oliveira J, 2018, AM J TROP MED HYG, V98, P1860, DOI 10.4269/ajtmh.17-1020
+   Pedroso C, 2019, EMERG INFECT DIS, V25, P1485, DOI 10.3201/eid2508.190113
+   Prazeres J, 2016, BRAZIL JAMA OPHTHALM, V134, P529, DOI [10.1001/jamaophthalmol.2016.0267, DOI 10.1001/JAMA0PHTHALM0L.2016.0267]
+   Priyamvada L, 2016, P NATL ACAD SCI USA, V113, P7852, DOI 10.1073/pnas.1607931113
+   Quicke KM, 2016, CELL HOST MICROBE, V20, P83, DOI 10.1016/j.chom.2016.05.015
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Rathore APS, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aav3208
+   Robbiani DF, 2017, CELL, V169, P597, DOI 10.1016/j.cell.2017.04.024
+   Rodriguez-Barraquer I, 2019, SCIENCE, V363, P607, DOI 10.1126/science.aav6618
+   Salje H, 2018, NATURE, V557, P719, DOI 10.1038/s41586-018-0157-4
+   Santiago GA, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-03772-1
+   Sapparapu G, 2016, NATURE, V540, P443, DOI 10.1038/nature20564
+   Shapiro-Mendoza CK, 2017, MMWR-MORBID MORTAL W, V66, P615, DOI 10.15585/mmwr.mm6623e1
+   de Araujo JSS, 2016, B WORLD HEALTH ORGAN, V94, P835, DOI 10.2471/BLT.16.170639
+   Stettler K, 2016, SCIENCE, V353, P823, DOI 10.1126/science.aaf8505
+   Swanstrom JA, 2016, MBIO, V7, DOI 10.1128/mBio.01123-16
+   van der Eijk AA, 2016, NEW ENGL J MED, V375, P1002, DOI 10.1056/NEJMc1605898
+   van der Linden V, 2017, ARQ NEURO-PSIQUIAT, V75, P381, DOI [10.1590/0004-282X20170066, 10.1590/0004-282x20170066]
+   Aragao MDV, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1901
+   Vasilakis N, 2017, CURR OPIN VIROL, V22, P30, DOI 10.1016/j.coviro.2016.11.007
+   Villar J, 2013, BJOG-INT J OBSTET GY, V120, P9, DOI 10.1111/1471-0528.12047
+   Waldorf KMA, 2018, NAT MED, V24, P368, DOI 10.1038/nm.4485
+   Waldorf KMA, 2016, NAT MED, V22, P1256, DOI 10.1038/nm.4193
+   Yuan L, 2017, SCIENCE, V358, P933, DOI 10.1126/science.aam7120
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+   Zimmerman MG, 2018, CELL HOST MICROBE, V24, P731, DOI 10.1016/j.chom.2018.10.008
+NR 60
+TC 11
+Z9 11
+U1 0
+U2 6
+PU ROCKEFELLER UNIV PRESS
+PI NEW YORK
+PA 950 THIRD AVE, 2ND FLR, NEW YORK, NY 10022 USA
+SN 0022-1007
+EI 1540-9538
+J9 J EXP MED
+JI J. Exp. Med.
+PD OCT
+PY 2019
+VL 216
+IS 10
+BP 2302
+EP 2315
+DI 10.1084/jem.20191061
+PG 14
+WC Immunology; Medicine, Research & Experimental
+SC Immunology; Research & Experimental Medicine
+GA JC2PM
+UT WOS:000489118900009
+PM 31413072
+OA Green Published, Other Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Robbiani, DF
+   Bozzacco, L
+   Keeffe, JR
+   Khouri, R
+   Olsen, PC
+   Gazumyan, A
+   Schaefer-Babajew, D
+   Avila-Rios, S
+   Nogueira, L
+   Patel, R
+   Azzopardi, SA
+   Uhl, LFK
+   Saeed, M
+   Sevilla-Reyes, EE
+   Agudelo, M
+   Yao, KH
+   Golijanin, J
+   Gristick, HB
+   Lee, YE
+   Hurley, A
+   Caskey, M
+   Pai, J
+   Oliveira, T
+   Wunder, EA
+   Sacramento, G
+   Nery, N
+   Orge, C
+   Costa, F
+   Reis, MG
+   Thomas, NM
+   Eisenreich, T
+   Weinberger, DM
+   de Almeida, ARP
+   West, AP
+   Rice, CM
+   Bjorkman, PJ
+   Reyes-Teran, G
+   Ko, AI
+   MacDonald, MR
+   Nussenzweig, MC
+AF Robbiani, Davide F.
+   Bozzacco, Leonia
+   Keeffe, Jennifer R.
+   Khouri, Ricardo
+   Olsen, Priscilla C.
+   Gazumyan, Anna
+   Schaefer-Babajew, Dennis
+   Avila-Rios, Santiago
+   Nogueira, Lilian
+   Patel, Roshni
+   Azzopardi, Stephanie A.
+   Uhl, Lion F. K.
+   Saeed, Mohsan
+   Sevilla-Reyes, Edgar E.
+   Agudelo, Marianna
+   Yao, Kai-Hui
+   Golijanin, Jovana
+   Gristick, Harry B.
+   Lee, Yu E.
+   Hurley, Arlene
+   Caskey, Marina
+   Pai, Joy
+   Oliveira, Thiago
+   Wunder, Elsio A., Jr.
+   Sacramento, Gielson
+   Nery, Nivison, Jr.
+   Orge, Cibele
+   Costa, Federico
+   Reis, Mitermayer G.
+   Thomas, Neena M.
+   Eisenreich, Thomas
+   Weinberger, Daniel M.
+   de Almeida, Antonio R. P.
+   West, Anthony P., Jr.
+   Rice, Charles M.
+   Bjorkman, Pamela J.
+   Reyes-Teran, Gustavo
+   Ko, Albert I.
+   MacDonald, Margaret R.
+   Nussenzweig, Michel C.
+TI Recurrent Potent Human Neutralizing Antibodies to Zika Virus in Brazil
+   and Mexico
+SO CELL
+LA English
+DT Article
+ID DENGUE VIRUS; MONOCLONAL-ANTIBODIES; STRUCTURAL BASIS; MEDIATED
+   NEUTRALIZATION; CROSS-REACTIVITY; DOMAIN-III; HIV-1; ENHANCEMENT; BROAD;
+   GLYCOPROTEIN
+AB Antibodies to Zika virus (ZIKV) can be protective. To examine the antibody response in individuals who develop high titers of anti-ZIKV antibodies, we screened cohorts in Brazil and Mexico for ZIKV envelope domain III (ZEDIII) binding and neutralization. We find that serologic reactivity to dengue 1 virus (DENV1) EDIII before ZIKV exposure is associated with increased ZIKV neutralizing titers after exposure. Antibody cloning shows that donors with high ZIKV neutralizing antibody titers have expanded clones of memory B cells that express the same immunoglobulin VH3-23/VK1-5 genes. These recurring antibodies cross-react with DENV1, but not other flaviviruses, neutralize both DENV1 and ZIKV, and protect mice against ZIKV challenge. Structural analyses reveal the mechanism of recognition of the ZEDIII lateral ridge by VH3-23/VK1-5 antibodies. Serologic testing shows that antibodies to this region correlate with serumneutralizing activity to ZIKV. Thus, high neutralizing responses to ZIKV are associated with pre-existing reactivity to DENV1 in humans.
+C1 [Robbiani, Davide F.; Olsen, Priscilla C.; Gazumyan, Anna; Schaefer-Babajew, Dennis; Nogueira, Lilian; Patel, Roshni; Uhl, Lion F. K.; Agudelo, Marianna; Yao, Kai-Hui; Golijanin, Jovana; Hurley, Arlene; Caskey, Marina; Pai, Joy; Oliveira, Thiago; Thomas, Neena M.; Eisenreich, Thomas; Nussenzweig, Michel C.] Rockefeller Univ, Lab Mol Immunol, New York, NY 10065 USA.
+   [Bozzacco, Leonia; Azzopardi, Stephanie A.; Saeed, Mohsan; Rice, Charles M.; MacDonald, Margaret R.] Rockefeller Univ, Lab Virol & Infect Dis, New York, NY 10065 USA.
+   [Keeffe, Jennifer R.; Gristick, Harry B.; Lee, Yu E.; West, Anthony P., Jr.; Bjorkman, Pamela J.] CALTECH, Div Biol & Biol Engn, Pasadena, CA 91125 USA.
+   [Khouri, Ricardo; Wunder, Elsio A., Jr.; Sacramento, Gielson; Nery, Nivison, Jr.; Orge, Cibele; Costa, Federico; Reis, Mitermayer G.; Ko, Albert I.] Fundacao Oswaldo Cruz MS, Inst Goncalo Moniz, BR-40296710 Salvador, BA, Brazil.
+   [Avila-Rios, Santiago; Sevilla-Reyes, Edgar E.; Reyes-Teran, Gustavo] Natl Inst Resp Dis, Mexico City 14080, DF, Mexico.
+   [Wunder, Elsio A., Jr.; Costa, Federico; Reis, Mitermayer G.; Weinberger, Daniel M.; Ko, Albert I.] Yale Sch Publ Hlth, Dept Epidemiol Microbial Dis, New Haven, CT 06520 USA.
+   [Costa, Federico; Reis, Mitermayer G.; de Almeida, Antonio R. P.] Univ Fed Bahia, Fac Med Bahia, BR-40296710 Salvador, BA, Brazil.
+   [Costa, Federico; Reis, Mitermayer G.; de Almeida, Antonio R. P.] Univ Fed Bahia, Inst Saude Colet, BR-40296710 Salvador, BA, Brazil.
+   [Nussenzweig, Michel C.] Rockefeller Univ, Howard Hughes Med Inst, New York, NY 10065 USA.
+RP Robbiani, DF; Nussenzweig, MC (corresponding author), Rockefeller Univ, Lab Mol Immunol, New York, NY 10065 USA.; MacDonald, MR (corresponding author), Rockefeller Univ, Lab Virol & Infect Dis, New York, NY 10065 USA.; Nussenzweig, MC (corresponding author), Rockefeller Univ, Howard Hughes Med Inst, New York, NY 10065 USA.
+EM drobbiani@rockefeller.edu; macdonm@rockefeller.edu;
+   nussen@rockefeller.edu
+RI Wunder, Elsio Augusto/C-2733-2013; Reis, Mitermayer/AAO-9742-2020;
+   Robbiani, Davide F./AAF-7662-2019; Avila-Rios, Santiago/AAB-4383-2020;
+   Olsen, Priscilla C/I-8994-2012; Costa, Federico/G-1838-2015; Khouri,
+   Ricardo/M-3184-2018; Nussenzweig, Michel/AAE-7292-2019; Oliveira, Thiago
+   Yukio Kikuchi/ABF-5186-2020; Ko, Albert Icksang/P-2343-2015
+OI Wunder, Elsio Augusto/0000-0002-5239-8511; Reis,
+   Mitermayer/0000-0002-3051-9060; Robbiani, Davide F./0000-0001-7379-3484;
+   Olsen, Priscilla C/0000-0002-8795-037X; Costa,
+   Federico/0000-0001-6951-2336; Khouri, Ricardo/0000-0001-5664-4436;
+   Oliveira, Thiago Yukio Kikuchi/0000-0002-2654-0879; Ko, Albert
+   Icksang/0000-0001-9023-2339; Uhl, Lion/0000-0003-1729-9857;
+   Schaefer-Babajew, Dennis/0000-0002-5380-2950; Caskey,
+   Marina/0000-0003-1727-8693; Rocha Nery Junior, Nivison
+   Ruy/0000-0002-8164-0602
+FU NIHUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USA [U19AI111825, UL1TR001866, R01AI037526,
+   UM1AI100663, R01AI121207, R01TW009504, R25TW009338, U01AI088752,
+   R01AI124690, U19AI057229]; Molecular Observatory at Caltech - Gordon and
+   Betty Moore Foundation; Robertson Therapeutic Development Fund; Pew
+   Latin American Fellows Program in the Biomedical Sciences;
+   Studienstiftung des deutschen Volkes; Austrian Marshall Plan Foundation;
+   Red INMUNOCANEI-Conacyt; FOGARTY INTERNATIONAL CENTERUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH Fogarty International Center (FIC) [R01TW009504, R01TW009504,
+   R01TW009504, R01TW009504, R01TW009504] Funding Source: NIH RePORTER;
+   NATIONAL CENTER FOR ADVANCING TRANSLATIONAL SCIENCESUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH National Center for Advancing Translational Sciences (NCATS)
+   [UL1TR001866, UL1TR001866, UL1TR001863, UL1TR001863, UL1TR001863,
+   UL1TR001863, UL1TR001866, UL1TR001863, UL1TR001863, UL1TR001863,
+   UL1TR001866, UL1TR001866, UL1TR001866, UL1TR001863, UL1TR001866,
+   UL1TR001866, UL1TR001866] Funding Source: NIH RePORTER; NATIONAL
+   INSTITUTE OF ALLERGY AND INFECTIOUS DISEASESUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Allergy & Infectious Diseases (NIAID)
+   [U19AI111825, R21AI112602, U19AI111825, U19AI111825, T32AI070084,
+   U19AI111825, U19AI111825, R01AI037526, R01AI037526, UM1AI100663,
+   UM1AI100663, U19AI111825, U19AI111825, R01AI037526, R01AI121207,
+   U19AI111825, U19AI111825, U01AI088752, UM1AI100663, R01AI037526,
+   T32AI070084, R01AI124690, R01AI037526, R01AI124690, U19AI111825,
+   UM1AI100663, R01AI037526, R01AI121207, UM1AI100663, U19AI111825,
+   U19AI111825, U19AI111825, U19AI111825, UM1AI100663, U19AI111825,
+   R01AI121207, U19AI111825, UM1AI100663, UM1AI100663, U19AI111825,
+   UM1AI100663, UM1AI100663, U01AI088752, UM1AI100663, U19AI111825,
+   R01AI124690, R37AI037526, UM1AI100663, UM1AI100663, UM1AI100663,
+   UM1AI100663, UM1AI100663, UM1AI100663, U19AI111825, UM1AI100663,
+   U19AI111825, UM1AI100663, UM1AI100663, U19AI111825, UM1AI100663,
+   U19AI111825, R01AI037526, UM1AI100663, U19AI111825, U19AI111825,
+   U19AI111825, R01AI037526, U19AI111825, UM1AI100663, R21AI112602,
+   UM1AI100663, UM1AI100663, UM1AI100663, UM1AI100663, R37AI037526,
+   U19AI111825, UM1AI100663, UM1AI100663, UM1AI100663, R01AI037526,
+   U19AI111825, U01AI088752, U19AI111825, R01AI037526, U19AI111825,
+   R37AI037526, R01AI037526, R01AI121207, UM1AI100663, UM1AI100663,
+   U19AI111825, U19AI111825, UM1AI100663, UM1AI100663, U19AI111825,
+   U19AI111825, R01AI124690, R01AI037526, UM1AI100663, R01AI037526,
+   U19AI111825, UM1AI100663, UM1AI100663, U19AI111825, R37AI037526,
+   U19AI111825, UM1AI100663, UM1AI100663, U19AI111825, UM1AI100663,
+   UM1AI100663, UM1AI100663, U19AI111825, U19AI111825, UM1AI100663,
+   UM1AI100663, UM1AI100663, U19AI111825, R01AI037526, UM1AI100663,
+   UM1AI100663, U19AI111825, R01AI037526, UM1AI100663, UM1AI100663,
+   UM1AI100663, T32AI070084, R01AI037526, R01AI121207, U19AI111825,
+   U19AI111825, UM1AI100663, U19AI111825, R01AI037526, U01AI088752,
+   R37AI037526, UM1AI100663, R01AI124690, UM1AI100663, UM1AI100663,
+   UM1AI100663, UM1AI100663, R01AI037526, U01AI088752, U01AI088752,
+   U19AI111825, U19AI111825, UM1AI100663, U19AI111825, T32AI070084,
+   UM1AI100663, R37AI037526, R37AI037526, R01AI037526] Funding Source: NIH
+   RePORTER
+FX We would especially like to thank the members of the Santa Maria
+   Mixtequilla and Pau da Lima communities who agreed to participate in
+   this study, as well as the Fiocruz community research team and staff of
+   Hospital Geral Roberto Santos for their assistance with the clinical
+   protocols. We thank members of the Nussenzweig and Rice labs for helpful
+   discussions and suggestions. A particular thank you to Lotta von
+   Boehmer, Christian Mayer, Yotam Bar-On, Irina Shimeliovich, and Julio
+   Cetrulo Lorenzi for sharing expertise, protocols, and reagents. We thank
+   Ted Pierson for plasmids pWNVII-Rep-REN-IB and pZIKV/HPF/CprME, Aaron
+   Brault (CDC) for ZIKV PRVABC59, Bob Tesh for DENV1 PUO-359, Matt Evans
+   for ZIKV MR766 cDNA, and Greg Ebel, James Weger, and Brian Geiss for
+   ZIKV PRVABC59 cDNA. We are grateful to Laura Kramer (NYSDOH) and Robert
+   Lanciotti (CDC) for PRNT advice and protocols, Kimberly Dowd for RVP
+   advice, and Muhammad Arshad for cloning assistance. We thank Barbara
+   Johnson, Ann Powers, Christin Goodman, Claire Huang, Brandy Russell
+   (CDC), and Claudia Duarte dos Santos for sharing ZIKV information early
+   on. Moreover, we are thankful to Mary Ellen Castillo for facilitating
+   virus work in the cell culture core, Alison Ashbrook for help with PRNT
+   assays, Natalia Frias-Staheli for generation of the DENV1 stock, Corrine
+   Quirk for assistance with mouse colonies, Tiffany Luong, Alisa Voll, and
+   the Caltech Protein Expression Center for cloning, expression, and
+   purification of proteins for crystallography, and Christopher Barnes and
+   Beth Stadtmueller for help with crystallographic methods. This work was
+   supported by NIH pilot awards U19AI111825 (to D.F.R.) and UL1TR001866
+   (to D.F.R. and L.B.), grants R01AI037526, UM1AI100663, U19AI111825, and
+   UL1TR001866 (to M.C.N.), grants R01AI121207, R01TW009504, R25TW009338,
+   and U01AI088752 (to A.I.K.), grants R01AI124690 (to C.M.R.) and
+   U19AI057229 (CCHI Opportunity Fund Project to C.M.R. and M.R.M.), donors
+   to the Zika Fund at Rockefeller University and anonymous donors (to
+   C.M.R.), and the Molecular Observatory at Caltech supported by the
+   Gordon and Betty Moore Foundation (P.J.B.). Operations at the Stanford
+   Synchrotron Radiation Lightsource are supported by the US Department of
+   Energy and the NIH. Support was also provided by the Robertson
+   Therapeutic Development Fund (to D.F.R. and M.C.N.). P.C.O. is supported
+   by the Pew Latin American Fellows Program in the Biomedical Sciences,
+   D.S.-B. by Studienstiftung des deutschen Volkes, L.F.K.U. by the
+   Austrian Marshall Plan Foundation, and E.E.S.-R. is partly supported by
+   Red INMUNOCANEI-Conacyt. M.C.N. is an HHMI Investigator. In connection
+   with this work, D.F.R. and M.C.N. have a provisional patent application
+   with the U.S. Patent and Trademark Office (62/483,001). The content is
+   solely the responsibility of the authors and does not necessarily
+   represent the official views of any of the funding agencies or
+   individuals.
+CR Adams PD, 2010, ACTA CRYSTALLOGR D, V66, P213, DOI 10.1107/S0907444909052925
+   Barba-Spaeth G, 2016, NATURE, V536, P48, DOI 10.1038/nature18938
+   Bardina SV, 2017, SCIENCE, V356, P175, DOI 10.1126/science.aal4365
+   Barzon L., 2016, EURO SURVEILL, V21
+   Battye TGG, 2011, ACTA CRYSTALLOGR D, V67, P271, DOI 10.1107/S0907444910048675
+   Beasley DWC, 2002, J VIROL, V76, P13097, DOI 10.1128/JVI.76.24.13097-13100.2002
+   Blight KJ, 2002, J VIROL, V76, P13001, DOI 10.1128/JVI.76.24.13001-13014.2002
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Cardoso CW, 2015, EMERG INFECT DIS, V21, P2274, DOI 10.3201/eid2112.151167
+   Castanha PMS, 2017, J INFECT DIS, V215, P781, DOI 10.1093/infdis/jiw638
+   Chapgier A, 2006, PLOS GENET, V2, P1193, DOI 10.1371/journal.pgen.0020131
+   Costa F, 2016, ANN INTERN MED, V164, P689, DOI 10.7326/M16-0332
+   Crill WD, 2001, J VIROL, V75, P7769, DOI 10.1128/JVI.75.16.7769-7773.2001
+   Dai LP, 2016, CELL HOST MICROBE, V19, P696, DOI 10.1016/j.chom.2016.04.013
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   DeKosky BJ, 2015, NAT MED, V21, P86, DOI 10.1038/nm.3743
+   Emsley P, 2004, ACTA CRYSTALLOGR D, V60, P2126, DOI 10.1107/S0907444904019158
+   Escolano A, 2017, J EXP MED, V214, P3, DOI 10.1084/jem.20161765
+   Felzemburgh RDM, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002927
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Hagan JE, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004275
+   Harrison SC, 2016, NAT IMMUNOL, V17, P1010, DOI 10.1038/ni.3539
+   Heinz FX, 2017, MICROBIOL MOL BIOL R, V81, DOI [10.1128/mmbr.00055-16, 10.1128/MMBR.00055-16]
+   HENCHAL EA, 1982, AM J TROP MED HYG, V31, P830, DOI 10.4269/ajtmh.1982.31.830
+   Jones TA, 2004, ACTA CRYSTALLOGR D, V60, P2115, DOI 10.1107/S0907444904023509
+   Klein F, 2014, J EXP MED, V211, P2361, DOI 10.1084/jem.20141050
+   Kostyuchenko VA, 2016, NATURE, V533, P425, DOI 10.1038/nature17994
+   Kramer LD, 2007, LANCET NEUROL, V6, P171, DOI 10.1016/S1474-4422(07)70030-3
+   Lanciotti RS, 2016, EMERG INFECT DIS, V22, P933, DOI 10.3201/eid2205.160065
+   Laursen NS, 2013, ANTIVIR RES, V98, P476, DOI 10.1016/j.antiviral.2013.03.021
+   Lessler J, 2016, SCIENCE, V353, DOI 10.1126/science.aaf8160
+   Li MZ, 2007, NAT METHODS, V4, P251, DOI 10.1038/NMETH1010
+   Miner JJ, 2017, CELL HOST MICROBE, V21, P134, DOI 10.1016/j.chom.2017.01.004
+   Modis Y, 2003, P NATL ACAD SCI USA, V100, P6986, DOI 10.1073/pnas.0832193100
+   Mouquet H, 2012, P NATL ACAD SCI USA, V109, pE3268, DOI 10.1073/pnas.1217207109
+   Mukherjee S, 2014, METHODS MOL BIOL, V1138, P75, DOI 10.1007/978-1-4939-0348-1_6
+   Mukhopadhyay S, 2005, NAT REV MICROBIOL, V3, P13, DOI 10.1038/nrmicro1067
+   Murray KO, 2017, EMERG INFECT DIS, V23, P99, DOI 10.3201/eid2301.161394
+   Murray Natasha Evelyn Anne, 2013, Clin Epidemiol, V5, P299, DOI 10.2147/CLEP.S34440
+   Pappas L, 2014, NATURE, V516, P418, DOI 10.1038/nature13764
+   Pierson TC, 2006, VIROLOGY, V346, P53, DOI 10.1016/j.virol.2005.10.030
+   Pierson TC, 2016, CELL, V167, P625, DOI 10.1016/j.cell.2016.09.020
+   Priyamvada L, 2016, P NATL ACAD SCI USA, V113, P7852, DOI 10.1073/pnas.1607931113
+   REY FA, 1995, NATURE, V375, P291, DOI 10.1038/375291a0
+   Rubelt F, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0049774
+   SABIN AB, 1950, BACTERIOL REV, V14, P225
+   SABIN ALBERT B., 1952, AMER JOUR TROP MED AND HYG, V1, P30
+   Sapparapu G, 2016, NATURE, V540, P443, DOI 10.1038/nature20564
+   Scheid JF, 2011, SCIENCE, V333, P1633, DOI 10.1126/science.1207227
+   Scheid JF, 2009, J IMMUNOL METHODS, V343, P65, DOI 10.1016/j.jim.2008.11.012
+   Screaton G, 2015, NAT REV IMMUNOL, V15, P745, DOI 10.1038/nri3916
+   Silva MMO, 2016, EMERG INFECT DIS, V22, P336, DOI 10.3201/eid2202.150495
+   Sirohi D, 2016, SCIENCE, V352, P467, DOI 10.1126/science.aaf5316
+   Stettler K, 2016, SCIENCE, V353, P823, DOI 10.1126/science.aaf8505
+   Sui JH, 2009, NAT STRUCT MOL BIOL, V16, P265, DOI 10.1038/nsmb.1566
+   Suy A, 2016, NEW ENGL J MED, V375, P2611, DOI 10.1056/NEJMc1607580
+   Swanstrom JA, 2016, MBIO, V7, DOI 10.1128/mBio.01123-16
+   Throsby M, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0003942
+   von Boehmer L, 2016, NAT PROTOC, V11, P1908, DOI 10.1038/nprot.2016.102
+   Wahala WMPB, 2011, VIRUSES-BASEL, V3, P2374, DOI 10.3390/v3122374
+   Wang QH, 2016, SCI TRANSL MED, V8, DOI 10.1126/scitranslmed.aai8336
+   Wardemann H, 2003, SCIENCE, V301, P1374, DOI 10.1126/science.1086907
+   Weaver SC, 2016, ANTIVIR RES, V130, P69, DOI 10.1016/j.antiviral.2016.03.010
+   Weaver SC, 2010, ANTIVIR RES, V85, P328, DOI 10.1016/j.antiviral.2009.10.008
+   West AP, 2013, P NATL ACAD SCI USA, V110, P10598, DOI 10.1073/pnas.1309215110
+   West AP, 2012, P NATL ACAD SCI USA, V109, pE2083, DOI 10.1073/pnas.1208984109
+   Winn MD, 2011, ACTA CRYSTALLOGR D, V67, P235, DOI 10.1107/S0907444910045749
+   Wrammert J, 2011, J EXP MED, V208, P181, DOI 10.1084/jem.20101352
+   Ye J, 2013, NUCLEIC ACIDS RES, V41, pW34, DOI 10.1093/nar/gkt382
+   Yurasov S, 2005, J EXP MED, V201, P703, DOI 10.1084/jem.20042251
+   Zhang Y, 2004, STRUCTURE, V12, P1607, DOI 10.1016/j.str.2004.06.019
+   Zhou TQ, 2010, SCIENCE, V329, P811, DOI 10.1126/science.1192819
+NR 73
+TC 123
+Z9 125
+U1 0
+U2 34
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 0092-8674
+EI 1097-4172
+J9 CELL
+JI Cell
+PD MAY 4
+PY 2017
+VL 169
+IS 4
+BP 597
+EP 609
+DI 10.1016/j.cell.2017.04.024
+PG 13
+WC Biochemistry & Molecular Biology; Cell Biology
+SC Biochemistry & Molecular Biology; Cell Biology
+GA ET8PD
+UT WOS:000400560900007
+PM 28475892
+OA Bronze, Green Accepted
+DA 2020-12-08
+ER
+
+PT J
+AU Sarno, M
+   Sacramento, GA
+   Khouri, R
+   do Rosario, MS
+   Costa, F
+   Archanjo, G
+   Santos, LA
+   Nery, N
+   Vasilakis, N
+   Ko, AI
+   de Almeida, ARP
+AF Sarno, Manoel
+   Sacramento, Gielson A.
+   Khouri, Ricardo
+   do Rosario, Mateus S.
+   Costa, Federico
+   Archanjo, Gracinda
+   Santos, Luciane A.
+   Nery, Nivison, Jr.
+   Vasilakis, Nikos
+   Ko, Albert I.
+   de Almeida, Antonio R. P.
+TI Zika Virus Infection and Stillbirths: A Case of Hydrops Fetalis,
+   Hydranencephaly and Fetal Demise
+SO PLOS NEGLECTED TROPICAL DISEASES
+LA English
+DT Article
+ID OUTBREAK; BRAZIL
+AB Background
+   The rapid spread of Zika virus in the Americas and current outbreak of microcephaly in Brazil has raised attention to the possible deleterious effects that the virus may have on fetuses.
+   Methodology/Principal Findings
+   We report a case of a 20-year-old pregnant woman who was referred to our service after a large Zika virus outbreak in the city of Salvador, Brazil with an ultrasound examination that showed intrauterine growth retardation of the fetus at the 18th gestational week. Ultrasound examinations in the 2nd and 3rd trimesters demonstrated severe microcephaly, hydranencephaly, intracranial calcifications and destructive lesions of posterior fossa, in addition to hydrothorax, ascites and subcutaneous edema. An induced labor was performed at the 32nd gestational week due to fetal demise and delivered a female fetus. ZIKV-specific real-time polymerase chain reaction amplification products were obtained from extracts of cerebral cortex, medulla oblongata and cerebrospinal and amniotic fluid, while extracts of heart, lung, liver, vitreous body of the eye and placenta did not yield detectable products.
+   Conclusions/Significance
+   This case report provides evidence that in addition to microcephaly, there may be a link between Zika virus infection and hydrops fetalis and fetal demise. Given the recent spread of the virus, systematic investigation of spontaneous abortions and stillbirths may be warranted to evaluate the risk that ZIKV infection imparts on these outcomes.
+C1 [Sarno, Manoel; do Rosario, Mateus S.; Archanjo, Gracinda; de Almeida, Antonio R. P.] Hosp Geral Roberto Santos, Secretaria Estadual Saude Bahia, Salvador, BA, Brazil.
+   [Sarno, Manoel; Costa, Federico; de Almeida, Antonio R. P.] Univ Fed Bahia, Fac Med, Salvador, BA, Brazil.
+   [Sarno, Manoel; Costa, Federico; de Almeida, Antonio R. P.] Univ Fed Bahia, Inst Saude Colet, Salvador, BA, Brazil.
+   [Sacramento, Gielson A.; Khouri, Ricardo; Costa, Federico; Santos, Luciane A.; Nery, Nivison, Jr.; Ko, Albert I.] Minist Saude, Fundacao Oswaldo Cruz, Ctr Pesquisas Goncalo Moniz, Salvador, BA, Brazil.
+   [Costa, Federico; Ko, Albert I.] Yale Univ, Sch Publ Hlth, Dept Epidemiol Microbial Dis, New Haven, CT USA.
+   [Vasilakis, Nikos] Univ Texas Med Branch, Dept Pathol, Galveston, TX 77555 USA.
+   [Vasilakis, Nikos] Univ Texas Med Branch, Ctr Biodef & Emerging Infect Dis, Inst Human Infect & Immun, Galveston, TX 77555 USA.
+RP Ko, AI (corresponding author), Minist Saude, Fundacao Oswaldo Cruz, Ctr Pesquisas Goncalo Moniz, Salvador, BA, Brazil.; Ko, AI (corresponding author), Yale Univ, Sch Publ Hlth, Dept Epidemiol Microbial Dis, New Haven, CT USA.
+EM albert.ko@yale.edu
+RI Costa, Federico/G-1838-2015; Pinto, Marcelo/G-7503-2012; Khouri,
+   Ricardo/M-3184-2018; Vasilakis, Nikos/ABE-7318-2020; Ko, Albert
+   Icksang/P-2343-2015
+OI Costa, Federico/0000-0001-6951-2336; Pinto, Marcelo/0000-0003-3462-7277;
+   Khouri, Ricardo/0000-0001-5664-4436; Ko, Albert
+   Icksang/0000-0001-9023-2339; Rocha Nery Junior, Nivison
+   Ruy/0000-0002-8164-0602; do Rosario, Mateus/0000-0001-7404-6392
+FU FOGARTY INTERNATIONAL CENTERUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH Fogarty
+   International Center (FIC) [R01TW009504, R01TW009504, R01TW009504,
+   R01TW009504, R01TW009504] Funding Source: NIH RePORTER; NATIONAL
+   INSTITUTE OF ALLERGY AND INFECTIOUS DISEASESUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Allergy & Infectious Diseases (NIAID)
+   [R01AI121207, R01AI121207, R01AI121207, R01AI121207] Funding Source: NIH
+   RePORTER; FIC NIH HHSUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH Fogarty
+   International Center (FIC) [R01 TW009504] Funding Source: Medline; NIAID
+   NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [R01 AI121207] Funding Source: Medline
+CR Balm MND, 2012, J MED VIROL, V84, P1501, DOI 10.1002/jmv.23241
+   Brazil Ministry of Health, 2016, 11 BRAZ MIN HLTH
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Enfissi A, 2016, LANCET, V387, P227, DOI 10.1016/S0140-6736(16)00003-9
+   Fauci A, 2016, ZIKA VIRUS AM YET AN
+   Freitas BD, 2016, JAMA OPHTHALMOL, V134, P529, DOI 10.1001/jamaophthalmol.2016.0267
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P1, DOI [DOI 10.15585/MMWR.MM6506E1ER, 10.15585/mmwr.mm6506e1]
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Mlakar J, 2016, N ENGL J MED
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 11
+TC 210
+Z9 216
+U1 0
+U2 6
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1935-2735
+J9 PLOS NEGLECT TROP D
+JI Plos Neglect. Trop. Dis.
+PD FEB
+PY 2016
+VL 10
+IS 2
+AR e0004517
+DI 10.1371/journal.pntd.0004517
+PG 5
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA DH1TH
+UT WOS:000372567300081
+PM 26914330
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+EF

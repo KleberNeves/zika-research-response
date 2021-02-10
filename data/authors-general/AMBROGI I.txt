@@ -1,0 +1,334 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Diniz, D
+   Ali, M
+   Ambrogi, I
+   Brito, L
+AF Diniz, Debora
+   Ali, Moazzam
+   Ambrogi, Ilana
+   Brito, Luciana
+TI Understanding sexual and reproductive health needs of young women living
+   in Zika affected regions: a qualitative study in northeastern Brazil
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Zika virus; Sexual and reproductive health; Public health; Young women;
+   Brazil
+ID PREGNANCY
+AB Background In 2016, the World Health Organization declared a Public Health Emergency of International Concern due to Zika's association with microcephaly and other neurological disorders. Brazil was the epicenter of this epidemic and the most affected region has the lowest Human Development Index and the highest rates of adolescent pregnancy. Despite the end of the epidemic, Brazil continues to be the epicenter of Zika illness. This study examined the barriers faced by young women who seek sexual and reproductive health (SRH) care services living in affected areas and their attitudes towards SRH needs and the available services. Methods Individual semi-structured interviews were conducted with 22 young women, aged 14-24 years in three Zika affected municipalities in the Brazilian Northeast. This qualitative research used thematic analysis for data analysis. Results Almost half (n = 10) of the participants had their first pregnancy during adolescence (from 12 to 19), all of which were unintended. Lack of information and barriers to access family planning were found to contribute to the unmet need for contraception. Participants reported knowledge gaps about contraception. Zika was not considered a health concern and participants were unaware of the possibility of Zika's sexual transmission. Conclusions The young women's knowledge and attitudes towards their SRH needs highlight the barriers to access care. It also implies that comprehensive, biopsychosocial and political, understanding is necessary in order to adequately provide SRH to this population and meet their needs. The government should place women at the center of any public health response to an emergency affecting women of reproductive age and focus on improving access to information and family planning services in a culturally and age appropriate manner.
+C1 [Diniz, Debora] IPPF WHR, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+   [Ali, Moazzam] World Hlth Org, Dept Reprod Hlth & Res RHR, Ave Appia 20, CH-1211 Geneva 27, Switzerland.
+   [Ambrogi, Ilana] Anis Inst Bioeth, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+   [Brito, Luciana] Anis Inst Bioeth, Res, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+RP Ali, M (corresponding author), World Hlth Org, Dept Reprod Hlth & Res RHR, Ave Appia 20, CH-1211 Geneva 27, Switzerland.; Brito, L (corresponding author), Anis Inst Bioeth, Res, Caixa Postal 8011, BR-70094971 Brasilia, DF, Brazil.
+EM alimoa@who.int; l.brito@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569; Brito, Luciana/0000-0001-8752-2386
+FU  [5149]
+FX The study is funded by Large Anonymous Donor under the Grant ID 5149 for
+   Women, Communities, and Health Systems in the Context of Zika. The
+   funding sources did not play a role in the study design, in the writing
+   of the report, or in the decision to submit the article for publication.
+CR [Anonymous], 2016, PROTOCOLOS ATENCAO B
+   Bahamondes L, 2017, HUM REPROD, V32, P88, DOI 10.1093/humrep/dew310
+   Braun V., 2006, QUALITATIVE RES PSYC, V3, P77, DOI [DOI 10.1191/1478088706qp063oa, 10.1191/1478088706qp063oa]
+   Castro MC, 2018, P NATL ACAD SCI USA, V115, P6177, DOI 10.1073/pnas.1718476115
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Conroy KN, 2016, J PEDIATR ADOL GYNEC, V29, P312, DOI 10.1016/j.jpag.2015.12.003
+   Corbin J., 2008, BASICS QUALITATIVE R
+   Crosby RA, 2002, AM J OBSTET GYNECOL, V186, P251, DOI 10.1067/mob.2002.120081
+   Curtis Siân L., 2012, Rev. bras. estud. popul., V29, P191, DOI 10.1590/S0102-30982012000100012
+   Diniz D, 2017, ZIKA BRAZIL WOMEN CH
+   Diniz D, 2017, DEV WORLD BIOETH, V17, P142, DOI 10.1111/dewb.12175
+   Diniz D, 2017, INT J GYNECOL OBSTET, V136, P105, DOI 10.1002/ijgo.12018
+   Farias MR, 2016, REV SAUDE PUBL, V50, DOI [10.1590/S1518-8787.2016050006176, 10.1590/s1518-8787.2016050006176]
+   Goodman M, 2017, AM J OBSTET GYNECOL, V216, DOI 10.1016/j.ajog.2016.12.015
+   Grace KT, 2018, TRAUMA VIOLENCE ABUS, V19, P371, DOI 10.1177/1524838016663935
+   Guttmacher Institute, 2016, COSTS BEN M CONTR NE, V19
+   Hadley A, 2016, J ADOLESCENT HEALTH, V59, P68, DOI 10.1016/j.jadohealth.2016.03.023
+   Le HH, 2014, INT J WOMENS HEALTH, V6, P663, DOI 10.2147/IJWH.S61543
+   Liang ELM, 2013, ADOLESCENT PREGNANCY
+   Makuch MY, 2011, CONTRACEPTION, V84, P622, DOI 10.1016/j.contraception.2011.03.010
+   Marteleto LJ, 2017, POPUL DEV REV, V43, P199, DOI 10.1111/padr.12074
+   Ministerio da Saude, SINASC SIST INF NASC
+   Ministerio da Saude, 2009, PESQ NAC DEM SAUD CR
+   Ministerio da Saude. Secretaria de Vigilancia em Saude, 2019, B EP, V50
+   Ministerio da Saude. Secretaria de Vigilancia em Saude, 2016, SECR VIG SAUD PROTOC
+   Ministerio da Saude. Secretaria de Vigilancia em Saude, 2019, B EP, V50
+   O'Connell C, 2019, INT J GYNECOL OBSTET, V144, P116, DOI 10.1002/ijgo.12693
+   Oringanje C, 2016, COCHRANE DB SYST REV, V2, DOI 10.1002/14651858.CD005215.pub3
+   de Leon RGP, 2019, LANCET GLOB HEALTH, V7, pE227, DOI 10.1016/S2214-109X(18)30481-9
+   Potter JE, 2010, POPUL DEV REV, V36, P283, DOI 10.1111/j.1728-4457.2010.00330.x
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Russo JA, 2013, J ADOLESCENT HEALTH, V52, pS14, DOI 10.1016/j.jadohealth.2013.02.003
+   Schuck-Paim C, 2016, PLOS CURR, DOI [10.1371/currents.outbreaks.7038a6813f734c1db547240c2a0ba291, DOI 10.1371/CURRENTS.0UTBREAKS.7038A6813F734C1DB547240C2A0BA291]
+   Sedgh G, 2016, UNMET NEED CONTRACEP, V115, P6177
+   Sheeder J, 2010, J PEDIATR ADOL GYNEC, V23, P86, DOI 10.1016/j.jpag.2009.06.002
+   Theme-Filha MM, 2016, REPROD HEALTH, V13, DOI 10.1186/s12978-016-0227-8
+   UNFPA, 2017, SIT POP MUND 2017
+   World Health Organization Fifth Meeting of the Emergency Committee under the International Health Regulations, 2005, 5 M EM COMM INT HLTH
+NR 38
+TC 0
+Z9 0
+U1 0
+U2 1
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD FEB 6
+PY 2020
+VL 17
+IS 1
+AR 22
+DI 10.1186/s12978-020-0869-4
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA KJ3YP
+UT WOS:000511995400001
+PM 32028969
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Brito, L
+   Ambrogi, I
+   Diniz, D
+AF Brito, Luciana
+   Ambrogi, Ilana
+   Diniz, Debora
+TI Zika and Reproductive Rights: Women's Perceptions at Public Health
+   Services
+SO INTERNATIONAL JOURNAL OF SEXUAL HEALTH
+LA English
+DT Meeting Abstract
+DE Zika; Brazil; Sexual and Reproductive Health
+C1 [Brito, Luciana; Ambrogi, Ilana] Anis Inst Bioeth, Brasilia, DF, Brazil.
+   [Diniz, Debora] Planned Parenthood Federat Western Hemisphere Reg, New York, NY USA.
+FU UNDP/UNFPA/UNICEF/WHO/World Bank Human Reproduction Program (HRP)
+FX UNDP/UNFPA/UNICEF/WHO/World Bank Human Reproduction Program (HRP)
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1931-7611
+EI 1931-762X
+J9 INT J SEX HEALTH
+JI Int. J. Sex. Health
+PD SEP 23
+PY 2019
+VL 31
+SU 1
+BP A182
+EP A183
+PG 2
+WC Psychology, Clinical; Public, Environmental & Occupational Health;
+   Social Sciences, Interdisciplinary
+SC Psychology; Public, Environmental & Occupational Health; Social Sciences
+   - Other Topics
+GA JC5RK
+UT WOS:000489340400328
+DA 2020-12-01
+ER
+
+PT J
+AU Diniz, D
+   Brito, L
+   Ambrogi, I
+   Tavares, AB
+   Ali, M
+AF Diniz, Debora
+   Brito, Luciana
+   Ambrogi, Ilana
+   Tavares, Adriano Bueno
+   Ali, Moazzam
+TI Understanding the sexual and reproductive health needs in Brazil's
+   Zika-affected region: placing women at the center of the discussion
+SO INTERNATIONAL JOURNAL OF GYNECOLOGY & OBSTETRICS
+LA English
+DT Article
+DE Brazil; Public Health; Sexual and Reproductive health; Unmet needs;
+   Young women; Zika virus
+AB Zika is no longer high on the public health agenda. There is a lack of information about Zika infection transmission, prevention, and its effects in Brazil.
+C1 [Diniz, Debora] Univ Brasilia, Law Sch Fac, Brasilia, DF, Brazil.
+   [Diniz, Debora] Int Planned Parenthood Federat, New York, NY USA.
+   [Brito, Luciana; Ambrogi, Ilana] Anis Inst Bioeth, Brasilia, DF, Brazil.
+   [Tavares, Adriano Bueno; Ali, Moazzam] WHO, Dept Reprod Hlth & Res RHR, Geneva, Switzerland.
+RP Diniz, D (corresponding author), Anis Inst Bioeth, Brasilia, DF, Brazil.
+EM d.diniz@anis.org.br
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+FU  [5149]
+FX The authors would like to acknowledge and thank all the young women who
+   spared their time in sharing their experiences on sexual and
+   reproductive health issues. This study was funded by a large anonymous
+   donor under the Grant ID 5149 for Women, Communities, and Health Systems
+   in the Context of Zika. The funding sources did not play a role in the
+   study design, in the writing of the report, nor in the decision to
+   submit the article for publication. This report contains the collective
+   views of an international group of experts and does not necessarily
+   represent the decisions or the stated policy of WHO.
+CR Bahamondes L, 2017, HUM REPROD, V32, P88, DOI 10.1093/humrep/dew310
+   Brady OJ, 2019, PLOS MED, V16, DOI 10.1371/journal.pmed.1002755
+   Castro MC, 2018, P NATL ACAD SCI USA, V115, P6177, DOI 10.1073/pnas.1718476115
+   desOliveira WK, 2017, LANCET, V390, P861
+   Diniz D, 2017, ZIKA BRAZIL WOMEN CH
+   Diniz D, 2017, INT J GYNECOL OBSTET, V136, P105, DOI 10.1002/ijgo.12018
+   Diniz D, 2017, CIENC SAUDE COLETIVA, V22, P653, DOI 10.1590/1413-81232017222.23812016
+   Farias MR, 2016, REV SAUDE PUBL, V50, DOI [10.1590/S1518-8787.2016050006176, 10.1590/s1518-8787.2016050006176]
+   IPEA Brazil, 2016, DES HUM NAS MACR BRA
+   Martines RB, 2016, LANCET, V388, P898, DOI 10.1016/S0140-6736(16)30883-2
+   Miller A, 2019, ZIKA BRAZILIAN SUPRE
+   Ministry of Health Brazil, 2017, OR INT VIG AT SAUD A
+   Ministry of Health Brazil, 2019, MIN HLTH EP B, V50
+   Ministry of Health Brazil, 2019, EPIDEMIOLOGICAL B, V50
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0020-7292
+EI 1879-3479
+J9 INT J GYNECOL OBSTET
+JI Int. J. Gynecol. Obstet.
+PD NOV
+PY 2019
+VL 147
+IS 2
+BP 268
+EP 270
+DI 10.1002/ijgo.12924
+EA AUG 2019
+PG 3
+WC Obstetrics & Gynecology
+SC Obstetrics & Gynecology
+GA JB1SF
+UT WOS:000479484800001
+PM 31314905
+DA 2020-12-01
+ER
+
+PT J
+AU Diniz, D
+   Ambrogi, I
+AF Diniz, Debora
+   Ambrogi, Ilana
+TI Research ethics and the Zika legacy in Brazil
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Editorial Material
+C1 [Diniz, Debora] Univ Brasilia, Fac Law, Brasilia, DF, Brazil.
+   [Ambrogi, Ilana] Fundacao Oswaldo Cruz, Brasilia, DF, Brazil.
+   [Ambrogi, Ilana] Anis Inst Bioeth, Brasilia, DF, Brazil.
+RP Diniz, D (corresponding author), Univ Brasilia, Fac Law, Brasilia, DF, Brazil.
+RI Diniz, Debora/K-9000-2012
+OI Diniz, Debora/0000-0001-6987-2569
+CR Diniz D., 2017, ZIKA BRAZILIAN BACKL
+   Diniz Debora, ZIKA BRAZIL WOMEN CH
+   Schuklenk U., 2014, WILEY ONLINE LIB, V14, pii
+   Uruguay. Ministerio de Salud Publica. Direccion General de la Salud. Division Epidemiologia, 2017, B EPIDEMIOLOGICO
+   Ventura CV, 2016, LANCET, V387, P2502, DOI 10.1016/S0140-6736(16)30776-0
+NR 5
+TC 2
+Z9 2
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+EI 1471-8847
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD DEC
+PY 2017
+VL 17
+IS 3
+BP 142
+EP 143
+DI 10.1111/dewb.12175
+PG 2
+WC Ethics; Medical Ethics
+SC Social Sciences - Other Topics; Medical Ethics
+GA FM4HP
+UT WOS:000414975900001
+PM 29130259
+DA 2020-12-01
+ER
+
+PT J
+AU Kamsheh, L
+   Ambrogi, I
+   Rambally, C
+   Attarian, H
+AF Kamsheh, Lyla
+   Ambrogi, Ilana
+   Rambally, Cherridan
+   Attarian, Hrayr
+TI Restless legs syndrome in combined hormonal contraception users
+SO ACTA OBSTETRICIA ET GYNECOLOGICA SCANDINAVICA
+LA English
+DT Article
+DE Restless legs syndrome; pregnancy; combined hormonal contraception;
+   IRLSSG severity scale; IRLSSG criteria; estrogen; progesterone
+ID PREGNANCY; WOMEN; RISK
+AB The goal of the study was to estimate the prevalence of restless legs syndrome (RLS) among women of childbearing age taking combined hormonal or combined oral contraception (CHC). A survey that included demographic information, contraceptive use history, the four criteria necessary for RLS diagnosis and an International RLS study group severity scale was distributed to 145 women taking CHC and 169 matched control women not on CHC. A high prevalence of moderate to severe RLS of 20.7% was found. A significant correlation between CHC use and RLS was not found (p=0.53). RLS severity was not significantly associated with CHC use either (p=0.2127). Women with RLS were significantly heavier compared with those without RLS (p=0.0015). RLS severity weakly correlated with body mass index (R=0.26, p=0.044). Hormonal contraceptive therapy does not increase the risk of developing RLS symptoms.
+C1 [Kamsheh, Lyla] Minnesota Clin Neurol, Minneapolis, MN USA.
+   [Ambrogi, Ilana] Yeshiva Univ, Albert Einstein Coll Med, New York, NY 10033 USA.
+   [Rambally, Cherridan] Covenant Hlth Sleep Diagnost Ctr Methodist Med, Knoxville, TN USA.
+   [Attarian, Hrayr] Northwestern Univ, Feinberg Sch Med, Circadian Rhythms & Sleep Res Lab, Chicago, IL 60611 USA.
+RP Attarian, H (corresponding author), Northwestern Univ, Circadian Rhythms & Sleep Res Lab, 710 N Lake Shore Dr,5th Floor, Chicago, IL 60611 USA.
+EM h-attarian@northwestern.edu
+CR Allen RP, 2011, MOVEMENT DISORD, V26, P114, DOI 10.1002/mds.23430
+   Berger K, 2004, ARCH INTERN MED, V164, P196, DOI 10.1001/archinte.164.2.196
+   Budhiraja P, 2012, J CLIN SLEEP MED, V8, P119, DOI 10.5664/jcsm.1756
+   Dzaja A, 2009, SLEEP, V32, P169, DOI 10.1093/sleep/32.2.169
+   Gao X, 2009, NEUROLOGY, V72, P1255, DOI 10.1212/01.wnl.0000345673.35676.1c
+   Ghorayeb I, 2008, SLEEP MED, V9, P799, DOI 10.1016/j.sleep.2007.07.018
+   Manconi M, 2004, NEUROLOGY, V63, P1065, DOI 10.1212/01.WNL.0000138427.83574.A6
+   Manconi M, 2004, SLEEP MED, V5, P305, DOI 10.1016/j.sleep.2004.01.013
+   Manconi M, 2012, SLEEP MED REV, V16, P297, DOI 10.1016/j.smrv.2011.08.006
+   Neau JP, 2010, EUR NEUROL, V64, P268, DOI 10.1159/000321413
+   Suzuki K, 2003, SLEEP, V26, P673
+   Tunc T, 2007, MOVEMENT DISORD, V22, P627, DOI 10.1002/mds.21291
+NR 12
+TC 1
+Z9 1
+U1 0
+U2 2
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0001-6349
+J9 ACTA OBSTET GYN SCAN
+JI Acta Obstet. Gynecol. Scand.
+PD JUN
+PY 2013
+VL 92
+IS 6
+BP 727
+EP 729
+DI 10.1111/aogs.12120
+PG 3
+WC Obstetrics & Gynecology
+SC Obstetrics & Gynecology
+GA 146AH
+UT WOS:000319060700018
+PM 23432776
+DA 2020-12-01
+ER
+
+EF

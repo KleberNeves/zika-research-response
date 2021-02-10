@@ -1,0 +1,2965 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ferreira, MLB
+   de Albuquerque, MDPM
+   de Brito, CAA
+   Franca, RFD
+   Moreira, AJP
+   Machado, MID
+   Melo, RP
+   Medialdea-Carrera, R
+   Mesquita, SD
+   Santos, ML
+   Mehta, R
+   Silva, RRE
+   Leonhard, SE
+   Ellul, M
+   Rosala-Hallas, A
+   Burnside, G
+   Turtle, L
+   Griffiths, MJ
+   Jacobs, BC
+   Bhojak, M
+   Willison, HJ
+   Pena, LJ
+   Pardo, CA
+   Ximenes, RAA
+   Martelli, CMT
+   Brown, DWG
+   Cordeiro, MT
+   Lant, S
+   Solomon, T
+AF Brito Ferreira, Maria Lucia
+   Pessoa Militao de Albuquerque, Maria de Fatima
+   Antunes de Brito, Carlos Alexandre
+   de Oliveira Franca, Rafael Freitas
+   Porto Moreira, Alvaro Jose
+   de Morais Machado, Maria Iris
+   Melo, Roberta Paz
+   Medialdea-Carrera, Raquel
+   Mesquita, Solange Dornelas
+   Santos, Marcela Lopes
+   Mehta, Ravi
+   Ramos e Silva, Rafael
+   Leonhard, Sonja E.
+   Ellul, Mark
+   Rosala-Hallas, Anna
+   Burnside, Girvan
+   Turtle, Lance
+   Griffiths, Michael J.
+   Jacobs, Bart C.
+   Bhojak, Maneesh
+   Willison, Hugh J.
+   Pena, Lindomar Jose
+   Pardo, Carlos A.
+   Ximenes, Ricardo A. A.
+   Turchi Martelli, Celina Maria
+   Brown, David W. G.
+   Cordeiro, Marli Tenorio
+   Lant, Suzannah
+   Solomon, Tom
+TI Neurological disease in adults with Zika and chikungunya virus infection
+   in Northeast Brazil: a prospective observational study
+SO LANCET NEUROLOGY
+LA English
+DT Article
+ID GUILLAIN-BARRE-SYNDROME; CASE DEFINITIONS; ENCEPHALITIS; DIAGNOSIS;
+   GUIDELINES; COLLECTION; CRITERIA; DENGUE; STATE
+AB Background Since 2015, the arthropod-borne viruses (arboviruses) Zika and chikungunya have spread across the Americas causing outbreaks, accompanied by increases in immune-mediated and infectious neurological disease. The spectrum of neurological manifestations linked to these viruses, and the importance of dual infection, are not known fully. We aimed to investigate whether neurological presentations differed according to the infecting arbovirus, and whether patients with dual infection had a different disease spectrum or severity.
+   Methods We report a prospective observational study done during epidemics of Zika and chikungunya viruses in Recife, Pernambuco, a dengue-endemic area of Brazil. We recruited adults aged 18 years or older referred to Hospital da Restauracao, a secondary-level and tertiary-level hospital, with suspected acute neurological disease and a history of suspected arboviral infection. We looked for evidence of Zika, chikungunya, or dengue infection by viral RNA or specific IgM antibodies in serum or CSF. We grouped patients according to their arbovirus laboratory diagnosis and then compared demographic and clinical characteristics.
+   Findings Between Dec 4, 2014, and Dec 4, 2016, 1410 patients were admitted to the hospital neurology service; 201 (14%) had symptoms consistent with arbovirus infection and sufficient samples for diagnostic testing and were included in the study. The median age was 48 years (IQR 34-60), and 106 (53%) were women. 148 (74%) of 201 patients had laboratory evidence of arboviral infection. 98 (49%) of them had a single viral infection (41 [20%] had Zika, 55 [27%] had chikungunya, and two [1%] had dengue infection), whereas 50 (25%) had evidence of dual infection, mostly with Zika and chikungunya viruses (46 [23%] patients). Patients positive for arbovirus infection presented with a broad range of CNS and peripheral nervous system (PNS) disease. Chikungunya infection was more often associated with CNS disease (26 [47%] of 55 patients with chikungunya infection vs six [15%] of 41 with Zika infection; p=0.0008), especially myelitis (12 [22%] patients). Zika infection was more often associated with PNS disease (26 [63%] of 41 patients with Zika infection vs nine [16%] of 55 with chikungunya infection; p=0.0001), particularly Guillain-Barre syndrome (25 [61%] patients). Patients with Guillain-Barre syndrome who had Zika and chikungunya dual infection had more aggressive disease, requiring intensive care support and longer hospital stays, than those with mono-infection (median 24 days [IQR 20-30] vs 17 days [10-20]; p=0.0028). Eight (17%) of 46 patients with Zika and chikungunya dual infection had a stroke or transient ischaemic attack, compared with five (6%) of 96 patients with Zika or chikungunya mono-infection (p=0.047).
+   Interpretation There is a wide and overlapping spectrum of neurological manifestations caused by Zika or chikungunya mono-infection and by dual infections. The possible increased risk of acute cerebrovascular disease in patients with dual infection merits further investigation.
+C1 [Brito Ferreira, Maria Lucia; Porto Moreira, Alvaro Jose; de Morais Machado, Maria Iris; Melo, Roberta Paz; Mesquita, Solange Dornelas; Ramos e Silva, Rafael] Hosp Restauracao, Dept Neurol, Recife, PE, Brazil.
+   [Pessoa Militao de Albuquerque, Maria de Fatima; Santos, Marcela Lopes; Turchi Martelli, Celina Maria] Fundacao Oswaldo Cruz, Inst Aggeu Magalhaes, Dept Collect Hlth, Recife, PE, Brazil.
+   [de Oliveira Franca, Rafael Freitas; Pena, Lindomar Jose; Cordeiro, Marli Tenorio] Fundacao Oswaldo Cruz, Inst Aggeu Magalhaes, Dept Virol, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Fed Univ Pemambuco, Dept Clin Med, Recife, PE, Brazil.
+   [Ximenes, Ricardo A. A.] Fed Univ Pemambuco, Dept Trop Med, Recife, PE, Brazil.
+   [Medialdea-Carrera, Raquel; Mehta, Ravi; Ellul, Mark; Turtle, Lance; Griffiths, Michael J.; Lant, Suzannah; Solomon, Tom] Univ Liverpool, Natl Inst Hlth Res, Hlth Protect Res Unit Emerging & Zoonot Infect, Inst Infect Vet & Ecol Sci, Liverpool, Merseyside, England.
+   [Leonhard, Sonja E.; Jacobs, Bart C.] Erasmus MC, Dept Neurol, Rotterdam, Netherlands.
+   [Jacobs, Bart C.] Erasmus MC, Dept Immunol, Rotterdam, Netherlands.
+   [Ellul, Mark; Bhojak, Maneesh; Solomon, Tom] Walton Ctr NHS Fdn Trust, Liverpool, Merseyside, England.
+   [Rosala-Hallas, Anna; Burnside, Girvan] Univ Liverpool, Dept Biostat, Liverpool, Merseyside, England.
+   [Turtle, Lance; Solomon, Tom] Royal Liverpool & Broadgreen Univ Hosp NHS Trust, Liverpool, Merseyside, England.
+   [Griffiths, Michael J.] Alder Hey Childrens NHS Fdn Trust, Liverpool, Merseyside, England.
+   [Willison, Hugh J.] Univ Glasgow, Dept Neurol, Glasgow, Lanark, Scotland.
+   [Willison, Hugh J.] Univ Glasgow, Inst Infect Immun & Inflammat, Glasgow, Lanark, Scotland.
+   [Pardo, Carlos A.] Johns Hopkins Univ, Sch Med, Dept Neurol, Div Neuroimmunol & Neuroinfect Disorders, Baltimore, MD 21205 USA.
+   [Brown, David W. G.] Publ Hlth England, Blood Borne Virus Unit, Virus Reference Dept, London, England.
+   [Brown, David W. G.] Fundacao Oswaldo Cruz, Evandro Chagas Natl Infect Dis Inst, Flavivirus Reference Lab, Rio De Janeiro, Brazil.
+RP Solomon, T (corresponding author), Univ Liverpool, Inst Infect Vet & Ecol Sci, NIHR Protect Res Unit Emerging & Zoonot Infect, Liverpool L69 7BE, Merseyside, England.
+EM tsolomon@liverpool.ac.uk
+FU Fundacao do Amparo a Ciencia e Tecnologia de Pernambuco (FACEPE); EU's
+   Horizon 2020 research and innovation programme; National Institute for
+   Health ResearchNational Institute for Health Research (NIHR)
+FX Fundacao do Amparo a Ciencia e Tecnologia de Pernambuco (FACEPE), EU's
+   Horizon 2020 research and innovation programme, National Institute for
+   Health Research.
+CR Acevedo Nathalie, 2017, Front Microbiol, V8, P42, DOI 10.3389/fmicb.2017.00042
+   Acosta-Ampudia Y, 2018, FRONT MOL NEUROSCI, V11, DOI 10.3389/fnmol.2018.00116
+   Barnes G, 2002, NEUROLOGY, V59, P499, DOI 10.1212/wnl.59.4.499
+   Benjamin LA, 2012, LANCET NEUROL, V11, P878, DOI 10.1016/S1474-4422(12)70205-3
+   Ferreira MLB, 2017, AM J TROP MED HYG, V97, P1405, DOI 10.4269/ajtmh.17-0106
+   Cao-Lormeau VM, 2016, LANCET, V387, P1531, DOI 10.1016/S0140-6736(16)00562-6
+   Cassidy H, 2018, FRONT MICROBIOL, V9, DOI 10.3389/fmicb.2018.02677
+   Castanha PMS, 2017, J INFECT DIS, V215, P781, DOI 10.1093/infdis/jiw638
+   Cordeiro MT, 2007, REV SOC BRAS MED TRO, V40, P605, DOI 10.1590/S0037-86822007000600001
+   de Araujo TVB, 2016, LANCET INFECT DIS, V16, P1356, DOI 10.1016/S1473-3099(16)30318-8
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Ellul MA, 2020, LANCET NEUROL, V19, P767, DOI 10.1016/S1474-4422(20)30221-0
+   Faria NR, 2017, NATURE, V546, P406, DOI 10.1038/nature22401
+   Fokke C, 2014, BRAIN, V137, P33, DOI 10.1093/brain/awt285
+   Gordon A, 2019, PLOS MED, V16, DOI 10.1371/journal.pmed.1002726
+   Granerod J, 2010, LANCET INFECT DIS, V10, P835, DOI 10.1016/S1473-3099(10)70222-X
+   Hsu CH, 2019, PLOS NEGLECT TROP D, V13, DOI 10.1371/journal.pntd.0007084
+   Katzelnick LC, 2017, SCIENCE, V358, P929, DOI 10.1126/science.aan6836
+   Kelly MJ, 2012, J INFECT DIS, V205, P106, DOI 10.1093/infdis/jir707
+   Kirkwood B.R., 2003, ESSENTIAL MED STAT
+   Krupp LB, 2013, MULT SCLER J, V19, P1261, DOI 10.1177/1352458513484547
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Lannuzel A, 2019, NEUROLOGY, V92, pE2406, DOI 10.1212/WNL.0000000000007536
+   Li HM, 2018, CAN MED ASSOC J, V190, pE285, DOI 10.1503/cmaj.170994
+   Magalhaes T, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0006055
+   Mallewa M, 2013, LANCET GLOB HEALTH, V1, pE153, DOI 10.1016/S2214-109X(13)70060-3
+   McGill F, 2016, J INFECTION, V72, P405, DOI 10.1016/j.jinf.2016.01.007
+   Mehta R, 2018, REV MED VIROL, V28, DOI 10.1002/rmv.1978
+   Mehta R, 2018, PLOS NEGLECT TROP D, V12, DOI 10.1371/journal.pntd.0006212
+   Montecillo-Aguado MR, 2019, J IMMUNOL RES, V2019, DOI 10.1155/2019/7239347
+   Munoz LS, 2017, J INFECT DIS, V216, pS897, DOI 10.1093/infdis/jix511
+   Nagel MA, 2017, J NEUROIMMUNOL, V308, P112, DOI 10.1016/j.jneuroim.2017.03.014
+   Parra B, 2016, NEW ENGL J MED, V375, P1513, DOI 10.1056/NEJMoa1605564
+   Rodrigues Faria Nuno, 2016, PLoS Curr, V8, DOI 10.1371/currents.outbreaks.c97507e3e48efb946401755d468c28b2
+   Sejvar JJ, 2007, VACCINE, V25, P5771, DOI 10.1016/j.vaccine.2007.04.060
+   Sejvar JJ, 2011, VACCINE, V29, P599, DOI 10.1016/j.vaccine.2010.06.003
+   Silva MMO, 2019, CLIN INFECT DIS, V69, P1353, DOI 10.1093/cid/ciy1083
+   SIMPSON D. I. H., 1964, TRANS ROY SOC TROP MED HYG, V58, P335, DOI 10.1016/0035-9203(64)90201-9
+   Solomon T, 2009, BRAINS DIS NERVOUS S
+   Stegmann-Planchard S, 2020, CLIN INFECT DIS, V70, P1233, DOI 10.1093/cid/ciz625
+   Styczynski AR, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005869
+   Venkatesan A, 2013, CLIN INFECT DIS, V57, P1114, DOI 10.1093/cid/cit458
+NR 42
+TC 2
+Z9 2
+U1 2
+U2 2
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 1474-4422
+EI 1474-4465
+J9 LANCET NEUROL
+JI Lancet Neurol.
+PD OCT
+PY 2020
+VL 19
+IS 10
+BP 826
+EP 839
+PG 14
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA OF3NN
+UT WOS:000581119100020
+PM 32949543
+OA Bronze, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   de Brito, MCM
+   Martins, THF
+   de Brito, CCM
+   Albuquerque, MFM
+   de Brito, RDCM
+AF Brito, Carlos Alexandre Antunes de
+   Brito, Marina Coelho Moraes de
+   Martins, Thiago Henrique Fernandes
+   Brito, Cecilia Coelho Moraes de
+   Albuquerque, Maria Fatima Militao
+   Brito, Rita de Cassia Coelho Moraes de
+TI Clinical laboratory and dispersion pattern of COVID-19 in a family
+   cluster in the social-distancing period
+SO JOURNAL OF INFECTION IN DEVELOPING COUNTRIES
+LA English
+DT Article
+DE COVID-19; cluster; dispersion; social distancing
+ID INTERVAL
+AB Introduction: Since the first reports of coronavirus disease 2019 (COVID-19) in December 2019, the disease has spread worldwide. Different social isolation strategies have been adopted to reduce community transmission, but few studies have evaluated the pattern of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection in a family cluster during periods of isolation. We report an outbreak in 24 members of a family cluster during a period of social distancing.
+   Methodology: We carried out an observational descriptive study of a family cluster infected with SARS-CoV-2 in Pernambuco, Northeast Brazil. Laboratory confirmation included RT-PCR of nasopharyngeal samples or IgM or IgG serology.
+   Results: The attack rates were 75% (19/24) based on laboratory-confirmed cases and 87.5% (21/24) including probable cases. The time of spread was 17 days from the first case. All patients had mild symptoms, requiring no hospitalization, and none of them died. The frequency of symptomatic, laboratory-confirmed patients was higher among adults (94%) than among children (50%); the paediatric age group also had a higher frequency of exposed individuals who remained negative for infection. Ground-glass opacities on chest computed tomography were present in all patients with reported dyspnoea.
+   Conclusion: This study highlights a high risk of intrahousehold transmission from an index case, suggesting the need for (I) specific guidelines during periods of social distancing, (II) minimization of external exposures and, above all, (III) adoption of strict quarantine measures for suspected cases and family members to prevent outbreaks from spreading.
+C1 [Brito, Carlos Alexandre Antunes de] Fed Univ, Clin Hosp, Dept Internal Med, Recife, PE, Brazil.
+   [Brito, Carlos Alexandre Antunes de; Brito, Marina Coelho Moraes de; Martins, Thiago Henrique Fernandes; Brito, Cecilia Coelho Moraes de; Brito, Rita de Cassia Coelho Moraes de] Autoimmune Res Inst, Recife, PE, Brazil.
+   [Brito, Carlos Alexandre Antunes de; Brito, Marina Coelho Moraes de; Martins, Thiago Henrique Fernandes] Univ Fed Pernambuco, Ctr Med Sci, Recife, PE, Brazil.
+   [Brito, Cecilia Coelho Moraes de; Brito, Rita de Cassia Coelho Moraes de] Inst Integral Med Fernando Figueira IMIP, Recife, PE, Brazil.
+   [Albuquerque, Maria Fatima Militao] Oswaldo Cruz Fdn FIOCRUZ, Recife, PE, Brazil.
+   [Brito, Rita de Cassia Coelho Moraes de] Univ Pernambuco, Fac Med Sci Pernambuco, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Internal Med, Ave Prof Moraes Rego S-N, BR-50670910 Recife, PE, Brazil.
+EM cbritoc@gmail.com
+OI Martins, Thiago/0000-0003-4901-6911
+CR Ashour HM, 2020, PATHOGENS, V9, DOI 10.3390/pathogens9030186
+   Bai K, 2020, PEDIATR INFECT DIS J, V39, pE100, DOI 10.1097/INF.0000000000002740
+   Bohmer MM, 2020, LANCET INFECT DIS, V20, P920, DOI 10.1016/S1473-3099(20)30314-5
+   Brazil. Ministry of Health, 2020, COR PAN
+   Chan JFW, 2020, LANCET, V395, P514, DOI 10.1016/S0140-6736(20)30154-9
+   Chen T, 2020, AM J INFECT CONTROL, V48, P1068, DOI 10.1016/j.ajic.2020.06.006
+   Cowling BJ, 2009, EPIDEMIOLOGY, V20, P344, DOI 10.1097/EDE.0b013e31819d1092
+   Dhochak N, 2020, INDIAN J PEDIATR, V87, P537, DOI 10.1007/s12098-020-03322-y
+   Fine PEM, 2003, AM J EPIDEMIOL, V158, P1039, DOI 10.1093/aje/kwg251
+   Ghinai I, 2020, MMWR-MORBID MORTAL W, V69, P446, DOI 10.15585/mmwr.mm6915e1
+   Giwa Al, 2020, Emerg Med Pract, V22, P1
+   Krishan K, 2020, J INFECT DEV COUNTR, V14, P545, DOI 10.3855/jidc.12931
+   South AM, 2020, HYPERTENSION, V76, P16, DOI 10.1161/HYPERTENSIONAHA.120.15291
+   Sun J, 2020, J INFECT DEV COUNTR, V14, P447, DOI 10.3855/jidc.12792
+   Wang J, 2020, ADV MATER INTERFACES, V7, DOI 10.1002/admi.202000201
+   WHO, 2020, CONS ADJ PUBL HLTH S
+   Wolf GK, 2020, J PEDIAT INF DIS SOC, V9, P362, DOI 10.1093/jpids/piaa060
+   World Health Organization, 2020, 169 WHO
+   World Health Organization, 2020, 2019 NOV COR 2019 NC
+   Yang MC, 2020, PUBLIC HEALTH, V185, P31, DOI 10.1016/j.puhe.2020.05.043
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU J INFECTION DEVELOPING COUNTRIES
+PI TRAMANIGLIO
+PA JIDC CENT OFF PORTO CONTE RICERCHE RES CTR, S P 55, PORTO CONTE CAPO
+   CACCIA KM 8.400 LOC, TRAMANIGLIO, 07041, ITALY
+SN 1972-2680
+J9 J INFECT DEV COUNTR
+JI J. Infect. Dev. Ctries.
+PD SEP
+PY 2020
+VL 14
+IS 9
+BP 987
+EP 993
+DI 10.3855/jidc.13580
+PG 7
+WC Infectious Diseases
+SC Infectious Diseases
+GA OC1CA
+UT WOS:000578899400010
+PM 33031086
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   Marques, CDL
+   Franca, RFO
+   Monteiro, JR
+   de Brito, MCM
+   Lopes, F
+   Lima, A
+   Marques, GL
+   Valadares, ML
+   Duarte, ALBP
+AF de Brito, Carlos A. A.
+   Marques, Claudia D. L.
+   Franca, Rafael F. O.
+   Monteiro, Janaina R.
+   de Brito, Marina C. M.
+   Lopes, Fabiana
+   Lima, Anton
+   Marques, Gabriel L.
+   Valadares, Maria Luisa
+   Duarte, Angela L. B. P.
+TI Reduced Duration of Postchikungunya Musculoskeletal Pain in
+   Rheumatological Patients Treated with Biologicals
+SO JOURNAL OF TROPICAL MEDICINE
+LA English
+DT Article
+ID CHIKUNGUNYA VIRUS-INFECTION; ETANERCEPT; INHIBITION; ARTHRITIS;
+   MORTALITY; DISEASE; ALPHA
+AB Chikungunya fever (CHIK) has caused important epidemic outbreaks in the Americas, with musculoskeletal involvement being the main manifestation, causing chronic symptoms in half of the affected patients. This study was performed to evaluate the clinical course of the infection in 168 patients with autoimmune inflammatory disease using biological disease-modifying antirheumatic drugs (bDMARDs), comparing this group with 56 household controls. Anti-CHIKV IgG serology was positive in 42 (25%) of the patients in the bDMARD group and in 15 (27%) of the controls (p=0.79). Of those with positive serology, 32 (76%) and 14 (93%) were symptomatic among subjects in the bDMARD and control groups, respectively (p=0.87). Persistence of musculoskeletal symptoms for more than three months occurred in 64% of the patients in the control group and only in 28% in the bDMARD group (p=0.021), maintaining a statistically significant difference only for users of anti-TNF. This study found that patients affected by chikungunya fever using bDMARDs did not present severe forms or complications in the acute phase of the disease, and patients using anti-TNF biologicals had a lower frequency of chronic joint symptoms than the household controls. This favorable outcome may be related to the cytokine blockade, with a reduction in the inflammatory response and joint damage.
+C1 [de Brito, Carlos A. A.] Univ Fed Pernambuco, Clin Hosp, Internal Med, Recife, PE, Brazil.
+   [de Brito, Carlos A. A.] Autoimmune Inst, Recife, PE, Brazil.
+   [Marques, Claudia D. L.; Duarte, Angela L. B. P.] Univ Fed Pernambuco, Clin Hosp, Rheumatol Serv, Recife, PE, Brazil.
+   [Franca, Rafael F. O.] Oswaldo Cruz Fdn FIOCRUZ, Aggeu Magalhaes Inst, Dept Virol & Expt Therapy, Recife, PE, Brazil.
+   [Monteiro, Janaina R.; de Brito, Marina C. M.; Lopes, Fabiana; Lima, Anton] Univ Fed Pernambuco, Recife, PE, Brazil.
+   [Marques, Gabriel L.] Univ Catolica Pernambuco UNICAP, Recife, PE, Brazil.
+   [Valadares, Maria Luisa] Fac Med Olinda FMO, Olinda, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Clin Hosp, Internal Med, Recife, PE, Brazil.; de Brito, CAA (corresponding author), Autoimmune Inst, Recife, PE, Brazil.
+EM cbritoc@gmail.com; claudia.reumatologia@gmail.com;
+   rafael.franca@cpqam.fiocruz.br; janainagrm@gmail.com;
+   marina.cmbrito@gmail.com; nana.frcl@gmail.com; antonslima@gmail.com;
+   gabrielm8708@gmail.com; maluvaladares@hotmail.com;
+   angelalbpduarte@gmail.com
+OI Coelho Moraes de Brito, Marina/0000-0002-9298-3184; Reis,
+   AlessanRSS/0000-0001-8486-7469
+CR de Brito CAA, 2017, REV SOC BRAS MED TRO, V50, P585, DOI 10.1590/0037-8682-0479-2016
+   Assuncao-Miranda I, 2013, BIOMED RES INT, V2013, DOI 10.1155/2013/973516
+   Atrasheuskaya A, 2003, FEMS IMMUNOL MED MIC, V35, P33, DOI 10.1111/j.1574-695X.2003.tb00646.x
+   Bonifay T, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0207406
+   Borman ZA, 2018, EXPERT REV GASTROENT, V12, P1101, DOI 10.1080/17474124.2018.1530983
+   Brazil Ministry of Health, 2017, MINISTRY HEALTHSECRE
+   Brunier L, 2016, JOINT BONE SPINE, V83, P245, DOI 10.1016/j.jbspin.2015.08.004
+   Cunha RV, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005319
+   Deligny C, 2014, J CLIN VIROL, V61, P442, DOI 10.1016/j.jcv.2014.08.011
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Figueiredo CP, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-11866-7
+   Marques CDL, 2017, REV BRAS REUMATOL, V57, pS421, DOI 10.1016/j.rbre.2017.05.006
+   Lopez-Medrano F, 2018, CLIN MICROBIOL INFEC, V24, P192, DOI 10.1016/j.cmi.2017.06.016
+   Pan American Health Organization, 2020, NEW CAS CHIK AM 2013
+   Prat CM, 2014, EMERG INFECT DIS, V20, P2129, DOI 10.3201/eid2012.141269
+   Renault P, 2007, AM J TROP MED HYG, V77, P727
+   Rodriguez-Morales Alfonso J, 2016, F1000Res, V5, P360, DOI 10.12688/f1000research.8235.1
+   Rosario V, 2015, CLIN RHEUMATOL, V34, P1285, DOI 10.1007/s10067-015-2979-x
+   Rutherford AI, 2018, ANN RHEUM DIS, V77, P905, DOI 10.1136/annrheumdis-2017-212825
+   Shi XL, 2013, CRIT CARE, V17, DOI 10.1186/cc13171
+   Stebbing J, 2020, LANCET INFECT DIS, V20, P400, DOI 10.1016/S1473-3099(20)30132-8
+   Tanabe ISB, 2018, FRONT CELL INFECT MI, V8, DOI 10.3389/fcimb.2018.00345
+   Tobinick E, 2004, CURR MED RES OPIN, V20, P39, DOI 10.1185/030079903125002757
+   Venugopalan A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0111305
+   Zaid A, 2011, ARTHRITIS RHEUM-US, V63, P488, DOI 10.1002/art.30112
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1687-9686
+EI 1687-9694
+J9 J TROP MED-US
+JI J. Trop. Med.
+PD JUL 10
+PY 2020
+VL 2020
+AR 2071325
+DI 10.1155/2020/2071325
+PG 6
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA MR2NK
+UT WOS:000553426300001
+PM 32695184
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Falcao, MB
+   Cavalcanti, LPD
+   Filgueiras, NM
+   de Brito, CAA
+AF Falcao, Melissa Barreto
+   de Goes Cavalcanti, Luciano Pamplona
+   Filgueiras Filho, Nivaldo Menezes
+   Antunes de Brito, Carlos Alexandre
+TI Case Report: Hepatotoxicity Associated with the Use of
+   Hydroxychloroquine in a Patient with COVID-19
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID HEPATITIS; SECONDARY; DRUGS
+AB Hydroxychloroquine (HCQ) has been used for the treatment of novel coronavirus disease (COVID-19) cases. However, evidence of efficacy remains limited, and adverse events can be associated with its use. Here, we report a case of a patient with severe COVID-19 who, after being administered HCQ, exhibited a 10-fold increase in serum levels of transaminases, followed by a rapid decrease after HCQ was withdrawn. Considering the significantly increased use of HCQduring the COVID-19 pandemic, this case alerts us to the potential for HCQ to be associated with hepatotoxicity and the need to monitor liver function during HCQ therapy.
+C1 [Falcao, Melissa Barreto] Univ Estadual Feira de Santana, Res & Extens Ctr Hlth Surveillance, Feira De Santana, BA, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Univ Fed Ceara, Sch Med, Dept Community Hlth, Fortaleza, Ceara, Brazil.
+   [Filgueiras Filho, Nivaldo Menezes] Univ Salvador, Sch Med, Salvador, BA, Brazil.
+   [Filgueiras Filho, Nivaldo Menezes] Univ Estado Bahia, Sch Med, Salvador, BA, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Clin Hosp Fed Univ, Dept Internal Med, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Trop Med Postgrad, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Autoimmune Res Inst, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Av Prof Moraes Rego S-N, BR-50670910 Recife, PE, Brazil.
+EM melissa.falcao@hotmail.com; pamplona.luciano@gmail.com;
+   nfilgueiras@gmail.com; cbritoc@gmail.com
+CR Al-Bari MAA, 2015, J ANTIMICROB CHEMOTH, V70, P1608, DOI 10.1093/jac/dkv018
+   Ashour HM, 2020, PATHOGENS, V9, DOI 10.3390/pathogens9030186
+   Ben-Zvi I, 2012, CLIN REV ALLERG IMMU, V42, P145, DOI 10.1007/s12016-010-8243-x
+   Chen NS, 2020, LANCET, V395, P507, DOI 10.1016/S0140-6736(20)30211-7
+   Cortegiani A, 2020, J CRIT CARE, V57, P279, DOI 10.1016/j.jcrc.2020.03.005
+   Ferner RE, 2020, BMJ-BRIT MED J, V369, DOI 10.1136/bmj.m1432
+   Galil SMA, 2015, LUPUS, V24, P638, DOI 10.1177/0961203314561667
+   Galvan VG, 2007, CLIN RHEUMATOL, V26, P971, DOI 10.1007/s10067-006-0218-1
+   Gautret P, 2020, INT J ANTIMICROB AG, V56, DOI 10.1016/j.ijantimicag.2020.105949
+   Gralinski LE, 2020, VIRUSES-BASEL, V12, DOI 10.3390/v12020135
+   Guan WJ, 2019, CLIN CHARACTERISTICS, V2020, P2020, DOI [10.1101/2020.02.06.20020974, DOI 10.1101/2020.02.06.20020974]
+   Huang CL, 2020, LANCET, V395, P497, DOI 10.1016/S0140-6736(20)30183-5
+   Jamshidzadeh A., 2016, Pharmaceutical Sciences, V22, P170, DOI 10.15171/PS.2016.27
+   Keshtkar-Jahromi M, 2020, AM J TROP MED HYG, V102, P932, DOI 10.4269/ajtmh.20-0230
+   Liang T, 2020, HDB COVID 19 PREVENT
+   Liu J, 2020, CELL DISCOV, V6, DOI 10.1038/s41421-020-0156-0
+   MAHASE E, 2020, BMJ-BRIT MED J, V368, DOI DOI 10.1136/BMJ.M1166
+   MAKIN AJ, 1994, GUT, V35, P569, DOI 10.1136/gut.35.4.569
+   Megarbane B, 2020, CLIN TOXICOL, DOI 10.1080/15563650.2020.1748194
+   Argumanez CM, 2017, MED INTENSIVA, V41, P257, DOI 10.1016/j.medin.2016.05.004
+   Mizumoto K, 2020, EMERG INFECT DIS, V26, P1
+   Mok MY, 2000, CLIN EXP RHEUMATOL, V18, P363
+   Niknahad H, 2016, ADV PHARM BULL, V6, P617, DOI 10.15171/apb.2016.076
+   RISMANBAF A, 2020, ARCH ACAD EMERG MED, V8
+   Sunkara B, 2018, LUPUS, V27, P1383, DOI 10.1177/0961203318768884
+   van Jaarsveld CHM, 2000, RHEUMATOLOGY, V39, P1374, DOI 10.1093/rheumatology/39.12.1374
+   Wang DW, 2020, JAMA-J AM MED ASSOC, V323, P1061, DOI 10.1001/jama.2020.1585
+   Wei CH, 2015, EXP MOL PATHOL, V99, P341, DOI 10.1016/j.yexmp.2015.08.006
+   World Health Organization [WHO], 2020, COR DIS 2019 COVID 1
+   Wu ZY, 2020, JAMA-J AM MED ASSOC, V323, P1239, DOI 10.1001/jama.2020.2648
+   Yao X, 2020, CLIN INFECT DIS, V2, P1, DOI DOI 10.1093/CID/CIAA237
+   Zhang B, 2020, CLIN CHARACTERISTICS, DOI [10.1017/CBO9781107415324.004, DOI 10.1017/CBO9781107415324.004]
+   Zhou F, 2020, LANCET, V6736, P1, DOI DOI 10.1016/S0140-6736(20)30566-3
+NR 33
+TC 4
+Z9 4
+U1 1
+U2 1
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD JUN
+PY 2020
+VL 102
+IS 6
+BP 1214
+EP 1216
+DI 10.4269/ajtmh.20-0276
+PG 3
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA LV9SO
+UT WOS:000538787600026
+PM 32314698
+OA Green Published, Other Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Cavalcanti, LPD
+   Farias, LABG
+   Barreto, FKD
+   Siqueira, AM
+   Ribeiro, GS
+   Freitas, ARR
+   Weaver, SC
+   Kitron, U
+   Brito, CAA
+AF de Goes Cavalcanti, Luciano Pamplona
+   Brasil Gadelha Farias, Luis Arthur
+   de Almeida Barreto, Francisca Kalline
+   Siqueira, Andre Machado
+   Ribeiro, Guilherme Sousa
+   Ribas Freitas, Andre Ricardo
+   Weaver, Scott C.
+   Kitron, Uriel
+   Antunes Brito, Carlos Alexandre
+TI Chikungunya Case Classification after the Experience with Dengue
+   Classification: How Much Time Will We Lose?
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID VIRUS-INFECTION; OUTBREAK; MORTALITY; EPIDEMIC; DISEASE; DEATHS; ISLAND
+AB In 2013, cases of chikungunya virus (CHIKV) infection were first detected in the Caribbean. Chikungunya virus rapidly spread through Central and South America, causing explosive outbreaks in naive populations. Since its emergence in 2004, the number of case and series reports describing severe, atypical manifestations seen in chikungunya patients has increased substantially, calling into question whether clinicians and health services are failing to diagnose these atypical cases because of not only insufficient knowledge but also limitations in the case classification. Although this classification based on the duration of the musculoskeletal (acute, subacute, and chronic forms) complaints helped guide therapeutic approaches directed to these manifestations, patients presenting severe or complicated forms, which are less frequent but produce most of the fatal outcomes, were not properly addressed. In Brazil and the Caribbean, a clear temporal and spatial association between excess overall mortality and the occurrence of chikungunya epidemics has been shown, supporting the hypothesis that many of these excess deaths were a consequence of CHIKV infections. Thus, accumulated experience has highlighted that the current chikungunya case classification does not encompass the actual needs presented by certain cases with atypical features nor does it contribute to early detection and management of potentially severe cases. With continued CHIKV circulation in three continents and recent reemergence in Asia and Europe, we need a classification that is prospective and informed both by initial clinical presentation and by progression of signs and symptoms.
+C1 [de Goes Cavalcanti, Luciano Pamplona; Brasil Gadelha Farias, Luis Arthur; de Almeida Barreto, Francisca Kalline] Univ Fed Ceara, Sch Med, Dept Community Hlth, Fortaleza, Ceara, Brazil.
+   [de Goes Cavalcanti, Luciano Pamplona] Unichristus Univ Ctr, Fac Med, Fortaleza, Ceara, Brazil.
+   [Siqueira, Andre Machado] Fundacao Oswaldo Cruz, Evandro Chagas Natl Inst Infect Dis, Rio De Janeiro, Brazil.
+   [Ribeiro, Guilherme Sousa] Fundacao Oswaldo Cruz, Goncalo Moniz Inst, Salvador, BA, Brazil.
+   [Ribeiro, Guilherme Sousa] Univ Fed Bahia, Sch Med, Salvador, BA, Brazil.
+   [Ribas Freitas, Andre Ricardo] Sao Leopoldo Mand Fac, Campinas, Brazil.
+   [Weaver, Scott C.] Univ Texas Med Branch, Galveston, TX 77555 USA.
+   [Kitron, Uriel] Emory Univ, Atlanta, GA 30322 USA.
+   [Antunes Brito, Carlos Alexandre] Oswaldo Cruz Fdn FIOCRUZ, Aggeu Magalhaes Inst, Recife, PE, Brazil.
+RP Cavalcanti, LPD (corresponding author), Univ Fed Ceara, Rua Joao Adolfo Gurgel 133, BR-60000000 Fortaleza, Ceara, Brazil.
+EM pamplona.luciano@gmail.com; luisarthurbrasilk@gmail.com;
+   kallineabarreto@gmail.com; amsiqueira@gmail.com; gsribeiro@gmail.com;
+   arrfreitas2010@gmail.com; sweaver@utmb.edu; ukitron@emory.edu;
+   cbritoc@gmail.com
+RI Freitas, Andre Ricardo Ribas/L-1969-2016; Ribeiro, Guilherme/B-6624-2008
+OI Freitas, Andre Ricardo Ribas/0000-0003-0291-7771; Ribeiro,
+   Guilherme/0000-0002-6798-2059
+FU Network of Clinical and Applied Research into Chikungunya (REPLICK)
+   through funds from the Department of Science and Technology (DECIT),
+   Brazilian Ministry of Health; National Council for Scientific and
+   Technological DevelopmentNational Council for Scientific and
+   Technological Development (CNPq); FUNCAP; Brazilian National Council for
+   Scientific and Technological Development (CNPq/Brazil)National Council
+   for Scientific and Technological Development (CNPq)
+FX This work was partially supported by the Network of Clinical and Applied
+   Research into Chikungunya (REPLICK) through funds from the Department of
+   Science and Technology (DECIT), Brazilian Ministry of Health, the
+   National Council for Scientific and Technological Development, and
+   FUNCAP. G. S. R. and L. P. G. C. are recipients of the fellowship for
+   research productivity granted by the Brazilian National Council for
+   Scientific and Technological Development (CNPq/Brazil).
+CR Akbar NA, 2012, CLIN INFECT DIS, V54, P1820, DOI 10.1093/cid/cis328
+   Alexander N, 2011, TROP MED INT HEALTH, V16, P936, DOI 10.1111/j.1365-3156.2011.02793.x
+   [Anonymous], 2015, Wkly Epidemiol Rec, V90, P410
+   de Brito CAA, 2017, REV SOC BRAS MED TRO, V50, P585, DOI 10.1590/0037-8682-0479-2016
+   de Brito CAA, 2017, MEM I OSWALDO CRUZ, V112, P650, DOI 10.1590/0074-02760170124
+   Bandyopadhyay S, 2006, TROP MED INT HEALTH, V11, P1238, DOI 10.1111/j.1365-3156.2006.01678.x
+   Basuki PS, 2010, SE ASIAN J TROP MED, V41, P1088
+   Beesoon S, 2008, EMERG INFECT DIS, V14, P337, DOI 10.3201/eid1402.071024
+   Chretien JP, 2007, AM J TROP MED HYG, V76, P405, DOI 10.4269/ajtmh.2007.76.405
+   Beserra FLCN, 2019, REV SOC BRAS MED TRO, V52, DOI 10.1590/0037-8682-0232-2018
+   Barreto FKD, 2018, DIABETOL METAB SYNDR, V10, DOI 10.1186/s13098-018-0329-2
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Freitas ARR, 2018, EPIDEMIOL INFECT, V146, P2059, DOI 10.1017/S0950268818002315
+   Freitas ARR, 2017, PLOS CURR, V112, P650
+   Gerardin P, 2016, NEUROLOGY, V86, P94, DOI 10.1212/WNL.0000000000002234
+   Godaert L, 2017, J AM GERIATR SOC, V65, P2510, DOI 10.1111/jgs.15004
+   Horstick O, 2012, PATHOG GLOB HEALTH, V106, P94, DOI 10.1179/2047773212Y.0000000017
+   Josseran L, 2006, EMERG INFECT DIS, V12, P1994
+   Langsjoen RM, 2018, MBIO, V9, DOI 10.1128/mBio.02449-17
+   Lemant J, 2008, CRIT CARE MED, V36, P2536, DOI 10.1097/CCM.0b013e318183f2d2
+   Mavalankar D, 2008, EMERG INFECT DIS, V14, P412, DOI 10.3201/eid1403.070720
+   Paixao ES, 2018, T ROY SOC TROP MED H, V112, P301, DOI 10.1093/trstmh/try063
+   Pan American Health Organization, 2011, PREP RESP CHIK VIR I
+   Rajapakse S, 2010, T ROY SOC TROP MED H, V104, P89, DOI 10.1016/j.trstmh.2009.07.031
+   Rezza G, 2019, PLOS NEGLECT TROP D, V13, DOI 10.1371/journal.pntd.0006919
+   Freitas ARR, 2019, PATHOG GLOB HEALTH, V113, P27, DOI 10.1080/20477724.2019.1574111
+   Freitas ARR, 2018, T ROY SOC TROP MED H, V112, P443, DOI 10.1093/trstmh/try072
+   Schilte C, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002137
+   Sergon K, 2008, AM J TROP MED HYG, V78, P333, DOI 10.4269/ajtmh.2008.78.333
+   Tsai CY, 2013, J MICROBIOL IMMUNOL, V46, P271, DOI 10.1016/j.jmii.2012.07.005
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+   Yoon IK, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003764
+NR 32
+TC 0
+Z9 0
+U1 0
+U2 3
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD FEB
+PY 2020
+VL 102
+IS 2
+BP 257
+EP 259
+DI 10.4269/ajtmh.19-0608
+PG 3
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA KK6WZ
+UT WOS:000512881500005
+PM 31769391
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   Lima, PMA
+   de Brito, MCM
+   de Oliveira, DB
+AF Antunes de Brito, Carlos Alexandre
+   Andrade Lima, Petrus Moura
+   Moraes de Brito, Marina Coelho
+   de Oliveira, Daniela Barbosa
+TI Second Episode of COVID-19 in Health Professionals: Report of Two Cases
+SO INTERNATIONAL MEDICAL CASE REPORTS JOURNAL
+LA English
+DT Article
+DE COVID-19; SARS-CoV-2; reinfection; antibody
+AB Although primary infection has been shown to prevent reinfection of SARS-CoV2 (severe acute respiratory syndrome coronavirus 2) in animal models, gaps in the understanding of the immune response to the virus have not been adequately addressed, and some cases of possible reinfection have been reported; however, the frequency, relevance and proof of these events have yet to be determined. We report cases of two doctors who had two episodes of COVID-19 with positive RT-PCR (reverse transcriptase polymerase chain reaction) test results, raising the probability of reinfection. Case 1 was a 40-year-old male physician who presented fever and respiratory symptoms on April 10, with a positive RTPCR test for SARS-CoV-2, with complete improvement of symptoms in five days. After 44 days, the patient presented the same symptoms of the previous episode, associated with anosmia and dysgeusia. The results of a new RT-PCR test performed two days later were positive for SARS-CoV-2. Case 2 was a 44-year-old female physician who worked in a reference clinic for COVID-19 (coronavirus disease 2019) and had onset of symptoms indicative of the disease on April 30. The RT-PCR test was positive for SARS-CoV-2, with improvement of symptoms in six days. On May 24, the patient presented fever, cough, and sore throat accompanied by headache, asthenia, myalgia, and diarrhea, and in this new episode, anosmia and dysgeusia were also present. A new RT-PCR test from nasopharyngeal swabs was performed with a positive result. Our two patients described here and other patients with possible reinfection who are now being observed in clinical practice reinforce the need to expand the investigation. Then, if the risk of reinfection is confirmed, these findings will be relevant from a clinical-epidemiological perspective to define isolation strategies and develop vaccines.
+C1 [Antunes de Brito, Carlos Alexandre] Fed Univ, Dept Internal Med, Ctr Med Sci, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre; Moraes de Brito, Marina Coelho; de Oliveira, Daniela Barbosa] Autoimmune Res Inst, Dept Immunol, Recife, PE, Brazil.
+   [Andrade Lima, Petrus Moura] Inst Integral Med Fernando Figueira IMIP, Dept Digest Surg, Recife, PE, Brazil.
+   [Moraes de Brito, Marina Coelho] Univ Fed Pernambuco, Ctr Med Sci, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Internal Med, Av Prof Moraes Rego S-N, BR-50670910 Recife, PE, Brazil.
+EM cbritoc@gmail.com
+CR [Anonymous], 2020, EXPRESS STAR
+   Bongiovanni M, 2020, INFECT DIS-NOR, V52, P581, DOI 10.1080/23744235.2020.1769177
+   Channappanavar R, 2014, J VIROL, V88, P11034, DOI 10.1128/JVI.01505-14
+   Chaturvedi Rahul, 2020, Disaster Med Public Health Prep, P1, DOI 10.1017/dmp.2020.216
+   Deng W, 2020, SCIENCE, DOI [10.1126/science.abc53432., DOI 10.1126/SCIENCE.ABC53432]
+   Fu W, 2020, J MED VIROL, V92, P2298, DOI 10.1002/jmv.25968
+   Health Secretariat of the State of Ceara Brazil, 2020, TECHN NOT REC CLIN P
+   Ibarrondo FJ, 2020, NEW ENGL J MED, V383
+   Kang H, 2020, J MED VIROL, DOI [10.1002/jmv.261146, DOI 10.1002/JMV.261146]
+   Lafaie L, 2020, J AM GERIATR SOC, DOI 10.1111/jgs.16728
+   Lan L, 2020, JAMA-J AM MED ASSOC, V323, P1502, DOI 10.1001/jama.2020.2783
+   Sun JF, 2020, EMERG INFECT DIS, V26, P1834, DOI 10.3201/eid2608.201097
+   Xiang F, 2020, CLIN INFECT DIS, DOI [10.1093/cid/ciaa4613., DOI 10.1093/CID/CIAA4613]
+   Zayet S, 2020, INFECTION, DOI 10.1007/s15010-020-01442-3
+NR 14
+TC 0
+Z9 0
+U1 3
+U2 3
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1179-142X
+J9 INT MED CASE REP J
+JI INT. MED. CASE REP. J.
+PY 2020
+VL 13
+BP 471
+EP 475
+DI 10.2147/IMCRJ.S277882
+PG 5
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA NW6GU
+UT WOS:000575113900001
+PM 33061670
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   Marques, CDL
+   Falcao, MB
+   da Cunha, RV
+   Simon, F
+   Valadares, LDD
+   Luz, KG
+   Melo, CFCDE
+   Albuquerque, DD
+   de Brito, MCM
+   Duarte, ALBP
+AF Antunes de Brito, Carlos Alexandre
+   Lopes Marques, Claudia Diniz
+   Falcao, Melissa Barreto
+   da Cunha, Rivaldo Venancio
+   Simon, Fabrice
+   de Azevedo Valadares, Lilian David
+   Luz, Kleber Giovanni
+   de Albuquerque e Melo, Carlos Frederico Campelo
+   Albuquerque Filho, Dalcy de Oliveira
+   Moraes de Brito, Marina Coelho
+   Branco Pinto Duarte, Angela Luzia
+TI Update on the treatment of musculoskeletal manifestations in chikungunya
+   fever: a guideline
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Review
+DE Chikungunya fever; Musculoskeletal pain; Arbovirus; Management
+ID MANAGEMENT; INFECTION; ARTHRITIS; VIRUS
+AB Since the emergence of the chikungunya virus in Brazil in 2014, more than 700,000 cases have been reported throughout the country, corresponding to one-third of all cases reported in the Americas. In addition to its high attack rates, resulting in hundreds of thousands of cases, the disease has high chronicity rates with persistent joint manifestations for more than 3 months, which can spread to more than half of the patients affected in the acute phase. Pain associated with musculoskeletal manifestations, often disabling, has an effect on patients' quality of life at different stages of the disease. Currently, the challenge faced by specialists is identifying the best therapy to be instituted for symptom relief despite the limited number of published intervention studies. In 2016, a multidisciplinary group published pharmacological treatment protocols for pain in patients with chikungunya, which was incorporated into the guidelines for clinical management of the Brazilian Ministry of Health in 2017; in that same year, a consensus was published by the Brazilian Society of Rheumatology about diagnosis and treatment. After 5 years of experience with chikungunya epidemics, in 2019, specialists involved in the protocols of the Brazilian Society of Rheumatology and Brazilian Ministry of Health prepared an update with the main objective of developing flowcharts for the therapeutic approach of musculoskeletal manifestations in adult patients to enable specialists at different levels of healthcare to spread and apply this guideline in a systematic and simplified manner.
+C1 [Antunes de Brito, Carlos Alexandre; Lopes Marques, Claudia Diniz; Branco Pinto Duarte, Angela Luzia] Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+   [Falcao, Melissa Barreto] Univ Estadual Feira de Santana, Nucleo Pesquisa & Extensao Vigilancia Saude, Feira De Santana, BA, Brazil.
+   [da Cunha, Rivaldo Venancio] Fundacao Oswaldo Cruz, Campo Grande, MS, Brazil.
+   [Simon, Fabrice] Aix Marseille Univ, Unite Virus Emergents, IRD 190, Inserm 1207,IHU Mediterranee Infect, F-13015 Marseille, France.
+   [de Azevedo Valadares, Lilian David] Hosp Getulio Vargas Pernambuco, Recife, PE, Brazil.
+   [Luz, Kleber Giovanni] Univ Fed Rio Grande do Norte, Inst Med Trop, Natal, RN, Brazil.
+   [de Albuquerque e Melo, Carlos Frederico Campelo] Unidade Tecn Doencas Transmissiveis & Analise Sit, Org Pan Amer Saude, Brasilia, DF, Brazil.
+   [Albuquerque Filho, Dalcy de Oliveira] Minist Saude, Secretaria Vigilancia Saude, Brasilia, DF, Brazil.
+   [Moraes de Brito, Marina Coelho] Univ Fed Pernambuco, Ctr Ciencias Med, Recife, PE, Brazil.
+   [Lopes Marques, Claudia Diniz; Branco Pinto Duarte, Angela Luzia] Univ Fed Pernambuco, Hosp Clin, Serv Reumatol, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+OI Coelho Moraes de Brito, Marina/0000-0002-9298-3184
+CR Amaral JK, 2018, ARTHRIT CARE RES, V70, P1501, DOI 10.1002/acr.23519
+   de Brito CAA, 2016, REV SOC BRAS MED TRO, V49, P668, DOI 10.1590/0037-8682-0279-2016
+   Blettery M, 2016, ARTHRITIS RHEUMATOL, V68, P2817, DOI 10.1002/art.39775
+   Bouquillard E, 2009, JOINT BONE SPINE, V76, P654, DOI 10.1016/j.jbspin.2009.08.005
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude, 2017, B EP, V48, P1
+   Brasil. Ministerio da Saude. Secretaria de Vigilancia em Saude. Secretaria de Atencao Basica, 2017, SECR AT BAS
+   BRIGHTON SW, 1984, S AFR MED J, V66, P217
+   Cunha RV, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005319
+   de Andrade DC, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-31
+   De Lamballerie X, 2008, VECTOR-BORNE ZOONOT, V8, P837, DOI 10.1089/vbz.2008.0049
+   Ganu Mohini A, 2011, J Assoc Physicians India, V59, P83
+   Gerardin P, 2018, EMERG INFECT DIS, V24, P1773, DOI 10.3201/eid2409.180724
+   Greenhalgh T, 2018, EUR J CLIN INVEST, V48, DOI 10.1111/eci.12931
+   Javelle E, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003603
+   Marques CDL, 2017, REV BRAS REUMATOL, V57, P421, DOI DOI 10.1016/J.RBR.2017.05.004
+   Morrison TE, 2014, J VIROL, V88, P11644, DOI 10.1128/JVI.01432-14
+   Padmakumar B, 2009, INDIAN J RHEUMATOL, V4, P94, DOI DOI 10.1016/S0973-3698(10)60189-6
+   Paixao ES, 2018, T ROY SOC TROP MED H, V112, P301, DOI 10.1093/trstmh/try063
+   Pan American Health Organization, 2013, NEW CAS CHIK AM, P8
+   Pandya S., 2008, INDIAN J RHEUMATOL, V3, P93, DOI DOI 10.1016/S0973-3698(10)60125-2
+   Ramachandran V, 2012, PLOS ONE, V7
+   Ravindran V, 2017, CLIN RHEUMATOL, V36, P1335, DOI 10.1007/s10067-016-3429-0
+   Renault P, 2007, AM J TROP MED HYG, V77, P727
+   Rodriguez-Morales AJ, 2016, ARTHRIT CARE RES, V68, P1849, DOI 10.1002/acr.22900
+   Rother ET, 2007, ACTA PAUL        JUN, V20, pv
+   Schilte C, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002137
+   Secretaria de Vigilancia em Saude Ministerio da Saude, 2019, B EPIDEMIOL, V50, P1
+   Simon F, 2015, MED MALADIES INFECT, V45, P243, DOI 10.1016/j.medmal.2015.05.007
+   Nunes MRT, 2015, BMC MED, V13, DOI 10.1186/s12916-015-0348-x
+NR 29
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PY 2020
+VL 53
+AR e20190517
+DI 10.1590/0037-8682-0517-2019
+PG 8
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA MZ0PU
+UT WOS:000558826500001
+PM 32756797
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Botto-Menezes, CHA
+   Neto, AM
+   Calvet, GA
+   Kara, EO
+   Lacerda, MVG
+   Castilho, MD
+   Stroher, U
+   de Brito, CAA
+   Modjarrad, K
+   Broutet, N
+   Brasil, P
+   de Filippis, AMB
+   Franca, RFO
+   de Abreu, AL
+   Benzaken, AS
+   Bermudez, XPD
+   Broutet, NJN
+   Giozza, SP
+   Habib, N
+   Landoulsi, S
+   Lima, MC
+   Lima, N
+   de Mello, MB
+   de Menezes, AIC
+   Meurant, R
+   Pimenta, C
+   Storme, C
+   Thorson, A
+   Trautman, L
+AF Aguiar Botto-Menezes, Camila Helena
+   Neto, Armando Menezes
+   Calvet, Guilherme Amaral
+   Kara, Edna Oliveira
+   Guimaraes Lacerda, Marcus Vinicius
+   Castilho, Marcia da Costa
+   Stroher, Ute
+   Antunes de Brito, Carlos Alexandre
+   Modjarrad, Kayvon
+   Broutet, Nathalie
+   Brasil, Patricia
+   Bispo de Filippis, Ana Maria
+   Oliveira Franca, Rafael Freitas
+   de Abreu, Andre Luiz
+   Benzaken, Adele Schwartz
+   Diaz Bermudez, Ximena Pamela
+   Nicole Broutet, Nathalie Jeanne
+   Giozza, Silvana Pereira
+   Habib, Ndema
+   Landoulsi, Sihem
+   Lima, Morganna Costa
+   Lima, Noemia
+   de Mello, Maeve Brito
+   Costa de Menezes, Ana Izabel
+   Meurant, Robyn
+   Pimenta, Cristina
+   Storme, Casey
+   Thorson, Anna
+   Trautman, Lydie
+CA ZIKABRA Study Team
+TI Zika Virus in Rectal Swab Samples
+SO EMERGING INFECTIOUS DISEASES
+LA English
+DT Article
+AB We detected Zika virus RNA in rectal swab samples from 10 patients by using real-time reverse transcription PCR, and we isolated the virus from 1 patient. The longest interval from symptom onset to detection was 14 days. These findings are applicable to diagnosis and infection prevention recommendations.
+C1 [Aguiar Botto-Menezes, Camila Helena] Amazonas State Univ, Manaus, Amazonas, Brazil.
+   [Aguiar Botto-Menezes, Camila Helena; Guimaraes Lacerda, Marcus Vinicius; Castilho, Marcia da Costa] Trop Med Fdn Doctor Heitor Vieira Dourado, Manaus, Amazonas, Brazil.
+   [Neto, Armando Menezes; Antunes de Brito, Carlos Alexandre; Oliveira Franca, Rafael Freitas] Inst Aggeu Magalhaes, Recife, PE, Brazil.
+   [Calvet, Guilherme Amaral; Brasil, Patricia] Evandro Chagas Natl Inst Infect Dis, Rio De Janeiro, Brazil.
+   [Kara, Edna Oliveira; Stroher, Ute; Broutet, Nathalie] WHO, Geneva, Switzerland.
+   [Guimaraes Lacerda, Marcus Vinicius] Fundacao Oswaldo Cruz, Manaus, Amazonas, Brazil.
+   [Modjarrad, Kayvon] Walter Reed Army Inst Res, Silver Spring, MD USA.
+   [Bispo de Filippis, Ana Maria] Oswaldo Cruz Inst, Rio De Janeiro, Brazil.
+RP Franca, RFO (corresponding author), Oswaldo Cruz Fdn FIOCRUZ, Dept Virol & Expt Therapy, Av Prof Moraes Rego S-N,Campus UFPE,Cidade Univ, BR-50740465 Recife, PE, Brazil.
+EM rafael.franca@cpqam.fiocruz.br
+RI Calvet, GA/G-6959-2013
+OI Calvet, GA/0000-0002-3545-5238; Menezes-Neto,
+   Armando/0000-0002-2003-908X; Thorson, Anna/0000-0002-8703-6561
+FU Wellcome TrustWellcome Trust [206522/Z/17/Z]; World Health Organization
+   (UNDP-UNFPA-UNICEF-WHO-World Bank Special Programme of Research,
+   Development and Research Training in Human Reproduction); Brazilian
+   Ministry of Health [837059/2016, 25000162039201616]; US National
+   Institutes of Health National Institute of Allergy and Infectious
+   DiseasesUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [R21AI139777]; Henry M. Jackson Foundation
+   for the Advancement of Military Medicine [W81XWH-18-2-0040]; US
+   Department of the Army [W81XWH-18-2-0040]; US Defense Health Agency
+   [0130602D16]; World Health Emergency Programme Organization; NATIONAL
+   INSTITUTE OF ALLERGY AND INFECTIOUS DISEASESUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Allergy & Infectious Diseases (NIAID)
+   [R21AI139777] Funding Source: NIH RePORTER
+FX The research leading to these results received funding from Wellcome
+   Trust grant no. 206522/Z/17/Z, World Health Organization
+   (UNDP-UNFPA-UNICEF-WHO-World Bank Special Programme of Research,
+   Development and Research Training in Human Reproduction), World Health
+   Emergency Programme Organization, Brazilian Ministry of Health (Convenio
+   no. 837059/2016, Processo 25000162039201616), US National Institutes of
+   Health National Institute of Allergy and Infectious Diseases (award no.
+   R21AI139777). This work was supported by a cooperative agreement
+   (W81XWH-18-2-0040) between the Henry M. Jackson Foundation for the
+   Advancement of Military Medicine and the US Department of the Army. The
+   work was funded by the US Defense Health Agency (0130602D16). The
+   funders had no role in study design, data collection, analysis, decision
+   to publish, or preparation of the manuscript.
+CR Barzon L, 2018, CLIN INFECT DIS, V66, P1173, DOI 10.1093/cid/cix967
+   Calvet GA, 2018, BMC INFECT DIS, V18, DOI 10.1186/s12879-018-2965-4
+   Deckard DT, 2016, MMWR-MORBID MORTAL W, V65, P372, DOI 10.15585/mmwr.mm6514a3
+   Faria NR, 2016, SCIENCE, V352, P345, DOI 10.1126/science.aaf5036
+   Haddow AD, 2017, EMERG INFECT DIS, V23, P1274, DOI 10.3201/eid2308.170036
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Li CF, 2018, EMERG MICROBES INFEC, V7, DOI 10.1038/s41426-018-0170-6
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Monath T P, 2001, Lancet Infect Dis, V1, P11, DOI 10.1016/S1473-3099(01)00016-0
+   Paz-Bailey G, 2018, NEW ENGL J MED, V379, P1234, DOI 10.1056/NEJMoa1613108
+   Swaminathan S, 2016, NEW ENGL J MED, V375, P1907, DOI 10.1056/NEJMc1610613
+   Uyeki TM, 2016, NEW ENGL J MED, V374, P636, DOI 10.1056/NEJMoa1504874
+   Workowski KA, 2015, MMWR RECOMM REP, V64, P1
+NR 13
+TC 4
+Z9 4
+U1 0
+U2 2
+PU CENTERS  DISEASE CONTROL & PREVENTION
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1080-6040
+EI 1080-6059
+J9 EMERG INFECT DIS
+JI Emerg. Infect. Dis
+PD MAY
+PY 2019
+VL 25
+IS 5
+BP 951
+EP 954
+DI 10.3201/eid2505.180904
+PG 4
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA HU0TG
+UT WOS:000464983500014
+PM 31002058
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Brito, CAF
+   de Campos, MZ
+AF Felicio Brito, Carlos Alexandre
+   de Campos, Marcia Zendron
+TI MAKING HIGHER EDUCATION LEARNING PROCESS EASIER: THE ROLE OF ACTIVE
+   LEARNING STRATEGIES
+SO REVISTA IBERO-AMERICANA DE ESTUDOS EM EDUCACAO
+LA Spanish
+DT Article
+DE Active learning; Professional training; Teaching; Health; Physical
+   education
+AB The objective of this study was to analyze how active learning strategies - Peer Instruction, Case-based Instruction and Conceptual Mapping - may facilitate the learning of higher education health student. The research design was characterized as a survey and an observational, cross-sectional, and descriptive study. Fifty-one physical education students, of Great ABC Region, in Sao Paulo, participated of this study. Google Classroom was designed, providing support materials for study (papers and videos on the subject related to the discipline) and a structured questionnaire containing 6 objective questions, with 5 alternatives each (a, b, c, d, e) was developed. Peer Instruction, Case-based Instruction and Conceptual Mapping were adopted as study strategies. Results were analyzed by absolute and relative frequencies (percentage) and by the calculation of the Normalized Gain (NG - Mazur, 1997). Also, the subjective responses (Narratives of the students) were used for a better understanding of the phenomena. The main result obtained after the use of Peer Instruction was a NG (%) of 83.3%. The percentage of correct answers related to the class content ranged from 5.2% to 63.2%. These results suggest that the active learning strategies developed and tested in graduation level may stand out as effective alternatives to change the actual criticized scenario of higher education, notably students' lack of motivation to learn.
+C1 [Felicio Brito, Carlos Alexandre] Univ Municipal Sao Caetano do Sul USCS, Escuela Salud Educ Fis, Sao Caetano do Sul, SP, Brazil.
+   [Felicio Brito, Carlos Alexandre] Univ Municipal Sao Caetano do Sul USCS, Programa Maestria Profes Innovac Ensenanza Super, Sao Caetano do Sul, SP, Brazil.
+   [de Campos, Marcia Zendron] Univ Paulista UNIP, Carrera Educ Fis, Sao Paulo, SP, Brazil.
+RP Brito, CAF (corresponding author), Univ Municipal Sao Caetano do Sul USCS, Escuela Salud Educ Fis, Sao Caetano do Sul, SP, Brazil.; Brito, CAF (corresponding author), Univ Municipal Sao Caetano do Sul USCS, Programa Maestria Profes Innovac Ensenanza Super, Sao Caetano do Sul, SP, Brazil.
+EM carlos.brito@uscs.edu.br; mzendron@unip.br
+OI ZENDRON DE CAMPOS, MARCIA/0000-0002-2782-5307
+CR Aciole Giovanni Gurgel, 2016, Cad. Pesqui., V46, P1172, DOI 10.1590/198053143528
+   Machado MDAS, 2007, CIENC SAUDE COLETIVA, V12, P335, DOI 10.1590/S1413-81232007000200009
+   Araujo D, 2007, REV BAIANA SAUDE PUB, V31, P20
+   ASSMAN Hugo, 2003, REENCANTAR EDUCACAO
+   Bacich L., 2015, ENSINO HIBRIDO PERSO
+   BRASIL, 2002, CART PROM SAUD
+   CAMPAGNOLO Rodrigo, 2014, REV SIGNOS, V35
+   CESAR Ana Maria Roux Valentini Coelho, 2005, REV ELETRONICA MACKE, V1, P1
+   CHIZZOTTI A, 2006, PESQUISA QUALITATIVA
+   da SILVA Marcos Valerio Santos, 2017, INTERFACE COMUNICACA
+   Mazur E., 1997, PEER INSTRUCTION USE
+   MENEZES Maria Arlinda deAssis, 2012, REV JUSTICA EDUCACAO, V1, P2
+   MOREIRA Marco Antonio, 2012, MAPAS CONCEITUAIS AP, P41
+   MULLER Maykon Gonsalves, 2017, REVISTA BRASILEIRA E, V39, DOI DOI 10.1590/1806-9126-RBEF-2017-0012
+   SANTAELLA Lucia, 2004, A TEORIA GERAL DOS S
+   Steinert Y, 2006, MED TEACH, V28, P497, DOI 10.1080/01421590600902976
+   Thomas J.R., 2012, METODOS PESQUISA ATI
+   Valente JA, 2014, EDUC REV-CURITIBA, P79, DOI 10.1590/0104-4060.38645
+   Yin RK, 2015, ESTUDO CASO PLANEJAM
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 2
+PU UNIV ESTADUAL PAULISTA-UNESP, FAC CIENCIAS LETRAS ASSIS
+PI ASSIS
+PA CENTRO DOCUMENTACAO & APOIO PESQUISA AV DOM ANTONIO, 2100-PQ UNIV,
+   ASSIS, SP CEP-19806900, BRAZIL
+SN 2446-8606
+EI 1982-5587
+J9 REV IBERO-AM ESTUD E
+JI Rev. Ibero-Am. Estud. Educ.
+PD APR-JUN
+PY 2019
+VL 14
+IS 2
+BP 371
+EP 387
+DI 10.21723/riaee.v14i2.11769
+PG 17
+WC Education & Educational Research
+SC Education & Educational Research
+GA HR0JP
+UT WOS:000462814700004
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Castanha, PMS
+   Souza, WV
+   Braga, C
+   de Araujo, TVB
+   Ximenes, RAA
+   Albuquerque, MDPM
+   Montarroyos, UR
+   Miranda, DB
+   Cordeiro, MT
+   Dhalia, R
+   Marques, ETA
+   Rodrigues, LC
+   Martelli, CMT
+   de Brito, CAA
+   Batista, JDL
+   Bezerra, LCA
+   Rocha, MAW
+   Carvalho, MDCG
+   Silva, PFS
+   Pastich, F
+   Valongueiro, S
+   Melo, AP
+   Montarroyos, U
+   Ramos, RCF
+   Brandao, SP
+AF Castanha, Priscila M. S.
+   Souza, Wayner V.
+   Braga, Cynthia
+   Barreto de Araujo, Thalia Velho
+   Ximenes, Ricardo A. A.
+   Albuquerque, Maria de Fatima P. M.
+   Montarroyos, Ulisses R.
+   Miranda-Filho, Democrito B.
+   Cordeiro, Marli T.
+   Dhalia, Rafael
+   Marques, Ernesto T. A., Jr.
+   Rodrigues, Laura C.
+   Martelli, Celina M. T.
+   Antunes de Brito, Carlos Alexandre
+   Lyra Batista, Joanna d'Arc
+   Albuquerque Bezerra, Luciana Caroline
+   Wanderley Rocha, Maria Angela
+   Costa Gomes Carvalho, Maria Durce
+   Sobral Silva, Paula Fabiana
+   Pastich, Fabiana
+   Valongueiro, Sandra
+   Melo, Ana Paula
+   Montarroyos, Ulisses
+   Ferreira Ramos, Regina Coeli
+   Brandao Filho, Sinval Pinto
+CA Microcephaly Epidemic Res Grp
+TI Perinatal analyses of Zika- and dengue virus-specific neutralizing
+   antibodies: A microcephaly case-control study in an area of high dengue
+   endemicity in Brazil
+SO PLOS NEGLECTED TROPICAL DISEASES
+LA English
+DT Article
+ID LOAD
+AB Laboratory confirmation of Zika virus (ZIKV) infection during pregnancy is challenging due to cross-reactivity with dengue virus (DENV) and limited knowledge about the kinetics of anti-Zika antibody responses during pregnancy. We described ZIKV and DENV serological markers and the maternal-fetal transfer of antibodies among mothers and neonates after the ZIKV microcephaly outbreak in Northeast Brazil (2016). We included 89 microcephaly cases and 173 neonate controls at time of birth and their mothers. Microcephaly cases were defined as newborns with a particular head circumference (2 SD below the mean). Two controls without microcephaly were matched by the expected date of delivery and area of residence. We tested maternal serum for recent (ZIKV genome, IgM and IgG3 anti-NS1) and previous (ZIKV and DENV neutralizing antibodies [NAbs]) markers of infection. Multiple markers of recent or previous ZIKV and DENV infection in mothers were analyzed using principal component analysis (PCA). At delivery, 5.6% of microcephaly case mothers and 1.7% of control mothers were positive for ZIKV IgM. Positivity for ZIKV IgG3 anti-NS1 was 8.0% for case mothers and 3.5% for control mothers. ZIKV NAbs was slightly higher among mothers of cases (69.6%) than that of mothers of controls (57.2%; p = 0.054). DENV exposure was detected in 85.8% of all mothers. PCA discriminated two distinct components related to recent or previous ZIKV infection and DENV exposure. ZIKV NAbs were higher in newborns than in their corresponding mothers (p<0.001). We detected a high frequency of ZIKV exposure among mothers after the first wave of the ZIKV outbreak in Northeast Brazil. However, we found low sensitivity of the serological markers to recent infection (IgM and IgG3 anti-NS1) in perinatal samples of mothers of microcephaly cases. Since the neutralization test cannot precisely determine the time of infection, testing for ZIKV immune status should be performed as early as possible and throughout pregnancy to monitor acute Zika infection in endemic areas.
+C1 [Castanha, Priscila M. S.; Souza, Wayner V.; Braga, Cynthia; Barreto de Araujo, Thalia Velho; Albuquerque, Maria de Fatima P. M.; Cordeiro, Marli T.; Dhalia, Rafael; Marques, Ernesto T. A., Jr.; Martelli, Celina M. T.] Oswaldo Cruz Fdn FIOCRUZ, Aggeu Magalhaes Inst, Recife, PE, Brazil.
+   [Castanha, Priscila M. S.; Ximenes, Ricardo A. A.; Montarroyos, Ulisses R.; Miranda-Filho, Democrito B.] Univ Pernambuco, Sch Med Sci, Recife, PE, Brazil.
+   [Barreto de Araujo, Thalia Velho; Ximenes, Ricardo A. A.] Univ Fed Pernambuco, Recife, PE, Brazil.
+   [Marques, Ernesto T. A., Jr.] Univ Pittsburgh, Dept Infect Dis & Microbiol, Pittsburgh, PA USA.
+   [Rodrigues, Laura C.] London Sch Hyg & Trop Med, Dept Infect Dis Epidemiol, London, England.
+RP Martelli, CMT (corresponding author), Oswaldo Cruz Fdn FIOCRUZ, Aggeu Magalhaes Inst, Recife, PE, Brazil.
+EM turchicm@gmail.com
+RI Montarroyos, Ulisses/AAJ-7527-2020; Souza, Wayner V/H-3798-2013;
+   Marques, Ernesto T. A/L-4967-2013; Dhalia, Rafael/AAD-5432-2020; Braga,
+   Maria Cynthia/A-8204-2013; Da Silva Castanha, Priscila
+   Mayrelle/G-1785-2012
+OI Marques, Ernesto T. A/0000-0003-3826-9358; Braga, Maria
+   Cynthia/0000-0002-7862-6455; Da Silva Castanha, Priscila
+   Mayrelle/0000-0002-1220-5308; Turchi Martelli, Celina
+   Maria/0000-0002-2491-0688
+FU Brazilian Ministry of Health, Pan American Health Organization,
+   Enhancing Research Activity in Epidemic Situations; National Advisory
+   Board of Scientific and Technological Development (Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico [CNPq])National Council for
+   Scientific and Technological Development (CNPq) [306708/2014-0,
+   308818/2013-0, 308590/2013-9, 308491/2013-0, 304174/2014-9,
+   306222/2013-2]; European Union's Horizon 2020 research and innovation
+   programme under Zika-PLAN [734584]; CuraZika
+FX This study was funded by the Brazilian Ministry of Health, Pan American
+   Health Organization, Enhancing Research Activity in Epidemic Situations.
+   Some of the investigators received partial support from the National
+   Advisory Board of Scientific and Technological Development (Conselho
+   Nacional de Desenvolvimento Cientifico e Tecnologico [CNPq]; scholarship
+   306708/2014-0 to CMTM, 308818/2013-0 to RAAX, 308590/2013-9 to DBM-F,
+   308491/2013-0 to MFPMA, 304174/2014-9 to CB, and 306222/2013-2 to WVS).
+   LCR is partly funded by the European Union's Horizon 2020 research and
+   innovation programme under Zika-PLAN (grant agreement no. 734584). The
+   study also received parcial support from CuraZika to ETAM. The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Andrade DV, 2018, VIRUS RES, V254, P27, DOI 10.1016/j.virusres.2017.06.019
+   Aubry M, 2017, EMERG INFECT DIS, V23, P669, DOI 10.3201/eid2304.161549
+   de Araujo TVB, 2018, LANCET INFECT DIS, V18, P328, DOI 10.1016/S1473-3099(17)30727-2
+   Barreto ML, 2016, LANCET, V387, P919, DOI 10.1016/S0140-6736(16)00545-6
+   Barzon L, 2018, CLIN INFECT DIS, V66, P1173, DOI 10.1093/cid/cix967
+   Terzian ACB, 2017, CLIN INFECT DIS, V65, P1260, DOI 10.1093/cid/cix558
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Brazilian Minister of Health, 2017, MONITORAMENTO DOS CA
+   Brazilian Minister of Health, 2017, 57 BRAZ MIN HLTH
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Cao-Lormeau VM, 2016, LANCET, V387, P1531, DOI 10.1016/S0140-6736(16)00562-6
+   Castanha PMS, 2013, EPIDEMIOL INFECT, V141, P1080, DOI 10.1017/S0950268812001367
+   Castanha PMS, 2017, J INFECT DIS, V215, P781, DOI 10.1093/infdis/jiw638
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Collins MH, 2017, EMERG INFECT DIS, V23, P773, DOI 10.3201/eid2305.161630
+   Cordeiro MT, 2016, J INFECT DIS, V214, P1897, DOI 10.1093/infdis/jiw477
+   Cordeiro MT, 2007, REV SOC BRAS MED TRO, V40, P605, DOI 10.1590/S0037-86822007000600001
+   Cordeiro MT, 2016, LANCET, V387, P1811, DOI 10.1016/S0140-6736(16)30253-7
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Fritzell C, 2018, PLOS NEGLECT TROP D, V12, DOI 10.1371/journal.pntd.0006533
+   Goncalves A, 2018, J INFECT DIS, V217, P1060, DOI 10.1093/infdis/jix678
+   Halai UA, 2017, CLIN INFECT DIS, V65, P877, DOI 10.1093/cid/cix472
+   Keasey SL, 2017, CLIN VACCINE IMMUNOL, V24, DOI 10.1128/CVI.00036-17
+   KLIKS SC, 1988, AM J TROP MED HYG, V38, P411, DOI 10.4269/ajtmh.1988.38.411
+   Krow-Lucal ER, 2018, LANCET CHILD ADOLESC, V2, P204, DOI 10.1016/S2352-4642(18)30020-8
+   Kuno G, 1998, J VIROL, V72, P73, DOI 10.1128/JVI.72.1.73-83.1998
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Lindsey NP, 2018, J CLIN MICROBIOL, V56, DOI 10.1128/JCM.01115-17
+   Maeda A, 2013, VET J, V195, P33, DOI 10.1016/j.tvjl.2012.08.019
+   Magalhaes T, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0006055
+   Marinho F, 2016, EPIDEMIOL SERV SAUDE, V25, P701, DOI [10.5123/s1679-49742016000400004, 10.5123/S1679-49742016000400004]
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Montoya M, 2018, J INFECT DIS, V218, P536, DOI 10.1093/infdis/jiy164
+   Netto EM, 2017, MBIO, V8, DOI [10.1128/mBio.01390-17, 10.1128/mbio.01390-17]
+   Pan American Health Organization, 2019, EP UPD YELL FEV 25 J
+   Pan American Health Organization, 2018, EP REP BRAZ
+   Pan American Health Organization, 2018, REG ZIK EP UPD AM
+   Priyamvada L, 2017, EMERG MICROBES INFEC, V6, DOI 10.1038/emi.2017.42
+   Rodriguez-Barraquer I, 2019, SCIENCE, V363, P607, DOI 10.1126/science.aav6618
+   Roehrig JT, 2008, VIRAL IMMUNOL, V21, P123, DOI 10.1089/vim.2008.0007
+   Roopenian DC, 2007, NAT REV IMMUNOL, V7, P715, DOI 10.1038/nri2155
+   Simmons G, 2018, CLIN INFECT DIS, V66, P1181, DOI 10.1093/cid/cix972
+   SMFM Consult Series #39, 2016, J INFECT DIS, V214, pB9
+   World Health Organization, 2018, ZIK VIR SIT REP
+   World Health Organization, 2018, ZIK VIR FACT SHEET
+   Ye Q, 2016, INFECT GENET EVOL, V43, P43, DOI 10.1016/j.meegid.2016.05.004
+NR 46
+TC 7
+Z9 7
+U1 0
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1935-2735
+J9 PLOS NEGLECT TROP D
+JI Plos Neglect. Trop. Dis.
+PD MAR
+PY 2019
+VL 13
+IS 3
+AR e0007246
+DI 10.1371/journal.pntd.0007246
+PG 17
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA HS3YU
+UT WOS:000463799300043
+PM 30856223
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Neto, JP
+   Brito, CAF
+AF Neto, Joao Puerro
+   Felicio Brito, Carlos Alexandre
+TI Functional mobility related to muscle strength in elderly women
+   physically active (vol 21, pg 369, 2015)
+SO REVISTA BRASILEIRA DE MEDICINA DO ESPORTE
+LA English
+DT Correction
+CR Neto JP, 2015, REV BRAS MED ESPORTE, V21, P369, DOI 10.1590/1517-869220152105112756
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASILEIRA MED ESPORTE
+PI SAO PAULO SP
+PA AV BRIGADEIRO LUIS ANTONIO, 278, 6 AND, SAO PAULO SP, 01318 901, BRAZIL
+SN 1517-8692
+EI 1806-9940
+J9 REV BRAS MED ESPORTE
+JI Rev. Bras. Med. Esporte
+PD MAR-APR
+PY 2019
+VL 25
+IS 2
+BP 175
+EP 175
+DI 10.1590/1517-869220152105112756ERRATUM
+PG 1
+WC Physiology; Sport Sciences
+SC Physiology; Sport Sciences
+GA HS4KS
+UT WOS:000463832100015
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Mehta, R
+   Gerardin, P
+   de Brito, CAA
+   Soares, CN
+   Ferreira, MLB
+   Solomon, T
+AF Mehta, Ravi
+   Gerardin, Patrick
+   Antunes de Brito, Carlos Alexandre
+   Soares, Cristiane Nascimento
+   Brito Ferreira, Maria Lucia
+   Solomon, Tom
+TI Reply to Simon et al. on "The neurological complications of chikungunya
+   virus: A systematic review"
+SO REVIEWS IN MEDICAL VIROLOGY
+LA English
+DT Letter
+ID DISEASE
+C1 [Mehta, Ravi; Solomon, Tom] Univ Liverpool, Hlth Protect Res Unit Emerging & Zoonot Infect, Nat Inst Hlth Res, Liverpool, Merseyside, England.
+   [Gerardin, Patrick] Ctr Hosp Univ Reunion, INSERM CIC1410, St Pierre, Reunion, France.
+   [Gerardin, Patrick] Univ Reunion, IRD 249, INSERM U1187, UM 134 PIMIT,CNRS 9192,CYROI,CHU, Sainte Clotilde, France.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Recife, PE, Brazil.
+   [Soares, Cristiane Nascimento] Hosp Fed Servidores Estado, Rio De Janeiro, Brazil.
+   [Brito Ferreira, Maria Lucia] Hosp Restauracao, Recife, PE, Brazil.
+   [Solomon, Tom] Walton Ctr NHS Fdn Trust, Liverpool, Merseyside, England.
+   [Mehta, Ravi; Solomon, Tom] Univ Liverpool, Inst Infect & Global Hlth, Ronald Ross Bldg, Liverpool L69 7BE, Merseyside, England.
+RP Mehta, R; Solomon, T (corresponding author), Univ Liverpool, Inst Infect & Global Hlth, Ronald Ross Bldg, Liverpool L69 7BE, Merseyside, England.
+EM ravi.mehta@liverpool.ac.uk; tsolomon@liv.ac.uk
+OI Solomon, Tom/0000-0001-7266-6547
+FU Medical Research CouncilMedical Research Council UK (MRC) [MC_PC_15096,
+   G116/194] Funding Source: Medline; Department of Health
+   [RP-PG-0108-10048, EME/12/205/28, IS-HPU-1112-10117] Funding Source:
+   Medline
+CR Duvignaud A, 2018, EPIDEMIOL INFECT, V146, P633, DOI [10.1017/S0950268818000031, 10.1017/s0950268818000031]
+   Fedak KM, 2015, EMERG THEMES EPIDEMI, V12, DOI 10.1186/s12982-015-0037-4
+   HILL AB, 1965, P ROY SOC MED, V58, P295, DOI 10.1177/003591576505800503
+   Morris G, 2013, BMC MED, V11, DOI 10.1186/1741-7015-11-205
+   Simon F, 2018, REV MED VIROL, V28, DOI 10.1002/rmv.1999
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1052-9276
+EI 1099-1654
+J9 REV MED VIROL
+JI Rev. Med. Virol.
+PD NOV
+PY 2018
+VL 28
+IS 6
+AR e2012
+DI 10.1002/rmv.2012
+PG 1
+WC Virology
+SC Virology
+GA HA2NV
+UT WOS:000450076600008
+PM 30357983
+DA 2020-12-01
+ER
+
+PT J
+AU Gomes, RG
+   de Brito, CAA
+   Martinelli, VF
+   dos Santos, RN
+   Gomes, FOD
+   Peixoto, CA
+   Crispim, JO
+   Diniz, GTN
+   Donadi, EA
+   Lucena-Silva, N
+AF Gomes, Renan Garcia
+   Antunes de Brito, Carlos Alexandre
+   Martinelli, Valeria Ferreira
+   dos Santos, Rossana Nascimento
+   dos Santos Gomes, Fabiana Oliveira
+   Peixoto, Christina Alves
+   Crispim, Janaina Oliveira
+   Nunes Diniz, George Tadeu
+   Donadi, Eduardo Antonio
+   Lucena-Silva, Norma
+TI HLA-G is expressed in intestinal samples of ulcerative colitis and
+   Crohn's disease patients and HLA-G5 expression is differentially
+   correlated with TNF and IL-10 cytokine expression
+SO HUMAN IMMUNOLOGY
+LA English
+DT Article
+DE Crohn's disease; Ulcerative colitis; Inflammatory bowel disease; HLA-G;
+   TNF; IL-10
+ID INFLAMMATORY-BOWEL-DISEASE; LEUKOCYTE ANTIGEN-G;
+   SYSTEMIC-LUPUS-ERYTHEMATOSUS; MONONUCLEAR-CELLS PRESENT;
+   PERIPHERAL-BLOOD; EPITHELIAL BARRIER; COLORECTAL-CANCER; SHLA-G;
+   PROFILES; RELEASE
+AB HLA-G is an immunomodulatory molecule that can be produced by epithelial cells. Considering that TNF and IL-10 participate in bowel inflammatory disorders and that both cytokines modulate HLA-G, we evaluated HLA-G, TNF and IL-10 mRNA expression by qPCR and HLA-G protein levels by immunohistochemistry in two intestinal samples exhibiting different degree of inflammation within a patient suffering from Crohn's disease (CD) or ulcerative colitis (UC). Tissue HLA-G5 (P < 0.0001), TNF (P = 0.0004) and IL-10 (P = 0.0169) mRNA expression levels were higher in intestinal areas exhibiting intense inflammation compared to areas of low inflammation, and HLA-G protein levels were not associated with degree of mucosal inflammation. In CD, the expression of TNF was correlated with IL-10 in low inflamed areas, exhibiting a TNF:IL-10 ratio = 3, but in inflamed areas the ratio increased to 9-folds. In UC, the expression of TNF was correlated to IL-10, irrespective of the inflammation grade, with little variation of the TNF:IL-10 ratio in the various inflamed areas. TNF and IL-10 expression was correlated with HLA-G5 expression in mild inflamed areas. Both CD and UC samples exhibited gene and protein expression of HLA-G; and the IILA-G5 expression is differentially correlated with TNF and IL-10 levels depending on the type of the underlying inflammatory bowel disorder.
+C1 [Gomes, Renan Garcia; dos Santos, Rossana Nascimento; dos Santos Gomes, Fabiana Oliveira; Peixoto, Christina Alves; Nunes Diniz, George Tadeu; Lucena-Silva, Norma] Fundacao Oswaldo Cruz, Aggeu Magalhaes Inst, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre; Martinelli, Valeria Ferreira] Univ Fed Pernambuco, Sch Med, Dept Internal Med, Recife, PE, Brazil.
+   [Crispim, Janaina Oliveira] Fed Univ Rio Gronde do Norte, Dept Pharmacol, Natal, RN, Brazil.
+   [Donadi, Eduardo Antonio] Univ Sao Paulo, Med Sch Ribeirao Preto, Dept Internal Med, Ribeirao Preto, Brazil.
+RP Lucena-Silva, N (corresponding author), Fundacao Oswaldo Cruz, Aggeu Magalhaes Inst, Dept Immunol, Recife, PE, Brazil.
+EM norma.lucena@hotmail.com
+RI Lucena-Silva, Norma/AAH-9437-2019; PEIXOTO, CHRISTINA/AAD-9608-2019
+FU  [CAPES: 1423213];  [CNPq: 310364/20159]
+FX We thank to the Gastroenterology Outpatient Clinics of the Hospital of
+   the Federal University of Pernambuco and the Program for Technological
+   Development in Tools for Health (PDTIS-FIOCRUZ). Supported by the
+   following grants: CAPES: 1423213 (to R.G.G) and CNPq: 310364/20159 (to
+   N.L-S).
+CR Abraham C, 2009, NEW ENGL J MED, V361, P2066, DOI 10.1056/NEJMra0804647
+   Alcami A, 2000, TRENDS MICROBIOL, V8, P410, DOI 10.1016/S0966-842X(00)01830-8
+   Autschbach F, 1998, AM J PATHOL, V153, P121, DOI 10.1016/S0002-9440(10)65552-6
+   Autschbach F, 2002, VIRCHOWS ARCH, V441, P500, DOI 10.1007/s00428-002-0684-z
+   Baumgart DC, 2007, LANCET, V369, P1641, DOI 10.1016/S0140-6736(07)60751-X
+   Carosella ED, 2008, TRENDS IMMUNOL, V29, P125, DOI 10.1016/j.it.2007.11.005
+   Carosella ED, 2015, ADV IMMUNOL, V127, P33, DOI 10.1016/bs.ai.2015.04.001
+   Castelli EC, 2014, J IMMUNOL RES, V2014, DOI 10.1155/2014/734068
+   Chang SN, 2017, EXPERT REV CLIN PHAR, V10, P595, DOI 10.1080/17512433.2017.1318062
+   Chen CH, 2010, RHEUMATOLOGY, V49, P264, DOI 10.1093/rheumatology/kep360
+   Chen JX, 2013, CLIN EXP MED, V13, P135, DOI 10.1007/s10238-012-0185-6
+   de Souza HSP, 2016, NAT REV GASTRO HEPAT, V13, P13, DOI [10.1038/nrgastro.2016.186, 10.1038/nrgastro.2015.186]
+   Donadi EA, 2011, CELL MOL LIFE SCI, V68, P369, DOI 10.1007/s00018-010-0580-7
+   Fainardi E, 2011, CELL MOL LIFE SCI, V68, P433, DOI 10.1007/s00018-010-0584-3
+   Gologan S, 2013, J CROHNS COLITIS, V7, P622, DOI 10.1016/j.crohns.2012.08.015
+   Gregori S, 2010, BLOOD, V116, P935, DOI 10.1182/blood-2009-07-234872
+   Guo ZY, 2015, CELL IMMUNOL, V293, P10, DOI 10.1016/j.cellimm.2014.10.003
+   Gupta RB, 2007, GASTROENTEROLOGY, V133, P1099, DOI 10.1053/j.gastro.2007.08.001
+   Inoue S, 1999, AM J GASTROENTEROL, V94, P2441
+   Jasinski-Bergner S., 2015, ONCOIMMUNOLOGY, V4, DOI [10.1080/2162402X2015.1008805, DOI 10.1080/2162402X2015.1008805]
+   Kanai T, 2003, J REPROD IMMUNOL, V60, P85, DOI 10.1016/S0165-0378(03)00096-2
+   Kanai T, 2001, MOL HUM REPROD, V7, P195, DOI 10.1093/molehr/7.2.195
+   Kanai T, 2001, AM J REPROD IMMUNOL, V45, P94, DOI 10.1111/j.8755-8920.2001.450205.x
+   Kayama H, 2012, INT IMMUNOL, V24, P673, DOI 10.1093/intimm/dxs094
+   Khor B, 2011, NATURE, V474, P307, DOI 10.1038/nature10209
+   Leon AJ, 2009, MEDIAT INFLAMM, V2009, DOI 10.1155/2009/580450
+   Manaster I., 2012, PLOS ONE, V7, P1, DOI [10.1371/journal.pone.0033395, DOI 10.1371/JOURNAL.P0NE.0033395]
+   Martini E, 2017, CELL MOL GASTROENTER, V4, P33, DOI 10.1016/j.jcmgh.2017.03.007
+   Matricon J, 2010, SELF NONSELF, V1, P299, DOI DOI 10.4161/SELF.1.4.13560
+   Matsuda R, 2009, INFLAMM BOWEL DIS, V15, P328, DOI 10.1002/ibd.20759
+   Naji A, 2014, J IMMUNOL, V192, P1536, DOI 10.4049/jimmunol.1300438
+   NIESSNER M, 1995, CLIN EXP IMMUNOL, V101, P428
+   Pastorelli L, 2013, FRONT IMMUNOL, V4, DOI 10.3389/fimmu.2013.00280
+   Porto IOP, 2015, MOL IMMUNOL, V65, P230, DOI 10.1016/j.molimm.2015.01.030
+   de Mattos BRR, 2015, MEDIAT INFLAMM, V2015, DOI 10.1155/2015/493012
+   Reimers MS, 2014, BMC CANCER, V14, DOI 10.1186/1471-2407-14-486
+   Reimund JM, 1996, J CLIN IMMUNOL, V16, P144, DOI 10.1007/BF01540912
+   Rizzo R, 2008, TISSUE ANTIGENS, V71, P520, DOI 10.1111/j.1399-0039.2008.01037.x
+   Rizzo R, 2014, FRONT IMMUNOL, V5, DOI 10.3389/fimmu.2014.00592
+   Rizzo R, 2008, INFLAMM BOWEL DIS, V14, P100, DOI 10.1002/ibd.20281
+   Rogler G, 1998, WORLD J SURG, V22, P382, DOI 10.1007/s002689900401
+   Rosadoab S, 2008, HUM IMMUNOL, V69, P9, DOI 10.1016/j.humimm.2007.11.001
+   Rouas-Freiss N, 2007, SEMIN CANCER BIOL, V17, P413, DOI 10.1016/j.semcancer.2007.07.003
+   Silverberg MS, 2005, CAN J GASTROENTEROL, V19, p5A, DOI 10.1155/2005/269076
+   Torres MI, 2006, INT IMMUNOL, V18, P713, DOI 10.1093/intimm/dxl008
+   Torres MI, 2004, INT IMMUNOL, V16, P579, DOI 10.1093/intimm/dxh061
+   van der Meer A, 2007, MOL HUM REPROD, V13, P123, DOI 10.1093/molehr/gal100
+   Wallace KL, 2014, WORLD J GASTROENTERO, V20, P6, DOI 10.3748/wjg.v20.i1.6
+   Zhu CB, 2011, INT J CANCER, V128, P617, DOI 10.1002/ijc.25372
+   Zundler S, 2017, IMMUNOL REV, V278, P263, DOI 10.1111/imr.12544
+NR 50
+TC 7
+Z9 9
+U1 0
+U2 6
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0198-8859
+EI 1879-1166
+J9 HUM IMMUNOL
+JI Hum. Immunol.
+PD JUN
+PY 2018
+VL 79
+IS 6
+BP 477
+EP 484
+DI 10.1016/j.humimm.2018.03.006
+PG 8
+WC Immunology
+SC Immunology
+GA GF4NY
+UT WOS:000431940800010
+PM 29588183
+DA 2020-12-01
+ER
+
+PT J
+AU Mehta, R
+   Gerardin, P
+   de Brito, CAA
+   Soares, CN
+   Ferreira, MLB
+   Solomon, T
+AF Mehta, Ravi
+   Gerardin, Patrick
+   Antunes de Brito, Carlos Alexandre
+   Soares, Cristiane Nascimento
+   Brito Ferreira, Maria Lucia
+   Solomon, Tom
+TI The neurological complications of chikungunya virus: A systematic review
+SO REVIEWS IN MEDICAL VIROLOGY
+LA English
+DT Review
+DE acute disseminated encephalomyelitis; chikungunya; complications;
+   congenital infections; encephalitis; Guillain-Barre syndrome; myelitis;
+   neonatal infection; neurological; optic neuritis; retinitis; uveitis
+ID GUILLAIN-BARRE-SYNDROME; ZIKA VIRUS; NEONATAL CHIKUNGUNYA;
+   HEMORRHAGIC-FEVER; CASE DEFINITIONS; REUNION ISLAND; SINGLE-CENTER;
+   INFECTION; MANIFESTATIONS; DENGUE
+AB We performed a systematic review on the neurological complications of chikungunya virus. Such complications are being reported increasingly, owing primarily to the scale of recent epidemics but also to a growing understanding of the virus' neurovirulence. We performed a thorough literature search using PubMed and Scopus databases, summating the data on all published reports of neurological disease associated with chikungunya virus. We appraised the data for each major condition in adults, children, and neonates, as well as evaluating the latest evidence on disease pathogenesis and management strategies. The review provides a comprehensive summary for clinicians, public health officials, and researchers tackling the challenges associated with this important emerging pathogen.
+C1 [Mehta, Ravi; Solomon, Tom] Univ Liverpool, Natl Inst Hlth Res, Hlth Protect Res Unit Emerging & Zoonot Infect, Liverpool, Merseyside, England.
+   [Gerardin, Patrick] CHU Reunion, INSERM, CIC1410, St Pierre, Reunion, France.
+   [Gerardin, Patrick] Univ Reunion, CHU, CYROI, UM PIMIT CNRS 9192 134,INSERM,U1187,IRD 249, St Pierre, Reunion, France.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Dept Infect Dis, Recife, PE, Brazil.
+   [Soares, Cristiane Nascimento] Hosp Fed Servidores Estado, Dept Neurol, Rio De Janeiro, Brazil.
+   [Brito Ferreira, Maria Lucia] Hosp Restauracao, Dept Neurol, Ave Agamenon Magalhaes, Recife, PE, Brazil.
+   [Solomon, Tom] Walton Ctr NHS Fdn Trust, Dept Neurol, Liverpool, Merseyside, England.
+   [Mehta, Ravi; Solomon, Tom] Univ Liverpool, Inst Infect & Global Hlth, Liverpool L69 7BE, Merseyside, England.
+RP Mehta, R; Solomon, T (corresponding author), Univ Liverpool, Inst Infect & Global Hlth, Liverpool L69 7BE, Merseyside, England.
+EM ravi.mehta@liverpool.ac.uk; tsolomon@liv.ac.uk
+OI Solomon, Tom/0000-0001-7266-6547
+FU European Union's Horizon research and innovation programme [734584];
+   National Institute for Health Research Health Protection Research Unit
+   (NIHR HPRU); Medical Research CouncilMedical Research Council UK (MRC)
+   [MC_PC_15096]
+FX European Union's Horizon 2020 research and innovation programme,
+   Grant/Award Number: 734584; National Institute for Health Research
+   Health Protection Research Unit (NIHR HPRU); Medical Research Council,
+   Grant/Award Number: MC_PC_15096
+CR Abdelnabi R, 2016, METHODS MOL BIOL, V1426, P243, DOI 10.1007/978-1-4939-3618-2_22
+   Abraham R, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0075854
+   Acevedo Nathalie, 2017, Front Microbiol, V8, P42, DOI 10.3389/fmicb.2017.00042
+   Agarwal A, 2017, J NEUROVIROL
+   Akileswaran C, 2016, NEW ENGL J MED, V375, P1906, DOI 10.1056/NEJMc1611877
+   Alvarado-Socarras JL, 2016, J PEDIAT INF DIS SOC, V5, pE17, DOI 10.1093/jpids/piw021
+   Arragain L, 2017, J PEDIAT INF DIS SOC, V6, P324, DOI 10.1093/jpids/piw058
+   Balavoine S, 2017, AM J TROP MED HYG, V97, P356, DOI 10.4269/ajtmh.15-0753
+   Bandeira AC, 2016, IDCases, V6, P100, DOI 10.1016/j.idcr.2016.10.007
+   Bandeira AC, 2016, IDCases, V5, P57, DOI 10.1016/j.idcr.2016.07.008
+   Bank AM, 2016, J NEUROVIROL, V22, P125, DOI 10.1007/s13365-015-0372-9
+   Barnes G, 2002, NEUROLOGY, V59, P499, DOI 10.1212/wnl.59.4.499
+   Beckham JD, 2016, JAMA NEUROL, V73, P875, DOI 10.1001/jamaneurol.2016.0800
+   Benzekri R, 2016, AM J TROP MED HYG, V95, P180, DOI 10.4269/ajtmh.15-0547
+   Bhavana K, 2008, INT J PEDIATR OTORHI, V72, P257, DOI 10.1016/j.ijporl.2007.09.022
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Burt FJ, 2012, LANCET, V379, P662, DOI 10.1016/S0140-6736(11)60281-X
+   Campos GS, 2017, PEDIAT INFECT DIS J
+   CAREY D E, 1971, Journal of the History of Medicine and Allied Sciences, V26, P243
+   CAREY DE, 1969, T ROY SOC TROP MED H, V63, P434, DOI 10.1016/0035-9203(69)90030-3
+   Casolari S, 2008, SCAND J INFECT DIS, V40, P995, DOI 10.1080/00365540802419055
+   Centers for Disease Control and Prevention, 2016, COUNTRIES AND TERRIT
+   Cerny T, 2017, NEUROCRIT CARE
+   Chandak NH, 2009, NEUROL INDIA, V57, P177, DOI 10.4103/0028-3886.51289
+   Chang LJ, 2014, LANCET, V384, P2046, DOI 10.1016/S0140-6736(14)61185-5
+   Chatterjee S N, 1965, J Indian Med Assoc, V45, P314
+   Chiam CW, 2015, J GEN VIROL, V96, P3243, DOI 10.1099/jgv.0.000263
+   Chopra A, 2014, ARTHRITIS RHEUMATOL, V66, P319, DOI 10.1002/art.38221
+   Choudhary N, 2016, J CLIN DIAGN RES, V10, pOD19, DOI 10.7860/JCDR/2016/13095.7777
+   Chung SJ, 2013, J CLIN VIROL, V57, P187, DOI 10.1016/j.jcv.2013.01.004
+   Chusri S, 2011, AM J TROP MED HYG, V85, P386, DOI 10.4269/ajtmh.2011.10-0725
+   Crosby L, 2016, INT J INFECT DIS, V48, P78, DOI 10.1016/j.ijid.2016.05.010
+   Das S, 2014, J PEDIAT INF DIS-GER, V9, P37, DOI 10.3233/JPI-140414
+   Das T, 2015, J GEN VIROL, V96, P294, DOI 10.1099/vir.0.071175-0
+   Sa PKD, 2017, REV SOC BRAS MED TRO, V50, P265, DOI 10.1590/0037-8682-0375-2016
+   Dutta P, 2017, INT OPHTHALMOL
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Erasmus JH, 2017, NAT MED, V23, P192, DOI 10.1038/nm.4253
+   Ernould S, 2008, ARCH PEDIATRIE, V15, P253, DOI 10.1016/j.arcped.2007.10.019
+   Fritel X, 2010, EMERG INFECT DIS, V16, P418, DOI 10.3201/eid1603.091403
+   Frohman EM, 2010, NEW ENGL J MED, V363, P564, DOI 10.1056/NEJMcp1001112
+   Galatas B, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004281
+   Ganesan K, 2008, AM J NEURORADIOL, V29, P1636, DOI 10.3174/ajnr.A1133
+   Gauri L A, 2012, J Assoc Physicians India, V60, P68
+   Gay N, 2016, AM J TROP MED HYG, V94, P393, DOI 10.4269/ajtmh.15-0308
+   Gerardin P, 2016, NEUROLOGY, V86, P94, DOI 10.1212/WNL.0000000000002234
+   Gerardin P, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002996
+   Gerardin P, 2008, PLOS MED, V5, P413, DOI 10.1371/journal.pmed.0050060
+   Gopakumar H, 2012, J CLIN NEONATOL, V1, P155, DOI 10.4103/2249-4847.101704
+   Gupta D, 2015, INDIAN J PEDIATR, V82, P1065, DOI 10.1007/s12098-015-1751-1
+   Her ZS, 2015, EMBO MOL MED, V7, P24, DOI 10.15252/emmm.201404459
+   Horwood PF, 2017, EMERG MICROBES INFEC, V6, DOI 10.1038/emi.2017.15
+   Inglis FM, 2016, J NEUROVIROL, V22, P140, DOI 10.1007/s13365-015-0378-3
+   Jacobs BC, 1996, ANN NEUROL, V40, P181, DOI 10.1002/ana.410400209
+   JADHAV M, 1965, INDIAN J MED RES, V53, P764
+   Carod-Artal FJ, 2013, LANCET NEUROL, V12, P906, DOI 10.1016/S1474-4422(13)70150-9
+   Kalita J, 2013, INFECTION, V41, P727, DOI 10.1007/s15010-013-0406-2
+   Karthiga V, 2016, J PEDIATR NEUROSCI, V11, P223, DOI 10.4103/1817-1745.193369
+   Kashyap RS, 2014, NEUROIMMUNOMODULAT, V21, P338, DOI 10.1159/000358240
+   Kee ACL, 2010, EMERG INFECT DIS, V16, P1038, DOI 10.3201/eid1606.091115
+   Krishnan M, 2012, J GLOB INFECT DIS, V4, P207, DOI 10.4103/0974-777X.103898
+   Krupp LB, 2013, MULT SCLER J, V19, P1261, DOI 10.1177/1352458513484547
+   Lalitha P, 2007, AM J OPHTHALMOL, V144, P552, DOI 10.1016/j.ajo.2007.06.002
+   Lebrun G, 2009, EMERG INFECT DIS, V15, P495, DOI 10.3201/eid1503.071482
+   Lemant J, 2008, CRIT CARE MED, V36, P2536, DOI 10.1097/CCM.0b013e318183f2d2
+   Leparc-Goffart I, 2014, LANCET, V383, P514, DOI 10.1016/S0140-6736(14)60185-9
+   Lewthwaite P, 2009, EMERG INFECT DIS, V15, P329, DOI 10.3201/eid1502.080902
+   Lin J, 2016, OCUL IMMUNOL INFLAMM, P1
+   LUMSDEN W. H. R., 1955, TANGANYIKA TERRITORY IN 1952 53 II TRANS ROY SOC TROP MED AND HYG, V49, P33, DOI 10.1016/0035-9203(55)90081-X
+   Mahendradas P, 2008, OPHTHALMOLOGY, V115, P287, DOI 10.1016/j.ophtha.2007.03.085
+   Mahendradas P, 2013, J OPHTHALMIC INFLAMM, V3, DOI 10.1186/1869-5760-3-19
+   Mahendradas P, 2010, INDIAN J OPHTHALMOL, V58, P545, DOI 10.4103/0301-4738.71707
+   Mahesh G, 2009, INDIAN J OPHTHALMOL, V57, P148, DOI 10.4103/0301-4738.45508
+   Maity Pranab, 2014, J Assoc Physicians India, V62, P441
+   Martins HAL, 2016, J NEUROINFECT DIS, V7
+   Mittal A, 2007, ARCH OPHTHALMOL-CHIC, V125, P1381, DOI 10.1001/archopht.125.10.1381
+   Musso D, 2016, VIROL J, V13, DOI 10.1186/s12985-016-0556-9
+   Musthafa A K Mohamed, 2008, J Assoc Physicians India, V56, P473
+   Nagpal K, 2017, J NEUROVIROL
+   Nair AG, 2012, J OPHTHALMIC INFLAMM, V2, P39, DOI 10.1007/s12348-011-0038-6
+   Nascimento LB, 2017, LANCET INFECT DIS
+   Nelson J, 2014, J CLIN MICROBIOL, V52, P3459, DOI 10.1128/JCM.01288-14
+   NIMMANNITYA S, 1969, AM J TROP MED HYG, V18, P954, DOI 10.4269/ajtmh.1969.18.954
+   Oehler E, 2015, EUROSURVEILLANCE, V20, P13, DOI 10.2807/1560-7917.ES.2015.20.48.30079
+   Pan American Health Organisation, 2017, NEW CASES OF CHIKUNG
+   Powers AM, 2000, J GEN VIROL, V81, P471, DOI 10.1099/0022-1317-81-2-471
+   Priya R, 2014, VIRUS RES, V189, P194, DOI 10.1016/j.virusres.2014.05.010
+   Ramful D, 2007, PEDIATR INFECT DIS J, V26, P811, DOI 10.1097/INF.0b013e3180616d4f
+   Ramos R, 2017, PEDIAT INFECT DIS J
+   Rampal, 2007, J Assoc Physicians India, V55, P765
+   Ramsauer K, 2015, LANCET INFECT DIS, V15, P519, DOI 10.1016/S1473-3099(15)70043-5
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Ravichandran R, 2008, J INFECT DEV COUNTR, V2, P140, DOI 10.3855/T2.2.140
+   Ribeiro CF, 2013, J PEDIATR-US, V163, P1514, DOI 10.1016/j.jpeds.2013.06.040
+   Lyra PPR, 2016, AJP REP, V6, pE299, DOI 10.1055/s-0036-1587323
+   Robillard PY, 2006, PRESSE MED, V35, P785, DOI 10.1016/S0755-4982(06)74690-5
+   Robin S, 2008, J CHILD NEUROL, V23, P1028, DOI 10.1177/0883073808314151
+   ROBINSON M C, 1955, Trans R Soc Trop Med Hyg, V49, P28, DOI [10.1016/0035-9203(55)90080-8, 10.1016/0035-9203(57)90022-6]
+   Rocha VFD, 2017, OCUL IMMUNOL INFLAMM, P1
+   Rodriguez-Morales AJ, 2016, TRAVEL MED INFECT DI, V14, P177, DOI 10.1016/j.tmaid.2016.05.004
+   Rolle A, 2016, EMERG INFECT DIS, V22, P891, DOI 10.3201/eid2205.151449
+   Rose N, 2011, INT J INFECT DIS, V15, pE147, DOI 10.1016/j.ijid.2010.10.004
+   ROSS R. W., 1956, JOUR HYG, V54, P177
+   Rudolph KE, 2014, AM J TROP MED HYG, V90, P882, DOI 10.4269/ajtmh.13-0403
+   Samra JA, 2017, J CHILD NEUROL, V32, P712, DOI 10.1177/0883073817701879
+   Scott SSO, 2017, J NEUROVIROL
+   Scripsema Nicole K, 2015, Retin Cases Brief Rep, V9, P352, DOI 10.1097/ICB.0000000000000232
+   Sejvar JJ, 2007, VACCINE, V25, P5771, DOI 10.1016/j.vaccine.2007.04.060
+   SHAH KV, 1964, INDIAN J MED RES, V52, P676
+   Shaikh NJ, 2015, INDIAN J MED MICROBI, V33, P454, DOI 10.4103/0255-0857.158600
+   Sharma Swati, 2016, Infect Dis Obstet Gynecol, V2016, P5046091, DOI 10.1155/2016/5046091
+   Shenoy S, 2012, INDIAN PEDIATR, V49, P238
+   Silva LA, 2017, J CLIN INVEST, V127, P737, DOI 10.1172/JCI84417
+   Singh A, 2017, INDIAN PEDIATR, V54, P249, DOI 10.1007/s13312-017-1040-3
+   Singh SS, 2008, EPIDEMIOL INFECT, V136, P1277, DOI 10.1017/S0950268807009739
+   Sissoko D, 2008, T ROY SOC TROP MED H, V102, P780, DOI 10.1016/j.trstmh.2008.02.018
+   Smith DW, 2016, LANCET, V387, P1486, DOI 10.1016/S0140-6736(16)00564-X
+   Solomon T, 2012, J INFECTION, V64, P347, DOI 10.1016/j.jinf.2011.11.014
+   Solomon T, 2000, LANCET, V355, P1053, DOI 10.1016/S0140-6736(00)02036-5
+   Solomon T, 2004, INFECT CENTRAL NERVO
+   Staples JE, 2009, CLIN INFECT DIS, V49, P942, DOI 10.1086/605496
+   Suryawanshi SD, 2009, INDIAN J MED RES, V129, P438
+   Tandale BV, 2009, J CLIN VIROL, V46, P145, DOI 10.1016/j.jcv.2009.06.027
+   Taraphdar D, 2015, INDIAN J MED MICROBI, V33, pS153, DOI 10.4103/0255-0857.150946
+   Nunes MRT, 2015, BMC MED, V13, DOI 10.1186/s12916-015-0348-x
+   THIRUVENGADAM KV, 1965, INDIAN J MED RES, V53, P729
+   Torres JR, 2016, INT J INFECT DIS, V51, P85, DOI 10.1016/j.ijid.2016.09.009
+   Tournebize P, 2009, REV NEUROL-FRANCE, V165, P48, DOI 10.1016/j.neurol.2008.06.009
+   Tsetsarkin KA, 2007, PLOS PATHOG, V3, P1895, DOI 10.1371/journal.ppat.0030201
+   Vazeille M, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000706
+   Venkatesan A, 2013, CLIN INFECT DIS, V57, P1114, DOI 10.1093/cid/cit458
+   Villamil-Gomez WE, 2016, J INFECT PUBLIC HLTH
+   Villamil-Gomez W, 2016, ENFERM INFEC MICR CL, V34, P140, DOI 10.1016/j.eimc.2015.05.012
+   Villamil-Gomez W, 2015, J TROP PEDIATRICS, V61, P386, DOI 10.1093/tropej/fmv051
+   Villamil-Gomez WE, 2016, INT J INFECT DIS, V51, P135, DOI 10.1016/j.ijid.2016.07.017
+   Vishwanath S, 2014, INT OPHTHALMOL, V34, P851, DOI 10.1007/s10792-013-9891-7
+   Wadia R. S., 2007, Annals of the Indian Academy of Neurology, V10, P198
+   Weaver SC, 2015, ANTIVIR RES, V120, P32, DOI 10.1016/j.antiviral.2015.04.016
+   Weaver SC, 2015, NEW ENGL J MED, V372, P1231, DOI 10.1056/NEJMra1406035
+   Wielanek AC, 2007, NEUROLOGY, V69, P2105, DOI 10.1212/01.wnl.0000277267.07220.88
+   Willison HJ, 2016, LANCET, V388, P717, DOI 10.1016/S0140-6736(16)00339-1
+   Witayathawornwong P, 2012, SE ASIAN J TROP MED, V43, P62
+   Zambrano H, 2016, AM J TROP MED HYG, V95, P894, DOI 10.4269/ajtmh.16-0323
+NR 143
+TC 37
+Z9 39
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1052-9276
+EI 1099-1654
+J9 REV MED VIROL
+JI Rev. Med. Virol.
+PD MAY
+PY 2018
+VL 28
+IS 3
+AR e1978
+DI 10.1002/rmv.1978
+PG 24
+WC Virology
+SC Virology
+GA GF5TT
+UT WOS:000432031400005
+PM 29671914
+OA Other Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU de Albuquerque, MDPM
+   de Souza, WV
+   Araujo, TVB
+   Braga, MC
+   Miranda, DD
+   Ximenes, RAD
+   de Melo, DA
+   de Brito, CAA
+   Valongueiro, S
+   de Melo, APL
+   Brandao, SP
+   Martelli, CMT
+AF Pessoa Militao de Albuquerque, Maria de Fatima
+   de Souza, Wayner Vieira
+   Barreto Araujo, Thalia Velho
+   Braga, Maria Cynthia
+   Miranda-Filho, Democrito de Barros
+   de Alencar Ximenes, Ricardo Arraes
+   de Melo Filho, Djalma Agripino
+   Antunes de Brito, Carlos Alexandre
+   Valongueiro, Sandra
+   Lopes de Melo, Ana Paula
+   Brandao-Filho, Sinval Pinto
+   Turchi Martelli, Celina Maria
+TI The microcephaly epidemic and Zika virus: building knowledge in
+   epidemiology
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Zika Virus; Microcephaly; Epidemics
+ID BRAZIL; INFECTION; OUTBREAK; TRANSMISSION; ASSOCIATION; ANTIBODY;
+   INFANTS; CAUSAL; BRAIN; CHILD
+AB In August 2015, pediatric neurologists at public hospitals in Recife, Pernambuco State, Brazil, observed an increase in the number of disproportional microcephaly cases associated with other congenital anomalies. The fact caused social commotion and mobilization of the academic community and led the Brazilian Ministry of Health to declare a national public health emergency, followed by the declaration of a Public Health Emergency of International Concern by the World Health Organization. The hypothesis for the phenomenon was congenital Zika virus (ZIKV) infection, based on spatial-temporal correlation and the clinical-epidemiological characteristics of the two epidemics. Further evidence accumulated, and within the scope of epidemiological reasoning fulfilled the criteria that gave support to the hypothesis. The plausibility of the hypothesis is based on the neurotropism of ZIKV, demonstrated in animals, affecting neural progenitors in the developing brain, and in humans, due to neurological complications in adults following infection. Isolation of viral RNA and antigens in the amniotic fluid of infected mothers and in brains of newborns and fetuses with microcephaly further demonstrated the consistency of the hypothesis. The criterion of temporality was met by identifying adverse pregnancy outcomes in a cohort of mothers with a history of rash and positive ZIKV serology. Finally, the first case-control study demonstrated a strong association between microcephaly and congenital ZIKV infection. The knowledge built with the epidemiological paradigm was supported by the scientific community, thereby establishing the consensus for a causal relationship between ZIKV and the microcephaly epidemic.
+C1 [Pessoa Militao de Albuquerque, Maria de Fatima; de Souza, Wayner Vieira; Braga, Maria Cynthia; Brandao-Filho, Sinval Pinto; Turchi Martelli, Celina Maria] Fundacao Oswaldo Cruz, Inst Aggeu Magalhaes, Ave Moraes Rego S-N, BR-50740465 Recife, PE, Brazil.
+   [Barreto Araujo, Thalia Velho; Valongueiro, Sandra] Univ Fed Pernambuco, Dept Med Social, Recife, PE, Brazil.
+   [Miranda-Filho, Democrito de Barros] Univ Pernambuco, Fac Ciencias Med, Recife, PE, Brazil.
+   [de Alencar Ximenes, Ricardo Arraes] Univ Fed Pernambuco, Dept Med Trop, Recife, PE, Brazil.
+   [de Melo Filho, Djalma Agripino] Univ Fed Pernambuco, Nucleo Saude Publ & Desenvolvimento Social, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+   [Lopes de Melo, Ana Paula] Univ Fed Pernambuco, Dept Saude Comunitaria, Recife, PE, Brazil.
+RP de Souza, WV (corresponding author), Fundacao Oswaldo Cruz, Inst Aggeu Magalhaes, Ave Moraes Rego S-N, BR-50740465 Recife, PE, Brazil.
+EM wayner@cpqam.fiocruz.br
+RI Brandao-Filho, Sinval Pinto/AAP-4792-2020; Souza, Wayner V/H-3798-2013;
+   Braga, Maria Cynthia/A-8204-2013
+OI Brandao-Filho, Sinval Pinto/0000-0003-3768-2810; Braga, Maria
+   Cynthia/0000-0002-7862-6455; Turchi Martelli, Celina
+   Maria/0000-0002-2491-0688; Souza, Wayner/0000-0002-0939-9332
+CR Adams L, 2016, MMWR-MORBID MORTAL W, V65, P774, DOI 10.15585/mmwr.mm6530e1
+   Albuquerque MDPM, 2016, EMERG INFECT DIS, V22, P1090, DOI [10.32032/eid2206.160062, 10.3201/eid2206.160062]
+   de Brito CAA, 2016, REV SOC BRAS MED TRO, V49, P537, DOI 10.1590/0037-8682-0328-2016
+   Araujo LM, 2016, ARQ NEURO-PSIQUIAT, V74, P253, DOI 10.1590/0004-282X20160035
+   Ashwal S, 2009, NEUROLOGY, V73, P887, DOI 10.1212/WNL.0b013e3181b783f7
+   Bar-Yam Y ED, 2016, IS ZIKA CAUSE MICROC
+   de Araujo TVB, 2018, LANCET INFECT DIS, V18, P328, DOI 10.1016/S1473-3099(17)30727-2
+   Baud D, 2017, LANCET, V390, P2099, DOI [10.1016/S0140-6736(17)31450-2, 10.1016/s0140-6736(17)31450-2]
+   BELL TM, 1971, ARCH GES VIRUSFORSCH, V35, P183, DOI 10.1007/BF01249709
+   Beltrame A, 2015, EMERG INFECT DIS, V21, P1887, DOI 10.3201/eid2110.150869
+   Bermudez-Tamayo C, 2016, INFECT DIS POVERTY, V5, DOI 10.1186/s40249-016-0198-6
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Brito C, 2015, ACTA MEDICA PORT, V28, P679
+   Brito CAA, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005583
+   Ferreira MLB, 2017, AM J TROP MED HYG, V97, P1405, DOI 10.4269/ajtmh.17-0106
+   Butler Declan, 2016, Nature, V530, P13, DOI 10.1038/nature.2016.19259
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cao-Lormeau VM, 2014, EMERG INFECT DIS, V20, P1085, DOI 10.3201/eid2006.140138
+   Cauchemez S, 2016, LANCET, V387, P2125, DOI 10.1016/S0140-6736(16)00651-6
+   Cordeiro MT, 2016, J INFECT DIS, V214, P1897, DOI 10.1093/infdis/jiw477
+   Cordeiro MT, 2016, LANCET, V387, P1811, DOI 10.1016/S0140-6736(16)30253-7
+   Costa F, 2018, LANCET INFECT DIS, V18, P236, DOI 10.1016/S1473-3099(17)30697-7
+   Czeresnia D, 1998, TEORIA EPIDEMIOLOGIC, P63
+   de Araujo TVB, 2016, LANCET INFECT DIS, V16, P1356, DOI 10.1016/S1473-3099(16)30318-8
+   Cavalcanti LPD, 2016, J INFECT DEV COUNTR, V10, P563, DOI 10.3855/jidc.8575
+   de Souza WV, 2018, BMC PUBLIC HEALTH, V18, DOI 10.1186/s12889-018-5039-z
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   Departamento de Vigilancia das Doencas Transmissiveis Secretaria de Vigilancia em Saude Ministerio da Saude, 2015, PROT VIG RESP OC MIC
+   Devakumar D, 2018, LANCET INFECT DIS, V18, pE1, DOI [10.1016/S1473-3099(17)30398-5, 10.1016/s1473-3099(17)30398-5]
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P521, DOI 10.1016/0035-9203(52)90043-6
+   Dudley DM, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms12204
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Durbin AP, 2016, TRENDS IMMUNOL, V37, P635, DOI 10.1016/j.it.2016.08.006
+   Evans D, POSSIBLE LINK PYRIPR
+   Faria NR, 2016, SCIENCE, V352, P345, DOI 10.1126/science.aaf5036
+   Fine PEM, 2013, LANCET, V381, P1249, DOI 10.1016/S0140-6736(13)60766-7
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Frank C, 2016, EMBO MOL MED, V8, P305, DOI 10.15252/emmm.201506058
+   GIESECKE J, 2002, MODERN INFECT DIS EP
+   Hanzlik E, 2017, CHILDREN-BASEL, V4, DOI 10.3390/children4060047
+   Heymann DL, 2016, LANCET, V387, P719, DOI 10.1016/S0140-6736(16)00320-2
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Kleber de Oliveira Wanderson, 2016, MMWR Morb Mortal Wkly Rep, V65, P242, DOI 10.15585/mmwr.mm6509e2
+   KUHN T.S., 1998, ESTRUTURA REVOLUCOES
+   Li C, 2016, CELL STEM CELL, V19, P120, DOI 10.1016/j.stem.2016.04.017
+   Lowe R, 2018, INT J ENV RES PUB HE, V15, DOI 10.3390/ijerph15010096
+   Luz KG, 2015, EPIDEMIOL SERV SAUDE, V24, P785, DOI 10.5123/S1679-49742015000400021
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P159, DOI 10.15585/mmwr.mm6506e1
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Melo Filho D., EPIDEMIOLOGIA SOCIAL
+   Meneses JD, 2017, CLIN INFECT DIS, V64, P1302, DOI 10.1093/cid/cix166
+   Ministerio da Saude, MIN SAUD CONF REL EN
+   Ministerio da Saude, 012015 MIN SAUD
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Moher D, 2009, BMJ-BRIT MED J, V339, DOI [10.1136/bmj.b2535, 10.1371/journal.pmed.1000097]
+   Munoz FM, 2014, JAMA-J AM MED ASSOC, V311, P1760, DOI 10.1001/jama.2014.3633
+   Musso D, 2014, CLIN MICROBIOL INFEC, V20, pO595, DOI 10.1111/1469-0691.12707
+   Musso D, 2015, EMERG INFECT DIS, V21, P1887, DOI 10.3201/eid2110.151125
+   Nelvo Romário Vieira, 2016, Sex., Salud Soc. (Rio J.), V0, P246, DOI 10.1590/1984-6487.sess.2016.24.11.r
+   Oehler E., 2014, Eurosurveillance, V19, P20720
+   Pan American Health Organization, 2017, ZIK EP UPD SIT SUMM
+   Petersen LR, 2016, NEW ENGL J MED, V374, P1552, DOI 10.1056/NEJMra1602113
+   Porta M, 2014, DICT EPIDEMIOLOGY
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Rothman K.J., MODERN EPIDEMIOLOGY
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   Secretaria de Vigilancia em Saude/Ministerio da Saude, 2017, B EPIDEMIOLOGICO, V48
+   Secretaria Executiva de Vigilancia em Saude Secretaria Estadual de Saude do Estado de Pernambuco, 4315 SEVSDGCDA
+   Souza AD, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00064615
+   Tetro JA, 2016, MICROBES INFECT, V18, P167, DOI 10.1016/j.micinf.2015.12.010
+   Tsai TF, 2006, PEDIATRICS, V117, P936, DOI 10.1542/peds.2005-2729
+   van der Linden V, 2016, BMJ-BRIT MED J, V354, DOI 10.1136/bmj.i3899
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+   Victora CG, 2016, LANCET, V387, P621, DOI 10.1016/S0140-6736(16)00273-7
+   Vogel G, 2016, SCIENCE, V354, P1088, DOI 10.1126/science.354.6316.1088
+   Walls T, 2016, BMJ OPEN, V6, DOI 10.1136/bmjopen-2015-009536
+   Wikan N, 2016, LANCET INFECT DIS, V16, pE119, DOI 10.1016/S1473-3099(16)30010-X
+   World Health Organization, WHO DIR GEN SUMM OUT
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 80
+TC 9
+Z9 9
+U1 0
+U2 3
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PY 2018
+VL 34
+IS 10
+AR e00069018
+DI 10.1590/0102-311X00069018
+PG 14
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA GX3WF
+UT WOS:000447657100001
+PM 30328996
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+AF Antunes de Brito, Carlos Alexandre
+TI Alert: Severe cases and deaths associated with Chikungunya in Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Review
+DE Chikungunya; Lethality; Severe cases; Epidemiology; Review
+ID REUNION ISLAND; RISK-FACTORS; DENGUE; VIRUS; INFECTION; EPIDEMIC;
+   OUTBREAK; INDIA; FEVER; MORTALITY
+AB Since the detection of the Chikungunya virus in America in 2013, two million cases of the disease have been notified worldwide. Severe cases and deaths related to Chikungunya have been reported in India and Reunion Island, estimated at 1 death per 1,000 inhabitants. Joint involvement in the acute and chronic phase is the main clinical manifestation associated with Chikungunya. The severity of the infection may be directly attributable to viral action or indirectly, owing to decompensation of preexisting comorbidities. In Brazil, the virus was identified in 2014, and recently, there has been a significant increase in the number of deaths caused by the Chikungunya virus infection, especially in Pernambuco. However, the numbers of fatalities are probably underreported, since for many cases, the diagnosis of Chikungunya infection may not be considered, for deaths by indirect causes. An increase in the mortality rate within months of epidemic occurrence, compared to previous years has also been reported and may be associated with Chikungunya virus infection. An in-depth investigation of reported mortality in Brazil is necessary, to measure the actual impact of the deaths, thereby, allowing the identification of possible causes. This will alert professionals about the risks, and hence, enable creation of protocols that target reducing mortality.
+C1 [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Dept Med Clin, Fac Med, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Fundacao Oswaldo Cruz, Dept Virol, Ctr Pesquisa Aggeu Magalhaes, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Med Clin, Fac Med, Recife, PE, Brazil.; de Brito, CAA (corresponding author), Fundacao Oswaldo Cruz, Dept Virol, Ctr Pesquisa Aggeu Magalhaes, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+CR Balmaseda A, 2006, TROP MED INT HEALTH, V11, P935, DOI 10.1111/j.1365-3156.2006.01641.x
+   Beesoon S, 2008, EMERG INFECT DIS, V14, P337, DOI 10.3201/eid1402.071024
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Brasil. Ministerio da Saude, 2016, B EPIDEMIOL, V47, P1
+   Cavalcanti LPD, 2016, AM J TROP MED HYG, V94, P187, DOI 10.4269/ajtmh.15-0392
+   Dussart P, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001482
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Javelle E, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003603
+   Josseran L, 2006, EMERG INFECT DIS, V12, P1994
+   Manimunda SP, 2011, EPIDEMIOL INFECT, V139, P1410, DOI 10.1017/S0950268810002542
+   Manimunda SP, 2010, AM J TROP MED HYG, V83, P751, DOI 10.4269/ajtmh.2010.09-0433
+   Mavalankar D, 2008, EMERG INFECT DIS, V14, P412, DOI 10.3201/eid1403.070720
+   Mavalankar D, 2007, LANCET INFECT DIS, V7, P306, DOI 10.1016/S1473-3099(07)70091-9
+   Morrison TE, 2014, J VIROL, V88, P11644, DOI 10.1128/JVI.01432-14
+   Ramachandran V, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0051519
+   Renault P, 2007, AM J TROP MED HYG, V77, P727
+   Rodriguez-Morales AJ, 2016, ARTHRIT CARE RES, V68, P1849, DOI 10.1002/acr.22900
+   Schilte C, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002137
+   Secretaria de Saude. Secretaria Executiva de Vigilancia a Saude, 2016, 34SE SECR SAUD SECR
+   Thiberville SD, 2013, ANTIVIR RES, V99, P345, DOI 10.1016/j.antiviral.2013.06.009
+   Van Benthem BHB, 2005, AM J TROP MED HYG, V72, P201, DOI 10.4269/ajtmh.2005.72.201
+NR 21
+TC 24
+Z9 24
+U1 0
+U2 5
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD SEP-OCT
+PY 2017
+VL 50
+IS 5
+BP 585
+EP 589
+DI 10.1590/0037-8682-0479-2016
+PG 5
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA FM1JU
+UT WOS:000414732300002
+PM 29160503
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Fernandes, AIV
+   Mendes, CL
+   Simoes, RH
+   Silva, AEVF
+   Madruga, CB
+   de Brito, CAA
+   Castellano, LR
+   Cordeiro, MT
+AF Vieira Fernandes, Ana Isabel
+   Mendes, Ciro Leite
+   Simoes, Raissa Holmes
+   Vieira Fernandes Silva, Ana Elisa
+   Madruga, Clarissa Barros
+   Antunes de Brito, Carlos Alexandre
+   Castellano, Lucio Roberto
+   Cordeiro, Marli Tenorio
+TI Cardiac tamponade in a patient with severe dengue fever
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Dengue; Severe dengue; Cardiac tamponade
+ID MYOCARDITIS; INFECTION
+AB A 26-year-old postpartum female presented with symptoms characteristic of dengue fever on the 16th day of puerperium. On the third day of the illness, the patient presented a clinical picture consistent with shock. Tests determined primary infection with dengue virus serotype 2. Cardiac tamponade was confirmed by echocardiography. This rare manifestation is described in a patient without any associated comorbidity.
+C1 [Vieira Fernandes, Ana Isabel; Simoes, Raissa Holmes; Vieira Fernandes Silva, Ana Elisa; Madruga, Clarissa Barros] Univ Fed Paraiba, Serv Doencas Infecciosas & Parasitarias, Hosp Univ Lauro Wanderley, Joao Pessoa, Paraiba, Brazil.
+   [Vieira Fernandes, Ana Isabel; Castellano, Lucio Roberto] Univ Fed Paraiba, Escola Tecn Saude, Grp Estudos & Pesquisas Imunol Humana, Joao Pessoa, Paraiba, Brazil.
+   [Mendes, Ciro Leite] Univ Fed Paraiba, Hosp Univ Lauro Wanderley, Unidade Terapia Intens, Joao Pessoa, Paraiba, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+   [Cordeiro, Marli Tenorio] Fundacao Oswaldo Cruz, Ctr Pesquisas Aggeu Magalhaes, Lab Virol & Terapia Expt, Recife, PE, Brazil.
+RP Fernandes, AIV (corresponding author), Univ Fed Paraiba, Serv Doencas Infecciosas & Parasitarias, Hosp Univ Lauro Wanderley, Joao Pessoa, Paraiba, Brazil.; Fernandes, AIV (corresponding author), Univ Fed Paraiba, Escola Tecn Saude, Grp Estudos & Pesquisas Imunol Humana, Joao Pessoa, Paraiba, Brazil.
+EM anaisabelvf@gmail.com
+RI Castellano, Lucio/D-8887-2015
+OI Castellano, Lucio/0000-0003-0851-5298
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq),
+   BrazilNational Council for Scientific and Technological Development
+   (CNPq) [576214/2008-6]
+FX This work was supported by Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq), Brazil, grant 576214/2008-6.
+CR Bendwal Suresh, 2014, J Assoc Physicians India, V62, P257
+   Gupta VK, 2010, JIACM, V11, P107
+   Kularatne SAM, 2007, T ROY SOC TROP MED H, V101, P804, DOI 10.1016/j.trstmh.2007.02.021
+   Kumar Sunil, 2010, J Intensive Care Med, V25, P175, DOI 10.1177/0885066609358955
+   Miranda CH, 2013, EUR HEART J-ACUTE CA, V2, P127, DOI 10.1177/2048872613475889
+   Miranda CH, 2013, CLIN INFECT DIS, V57, P812, DOI 10.1093/cid/cit403
+   Motla M, 2011, PREHOSP DISASTER MED, V26, P335, DOI 10.1017/S1049023X11006637
+   NAGARATNAM N, 1973, BRIT HEART J, V35, P204
+   Oliveira Ricardo Villar Barbosa de, 2010, Radiol Bras, V43, P401, DOI 10.1590/S0100-39842010000600013
+   Pesaro Antonio Eduardo, 2007, Arq. Bras. Cardiol., V89, pe12, DOI 10.1590/S0066-782X2007001400015
+   Pothapregada S, 2016, INDIAN J PEDIATR, V83, P493, DOI 10.1007/s12098-015-1942-9
+   Weerakoon Kosala Gad, 2011, BMC Res Notes, V4, P268, DOI 10.1186/1756-0500-4-268
+   Wiwanitkit V, 2008, ACTA CARDIOL SIN, V24, P226
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+   World Health Organization, 1997, DENG HAEM FEV DIAGN
+NR 15
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD SEP-OCT
+PY 2017
+VL 50
+IS 5
+BP 701
+EP 705
+DI 10.1590/0037-8682-0361-2016
+PG 5
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA FM1JU
+UT WOS:000414732300021
+PM 29160522
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   Teixeira, MG
+AF Antunes de Brito, Carlos Alexandre
+   Teixeira, Maria Gloria
+TI Increased number of deaths during a chikungunya epidemic in Pernambuco,
+   Brazil
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE chikungunya; arbovirus; increased death; Pernambuco
+ID DENGUE; FEVER
+AB In early 2016, it was suspected that there were more deaths in Pernambuco than in previous years during an epidemic of chikungunya. This study tested whether there was an increased number of deaths and, if so, whether this increase could be related to a chikungunya epidemic. Indeed, there was an increase of 4235 deaths in 2016 compared to the average of the four previous years, and the highest differences were found during the peak period of the epidemic. It was evident that not all of these deaths could be attributed to complications of chikungunya. However, considering the temporal overlap, some of these deaths may have been caused by the aggravation of pre-existing comorbidities or complications caused directly by chikungunya virus infection.
+C1 [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Recife, PE, Brazil.
+   [Teixeira, Maria Gloria] Univ Fed Bahia, Inst Saude Colet, Salvador, BA, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+RI Teixeira, Maria Gloria/G-4808-2012
+OI Teixeira, Maria Gloria/0000-0003-3318-3408
+CR Beesoon S, 2008, EMERG INFECT DIS, V14, P337, DOI 10.3201/eid1402.071024
+   Collucci C, 2016, BMJ-BRIT MED J, V355, DOI 10.1136/bmj.i6360
+   Cavalcanti LPD, 2016, AM J TROP MED HYG, V94, P187, DOI 10.4269/ajtmh.15-0392
+   Figueiro AC, 2011, CAD SAUDE PUBLICA, V27, P2373, DOI 10.1590/S0102-311X2011001200009
+   Mavalankar D, 2008, EMERG INFECT DIS, V14, P412, DOI 10.3201/eid1403.070720
+   MS - Ministerio da Saude. DATASUS, 2016, SIST INF HOSP SUS MO
+   SESPE - Secretaria de Saude do Estado de Pernambuco, 2016, INF EP 48 SE50
+   Solet J. L., 2007, PLOS BIOL, V77, P727
+NR 8
+TC 15
+Z9 16
+U1 0
+U2 8
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD SEP
+PY 2017
+VL 112
+IS 9
+BP 650
+EP 651
+DI 10.1590/0074-02760170124
+PG 2
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA FG7HB
+UT WOS:000410585100010
+PM 28902292
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Meneses, JD
+   Ishigami, AC
+   de Mello, LM
+   de Albuquerque, LL
+   de Brito, CAA
+   Cordeiro, MT
+   Pena, LJ
+AF Meneses, Jucille do Amaral
+   Ishigami, Ana Catarina
+   de Mello, Luisa Medeiros
+   de Albuquerque, Luciano Lira
+   Antunes de Brito, Carlos Alexandre
+   Cordeiro, Marli Tenorio
+   Pena, Lindomar Jose
+TI Lessons Learned at the Epicenter of Brazil's Congenital Zika Epidemic:
+   Evidence From 87 Confirmed Cases
+SO CLINICAL INFECTIOUS DISEASES
+LA English
+DT Article
+DE congenital Zika syndrome (CZS); microcephaly; diaphragm paralysis; Zika
+   virus; immunoglobulin M
+ID VIRUS-INFECTION; DIAPHRAGMATIC PARALYSIS; ASSOCIATION; ANTIBODY; INFANTS
+AB Congenital Zika virus infection has stimulated great international concern. A prospective case series of 87 infants with laboratory- confirmed congenital Zika syndrome (CZS) at the epicenter of the Brazilian Zika epidemic in Pernambuco state is presented. Mothers were interviewed for symptoms of possible Zika virus (ZIKV) infection during pregnancy, and fetal ultrasounds were obtained. Infant cerebrospinal fluid (CSF) samples were tested for ZIKV-specific antibodies, and sera were screened for other congenital infections. Neuroimaging and ophthalmologic evaluations were also performed. Sixty-six mothers (76%) reported symptoms of ZIKV infection during gestation. Fetal ultrasounds were available from 90% of the mothers, and all demonstrated brain structural abnormalities. All of the CSF samples tested positive for ZIKV immunoglobulin M. The majority of infants (89%) were term; the mean birth weight was 2577 +/- 260 g, and the mean head circumference was 28.1 +/- 1.8 cm. Severe microcephaly, defined as head circumference 3 SD below the mean for sex and gestational age, was found in 72 (82%) infants. All infants had an abnormal neurological exam, and 18 (20.7%) had arthrogryposis. The main abnormalities detected in computed tomography scans were calcifications (99%), followed by ventricular enlargement (94%), cortical hypogyration (81%), and less commonly, cerebellar hypoplasia (52%). Unilateral diaphragm paralysis was identified in 3 infants. Maternal young age, term infant, small for gestational age, and the presence of ophthalmologic abnormalities were significantly associated with a smaller head circumference Z score. Our findings, based on laboratory-confirmed ZIKV infection, add valuable evidence for the understanding of CZS.
+C1 [Meneses, Jucille do Amaral; Ishigami, Ana Catarina; de Mello, Luisa Medeiros; de Albuquerque, Luciano Lira] Prof Fernando Figueira Integral Med Inst, Div Neonatol, Recife, PE, Brazil.
+   [Cordeiro, Marli Tenorio; Pena, Lindomar Jose] Oswaldo Cruz Fdn Fiocruz, Dept Virol, Ave Prof Moraes Rego, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Dept Clin Med, Recife, PE, Brazil.
+RP Pena, LJ (corresponding author), Oswaldo Cruz Fdn Fiocruz, Dept Virol, Ave Prof Moraes Rego, Recife, PE, Brazil.
+EM lindomar.pena@cpqam.fiocruz.br
+FU CNPqNational Council for Scientific and Technological Development
+   (CNPq); FACEPE (Foundation of Science and Technology of Pernambuco
+   State)
+FX L. J. P. is supported by grants from CNPq and FACEPE (Foundation of
+   Science and Technology of Pernambuco State).
+CR Ansari MK, 2010, NEUROL INDIA, V58, P596, DOI 10.4103/0028-3886.68662
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Brito C, 2015, ACTA MEDICA PORT, V28, P679
+   de Araujo TVB, 2016, LANCET INFECT DIS, V16, P1356, DOI 10.1016/S1473-3099(16)30318-8
+   Melo ASD, 2016, JAMA NEUROL, V73, P1407, DOI 10.1001/jamaneurol.2016.3720
+   de Oliveira-Szejnfeld PS, 2016, RADIOLOGY, V281, P203, DOI 10.1148/radiol.2016161584
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   Driggers RW, 2016, NEW ENGL J MED, V374, P2142, DOI 10.1056/NEJMoa1601824
+   Durbin AP, 2016, TRENDS IMMUNOL, V37, P635, DOI 10.1016/j.it.2016.08.006
+   Fenton TR, 2013, BMC PEDIATR, V13, DOI 10.1186/1471-2431-13-59
+   Franca GVA, 2016, LANCET, V388, P891, DOI 10.1016/S0140-6736(16)30902-3
+   Hazin AN, 2016, NEW ENGL J MED, V374, P2193, DOI 10.1056/NEJMc1603617
+   Klein Jessica L, 2016, Cerebellum Ataxias, V3, P1, DOI 10.1186/s40673-016-0039-1
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Martines RB, 2016, LANCET, V388, P898, DOI 10.1016/S0140-6736(16)30883-2
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Miner JJ, 2016, CELL, V165, P1080, DOI 10.1016/j.cell.2016.05.008
+   Neu N, 2015, CLIN PERINATOL, V42, P77, DOI 10.1016/j.clp.2014.11.001
+   Pan American Health Organization/World Health Organization, 2016, ZIK SUSP CONF CAS RE
+   Rasmussen SA, 2016, NEW ENGL J MED, V374, P1981, DOI 10.1056/NEJMsr1604338
+   Ratnayake EC, 2012, BMC INFECT DIS, V12, DOI 10.1186/1471-2334-12-46
+   Schuler-Faccini L, 2016, MMWR-MORBID MORTAL W, V65, P59, DOI 10.15585/mmwr.mm6503e2
+   van der Linden V, 2016, MMWR-MORBID MORTAL W, V65, P1343, DOI 10.15585/mmwr.mm6547e2
+   van der Linden V, 2016, BMJ-BRIT MED J, V354, DOI 10.1136/bmj.i3899
+   Aragao MDV, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1901
+   Ventura CV, 2016, JAMA OPHTHALMOL, V134, P912, DOI 10.1001/jamaophthalmol.2016.1784
+   Villar J, 2014, LANCET, V384, P857, DOI 10.1016/S0140-6736(14)60932-6
+NR 27
+TC 50
+Z9 50
+U1 0
+U2 9
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 1058-4838
+EI 1537-6591
+J9 CLIN INFECT DIS
+JI Clin. Infect. Dis.
+PD MAY 15
+PY 2017
+VL 64
+IS 10
+BP 1302
+EP 1308
+DI 10.1093/cid/cix166
+PG 7
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA EU3EX
+UT WOS:000400912500002
+PM 28329257
+OA Bronze
+DA 2020-12-01
+ER
+
+PT J
+AU Lucena-Silva, N
+   Assuncao, MELSD
+   Ramos, FAP
+   Azevedo, F
+   Lessa, R
+   Cordeiro, MT
+   de Brito, CAA
+AF Lucena-Silva, Norma
+   Sales de Melo Assuncao, Maria Elisa Lucena
+   Pereira Ramos, Frederico Antonio
+   Azevedo, Fernanda
+   Lessa Junior, Ronaldo
+   Cordeiro, Marli Tenorio
+   Antunes de Brito, Carlos Alexandre
+TI Encephalitis associated with inappropriate antidiuretic hormone
+   secretion due to chikungunya infection in Recife, State of Pernambuco,
+   Brazil
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE CHIKV; Encephalitis; Syndrome of inappropriate antidiuretic hormone
+   hypersecretion
+ID VIRUS; MANIFESTATIONS
+AB The symptoms of chikungunya virus (CHIKV) infection include fever, headache, muscle aches, skin rash, and polyarthralgia, characterized by intense pain, edema, and temporary functional impairment. This is the first report of encephalitis caused by CHIKV infection associated with an atypical presentation of syndrome of inappropriate antidiuretic hormone secretion, evolving to cognitive impairment and apraxia of speech.
+C1 [Lucena-Silva, Norma] Fundacao Oswaldo Cruz, Dept Imunol, Ctr Pesquisas Aggeu Magalhaes, Recife, PE, Brazil.
+   [Sales de Melo Assuncao, Maria Elisa Lucena] Univ Pernambuco, Pronto Socorro Cardiol Pernambuco, Recife, PE, Brazil.
+   [Pereira Ramos, Frederico Antonio; Azevedo, Fernanda] Hosp Santa Joana, Recife, PE, Brazil.
+   [Lessa Junior, Ronaldo] Univ Pernambuco, Dept Radiol, Recife, PE, Brazil.
+   [Cordeiro, Marli Tenorio] Fundacao Oswaldo Cruz, Dept Virol, Ctr Pesquisas Aggeu Magalhaes, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Dept Med Interna, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Med Interna, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+RI Lucena-Silva, Norma/AAH-9437-2019
+CR Chandak NH, 2009, NEUROL INDIA, V57, P177, DOI 10.4103/0028-3886.51289
+   Chusri S, 2011, AM J TROP MED HYG, V85, P386, DOI 10.4269/ajtmh.2011.10-0725
+   Crosby L, 2016, INT J INFECT DIS, V48, P78, DOI 10.1016/j.ijid.2016.05.010
+   Economopoulou A, 2009, EPIDEMIOL INFECT, V137, P534, DOI 10.1017/S0950268808001167
+   Gerardin P, 2016, NEUROLOGY, V86, P94, DOI 10.1212/WNL.0000000000002234
+   Rajapakse S, 2010, T ROY SOC TROP MED H, V104, P89, DOI 10.1016/j.trstmh.2009.07.031
+   Rampal M., 2007, J ASSOC PHYSICIAN I, V55, P765
+   Robin S, 2008, J CHILD NEUROL, V23, P1028, DOI 10.1177/0883073808314151
+   Secretaria Executiva de Vigilancia em Saude, 24SE SECR EX VIG SAU
+   Shaikh NJ, 2015, INDIAN J MED MICROBI, V33, P454, DOI 10.4103/0255-0857.158600
+   Taraphdar D, 2015, INDIAN J MED MICROBI, V33, pS153, DOI 10.4103/0255-0857.150946
+   Nunes MRT, 2015, BMC MED, V13, DOI 10.1186/s12916-015-0348-x
+NR 12
+TC 0
+Z9 1
+U1 0
+U2 0
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD MAY-JUN
+PY 2017
+VL 50
+IS 3
+BP 417
+EP 422
+DI 10.1590/0037-8682-0434-2016
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA FA4LY
+UT WOS:000405416000024
+PM 28700066
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Ferreira, MLB
+   de Brito, CAA
+   Moreira, AJP
+   Machado, MID
+   Henriques-Souza, A
+   Cordeiro, MT
+   Marques, ETD
+   Pena, LJ
+AF Brito Ferreira, Maria Lucia
+   Antunes de Brito, Carlos Alexandre
+   Porto Moreira, Alvaro Jose
+   de Morais Machado, Maria Iris
+   Henriques-Souza, Adelia
+   Cordeiro, Marli Tenorio
+   de Azevedo Marques, Ernesto Torres, Jr.
+   Pena, Lindomar Jose
+TI Guillain-Barre Syndrome, Acute Disseminated Encephalomyelitis and
+   Encephalitis Associated with Zika Virus Infection in Brazil: Detection
+   of Viral RNA and Isolation of Virus during Late Infection
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID POLYMERASE-CHAIN-REACTION; TRANSMISSION
+AB Zika virus (ZIKV) emerged in Brazil in 2015, which was followed by an increase of Guillain-Barre Syndrome (GBS) cases. We report the epidemiological, clinical, and laboratory findings of the first six neurological cases associated with ZIKV in Brazil seen in a reference neurology hospital in Pernambuco, Brazil. In all cases, ZIKV was detected in serum and/or cerebrospinal fluid (CSF) samples. In this case series, four cases were defined as GBS, one as acute disseminated encephalomyelitis (ADEM) and the other as encephalitis. ZIKV was detected in all cases by RT-PCR and virus isolation was successful in two patients. The time between ZIKV acute symptoms and the development of neurological manifestations varied from 3 to 13 days and ZIKV was detected between 15 and 34 days after the initial symptoms. Our results highlight the need to include ZIKV as a differential diagnosis for neurological syndromes in countries with circulation of this arbovirus. Because the viremia in these patients appears to persist longer, direct diagnostic techniques such as RT-PCR and viral isolation should be considered even if it is after the acute phase of viral infection.
+C1 [Brito Ferreira, Maria Lucia; Porto Moreira, Alvaro Jose; de Morais Machado, Maria Iris] Hosp Restorat, Dept Neurol, Recife, PE, Brazil.
+   [Antunes de Brito, Carlos Alexandre] Fed Univ Pernambuco UFPE, Dept Med, Av Prof Moraes Rego 1235,Cidade Univ, BR-50670901 Recife, PE, Brazil.
+   [Henriques-Souza, Adelia] Hosp Restauracao, Dept Pediat, Recife, PE, Brazil.
+   [Cordeiro, Marli Tenorio; de Azevedo Marques, Ernesto Torres, Jr.; Pena, Lindomar Jose] Fundacao Oswaldo Cruz, Aggeu Magalhaes Inst, FIOCRUZ, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Fed Univ Pernambuco UFPE, Dept Med, Av Prof Moraes Rego 1235,Cidade Univ, BR-50670901 Recife, PE, Brazil.
+EM lucabrito@uol.com.br; cbritoc@gmail.com; alvarojpm@yahoo.com.br;
+   irismorais@terra.com.br; adelianeuro@gmail.com; marli.tenorio@gmail.com;
+   marques@pitt.edu; lindomar.pena@cpqam.fiocruz.br
+RI Marques, Ernesto T. A/L-4967-2013
+OI Marques, Ernesto T. A/0000-0003-3826-9358
+FU FACEPE; CNPqNational Council for Scientific and Technological
+   Development (CNPq)
+FX LJP is supported by grants from FACEPE and CNPq.
+CR [Anonymous], 2016, ZIK EP UPD, P1
+   Atkinson B, 2016, EMERG INFECT DIS, V22, P940, DOI 10.3201/eid2205.160107
+   Balm MND, 2012, J MED VIROL, V84, P1501, DOI 10.1002/jmv.23241
+   Brasil P, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004636
+   Brazilian Ministry of Health, 2015, PROT AT SAUD RESP OC
+   Cao-Lormeau VM, 2016, LANCET, V387, P1531, DOI 10.1016/S0140-6736(16)00562-6
+   Carteaux G, 2016, NEW ENGL J MED, V374, P1595, DOI 10.1056/NEJMc1602964
+   Control ECfDPa, 2014, RAP RISK ASS ZIK VIR
+   Faye O, 2008, J CLIN VIROL, V43, P96, DOI 10.1016/j.jcv.2008.05.005
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Hills SL, 2016, MMWR-MORBID MORTAL W, V65, P215, DOI 10.15585/mmwr.mm6508e2
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Mansuy JM, 2016, LANCET INFECT DIS, V16, P405, DOI 10.1016/S1473-3099(16)00138-9
+   Marli T, 2016, J INFECT DIS, V214, P1897
+   Mecharles S, 2016, LANCET, V387, P1481, DOI 10.1016/S0140-6736(16)00644-9
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Musso D, 2014, CLIN MICROBIOL INFEC, V20, pO595, DOI 10.1111/1469-0691.12707
+   Oehler E., 2014, Eurosurveillance, V19, P20720
+   Pan American Health Organization, 2015, 1 DEC 2015 NEUR SYND
+   Parra B, 2016, NEW ENGL J MED, V375, P1513, DOI 10.1056/NEJMoa1605564
+   Petersen LR, 2016, NEW ENGL J MED, V374, P1552, DOI 10.1056/NEJMra1602113
+   Smith DW, 2016, LANCET, V387, P1486, DOI 10.1016/S0140-6736(16)00564-X
+   Venturi G, 2016, EUROSURVEILLANCE, V21, P2, DOI 10.2807/1560-7917.ES.2016.21.8.30148
+NR 24
+TC 25
+Z9 26
+U1 0
+U2 2
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2017
+VL 97
+IS 5
+BP 1405
+EP 1409
+DI 10.4269/ajtmh.17-0106
+PG 5
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FT5VW
+UT WOS:000423222300020
+PM 29140242
+OA Bronze, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   von Sohsten, AKA
+   Leitao, CCD
+   de Brito, RDCM
+   Valadares, LDD
+   da Fonte, CAM
+   de Mesquita, ZB
+   Cunha, RV
+   Luz, K
+   Leao, HMC
+   de Brito, CM
+   Frutuoso, LCV
+AF Antunes de Brito, Carlos Alexandre
+   Arraes von Sohsten, Ana Karla
+   de Sa Leitao, Clezio Cordeiro
+   Coelho Moraes de Brito, Rita de Cssia
+   de Azevedo Valadares, Lilian David
+   Magnata da Fonte, Caroline Araujo
+   de Mesquita, Zelina Barbosa
+   Cunha, Rivaldo Venancio
+   Luz, Kleber
+   Carneiro Leao, Helena Maria
+   de Brito, Cecilia Moraes
+   Vinhal Frutuoso, Livia Carla
+TI Pharmacologic management of pain in patients with Chikungunya: a
+   guideline
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Review
+DE Chikungunya; Pain; Arthralgia; Arbovirus; Treatment
+ID VIRUS-INFECTION; PERSISTENT ARTHRALGIA; REUNION ISLAND; ARTHRITIS;
+   MANIFESTATIONS; CHLOROQUINE; SEVERITY; THERAPY; COHORT
+AB From the arrival of Chikungunya virus in the Americas in 2013 until March 2016, approximately two million cases of the disease have been reported. In Brazil, the virus was identified in 2014 and thousands of people have been affected. The disease has high attack rates, infecting 50% of a population within a few months. Approximately 50% of infected people develop chronic symptoms lasting for months or years. Joint involvement is the main clinical manifestation of Chikungunya. It is characterized by swelling and intense pain that is poorly responsive to analgesics, both in the acute and chronic phase of the disease. This significantly compromises quality of life and may have immeasurable psychosocial and economic repercussions, constituting therefore, a serious public health problem requiring a targeted approach. Physicians are often not familiar with how to approach the management of pain, frequently prescribing limited analgesics, such as dipyrone, in sub-therapeutic doses. In addition, there are few published studies or guidelines on the approach to the treatment of pain in patients with Chikungunya. Some groups of specialists from different fields have thus developed a protocol for the pharmacologic treatment of Chikungunya-associated acute and chronic joint pain; this will be presented in this review.
+C1 [Antunes de Brito, Carlos Alexandre; de Sa Leitao, Clezio Cordeiro] Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+   [Arraes von Sohsten, Ana Karla] Real Hosp Portugues Beneficencia Pernambuco, Inst Tratamento Dor, Recife, PE, Brazil.
+   [Coelho Moraes de Brito, Rita de Cssia] Univ Pernambuco, Dept Pediat, Recife, PE, Brazil.
+   [de Azevedo Valadares, Lilian David] Hosp Agamenom Magalhaes, Dept Reumatol, Recife, PE, Brazil.
+   [Magnata da Fonte, Caroline Araujo] Hosp Getulio Vargas, Dept Reumatol, Recife, PE, Brazil.
+   [de Mesquita, Zelina Barbosa] Inst Med Integral Prof Fernando Figueira, Dept Pediat, Recife, PE, Brazil.
+   [Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Dept Infectol, Campo Grande, MS, Brazil.
+   [Cunha, Rivaldo Venancio] Fundacao Oswaldo Cruz, Campo Grande, MS, Brazil.
+   [Luz, Kleber] Univ Fed Rio Grande do Norte, Dept Infectol, Natal, RN, Brazil.
+   [Carneiro Leao, Helena Maria] Conselho Reg Med Pernambuco, Escola SUper Eet & Bioet, Recife, PE, Brazil.
+   [de Brito, Cecilia Moraes] Univ Pernambuco, Curso Grad Med, Recife, PE, Brazil.
+   [Vinhal Frutuoso, Livia Carla] Minist Saude, Programa Nacl Controle Dengue, Brasilia, DF, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Med Clin, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+RI Frutuoso, Livia Vinhal/AAP-2745-2020
+OI Frutuoso, Livia Vinhal/0000-0001-7926-1075
+CR Alla SAO, 2011, BEST PRACT RES CL RH, V25, P337, DOI 10.1016/j.berh.2011.03.005
+   Arroyo-Avila M, 2015, P R HEALTH SCI J, V34, P71
+   Assuncao-Miranda I, 2013, BIOMED RES INT, V2013, DOI 10.1155/2013/973516
+   Ben-Zvi I, 2012, CLIN REV ALLERG IMMU, V42, P145, DOI 10.1007/s12016-010-8243-x
+   Borgherini G, 2008, CLIN INFECT DIS, V47, P469, DOI 10.1086/590003
+   Bouhassira D, 2005, PAIN, V114, P29, DOI 10.1016/j.pain.2004.12.010
+   Caglioti C, 2013, NEW MICROBIOL, V36, P211
+   Chopra A, 2014, ARTHRITIS RHEUMATOL, V66, P319, DOI 10.1002/art.38221
+   Chow A, 2011, J INFECT DIS, V203, P149, DOI 10.1093/infdis/jiq042
+   de Andrade DC, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-31
+   De Lamballerie X, 2008, VECTOR-BORNE ZOONOT, V8, P837, DOI 10.1089/vbz.2008.0049
+   Ganu Mohini A, 2011, J Assoc Physicians India, V59, P83
+   Haanpaa M, 2011, PAIN, V152, P14, DOI 10.1016/j.pain.2010.07.031
+   Hoarau JJ, 2010, J IMMUNOL, V184, P5914, DOI 10.4049/jimmunol.0900255
+   Javelle E, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003603
+   Malvy D, 2009, BMC INFECT DIS, V9, DOI 10.1186/1471-2334-9-200
+   Ministry of Water Irrigation and Electricity, 2015, FEBR CHIK MAN CLIN, P1
+   Moro ML, 2012, J INFECTION, V65, P165, DOI 10.1016/j.jinf.2012.04.005
+   Ng LFP, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004261
+   Organizacion Panamericana de la Salud (OPS), 2011, PREP RESP ANT EV INT, P1
+   Padmakumar B, 2009, INDIAN J RHEUMATOL, V4, P94, DOI DOI 10.1016/S0973-3698(10)60189-6
+   Pandya S., 2008, INDIAN J RHEUMATOL, V3, P93, DOI DOI 10.1016/S0973-3698(10)60125-2
+   Ramachandran V, 2014, J POSTGRAD MED, V60, P3, DOI 10.4103/0022-3859.128795
+   Rosario V, 2015, CLIN RHEUMATOL, V34, P1285, DOI 10.1007/s10067-015-2979-x
+   Schilte C, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002137
+   Simon F, 2015, MED MALADIES INFECT, V45, P243, DOI 10.1016/j.medmal.2015.05.007
+   Sousa Fátima Aparecida Emm Faleiros, 2002, Rev. Latino-Am. Enfermagem, V10, P446, DOI 10.1590/S0104-11692002000300020
+   Staikowsky F, 2008, EPIDEMIOL INFECT, V136, P196, DOI 10.1017/S0950268807008424
+   Thiberville SD, 2013, ANTIVIR RES, V99, P345, DOI 10.1016/j.antiviral.2013.06.009
+   Waymouth HE, 2013, SEMIN ARTHRITIS RHEU, V43, P273, DOI 10.1016/j.semarthrit.2013.03.003
+   World Health Organization, 2009, GLOB HLTH RISKS MORT, P1
+   Yaseen HM, 2014, BMC MUSCULOSKEL DIS, V15, DOI 10.1186/1471-2474-15-249
+NR 32
+TC 20
+Z9 21
+U1 1
+U2 5
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD NOV-DEC
+PY 2016
+VL 49
+IS 6
+BP 668
+EP 679
+DI 10.1590/0037-8682-0279-2016
+PG 12
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA EH4CU
+UT WOS:000391719400002
+PM 28001212
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Satue, M
+   Idoipe, M
+   Sanchez-Perez, A
+   Liarakos, VS
+   Mateo, A
+   Garcia-Martin, E
+   Polo, V
+   Gavin, A
+   Brito, C
+AF Satue, Maria
+   Idoipe, Miriam
+   Sanchez-Perez, Antonio
+   Liarakos, Vasilis S.
+   Mateo, Antonio
+   Garcia-Martin, Elena
+   Polo, Vicente
+   Gavin, Alicia
+   Brito, Carlos
+TI Evaluation of Early Graft Detachment After Descemet Membrane Endothelial
+   Keratoplasty Using New Swept-Source Optical Coherence Tomography
+SO CORNEA
+LA English
+DT Article
+DE Descemet membrane endothelial keratoplasty; graft detachment;
+   swept-source optical coherence tomography
+ID AXIAL SCANS; NM; ANTERIOR; OCT
+AB Purpose:To evaluate the ability of Swept-source optical coherence tomography (SS-OCT) in detecting early endothelial graft detachment after Descemet membrane endothelial keratoplasty (DMEK) and to determine the possible causes of graft detachment using 2 different protocols for anterior segment (AS) imaging.Methods:Eight eyes from 8 consecutive DMEK surgeries were evaluated. High-resolution images were captured with SS-OCT using 2 different radial protocols for AS imaging (16- and 6-mm radial protocols). Central and peripheral corneal changes were evaluated.Results:All eyes developed early graft detachment detectable with the SS-OCT. The 16-mm radial protocol scanned the cornea detecting early graft detachment in 6 out of 8 cases. The 6-mm radial protocol provided detailed images of the cornea, detecting early detachment in all cases. Stromal irregularities and small remnants only detectable using SS-OCT were the possible cause of detachment in 3 cases. One of the 8 eyes had air reinjection. The detachment in that eye was apparent by slit-lamp examination. The detachments spontaneously resolved in the other 7 eyes. AS SS-OCT evaluation was found to have added diagnostic value to biomicroscopy in 5 of these eyes (64.5%).Conclusions:AS SS-OCT is sensitive in detecting early graft detachment after DMEK. The 16-mm radial protocol of Triton SS-OCT is superior regarding quick scan of the entire cornea providing a general visualization of the DMEK graft. The 6-mm radial protocol provides detailed corneal imaging of a selected area, which is useful for evaluating structural alterations that are not detectable with larger scans and may affect the adherence of the endothelial graft.
+C1 [Satue, Maria; Idoipe, Miriam; Sanchez-Perez, Antonio; Mateo, Antonio; Garcia-Martin, Elena; Polo, Vicente; Brito, Carlos] IACS, IIS Aragon, Zaragoza, Spain.
+   [Satue, Maria; Idoipe, Miriam; Sanchez-Perez, Antonio; Mateo, Antonio; Garcia-Martin, Elena; Polo, Vicente; Gavin, Alicia; Brito, Carlos] Miguel Servet Univ Hosp, Dept Ophthalmol, Zaragoza, Spain.
+   [Liarakos, Vasilis S.] Naval Hosp, Dept Ophthalmol, Athens, Greece.
+RP Satue, M (corresponding author), Care of Arrupe P, Consultas Externas Oftalmol, Zaragoza 50009, Spain.
+EM mariasatue@gmail.com
+OI Idoipe, Miriam/0000-0002-0084-6247; Gavin Sancho,
+   Alicia/0000-0003-1607-6993; GARCIA-MARTIN, ELENA/0000-0001-6258-2489;
+   Satue, Maria/0000-0002-1609-5994; Polo Llorens,
+   Vicente/0000-0002-1402-3129
+CR Choma MA, 2003, OPT EXPRESS, V11, P2183, DOI 10.1364/OE.11.002183
+   Dapena I, 2011, ARCH OPHTHALMOL-CHIC, V129, P88, DOI 10.1001/archophthalmol.2010.334
+   Dirisamer M, 2012, ARCH OPHTHALMOL-CHIC, V130, P280, DOI 10.1001/archophthalmol.2011.343
+   Groeneveld-van Beek EA, 2013, ACTA OPHTHALMOL, V91, P145, DOI 10.1111/j.1755-3768.2012.02462.x
+   Huber R, 2007, OPT LETT, V32, P2049, DOI 10.1364/OL.32.002049
+   Karnowski K, 2011, BIOMED OPT EXPRESS, V2, P2709, DOI 10.1364/BOE.2.002709
+   Lim H, 2006, OPT EXPRESS, V14, P5937, DOI 10.1364/OE.14.005937
+   Monnereau C, 2014, JAMA OPHTHALMOL, V132, P1192, DOI 10.1001/jamaophthalmol.2014.1710
+   Moutsouris K, 2011, CORNEA, V30, P1369, DOI 10.1097/ICO.0b013e31820d86bd
+   Potsaid B, 2010, OPT EXPRESS, V18, P20029, DOI 10.1364/OE.18.020029
+   Rodriguez-Calvo-de-Mora M, 2015, OPHTHALMOLOGY, V122, P464, DOI 10.1016/j.ophtha.2014.09.004
+   Satue M, 2015, Arch Soc Esp Oftalmol, V90, P356, DOI 10.1016/j.oftal.2015.01.004
+   Tourtas T, 2014, JAMA OPHTHALMOL, V132, P155, DOI 10.1001/jamaophthalmol.2013.6222
+   Unterhuber A, 2005, OPT EXPRESS, V13, P3252, DOI 10.1364/OPEX.13.003252
+   Yeh RY, 2013, OPHTHALMOLOGY, V120, P240, DOI 10.1016/j.ophtha.2012.08.011
+NR 15
+TC 2
+Z9 3
+U1 0
+U2 6
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0277-3740
+EI 1536-4798
+J9 CORNEA
+JI Cornea
+PD OCT
+PY 2016
+VL 35
+IS 10
+BP 1279
+EP 1284
+DI 10.1097/ICO.0000000000000925
+PG 6
+WC Ophthalmology
+SC Ophthalmology
+GA DX7OC
+UT WOS:000384576600006
+PM 27429087
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   Cordeiro, MT
+AF Antunes de Brito, Carlos Alexandre
+   Cordeiro, Marli Tenorio
+TI One year after the Zika virus outbreak in Brazil: from hypotheses to
+   evidence
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Review
+DE Zika; Microcephaly; Neurological cases; Epidemiology; Review
+ID SEXUAL TRANSMISSION; FRENCH-POLYNESIA; UNITED-STATES; EPIDEMIOLOGY;
+   INFECTIONS; HISTORY
+AB Zika virusis an arbovirus of the Flaviviridae family with two major strains, an Asian and an African strain. The main vectors involved in the transmission of Zika virus are the Aedes aegypti and Aedes albopictus mosquitoes. Despite its identification, discovered in 1947 in the Zika forest in Uganda, only isolated and sporadic occurrences of human infection were reported within a largely asymptomatic proportion of individuals. The first reported outbreak occurred in 2007 in the Yap Island, which belongs to the Federated States of Micronesia in the Pacific Ocean, and in French Polynesia, where high attack rates occurred and the first cases of associated Guillain-Barre syndrome were reported. From November 2014 to early 2015, the Northeast states of Brazil reported the first outbreaks of Zika virus infection, with laboratory confirmation of Zika virus circulation in April 2015. In the second quarter of 2015, the association between Zika virus infection and neurological symptoms was confirmed in adults. Moreover, in October 2015 a novel suspicion was raised based on clinical and epidemiological observations: that an association between Zika virus infection and neonatal microcephaly may exist. A year after the first reports on Zika virus in Brazil, many hypotheses and much evidence on the patterns of involvement of the disease and its complications have been produced, both in this country and others; other hypotheses still need to be clarified. This review is a synthesis of a new chapter in the history of medicine; it outlines the main results produced.
+C1 [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Dept Clin Med, Recife, PE, Brazil.
+   [Cordeiro, Marli Tenorio] Fundacao Oswaldo Cruz, Dept Virol, Ctr Pesquisa Aggeu Magalhaes, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Clin Med, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+CR Albuquerque MDPM, 2016, EMERG INFECT DIS, V22, P1090, DOI [10.32032/eid2206.160062, 10.3201/eid2206.160062]
+   Armstrong P, 2016, MMWR-MORBID MORTAL W, V65, P286, DOI 10.15585/mmwr.mm6511e1
+   Atkinson B, 2016, EMERG INFECT DIS, V22, P940, DOI 10.3201/eid2205.160107
+   Aubry M, 2015, INT J INFECT DIS, V41, P11, DOI 10.1016/j.ijid.2015.10.005
+   Becker R, 2016, NAT MED, V22, P225, DOI 10.1038/nm0316-225
+   Besnard M, 2014, EUROSURVEILLANCE, V19, P13, DOI 10.2807/1560-7917.ES2014.19.13.20751
+   Brasil P, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004636
+   Brito C, 2015, ACTA MEDICA PORT, V28, P679
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cao-Lormeau VM, 2016, LANCET, V387, P1531, DOI 10.1016/S0140-6736(16)00562-6
+   Cordeiro MT, 2016, LANCET, V387, P1811, DOI 10.1016/S0140-6736(16)30253-7
+   Deckard DT, 2016, MMWR-MORBID MORTAL W, V65, P372, DOI 10.15585/mmwr.mm6514a3
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P521, DOI 10.1016/0035-9203(52)90043-6
+   Dick GWA, 1952, T R SOC TROP MED HYG, V46
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   European Centre for Disease Control and Prevention (ECDC), 2016, RAP RISK ASS ZIK VIR, P1
+   European Commission, 2014, REP CRIT RAW MAT EU, V180, P1
+   FAGBAMI AH, 1979, J HYG-CAMBRIDGE, V83, P213, DOI 10.1017/S0022172400025997
+   Foy BD, 2011, EMERG INFECT DIS, V17, P880, DOI 10.3201/eid1705.101939
+   Hazin AN, 2016, NEW ENGL J MED, V374, P2193, DOI 10.1056/NEJMc1603617
+   Hills SL, 2016, MMWR-MORBID MORTAL W, V65, P215, DOI 10.15585/mmwr.mm6508e2
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Jimenez Corona ME, 2016, PLOS CURR, V8, DOI [10.1371/currents.outbreaks.a2fe1b3d6d71e24ad2b5afe982824053, DOI 10.1371/CURRENTS.OUTBREAKS.A2FE1B3D6D71E24AD2B5AFE982824053.]
+   Jouannic JM, 2016, LANCET, V387, P1051, DOI 10.1016/S0140-6736(16)00625-5
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   MACNAMARA FN, 1954, T ROY SOC TROP MED H, V48, P139, DOI 10.1016/0035-9203(54)90006-1
+   Mansuy JM, 2016, LANCET INFECT DIS, V16, P405, DOI 10.1016/S1473-3099(16)00138-9
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P159, DOI 10.15585/mmwr.mm6506e1
+   McCarthy M, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i720
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Ministerio de Saude (MS), 2015, B EPIDEMIOL, V46, P1
+   Ministry of Housing Urban Poverty Alleviation Government of India, 2015, PROT AT SAUD RESP OC, P1
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Musso D, 2014, EUROSURVEILLANCE, V19, P6, DOI 10.2807/1560-7917.ES2014.19.14.20761
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Organizacion Panamericana de la Salud, 2015, EP AL NEUR SYNDR CON, P1
+   Oster AM, 2016, MMWR-MORBID MORTAL W, V65, P323, DOI 10.15585/mmwr.mm6512e3
+   Paixao ES, 2016, AM J PUBLIC HEALTH, V106, P606, DOI 10.2105/AJPH.2016.303112
+   Pan American Health Organization/World Health Organization, 2016, ZIK EP UPD, P1
+   Panel on Antiretroviral Guidelines for Adults and Adolescents, 2015, GUIDELINES USE ANTIR, P1
+   Petersen LR, 2016, NEW ENGL J MED, V374, P1552, DOI 10.1056/NEJMra1602113
+   Polynesie Francaise, 2014, SURV DENG ZIK POL FR, P6
+   Public Health England, 2016, GUID ZIK VIR TRAV AD, P1
+   Rabe IB, 2016, MMWR MORB MORTAL WKL, V65
+   Reuters News Agency, 2016, BRAZ REP ZIK INF BLO, P6
+   RODHAIN F, 1989, T ROY SOC TROP MED H, V83, P851, DOI 10.1016/0035-9203(89)90352-0
+   Secretaria de Saude de Pernambuco, 2015, CIRC FEBR ZIK VIR PE, P1
+   SIMPSON D. I. H., 1964, TRANS ROY SOC TROP MED HYG, V58, P335, DOI 10.1016/0035-9203(64)90201-9
+   Smith DW, 2016, LANCET, V387, P1486, DOI 10.1016/S0140-6736(16)00564-X
+   Teixeira MG, 2016, AM J PUBLIC HEALTH, V106, P601, DOI 10.2105/AJPH.2016.303113
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+   Venturi G, 2016, EUROSURVEILLANCE, V21, P2, DOI 10.2807/1560-7917.ES.2016.21.8.30148
+   World Health Organization(WHO), 2016, SIK SIT REP
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 56
+TC 22
+Z9 22
+U1 0
+U2 15
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD SEP-OCT
+PY 2016
+VL 49
+IS 5
+BP 537
+EP 543
+DI 10.1590/0037-8682-0328-2016
+PG 7
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA EB8RC
+UT WOS:000387657500002
+PM 27812646
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU de Brito, CAA
+   de Brito, CC
+   Oliveira, AC
+   Rocha, M
+   Atanasio, C
+   Asfora, C
+   Matos, JD
+   Lima, AS
+   Albuquerque, MFM
+AF Antunes de Brito, Carlos Alexandre
+   Moraes de Brito, Cecilia Coelho
+   Oliveira, Augusto Cesar
+   Rocha, Marilia
+   Atanasio, Caio
+   Asfora, Carolina
+   Matos, Julio Dourado
+   Lima, Anton Saraiva
+   Militao Albuquerque, Maria Fatima
+TI Zika in Pernambuco: rewriting the first outbreak
+SO REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL
+LA English
+DT Article
+DE Zika; Dengue; Outbreak; Arbovirus; Surveillance
+ID VIRUS OUTBREAK; STATES
+AB Introduction: A Zika virus epidemic was registered in 2015 in Northeast Brazil. In the State of Pernambuco, thousands of classical cases transpired, and in the following months, neurological disturbances in adults and microcephaly in newborns emerged as complications. After the peak of the epidemic, the official system reported only four cases of Zika virus but over 100,000 cases of dengue virus. The vigilance system was unable to retrospectively estimate cases or to issue an alert to officially notified cases with possible inconsistence concerning specific arbovirosis diagnoses. Methods: To evaluate the frequency of different arbovirosis diagnoses based on clinical-epidemiologic criteria, from January to April 2015, we conducted a hospital-based cross-sectional study retrospectively analyzing suspected cases of arbovirosis. Results: Of 1,046 total suspected cases of arbovirus, 895 (86%) were classified as probable Zika virus cases, and 151 (14%) as probable dengue virus cases. The most frequent manifestations in probable Zika virus cases were exanthema (100%), pruritus (50.7%), fever (20.4%) and arthralgia (27.7%). Conclusions: In contrast to the official data, during the peak months of the arbovirosis epidemic of 2015, most cases were compatible with Zika virus infections. Hospital-based studies, although retrospective and based on secondary data from clinical files, might provide a better estimate of the number of cases relative to currently available data, if derived from several urgent care units of representative areas of a city or state. This would partially retrospectively correct some inconsistences regarding official notifications.
+C1 [Antunes de Brito, Carlos Alexandre; Rocha, Marilia; Asfora, Carolina; Lima, Anton Saraiva] Univ Fed Pernambuco, Dept Clin Med, Recife, PE, Brazil.
+   [Moraes de Brito, Cecilia Coelho; Oliveira, Augusto Cesar; Atanasio, Caio] Univ Fed Pernambuco, Programa Grad Med, Recife, PE, Brazil.
+   [Matos, Julio Dourado] Fac Pernambucana Saude, Programa Grad Med, Recife, PE, Brazil.
+   [Militao Albuquerque, Maria Fatima] Ctr Pesquisa Aggeu Magalhaes, Dept Saude Publ, Recife, PE, Brazil.
+RP de Brito, CAA (corresponding author), Univ Fed Pernambuco, Dept Clin Med, Recife, PE, Brazil.
+EM cbritoc@gmail.com
+CR Albuquerque MDPM, 2016, EMERG INFECT DIS, V22, P1090, DOI [10.32032/eid2206.160062, 10.3201/eid2206.160062]
+   Armstrong P, 2016, MMWR-MORBID MORTAL W, V65, P286, DOI 10.15585/mmwr.mm6511e1
+   Becker R, 2016, NAT MED, V22, P225, DOI 10.1038/nm0316-225
+   Brasil. Ministerio da Saude, 2016, B EPIDEMIOL, V47, P1
+   Brasil P, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004636
+   Brito C, 2015, ACTA MEDICA PORT, V28, P679
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Deng L, 2015, COMPUT INTEL NEUROSC, DOI 10.1155/2015/896072
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   European Center for Disease Prevention and Control (ECDC), 2014, RAP RISK ASS ZIK VIR, P1
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Jimenez Corona ME, 2016, PLOS CURR, DOI [10.1371/currents.outbreaks.a2fe1b3d6d71e24ad2b5afe982824053, DOI 10.1371/CURRENTS.OUTBREAKS.A2FE1B3D6D71E24AD2B5AFE982824053]
+   Ministerio da Saude, 2016, MIN SAUD B EP, V47
+   Ministerio da Saude (BR), 2005, GUIA VIGILANCIA EPID
+   Ministerio do genero crianca e acao social, 2016, PROC SER AD VIG FEBR, P1
+   Ministry of Housing Urban Poverty Alleviation Government of India, 2015, PROT AT SAUD RESP OC, P1
+   Miranda DD, 2016, AM J PUBLIC HEALTH, V106, P598, DOI 10.2105/AJPH.2016.303115
+   Oregon Health Autrhority, 2016, ZIK VIR INV GUID, P1
+   Organizacion Panamericana de la Salud, 2015, EP AL NEUR SYNDR CON, P1
+   Pan American Health Organization (PAHO). PAHO, 2015, GUIA VIG ENF VIR ZIK, P1
+   Persons TM, 2016, EMERG INFECT DIS, P1
+   Polynesie Francaise, 2014, SURV DENG ZIK POL FR, P6
+   Secretaria Estatual de Saude de Pernambuco, 2016, MICR EXP SES PE INV, P1
+   Secretaria Estatual de Saude de Pernambuco, 2015, 2015 SECR EST SAUD P, P1
+   Teixeira MG, 2016, AM J PUBLIC HEALTH, V106, P601, DOI 10.2105/AJPH.2016.303113
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 26
+TC 13
+Z9 13
+U1 0
+U2 9
+PU SOC BRASILEIRA MEDICINA TROPICAL
+PI BRASILIA
+PA UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356,
+   BRASILIA, DF 70919-970, BRAZIL
+SN 0037-8682
+J9 REV SOC BRAS MED TRO
+JI Rev. Soc. Bras. Med. Trop.
+PD SEP-OCT
+PY 2016
+VL 49
+IS 5
+BP 553
+EP 558
+DI 10.1590/0037-8682-0245-2016
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA EB8RC
+UT WOS:000387657500004
+PM 27812648
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Neto, JP
+   Raso, W
+   Brito, CAF
+AF Puerro Neto, Joao
+   Raso, Wagner
+   Felicio Brito, Carlos Alexandre
+TI FUNCTIONAL MOBILITY RELATED TO MUSCLE STRENGTH IN ELDERLY WOMEN
+   PHYSICALLY ACTIVE
+SO REVISTA BRASILEIRA DE MEDICINA DO ESPORTE
+LA Portuguese
+DT Article
+DE aging; postural balance; muscle contraction
+ID BALANCE
+AB Introduction: The changes that influence functional mobility in the elderly are many, such as posture alterations, diminution of muscular force and amplitude of movement. Objective: To determine the most appropriate parameter for functional mobility estimation, as well as the effect of muscular strength on functional mobility of elderly people. Methods: The sample was constituted by 41 healthy female individuals from 60 to 78 years old who were submitted to the Time up and go (TUG) test that assess the abilities of basic mobility in fragile elderly people (time to get up and move), Berg's balance scale (BBS), functional reach test (FRT) and one maximum repetition test (1MR). Results: The principal component analysis (PCA) revealed that only Berg's scale presented eigenvalue (self-value) higher than 1, explaining 59% of the variance. On the other hand, the muscular strength was predictor of functional mobility only when the TUG has been analyzed, suggesting that 20% of functional mobility can be explained by muscular strength (R=-0.42 [R2=0.20, beta=-0.29 +/- 0.12, P=0.023]). Conclusion: The BBS seemed to represent the most appropriate procedure for functional mobility estimation. Muscular strength was predictor of functional mobility only when TUG has been analyzed.
+C1 [Puerro Neto, Joao; Raso, Wagner; Felicio Brito, Carlos Alexandre] Univ Santo Amaro, Sao Paulo, SP, Brazil.
+RP Neto, JP (corresponding author), Rua Inhambu 1208,Ap 31, BR-04520014 Sao Paulo, SP, Brazil.
+EM joaopuerro@me.com
+CR Albino Igna Luciara Raffaeli, 2012, Rev. bras. geriatr. gerontol., V15, P17, DOI 10.1590/S1809-98232012000100003
+   Aveiro MC, 2004, REV BRASILEIRA CIENC, V12, P33
+   BERG K, 1989, Physiotherapy Canada, V41, P304
+   Bonfim AFF, REV DIGITAL BUENOS A, V13, P125
+   Carriere B., 1999, BOLA SUICA TEORIA EX
+   DUNCAN PW, 1990, J GERONTOL, V45, pM192, DOI 10.1093/geronj/45.6.M192
+   FARIA JC, 2003, ACTA FISIATRICA, V10, P133
+   Figueiredo KMOB, 2007, REV BRAS CIN DES HUM, V9, P408
+   Gazzola Juliana Maria, 2006, Rev. Bras. Otorrinolaringol., V72, P683, DOI 10.1590/S0034-72992006000500016
+   Goncalves DFF, 2009, BRAZ J PHYS THER, V13, P316, DOI 10.1590/S1413-35552009005000044
+   Guimaraes AV, 2010, BRAZ J MOTOR BEHAV S, V5, P58
+   Maciel A., 2002, AVALIACAO MULTIDISCI
+   Meneses Sarah Rubia Ferreira de, 2012, Fisioter. Pesqui., V19, P26, DOI 10.1590/S1809-29502012000100006
+   Miyamoto ST, 2004, BRAZ J MED BIOL RES, V37, P1411, DOI 10.1590/S0100-879X2004000900017
+   Oliveira AR, 2010, BRAZ J MOTOR BEHAV S, V5, P60
+   Pedro EM, 2008, CONEXOES, V6, P174
+   Pereira Marta Inez Rodrigues, 2003, Rev Bras Med Esporte, V9, P325, DOI 10.1590/S1517-86922003000500007
+   PINHO L, 2004, THESIS U FEDERAL MIN
+   PODSIADLO D, 1991, J AM GERIATR SOC, V39, P142, DOI 10.1111/j.1532-5415.1991.tb01616.x
+   Puerro Neto J, 2012, 11 C SUD MED DEP POR, P38
+   Silverthorn AC., 2003, FISIOLOGIA HUMANA
+   Whippie MA., 2001, MANUAL REABILITACAO, P29
+NR 22
+TC 1
+Z9 1
+U1 0
+U2 3
+PU SOC BRASILEIRA MED ESPORTE
+PI SAO PAULO SP
+PA AV BRIGADEIRO LUIS ANTONIO, 278, 6 AND, SAO PAULO SP, 01318 901, BRAZIL
+SN 1517-8692
+EI 1806-9940
+J9 REV BRAS MED ESPORTE
+JI Rev. Bras. Med. Esporte
+PD SEP-OCT
+PY 2015
+VL 21
+IS 5
+BP 369
+EP 371
+DI 10.1590/1517-869220152105112756
+PG 3
+WC Physiology; Sport Sciences
+SC Physiology; Sport Sciences
+GA CX0SC
+UT WOS:000365406000008
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Gomes, RG
+   de Brito, CA
+   Martinelli, V
+   da Costa, LB
+   Donadi, EA
+   Lucena-Silva, N
+AF Gomes, Renan Garcia
+   de Brito, Carlos Alexandre
+   Martinelli, Valeria
+   da Costa, Lais Baracho
+   Donadi, Eduardo Antonio
+   Lucena-Silva, Norma
+TI CORRELATION OF HLA-G, IL-10 AND TNF GENE EXPRESSION WITH THE DEGREE OF
+   INTESTINAL LESION IN BIOPSIES OF BRAZILIAN PATIENTS WITH INFLAMMATORY
+   BOWEL DISEASE
+SO TISSUE ANTIGENS
+LA English
+DT Meeting Abstract
+C1 [Gomes, Renan Garcia; Lucena-Silva, Norma] Fiocruz MS, Ctr Pesquisas Aggeu Magalhaes, Recife, PE, Brazil.
+   [de Brito, Carlos Alexandre; Martinelli, Valeria] Univ Fed Pernambuco, Hosp Clin Pernambuco, Recife, PE, Brazil.
+   [Donadi, Eduardo Antonio] Univ Sao Paulo, Fac Med Ribeirao Preto, Ribeirao Preto, Brazil.
+EM norma.lucena@hotmail.com
+RI donadi, eduardo A/H-7080-2013; Lucena-Silva, Norma/AAH-9437-2019
+OI donadi, eduardo A/0000-0002-9457-9601; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0001-2815
+EI 1399-0039
+J9 TISSUE ANTIGENS
+JI Tissue Antigens
+PD AUG
+PY 2015
+VL 86
+IS 2
+BP 78
+EP 79
+PG 2
+WC Cell Biology; Immunology; Pathology
+SC Cell Biology; Immunology; Pathology
+GA CN2NF
+UT WOS:000358257700011
+DA 2020-12-01
+ER
+
+PT J
+AU Alonso, DO
+   Bortoleto, MCA
+   Goncalves, JA
+   Furtado, VV
+   Brito, CAF
+AF Alonso, Denise O.
+   Bortoleto, Maria C. A.
+   Goncalves, Jessica A.
+   Furtado, Veronica V.
+   Brito, Carlos A. F.
+TI Heart Rate Variability At Rest, Exercise And Recovery In Stroke Patients
+SO MEDICINE AND SCIENCE IN SPORTS AND EXERCISE
+LA English
+DT Meeting Abstract
+CT 60th Annual Meeting of the American-College-of-Sports-Medicine
+CY MAY 28-JUN 01, 2013
+CL Indianapolis, IN
+SP Amer Coll Sports Med
+C1 [Alonso, Denise O.; Bortoleto, Maria C. A.; Goncalves, Jessica A.; Furtado, Veronica V.; Brito, Carlos A. F.] Univ Municipal Sao Caetano do Sul, Sao Caetano do Sul, Brazil.
+RI Bortoleto, Marco Antonio Coelho/H-9171-2012
+OI Bortoleto, Marco Antonio Coelho/0000-0003-4455-6732
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0195-9131
+EI 1530-0315
+J9 MED SCI SPORT EXER
+JI Med. Sci. Sports Exerc.
+PD MAY
+PY 2013
+VL 45
+IS 5
+SU 1
+MA 2326
+BP 544
+EP 544
+PG 1
+WC Sport Sciences
+SC Sport Sciences
+GA 300ND
+UT WOS:000330469704219
+DA 2020-12-01
+ER
+
+PT J
+AU Figueiro, AC
+   Hartz, ZMD
+   de Brito, CAA
+   Samico, I
+   Filha, NTD
+   Cazarin, G
+   Braga, C
+   Cesse, EAP
+AF Figueiro, Ana Claudia
+   de Araujo Hartz, Zulmira Maria
+   Antunes de Brito, Carlos Alexandre
+   Samico, Isabella
+   de Siqueira Filha, Noemia Teixeira
+   Cazarin, Gisele
+   Braga, Cynthia
+   Pessoa Cesse, Eduarda Angela
+TI Death from dengue fever as a sentinel event for evaluation of quality of
+   healthcare: a case study in two municipalities in Northeast Brazil, 2008
+SO CADERNOS DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE Dengue; Health Evaluation; Delivery of Health Care; Sentinel
+   Surveillance
+ID HEMORRHAGIC-FEVER; MEDICAL-CARE
+AB Despite the existing resources for adequate dengue patient care in the Brazilian healthcare system, the case-fatality rate for the disease is still high in the country. In order to identify factors associated with dengue-related death, this study evaluated quality of care according to the degree of implementation of specific measures, the technical and scientific quality of care, and access to health services in two municipalities (counties) in Northeast Brazil. An evaluative study of the implementation analysis type was performed, with death from dengue as the sentinel event for quality of care. To assess the degree of implementation and quality of care, the study scored the interview criteria and patient chart analysis; access was evaluated by thematic analysis. As for structure and process, the health services were found to be partially adequate (70%). No geographic or economic barriers were found to explain the occurrence of deaths. Technical and scientific quality failed to achieve adequate levels in the municipalities (46% and 30%) or in the specific services, and clinical management of dengue by the health services proved insufficient.
+C1 [Figueiro, Ana Claudia; Samico, Isabella; de Siqueira Filha, Noemia Teixeira; Cazarin, Gisele] Inst Med Integral Prof Fernando Figueira, BR-51020320 Recife, PE, Brazil.
+   [de Araujo Hartz, Zulmira Maria] Univ Nova Lisboa, Inst Higiene & Med Trop, P-1200 Lisbon, Portugal.
+   [Antunes de Brito, Carlos Alexandre] Univ Fed Pernambuco, Recife, PE, Brazil.
+   [Braga, Cynthia; Pessoa Cesse, Eduarda Angela] Fundacao Oswaldo Cruz, Ctr Pesquisas Aggeu Magalhaes, Recife, PE, Brazil.
+RP Figueiro, AC (corresponding author), Inst Med Integral Prof Fernando Figueira, Rua Jose Trajano 170,Apto 301, BR-51020320 Recife, PE, Brazil.
+EM anaclaudiafigueiro@yahoo.com.br
+RI Braga, Maria Cynthia/A-8204-2013; Hartz, Zulmira/J-4596-2012; Hartz,
+   Zulmira/Y-6775-2019
+OI Braga, Maria Cynthia/0000-0002-7862-6455; Hartz,
+   Zulmira/0000-0001-9780-9428; Hartz, Zulmira/0000-0001-9780-9428
+CR Australian Institute of Health and Welfare/Australian Commission on Safety and Quality in Health Care, SENT EV AUSTR PUBL H
+   Bellato R, 2008, ATENCAO BASICA INTEG, P167
+   Braun V., 2006, QUALITATIVE RES PSYC, V3, P77, DOI [DOI 10.1191/1478088706qp063oa, 10.1191/1478088706qp063oa]
+   Camara FP, 2007, REV SOC BRAS MED TRO, V40, P192, DOI 10.1590/S0037-86822007000200009
+   Cavalcante Maria das Graças Santos, 2006, Rev. Bras. Saude Mater. Infant., V6, P437, DOI 10.1590/S1519-38292006000400011
+   Champagne F, 2009, EVALUATION CONCEPTS, P225
+   Dipartimento della Qualita Direzione Generale della Programmazione Sanitaria dei Livelli di Assistenza e dei Principi Etici di Sistema Ufficio III Ministero del Lavoro della Salute e delle Politiche Sociali, LIV AS PRINC ET SIST
+   DONABEDIAN A, 1966, MILBANK FUND Q, V44, P166, DOI 10.2307/3348969
+   DONABEDIAN A, 1990, ARCH PATHOL LAB MED, V114, P1115
+   Frenk J, 1985, Salud Publica Mex, V27, P438
+   Frias Paulo G., 2002, J. Pediatr. (Rio J.), V78, P509, DOI 10.1590/S0021-75572002000600012
+   Gusmao-Filho FAR, 2008, THESIS CTR PESQ AGG
+   Halstead S. B., 2009, F1000 MED REP, V1, P73
+   Hartz ZMD, 1996, REV SAUDE PUBL, V30, P310
+   Hartz Zulmira M. de Araújo, 2004, Cad. Saúde Pública, V20, pS331, DOI 10.1590/S0102-311X2004000800026
+   Kalayanarooj S, 2007, AM J TROP MED HYG, V77, P534, DOI 10.4269/ajtmh.2007.77.534
+   Khun S, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-262
+   Lopes Rosana Machado, 2004, Cad. Saúde Pública, V20, pS283, DOI 10.1590/S0102-311X2004000800022
+   Medina MG, 2006, THESIS U FEDERAL BAH
+   *MIN SAUD FUND NAC, 2002, PROGR NAC CONTR DENG
+   RUTSTEIN DD, 1976, NEW ENGL J MED, V294, P582, DOI 10.1056/NEJM197603112941104
+   Samico Isabella, 2005, Rev. Bras. Saude Mater. Infant., V5, P229, DOI 10.1590/S1519-38292005000200012
+   Secretaria de Vigilancia em Saude Ministerio da Saude, 2010, DENG CAS DOENC BRAS
+   Secretaria de Vigilancia em Saude Ministerio da Saude, 2007, DENG DIAGN MAN CLIN
+   Secretaria de Vigilancia em Saude Ministerio da Saude, 2009, DIR NAC PREV CONTR E
+   Singhi S, 2007, J PEDIAT-BRAZIL, V83, pS22, DOI 10.1590/S0021-75572007000300004
+   Teixeira Maria da Glória, 2005, Cad. Saúde Pública, V21, P1307, DOI 10.1590/S0102-311X2005000500002
+   Teixeira MG, 2009, CAD SAUDE PUBLICA, V25, pS7, DOI 10.1590/S0102-311X2009001300002
+   The Joint Commission, SENT EV POL PROC 200
+   Torres EM, 2006, REV PANAM SALUD PUBL, V20, P60, DOI 10.1590/S1020-49892006000700013
+   Uchimura Kátia Yumi, 2002, Cad. Saúde Pública, V18, P1561, DOI 10.1590/S0102-311X2002000600009
+   Vuori H., 1991, DIVULG SAUDE DEBATE, V3, P17
+   World Health Organization, DENG DENG HEM FEV FA
+   YIN R. K., 2005, ESTUDO CASO PLANEJAM
+NR 34
+TC 15
+Z9 16
+U1 0
+U2 2
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD DEC
+PY 2011
+VL 27
+IS 12
+BP 2373
+EP 2385
+DI 10.1590/S0102-311X2011001200009
+PG 13
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 873MF
+UT WOS:000298886700009
+PM 22218580
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU De Brito, CAK
+   Siqueira, PB
+   De Souza, JC
+   Bolini, HMA
+AF Koguishi De Brito, Carlos Alexandre
+   Siqueira, Priscila Becker
+   De Souza, Jane Cristina
+   Andre Bolini, Helena Maria
+TI IN VITRO ANTIOXIDANT CAPACITY, PHENOLIC, ASCORBIC ACID AND LYCOPENE
+   CONTENT OF GUAVA (Psidium guajava L.) JUICES AND NECTARS
+SO BOLETIM DO CENTRO DE PESQUISA DE PROCESSAMENTO DE ALIMENTOS
+LA English
+DT Article
+DE ANTIOXIDANT; GUAVA; JUICE; Psidium guajava L
+ID VITAMIN-C CONTENTS; CAROTENOIDS; ABTS
+AB The aim of this work was to determine the antioxidant capacity in vitro of three different brands of guava nectars and juices, through free radicals scavenging methods, 1,1-diphenyl-2-picrylhydrazine (DPPH) and 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulphonic acid (ABTS(.+)), and its correlation with the total polyphenolic content, total lycopene and ascorbic acid. Brands revealed statistical differences (p <= 0.05) in antioxidant capacity, ranging from 1.9 to 7.7 molTE/mL. Antioxidant capacity presented positive correlation for ascorbic acid content and polyphenolic compounds, being relatively low for the lycopene. Different process can influence the content of these compounds as well as interfere in their antioxidant capacity. The control of the production process is important to add value to guava products and fulfill the new tendency of the market.
+C1 [Koguishi De Brito, Carlos Alexandre] Univ Estadual Campinas, UNICAMP, FEA, Dept Alimentos & Nutr, Campinas, SP, Brazil.
+   [Siqueira, Priscila Becker] Univ Estadual Campinas, FEA, Dept Ciencia Alimentos, Campinas, SP, Brazil.
+   [De Souza, Jane Cristina; Andre Bolini, Helena Maria] Univ Estadual Campinas, FEA, Dept Alimentos & Nutr, Campinas, SP, Brazil.
+RP De Brito, CAK (corresponding author), Univ Estadual Campinas, UNICAMP, FEA, Dept Alimentos & Nutr, Campinas, SP, Brazil.
+EM cako.brito@gmail.com; pribecker@gmail.com; janenutri@gmail.com;
+   hellini@fea.unicamp.br
+RI BOLINI, HELENA MARIA ANDRE/A-8585-2011; souza, jane/I-5779-2012; BOLINI,
+   HELENA/C-1139-2012
+OI BOLINI, HELENA MARIA ANDRE/0000-0001-9841-4479; souza,
+   jane/0000-0002-6687-2819; BOLINI, HELENA/0000-0003-1896-2526
+FU CAPESCAPES; CNPqNational Council for Scientific and Technological
+   Development (CNPq)
+FX We are grateful to CAPES and CNPq for financial support.
+CR Arnao MB, 2001, FOOD CHEM, V73, P239, DOI 10.1016/S0308-8146(00)00324-1
+   Evangelista R. M., 2006, SEGURANCA ALIMENTAR, V13, P76, DOI DOI 10.20396/SAN.V13I2.1834
+   Ferreira JEM, 2008, J FOOD SCI, V73, pC589, DOI 10.1111/j.1750-3841.2008.00919.x
+   FERREIRA J. E. M., 2001, THESIS U ESTADUAL CA, P85
+   FORGET FL, 2000, J SCI FOOD AGR, V80, P763
+   Frankel EN, 2000, J SCI FOOD AGR, V80, P1925, DOI 10.1002/1097-0010(200010)80:13&lt;1925::AID-JSFA714&gt;3.0.CO;2-4
+   Gil MI, 2002, J AGR FOOD CHEM, V50, P4976, DOI 10.1021/jf020136b
+   Kim DO, 2002, J AGR FOOD CHEM, V50, P3713, DOI 10.1021/jf020071c
+   Leong LP, 2002, FOOD CHEM, V76, P69, DOI 10.1016/S0308-8146(01)00251-5
+   Luximon-Ramma A, 2003, J SCI FOOD AGR, V83, P496, DOI 10.1002/jsfa.1365
+   Macedo G. A., 2005, BIOQUIMICA EXPT ALIM
+   Mercadante AZ, 1999, ARCH LATINOAM NUTR, V49, p52S
+   PADULA M, 1986, FOOD CHEM, V20, P11, DOI 10.1016/0308-8146(86)90163-9
+   PADULA M, 1983, THESIS U ESTADUAL CA
+   Pandey A. K., 1998, Progressive Horticulture, V30, P73
+   Pellegrini N, 2003, J NUTR, V133, P2812
+   PORCU OM, 2004, THESIS U ESTADUAL CA, P135
+   Re R, 1999, FREE RADICAL BIO MED, V26, P1231, DOI 10.1016/S0891-5849(98)00315-3
+   Rodriguez-Amaya D. B., 2004, TECHNICAL MONOGRAPH, V2
+   Rodriguez-Amaya DB, 1999, GUIDE CAROTENOIDS AN
+   SAS Institute, 2003, SAS US GUID STAT VER
+   Singleton VL, 1965, AM J ENOL VITICULT, V16, P144, DOI DOI 10.1172/JCI39162
+   Thaipong K, 2006, J FOOD COMPOS ANAL, V19, P669, DOI 10.1016/j.jfca.2006.01.003
+   Wang MF, 1998, J AGR FOOD CHEM, V46, P4869, DOI 10.1021/jf980614b
+NR 24
+TC 5
+Z9 5
+U1 0
+U2 7
+PU CENTRO PESQUISA PROCESSAMENTO ALIMENTOS
+PI CURITIBA PR
+PA CENTRO POLITECNICO DA UFPR. CP 19083, CURITIBA PR, 81531-990, BRAZIL
+SN 0102-0323
+EI 1983-9774
+J9 B CTR PESQUI PROC AL
+JI Bol. Cent. Pesqui. Process. Aliment.
+PY 2009
+VL 27
+IS 2
+BP 175
+EP 182
+PG 8
+WC Food Science & Technology
+SC Food Science & Technology
+GA 540NT
+UT WOS:000273340600001
+DA 2020-12-01
+ER
+
+PT J
+AU Osawa, CC
+   Ferrari, CC
+   Siqueira, PB
+   de Brito, CAK
+   Sanvido, GB
+   Botelho, AP
+   Alves, LR
+   Cardoso, CF
+   Moais, VHF
+   de Melo, LLMM
+   Ribeiro, APB
+   Bolini, HMA
+AF Osawa, Cibele Cristina
+   Ferrari, Cristhiane Caroline
+   Siqueira, Priscila Becker
+   Koguishi de Brito, Carlos Alexandre
+   Sanvido, Gustavo Braga
+   Botelho, Adriana Prais
+   Alves, Leonardo Rangel
+   Cardoso, Claudio Fernandes
+   Ferreira Moais, Viviane Helena
+   Martins Medeiros de Melo, Lauro Luis
+   Badan Ribeiro, Ana Paula
+   Andre Bolini, Helena Maria
+TI Sensory profile evaluation of light peach tea
+SO CIENCIA E TECNOLOGIA DE ALIMENTOS
+LA Portuguese
+DT Article
+DE light tea; peach; sensory analysis; quantitative descriptive analysis;
+   acceptance test
+AB In this work, three different brands of light peach iced tea (A, B and C), purchased in a local market and packed in PET bottles were sensory analyzed. At first, Quantitative Descriptive Analysis (QDA) was conducted in order to obtain the sensorial profile, with eleven tasters, previously selected and trained. The product acceptance was evaluated by 33 consumers, representing the target public. The QDA results were submitted to ANOVA, Tukey's test and Principal Component Analysis (PCA). The sample A was mainly characterized by banana aroma and flavor; the sample B by artificial peach aroma and refreshment; while the sample C by sweetness and natural peach aroma. The acceptance test, analyzed by ANOVA and Tukey's test, showed a greater acceptance for the sample C. The colour of the samples was evaluated by the Cielab L*a*b* method and the sample C stood out by the red colour.
+C1 [Ferrari, Cristhiane Caroline; Andre Bolini, Helena Maria] Univ Estadual Campinas, FEA, Dept Alimentos & Nutr, Lab Anal Sensorial, Campinas, SP, Brazil.
+RP Ferrari, CC (corresponding author), Univ Estadual Campinas, FEA, Dept Alimentos & Nutr, Lab Anal Sensorial, Campinas, SP, Brazil.
+EM criscaferrari@gmail.com; hellini@fea.unicamp.br
+RI BOLINI, HELENA MARIA ANDRE/A-8585-2011; Ferrari, Cristhiane
+   C/A-6363-2013; Melo, Lauro/J-5138-2015; Ribeiro, Ana Paula
+   Badan/B-6440-2012
+OI BOLINI, HELENA MARIA ANDRE/0000-0001-9841-4479; Ferrari, Cristhiane
+   C/0000-0002-3447-5173; Melo, Lauro/0000-0001-6367-8343; 
+CR *ABNT, 1993, NBR12806 ABNT
+   Battochio Juliana Rosa, 2006, Food Sci. Technol (Campinas), V26, P428, DOI 10.1590/S0101-20612006000200028
+   BISPO ES, 2005, CIENCIA TECNOLOGIA A, V25, P375
+   Calvo C., 1997, TEMAS TECNOLOGIA ALI, VI, P261
+   Cardello H. M. A. B., 1998, Ciencia e Tecnologia de Alimentos, V18, P169
+   CARDELLO HMA, 2001, S LATINOAMERICANO CI, V4, P254
+   Cardoso Juliana Maria Porto, 2004, Food Sci. Technol (Campinas), V24, P448, DOI 10.1590/S0101-20612004000300025
+   CARDOSO JMP, 2003, C INTERNO INICIACAO, V9
+   MacFie H. J., 1989, Journal of Sensory Studies, V4, P129, DOI 10.1111/j.1745-459X.1989.tb00463.x
+   Meilgaard M. C., 1999, SENSORY EVALUATION T
+   MORAES PCB, THESIS U ESTADUAL CA
+   Moskowitz H.R., 1983, PRODUCT TESTING SENS
+   Santana L. R. R., 2006, Ciencia e Tecnologia de Alimentos, V26, P619, DOI 10.1590/S0101-20612006000300021
+   *SAS I, 2003, SAS US GUID STAT, V8
+   Stone H. S., 1993, SENSORY EVALUATION P
+   Verruma-Bernardi M. R., 2003, Ciencia e Tecnologia de Alimentos, V23, P28, DOI 10.1590/S0101-20612003000100007
+   Vickers Z., 1988, Journal of Sensory Studies, V3, P1, DOI 10.1111/j.1745-459X.1988.tb00425.x
+NR 17
+TC 1
+Z9 1
+U1 0
+U2 11
+PU SOC BRASILEIRA CIENCIA TECNOLOGIA ALIMENTOS
+PI CAMPINAS
+PA AV BRASIL 2880, CAXIA POSTAL 271 CEP 13001-970, CAMPINAS, SAO PAULO
+   00000, BRAZIL
+SN 0101-2061
+EI 1678-457X
+J9 CIENCIA TECNOL ALIME
+JI Ciencia Tecnol. Aliment.
+PD DEC
+PY 2008
+VL 28
+SU S
+BP 102
+EP 108
+DI 10.1590/S0101-20612008000500017
+PG 7
+WC Food Science & Technology
+SC Food Science & Technology
+GA 415NS
+UT WOS:000263941300017
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+EF

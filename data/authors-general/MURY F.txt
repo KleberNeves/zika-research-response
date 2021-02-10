@@ -1,0 +1,1524 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cabral, S
+   de Paula, A
+   Samuels, R
+   da Fonseca, R
+   Gomes, S
+   Silva, JR
+   Mury, F
+AF Cabral, Sara
+   De Paula, Adriano
+   Samuels, Richard
+   Da Fonseca, Rodrigo
+   Gomes, Simone
+   Silva, Jose Roberto
+   Mury, Flavia
+TI Aedes aegypti (Diptera: Culicidae) Immune Responses with Different
+   Feeding Regimes Following Infection by the Entomopathogenic Fungus
+   Metarhizium anisopliae
+SO INSECTS
+LA English
+DT Article
+DE dengue; Zika; vector; immune response; gene expression
+ID INSECT PESTS; ZIKA VIRUS; VECTOR; PATHWAY; GENES; TOLL; EXPRESSION;
+   INTERACTS; HOMOLOG; DEFENSE
+AB The mosquito Aedes aegypti is the most notorious vector of illness-causing viruses. The use of entomopathogenic fungi as bioinsecticides is a promising alternative for the development of novel mosquito control strategies. We investigate whether differences in immune responses could be responsible for modifications in survival rates of insects following different feeding regimes. Sucrose and blood-fed adult A. aegypti females were sprayed with M. anisopliae 1 x 10(6) conidia mL(-1), and after 48 h, the midgut and fat body were dissected. We used RT-qPCR to monitor the expression of Cactus and REL1 (Toll pathway), IMD, REL2, and Caspar (IMD pathway), STAT and PIAS (JAK-STAT pathway), as well as the expression of antimicrobial peptides (Defensin A, Attacin and Cecropin G). REL1 and REL2 expression in both the midgut and fat body were higher in blood-fed fungus-challenged A. aegypti than in sucrose-fed counterparts. Interestingly, infection of sucrose-fed insects induced Cactus expression in the fat body, a negative regulator of the Toll pathway. The IMD gene was upregulated in the fat body in response to fungal infection after a blood meal. Additionally, we observed the induction of antimicrobial peptides in the blood-fed fungus-challenged insects. This study suggests that blood-fed A. aegypti are less susceptible to fungal infection due to the rapid induction of Toll and IMD immune pathways.
+C1 [Cabral, Sara; Silva, Jose Roberto] Univ Fed Rio de Janeiro, NUPEM, Inst Biodiversidade & Sustentabilidade, Lab Integrado Bioquim, BR-27965045 Macae, RJ, Brazil.
+   [De Paula, Adriano; Samuels, Richard; Gomes, Simone] Univ Estadual Norte FluminenseDarcy Ribeiro, CCTA, Lab Entomol & Fitopatol, BR-28013603 Campos Dos Goytacazes, RJ, Brazil.
+   [Da Fonseca, Rodrigo] Univ Fed Rio de Janeiro, NUPEM, Inst Biodiversidade & Sustentabilidade, Lab Integrado Ciencias Morfofuncionais, BR-27965045 Macae, RJ, Brazil.
+   [Da Fonseca, Rodrigo; Silva, Jose Roberto; Mury, Flavia] INCT EM, BR-21941590 Rio De Janeiro, Brazil.
+   [Mury, Flavia] Univ Fed Rio de Janeiro, NUPEM, Inst Biodiversidade & Sustentabilidade, Lab Integrado Biociencias Translacionais, BR-27965045 Macae, RJ, Brazil.
+RP Samuels, R (corresponding author), Univ Estadual Norte FluminenseDarcy Ribeiro, CCTA, Lab Entomol & Fitopatol, BR-28013603 Campos Dos Goytacazes, RJ, Brazil.; Mury, F (corresponding author), INCT EM, BR-21941590 Rio De Janeiro, Brazil.; Mury, F (corresponding author), Univ Fed Rio de Janeiro, NUPEM, Inst Biodiversidade & Sustentabilidade, Lab Integrado Biociencias Translacionais, BR-27965045 Macae, RJ, Brazil.
+EM sara_z_c@hotmail.com; biodepaulaarquivo@gmail.com;
+   simoneazgomes@yahoo.com.br; rodrigo.nunes.da.fonseca@gmail.com;
+   betocfrio@gmail.com; fbmury@macae.ufrj.br
+RI Silva, Jose Roberto/AAZ-3137-2020; Samuels, Richard/R-6042-2017
+OI Samuels, Richard/0000-0003-1814-2456; Cabral, Sara
+   Zanuti/0000-0002-2790-2771
+FU CNPq (Conselho Nacional de Desenvolvimento Cientifico e Tecnologico,
+   Brazil)National Council for Scientific and Technological Development
+   (CNPq); FAPERJ (Fundacao Carlos Chagas Filho de Amparo a Pesquisa do
+   Estado do Rio de Janeiro)Carlos Chagas Filho Foundation for Research
+   Support of the State of Rio de Janeiro (FAPERJ) [RS: E26/102.353/2013,
+   E-26/201.336/2016]
+FX This research was funded by CNPq (Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico, Brazil), FAPERJ (Fundacao Carlos Chagas Filho
+   de Amparo a Pesquisa do Estado do Rio de Janeiro) (RS: E26/102.353/2013;
+   E-26/201.336/2016). Richard Samuels is a CNPq research fellow.
+CR Alkhaibari AM, 2016, PLOS PATHOG, V12, DOI 10.1371/journal.ppat.1005715
+   Antonova Y, 2009, INSECT BIOCHEM MOLEC, V39, P303, DOI 10.1016/j.ibmb.2009.01.007
+   BarillasMury C, 1996, EMBO J, V15, P4691, DOI 10.1002/j.1460-2075.1996.tb00846.x
+   Barletta ABF, 2017, PARASITE VECTOR, V10, DOI 10.1186/s13071-017-2040-9
+   Baverstock J, 2010, BIOCONTROL, V55, P89, DOI 10.1007/s10526-009-9238-5
+   Benelli G, 2017, ENTOMOL GEN, V36, P309, DOI 10.1127/entomologia/2017/0496
+   Bian G, 2005, P NATL ACAD SCI USA, V102, P13568, DOI 10.1073/pnas.0502815102
+   Blandin S, 2004, MOL IMMUNOL, V40, P903, DOI 10.1016/j.molimm.2003.10.010
+   Bonizzoni M, 2011, BMC GENOMICS, V12, DOI 10.1186/1471-2164-12-82
+   Bottino-Rojas V, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0135985
+   Butt TM, 2016, ADV GENET, V94, P307, DOI 10.1016/bs.adgen.2016.01.006
+   Cherry AJ, 2005, J STORED PROD RES, V41, P295, DOI 10.1016/j.jspr.2004.04.002
+   Dal Bello G, 2001, J STORED PROD RES, V37, P77, DOI 10.1016/S0022-474X(00)00009-6
+   de Paula AR, 2008, BIOCONTROL SCI TECHN, V18, P1017, DOI 10.1080/09583150802509199
+   Dong YM, 2012, INSECT BIOCHEM MOLEC, V42, P126, DOI 10.1016/j.ibmb.2011.11.005
+   Dzaki N, 2017, SCI REP-UK, V7, DOI 10.1038/srep43618
+   Everitt BS, 1994, STAT METHODS MED INV
+   Fang WG, 2012, CURR OPIN MICROBIOL, V15, P232, DOI 10.1016/j.mib.2011.12.012
+   Barletta ABF, 2012, PARASITE VECTOR, V5, DOI 10.1186/1756-3305-5-148
+   Franz AWE, 2015, VIRUSES-BASEL, V7, P3741, DOI 10.3390/v7072795
+   Fukutani KF, 2018, FRONT BIOENG BIOTECH, V5, DOI 10.3389/fbioe.2017.00084
+   Garver LS, 2012, PLOS PATHOG, V8, DOI 10.1371/journal.ppat.1002737
+   Garver LS, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000335
+   Gatherer D, 2016, J GEN VIROL, V97, P269, DOI 10.1099/jgv.0.000381
+   Higgs S, 2004, BIOL DIS VECTORS, P167
+   Kanost MR, 2004, IMMUNOL REV, V198, P97, DOI 10.1111/j.0105-2896.2004.0121.x
+   Kumar A, 2010, MOL MICROBIOL, V75, P942, DOI 10.1111/j.1365-2958.2009.07033.x
+   Kumar A, 2018, INSECTS, V9, DOI 10.3390/insects9030095
+   LACEY LA, 1990, J AM MOSQUITO CONTR, P1
+   Lavine MD, 2002, INSECT BIOCHEM MOLEC, V32, P1295, DOI 10.1016/S0965-1748(02)00092-9
+   Lemaitre B, 1996, CELL, V86, P973, DOI 10.1016/S0092-8674(00)80172-5
+   Lemaitre B, 2007, ANNU REV IMMUNOL, V25, P697, DOI 10.1146/annurev.immunol.25.022106.141615
+   Livak KJ, 2001, METHODS, V25, P402, DOI 10.1006/meth.2001.1262
+   Lord JC, 2001, J ECON ENTOMOL, V94, P367, DOI 10.1603/0022-0493-94.2.367
+   Lovett B, 2017, MICROBIOL SPECTR, V5, DOI 10.1128/microbiolspec.FUNK-0001-2016
+   Lu HL, 2016, ADV GENET, V94, P251, DOI 10.1016/bs.adgen.2015.11.002
+   Luna C, 2006, INSECT MOL BIOL, V15, P721, DOI 10.1111/j.1365-2583.2006.00661.x
+   Maina U.M., 2018, Journal of Entomology and Zoology Studies, V6, P27
+   Manning JE, 2018, J INFECT DIS, V218, P7, DOI 10.1093/infdis/jiy179
+   Marques AM, 2017, J VECTOR DIS, V54, P61
+   Meister S, 2005, P NATL ACAD SCI USA, V102, P11420, DOI 10.1073/pnas.0504950102
+   Meister S, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000542
+   Moyes CL, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005625
+   Oliveira JHM, 2011, PLOS PATHOG, V7, DOI 10.1371/journal.ppat.1001320
+   Paula AR, 2011, PARASITE VECTOR, V4, DOI 10.1186/1756-3305-4-91
+   Paula AR, 2011, PARASITE VECTOR, V4, DOI 10.1186/1756-3305-4-8
+   Plourde AR, 2016, EMERG INFECT DIS, V22, P1185, DOI 10.3201/eid2207.151990
+   Ramirez JL, 2019, DEV COMP IMMUNOL, V95, P1, DOI 10.1016/j.dci.2018.12.010
+   Ramirez JL, 2018, PLOS NEGLECT TROP D, V12, DOI 10.1371/journal.pntd.0006433
+   Ramirez JL, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001561
+   Rivera-Perez C, 2017, CURR OPIN INSECT SCI, V23, P112, DOI 10.1016/j.cois.2017.07.002
+   Schneider D., 2009, INSECT INFECT IMMUNI
+   SCHNEIDER DS, 1994, DEVELOPMENT, V120, P1243
+   Scholte EJ, 2004, J INSECT SCI, V4, DOI 10.1093/jis/4.1.19
+   Shin SW, 2005, J BIOL CHEM, V280, P16499, DOI 10.1074/jbc.M500711200
+   Strand MR, 2008, INSECT SCI, V15, P1, DOI 10.1111/j.1744-7917.2008.00183.x
+   Tawidian P, 2019, INSECT BIOCHEM MOLEC, V111, DOI 10.1016/j.ibmb.2019.103182
+   Upton LM, 2015, J INNATE IMMUN, V7, P74, DOI 10.1159/000365331
+   Wei G, 2017, P NATL ACAD SCI USA, V114, P5994, DOI 10.1073/pnas.1703546114
+   Whitehorn J, 2011, VACCINE, V29, P7221, DOI 10.1016/j.vaccine.2011.07.022
+   Wikan N, 2016, LANCET INFECT DIS, V16, pE119, DOI 10.1016/S1473-3099(16)30010-X
+   World Health Organization, DENG SEV DENG
+   Wrkato D., 1994, CELL, V76, P677
+   Zhang RD, 2017, FRONT CELL INFECT MI, V7, DOI [10.3382/fcimb.2017.00022, 10.3389/fcimb.2017.00022]
+NR 64
+TC 0
+Z9 0
+U1 1
+U2 1
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2075-4450
+J9 INSECTS
+JI Insects
+PD FEB
+PY 2020
+VL 11
+IS 2
+AR 95
+DI 10.3390/insects11020095
+PG 15
+WC Entomology
+SC Entomology
+GA KT6HZ
+UT WOS:000519116600064
+PM 32024202
+OA DOAJ Gold, Green Published
+DA 2020-12-17
+ER
+
+PT J
+AU Tobias-Santos, V
+   Guerra-Almeida, D
+   Mury, F
+   Ribeiro, L
+   Berni, M
+   Araujo, H
+   Logullo, C
+   Feitosa, NM
+   de Souza-Menezes, J
+   Costa, EP
+   Nunes-da-Fonseca, R
+AF Tobias-Santos, Vitoria
+   Guerra-Almeida, Diego
+   Mury, Flavia
+   Ribeiro, Lupis
+   Berni, Mateus
+   Araujo, Helena
+   Logullo, Carlos
+   Feitosa, Natalia Martins
+   de Souza-Menezes, Jackson
+   Costa, Evenilton Pessoa
+   Nunes-da-Fonseca, Rodrigo
+TI Multiple Roles of the Polycistronic Gene
+   Tarsal-less/Mille-Pattes/Polished-Rice During Embryogenesis of the
+   Kissing Bug Rhodnius prolixus
+SO FRONTIERS IN ECOLOGY AND EVOLUTION
+LA English
+DT Article
+DE smORF; peptides; evo-devo; arthropod development; hemiptera; evolution;
+   MZT; hemimetabolous insect
+ID PROTEIN SECONDARY STRUCTURE; WEB SERVER; BINDING-AFFINITY; BLOODSUCKING
+   BUG; SMALL PEPTIDES; LESS PEPTIDES; TRANSCRIPTOME; REFINEMENT;
+   PREDICTION; DATABASE
+AB Genes encoding small open-reading frames (smORFs) have been characterized as essential players of developmental processes. The smORF Tarsal-less/mille-pattes/polished-rice has been thoroughly investigated in holometabolous insects, such as the fruit fly Drosophila melanogaster and the red flour beetle Tribolium castaneum, while its function in hemimetabolous insects was only recently investigated. Thus, we analyzed the function of the tal/pri/mlpt ortholog in a hemimetabolous insect, the kissing bug Rhodnius prolixus (Rp). Sequence analysis shows that Rp-mlpt polycistronic mRNA encodes two small peptides (11-14 amino acids) containing a LDPTG(L/Q/T)Y motif. Interestingly, a new hemipteran-specific conserved peptide of similar to 80 amino acids was also identified by in silico analysis. In silico docking analysis supports the binding of the small Mlpt peptides to the transcription factor Shavenbaby. Rp-mlpt in situ hybridization and knockdown via RNA interference showed a conserved role of Rp-mlpt during embryogenesis, with a major role in the regulation of thoracic vs. abdominal segmentation, leg development, and head formation. Altogether, our study shows that mlpt segmentation role is conserved in the common ancestor of Paraneoptera and suggests that polycistronic genes might generate order specific smORFs.
+C1 [Tobias-Santos, Vitoria; Guerra-Almeida, Diego; Mury, Flavia; Ribeiro, Lupis; Logullo, Carlos; Feitosa, Natalia Martins; de Souza-Menezes, Jackson; Nunes-da-Fonseca, Rodrigo] Univ Fed Rio de Janeiro, Inst Biodiversidade & Sustentabilidade NUPEM, Campus Macae, Rio De Janeiro, Brazil.
+   [Tobias-Santos, Vitoria] CNRS, Inst Genom Fonct Lyon, UMR 5242, Lyon, France.
+   [Berni, Mateus; Araujo, Helena] Univ Fed Rio de Janeiro, Inst Ciencias Biomed, Lab Biol Mol Desenvolvimento, Cidade Univ Ilha Fundao, Rio De Janeiro, Brazil.
+   [Araujo, Helena; Logullo, Carlos; Nunes-da-Fonseca, Rodrigo] INCT EM, Rio De Janeiro, Brazil.
+   [Costa, Evenilton Pessoa] Univ Estadual Norte Fluminense, Ctr Biociencias & Biotecnol, Lab Quim & Funcao Prot Peptideos, Rio De Janeiro, Brazil.
+RP Nunes-da-Fonseca, R (corresponding author), Univ Fed Rio de Janeiro, Inst Biodiversidade & Sustentabilidade NUPEM, Campus Macae, Rio De Janeiro, Brazil.; Nunes-da-Fonseca, R (corresponding author), INCT EM, Rio De Janeiro, Brazil.
+EM rnfonseca@macae.ufrj.br
+RI Costa, Evenilton Pessoa/F-9692-2012
+OI Costa, Evenilton Pessoa/0000-0003-3316-2834
+FU CNPqNational Council for Scientific and Technological Development (CNPq)
+   [307952/2017-7, 431354/20162]; FAPERJCarlos Chagas Filho Foundation for
+   Research Support of the State of Rio de Janeiro (FAPERJ)
+   [E-26/210-150/2016, E-26/203.298/2016]; National Institute of Molecular
+   Entomology/CNPq (INCT-EM); CAPESCAPES
+FX RN was supported by CNPq (307952/2017-7 and 431354/20162) and FAPERJ
+   (E-26/210-150/2016 and E-26/203.298/2016). VT-S and DG-A were master
+   students of PPG-PRODBIO-Macae (CAPES scholarships), MB a Ph.D. student
+   from PPG-PCM-ICB-UFRJ and LR was a postdoc with CAPES scholarship from
+   the National Institute of Molecular Entomology/CNPq (INCT-EM).
+CR Al Hayek S, 2019, BIORXIV, DOI [10.1101/627554, DOI 10.1101/627554]
+   Altschul SF, 1997, NUCLEIC ACIDS RES, V25, P3389, DOI 10.1093/nar/25.17.3389
+   Aspden JL, 2014, ELIFE, V3, DOI 10.7554/eLife.03528
+   Auman T, 2017, DEVELOPMENT, V144, P1896, DOI 10.1242/dev.142091
+   Azuara C, 2006, NUCLEIC ACIDS RES, V34, pW38, DOI 10.1093/nar/gkl072
+   Benton MA, 2018, PLOS BIOL, V16, DOI 10.1371/journal.pbio.2005093
+   Benton MA, 2016, CURR BIOL, V26, P1609, DOI 10.1016/j.cub.2016.04.055
+   Berni M, 2014, EVODEVO, V5, DOI 10.1186/2041-9139-5-38
+   Bhattacharya D, 2016, NUCLEIC ACIDS RES, V44, pW406, DOI 10.1093/nar/gkw336
+   Brito T, 2018, PLOS NEGLECT TROP D, V12, DOI 10.1371/journal.pntd.0006760
+   Cao GL, 2018, APPL MICROBIOL BIOT, V102, P1809, DOI 10.1007/s00253-017-8708-4
+   Cao RZ, 2016, BMC BIOINFORMATICS, V17, DOI 10.1186/s12859-016-1405-y
+   Cao RZ, 2016, SCI REP-UK, V6, DOI 10.1038/srep23990
+   Chanut-Delalande H, 2014, NAT CELL BIOL, V16, P1035, DOI 10.1038/ncb3052
+   Chekulaeva M, 2019, CSH PERSPECT BIOL, V11, DOI 10.1101/cshperspect.a032680
+   Chen VB, 2010, ACTA CRYSTALLOGR D, V66, P12, DOI 10.1107/S0907444909042073
+   Chesebro J., 2013, THESIS
+   Couso JP, 2017, NAT REV MOL CELL BIO, V18, P575, DOI 10.1038/nrm.2017.58
+   Cukuroglu E, 2012, NUCLEIC ACIDS RES, V40, pD829, DOI 10.1093/nar/gkr929
+   Dolinsky TJ, 2004, NUCLEIC ACIDS RES, V32, pW665, DOI 10.1093/nar/gkh381
+   Eisenberg D, 1997, METHOD ENZYMOL, V277, P396, DOI 10.1016/S0076-6879(97)77022-8
+   Galindo MI, 2007, PLOS BIOL, V5, P1052, DOI 10.1371/journal.pbio.0050106
+   Gilles AF, 2015, DEVELOPMENT, V142, P2832, DOI 10.1242/dev.125054
+   Hanson J, 2017, BIOINFORMATICS, V33, P685, DOI 10.1093/bioinformatics/btw678
+   Heo L, 2016, SCI REP-UK, V6, DOI 10.1038/srep32153
+   Heo L, 2013, NUCLEIC ACIDS RES, V41, pW384, DOI 10.1093/nar/gkt458
+   Jimenez-Guri E, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.180458
+   Jones DT, 2015, BIOINFORMATICS, V31, P857, DOI 10.1093/bioinformatics/btu744
+   Jones DT, 1999, J MOL BIOL, V292, P195, DOI 10.1006/jmbi.1999.3091
+   Kondo T, 2010, SCIENCE, V329, P336, DOI 10.1126/science.1188158
+   Kondo T, 2007, NAT CELL BIOL, V9, P660, DOI 10.1038/ncb1595
+   Kumar S, 2017, MOL BIOL EVOL, V34, P1812, DOI 10.1093/molbev/msx116
+   Kurcinski M, 2015, NUCLEIC ACIDS RES, V43, pW419, DOI 10.1093/nar/gkv456
+   Ladoukakis E, 2011, GENOME BIOL, V12, DOI 10.1186/gb-2011-12-11-r118
+   Laskowski RA, 2018, PROTEIN SCI, V27, P129, DOI 10.1002/pro.3289
+   Lavore A, 2014, DEV BIOL, V387, P121, DOI 10.1016/j.ydbio.2013.12.030
+   Lavore A, 2012, DEV BIOL, V361, P147, DOI 10.1016/j.ydbio.2011.06.038
+   Magny EG, 2013, SCIENCE, V341, P1116, DOI 10.1126/science.1238802
+   Malhotra S, 2015, BMC BIOINFORMATICS, V16, DOI 10.1186/s12859-015-0572-6
+   Manavalan B, 2017, BIOINFORMATICS, V33, P2496, DOI 10.1093/bioinformatics/btx222
+   Marchant A, 2016, INSECT BIOCHEM MOLEC, V69, P25, DOI 10.1016/j.ibmb.2015.05.009
+   Medeiros MN, 2011, INSECT BIOCHEM MOLEC, V41, P823, DOI 10.1016/j.ibmb.2011.06.004
+   Meireles LMC, 2010, NUCLEIC ACIDS RES, V38, pW407, DOI 10.1093/nar/gkq502
+   Mesquita RD, 2015, P NATL ACAD SCI USA, V112, P14936, DOI 10.1073/pnas.1506226112
+   Mirabello C, 2013, BIOINFORMATICS, V29, P2056, DOI 10.1093/bioinformatics/btt344
+   Moal IH, 2015, BIOINFORMATICS, V31, P123, DOI 10.1093/bioinformatics/btu594
+   Nunes-Da-Fonseca R, 2017, GENESIS, V55, DOI 10.1002/dvg.22995
+   NUSSLEINVOLHARD C, 1980, NATURE, V287, P795, DOI 10.1038/287795a0
+   Olechnovic K, 2017, PROTEINS, V85, P1131, DOI 10.1002/prot.25278
+   Paese CLB, 2018, ELIFE, V7, DOI 10.7554/eLife.37567
+   Panfilio KA, 2008, DEV BIOL, V313, P471, DOI 10.1016/j.ydbio.2007.11.004
+   Panfilio KA, 2019, GENOME BIOL, V20, DOI 10.1186/s13059-019-1660-0
+   Panfilio KA, 2018, CURR OPIN INSECT SCI, V25, P106, DOI 10.1016/j.cois.2017.12.005
+   Pettersen EF, 2004, J COMPUT CHEM, V25, P1605, DOI 10.1002/jcc.20084
+   Pueyo JI, 2016, TRENDS BIOCHEM SCI, V41, P665, DOI 10.1016/j.tibs.2016.05.003
+   Pueyo JI, 2016, PLOS BIOL, V14, DOI 10.1371/journal.pbio.1002395
+   Pueyo JI, 2011, DEV BIOL, V355, P183, DOI 10.1016/j.ydbio.2011.03.033
+   Ray S, 2019, ELIFE, V8, DOI 10.7554/eLife.39748
+   Ribeiro JMC, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002594
+   Richards S, 2008, NATURE, V452, P949, DOI 10.1038/nature06784
+   Sachs L, 2015, ELIFE, V4, DOI 10.7554/eLife.05502
+   Saghatelianr A, 2015, NAT CHEM BIOL, V11, P909, DOI 10.1038/nchembio.1964
+   Santos VT, 2013, GENESIS, V51, P803, DOI 10.1002/dvg.22717
+   Savard J, 2006, CELL, V126, P559, DOI 10.1016/j.cell.2006.05.053
+   Schwager EE, 2017, BMC BIOL, V15, DOI 10.1186/s12915-017-0399-x
+   Souza-Ferreira PS, 2014, INSECT BIOCHEM MOLEC, V51, P89, DOI 10.1016/j.ibmb.2013.12.005
+   Sukhwal A, 2015, BIOINFORM BIOL INSIG, V9, P141, DOI 10.4137/BBI.S25928
+   Unni S, 2011, J COMPUT CHEM, V32, P1488, DOI 10.1002/jcc.21720
+   Uziela K, 2017, BIOINFORMATICS, V33, P1578, DOI 10.1093/bioinformatics/btw819
+   van Zundert GCP, 2016, J MOL BIOL, V428, P720, DOI 10.1016/j.jmb.2015.09.014
+   Weng GQ, 2019, NUCLEIC ACIDS RES, V47, pW322, DOI 10.1093/nar/gkz397
+   Wiederstein M, 2007, NUCLEIC ACIDS RES, V35, pW407, DOI 10.1093/nar/gkm290
+   Xiong P, 2017, J MOL BIOL, V429, P426, DOI 10.1016/j.jmb.2016.11.022
+   Xu D, 2011, BIOPHYS J, V101, P2525, DOI 10.1016/j.bpj.2011.10.024
+   Xue LC, 2016, BIOINFORMATICS, V32, P3676, DOI 10.1093/bioinformatics/btw514
+   Yang JY, 2015, NAT METHODS, V12, P7, DOI 10.1038/nmeth.3213
+   Zanet J, 2016, CURR TOP DEV BIOL, V117, P199, DOI 10.1016/bs.ctdb.2015.11.004
+   Zanet J, 2015, SCIENCE, V349, P1356, DOI 10.1126/science.aac5677
+   Zhang J, 2011, STRUCTURE, V19, P1784, DOI 10.1016/j.str.2011.09.022
+   Zhu M, 2018, APPL MICROBIOL BIOT, V102, P6841, DOI 10.1007/s00253-018-9159-2
+NR 80
+TC 1
+Z9 1
+U1 0
+U2 0
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 2296-701X
+J9 FRONT ECOL EVOL
+JI Front. Ecol. Evol.
+PD OCT 11
+PY 2019
+VL 7
+AR 379
+DI 10.3389/fevo.2019.00379
+PG 16
+WC Ecology
+SC Environmental Sciences & Ecology
+GA JN5PE
+UT WOS:000496949400001
+OA DOAJ Gold
+DA 2020-12-17
+ER
+
+PT J
+AU Mury, FB
+   Lugon, MD
+   Da Fonseca, RN
+   Silva, JR
+   Berni, M
+   Araujo, HM
+   Fontenele, MR
+   De Abreu, LA
+   Dansa, M
+   Braz, G
+   Masuda, H
+   Logullo, C
+AF Mury, Flavia B.
+   Lugon, Magda D.
+   Da Fonseca, Rodrigo Nunes
+   Silva, Jose R.
+   Berni, Mateus
+   Araujo, Helena M.
+   Fontenele, Marcio Ribeiro
+   De Abreu, Leonardo Araujo
+   Dansa, Marilvia
+   Braz, Gloria
+   Masuda, Hatisaburo
+   Logullo, Carlos
+TI Glycogen Synthase Kinase-3 is involved in glycogen metabolism control
+   and embryogenesis of Rhodnius prolixus
+SO PARASITOLOGY
+LA English
+DT Article
+DE Rhodnius prolixus; Glycogen synthase kinase-3; metabolism; embryogenesis
+   and development
+ID TIME QUANTITATIVE PCR; BOOPHILUS-MICROPLUS; YOLK PROTEINS; GENE; WNT;
+   PHOSPHORYLATION; GSK-3; ACCUMULATION; INHIBITION; SUBOLESIN
+AB Rhodnius prolixus is a blood-feeding insect that transmits Trypanosoma cruzi and Trypanosoma rangeli to vertebrate hosts. Rhodnius prolixus is also a classical model in insect physiology, and the recent availability of R. prolixus genome has opened new avenues on triatomine research. Glycogen synthase kinase 3 (GSK-3) is classically described as a key enzyme involved in glycogen metabolism, also acting as a downstream component of the Wnt pathway during embryogenesis. GSK-3 has been shown to be highly conserved among several organisms, mainly in the catalytic domain region. Meanwhile, the role of GSK-3 during R. prolixus embryogenesis or glycogen metabolism has not been investigated. Here we show that chemical inhibition of GSK-3 by alsterpaullone, an ATP-competitive inhibitor of GSK3, does not affect adult survival rate, though it alters oviposition and egg hatching. Specific GSK-3 gene silencing by dsRNA injection in adult females showed a similar phenotype. Furthermore, bright field and 4'-6-diamidino-2-phenylindole (DAPI) staining analysis revealed that ovaries and eggs from dsGSK-3 injected females exhibited specific morphological defects. We also demonstrate that glycogen content was inversely related to activity and transcription levels of GSK-3 during embryogenesis. Lastly, after GSK-3 knockdown, we observed changes in the expression of the Wingless (Wnt) downstream target -catenin as well as in members of other pathways such as the receptor Notch. Taken together, our results show that GSK-3 regulation is essential for R. prolixus oogenesis and embryogenesis.
+C1 [Mury, Flavia B.; Da Fonseca, Rodrigo Nunes; Silva, Jose R.; De Abreu, Leonardo Araujo] Univ Fed Rio de Janeiro, LIBHM NUPEM, Macae, RJ, Brazil.
+   [Mury, Flavia B.; Da Fonseca, Rodrigo Nunes; Silva, Jose R.; De Abreu, Leonardo Araujo; Dansa, Marilvia; Braz, Gloria; Masuda, Hatisaburo; Logullo, Carlos] INCT EM, Rio De Janeiro, RJ, Brazil.
+   [Lugon, Magda D.; Dansa, Marilvia; Logullo, Carlos] Univ Estadual Norte Fluminense Darci Ribeiro, LQFPP, Campos Dos Goytacazes, RJ, Brazil.
+   [Lugon, Magda D.; Dansa, Marilvia; Logullo, Carlos] Univ Estadual Norte Fluminense Darci Ribeiro, UEA RJ, Campos Dos Goytacazes, RJ, Brazil.
+   [Berni, Mateus; Araujo, Helena M.; Fontenele, Marcio Ribeiro] Univ Fed Rio de Janeiro, Inst Ciencias Biomed, Rio De Janeiro, RJ, Brazil.
+   [Braz, Gloria] Univ Fed Rio de Janeiro, Inst Quim, Dept Bioquim, Rio De Janeiro, RJ, Brazil.
+   [Masuda, Hatisaburo] Univ Fed Rio de Janeiro, Inst Bioquim Med, Rio De Janeiro, RJ, Brazil.
+RP Logullo, C (corresponding author), Univ Estadual Norte Fluminense Darci Ribeiro, CBB LQFPP UEA RJ, Av Alberto Lamego 2000, BR-28013620 Campos Dos Goytacazes, RJ, Brazil.
+EM logullo@uenf.br
+RI Araujo, Helena/D-7149-2013; Fontenele, Marcio/K-3590-2012;
+   Nunes-da-Fonseca, Rodrigo/S-3964-2018
+OI Araujo, Helena/0000-0003-0371-9523; Fontenele,
+   Marcio/0000-0001-8828-3671; Nunes-da-Fonseca,
+   Rodrigo/0000-0001-9576-2849
+FU CNPq (Conselho Nacional de Desenvolvimento Cientifico e Tecnologico,
+   Brazil)National Council for Scientific and Technological Development
+   (CNPq); FAPERJ (Fundacao de Amparo a Pesquisa do Estado do Rio de
+   Janeiro)Carlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ)
+FX This work was supported by CNPq (Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico, Brazil), FAPERJ (Fundacao de Amparo a Pesquisa
+   do Estado do Rio de Janeiro), both awarded to C.L.
+CR Acebron SP, 2014, MOL CELL, V54, P663, DOI 10.1016/j.molcel.2014.04.014
+   Aljamali MN, 2002, EXP APPL ACAROL, V28, P89, DOI 10.1023/A:1025346131903
+   Atella GC, 2005, AN ACAD BRAS CIENC, V77, P405, DOI 10.1590/S0001-37652005000300005
+   Baron R, 2006, CURR TOP DEV BIOL, V76, P103, DOI 10.1016/S0070-2153(06)76004-5
+   Berni M, 2014, EVODEVO, V5, DOI 10.1186/2041-9139-5-38
+   Bernstein E, 2001, NATURE, V409, P363, DOI 10.1038/35053110
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1016/0003-2697(76)90527-3
+   Brembeck FH, 2006, CURR OPIN GENET DEV, V16, P51, DOI 10.1016/j.gde.2005.12.007
+   Campos E, 2006, VET PARASITOL, V138, P349, DOI 10.1016/j.vetpar.2006.02.004
+   Canavoso LE, 2001, ANNU REV NUTR, V21, P23, DOI 10.1146/annurev.nutr.21.1.23
+   Carthew RW, 2001, CURR OPIN CELL BIOL, V13, P244, DOI 10.1016/S0955-0674(00)00204-0
+   Cohen P, 2001, NAT REV MOL CELL BIO, V2, P769, DOI 10.1038/35096075
+   CROSS DAE, 1995, NATURE, V378, P785, DOI 10.1038/378785a0
+   de Abreu LA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0098966
+   de Abreu LA, 2013, BBA-GEN SUBJECTS, V1830, P2574, DOI 10.1016/j.bbagen.2012.12.016
+   De la Fuente J, 2006, PARASITE IMMUNOL, V28, P275, DOI 10.1111/j.1365-3024.2006.00828.x
+   de la Fuente J, 2006, VACCINE, V24, P4082, DOI 10.1016/j.vaccine.2006.02.046
+   de Lau W, 2007, FRONT BIOSCI-LANDMRK, V12, P471, DOI 10.2741/2076
+   Eldar-Finkelman H, 2011, FRONT MOL NEUROSCI, V4, DOI 10.3389/fnmol.2011.00032
+   Espinosa L, 2003, J BIOL CHEM, V278, P32227, DOI 10.1074/jbc.M304001200
+   Fabres A, 2010, PARASITOLOGY, V137, P1537, DOI 10.1017/S0031182010000284
+   Ferkey DM, 2000, DEV BIOL, V225, P471, DOI 10.1006/dbio.2000.9816
+   Fialho E, 2002, INSECT BIOCHEM MOLEC, V32, P871, DOI 10.1016/S0965-1748(01)00175-8
+   Foltz DR, 2002, CURR BIOL, V12, P1006, DOI 10.1016/S0960-9822(02)00888-6
+   Fraga A, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0065125
+   Gade G, 2003, GEN COMP ENDOCR, V132, P10, DOI 10.1016/S0016-6480(03)00159-X
+   GARCIA ES, 1994, EXP PARASITOL, V78, P287, DOI 10.1006/expr.1994.1030
+   GONDIM KC, 1992, ARCH INSECT BIOCHEM, V20, P303, DOI 10.1002/arch.940200406
+   Grimes CA, 2001, PROG NEUROBIOL, V65, P391, DOI 10.1016/S0301-0082(01)00011-9
+   HEITZLER P, 1991, CELL, V64, P1083, DOI 10.1016/0092-8674(91)90263-X
+   Henschel A, 2004, NUCLEIC ACIDS RES, V32, pW113, DOI 10.1093/nar/gkh408
+   Katagiri N, 1998, J INSECT PHYSIOL, V44, P1205, DOI 10.1016/S0022-1910(98)00088-2
+   Kocan KM, 2007, PARASITOL RES, V100, P1411, DOI 10.1007/s00436-007-0483-1
+   Kocan KM, 2009, BMC DEV BIOL, V9, DOI 10.1186/1471-213X-9-42
+   Lavore A, 2014, DEV BIOL, V387, P121, DOI 10.1016/j.ydbio.2013.12.030
+   Lavore A, 2012, DEV BIOL, V361, P147, DOI 10.1016/j.ydbio.2011.06.038
+   Liu CM, 2002, CELL, V108, P837, DOI 10.1016/S0092-8674(02)00685-2
+   Livak KJ, 2001, METHODS, V25, P402, DOI 10.1006/meth.2001.1262
+   Majerowicz D, 2011, INSECT MOL BIOL, V20, P713, DOI 10.1111/j.1365-2583.2011.01101.x
+   Mariano AC, 2009, ARCH INSECT BIOCHEM, V72, P1, DOI 10.1002/arch.20319
+   Melo ACA, 2000, INSECT BIOCHEM MOLEC, V30, P549, DOI 10.1016/S0965-1748(00)00023-0
+   Moraes J, 2007, COMP BIOCHEM PHYS A, V146, P528, DOI 10.1016/j.cbpa.2006.05.009
+   Naito Y, 2005, NUCLEIC ACIDS RES, V33, pW589, DOI 10.1093/nar/gki419
+   Nijhof AM, 2007, INT J PARASITOL, V37, P653, DOI 10.1016/j.ijpara.2006.11.005
+   OLIVEIRA PL, 1986, J INSECT PHYSIOL, V32, P859, DOI 10.1016/0022-1910(86)90101-0
+   Papadopoulou D, 2004, MOL CELL BIOL, V24, P4909, DOI 10.1128/MCB.24.11.4909-4919.2004
+   Papaj DR, 2000, ANNU REV ENTOMOL, V45, P423, DOI 10.1146/annurev.ento.45.1.423
+   Polakis P, 2007, CURR OPIN GENET DEV, V17, P45, DOI 10.1016/j.gde.2006.12.007
+   RAIKHEL AS, 1992, ANNU REV ENTOMOL, V37, P217, DOI 10.1146/annurev.en.37.010192.001245
+   RAMAMURTY PS, 1968, J INSECT PHYSIOL, V14, P1325, DOI 10.1016/0022-1910(68)90025-5
+   RUEL L, 1993, NATURE, V362, P557, DOI 10.1038/362557a0
+   Ruiz-Trillo I, 2008, MOL BIOL EVOL, V25, P664, DOI 10.1093/molbev/msn006
+   Santos R, 2008, ARCH INSECT BIOCHEM, V67, P55, DOI 10.1002/arch.20217
+   Schierwater B, 2009, PLOS BIOL, V7, P36, DOI 10.1371/journal.pbio.1000020
+   THOMPSON JD, 1994, NUCLEIC ACIDS RES, V22, P4673, DOI 10.1093/nar/22.22.4673
+   Tullai JW, 2007, J BIOL CHEM, V282, P9482, DOI 10.1074/jbc.M700067200
+   van Noort M, 2002, J BIOL CHEM, V277, P17901, DOI 10.1074/jbc.M111635200
+   Vital W, 2010, BMC DEV BIOL, V10, DOI 10.1186/1471-213X-10-25
+   Wigglesworth V. B., 1959, CONTROL GROWTH FORM
+   Wigglesworth V.B., 1954, PHYSL INSECT METAMOR
+   Wislet-Gendebien Sabine, 2013, TRENDS CELL SIGNALIN, DOI [10.5772/55180, DOI 10.5772/55180]
+   Yamazaki H, 2002, MECH DEVELOP, V119, P115, DOI 10.1016/S0925-4773(02)00307-6
+   Zdobnov EM, 2001, BIOINFORMATICS, V17, P847, DOI 10.1093/bioinformatics/17.9.847
+   Ziegler R, 2006, INSECT BIOCHEM MOLEC, V36, P264, DOI 10.1016/j.ibmb.2006.01.014
+NR 64
+TC 5
+Z9 5
+U1 0
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0031-1820
+EI 1469-8161
+J9 PARASITOLOGY
+JI Parasitology
+PD OCT
+PY 2016
+VL 143
+IS 12
+BP 1569
+EP 1579
+DI 10.1017/S0031182016001487
+PG 11
+WC Parasitology
+SC Parasitology
+GA DX5IW
+UT WOS:000384415700007
+PM 27574112
+DA 2020-12-17
+ER
+
+PT J
+AU Salvador-Neto, O
+   Gomes, SA
+   Soares, AR
+   Machado, FLD
+   Samuels, RI
+   da Fonseca, RN
+   Souza-Menezes, J
+   Moraes, JLD
+   Campos, E
+   Mury, FB
+   Silva, JR
+AF Salvador-Neto, Orlando
+   Gomes, Simone Azevedo
+   Soares, Angelica Ribeiro
+   da Silva Machado, Fernanda Lacerda
+   Samuels, Richard Ian
+   da Fonseca, Rodrigo Nunes
+   Souza-Menezes, Jackson
+   da Cunha Moraes, Jorge Luiz
+   Campos, Eldo
+   Mury, Flavia Borges
+   Silva, Jose Roberto
+TI Larvicidal Potential of the Halogenated Sesquiterpene (+)- Obtusol,
+   Isolated from the Alga Laurencia dendroidea J. Agardh (Ceramiales:
+   Rhodomelaceae), against the Dengue Vector Mosquito Aedes aegypti
+   (Linnaeus) (Diptera: Culicidae)
+SO MARINE DRUGS
+LA English
+DT Article
+DE Laurencia dendroidea; Aedes aegypti; larvicide; sesquiterpenes;
+   (+)-obtusol; (-)-elatol; oxidative stress
+ID FUNGUS METARHIZIUM-ANISOPLIAE; CULEX-QUINQUEFASCIATUS SAY; RED ALGA;
+   ANTIBACTERIAL ACTIVITY; LARVAE DIPTERA; MARINE-ALGAE; EXTRACTS;
+   SEAWEEDS; TRANSPORT; ELATOL
+AB Dengue is considered a serious public health problem in many tropical regions of the world including Brazil. At the moment, there is no viable alternative to reduce dengue infections other than controlling the insect vector, Aedes aegypti Linnaeus. In the continuing search for new sources of chemicals targeted at vector control, natural products are a promising alternative to synthetic pesticides. In our work, we investigated the toxicity of a bioactive compound extracted from the red alga Laurencia dendroidea J. Agardh. The initial results demonstrated that crude extracts, at a concentration of 5 ppm, caused pronounced mortality of second instar A. aegypti larvae. Two molecules, identified as (-)-elatol and (+)-obtusol were subsequently isolated from crude extract and further evaluated. Assays with (-)-elatol showed moderate larvicidal activity, whereas (+)-obtusol presented higher toxic activity than (-)-elatol, with a LC50 value of 3.5 ppm. Histological analysis of the larvae exposed to (+)-obtusol revealed damage to the intestinal epithelium. Moreover, (+)-obtusol-treated larvae incubated with 2 mu M CM-H(2)DCFDA showed the presence of reactive oxygen species, leading us to suggest that epithelial damage might be related to redox imbalance. These results demonstrate the potential of (+)-obtusol as a larvicide for use against A. aegypti and the possible mode of action of this compound.
+C1 [Salvador-Neto, Orlando; Gomes, Simone Azevedo; da Fonseca, Rodrigo Nunes; Souza-Menezes, Jackson; da Cunha Moraes, Jorge Luiz; Campos, Eldo; Mury, Flavia Borges; Silva, Jose Roberto] Univ Fed Rio de Janeiro, Lab Integrado Bioquim Hatisaburo Masuda, BR-27965045 Rio De Janeiro, Brazil.
+   [Salvador-Neto, Orlando; Gomes, Simone Azevedo; da Fonseca, Rodrigo Nunes; Souza-Menezes, Jackson; da Cunha Moraes, Jorge Luiz; Campos, Eldo; Mury, Flavia Borges; Silva, Jose Roberto] Univ Fed Rio de Janeiro, Nucleo Pesquisas Ecol & Desenvolvimento Socioambi, BR-27965045 Rio De Janeiro, Brazil.
+   [Soares, Angelica Ribeiro; da Silva Machado, Fernanda Lacerda] Univ Fed Rio de Janeiro, Grp Prod Nat Organismos Aquat, Nucleo Ecol & Desenvolvimento Socioambiental Maca, BR-27965045 Rio De Janeiro, Brazil.
+   [da Fonseca, Rodrigo Nunes; Souza-Menezes, Jackson] Univ Fed Rio de Janeiro, Lab Integrado Ciencias Morfofuncionais LICMF, Nucleo Ecol & Desenvolvimento Socioambiental Maca, BR-27965045 Rio De Janeiro, Brazil.
+   [Gomes, Simone Azevedo; Samuels, Richard Ian] Univ Estadual Norte Fluminense, Lab Entomol & Fitopatol, BR-28013602 Rio De Janeiro, Brazil.
+   [da Fonseca, Rodrigo Nunes; Souza-Menezes, Jackson; da Cunha Moraes, Jorge Luiz; Campos, Eldo; Mury, Flavia Borges; Silva, Jose Roberto] Inst Nacl Ciencia & Tecnol Entomol Mol, BR-21941590 Rio De Janeiro, Brazil.
+RP Silva, JR (corresponding author), Univ Fed Rio de Janeiro, Lab Integrado Bioquim Hatisaburo Masuda, BR-27965045 Rio De Janeiro, Brazil.; Silva, JR (corresponding author), Univ Fed Rio de Janeiro, Nucleo Pesquisas Ecol & Desenvolvimento Socioambi, BR-27965045 Rio De Janeiro, Brazil.; Silva, JR (corresponding author), Inst Nacl Ciencia & Tecnol Entomol Mol, BR-21941590 Rio De Janeiro, Brazil.
+EM orlando_neto.88@hotmail.com; simoneazgomes@yahoo.com.br;
+   angelica.r.soares@gmail.com; fernandanupem@yahoo.com.br;
+   richardiansamuels@gmail.com; rodrigo.nunes.da.fonseca@gmail.com;
+   jacksonmenezes@gmail.com; jorgemoraes@bioqmed.ufrj.br;
+   eldocampos@yahoo.com.br; flaviamury@gmail.com; joseroberto@macae.ufrj.br
+RI Samuels, Richard I/R-6042-2017; Samuels, Richard/I-2108-2019; Silva,
+   Jose Roberto/F-2931-2017; Lapa e Silva, Jose R./AAS-4793-2020;
+   Nunes-da-Fonseca, Rodrigo/S-3964-2018
+OI Samuels, Richard I/0000-0003-1814-2456; Samuels,
+   Richard/0000-0003-1814-2456; Lapa e Silva, Jose R./0000-0003-3116-0253;
+   Nunes-da-Fonseca, Rodrigo/0000-0001-9576-2849
+FU Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Eestado do Rio de
+   Janeiro; Conselho Nacional de desenvolvimento Cientifico e
+   TecnologicoNational Council for Scientific and Technological Development
+   (CNPq); Instituto Nacional de Ciencia e Tecnologia em Entomologia
+   Molecular
+FX We thank Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Eestado do
+   Rio de Janeiro, Conselho Nacional de desenvolvimento Cientifico e
+   Tecnologico and Instituto Nacional de Ciencia e Tecnologia em
+   Entomologia Molecular for the financial support, as well as the Nucleo
+   de Pesquisas em Ecologia e Desenvolvimento Socio-Ambiental de Macae for
+   technical support. Richard Ian Samuels, Angelica Ribeiro Soares. and
+   Rodrigo Nunes da Fonseca are CNPq research fellows.
+CR Al-Mehmadi R. M., 2010, Journal of King Saud University Science, V22, P77, DOI 10.1016/j.jksus.2010.02.004
+   Ali M. Y. S., 2013, Asian Pacific Journal of Tropical Disease, V3, P196
+   Amer A, 2006, PARASITOL RES, V99, P466, DOI [10.1007/s00436-006-0182-3, 10.1007/s00436-006-0184-1]
+   [Anonymous], 2015, DENG SEV DENG
+   Aseer Manilal, 2011, International Journal of Zoological Research, V7, P272, DOI 10.3923/ijzr.2011.272.278
+   Bansemir A, 2004, CHEM BIODIVERS, V1, P463, DOI 10.1002/cbdv.200490039
+   Bianco EM, 2013, IND CROP PROD, V43, P270, DOI 10.1016/j.indcrop.2012.07.032
+   Blunt JW, 2007, NAT PROD REP, V24, P31, DOI 10.1039/b603047p
+   Campos A, 2012, J PHARM PHARMACOL, V64, P1146, DOI 10.1111/j.2042-7158.2012.01493.x
+   Carolino AT, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-198
+   CASIDA JE, 1980, ENVIRON HEALTH PERSP, V34, P189, DOI 10.2307/3428960
+   Da Gama BAP, 2003, BIOFOULING, V19, P161, DOI 10.1080/0892701031000089534
+   Machado FLD, 2011, PLANTA MED, V77, P733, DOI 10.1055/s-0030-1250526
+   de Paula AR, 2008, BIOCONTROL SCI TECHN, V18, P1017, DOI 10.1080/09583150802509199
+   Desoti VC, 2012, MAR DRUGS, V10, P1631, DOI 10.3390/md10081631
+   dos Santos AO, 2010, MAR DRUGS, V8, P2733, DOI 10.3390/md8112733
+   Fallatah Sahar A. B., 2010, Journal of the Egyptian Society of Parasitology, V40, P1
+   Gomes SA, 2015, PARASITE VECTOR, V8, DOI 10.1186/s13071-015-1280-9
+   Govindarajan M, 2011, ASIAN PAC J TROP MED, V4, P24, DOI 10.1016/S1995-7645(11)60026-6
+   Kay BH, 2010, AM J TROP MED HYG, V82, P822, DOI 10.4269/ajtmh.2010.09-0503
+   Kim MM, 2008, J MED FOOD, V11, P260, DOI 10.1089/jmf.2007.575
+   Konig GM, 1997, J NAT PROD, V60, P967, DOI 10.1021/np970181r
+   KUKEL CF, 1994, CAN J PHYSIOL PHARM, V72, P104, DOI 10.1139/y94-016
+   Lhullier C, 2009, BIOCHEM SYST ECOL, V37, P254, DOI 10.1016/j.bse.2009.04.004
+   Machado FLD, 2014, REV BRAS FARMACOGN, V24, P635, DOI 10.1016/j.bjp.2014.10.009
+   MARCHETTE NJ, 1969, AM J TROP MED HYG, V18, P411, DOI 10.4269/ajtmh.1969.18.411
+   Marti GA, 2004, MEM I OSWALDO CRUZ, V99, P535, DOI 10.1590/S0074-02762004000500014
+   Martinez-Ibarra JA, 2002, BIOCONTROL, V47, P481, DOI 10.1023/A:1015691831489
+   MEYER KD, 1992, MAR ECOL PROG SER, V82, P249, DOI 10.3354/meps082249
+   Nathan SS, 2008, ECOTOX ENVIRON SAFE, V70, P244, DOI 10.1016/j.ecoenv.2007.07.005
+   NISHA LLJL, 2013, INT J BIOL PHARM ALL, V2, P705
+   Oliveira JHM, 2011, PLOS PATHOG, V7, DOI 10.1371/journal.ppat.1001320
+   Paradas WC, 2010, BIOFOULING, V26, P277, DOI 10.1080/08927010903515122
+   Pereira R. C., 2003, Braz. J. Biol., V63, P665, DOI 10.1590/S1519-69842003000400013
+   Pereira RC, 1999, QUIM NOVA, V22, P369
+   Ranson H, 2010, TROPIKA NET J, V1, P1
+   Reyes-Villanueva F, 2011, PARASITE VECTOR, V4, DOI 10.1186/1756-3305-4-171
+   Rodriguez-Perez M.A., 2012, BIOL CONTROL DENGUE
+   ROVIROSA J, 1992, PHYTOCHEMISTRY, V31, P2679, DOI 10.1016/0031-9422(92)83610-B
+   RUBIO Y, 1984, MOSQ NEWS, V44, P86
+   Salgado LT, 2008, J STRUCT BIOL, V162, P345, DOI 10.1016/j.jsb.2008.01.015
+   Scholte EJ, 2007, ACTA TROP, V102, P151, DOI 10.1016/j.actatropica.2007.04.011
+   Selvaraj M, 2011, EUR MOSQ B, V29, P116
+   Shaalan EAS, 2005, ENVIRON INT, V31, P1149, DOI 10.1016/j.envint.2005.03.003
+   Sharma P, 2006, BIORESOURCE TECHNOL, V97, P1599, DOI 10.1016/j.biortech.2005.07.024
+   Shivakumar MS, 2013, ASIAN J PHARM CLIN R, V6, P77
+   Souto ML, 2002, TETRAHEDRON, V58, P8119, DOI 10.1016/S0040-4020(02)00912-2
+   Sudatti DB, 2008, J PHYCOL, V44, P584, DOI 10.1111/j.1529-8817.2008.00507.x
+   SUN CN, 1980, MOSQ NEWS, V40, P614
+   Thangam T.S., 1996, P 2 INT C URB PESTS, P431
+   Thiboutot MM, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000623
+   Tomori O, 2004, CRIT REV CL LAB SCI, V41, P391, DOI 10.1080/10408360490497474
+   Topcu G, 2003, J NAT PROD, V66, P1505, DOI 10.1021/np030176p
+   Vairappan CS, 2004, PLANTA MED, V70, P1087, DOI 10.1055/s-2004-832653
+   Vairappan CS, 2001, PHYTOCHEMISTRY, V58, P291, DOI 10.1016/S0031-9422(01)00243-6
+   Veiga-Santos P, 2010, PARASITOLOGY, V137, P1661, DOI 10.1017/S003118201000034X
+   Wang BG, 2013, CHEM REV, V113, P3632, DOI 10.1021/cr9002215
+   WATANABE K, 1989, PHYTOCHEMISTRY, V28, P77, DOI 10.1016/0031-9422(89)85012-5
+   WATANABE K, 1990, PESTIC BIOCHEM PHYS, V37, P275, DOI 10.1016/0048-3575(90)90134-N
+   WATANABE K, 1989, AGR BIOL CHEM TOKYO, V53, P2513, DOI 10.1080/00021369.1989.10869657
+   WHO, GUID LAB FIELD TEST
+   Wright JT, 2000, MAR ECOL PROG SER, V207, P227, DOI 10.3354/meps207227
+   Yu KX, 2015, MOLECULES, V20, P14082, DOI 10.3390/molecules200814082
+   Yu KX, 2014, PARASITOL RES, V113, P3121, DOI 10.1007/s00436-014-4068-5
+NR 64
+TC 12
+Z9 12
+U1 1
+U2 21
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-3397
+J9 MAR DRUGS
+JI Mar. Drugs
+PD FEB
+PY 2016
+VL 14
+IS 2
+AR 20
+DI 10.3390/md14020020
+PG 14
+WC Chemistry, Medicinal
+SC Pharmacology & Pharmacy
+GA DG2LX
+UT WOS:000371899800017
+PM 26821032
+OA DOAJ Gold, Green Published
+DA 2020-12-17
+ER
+
+PT J
+AU Albuquerque, JP
+   Tobias-Santos, V
+   Rodrigues, AC
+   Mury, FB
+   da Fonseca, RN
+AF Albuquerque, Joao Paulo
+   Tobias-Santos, Vitoria
+   Rodrigues, Aline Caceres
+   Mury, Flavia Borges
+   da Fonseca, Rodrigo Nunes
+TI small ORFs: A new class of essential genes for development
+SO GENETICS AND MOLECULAR BIOLOGY
+LA English
+DT Review
+DE Tribolium; mlpt; pri; tarsal-less; Drosophila
+ID POLYCISTRONIC MESSENGER-RNA; OPEN READING FRAMES;
+   SACCHAROMYCES-CEREVISIAE; TRANSCRIPTION FACTOR; DROSOPHILA; PEPTIDES;
+   SHAVENBABY; MORPHOGENESIS; DISCOVERY; EVOLUTION
+AB Genes that contain small open reading frames (smORFs) constitute a new group of eukaryotic genes and are expected to represent 5% of the Drosophila melanogaster transcribed genes. In this review we provide a historical perspective of their recent discovery, describe their general mechanism and discuss the importance of smORFs for future genomic and transcriptomic studies. Finally, we discuss the biological role of the most studied smORF so far, the Mlpt/Pri/Tal gene in arthropods. The pleiotropic action of Mlpt/Pri/Tal in D. melanogaster suggests a complex evolutionary scenario that can be used to understand the origins, evolution and integration of smORFs into complex gene regulatory networks.
+C1 [Albuquerque, Joao Paulo; Tobias-Santos, Vitoria; Rodrigues, Aline Caceres; Mury, Flavia Borges; da Fonseca, Rodrigo Nunes] Univ Fed Rio de Janeiro, Lab Integrado Bioquim Hatisaburo Masuda, Nucleo Ecol & Desenvolvimento Socioambiental, BR-27965045 Macae, RJ, Brazil.
+   [Mury, Flavia Borges; da Fonseca, Rodrigo Nunes] Univ Fed Rio de Janeiro, Entomol Mol, Inst Nacl Ciencia & Tecnol, Rio De Janeiro, RJ, Brazil.
+RP da Fonseca, RN (corresponding author), Univ Fed Rio de Janeiro, Lab Integrado Bioquim Hatisaburo Masuda, Nucleo Ecol & Desenvolvimento Socioambiental, Ave Sao Jose do Barreto 764, BR-27965045 Macae, RJ, Brazil.
+EM rodrigo.nunes.da.fonseca@gmail.com
+RI Nunes-da-Fonseca, Rodrigo/S-3964-2018
+OI Nunes-da-Fonseca, Rodrigo/0000-0001-9576-2849; Tobias Santos,
+   Vitoria/0000-0001-5958-9700
+FU Fundacao de Amparo de Pesquisa do Estado do Rio de Janeiro (FAPERJ);
+   Conselho Nacional de Pesquisa (CNPq)National Council for Scientific and
+   Technological Development (CNPq); Fundacao Educacional de Macae
+   (FUNEMAC); PIBIC/CNPq scholarshipNational Council for Scientific and
+   Technological Development (CNPq); FAPERJ scholarshipCarlos Chagas Filho
+   Foundation for Research Support of the State of Rio de Janeiro (FAPERJ)
+FX The RNdF lab is supported by Fundacao de Amparo de Pesquisa do Estado do
+   Rio de Janeiro (FAPERJ), Conselho Nacional de Pesquisa (CNPq) and
+   Fundacao Educacional de Macae (FUNEMAC). JPA is a master student of
+   Programa de Pos-Graduacao em Produtos Bioativos e Biociencias
+   (PPG-PRODBIO), VTS is supported by a PIBIC/CNPq scholarship and ACR by a
+   FAPERJ scholarship.
+CR Abouheif E, 2014, ADV EXP MED BIOL, V781, P107, DOI [10.1007/978-94-007-7347-9__6, 10.1007/978-94-007-7347-9_6]
+   Aspden JL, 2014, ELIFE, V3, DOI 10.7554/eLife.03528
+   Chanut-Delalande H, 2014, NAT CELL BIOL, V16, P1035, DOI 10.1038/ncb3052
+   Delon I, 2003, MECH DEVELOP, V120, P747, DOI 10.1016/S0925-4773(03)00081-9
+   Galindo MI, 2007, PLOS BIOL, V5, P1052, DOI 10.1371/journal.pbio.0050106
+   Hashimoto Y, 2008, DEV GROWTH DIFFER, V50, pS269, DOI 10.1111/j.1440-169X.2008.00994.x
+   Kastenmayer JP, 2006, GENOME RES, V16, P365, DOI 10.1101/gr.4355406
+   Kessler MM, 2003, GENOME RES, V13, P264, DOI 10.1101/gr.232903
+   Kondo T, 2010, SCIENCE, V329, P336, DOI 10.1126/science.1188158
+   Kondo T, 2007, NAT CELL BIOL, V9, P660, DOI 10.1038/ncb1595
+   Ladoukakis E, 2011, GENOME BIOL, V12, DOI 10.1186/gb-2011-12-11-r118
+   Lu Yongzhong, 2014, J Pept Sci, V20, P25, DOI 10.1002/psc.2584
+   Magny EG, 2013, SCIENCE, V341, P1116, DOI 10.1126/science.1238802
+   MEVELNINIO M, 1995, MECH DEVELOP, V49, P83, DOI 10.1016/0925-4773(94)00305-7
+   Ota T, 2004, NAT GENET, V36, P40, DOI 10.1038/ng1285
+   Pueyo JI, 2011, DEV BIOL, V355, P183, DOI 10.1016/j.ydbio.2011.03.033
+   Pueyo JI, 2008, DEV BIOL, V324, P192, DOI 10.1016/j.ydbio.2008.08.025
+   Saeys Y, 2007, BIOINFORMATICS, V23, P414, DOI 10.1093/bioinformatics/btl639
+   Savard J, 2006, CELL, V126, P559, DOI 10.1016/j.cell.2006.05.053
+   Srivastava M, 2010, NATURE, V466, P720, DOI 10.1038/nature09201
+   Sucena E, 2003, NATURE, V424, P935, DOI 10.1038/nature01768
+   Tupy JL, 2005, P NATL ACAD SCI USA, V102, P5495, DOI 10.1073/pnas.0501422102
+   Windsor AJ, 2006, CURR OPIN BIOTECH, V17, P161, DOI 10.1016/j.copbio.2006.01.007
+NR 23
+TC 9
+Z9 9
+U1 0
+U2 6
+PU SOC BRASIL GENETICA
+PI RIBEIRAO PRET
+PA RUA CAP ADELMIO NORBET DA SILVA, 736, ALTO DA BOA VISTA, 14025-670
+   RIBEIRAO PRET, BRAZIL
+SN 1415-4757
+EI 1678-4685
+J9 GENET MOL BIOL
+JI Genet. Mol. Biol.
+PY 2015
+VL 38
+IS 3
+BP 278
+EP 283
+DI 10.1590/S1415-475738320150009
+PG 6
+WC Biochemistry & Molecular Biology; Genetics & Heredity
+SC Biochemistry & Molecular Biology; Genetics & Heredity
+GA CR7TV
+UT WOS:000361555100006
+PM 26500431
+OA DOAJ Gold, Green Published
+DA 2020-12-17
+ER
+
+PT J
+AU Berni, M
+   Fontenele, MR
+   Tobias-Santos, V
+   Caceres-Rodrigues, A
+   Mury, FB
+   Vionette-do-Amaral, R
+   Masuda, H
+   Sorgine, M
+   da Fonseca, RN
+   Araujo, H
+AF Berni, Mateus
+   Fontenele, Marcio Ribeiro
+   Tobias-Santos, Vitoria
+   Caceres-Rodrigues, Aline
+   Mury, Flavia Borges
+   Vionette-do-Amaral, Raquel
+   Masuda, Hatisaburo
+   Sorgine, Marcos
+   da Fonseca, Rodrigo Nunes
+   Araujo, Helena
+TI Toll signals regulate dorsal-ventral patterning and anterior-posterior
+   placement of the embryo in the hemipteran Rhodnius prolixus
+SO EVODEVO
+LA English
+DT Article
+DE Toll; Dorso-ventral axis; Embryogenesis; NF kappa B; Hemipteran
+ID DORSOVENTRAL AXIS FORMATION; TIME QUANTITATIVE PCR; SHORT GASTRULATION;
+   DROSOPHILA EMBRYO; BLOODSUCKING BUG; TRIBOLIUM; GENES; SPECIFICATION;
+   EVOLUTION; GRADIENT
+AB Background: Insect embryonic dorso-ventral patterning depends greatly on two pathways: the Toll pathway and the Bone Morphogenetic Protein pathway. While the relative contribution of each pathway has been investigated in holometabolous insects, their role has not been explored in insects with a hemimetabolous type of development. The hemimetabolous insect Rhodnius prolixus, an important vector of Chagas disease in the Americas, develops from an intermediate germ band and displays complex movements during katatrepsis that are not observed in other orders. However, little is known about the molecular events that regulate its embryogenesis. Here we investigate the expression and function of genes potentially involved in the initial patterning events that establish the embryonic dorso-ventral axis in this hemipteran.
+   Results: We establish a staging system for early embryogenesis that allows us to correlate embryo morphology with gene expression profiles. Using this system, we investigate the role of Toll pathway genes during embryogenesis. Detailed analyses of gene expression throughout development, coupled with functional analyses using parental RNA interference, revealed that maternal Toll is required to establish germ layers along the dorso-ventral axis and for embryo placement along the anterior-posterior axis. Interestingly, knockdown of the Toll pathway effector Rp-dorsal appears to regulate the expression of the Bone Morphogenetic Protein antagonist Rp-short-gastrulation.
+   Conclusions: Our results indicate that Toll signals are the initiating event in dorso-ventral patterning during Rhodnius embryogenesis, and this is the first report of a conserved role for Toll in a hemipteran. Furthermore, as Rp-dorsal RNA interference generates anteriorly misplaced embryos, our results indicate a novel role for Toll signals in establishment of the anterior-posterior axis in Rhodnius.
+C1 [Berni, Mateus; Fontenele, Marcio Ribeiro; Araujo, Helena] Univ Fed Rio de Janeiro, ICB, BR-21941902 Rio De Janeiro, RJ, Brazil.
+   [Berni, Mateus; Fontenele, Marcio Ribeiro; Tobias-Santos, Vitoria; Caceres-Rodrigues, Aline; Mury, Flavia Borges; Vionette-do-Amaral, Raquel; Masuda, Hatisaburo; Sorgine, Marcos; da Fonseca, Rodrigo Nunes; Araujo, Helena] Natl Inst Sci & Technol, INCT INEM, Inst Mol Entomol, Macae, Brazil.
+   [Berni, Mateus] Univ Fed Rio de Janeiro, PCM, Postgrad Program Morphol Sci, Rio De Janeiro, RJ, Brazil.
+   [Tobias-Santos, Vitoria; Caceres-Rodrigues, Aline; Mury, Flavia Borges; da Fonseca, Rodrigo Nunes] Univ Fed Rio de Janeiro, Lab Integrado Bioquim Hatisaburo Masuda Nucl Pesq, BR-27937450 Macae, RJ, Brazil.
+   [Vionette-do-Amaral, Raquel; Masuda, Hatisaburo; Sorgine, Marcos] Univ Fed Rio de Janeiro, Inst Med Biochem, Rio De Janeiro, Brazil.
+RP da Fonseca, RN (corresponding author), Natl Inst Sci & Technol, INCT INEM, Inst Mol Entomol, Macae, Brazil.
+EM rnfonseca@macae.ufrj.br; haraujo@histo.ufrj.br
+RI Fontenele, Marcio/K-3590-2012; Vionette do Amaral, Raquel
+   Juliana/E-1192-2018; Araujo, Helena/D-7149-2013; Nunes-da-Fonseca,
+   Rodrigo/S-3964-2018
+OI Fontenele, Marcio/0000-0001-8828-3671; Araujo,
+   Helena/0000-0003-0371-9523; Tobias Santos, Vitoria/0000-0001-5958-9700;
+   Nunes-da-Fonseca, Rodrigo/0000-0001-9576-2849
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq); FAPERJCarlos Chagas Filho Foundation for Research Support of the
+   State of Rio de Janeiro (FAPERJ); CNPqNational Council for Scientific
+   and Technological Development (CNPq)
+FX RNdaF is a Young Scientist of Rio de Janeiro Foundation for Research
+   (FAPERJ, Brazil), supported by grants from Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq). HA is supported by
+   grants from FAPERJ and CNPq. The authors would like to thank Prof.
+   Siegfried Roth and his group for sharing unpublished results, and
+   acknowledge Prof. Roth and Dr. Attilio Pane for helpful comments on the
+   manuscript. We are also indebted to Jose de S Lima and Gustavo Ali for
+   insect care and to Dr. Pedro Oliveira for use of quantitative PCR
+   equipment, to Carolina Batista and Nilson Santos for help with cryostat
+   sections and Dr. Roberto Lent for use of the cryostat.
+CR Akiyama-Oda Y, 2006, DEVELOPMENT, V133, P2347, DOI 10.1242/dev.02400
+   ANDERSON KV, 1985, CELL, V42, P779, DOI 10.1016/0092-8674(85)90274-0
+   Araujo H, 2000, DEVELOPMENT, V127, P3631
+   Araujo RN, 2006, INSECT BIOCHEM MOLEC, V36, P683, DOI 10.1016/j.ibmb.2006.05.012
+   Biemar F, 2006, P NATL ACAD SCI USA, V103, P12763, DOI 10.1073/pnas.0604484103
+   Buchta T, 2013, DEV BIOL, V381, P189, DOI 10.1016/j.ydbio.2013.05.026
+   Cande J, 2009, P NATL ACAD SCI USA, V106, P14414, DOI 10.1073/pnas.0905754106
+   Carneiro K, 2006, DEV BIOL, V296, P203, DOI 10.1016/j.ydbio.2006.04.453
+   Chen G, 2000, DEVELOPMENT, V127, P5145
+   Christophides GK, 2002, SCIENCE, V298, P159, DOI 10.1126/science.1077136
+   da Fonseca RN, 2008, DEV CELL, V14, P605, DOI 10.1016/j.devcel.2008.02.011
+   da Fonseca RN, 2010, DEV BIOL, V345, P80, DOI 10.1016/j.ydbio.2010.05.019
+   Davis GK, 2002, ANNU REV ENTOMOL, V47, P669, DOI 10.1146/annurev.ento.47.091201.145251
+   De Robertis EM, 2008, CELL, V132, P185, DOI 10.1016/j.cell.2008.01.003
+   Decotto E, 2001, DEVELOPMENT, V128, P3831
+   Gilmore TD, 2012, IMMUNOL REV, V246, P14, DOI 10.1111/j.1600-065X.2012.01096.x
+   Goltsev Y, 2007, DEVELOPMENT, V134, P2415, DOI 10.1242/dev.02863
+   Handel K, 2000, DEV GENES EVOL, V210, P167, DOI 10.1007/s004270050301
+   HEMING BS, 1994, CAN J ZOOL, V72, P1100, DOI 10.1139/z94-148
+   HUEBNER E, 1972, J MORPHOL, V136, P459, DOI 10.1002/jmor.1051360405
+   Kelly G.M., 1986, Progress in Clinical and Biological Research, V217, P423
+   KELLY GM, 1989, J MORPHOL, V199, P175, DOI 10.1002/jmor.1051990205
+   Lavore A, 2014, DEV BIOL, V387, P121, DOI 10.1016/j.ydbio.2013.12.030
+   Lavore A, 2012, DEV BIOL, V361, P147, DOI 10.1016/j.ydbio.2011.06.038
+   Livak KJ, 2001, METHODS, V25, P402, DOI 10.1006/meth.2001.1262
+   Luna C, 2002, INSECT BIOCHEM MOLEC, V32, P1171, DOI 10.1016/S0965-1748(02)00053-X
+   Lynch JA, 2012, WIRES DEV BIOL, V1, P16, DOI 10.1002/wdev.3
+   Lynch JA, 2011, GENE DEV, V25, P107, DOI 10.1101/gad.2010711
+   Lynch JA, 2010, CURR BIOL, V20, P1042, DOI 10.1016/j.cub.2010.04.023
+   Majerowicz D, 2011, INSECT MOL BIOL, V20, P713, DOI 10.1111/j.1365-2583.2011.01101.x
+   Medeiros MN, 2011, INSECT BIOCHEM MOLEC, V41, P823, DOI 10.1016/j.ibmb.2011.06.004
+   Mellanby H, 1935, Q J MICROSC SCI, V78, P71
+   Mellanby H, 1935, Q J MICROSC SCI, V313, P1
+   Miya K, 1974, FAC AGR IWATE U, V12, P39
+   Moussian B, 2005, CURR BIOL, V15, pR887, DOI 10.1016/j.cub.2005.10.026
+   Ooi JY, 2002, EMBO REP, V3, P82, DOI 10.1093/embo-reports/kvf004
+   Ozuak O, 2014, CURR BIOL IN PRESS
+   Paim RMM, 2013, INSECT BIOCHEM MOLEC, V43, P1015, DOI 10.1016/j.ibmb.2013.08.008
+   Panfilio KA, 2006, DEV BIOL, V292, P226, DOI 10.1016/j.ydbio.2005.12.028
+   Panfilio KA, 2008, DEV BIOL, V313, P471, DOI 10.1016/j.ydbio.2007.11.004
+   Panfilio KA, 2010, DEV BIOL, V340, P100, DOI 10.1016/j.ydbio.2009.12.034
+   Papatsenko D, 2005, P NATL ACAD SCI USA, V102, P4966, DOI 10.1073/pnas.0409414102
+   Pfaffl MW, 2001, NUCLEIC ACIDS RES, V29, DOI 10.1093/nar/29.9.e45
+   Price AL, 2010, DEV BIOL, V341, P256, DOI 10.1016/j.ydbio.2009.12.006
+   Rafiqi AM, 2012, DEVELOPMENT, V139, P3373, DOI 10.1242/dev.083873
+   Ribeiro JMC, 2004, INSECT BIOCHEM MOLEC, V34, P61, DOI 10.1016/j.ibmb.2003.09.004
+   Ribeiro JMC, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002594
+   Santos VT, 2013, GENESIS, V51, P803, DOI 10.1002/dvg.22717
+   Souza-Ferreira PS, 2014, INSECT BIOCHEM MOLEC, V51, P89, DOI 10.1016/j.ibmb.2013.12.005
+   Souza-Ferreira PS, 2014, INSECT BIOCHEM MOLEC, V51, P101, DOI 10.1016/j.ibmb.2013.12.004
+   Stathopoulos A, 2002, DEV BIOL, V246, P57, DOI 10.1006/dbio.2002.0652
+   Tamura K, 2013, MOL BIOL EVOL, V30, P2725, DOI [10.1093/molbev/mst197, 10.1093/molbev/msr121]
+   Tauszig S, 2000, P NATL ACAD SCI USA, V97, P10520, DOI 10.1073/pnas.180130797
+   Twombly V, 1996, DEVELOPMENT, V122, P1555
+   Ursic-Bedoya R, 2009, INSECT MOL BIOL, V18, P681, DOI 10.1111/j.1365-2583.2009.00909.x
+   Uv AE, 2000, GENE DEV, V14, P1945
+   van der Zee M, 2005, CURR BIOL, V15, P624, DOI 10.1016/j.cub.2005.02.057
+   Van der Zee M, 2008, DEV GENES EVOL, V218, P203, DOI 10.1007/s00427-007-0179-7
+   van der Zee M, 2006, P NATL ACAD SCI USA, V103, P16307, DOI 10.1073/pnas.0605154103
+   Walter-Nuno AB, 2013, J BIOL CHEM, V288, P29323, DOI 10.1074/jbc.M113.504985
+   Weisbrod A, 2013, DEV BIOL, V380, P125, DOI 10.1016/j.ydbio.2013.04.030
+   WHARTON KA, 1993, DEVELOPMENT, V117, P807
+   WHO, 2013, FACT SHEET
+   Wigglesworth VB, 1943, PROC R SOC SER B-BIO, V131, P313, DOI 10.1098/rspb.1943.0010
+   Wilson MJ, 2014, EVODEVO, V5, DOI 10.1186/2041-9139-5-11
+   Yagi Y, 2010, DEV GROWTH DIFFER, V52, P771, DOI 10.1111/j.1440-169X.2010.01213.x
+   Zou Z, 2007, GENOME BIOL, V8, DOI 10.1186/gb-2007-8-8-r177
+NR 67
+TC 12
+Z9 13
+U1 0
+U2 12
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 2041-9139
+J9 EVODEVO
+JI EvoDevo
+PD OCT 27
+PY 2014
+VL 5
+AR 38
+DI 10.1186/2041-9139-5-38
+PG 17
+WC Evolutionary Biology; Developmental Biology
+SC Evolutionary Biology; Developmental Biology
+GA AW5JB
+UT WOS:000346310600001
+PM 25908955
+OA DOAJ Gold, Green Published
+DA 2020-12-17
+ER
+
+PT J
+AU Stiebler, R
+   Soares, JBRC
+   Timm, BL
+   Silva, JR
+   Mury, FB
+   Dansa-Petretski, M
+   Oliveira, MF
+AF Stiebler, Renata
+   Correa Soares, Juliana B. R.
+   Timm, Bruno L.
+   Silva, Jose Roberto
+   Mury, Flavia B.
+   Dansa-Petretski, Marilvia
+   Oliveira, Marcus F.
+TI On the mechanisms involved in biological heme crystallization
+SO JOURNAL OF BIOENERGETICS AND BIOMEMBRANES
+LA English
+DT Article
+DE Malaria; Schistosomiasis; Triatomine; Biocrystallization; Porphyrin
+ID PARASITE PLASMODIUM-FALCIPARUM; RHODNIUS-PROLIXUS MIDGUT; BETA-HEMATIN
+   FORMATION; RICH PROTEIN-II; SCHISTOSOMA-MANSONI; HEMOZOIN FORMATION;
+   FERRIPROTOPORPHYRIN-IX; MALARIA PIGMENT; PERIMICROVILLAR MEMBRANES;
+   HAEMOZOIN FORMATION
+AB Blood-feeding organisms digest hemoglobin, releasing large quantities of heme inside their digestive tracts. Free heme is very toxic, and these organisms have evolved several mechanisms to protect against its deleterious effects. One of these adaptations is the crystallization of heme into the dark-brown pigment hemozoin (Hz). Here we review the process of Hz formation, focusing on organisms other than Plasmodium that have contributed to a better understanding of heme crystallization. Hemozoin has been found in several distinct classes of organisms including protozoa, helminths and insects and Hz formation is the predominant form of heme detoxification. The available evidence indicates that amphiphilic structures such as phospholipid membranes and lipid droplets accompanied by specific proteins play a major role in heme crystallization. Because this process is specific to a number of blood-feeding organisms and absent in their hosts, Hz formation is an attractive target for the development of novel drugs to control illnesses associated with these hematophagous organisms.
+C1 [Mury, Flavia B.; Dansa-Petretski, Marilvia] Univ Estadual Norte Fluminense, Lab Quim & Funcao Prot & Peptideos, Ctr Biociencias & Biotecnol, BR-28013602 Rio De Janeiro, Brazil.
+   [Stiebler, Renata; Correa Soares, Juliana B. R.; Timm, Bruno L.; Oliveira, Marcus F.] Univ Fed Rio de Janeiro, Lab Bioquim Redox, Programa Biol Mol & Biotecnol, Inst Bioquim Med, Rio De Janeiro, Brazil.
+   [Stiebler, Renata; Correa Soares, Juliana B. R.; Oliveira, Marcus F.] Univ Fed Rio de Janeiro, Lab Inflamacao & Metab, Inst Nacl Ciencia & Tecnol Biol Estrutural & Bioi, Rio De Janeiro, Brazil.
+   [Timm, Bruno L.] Fundacao Oswaldo Cruz, LITEB, Inst Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Silva, Jose Roberto] Univ Fed Rio de Janeiro, Lab Integrado Bioquim Hatisaburo Masuda, Dept Bioquim, Inst Quim, Rio De Janeiro, Brazil.
+   [Silva, Jose Roberto; Mury, Flavia B.; Dansa-Petretski, Marilvia] Inst Nacl Ciencia & Tecnol Entomol Mol INCT EM, Rio De Janeiro, Brazil.
+   [Oliveira, Marcus F.] Univ Fed Rio de Janeiro, Inst Bioquim Med, Programa Biol Mol & Biotecnol, BR-21941590 Rio De Janeiro, Brazil.
+RP Dansa-Petretski, M (corresponding author), Univ Estadual Norte Fluminense, Lab Quim & Funcao Prot & Peptideos, Ctr Biociencias & Biotecnol, Campos Goytacazes, BR-28013602 Rio De Janeiro, Brazil.
+EM marilvia@uenf.br; maroli@bioqmed.ufrj.br
+RI Silva, Jose Roberto/F-2931-2017; Oliveira, Marcus/G-3158-2011
+OI Oliveira, Marcus/0000-0002-9890-8425
+FU International Center for Genetic Engineering and Biotechnology (ICGEB);
+   CNPqNational Council for Scientific and Technological Development
+   (CNPq); FAPERJ (Jovens Cientistas do Nosso Estado)Carlos Chagas Filho
+   Foundation for Research Support of the State of Rio de Janeiro (FAPERJ);
+   CAPESCAPES
+FX The authors thank all our colleagues who actively participated in the
+   research reviewed in this article, which was supported in part by the
+   International Center for Genetic Engineering and Biotechnology (ICGEB),
+   CNPq, FAPERJ (Jovens Cientistas do Nosso Estado) and CAPES. MFO is a
+   research scholar from CNPq and a member of Instituto Nacional de Ciencia
+   e Tecnologia - Biologia Estrutural e Bioimagem. MDP is a member of
+   Instituto Nacional de Ciencia e Tecnologia - Entomologia Molecular.
+CR AFT RL, 1983, J BIOL CHEM, V258, P2069
+   AFT RL, 1984, J BIOL CHEM, V259, P301
+   Akompong T, 2002, J BIOL CHEM, V277, P28923, DOI 10.1074/jbc.M201968200
+   BENDRAT K, 1995, NATURE, V378, P138, DOI 10.1038/378138a0
+   BOGITSH BJ, 1991, J PARASITOL, V77, P187, DOI 10.2307/3283078
+   Bohle DS, 1997, J BIOL CHEM, V272, P713, DOI 10.1074/jbc.272.2.713
+   Chen MM, 2001, MOL BIOCHEM PARASIT, V113, P1, DOI 10.1016/S0166-6851(00)00365-0
+   CHOU AC, 1981, J CLIN INVEST, V68, P672, DOI 10.1172/JCI110302
+   Soares JBR, 2007, FEBS LETT, V581, P1742, DOI 10.1016/j.febslet.2007.03.054
+   Soares JBRC, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000477
+   Cristofoletti PT, 2003, J INSECT PHYSIOL, V49, P11, DOI 10.1016/S0022-1910(02)00222-6
+   DANSAPETRETSKI M, 1995, J BIOL CHEM, V270, P10893, DOI 10.1074/jbc.270.18.10893
+   Dorn A, 1998, BIOCHEM PHARMACOL, V55, P737, DOI 10.1016/S0006-2952(97)00509-1
+   Egan TJ, 2006, FEBS LETT, V580, P5105, DOI 10.1016/j.febslet.2006.08.043
+   Egan TJ, 2002, BIOCHEM J, V365, P343, DOI 10.1042/BJ20020793
+   Egan TJ, 2001, BIOCHEMISTRY-US, V40, P204, DOI 10.1021/bi0013501
+   FERREIRA C, 1988, INSECT BIOCHEM, V18, P521, DOI 10.1016/0020-1790(88)90003-0
+   Fitch CD, 1999, BBA-MOL BASIS DIS, V1454, P31, DOI 10.1016/S0925-4439(99)00017-4
+   FITCH CD, 1987, J BIOL CHEM, V262, P15552
+   GARCIA ES, 1989, Z NATURFORSCH C, V44, P317
+   GOLDBERG DE, 1990, P NATL ACAD SCI USA, V87, P2931, DOI 10.1073/pnas.87.8.2931
+   Graca-Souza AV, 2006, INSECT BIOCHEM MOLEC, V36, P322, DOI 10.1016/j.ibmb.2006.01.009
+   GUTIERREZ LS, 1986, J ULTRA MOL STRUCT R, V95, P75, DOI 10.1016/0889-1605(86)90031-5
+   HALTON DW, 1967, PARASITOLOGY, V57, P639, DOI 10.1017/S003118200007311X
+   Hamsik A., 1936, Z PHYSL CHEM, V190, P199
+   Hempelmann E, 2003, TRENDS PARASITOL, V19, P23, DOI 10.1016/S1471-4922(02)00011-9
+   Hoang AN, 2010, DALTON T, V39, P1235, DOI 10.1039/b914359a
+   HOMEWOOD CA, 1972, COMP BIOCHEM PHYSIOL, V43, P517, DOI 10.1016/0305-0491(72)90135-6
+   HOUSEMAN JG, 1983, J INSECT PHYSIOL, V29, P141, DOI 10.1016/0022-1910(83)90137-3
+   Huy NT, 2007, ACTA TROP, V101, P130, DOI 10.1016/j.actatropica.2007.01.001
+   Jani D, 2008, PLOS PATHOG, V4, DOI 10.1371/journal.ppat.1000053
+   LANE NJ, 1979, J CELL SCI, V39, P355
+   Lynn A, 1999, FEBS LETT, V459, P267, DOI 10.1016/S0014-5793(99)01260-0
+   MESHNICK SR, 1977, BIOCHEM PHARMACOL, V26, P1923, DOI 10.1016/0006-2952(77)90167-8
+   MORRIS GP, 1968, EXPERIENTIA, V24, P480, DOI 10.1007/BF02144405
+   Mury FB, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006966
+   Noland GS, 2003, MOL BIOCHEM PARASIT, V130, P91, DOI 10.1016/S0166-6851(03)00163-4
+   Oliveira MF, 2007, COMP BIOCHEM PHYS C, V146, P168, DOI 10.1016/j.cbpc.2006.12.007
+   Oliveira MF, 2000, FEBS LETT, V477, P95, DOI 10.1016/S0014-5793(00)01786-5
+   Oliveira MF, 2005, FEBS LETT, V579, P6010, DOI 10.1016/j.febslet.2005.09.035
+   Oliveira MF, 2004, J INFECT DIS, V190, P843, DOI 10.1086/422759
+   Oliveira MF, 1999, NATURE, V400, P517, DOI 10.1038/22910
+   Oliveira MF, 2002, FEBS LETT, V512, P139, DOI 10.1016/S0014-5793(02)02243-3
+   Oliveira MF, 2000, MOL BIOCHEM PARASIT, V111, P217, DOI 10.1016/S0166-6851(00)00299-1
+   Oliveira PL, 2002, FEBS LETT, V525, P3, DOI 10.1016/S0014-5793(02)03026-0
+   Pagola S, 2000, NATURE, V404, P307, DOI 10.1038/35005132
+   Pisciotta JM, 2005, INT J PARASITOL, V35, P1037, DOI 10.1016/j.ijpara.2005.03.020
+   Ponka P, 1999, AM J MED SCI, V318, P241, DOI 10.1097/00000441-199910000-00004
+   Ridley RG, 1996, TRENDS MICROBIOL, V4, P253, DOI 10.1016/0966-842X(96)30021-8
+   Ryter SW, 2000, FREE RADICAL BIO MED, V28, P289, DOI 10.1016/S0891-5849(99)00223-3
+   SADRZADEH SMH, 1984, J BIOL CHEM, V259, P4354
+   SCHMITT TH, 1993, ARCH BIOCHEM BIOPHYS, V307, P96, DOI 10.1006/abbi.1993.1566
+   SILVA CP, 1995, J INSECT PHYSIOL, V41, P1093, DOI 10.1016/0022-1910(95)00066-4
+   Silva JR, 2007, INSECT BIOCHEM MOLEC, V37, P523, DOI 10.1016/j.ibmb.2007.01.001
+   SLATER AFG, 1991, P NATL ACAD SCI USA, V88, P325, DOI 10.1073/pnas.88.2.325
+   SLATER AFG, 1992, NATURE, V355, P167, DOI 10.1038/355167a0
+   Stiebler R, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012694
+   Stiebler R, 2010, INSECT BIOCHEM MOLEC, V40, P284, DOI 10.1016/j.ibmb.2009.12.013
+   Sullivan DJ, 2002, INT J PARASITOL, V32, P1645, DOI 10.1016/S0020-7519(02)00193-5
+   Sullivan DJ, 1996, SCIENCE, V271, P219, DOI 10.1126/science.271.5246.219
+   Terra W. R., 1996, P206
+   TERRA WR, 1988, INSECT BIOCHEM, V18, P423, DOI 10.1016/0020-1790(88)90058-3
+   Wigglesworth VB, 1943, PROC R SOC SER B-BIO, V131, P313, DOI 10.1098/rspb.1943.0010
+NR 63
+TC 15
+Z9 16
+U1 0
+U2 21
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0145-479X
+J9 J BIOENERG BIOMEMBR
+JI J. Bioenerg. Biomembr.
+PD FEB
+PY 2011
+VL 43
+IS 1
+BP 93
+EP 99
+DI 10.1007/s10863-011-9335-x
+PG 7
+WC Biophysics; Cell Biology
+SC Biophysics; Cell Biology
+GA 729SI
+UT WOS:000287970700015
+PM 21301942
+DA 2020-12-17
+ER
+
+PT J
+AU Mury, FB
+   da Silva, JR
+   Ferreira, LS
+   Ferreira, BD
+   de Souza, GA
+   de Souza-Neto, JA
+   Ribolla, PEM
+   Silva, CP
+   do Nascimento, VV
+   Machado, OLT
+   Berbert-Molina, MA
+   Dansa-Petretski, M
+AF Mury, Flavia Borges
+   da Silva, Jose Roberto
+   Ferreira, Ligia Souza
+   Ferreira, Beatriz dos Santos
+   de Souza-Filho, Goncalo Apolinario
+   de Souza-Neto, Jayme Augusto
+   Martins Ribolla, Paulo Eduardo
+   Silva, Carlos Peres
+   do Nascimento, Viviane Veiga
+   Tavares Machado, Olga Lima
+   Berbert-Molina, Marilia Amorim
+   Dansa-Petretski, Marilvia
+TI Alpha-Glucosidase Promotes Hemozoin Formation in a Blood-Sucking Bug: An
+   Evolutionary History
+SO PLOS ONE
+LA English
+DT Article
+ID DYSDERCUS-PERUVIANUS HEMIPTERA; PERIMICROVILLAR MEMBRANES; PLASMODIUM
+   HEMOZOIN; HEME DETOXIFICATION; MALARIA PARASITE; MIDGUT; BINDING;
+   PURIFICATION; HAEMOZOIN; POLYMERIZATION
+AB Background: Hematophagous insects digest large amounts of host hemoglobin and release heme inside their guts. In Rhodnius prolixus, hemoglobin-derived heme is detoxified by biomineralization, forming hemozoin (Hz). Recently, the involvement of the R. prolixus perimicrovillar membranes in Hz formation was demonstrated.
+   Methodology/Principal Findings: Hz formation activity of an alpha-glucosidase was investigated. Hz formation was inhibited by specific alpha-glucosidase inhibitors. Moreover, Hz formation was sensitive to inhibition by Diethypyrocarbonate, suggesting a critical role of histidine residues in enzyme activity. Additionally, a polyclonal antibody raised against a phytophagous insect alpha-glucosidase was able to inhibit Hz formation. The alpha-glucosidase inhibitors have had no effects when used 10 h after the start of reaction, suggesting that alpha-glucosidase should act in the nucleation step of Hz formation. Hz formation was seen to be dependent on the substrate-binding site of enzyme, in a way that maltose, an enzyme substrate, blocks such activity. dsRNA, constructed using the sequence of alpha-glucosidase gene, was injected into R. prolixus females' hemocoel. Gene silencing was accomplished by reduction of both alpha-glucosidase and Hz formation activities. Insects were fed on plasma or hemin-enriched plasma and gene expression and activity of alpha-glucosidase were higher in the plasma plus hemin-fed insects. The deduced amino acid sequence of alpha-glucosidase shows a high similarity to the insect alpha-glucosidases, with critical histidine and aspartic residues conserved among the enzymes.
+   Conclusions/Significance: Herein the Hz formation is shown to be associated to an alpha-glucosidase, the biochemical marker from Hemipteran perimicrovillar membranes. Usually, these enzymes catalyze the hydrolysis of glycosidic bond. The results strongly suggest that alpha-glucosidase is responsible for Hz nucleation in the R. prolixus midgut, indicating that the plasticity of this enzyme may play an important role in conferring fitness to hemipteran hematophagy, for instance.
+RP Mury, FB (corresponding author), Univ Estadual Norte Fluminense, Lab Quim & Funcao Prot & Peptideos, Campos Goytacazes, Rio De Janeiro, Brazil.
+EM marilvia@uenf.br
+RI Souza-Neto, Jayme A/E-7841-2010; Ribolla, Paulo/AAH-3354-2020; Machado,
+   Olga/P-1944-2019; Machado, Olga/G-7461-2012; Silva, Jose
+   Roberto/F-2931-2017; Ribolla, Paulo EM/B-9122-2012; de Souza Filho,
+   Goncalo/S-7251-2017
+OI Souza-Neto, Jayme A/0000-0001-9281-894X; Ribolla, Paulo
+   EM/0000-0001-8735-6090; de Souza Filho, Goncalo/0000-0003-1028-4425;
+   Silva, Carlos/0000-0001-5112-7050
+CR BILLINGSLEY PF, 1983, CAN J ZOOL, V61, P2574, DOI 10.1139/z83-339
+   Brandt SM, 2008, GENETICS, V180, P1671, DOI 10.1534/genetics.108.089748
+   Bravo-Torres JC, 2004, INT J PARASITOL, V34, P455, DOI 10.1016/j.ijpara.2003.11.015
+   Chen MM, 2001, MOL BIOCHEM PARASIT, V113, P1, DOI 10.1016/S0166-6851(00)00365-0
+   Choi CYH, 1999, BIOCHEMISTRY-US, V38, P16916, DOI 10.1021/bi991665k
+   DESOUZAGARCIA E, 1975, AN ACAD BRAS CIENC, V47, P537
+   Dhanawansa R, 2002, GLYCOBIOLOGY, V12, P229, DOI 10.1093/glycob/12.3.229
+   Dillon RJ, 1997, COMP BIOCHEM PHYS B, V116, P35, DOI 10.1016/S0305-0491(96)00195-2
+   Dixon M., 1979, ENZYMES
+   Egan TJ, 2008, J INORG BIOCHEM, V102, P1288, DOI 10.1016/j.jinorgbio.2007.12.004
+   Egan TJ, 2006, FEBS LETT, V580, P5105, DOI 10.1016/j.febslet.2006.08.043
+   Ferrer M, 2005, BIOCHEM J, V391, P269, DOI 10.1042/BJ20050346
+   Fitch CD, 1999, BBA-MOL BASIS DIS, V1454, P31, DOI 10.1016/S0925-4439(99)00017-4
+   Francis SE, 1997, ANNU REV MICROBIOL, V51, P97, DOI 10.1146/annurev.micro.51.1.97
+   Graca-Souza AV, 2006, INSECT BIOCHEM MOLEC, V36, P322, DOI 10.1016/j.ibmb.2006.01.009
+   Jackson KE, 2004, MOL MICROBIOL, V54, P109, DOI 10.1111/j.1365-2958.2004.04284.x
+   Jacobson RL, 2001, ACTA TROP, V78, P41, DOI 10.1016/S0001-706X(00)00164-9
+   Jani D, 2008, PLOS PATHOG, V4, DOI 10.1371/journal.ppat.1000053
+   Lara FA, 2003, J EXP BIOL, V206, P1707, DOI 10.1242/jeb.00334
+   LEHANE MJ, 2005, BIOL BLOODS INS 2 ED, P1
+   Lynn A, 1999, FEBS LETT, V459, P267, DOI 10.1016/S0014-5793(99)01260-0
+   MORGAN MRJ, 1975, J INSECT PHYSIOL, V21, P1045, DOI 10.1016/0022-1910(75)90114-6
+   Okuyama M, 2001, EUR J BIOCHEM, V268, P2270, DOI 10.1046/j.1432-1327.2001.02104.x
+   Oliveira MF, 2000, FEBS LETT, V477, P95, DOI 10.1016/S0014-5793(00)01786-5
+   Oliveira MF, 2005, FEBS LETT, V579, P6010, DOI 10.1016/j.febslet.2005.09.035
+   Oliveira MF, 1999, NATURE, V400, P517, DOI 10.1038/22910
+   Oliveira MF, 2000, MOL BIOCHEM PARASIT, V111, P217, DOI 10.1016/S0166-6851(00)00299-1
+   Oliveira PL, 2002, FEBS LETT, V525, P3, DOI 10.1016/S0014-5793(02)03026-0
+   Pandey AV, 2003, BIOCHEM BIOPH RES CO, V308, P736, DOI 10.1016/S0006-291X(03)01465-7
+   Pascoa V, 2002, INSECT BIOCHEM MOLEC, V32, P517, DOI 10.1016/S0965-1748(01)00130-8
+   Pisciotta JM, 2005, INT J PARASITOL, V35, P1037, DOI 10.1016/j.ijpara.2005.03.020
+   Pisciotta JM, 2008, PARASITOL INT, V57, P89, DOI 10.1016/j.parint.2007.09.009
+   Pisciotta JM, 2007, BIOCHEM J, V402, P197, DOI 10.1042/BJ20060986
+   Ribeiro JMC, 2004, INSECT BIOCHEM MOLEC, V34, P61, DOI 10.1016/j.ibmb.2003.09.004
+   Ribeiro JMC, 2003, ANNU REV ENTOMOL, V48, P73, DOI 10.1146/annurev.ento.48.060402.102812
+   RIBEIRO JMC, 1995, INFECT AGENT DIS, V4, P143
+   Romaniouk A, 1997, GLYCOBIOLOGY, V7, P399, DOI 10.1093/glycob/7.3.399
+   Schneider EL, 2005, BIOCHEMISTRY-US, V44, P979, DOI 10.1021/bi048570p
+   Shirai T, 2008, PROTEINS, V73, P126, DOI 10.1002/prot.22044
+   Silva CP, 2004, ARTHROPOD STRUCT DEV, V33, P139, DOI 10.1016/j.asd.2003.12.002
+   SILVA CP, 1994, INSECT BIOCHEM MOLEC, V24, P493, DOI 10.1016/0965-1748(94)90044-2
+   SILVA CP, 1995, J INSECT PHYSIOL, V41, P1093, DOI 10.1016/0022-1910(95)00066-4
+   Silva JR, 2007, INSECT BIOCHEM MOLEC, V37, P523, DOI 10.1016/j.ibmb.2007.01.001
+   SLATER AFG, 1992, NATURE, V355, P167, DOI 10.1038/355167a0
+   SMITH PK, 1985, ANAL BIOCHEM, V150, P76, DOI 10.1016/0003-2697(85)90442-7
+   Sullivan DJ, 2002, INT J PARASITOL, V32, P1645, DOI 10.1016/S0020-7519(02)00193-5
+   Sullivan DJ, 1996, SCIENCE, V271, P219, DOI 10.1126/science.271.5246.219
+   TAINER J A, 1992, Current Opinion in Biotechnology, V3, P378, DOI 10.1016/0958-1669(92)90166-G
+   TERRA WR, 1979, BIOCHIM BIOPHYS ACTA, V571, P79, DOI 10.1016/0005-2744(79)90227-4
+   TERRA WR, 1988, BRAZ J MED BIOL RES, V21, P675
+   Whitby K, 2005, J VIROL, V79, P8698, DOI 10.1128/JVI.79.14.8698-8706.2005
+   Zeng YC, 1998, ARCH BIOCHEM BIOPHYS, V355, P26, DOI 10.1006/abbi.1998.0717
+NR 52
+TC 33
+Z9 33
+U1 0
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 9
+PY 2009
+VL 4
+IS 9
+AR e6966
+DI 10.1371/journal.pone.0006966
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 491ZI
+UT WOS:000269622500024
+PM 19742319
+OA DOAJ Gold, Green Published
+DA 2020-12-17
+ER
+
+PT J
+AU Oliveira, MF
+   Gandara, ACP
+   Braga, CMS
+   Silva, JR
+   Mury, FB
+   Dansa-Petretski, M
+   Menezes, D
+   Vannier-Santos, MA
+   Oliveira, PL
+AF Oliveira, Marcus F.
+   Gandara, Ana Caroline P.
+   Braga, Claudia M. S.
+   Silva, Jose R.
+   Mury, Flavia B.
+   Dansa-Petretski, Marilvia
+   Menezes, Diego
+   Vannier-Santos, Marcos A.
+   Oliveira, Pedro L.
+TI Heme crystallization in the midgut of triatomine insects
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY C-TOXICOLOGY & PHARMACOLOGY
+LA English
+DT Article
+DE Triatominae; heme; hemozoin; perimicrovillar membranes; midgut
+ID PARASITE PLASMODIUM-FALCIPARUM; BETA-HEMATIN; MALARIA PIGMENT;
+   FERRIPROTOPORPHYRIN-IX; SCHISTOSOMA-MANSONI; HEMOZOIN FORMATION;
+   BLOODSUCKING INSECT; RHODNIUS-PROLIXUS; ANTIOXIDANT ROLE; HAEMOZOIN
+AB Hemozoin (Hz) is a heme crystal produced by several blood-feeding organisms in order to detoxify free heme released upon hemoglobin (Hb) digestion. Here we show that heme crystallization also occurs in three species of triatomine insects. Ultraviolet-visible and infrared light absorption spectra of insoluble pigments isolated from the midgut of three triatomine species Triatoma infestans, Dipetalogaster maximus and Panstrongylus megistus indicated that all produce Hz. Morphological analysis of T infestans and D. maximus midguts revealed the close association of Hz; crystals to perimicrovillar membranes and also as multicrystalline assemblies, forming nearly spherical structures. Heme crystallization was promoted by isolated perimicrovillar membranes from all three species of triatomine bugs in vitro in heat-sensitive reactions. In conclusion, the data presented here indicate that Hz formation is an ancestral adaptation of Triatominae to a blood-sucking habit and that the presence of perimicrovillar membranes plays a central role in this process. (c) 2007 Elsevier Inc. All rights reserved.
+C1 Univ Fed Rio de Janeiro, Program Mol Biol & Biotecnol, Inst Bioquim Med, BR-21941590 Rio De Janeiro, Brazil.
+   CENPES, Div Quim, Setor Quim Organ, BR-21949900 Rio De Janeiro, Brazil.
+   Univ Estadual Norte Fluminense, Ctr Biociencias & Biotecnol, BR-28013602 Campos Dos Goytacazes, RJ, Brazil.
+   Ctr Pesquisas Goncaol Moniz, Salvador, BA, Brazil.
+RP Oliveira, MF (corresponding author), Univ Fed Rio de Janeiro, Program Mol Biol & Biotecnol, Inst Bioquim Med, Cidade Univ, BR-21941590 Rio De Janeiro, Brazil.
+EM maroli@bioqmed.ufrj.br
+RI Vannier-Santos, Marcos/G-5517-2012; Menezes, Diego/T-4794-2019;
+   Vannier-Santos, Marcos A/L-3649-2013; Oliveira, Marcus/G-3158-2011;
+   Oliveira, Pedro/A-9438-2010
+OI Oliveira, Marcus/0000-0002-9890-8425; Vannier-Santos,
+   Marcos/0000-0001-9241-2261; Oliveira, Pedro/0000-0003-0307-354X; Paiva
+   Gandara, Ana Caroline/0000-0003-3194-4453
+CR BENDRAT K, 1995, NATURE, V378, P138, DOI 10.1038/378138a0
+   Blauer G, 2002, ARCH BIOCHEM BIOPHYS, V398, P7, DOI 10.1006/abbi.2001.2638
+   Brindley PJ, 1997, MOL BIOCHEM PARASIT, V89, P1, DOI 10.1016/S0166-6851(97)00098-4
+   Chen MM, 2001, MOL BIOCHEM PARASIT, V113, P1, DOI 10.1016/S0166-6851(00)00365-0
+   CHOU AC, 1980, J CLIN INVEST, V66, P856, DOI 10.1172/JCI109925
+   DANSAPETRETSKI M, 1995, J BIOL CHEM, V270, P10893, DOI 10.1074/jbc.270.18.10893
+   DAVIES MJ, 1988, BIOCHIM BIOPHYS ACTA, V964, P28, DOI 10.1016/0304-4165(88)90063-3
+   DORN A, 1995, NATURE, V374, P269, DOI 10.1038/374269a0
+   Dorn A, 1998, BIOCHEM PHARMACOL, V55, P737, DOI 10.1016/S0006-2952(97)00509-1
+   Egan TJ, 2006, FEBS LETT, V580, P5105, DOI 10.1016/j.febslet.2006.08.043
+   EGAN TJ, 1994, FEBS LETT, V352, P54, DOI 10.1016/0014-5793(94)00921-X
+   Egan TJ, 2002, J INORG BIOCHEM, V91, P19, DOI 10.1016/S0162-0134(02)00372-0
+   Egan TJ, 2002, BIOCHEM J, V365, P343, DOI 10.1042/BJ20020793
+   Egan TJ, 2001, BIOCHEMISTRY-US, V40, P204, DOI 10.1021/bi0013501
+   Fitch CD, 1999, BBA-MOL BASIS DIS, V1454, P31, DOI 10.1016/S0925-4439(99)00017-4
+   FITCH CD, 1987, J BIOL CHEM, V262, P15552
+   Francis SE, 1997, ANNU REV MICROBIOL, V51, P97, DOI 10.1146/annurev.micro.51.1.97
+   Gaunt M, 2000, MEM I OSWALDO CRUZ, V95, P557, DOI 10.1590/S0074-02762000000400019
+   Graca-Souza AV, 2006, INSECT BIOCHEM MOLEC, V36, P322, DOI 10.1016/j.ibmb.2006.01.009
+   GUTIERREZ LS, 1986, J ULTRA MOL STRUCT R, V95, P75, DOI 10.1016/0889-1605(86)90031-5
+   Hempelmann E, 2003, TRENDS PARASITOL, V19, P23, DOI 10.1016/S1471-4922(02)00011-9
+   Jackson KE, 2004, MOL MICROBIOL, V54, P109, DOI 10.1111/j.1365-2958.2004.04284.x
+   LANE NJ, 1979, J CELL SCI, V39, P355
+   LOWRY OH, 1951, J BIOL CHEM, V193, P265
+   Maya-Monteiro CM, 2004, INSECT BIOCHEM MOLEC, V34, P81, DOI 10.1016/j.ibmb.2003.09.005
+   Oliveira MF, 2000, FEBS LETT, V477, P95, DOI 10.1016/S0014-5793(00)01786-5
+   Oliveira MF, 2005, FEBS LETT, V579, P6010, DOI 10.1016/j.febslet.2005.09.035
+   Oliveira MF, 2004, J INFECT DIS, V190, P843, DOI 10.1086/422759
+   Oliveira MF, 1999, NATURE, V400, P517, DOI 10.1038/22910
+   Oliveira MF, 2002, FEBS LETT, V512, P139, DOI 10.1016/S0014-5793(02)02243-3
+   Oliveira MF, 2000, MOL BIOCHEM PARASIT, V111, P217, DOI 10.1016/S0166-6851(00)00299-1
+   ORJIH AU, 1981, SCIENCE, V214, P667, DOI 10.1126/science.7027441
+   Pagola S, 2000, NATURE, V404, P307, DOI 10.1038/35005132
+   Paiva-Silva GO, 2006, P NATL ACAD SCI USA, V103, P8030, DOI 10.1073/pnas.0602224103
+   Pisciotta JM, 2005, INT J PARASITOL, V35, P1037, DOI 10.1016/j.ijpara.2005.03.020
+   PISCIOTTA JM, IN PRESS BIOCH J
+   Ryter SW, 2000, FREE RADICAL BIO MED, V28, P289, DOI 10.1016/S0891-5849(99)00223-3
+   SCHMITT TH, 1993, ARCH BIOCHEM BIOPHYS, V307, P96, DOI 10.1006/abbi.1993.1566
+   Schofield CJ, 2000, MEM I OSWALDO CRUZ, V95, P535, DOI 10.1590/S0074-02762000000400016
+   SLATER AFG, 1991, P NATL ACAD SCI USA, V88, P325, DOI 10.1073/pnas.88.2.325
+   SLATER AFG, 1992, NATURE, V355, P167, DOI 10.1038/355167a0
+   Sullivan DJ, 2002, INT J PARASITOL, V32, P1645, DOI 10.1016/S0020-7519(02)00193-5
+   Sullivan DJ, 1996, SCIENCE, V271, P219, DOI 10.1126/science.271.5246.219
+   TAPPEL AL, 1955, J BIOL CHEM, V217, P721
+   VanderZee J, 1996, FREE RADICAL BIO MED, V20, P199, DOI 10.1016/0891-5849(95)02031-4
+   VINCENT SH, 1989, SEMIN HEMATOL, V26, P105
+NR 46
+TC 20
+Z9 20
+U1 0
+U2 10
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1532-0456
+EI 1878-1659
+J9 COMP BIOCHEM PHYS C
+JI Comp. Biochem. Physiol. C-Toxicol. Pharmacol.
+PD JUL-AUG
+PY 2007
+VL 146
+IS 1-2
+BP 168
+EP 174
+DI 10.1016/j.cbpc.2006.12.007
+PG 7
+WC Biochemistry & Molecular Biology; Endocrinology & Metabolism;
+   Toxicology; Zoology
+SC Biochemistry & Molecular Biology; Endocrinology & Metabolism;
+   Toxicology; Zoology
+GA 202DC
+UT WOS:000248881200014
+PM 17254848
+OA Green Published
+DA 2020-12-17
+ER
+
+PT J
+AU Silva, JR
+   Mury, FB
+   Oliveira, MF
+   Oliveira, PL
+   Silva, CP
+   Dansa-Petretski, M
+AF Silva, Jose R.
+   Mury, Flavia Borges
+   Oliveira, Marcus F.
+   Oliveira, Pedro L.
+   Silva, Carlos P.
+   Dansa-Petretski, Marilvia
+TI Perimicrovillar membranes promote hemozoin formation into Rhodnius
+   prolixus midgut
+SO INSECT BIOCHEMISTRY AND MOLECULAR BIOLOGY
+LA English
+DT Article
+DE perimicrovillar membranes; heme; hemozoin; Rhodnius prolixus
+ID AEGYPTI PERITROPHIC MATRIX; HEME-BINDING PROTEIN; STAL HEMIPTERA;
+   BLOODSUCKING INSECT; POSTERIOR MIDGUT; FERRIPROTOPORPHYRIN-IX;
+   PLASMODIUM-FALCIPARUM; SCHISTOSOMA-MANSONI; DIGESTIVE ENZYMES;
+   PLASMA-MEMBRANES
+AB Rhodnius prolisus is a hernatopliagous insect that ingests large quantities of blood in each blood-feeding session. This ingested blood provides important nutrients to sustain the insect's oogenesis and inetabolic pathways. During the digestive process, however, huge amounts of heme are generated as a consequence of the hemoglobin breakdown. Heme is an extremely dangerous molecule, since it can reactive oxygen species in the presence of oxygen that impair the normal metabolism of the insect. Part of the hemoglobin-generate derived heme can associate with the perimicrovillar nicnibranes (PMM) in the gut lumen of R. prolixus; in this study we demonstrate the participation of the PMM in a heme detoxification process. These membranes were able to successfully induce heme aggregation into hemozoin (Hz). Herne aggregation was not dependent on the erythrocyte membranes, since the contribution of these membranes to the process was negligible, demonstrating that the ability to induce heme aggregation is a feature of the PMM, possibly representing a preadaptation of the hemipteraris to feeding on blood. (c) 2007 Published by Elsevier Ltd.
+C1 Univ Estadual Fed Fluminense, Lab Quim & Funcao Prot & Peptideos, Ctr Biociencias & Biotecnol, BR-28013162 Campos Dos Goytacazes, RJ, Brazil.
+   Univ Fed Rio de Janeiro, Inst Bioquim Med, Programa Biotecnol & Biol Mol, BR-21941590 Rio De Janeiro, Brazil.
+RP Dansa-Petretski, M (corresponding author), Univ Estadual Fed Fluminense, Lab Quim & Funcao Prot & Peptideos, Ctr Biociencias & Biotecnol, Av Alberto Lamego 2000, BR-28013162 Campos Dos Goytacazes, RJ, Brazil.
+EM marilvia@uenf.br
+RI Silva, Jose Roberto/F-2931-2017; Oliveira, Marcus/G-3158-2011; Oliveira,
+   Pedro/A-9438-2010
+OI Oliveira, Marcus/0000-0002-9890-8425; Oliveira,
+   Pedro/0000-0003-0307-354X; Silva, Carlos/0000-0001-5112-7050
+CR AFT RL, 1983, J BIOL CHEM, V258, P2069
+   BENDRAT K, 1995, NATURE, V378, P138, DOI 10.1038/378138a0
+   BILLINGSLEY PF, 1985, CELL TISSUE RES, V241, P421, DOI 10.1007/BF00217189
+   BILLINGSLEY PF, 1988, INT J INSECT MORPHOL, V17, P295, DOI 10.1016/0020-7322(88)90010-4
+   BILLINGSLEY PF, 1986, ACTA TROP, V43, P355
+   BILLINGSLEY PF, 1983, CAN J ZOOL, V61, P2574, DOI 10.1139/z83-339
+   BLIGH EG, 1959, CAN J BIOCHEM PHYS, V37, P911
+   Chen MM, 2001, MOL BIOCHEM PARASIT, V113, P1, DOI 10.1016/S0166-6851(00)00365-0
+   CHOU AC, 1980, J CLIN INVEST, V66, P856, DOI 10.1172/JCI109925
+   Cristofoletti PT, 2003, J INSECT PHYSIOL, V49, P11, DOI 10.1016/S0022-1910(02)00222-6
+   DAHLQVIST A, 1968, ANAL BIOCHEM, V22, P99, DOI 10.1016/0003-2697(68)90263-7
+   DANSAPETRETSKI M, 1995, J BIOL CHEM, V270, P10893, DOI 10.1074/jbc.270.18.10893
+   de Oliveira MA, 2001, J INVERTEBR PATHOL, V77, P22, DOI 10.1006/jipa.2000.4988
+   Deterding LJ, 2004, J BIOL CHEM, V279, P11600, DOI 10.1074/jbc.M310704200
+   Devenport M, 2006, BIOCHEMISTRY-US, V45, P9540, DOI 10.1021/bi0605991
+   DORN A, 1995, NATURE, V374, P269, DOI 10.1038/374269a0
+   Dorn A, 1998, BIOCHEM PHARMACOL, V55, P737, DOI 10.1016/S0006-2952(97)00509-1
+   EGAN TJ, 1994, FEBS LETT, V352, P54, DOI 10.1016/0014-5793(94)00921-X
+   Egan TJ, 2001, BIOCHEMISTRY-US, V40, P204, DOI 10.1021/bi0013501
+   FERREIRA C, 1988, INSECT BIOCHEM, V18, P521, DOI 10.1016/0020-1790(88)90003-0
+   Fitch CD, 1999, BBA-MOL BASIS DIS, V1454, P31, DOI 10.1016/S0925-4439(99)00017-4
+   Fitch CD, 2000, BBA-MOL BASIS DIS, V1535, P45, DOI 10.1016/S0925-4439(00)00081-8
+   GARCIA ES, 1975, AN ACAD BRAS CIENC, V47, P580
+   GOODCHILD AJ, 1966, BIOL REV, V41, P97, DOI 10.1111/j.1469-185X.1966.tb01540.x
+   Graca-Souza AV, 2006, INSECT BIOCHEM MOLEC, V36, P322, DOI 10.1016/j.ibmb.2006.01.009
+   GRACASOUZA AV, 1997, FREE RADICAL BIO MED, V22, P209
+   Hempelmann E, 2003, TRENDS PARASITOL, V19, P23, DOI 10.1016/S1471-4922(02)00011-9
+   HOUSEMAN JG, 1983, J INSECT PHYSIOL, V29, P141, DOI 10.1016/0022-1910(83)90137-3
+   Jackson KE, 2004, MOL MICROBIOL, V54, P109, DOI 10.1111/j.1365-2958.2004.04284.x
+   LANE NJ, 1979, J CELL SCI, V39, P355
+   Lara FA, 2003, J EXP BIOL, V206, P1707, DOI 10.1242/jeb.00334
+   LAW JH, 1992, ANNU REV BIOCHEM, V61, P87, DOI 10.1146/annurev.bi.61.070192.000511
+   LEHANE MJ, 1991, BIOL BLOOD SUCKING
+   LIGHT WR, 1990, J BIOL CHEM, V265, P15632
+   LOWRY OH, 1951, J BIOL CHEM, V193, P265
+   Lynn A, 1999, FEBS LETT, V459, P267, DOI 10.1016/S0014-5793(99)01260-0
+   Maya-Monteiro CM, 2004, INSECT BIOCHEM MOLEC, V34, P81, DOI 10.1016/j.ibmb.2003.09.005
+   Oliveira MF, 2000, FEBS LETT, V477, P95, DOI 10.1016/S0014-5793(00)01786-5
+   Oliveira MF, 2005, FEBS LETT, V579, P6010, DOI 10.1016/j.febslet.2005.09.035
+   Oliveira MF, 2004, J INFECT DIS, V190, P843, DOI 10.1086/422759
+   Oliveira MF, 1999, NATURE, V400, P517, DOI 10.1038/22910
+   Oliveira MF, 2002, FEBS LETT, V512, P139, DOI 10.1016/S0014-5793(02)02243-3
+   Oliveira MF, 2000, MOL BIOCHEM PARASIT, V111, P217, DOI 10.1016/S0166-6851(00)00299-1
+   OLIVEIRA PL, 1995, J BIOL CHEM, V270, P10897, DOI 10.1074/jbc.270.18.10897
+   Oliveira PL, 2002, FEBS LETT, V525, P3, DOI 10.1016/S0014-5793(02)03026-0
+   Orjih AU, 2001, EXP BIOL MED, V226, P746, DOI 10.1177/153537020222600806
+   Paes MC, 2001, ARCH INSECT BIOCHEM, V48, P63, DOI 10.1002/arch.1058
+   Pagola S, 2000, NATURE, V404, P307, DOI 10.1038/35005132
+   Paiva-Silva GO, 2006, P NATL ACAD SCI USA, V103, P8030, DOI 10.1073/pnas.0602224103
+   Pandey AV, 2003, BIOCHEM BIOPH RES CO, V308, P736, DOI 10.1016/S0006-291X(03)01465-7
+   Pascoa V, 2002, INSECT BIOCHEM MOLEC, V32, P517, DOI 10.1016/S0965-1748(01)00130-8
+   Pisciotta JM, 2005, INT J PARASITOL, V35, P1037, DOI 10.1016/j.ijpara.2005.03.020
+   SCHMITT TH, 1993, ARCH BIOCHEM BIOPHYS, V307, P96, DOI 10.1006/abbi.1993.1566
+   Silva CP, 2004, ARTHROPOD STRUCT DEV, V33, P139, DOI 10.1016/j.asd.2003.12.002
+   Silva CP, 1996, INSECT BIOCHEM MOLEC, V26, P1011, DOI 10.1016/S0965-1748(96)00010-0
+   SILVA CP, 1995, J INSECT PHYSIOL, V41, P1093, DOI 10.1016/0022-1910(95)00066-4
+   Silva JR, 2006, J INSECT PHYSIOL, V52, P542, DOI 10.1016/j.jinsphys.2006.01.004
+   SLATER AFG, 1991, P NATL ACAD SCI USA, V88, P325, DOI 10.1073/pnas.88.2.325
+   SMITH PK, 1985, ANAL BIOCHEM, V150, P76, DOI 10.1016/0003-2697(85)90442-7
+   Sullivan DJ, 1996, SCIENCE, V271, P219, DOI 10.1126/science.271.5246.219
+   Terra WR, 2006, AN ACAD BRAS CIENC, V78, P255, DOI 10.1590/S0001-37652006000200007
+   TERRA WR, 1990, ANNU REV ENTOMOL, V35, P181, DOI 10.1146/annurev.en.35.010190.001145
+   TERRA WR, 1988, BRAZ J MED BIOL RES, V21, P675
+   TERRA WR, 1994, COMP BIOCHEM PHYS B, V109, P1, DOI 10.1016/0305-0491(94)90141-4
+   VanderZee J, 1996, FREE RADICAL BIO MED, V20, P199, DOI 10.1016/0891-5849(95)02031-4
+   VINCENT SH, 1989, SEMIN HEMATOL, V26, P105
+   Wigglesworth VB, 1943, PROC R SOC SER B-BIO, V131, P313, DOI 10.1098/rspb.1943.0010
+NR 67
+TC 18
+Z9 18
+U1 0
+U2 11
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0965-1748
+EI 1879-0240
+J9 INSECT BIOCHEM MOLEC
+JI Insect Biochem. Mol. Biol.
+PD JUN
+PY 2007
+VL 37
+IS 6
+BP 523
+EP 531
+DI 10.1016/j.ibmb.2007.01.001
+PG 9
+WC Biochemistry & Molecular Biology; Entomology
+SC Biochemistry & Molecular Biology; Entomology
+GA 180IP
+UT WOS:000247356700001
+PM 17517329
+DA 2020-12-17
+ER
+
+PT J
+AU Antonini, Y
+   Souza, HG
+   Jacobi, CM
+   Mury, FB
+AF Antonini, Y
+   Souza, HG
+   Jacobi, CM
+   Mury, FB
+TI Richness and behavior of insect visitors of Stachytarpheta glabra Cham.
+   (Verbenaceae), at a Ferruginous Field, Ouro Preto, MG, Brazil
+SO NEOTROPICAL ENTOMOLOGY
+LA Portuguese
+DT Article
+DE pollinator; resource partition; abiotic constraint
+ID HIGH TEMPERATE ANDES; CENTAUREA-SCABIOSA L; POLLINATION ECOLOGY;
+   PLANT-COMMUNITIES; CENTRAL CHILE; HONEY BEES; NIGRA L; COMPETITION;
+   THERMOREGULATION; VISITATION
+AB The influence of abiotic factors and floral resources on the frequency of insect visitors to Stachytarpheta glabra Chain was assessed in an area of ferruginous fields, Ouro Preto, MG. A total of 312 insects were collected, belonging to 28 species. The highest abundances were for Oxaea flavescens Klug (25%), Vespidae sp1 (11.5%), Vespidae sp2 (11%), Antheos clorinde Hubner (10.3%) and Vespidae sp3 (10%). There was a positive relation of abundance with light intensity (r(2)=0.66, b=0.82, P<0.001) and temperature (r(2)=0.40, b=0.65, P=0.001), and a negative relation with relative humidity (r(2)=0.34, b=-0.60, P<0.001). The number of flowers and inflorescences (r(S)=0.81, n=20, P<0.001 e r(S)=0.82, n=20, P<0.001, respectively) influenced the abundance of visits. No significant relation was found with plant height. Halictidae prefer to forage at high temperatures and light intensity. Large bees (Apidae and Andrenidae), on the other hand, are more tolerant to temperature variations and forage during the whole day. Vespidae prefer high temperatures but tolerate variation in light intensity. Lepidoptera forage preferentially during periods of high light intensity and temperature. Butterflies, moths, Eulaema nigrita Lepeleier and Apis mellifera L. are the potential pollinators whereas Vespidae, Halictidae, Bombus atratus Franklin and O. flavescens were thieves in S. glabra flowers.
+C1 Dept Biol Geral, Lab Ecol & Comportamento Insetos, BR-31270901 Belo Horizonte, MG, Brazil.
+   Dept Biol Geral, Lab Interacao Anim Planta, BR-31270901 Belo Horizonte, MG, Brazil.
+RP Antonini, Y (corresponding author), Dept Biol Geral, Lab Ecol & Comportamento Insetos, Av Antonio Carlos 6627,C Postal 486, BR-31270901 Belo Horizonte, MG, Brazil.
+RI Jacobi, Claudia/B-7510-2013; SOUZA, MARCELLUS/AAG-3910-2020; Antonini,
+   Yasmine/J-2470-2012
+OI Antonini, Yasmine/0000-0002-5582-8193
+CR ARMBRUSTER WS, 1984, ANN MO BOT GARD, V71, P1, DOI 10.2307/2399053
+   ARROYO MTK, 1982, AM J BOT, V69, P82, DOI 10.2307/2442833
+   ARROYO MTK, 1985, PLANT SYST EVOL, V149, P187, DOI 10.1007/BF00983305
+   BAWA KS, 1983, PATTERNS FLOWERING T, P394
+   Buchmann S. L., 1996, The conservation of bees., P125
+   BURRILL RM, 1981, APIDOLOGIE, V12, P319, DOI 10.1051/apido:19810402
+   CAMPBELL DR, 1985, ECOLOGY, V66, P544, DOI 10.2307/1940403
+   CAMPBELL DR, 1985, ECOLOGY, V66, P554, DOI 10.2307/1940404
+   CARPENTER FL, 1979, AM ZOOL, V19, P1105
+   CLARK PJ, 1954, ECOLOGY, V35, P445, DOI 10.2307/1931034
+   CRUDEN RW, 1972, SCIENCE, V176, P1439, DOI 10.1126/science.176.4042.1439
+   EICKWORT GC, 1980, ANNU REV ENTOMOL, V25, P421, DOI 10.1146/annurev.en.25.010180.002225
+   FARIA GM, 1994, THESIS SERRA DO CIPO
+   GINSBERG HS, 1983, ECOLOGY, V64, P165, DOI 10.2307/1937338
+   HEINRICH B, 1979, J EXP BIOL, V80, P217
+   HEINRICH B, 1972, SCIENCE, V176, P597, DOI 10.1126/science.176.4035.597
+   HEINRICH B, 1974, SCIENCE, V185, P747, DOI 10.1126/science.185.4153.747
+   HEINRICH B, 1976, ECOLOGY, V60, P190
+   HEITHAUS ER, 1974, ANN MO BOT GARD, V61, P675, DOI 10.2307/2395023
+   INOUYE D, 1978, ECOLOGY, V4, P672
+   Iwama S., 1977, Boletim de Zoologia, Universidade de Sao Paulo, V2, P189
+   JOHNSON LK, 1974, ECOLOGY, V55, P120, DOI 10.2307/1934624
+   KAPYLA M, 1974, Annales Entomologici Fennici, V40, P61
+   KEARNS CA, 2000, TECHNIQUES POLLINATI
+   KEVAN PG, 1983, ANNU REV ENTOMOL, V28, P407, DOI 10.1146/annurev.en.28.010183.002203
+   KLEINERTGIOVANI.A, 1982, REV BRAS ENTOMOL, V1, P1
+   KLINKHAMER PGL, 1993, OIKOS, V66, P180, DOI 10.2307/3545212
+   LACK AJ, 1982, NEW PHYTOL, V91, P297, DOI 10.1111/j.1469-8137.1982.tb03314.x
+   LACK AJ, 1982, NEW PHYTOL, V91, P321, DOI 10.1111/j.1469-8137.1982.tb03316.x
+   LACK AJ, 1982, J ECOL, V70, P773, DOI 10.2307/2260104
+   Laroca S., 1982, Dusenia, V13, P93
+   LINSLEY E G, 1978, Journal of the Kansas Entomological Society, V51, P531
+   Macedo Joao F., 1998, Anais da Sociedade Entomologica do Brasil, V27, P29, DOI 10.1590/S0301-80591998000100004
+   Macedo Joao F., 1999, Anais da Sociedade Entomologica do Brasil, V28, P617, DOI 10.1590/S0301-80591999000400005
+   MCCOY ED, 1990, OIKOS, V58, P313, DOI 10.2307/3545222
+   Morato Elder Ferreira, 2000, Revista Brasileira de Zoologia, V17, P705, DOI 10.1590/S0101-81752000000300016
+   MURRAY KG, 1987, ECOLOGY, V68, P1283, DOI 10.2307/1939213
+   PARRISH JAD, 1979, ECOLOGY, V60, P597, DOI 10.2307/1936080
+   PEDRO SRM, 1992, THESIS CAJURU
+   PLEASANTS JM, 1980, ECOLOGY, V61, P1446, DOI 10.2307/1939053
+   PYKE GH, 1984, ANNU REV ECOL SYST, V15, P523, DOI 10.1146/annurev.es.15.110184.002515
+   Ramalho M, 1991, ECOLOGIA NUTR INSETO, P225
+   Rathcke B., 1983, P305
+   ROBERTSON AW, 1992, BIOL J LINN SOC, V46, P333, DOI 10.1111/j.1095-8312.1992.tb00868.x
+   ROUBIK DW, 1978, SCIENCE, V201, P1030, DOI 10.1126/science.201.4360.1030
+   ROUBIK DW, 1981, REV BIOL TROP, V29, P177
+   ROUBIK DW, 1982, ECOLOGICAL IMPACT AF, P233
+   SALIMENA-PIRES FR, 1998, B BOT U SAO PAULO, V17, P155, DOI DOI 10.11606/ISSN.2316-9052.V17I0P155-186
+   SCHMITT J, 1983, OECOLOGIA, V60, P97, DOI 10.1007/BF00379326
+   Vincent RC, 2002, CIENCIA HOJE, V3, P64
+   VOGEL S, 1991, ADV LIF SCI, P159
+   WASER NM, 1978, ECOLOGY, V59, P934, DOI 10.2307/1938545
+   Zar J. H., 1998, BIOSTATISTICAL ANAL
+NR 53
+TC 19
+Z9 20
+U1 0
+U2 14
+PU ENTOMOLOGICAL SOC BRASIL
+PI LONDRINA,
+PA C POSTAL 481, 86001-970 LONDRINA,, PR, BRAZIL
+SN 1519-566X
+J9 NEOTROP ENTOMOL
+JI Neotrop. Entomol.
+PD JUL-AUG
+PY 2005
+VL 34
+IS 4
+BP 555
+EP 564
+DI 10.1590/S1519-566X2005000400004
+PG 10
+WC Entomology
+SC Entomology
+GA 963BX
+UT WOS:000231778900004
+OA Other Gold
+DA 2020-12-17
+ER
+
+PT J
+AU Nishimura, AL
+   Mury, FB
+   Mitne-Neto, M
+   Oliveira, JRM
+   Nitrini, R
+   Bahia, VS
+   Brito-Marque, PR
+   Neri, M
+   Fertuzinhos, SMM
+   Zatz, M
+AF Nishimura, AL
+   Mury, FB
+   Mitne-Neto, M
+   Oliveira, JRM
+   Nitrini, R
+   Bahia, VS
+   Brito-Marque, PR
+   Neri, M
+   Fertuzinhos, SMM
+   Zatz, M
+TI Analysis of the interleukin-1 gene complex in LOAD Brazilian patients.
+SO AMERICAN JOURNAL OF HUMAN GENETICS
+LA English
+DT Meeting Abstract
+CT Annual Meeting of the American-Society-of-Human-Genetics
+CY NOV 04-08, 2003
+CL LOS ANGELES, CALIFORNIA
+SP Amer Soc Human Genet
+C1 Univ Sao Paulo, Human Genome Res Ctr, Inst Biosci, BR-05508 Sao Paulo, Brazil.
+   Univ Calif Los Angeles, Dept David Geffen Med Sch, Los Angeles, CA 90024 USA.
+   Univ Sao Paulo, Fac Med, Dept Neurol, BR-05508 Sao Paulo, Brazil.
+   Univ Fed Pernambuco, Ctr Cognit Neurol & Behav, Recife, PE, Brazil.
+RI Fertuzinhos, Sofia MS/G-8316-2011; Nishimura, Agnes/B-2905-2011; Zatz,
+   Mayana/M-5338-2015; Nitrini, Ricardo/B-8703-2013
+OI Zatz, Mayana/0000-0003-3970-8025; Nitrini, Ricardo/0000-0002-5721-1525
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0002-9297
+J9 AM J HUM GENET
+JI Am. J. Hum. Genet.
+PD NOV
+PY 2003
+VL 73
+IS 5
+MA 1749
+BP 468
+EP 468
+PG 1
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA 726LC
+UT WOS:000185599701748
+DA 2020-12-17
+ER
+
+EF

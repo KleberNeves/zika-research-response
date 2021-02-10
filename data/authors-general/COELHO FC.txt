@@ -1,0 +1,2105 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Codeco, CT
+   Villela, DAM
+   Coelho, FC
+AF Codeco, Claudia T.
+   Villela, Daniel A. M.
+   Coelho, Flavio C.
+TI Estimating the effective reproduction number of dengue considering
+   temperature-dependent generation intervals
+SO EPIDEMICS
+LA English
+DT Article
+DE Dengue; Reproductive number; Generation interval
+ID AEDES-AEGYPTI DIPTERA; INFECTIOUS-DISEASE; VIRUS TRANSMISSION; EPIDEMIC
+   MODELS; TIME; DYNAMICS; CULICIDAE; THAILAND; PATTERN
+AB The effective reproduction number, R-t, is a measure of transmission that can be calculated from standard incidence data to timely detect the beginning of epidemics. It has being increasingly used for surveillance of directly transmitted diseases. However, current methods for R-t estimation do not apply for vector borne diseases, whose transmission cycle depends on temperature. Here we propose a method that provides dengue's R-t estimates in the presence of temperature-mediated seasonality and apply this method to simulated and real data from two cities in Brazil where dengue is endemic. The method shows good precision in the simulated data. When applied to the real data, it shows differences in the transmission profile of the two cities and identifies periods of higher transmission.
+C1 [Codeco, Claudia T.; Villela, Daniel A. M.] Fundacao Oswaldo Cruz, Sci Comp Program, Rio De Janeiro, Brazil.
+   [Coelho, Flavio C.] Getulio Vargas Fdn, Sch Appl Math, Rio De Janeiro, Brazil.
+RP Codeco, CT (corresponding author), Fundacao Oswaldo Cruz, Sci Comp Program, Rio De Janeiro, Brazil.
+EM claudia.codeco@fiocruz.br
+RI Coelho, Flavio Codeco/L-1089-2018; Villela, Daniel/AAG-6445-2019
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Villela,
+   Daniel/0000-0001-8371-2959
+FU Brazilian Ministry of Health; CNPqNational Council for Scientific and
+   Technological Development (CNPq); FAPERJCarlos Chagas Filho Foundation
+   for Research Support of the State of Rio de Janeiro (FAPERJ); TESLA GPU
+   card from NVIDIA corporation
+FX We acknowledge all members of the Infodengue team who contributed with
+   fruitful discussions during the study. We also thank the Health
+   Secretariat of Rio de Janeiro and Parana for the data. This work is
+   partially funded by the Brazilian Ministry of Health, CNPq and FAPERJ.
+   Flavio Codeco Coelho acknowledges the grant of a TESLA GPU card from
+   NVIDIA corporation. We also acknowledge the two unknown referees for
+   their valuable comments on previous versions of the manuscript.
+CR Aldstadt J, 2007, STOCH ENV RES RISK A, V21, P487, DOI 10.1007/s00477-007-0132-3
+   Aldstadt J, 2012, TROP MED INT HEALTH, V17, P1076, DOI 10.1111/j.1365-3156.2012.03040.x
+   Bacaer N, 2007, B MATH BIOL, V69, P1067, DOI 10.1007/s11538-006-9166-9
+   Boelle PY, 2008, VECTOR-BORNE ZOONOT, V8, P207, DOI 10.1089/vbz.2006.0620
+   Buddhari D, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003230
+   Carrington LB, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002190
+   Carvalho MS, 2011, ANALISE SOBREVIVENCI
+   Cauchemez S, 2006, EMERG INFECT DIS, V12, P110
+   Chan M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0050972
+   Churcher TS, 2014, SCIENCE, V344, P1230, DOI 10.1126/science.1251449
+   Codeco C., 2016, TECH REP, DOI [10.1101/046193.biorxiv;046193v1, DOI 10.1101/046193.BIORXIV;046193V1]
+   Cori A, 2013, AM J EPIDEMIOL, V178, P1505, DOI 10.1093/aje/kwt133
+   Cowling BJ, 2010, EPIDEMIOLOGY, V21, P842, DOI 10.1097/EDE.0b013e3181f20977
+   Duong V, 2015, P NATL ACAD SCI USA, V112, P14688, DOI 10.1073/pnas.1508114112
+   Farrington CP, 1996, J ROY STAT SOC A STA, V159, P547, DOI 10.2307/2983331
+   Fine PEM, 2003, AM J EPIDEMIOL, V158, P1039, DOI 10.1093/aje/kwg251
+   Goindin D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0135489
+   Greenman JV, 2011, J THEOR BIOL, V278, P74, DOI 10.1016/j.jtbi.2011.03.002
+   Heesterbeek J. A. P., 2000, WILEY SERIES MATH CO
+   Honorio NA, 2009, J MED ENTOMOL, V46, P1001, DOI 10.1603/033.046.0505
+   Huber JH, 2016, MALARIA J, V15, DOI 10.1186/s12936-016-1537-6
+   Kenah E, 2008, MATH BIOSCI, V213, P71, DOI 10.1016/j.mbs.2008.02.007
+   Kramer LD, 2003, ADV VIRUS RES, V60, P187, DOI 10.1016/S0065-3527(03)60006-0
+   Lambrechts L, 2011, P NATL ACAD SCI USA, V108, P7460, DOI 10.1073/pnas.1101377108
+   Lambrechts L, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000646
+   Lloyd AL, 2001, THEOR POPUL BIOL, V60, P59, DOI 10.1006/tpbi.2001.1525
+   Mordecai EA, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005568
+   MOSCHOPOULOS PG, 1985, ANN I STAT MATH, V37, P541, DOI 10.1007/BF02481123
+   Nguyen NM, 2013, P NATL ACAD SCI USA, V110, P9072, DOI 10.1073/pnas.1303395110
+   Nishiura H, 2010, MATH BIOSCI ENG, V7, P851, DOI 10.3934/mbe.2010.7.851
+   Obadia T, 2012, BMC MED INFORM DECIS, V12, DOI 10.1186/1472-6947-12-147
+   Scott TW, 2000, J MED ENTOMOL, V37, P89, DOI 10.1603/0022-2585-37.1.89
+   Simoes TC, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064773
+   Siraj AS, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005797
+   SMITH CEG, 1975, MED BIOL, V53, P288
+   Svensson A, 2007, MATH BIOSCI, V208, P300, DOI 10.1016/j.mbs.2006.10.010
+   Vezzani D, 2004, MEM I OSWALDO CRUZ, V99, P351, DOI 10.1590/S0074-02762004000400002
+   Villela DAM, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0123794
+   Vink MA, 2014, AM J EPIDEMIOL, V180, P865, DOI 10.1093/aje/kwu209
+   Wallinga J, 2007, P ROY SOC B-BIOL SCI, V274, P599, DOI 10.1098/rspb.2006.3754
+   Wallinga J, 2004, AM J EPIDEMIOL, V160, P509, DOI 10.1093/aje/kwh255
+   Yang HM, 2009, EPIDEMIOL INFECT, V137, P1179, DOI 10.1017/S0950268809002052
+NR 42
+TC 4
+Z9 4
+U1 0
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1755-4365
+J9 EPIDEMICS-NETH
+JI Epidemics
+PD DEC
+PY 2018
+VL 25
+BP 101
+EP 111
+DI 10.1016/j.epidem.2018.05.011
+PG 11
+WC Infectious Diseases
+SC Infectious Diseases
+GA GZ8KV
+UT WOS:000449741100012
+PM 29945778
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Bliman, PA
+   Aronna, MS
+   Coelho, FC
+   da Silva, MAHB
+AF Bliman, Pierre-Alexandre
+   Aronna, M. Soledad
+   Coelho, Flavio C.
+   da Silva, Moacyr A. H. B.
+TI Ensuring successful introduction of Wolbachia in natural populations of
+   Aedes aegypti by means of feedback control
+SO JOURNAL OF MATHEMATICAL BIOLOGY
+LA English
+DT Article
+DE Wolbachia; Vector control; Global stabilization; Monotone systems;
+   Input-output characteristic
+ID MOSQUITO-BORNE DISEASES; MONOTONE SYSTEMS; INSECTICIDE RESISTANCE;
+   NEGATIVE FEEDBACK; CONTROL DENGUE; TRANSMISSION; DYNAMICS; SPREAD;
+   INFECTION; DIPTERA
+AB The control of the spread of dengue fever by introduction of the intracellular parasitic bacterium Wolbachia in populations of the vector Aedes aegypti, is presently one of the most promising tools for eliminating dengue, in the absence of an efficient vaccine. The success of this operation requires locally careful planning to determine the adequate number of individuals carrying the Wolbachia parasite that need to be introduced into the natural population. The introduced mosquitoes are expected to eventually replace the Wolbachia-free population and guarantee permanent protection against the transmission of dengue to human. In this study, we propose and analyze a model describing the fundamental aspects of the competition between mosquitoes carrying Wolbachia and mosquitoes free of the parasite. We then use feedback control techniques to devise an introduction protocol that is proved to guarantee that the population converges to a stable equilibrium where the totality of mosquitoes carry Wolbachia.
+C1 [Bliman, Pierre-Alexandre; Aronna, M. Soledad; Coelho, Flavio C.; da Silva, Moacyr A. H. B.] Fundacao Getulio Vargas, Escola Matemat Aplicada, Praia Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.
+   [Bliman, Pierre-Alexandre] UPMC Univ Paris 06, Sorbonne Univ, Lab JL Lions, Inria,CNRS,UMR 7598, Paris, France.
+RP Bliman, PA (corresponding author), Fundacao Getulio Vargas, Escola Matemat Aplicada, Praia Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.; Bliman, PA (corresponding author), UPMC Univ Paris 06, Sorbonne Univ, Lab JL Lions, Inria,CNRS,UMR 7598, Paris, France.
+EM pierre-alexandre.bliman@inria.fr; soledad.aronna@fgv.br;
+   fccoelho@fgv.br; moacyr@fgv.br
+RI Coelho, Flavio Codeco/L-1089-2018; Bliman, P.-A./H-7007-2014; Aronna,
+   Maria Soledad/M-5390-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Bliman,
+   P.-A./0000-0002-7734-2928; Aronna, Maria Soledad/0000-0002-0640-4722
+FU CAPES-BrazilCAPES [99999.007551/2015-00]; FGV
+FX We wish to thank the anonymous referees for their valuable advices that
+   helped improve this manuscript. The first author is indebted to T.
+   Gedeon for valuable discussions. The second author thanks H. Solari for
+   useful bibliographical references. This work was done while the second
+   author was a postdoctoral fellow at IMPA, Rio de Janerio, funded by
+   CAPES-Brazil. The authors also acknowledge CAPES-Brazil for the STIC
+   AmSud funding for the MOSTICAW Project, Process No.
+   99999.007551/2015-00, and FGV for the Pesquisa Aplicada funding of the
+   project "Controle da Dengue atraves do uso da bacteria Wolbachia".
+CR Alphey L, 2010, VECTOR-BORNE ZOONOT, V10, P295, DOI 10.1089/vbz.2009.0014
+   Angeli D, 2004, SYST CONTROL LETT, V52, P407, DOI 10.1016/j.sysconle.2004.02.017
+   Barton NH, 2011, AM NAT, V178, pE48, DOI 10.1086/661246
+   Bian GW, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1000833
+   Bliman PA, 2015, ENSURING SUCCESSFUL
+   Brogdon WG, 1998, EMERG INFECT DIS, V4, P605, DOI 10.3201/eid0404.980410
+   Brownstin JS, 2003, J INVERTEBR PATHOL, V84, P24, DOI 10.1016/S0022-2011(03)00082-X
+   Dutra HLC, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003689
+   Christophers SSR, 1960, AEDES AEGYPTI L YELL
+   Coppel W., 1965, STABILITY ASYMPTOTIC
+   de Freitas RM, 2014, PLOS ONE, V9, P1
+   Enciso GA, 2006, J DIFFER EQUATIONS, V224, P205, DOI 10.1016/j.jde.2005.05.007
+   Enciso GA, 2014, INT J CONTROL, V87, P301, DOI 10.1080/00207179.2013.830336
+   Farnesi LC, 2009, MEM I OSWALDO CRUZ, V104, P124, DOI 10.1590/S0074-02762009000100020
+   Ferreira CP, 2014, ECOLOGICAL MODELLING
+   Focks D.A., 2003, REV ENTOMOLOGICAL SA
+   FOCKS DA, 1993, J MED ENTOMOL, V30, P1003, DOI 10.1093/jmedent/30.6.1003
+   Frentiu FD, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002688
+   Gedeon T, 2009, J DIFFER EQUATIONS, V247, P1013, DOI 10.1016/j.jde.2009.04.019
+   Gouze J.-L., 1988, 0894 INR
+   Hancock PA, 2012, J R SOC INTERFACE, V9, P3045, DOI 10.1098/rsif.2012.0253
+   Hancock PA, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001024
+   Hancock PA, 2011, AM NAT, V177, P323, DOI 10.1086/658121
+   HIRSCH MW, 1988, J REINE ANGEW MATH, V383, P1, DOI 10.1515/crll.1988.383.1
+   Hoffmann A, 2012, ELIMINATE DENGUE
+   Hoffmann AA, 2011, NATURE, V476, P454, DOI 10.1038/nature10356
+   Hoffmann AA, 2014, AUSTRAL ENTOMOL, V53, P125, DOI 10.1111/aen.12068
+   Hu LC, 2015, THEOR POPUL BIOL, V106, P32, DOI 10.1016/j.tpb.2015.09.003
+   Huang MG, 2015, SCI CHINA MATH, V58, P77, DOI 10.1007/s11425-014-4934-8
+   Hughes H, 2013, B MATH BIOL, V75, P796, DOI 10.1007/s11538-013-9835-4
+   Jeffery JAL, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000552
+   Keeling MJ, 2003, HEREDITY, V91, P382, DOI 10.1038/sj.hdy.6800343
+   Koiller J., 2014, RR8462 INR
+   LaSalle JP, 1976, STABILITY DYNAMICAL, V25
+   Maciel-de-Freitas R, 2014, B WORLD HEALTH ORGAN, V92, P685, DOI 10.2471/BLT.13.119081
+   Malisoff M, 2006, IEEE T AUTOMAT CONTR, V51, P287, DOI 10.1109/TAC.2005.863534
+   McMeniman CJ, 2009, SCIENCE, V323, P141, DOI 10.1126/science.1165326
+   Moreira LA, 2009, PLOS NEGLECT TROP D, V12, P1
+   Moreira LA, 2009, CELL, V139, P1268, DOI 10.1016/j.cell.2009.11.042
+   Murray JV, 2016, FRONT PUBLIC HEALTH, V4, DOI 10.3389/fpubh.2016.00043
+   Ndii MZ, 2015, MATH BIOSCI, V262, P157, DOI 10.1016/j.mbs.2014.12.011
+   O'Neill S, 2015, SCI AM, V312, P72, DOI 10.1038/scientificamerican0615-72
+   Ocampo CB, 2011, ACTA TROP, V118, P37, DOI 10.1016/j.actatropica.2011.01.007
+   ONeill S.L., 1998, INFLUENTIAL PASSENGE
+   Otero M, 2008, B MATH BIOL, V70, P1297, DOI 10.1007/s11538-008-9300-y
+   Otero M, 2006, B MATH BIOL, V68, P1945, DOI 10.1007/s11538-006-9067-y
+   Rasgon JL, 2004, J MED ENTOMOL, V41, P255, DOI 10.1603/0022-2585-41.2.255
+   Ruang-areerate T, 2006, P NATL ACAD SCI USA, V103, P12534, DOI 10.1073/pnas.0508879103
+   SILVER J. B., 2007, MOSQUITO ECOLOGY FIE
+   Smith DL, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0071247
+   SMITH H, 1995, MATH SURVEYS MONOGRA, V41
+   SOUTHWOOD T R E, 1972, Bulletin of the World Health Organization, V46, P211
+   Turelli M, 2010, EVOLUTION, V64, P232, DOI 10.1111/j.1558-5646.2009.00822.x
+   Walker T, 2011, NATURE, V476, P450, DOI 10.1038/nature10355
+   Xi ZY, 2005, SCIENCE, V310, P326, DOI 10.1126/science.1117607
+   Yang HM, 2009, EPIDEMIOL INFECT, V137, P1188, DOI 10.1017/S0950268809002040
+   Yeap HL, 2011, GENETICS, V187, P583, DOI 10.1534/genetics.110.122390
+   Zheng B, 2014, SIAM J APPL MATH, V74, P743, DOI 10.1137/13093354X
+NR 58
+TC 13
+Z9 13
+U1 0
+U2 23
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0303-6812
+EI 1432-1416
+J9 J MATH BIOL
+JI J. Math. Biol.
+PD APR
+PY 2018
+VL 76
+IS 5
+BP 1269
+EP 1300
+DI 10.1007/s00285-017-1174-x
+PG 32
+WC Biology; Mathematical & Computational Biology
+SC Life Sciences & Biomedicine - Other Topics; Mathematical & Computational
+   Biology
+GA FX8CZ
+UT WOS:000426319700008
+PM 28856446
+OA Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Mussumeci, E
+   Coelho, FC
+AF Mussumeci, Elisa
+   Coelho, Flavio Codeco
+TI Reconstructing news spread networks and studying its dynamics
+SO SOCIAL NETWORK ANALYSIS AND MINING
+LA English
+DT Article
+DE News; SIR model; Epidemics; Temporal networks
+AB News spread in internet media outlets can be seen as a contagious process forming temporal networks representing the influence between published articles. In this article we propose a methodology based on the application of natural language analysis of the articles to reconstruct the news spread network. From the reconstructed network, we show that the dynamics of the news spread can be approximated by a classical SIR epidemiological dynamics upon the network.
+C1 [Mussumeci, Elisa; Coelho, Flavio Codeco] Fundacao Getulio Vargas, Appl Math Sch, Rio De Janeiro, Brazil.
+RP Mussumeci, E (corresponding author), Fundacao Getulio Vargas, Appl Math Sch, Rio De Janeiro, Brazil.
+EM elisamussumeci@gmail.com
+RI Coelho, Flavio Codeco/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989
+CR Berkowitz D, 2016, JOURNAL PRACT, V10, P1, DOI 10.1080/17512786.2015.1006933
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Hermida A, 2012, JOURNALISM STUD, V13, P815, DOI 10.1080/1461670X.2012.664430
+   Hiemstra D., 2000, International Journal on Digital Libraries, V3, P131, DOI 10.1007/s007999900025
+   Jin Z., 2016, IEEE T MULTIMEDIA
+   Mihalcea R., 2006, AAAI, V1, P775
+   Mikolov T., 2013, COMPUTING RES REPOSI, V1301, P3781, DOI DOI 10.1109/TNN.2003.820440]
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Romero DM, 2011, LECT NOTES ARTIF INT, V6913, P18, DOI 10.1007/978-3-642-23808-6_2
+   Rubin Victoria, 2016, P 2 WORKSH COMP APPR, P7, DOI DOI 10.18653/V1/W16-0802
+NR 10
+TC 5
+Z9 5
+U1 0
+U2 1
+PU SPRINGER WIEN
+PI WIEN
+PA SACHSENPLATZ 4-6, PO BOX 89, A-1201 WIEN, AUSTRIA
+SN 1869-5450
+EI 1869-5469
+J9 SOC NETW ANAL MIN
+JI Soc. Netw. Anal. Min.
+PD JAN 17
+PY 2018
+VL 8
+IS 1
+AR 6
+DI 10.1007/s13278-017-0483-9
+PG 8
+WC Computer Science, Information Systems
+SC Computer Science
+GA FT5VQ
+UT WOS:000423221700001
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Armstrong, M
+   Saraceni, V
+   Lemos, C
+AF Coelho, Flavio Codeco
+   Armstrong, Margaret
+   Saraceni, Valeria
+   Lemos, Cristina
+TI Can Zika Account for the Missing Babies?
+SO FRONTIERS IN PUBLIC HEALTH
+LA English
+DT Article
+DE Zika; sexually transmitted diseases; infant; newborn; diseases; live
+   birth rate; epidemiology
+ID VIRUS
+AB The Zika virus (ZIKV) spread rapidly in Brazil in 2015 and 2016. Rio de Janeiro was among the Brazilian cities which were hit the hardest, with more that a hundred thousand confirmed cases up to the end of 2016. Given the severity of the neurological damage caused by ZIKV on fetuses, we wondered whether it would also cause an increase in the number of miscarriages, especially very early ones. As early miscarriages are unlikely to be recorded as a health event, this effect-if it occurred-would only show up as a reduction in the number of live births. In this article, we show that there was a 15% drop in live births between September and December 2016 compared with the previous year, and that this sharp drop from epidemiological week 33 onward is strongly correlated with the number of recorded cases of Zika about 40 weeks earlier. We postulate that ZIKV is directly responsible for this drop in the birth rate. Further work is required to ascertain whether other factors such as the fear of having a microcephaly baby or the economic crisis are having a significant effect.
+C1 [Coelho, Flavio Codeco; Armstrong, Margaret] Fundacao Getulio Vargas, Ctr Math Epidemiol, Sch Appl Math, Brasilia, DF, Brazil.
+   [Saraceni, Valeria; Lemos, Cristina] Prefeitura Cidade Rio de Janeiro, Rio De Janeiro, Brazil.
+RP Coelho, FC (corresponding author), Fundacao Getulio Vargas, Ctr Math Epidemiol, Sch Appl Math, Brasilia, DF, Brazil.
+EM fccoelho@fgv.br
+RI Coelho, Flavio Codeco/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989
+CR Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Cao B, 2017, J INTERF CYTOK RES, V37, P287, DOI 10.1089/jir.2017.0011
+   Coelho FC, 2016, BIORXIV, DOI 10.1101/055459
+   de Oliveira WK, 2017, NEW ENGL J MED, V376, P1591, DOI 10.1056/NEJMc1608612
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   Johansson MA, 2016, NEW ENGL J MED, V375, P1, DOI 10.1056/NEJMp1605367
+   Teixeira MG, 2016, AM J PUBLIC HEALTH, V106, P601, DOI 10.2105/AJPH.2016.303113
+   van der Eijk AA, 2016, NEW ENGL J MED, V375, P1002, DOI 10.1056/NEJMc1605898
+   Vermillion MS, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14575
+NR 9
+TC 3
+Z9 3
+U1 0
+U2 3
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-2565
+J9 FRONT PUBLIC HEALTH
+JI Front. Public Health
+PD NOV 29
+PY 2017
+VL 5
+AR 317
+DI 10.3389/fpubh.2017.00317
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FO7ZJ
+UT WOS:000417099200001
+PM 29238705
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Villela, DAM
+   Bastos, LS
+   De Carvalho, LM
+   Cruz, OG
+   Gomes, MFC
+   Durovni, B
+   Lemos, MC
+   Saraceni, V
+   Coelho, FC
+   Codeco, CT
+AF Villela, D. A. M.
+   Bastos, L. S.
+   De Carvalho, L. M.
+   Cruz, O. G.
+   Gomes, M. F. C.
+   Durovni, B.
+   Lemos, M. C.
+   Saraceni, V.
+   Coelho, F. C.
+   Codeco, C. T.
+TI Zika in Rio de Janeiro: Assessment of basic reproduction number and
+   comparison with dengue outbreaks
+SO EPIDEMIOLOGY AND INFECTION
+LA English
+DT Article
+DE Basic reproduction number; dengue; Zika
+ID AEDES-AEGYPTI MOSQUITOS; VECTOR-BORNE INFECTION; DAILY SURVIVAL RATES;
+   SEXUAL TRANSMISSION; VIRUS OUTBREAK; APRIL 2016; EPIDEMIC; BRAZIL; RISK;
+   DISPERSAL
+AB Zika virus infection was declared a public health emergency of international concern in February 2016 in response to the outbreak in Brazil and its suspected link with congenital anomalies. In this study, we use notification data and disease natural history parameters to estimate the basic reproduction number (R-0) of Zika in Rio de Janeiro, Brazil. We also obtain estimates of R-0 of dengue from time series of dengue cases in the outbreaks registered in 2002 and 2012 in the city, when DENV-3 and DENV-4 serotypes, respectively, had just emerged. Our estimates of the basic reproduction number for Zika in Rio de Janeiro based on surveillance notifications (R-0 = 2.33, 95% CI: 1.97- 2.97) were higher than those obtained for dengue in the city (year 2002: R-0 = 1.70 [1.50-2.02]; year 2012: R-0 = 1.25 [1.18-1.36]). Given the role of Aedes aegypti as vector of both the Zika and dengue viruses, we also derive R-0 of Zika as a function of both dengue reproduction number and entomological and epidemiological parameters for dengue and Zika. Using the dengue outbreaks from previous years allowed us to estimate the potential R-0 of Zika. Our estimates were closely in agreement with our first Zika's R-0 estimation from notification data. Hence, these results validate deriving the potential risk of Zika transmission in areas with recurring dengue outbreaks. Whether transmission routes other than vector-based can sustain a Zika epidemic still deserves attention, but our results suggest that the Zika outbreak in Rio de Janeiro emerged due to population susceptibility and ubiquitous presence of Ae. aegypti.
+C1 [Villela, D. A. M.; Bastos, L. S.; De Carvalho, L. M.; Cruz, O. G.; Gomes, M. F. C.; Codeco, C. T.] Fundacao Oswaldo Cruz, Programa Computacao Cient, Rio De Janeiro, RJ, Brazil.
+   [De Carvalho, L. M.] Univ Edinburgh, Inst Evolutionary Biol, Edinburgh, Midlothian, Scotland.
+   [Durovni, B.; Lemos, M. C.; Saraceni, V.] Secretaria Municipal Saude Rio de Janeiro, Rio De Janeiro, RJ, Brazil.
+   [Coelho, F. C.] FGV, Escola Matemat Aplicada, Rio De Janeiro, RJ, Brazil.
+RP Villela, DAM (corresponding author), Fundacao Oswaldo Cruz, Programa Computacao Cient, Rio De Janeiro, RJ, Brazil.
+EM daniel.villela@fiocruz.br
+RI Bastos, Leonardo Soares/AAD-5335-2019; Villela, Daniel/AAG-6445-2019;
+   Coelho, Flavio Codeco/L-1089-2018; Coelho, Flavio/L-1089-2018
+OI Bastos, Leonardo Soares/0000-0002-1406-0122; Villela,
+   Daniel/0000-0001-8371-2959; Coelho, Flavio Codeco/0000-0003-0635-8989;
+   Coelho, Flavio/0000-0003-3868-4391
+FU CNPqNational Council for Scientific and Technological Development
+   (CNPq); FAPERJCarlos Chagas Filho Foundation for Research Support of the
+   State of Rio de Janeiro (FAPERJ) [211356/2015]
+FX We would like to thank Dr Claudio Struchiner and Dr Marilia S. Carvalho
+   for their helpful comments during the development of this study. We also
+   acknowledge CNPq and FAPERJ (Ref. 211356/2015) for financial support.
+CR Aldstadt J, 2012, TROP MED INT HEALTH, V17, P1076, DOI 10.1111/j.1365-3156.2012.03040.x
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Caraco T, 2001, THEOR POPUL BIOL, V59, P185, DOI 10.1006/tpbi.2000.1517
+   Dutra HLC, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003689
+   Chan M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0050972
+   Chouin-Carneiro T, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004543
+   Christofferson RC, 2016, AM J TROP MED HYG, V95, P15, DOI 10.4269/ajtmh.15-0866
+   Coelho FC, 2016, INT J INFECT DIS, V51, P128, DOI 10.1016/j.ijid.2016.08.023
+   D'Ortenzio E, 2016, NEW ENGL J MED, V374, P2195, DOI 10.1056/NEJMc1604449
+   David MR, 2009, MEM I OSWALDO CRUZ, V104, P927, DOI 10.1590/S0074-02762009000600019
+   DICK GWA, 1952, T ROY SOC TROP MED H, V46, P509, DOI 10.1016/0035-9203(52)90042-4
+   Faria NR, 2016, SCIENCE, V352, P345, DOI 10.1126/science.aaf5036
+   Ferguson NM, 2016, SCIENCE, V353, P353, DOI 10.1126/science.aag0219
+   Fernandes RS, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004993
+   Ferreira-de-Brito A, 2016, MEM I OSWALDO CRUZ, V111, P655, DOI 10.1590/0074-02760160332
+   Frank C, 2016, EUROSURVEILLANCE, V21, P13, DOI 10.2807/1560-7917.ES.2016.21.23.30252
+   Freour T, 2016, EUROSURVEILLANCE, V21, P10, DOI 10.2807/1560-7917.ES.2016.21.23.30254
+   Funk S, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0005173
+   Goncalves CM, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-320
+   Gulland A, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i657
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   Kucharski AJ, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004726
+   Lessler J, 2016, B WORLD HEALTH ORGAN, V94, P841, DOI 10.2471/BLT.16.174540
+   Liu-Helmersson J, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089783
+   Maciel-De-Freitas R, 2007, AM J TROP MED HYG, V76, P659, DOI 10.4269/ajtmh.2007.76.659
+   Massad E, 2010, TROP MED INT HEALTH, V15, P120, DOI 10.1111/j.1365-3156.2009.02413.x
+   Massad E, 2001, T ROY SOC TROP MED H, V95, P370, DOI 10.1016/S0035-9203(01)90184-1
+   MAY RM, 1987, NATURE, V326, P137, DOI 10.1038/326137a0
+   Mlakar J, 2016, NEW ENGL J MED, V374, P951, DOI 10.1056/NEJMoa1600651
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Nguyen NM, 2013, P NATL ACAD SCI USA, V110, P9072, DOI 10.1073/pnas.1303395110
+   Nishiura H, 2007, J INFECT DIS, V195, P1007, DOI 10.1086/511825
+   Nishiura H, 2016, INT J INFECT DIS, V45, P95, DOI 10.1016/j.ijid.2016.02.017
+   Nogueira RMR, 2011, MEM I OSWALDO CRUZ, V106, P255, DOI 10.1590/S0074-02762011000300001
+   Nogueira RMR, 2001, MEM I OSWALDO CRUZ, V96, P925, DOI 10.1590/S0074-02762001000700007
+   Pinho STR, 2010, PHILOS T R SOC A, V368, P5679, DOI 10.1098/rsta.2010.0278
+   Yakob L, 2016, LANCET INFECT DIS, V16, P1100, DOI 10.1016/S1473-3099(16)30324-3
+NR 38
+TC 23
+Z9 23
+U1 0
+U2 16
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0950-2688
+EI 1469-4409
+J9 EPIDEMIOL INFECT
+JI Epidemiol. Infect.
+PD JUN
+PY 2017
+VL 145
+IS 8
+BP 1649
+EP 1657
+DI 10.1017/S0950268817000358
+PG 9
+WC Public, Environmental & Occupational Health; Infectious Diseases
+SC Public, Environmental & Occupational Health; Infectious Diseases
+GA EX0NS
+UT WOS:000402918700016
+PM 28240195
+OA Bronze, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Rizzi, RL
+   Kaizer, WL
+   Rizzi, CB
+   Galante, G
+   Coelho, FC
+AF Rizzi, Rogerio L.
+   Kaizer, Wesley L.
+   Rizzi, Claudia B.
+   Galante, Guilherme
+   Coelho, Flavio C.
+TI A bitstring approach for implementing agent-based epidemiological models
+SO MULTIAGENT AND GRID SYSTEMS
+LA English
+DT Article
+DE Bitstring representation; epidemiological models; agent-based
+   simulations
+ID SIMULATION
+AB Agent-based Models (ABM) are gaining importance over traditional epidemiological modeling due to advances in computing technology and by the need for detailed epidemiological analysis of emergent diseases. Unfortunately, the advantages of ABMs are achieved at the cost of significantly large execution times and high memory consumption for large-scale simulations. Addressing the memory issue, we designed and implemented an ABM using an innovative feature: the bitstring approach. In this approach, the attributes of the agents are represented by an array of bits instead of using traditional data structures. We describe the bitstring data representation and present a suitable logical formulation to map conceptual and compartmental models to a computer implementation by using spatio-temporal operators that represent the agents behavior and the disease propagation. Versions for CPU and GPU were implemented and presented good qualitative results and behavior similar to those obtained by traditional versions. The application of the bitstring technique proved to be relevant in economy of memory, allowing to store the same attributes using up to 80% less memory space. Besides, the use of the proposed approach also improved the data copy time between CPU-GPU in the GPU implementation, reducing the execution time up to 20%.
+C1 [Rizzi, Rogerio L.; Kaizer, Wesley L.; Rizzi, Claudia B.; Galante, Guilherme] Western Parana State Univ, Comp Sci Dept, Cascavel, PR, Brazil.
+   [Coelho, Flavio C.] Getulio Vargas Fdn, Sch Appl Math, Rio De Janeiro, RJ, Brazil.
+RP Galante, G (corresponding author), Western Parana State Univ UNIOESTE, Comp Sci Dept, R Univ 2069, BR-85819110 Cascavel, PR, Brazil.
+EM guilherme.galante@unioeste.br
+RI Coelho, Flavio Codeco/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989
+FU Fundacao AraucariaFundacao Araucaria; City of Cascavel
+FX This work was supported by Fundacao Araucaria and City of Cascavel.
+CR Abar S, 2017, COMPUT SCI REV, V24, P13, DOI 10.1016/j.cosrev.2017.03.001
+   Adivar B, 2011, DISCRETE CONT DYN-A, V31, P13
+   Auchincloss AH, 2008, AM J EPIDEMIOL, V168, P1, DOI 10.1093/aje/kwn118
+   Bonita R, 2006, BASIC EPIDEMIOLOGY
+   Coakley S., 2016, LARGE SCALE SIMULATI, P123
+   Diekmann O, 2000, WILEY SERIES MATH CO
+   *ESRI, ESRI SHAP TECHN DESC
+   Galvao AR, 2016, MATH METHOD APPL SCI, V39, P405, DOI 10.1002/mma.3490
+   Geoportal, CASC PAR TERR INF SY
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   IBGE, CASC PAR STAT INF
+   Kiran M, 2015, INT CONF UTIL CLOUD, P251, DOI 10.1109/UCC.2015.42
+   Klugl F, 2012, AI MAG, V33, P29
+   Macal CM, 2010, J SIMUL, V4, P151, DOI 10.1057/jos.2010.3
+   Marshall B.D., 2017, SYSTEMS SCI POPULATI, P87
+   May RM, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.066112
+   McCall J, 2005, J COMPUT APPL MATH, V184, P205, DOI 10.1016/j.cam.2004.07.034
+   MILLER JH, 2013, PLOS ONE, V8
+   PAIXAO Claudia Regina, 2013, THESIS
+   Perez L, 2009, INT J HEALTH GEOGR, V8, DOI 10.1186/1476-072X-8-50
+   Pfeifer Bernhard, 2008, Open Med Inform J, V2, P70, DOI 10.2174/1874431100802010070
+   Pogaru SS, 2013, PROCEDIA COMPUT SCI, V16, P440, DOI 10.1016/j.procs.2013.01.046
+   Rubinstein R. Y., 2007, SIMULATION MONTE CAR
+   Wang J., 2010, GEOINFORMATICS, P1, DOI 10.1109/GEOINFORMATICS.2010.5567658
+   White SH, 2007, APPL MATH COMPUT, V186, P193, DOI 10.1016/j.amc.2006.06.126
+NR 25
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1574-1702
+EI 1875-9076
+J9 MULTIAGENT GRID SYST
+JI Multiagent Grid Syst.
+PY 2017
+VL 13
+IS 4
+BP 353
+EP 371
+DI 10.3233/MGS-170275
+PG 19
+WC Computer Science, Theory & Methods
+SC Computer Science
+GA FQ2IJ
+UT WOS:000418179800002
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Durovni, B
+   Saraceni, V
+   Lemos, C
+   Codeco, CT
+   Camargo, S
+   de Carvalho, LM
+   Bastos, L
+   Arduini, D
+   Villela, DAM
+   Armstrong, M
+AF Coelho, Flavio Codeco
+   Durovni, Betina
+   Saraceni, Valeria
+   Lemos, Cristina
+   Codeco, Claudia Torres
+   Camargo, Sabrina
+   de Carvalho, Luiz Max
+   Bastos, Leonardo
+   Arduini, Denise
+   Villela, Daniel A. M.
+   Armstrong, Margaret
+TI Higher incidence of Zika in adult women than adult men in Rio de Janeiro
+   suggests a significant contribution of sexual transmission from men to
+   women
+SO INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Article
+DE Zika; Sexual transmission; Dengue; Age-adjusted incidence
+ID POTENTIAL VECTOR; VIRUS; DENGUE
+AB Objectives: The recent emergence of Zika in Brazil and its association with an increased rate of congenital malformations has raised concerns over its impact on the birth rate in the country. Using data on the incidence of Zika in 2015-2016 and dengue in 2013 and 2015-2016 for the city of Rio de Janeiro (population 6.4 million), a massive increase of Zika in women compared to men was documented.
+   Methods: The age-adjusted incidence was compared between men and women. A negative binomial Poisson generalized linear model was fitted to the Zika incidence data to determine the significance of sexual transmission statistically.
+   Results: Even after correcting for the bias due to the systematic testing of pregnant women for Zika, there were found to be 90% more registered cases per 100 000 women than men in the sexually active age group (15-65 years); this was not the case for age groups < 15 years and > 65 years. Assuming that infected men transmit the disease to women in their semen, but that the converse is not true, some extra incidence in women is to be expected. An alternate hypothesis would be that women visit doctors more often than men. To test this, the incidence of dengue fever was compared in men and women in 2015 and in 2013 (before Zika reached Rio de Janeiro): in both years, women were 30% more likely to be reported with dengue.
+   Conclusion: Women in the sexually active age group are far more likely to get Zika than men (+ 90% increase); sexual transmission is the most probable cause. Women in the 15-65 years age group are also 30% more likely to be reported with dengue than men, which is probably due to women being more careful with their health. (C) 2016 The Author(s). Published by Elsevier Ltd on behalf of International Society for Infectious Diseases.
+C1 [Coelho, Flavio Codeco; Camargo, Sabrina; Armstrong, Margaret] Fundacao Getulio Vargas, Praia Botafogo 190, Rio De Janeiro, Brazil.
+   [Durovni, Betina; Saraceni, Valeria; Lemos, Cristina; Arduini, Denise] Secretaria Municipal Saude, Rio De Janeiro, Brazil.
+   [Codeco, Claudia Torres; de Carvalho, Luiz Max; Bastos, Leonardo; Villela, Daniel A. M.] Fundacao Oswaldo Cruz, Programa Comp Cient, Rio De Janeiro, Brazil.
+   [de Carvalho, Luiz Max] Univ Edinburgh, Inst Evolutionary Biol, Edinburgh, Midlothian, Scotland.
+   [Armstrong, Margaret] PSL Res Univ, MINES Paristech, CERNA Ctr Ind Econ, I3,CNRS UMR 9217, Paris, France.
+RP Coelho, FC (corresponding author), Fundacao Getulio Vargas, Praia Botafogo 190, Rio De Janeiro, Brazil.
+EM fccoelho@fgv.br
+RI Camargo, Sabrina/AAH-4857-2020; Bastos, Leonardo Soares/AAD-5335-2019;
+   Villela, Daniel/AAG-6445-2019; Camargo, Sabrina/J-3745-2013; Coelho,
+   Flavio Codeco/L-1089-2018; Carvalho, Luiz Max F/J-6446-2014; Carvalho,
+   Luiz Max/AAC-8266-2020; amsalu, ribka/G-8780-2019; Coelho,
+   Flavio/L-1089-2018
+OI Camargo, Sabrina/0000-0002-0237-3535; Bastos, Leonardo
+   Soares/0000-0002-1406-0122; Villela, Daniel/0000-0001-8371-2959;
+   Camargo, Sabrina/0000-0002-0237-3535; Coelho, Flavio
+   Codeco/0000-0003-0635-8989; Carvalho, Luiz Max F/0000-0001-5736-5578;
+   Carvalho, Luiz Max/0000-0001-5736-5578; Coelho,
+   Flavio/0000-0003-3868-4391
+CR Ahmad SSY, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i1062
+   Brady OJ, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-338
+   D'Ortenzio E, 2016, NEW ENGL J MED, V374, P2195, DOI 10.1056/NEJMc1604449
+   Davidson A, 2016, MMWR-MORBID MORTAL W, V65, P716, DOI 10.15585/mmwr.mm6528e2
+   Gourinat AC, 2015, EMERG INFECT DIS, V21, P84, DOI 10.3201/eid2101.140894
+   Kassam Ashifa, 2015, GUARDIAN
+   Kraemer MUG, 2015, ELIFE, V4, DOI 10.7554/eLife.08347
+   Ledermann JP, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003188
+   Machado CR, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002217
+   Mansuy JM, 2016, LANCET INFECT DIS, V16, P894, DOI 10.1016/S1473-3099(16)30153-0
+   Musso D, 2015, J CLIN VIROL, V68, P53, DOI 10.1016/j.jcv.2015.04.021
+   Schaffner F, 2014, LANCET INFECT DIS, V14, P1271, DOI 10.1016/S1473-3099(14)70834-5
+   Vouga M, 2016, LANCET, V387, P843, DOI 10.1016/S0140-6736(16)00383-4
+   Wong PSJ, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002348
+NR 14
+TC 77
+Z9 79
+U1 0
+U2 10
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1201-9712
+EI 1878-3511
+J9 INT J INFECT DIS
+JI Int. J. Infect. Dis.
+PD OCT
+PY 2016
+VL 51
+BP 128
+EP 132
+DI 10.1016/j.ijid.2016.08.023
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA EC7NK
+UT WOS:000388326700031
+PM 27664930
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Santos, JD
+   Coelho, FC
+   Bliman, PA
+AF Santos, Joyce de Figueiro
+   Coelho, Flavio Codeco
+   Bliman, Pierre-Alexandre
+TI Behavioral Modulation of Infestation by Varroa destructor in Bee
+   Colonies. Implications for Colony Stability
+SO PLOS ONE
+LA English
+DT Article
+ID AFRICANIZED HONEY-BEES; APIS-MELLIFERA; HYGIENIC BEHAVIOR; JACOBSONI;
+   BRAZIL; REPRODUCTION; RESISTANCE; ANDERSON; SYSTEMS; TRUEMAN
+AB Colony Collapse Disorder (CCD) has become a global problem for beekeepers and for the crops that depend on bee pollination. While many factors are known to increase the risk of colony collapse, the ectoparasitic mite Varroa destructor is considered to be the most serious one. Although this mite is unlikely to cause the collapse of hives itself, it is the vector for many viral diseases which are among the likely causes for Colony Collapse Disorder. The effects of V. destructor infestation differ from one part of the world to another, with greater morbidity and higher colony losses in European honey bees (EHB) in Europe, Asia and North America. Although this mite has been present in Brazil for many years, there have been no reports of colony losses amongst Africanized Honey Bees (AHB). Studies carried out in Mexico have highlighted different behavioral responses by the AHB to the presence of the mite, notably as far as grooming and hygienic behavior are concerned. Could these explain why the AHB are less susceptible to Colony Collapse Disorder? In order to answer this question, we have developed a mathematical model of the infestation dynamics to analyze the role of resistance behavior by bees in the overall health of the colony, and as a consequence, its ability to face epidemiological challenges.
+C1 [Santos, Joyce de Figueiro; Coelho, Flavio Codeco; Bliman, Pierre-Alexandre] Getulio Vargas Fdn, Appl Math Sch, Rio De Janeiro, RJ, Brazil.
+   [Bliman, Pierre-Alexandre] Univ Paris 06, Sorbonne Univ, Inria, Lab JL Lions UMR CNRS 7598, Paris, France.
+RP Coelho, FC (corresponding author), Getulio Vargas Fdn, Appl Math Sch, Rio De Janeiro, RJ, Brazil.
+EM fccoelho@fgv.br
+RI Coelho, Flavio Codeco/L-1089-2018; Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Coelho,
+   Flavio/0000-0003-3868-4391
+CR Angeli D, 2004, LECT NOTES CONTR INF, V301, P135
+   Angeli D, 2003, IEEE T AUTOMAT CONTR, V48, P1684, DOI 10.1109/TAC.2003.817920
+   Arechavaleta-Velasco ME, 2001, APIDOLOGIE, V32, P157, DOI 10.1051/apido:2001121
+   Becher MA, 2013, J APPL ECOL, V50, P868, DOI 10.1111/1365-2664.12112
+   Calderon RA, 2010, EXP APPL ACAROL, V50, P281, DOI 10.1007/s10493-009-9325-4
+   Carneiro FE, 2007, NEOTROP ENTOMOL, V36, P949, DOI 10.1590/S1519-566X2007000600018
+   Coppel WA, 1965, STABILITY ASYMPTOTIC, V11
+   Correa-Marques MH, 1998, APIDOLOGIE, V29, P283, DOI 10.1051/apido:19980307
+   FdM Pereira, 2002, ORG SOCIAL DESENVOLV
+   Gouze JL, 1988, RR0894
+   HIRSCH MW, 1988, J REINE ANGEW MATH, V383, P1, DOI 10.1515/crll.1988.383.1
+   Khoury DS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018491
+   Medina LM, 1999, EXP APPL ACAROL, V23, P659, DOI 10.1023/A:1006275525463
+   Mondragon L, 2005, APIDOLOGIE, V36, P345, DOI 10.1051/apido:2005022
+   MORETTO G, 1993, REV BRAS GENET, V16, P71
+   MORETTO G, 1991, APIDOLOGIE, V22, P197, DOI 10.1051/apido:19910303
+   Oldroyd BP, 2007, PLOS BIOL, V5, P1195, DOI 10.1371/journal.pbio.0050168
+   Pinto FA, 2012, ARQ BRAS MED VET ZOO, V64, P1194, DOI 10.1590/S0102-09352012000500017
+   Ratti V, 2012, CANADIAN APPL MATH Q
+   Smith H. L., 2008, MONOTONE DYNAMICAL S, V41
+   Spivak M, 1996, APIDOLOGIE, V27, P245, DOI 10.1051/apido:19960407
+   van den Driessche P, 2002, MATH BIOSCI, V180, P29, DOI 10.1016/S0025-5564(02)00108-6
+   Vandame R, 2000, CAN J ZOOL, V78, P2037, DOI 10.1139/cjz-78-11-2037
+   Vandame R, 2002, APIDOLOGIE, V33, P433, DOI 10.1051/apido:2002025
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 87
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 1
+PY 2016
+VL 11
+IS 9
+AR e0160465
+DI 10.1371/journal.pone.0160465
+PG 22
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DV3WN
+UT WOS:000382855600006
+PM 27583438
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Codeco, CT
+   Cruz, OG
+   Camargo, S
+   Bliman, PA
+AF Coelho, Flavio Codeco
+   Codeco, Claudia Torres
+   Cruz, Oswaldo Goncalves
+   Camargo, Sabrina
+   Bliman, Pierre-Alexandre
+TI Epidemiological data accessibility in Brazil
+SO LANCET INFECTIOUS DISEASES
+LA English
+DT Letter
+ID HEALTH EMERGENCIES
+C1 [Coelho, Flavio Codeco; Camargo, Sabrina; Bliman, Pierre-Alexandre] Fundacao Getulio Vargas, BR-22250900 Rio De Janeiro, Brazil.
+   [Codeco, Claudia Torres; Cruz, Oswaldo Goncalves] Fundacao Oswaldo Cruz, Rio De Janeiro, Brazil.
+RP Coelho, FC (corresponding author), Fundacao Getulio Vargas, BR-22250900 Rio De Janeiro, Brazil.
+EM fccoelho@fgv.br
+RI Camargo, Sabrina/AAH-4857-2020; Coelho, Flavio Codeco/L-1089-2018;
+   Coelho, Flavio/L-1089-2018
+OI Camargo, Sabrina/0000-0002-0237-3535; Coelho, Flavio
+   Codeco/0000-0003-0635-8989; Coelho, Flavio/0000-0003-3868-4391
+CR [Anonymous], 2016, NATURE, V530, P129, DOI 10.1038/530129a
+   Callaway E., 2016, NATURE, DOI [10.1038/nature.2016.19367, DOI 10.1038/NATURE.2016.19367]
+   Coelho FC, 2015, SCI REP-UK, V5, DOI 10.1038/srep18455
+   Dye C, 2016, B WORLD HEALTH ORGAN, V94, P158, DOI 10.2471/BLT.16.170860
+   Gomes Marcelo F C, 2014, PLoS Curr, V6, DOI 10.1371/currents.outbreaks.cd818f63d40e24aef769dda7df9e0da5
+   Modjarrad K, 2016, PLOS MED, V13, DOI 10.1371/journal.pmed.1001935
+   Galvao PRS, 2008, LEPROSY REV, V79, P171
+   Whitty CJM, 2015, LANCET, V386, P1797, DOI 10.1016/S0140-6736(15)00758-8
+NR 8
+TC 2
+Z9 2
+U1 0
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1473-3099
+EI 1474-4457
+J9 LANCET INFECT DIS
+JI Lancet Infect. Dis.
+PD MAY
+PY 2016
+VL 16
+IS 5
+BP 524
+EP 525
+DI 10.1016/S1473-3099(16)30007-X
+PG 4
+WC Infectious Diseases
+SC Infectious Diseases
+GA DJ5TL
+UT WOS:000374272900017
+PM 27068487
+OA Other Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   de Carvalho, LM
+AF Coelho, Flavio Codeco
+   de Carvalho, Luiz Max
+TI Estimating the Attack Ratio of Dengue Epidemics under Time-varying Force
+   of Infection using Aggregated Notification Data
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID RIO-DE-JANEIRO; EPIDEMIOLOGIC SURVEILLANCE; STATE; CONFIDENCE; LIMITS
+AB Quantifying the attack ratio of disease is key to epidemiological inference and public health planning. For multi-serotype pathogens, however, different levels of serotype-specific immunity make it difficult to assess the population at risk. In this paper we propose a Bayesian method for estimation of the attack ratio of an epidemic and the initial fraction of susceptibles using aggregated incidence data. We derive the probability distribution of the effective reproductive number, R-t, and use MCMC to obtain posterior distributions of the parameters of a single-strain SIR transmission model with time-varying force of infection. Our method is showcased in a data set consisting of 18 years of dengue incidence in the city of Rio de Janeiro, Brazil. We demonstrate that it is possible to learn about the initial fraction of susceptibles and the attack ratio even in the absence of serotype specific data. On the other hand, the information provided by this approach is limited, stressing the need for detailed serological surveys to characterise the distribution of serotype-specific immunity in the population.
+C1 [Coelho, Flavio Codeco] FGV, Escola Matemat Aplicada, Rio De Janeiro, RJ, Brazil.
+   [de Carvalho, Luiz Max] Fundacao Oswaldo Cruz, Programa Comp Cient PROCC, Rio De Janeiro, RJ, Brazil.
+RP Coelho, FC (corresponding author), FGV, Escola Matemat Aplicada, Rio De Janeiro, RJ, Brazil.
+EM fccoelho@fgv.br
+RI Carvalho, Luiz Max F/J-6446-2014; Coelho, Flavio Codeco/L-1089-2018;
+   Carvalho, Luiz Max/AAC-8266-2020; Coelho, Flavio/L-1089-2018
+OI Carvalho, Luiz Max F/0000-0001-5736-5578; Coelho, Flavio
+   Codeco/0000-0003-0635-8989; Carvalho, Luiz Max/0000-0001-5736-5578;
+   Coelho, Flavio/0000-0003-3868-4391
+CR Bacaer N, 2009, B MATH BIOL, V71, P1954, DOI 10.1007/s11538-009-9433-7
+   Bjornstad ON, 2002, ECOL MONOGR, V72, P169, DOI 10.1890/0012-9615(2002)072[0169:DOMEES]2.0.CO;2
+   Brooks SP, 1998, J COMPUT GRAPH STAT, V7, P434, DOI 10.2307/1390675
+   Clopper CJ, 1934, BIOMETRIKA, V26, P404, DOI 10.1093/biomet/26.4.404
+   Coelho FC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019616
+   De Simone TS, 2004, T ROY SOC TROP MED H, V98, P553, DOI 10.1016/j.trstmh.2003.09.003
+   Duarte HHP, 2006, REV SAUDE PUBL, V40, P134, DOI 10.1590/S0034-89102006000100021
+   DUBEY SD, 1970, METRIKA, V16, P27, DOI 10.1007/BF02613934
+   EDERER F, 1974, AM J EPIDEMIOL, V100, P165, DOI 10.1093/oxfordjournals.aje.a112024
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Halstead SB, 2007, LANCET, V370, P1644, DOI 10.1016/S0140-6736(07)61687-0
+   Honorio NA, 2009, J MED ENTOMOL, V46, P1001, DOI 10.1603/033.046.0505
+   Honorio NA, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000545
+   Katriel G, 2012, MATH BIOSCI, V235, P56, DOI 10.1016/j.mbs.2011.10.007
+   Luz PM, 2009, TROP MED INT HEALTH, V14, P237, DOI 10.1111/j.1365-3156.2008.02203.x
+   Macedo GA, 2013, T ROY SOC TROP MED H, V107, P141, DOI 10.1093/trstmh/trs091
+   Nishiura H, 2010, J R SOC INTERFACE, V7, P297, DOI 10.1098/rsif.2009.0153
+   Nogueira RMR, 2011, MEM I OSWALDO CRUZ, V106, P255, DOI 10.1590/S0074-02762011000300001
+   Nogueira RMR, 1999, MEM I OSWALDO CRUZ, V94, P297, DOI 10.1590/S0074-02761999000300004
+   Reich NG, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0414
+   Reiner RC, 2014, P NATL ACAD SCI USA, V111, pE2694, DOI 10.1073/pnas.1314933111
+   Salje H, 2012, P NATL ACAD SCI USA, V109, P9535, DOI 10.1073/pnas.1120621109
+   Stallybrass C. O., 1931, PRINCIPLES EPIDEMIOL, V4
+   Vrugt J. A., 2008, INT J NONLINEAR SCI, V10, P271
+   Wallinga J, 2003, VACCINE, V21, P2643, DOI 10.1016/S0264-410X(03)00051-3
+   Wilson EB, 1927, J AM STAT ASSOC, V22, P209, DOI 10.2307/2276774
+   Wu PC, 2009, SCI TOTAL ENVIRON, V407, P2224, DOI 10.1016/j.scitotenv.2008.11.034
+NR 27
+TC 11
+Z9 11
+U1 0
+U2 20
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 17
+PY 2015
+VL 5
+AR 18455
+DI 10.1038/srep18455
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CY7FG
+UT WOS:000366573200001
+PM 26675824
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT S
+AU Bliman, PA
+   Aronna, MS
+   Coelho, FC
+   da Silva, MAHB
+AF Bliman, Pierre-Alexandre
+   Aronna, M. Soledad
+   Coelho, Flavio C.
+   da Silva, Moacyr A. H. B.
+GP IEEE
+TI Global stabilizing feedback law for a problem of biological control of
+   mosquito-borne diseases
+SO 2015 54TH IEEE CONFERENCE ON DECISION AND CONTROL (CDC)
+SE IEEE Conference on Decision and Control
+LA English
+DT Proceedings Paper
+CT 54th IEEE Conference on Decision and Control (CDC)
+CY DEC 15-18, 2015
+CL Osaka, JAPAN
+SP Kozo Keikaku Engn, MathWorks, Springer, CYBERNET Syst, Mitsubishi Elect, Soc Ind & Appl Math, Altair, Int Journal Automat & Comp, IEEE CAA Journal Automatica Sinica, Cogent Engn, Now, IHI, IEEE
+DE Wolbachia; Global stabilization; Monotone systems; Input-output
+   characteristic
+ID DENGUE TRANSMISSION; MONOTONE SYSTEMS; BLOCKS DENGUE; WOLBACHIA;
+   POPULATIONS; CHIKUNGUNYA; DYNAMICS
+AB The control of the spread of dengue fever by introduction of the intracellular parasitic bacterium Wolbachia in populations of the vector Aedes aegypti, is presently one of the most promising tools for eliminating dengue, in the absence of an efficient vaccine. The success of this operation requires locally careful planning to determine the adequate number of mosquitoes carrying the Wolbachia parasite that need to be introduced into the natural population. The latter are expected to eventually replace the Wolbachia-free population and guarantee permanent protection against the transmission of dengue to human.
+   In this paper, we propose and analyze a model describing the fundamental aspects of the competition between mosquitoes carrying Wolbachia and mosquitoes free of the parasite. We then introduce a simple feedback control law to synthesize an introduction protocol, and prove that the population is guaranteed to converge to a stable equilibrium where the totality of mosquitoes carry Wolbachia. The techniques are based on the theory of monotone control systems, as developed after Angeli and Sontag. Due to bistability, the considered input-output system has multivalued static characteristics, but the existing results are unable to prove almost-global stabilization, and ad hoc analysis has to be conducted.
+C1 [Bliman, Pierre-Alexandre; Aronna, M. Soledad; Coelho, Flavio C.; da Silva, Moacyr A. H. B.] Fundacao Getulio Vargas, Escola Matemat Aplicada, Praia de Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.
+RP Bliman, PA (corresponding author), Fundacao Getulio Vargas, Escola Matemat Aplicada, Praia de Botafogo 190, BR-22250900 Rio De Janeiro, RJ, Brazil.
+EM pierrealexandre.bliman@inria.fr; aronna@impa.br; fccoelho@fgv.br;
+   moacyr@fgv.br
+RI Coelho, Flavio Codeco/L-1089-2018; Aronna, Maria Soledad/M-5390-2018;
+   Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Aronna, Maria
+   Soledad/0000-0002-0640-4722; Coelho, Flavio/0000-0003-3868-4391
+CR Alphey L, 2014, ANNU REV ENTOMOL, V59, P205, DOI 10.1146/annurev-ento-011613-162002
+   Alphey L, 2010, VECTOR-BORNE ZOONOT, V10, P295, DOI 10.1089/vbz.2009.0014
+   Angeli D, 2003, IEEE T AUTOMAT CONTR, V48, P1684, DOI 10.1109/TAC.2003.817920
+   Barton NH, 2011, AM NAT, V178, pE48, DOI 10.1086/661246
+   Blagrove MSC, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002152
+   Blagrove MSC, 2012, P NATL ACAD SCI USA, V109, P255, DOI 10.1073/pnas.1112021108
+   Bliman P.-A., 2015, TECH REP
+   Cosner C, 1997, DYN CONTIN DISCRET I, V3, P283
+   Enciso GA, 2006, J DIFFER EQUATIONS, V224, P205, DOI 10.1016/j.jde.2005.05.007
+   Enciso GA, 2014, INT J CONTROL, V87, P301, DOI 10.1080/00207179.2013.830336
+   Frentiu FD, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002688
+   Gedeon T, 2009, J DIFFER EQUATIONS, V247, P1013, DOI 10.1016/j.jde.2009.04.019
+   Gouze J.-L., 1988, 0894 INR
+   Hancock PA, 2012, J R SOC INTERFACE, V9, P3045, DOI 10.1098/rsif.2012.0253
+   Hoffmann A., ELIMINATE DENGUE
+   Hoffmann AA, 2011, NATURE, V476, P454, DOI 10.1038/nature10356
+   Hughes H, 2013, B MATH BIOL, V75, P796, DOI 10.1007/s11538-013-9835-4
+   Koiller J., 2014, RR8462 INR
+   Maciel-de-Freitas R, 2014, B WORLD HEALTH ORGAN, V92, P685, DOI 10.2471/BLT.13.119081
+   Malisoff M, 2006, IEEE T AUTOMAT CONTR, V51, P287, DOI 10.1109/TAC.2005.863534
+   Montella IR, 2007, AM J TROP MED HYG, V77, P467, DOI 10.4269/ajtmh.2007.77.467
+   Moreira LA, 2009, CELL, V139, P1268, DOI 10.1016/j.cell.2009.11.042
+   Ndii MZ, 2015, MATH BIOSCI, V262, P157, DOI 10.1016/j.mbs.2014.12.011
+   ONeill S.L., 1998, INFLUENTIAL PASSENGE
+   Popovici J, 2010, MEM I OSWALDO CRUZ, V105, P957, DOI 10.1590/S0074-02762010000800002
+   Rasgon JL, 2004, J MED ENTOMOL, V41, P255, DOI 10.1603/0022-2585-41.2.255
+   SMITH H, 1995, MATH SURVEYS MONOGRA, V41
+   Turelli M, 2010, EVOLUTION, V64, P232, DOI 10.1111/j.1558-5646.2009.00822.x
+   Walker T, 2011, NATURE, V476, P450, DOI 10.1038/nature10355
+NR 29
+TC 1
+Z9 1
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 0743-1546
+BN 978-1-4799-7886-1
+J9 IEEE DECIS CONTR P
+PY 2015
+BP 3206
+EP 3211
+PG 6
+WC Automation & Control Systems; Engineering, Electrical & Electronic
+SC Automation & Control Systems; Engineering
+GA BF4PY
+UT WOS:000381554503065
+DA 2020-12-08
+ER
+
+PT J
+AU Calvao, AM
+   Paixao, CA
+   Coelho, FC
+   Souza, RR
+AF Calvao, Angelo Mondaini
+   Paixao, Crysttian Arantes
+   Coelho, Flavio Codeco
+   Souza, Renato Rocha
+TI The consumer litigation industry: Chasing dragon kings in lawyer-client
+   networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Power-law; Litigation; Preferential attachment; Scale-free network;
+   Ambulance chasers
+ID POWER-LAW; TOPOLOGY
+AB The community of lawyers and their clients form a scale-free bipartite network that develops naturally as the outcome of the recommendation process through which lawyers form their client base. This process is an example of preferential attachment where lawyers with more clients are more likely to be recommended to new clients. Consumer litigation is an important market for lawyers. In large consumer societies, there always a significant amount of consumption disputes that escalate to court. In this paper we analyze a dataset of thousands of lawsuits, reconstructing the lawyer-client network embedded in the data. Analyzing the degree distribution of this network we noticed that it follows that of a scale-free network built by preferential attachment, but for a few lawyers with much larger client base than could be expected by preferential attachment. Incidentally, most of these also figured on a list put together by the judiciary of lawyers which openly advertised the benefits of consumer litigation. According to the code of ethics of their profession, lawyers should not stimulate clients into litigation, but it is not strictly illegal. From a network formation point of view, this stimulation can be seen as a separate growth mechanism than preferential attachment alone. In this paper we find that this composite growth can be detected by a simple statistical test, as simulations show that lawyers which use both mechanisms quickly become the "dragon-kings" of the distribution of the number of clients per lawyer. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Calvao, Angelo Mondaini; Paixao, Crysttian Arantes; Coelho, Flavio Codeco; Souza, Renato Rocha] Getulio Vargas Fdn, Sch Appl Math, Rio De Janeiro, RJ, Brazil.
+   [Calvao, Angelo Mondaini] Univ Fed Fluminense, Inst Phys, Niteroi, RJ, Brazil.
+RP Coelho, FC (corresponding author), Getulio Vargas Fdn, Sch Appl Math, Rio De Janeiro, RJ, Brazil.
+RI Coelho, Flavio Codeco/L-1089-2018; Souza, Renato R./A-3684-2008; Souza,
+   Renato Rocha/AAB-9654-2019; Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Souza, Renato
+   R./0000-0002-1895-3905; Souza, Renato Rocha/0000-0002-1895-3905; Coelho,
+   Flavio/0000-0003-3868-4391
+CR Advogados do Brasil O.O., 1995, DIARIO JUSTICA
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Barabasi AL, 2000, PHYSICA A, V281, P69, DOI 10.1016/S0378-4371(00)00018-2
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Faloutsos M, 1999, COMP COMM R, V29, P251
+   IPEA, 2011, CUST UN PROC EX FISC
+   Janczura J, 2012, EUR PHYS J-SPEC TOP, V205, P79, DOI 10.1140/epjst/e2012-01563-9
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   LUTHER MJ, 1958, AM BAR ASSOC J, V44, P554
+   Pisarenko V. F., 2011, ARXIV11045156
+   Sornette D, 2012, EUR PHYS J-SPEC TOP, V205, P1, DOI 10.1140/epjst/e2012-01559-5
+   Sornette D, 2009, INT J TERRASPACE SCI, V2, P1, DOI DOI 10.1016/J.PHYSA.2010.03.014
+NR 14
+TC 4
+Z9 4
+U1 2
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2015
+VL 40
+BP 17
+EP 24
+DI 10.1016/j.socnet.2014.07.001
+PG 8
+WC Anthropology; Sociology
+SC Anthropology; Sociology
+GA AY5AI
+UT WOS:000347585500002
+OA Green Published
+DA 2020-12-08
+ER
+
+PT S
+AU Lima, T
+   Carneiro, T
+   Silva, L
+   Lana, R
+   Codeco, C
+   Reis, I
+   Maretto, R
+   Santos, L
+   Monteiro, AMV
+   Medeiros, L
+   Coelho, F
+AF Lima, Tiago
+   Carneiro, Tiago
+   Silva, Leandro
+   Lana, Raquel
+   Codeco, Claudia
+   Reis, Izabel
+   Maretto, Raian
+   Santos, Leonardo
+   Monteiro, Antonio M. V.
+   Medeiros, Liliam
+   Coelho, Flavio
+BE Tolk, A
+   Yilmaz, L
+   Diallo, SY
+   Ryzhov, IO
+TI A FRAMEWORK FOR MODELING AND SIMULATING Aedes aegypti AND DENGUE FEVER
+   DYNAMICS
+SO PROCEEDINGS OF THE 2014 WINTER SIMULATION CONFERENCE (WSC)
+SE Winter Simulation Conference Proceedings
+LA English
+DT Proceedings Paper
+CT Winter Simulation Conference
+CY DEC 07-10, 2014
+CL Savannah, GA
+ID RIO-DE-JANEIRO; BRAZIL; DIPTERA; TRANSMISSION; DISPERSAL; CULICIDAE;
+   SURVIVAL; VECTOR; EGGS
+AB Dengue fever represents a great challenge for many countries, and methodologies to prevent and/or control its transmission have been largely discussed by the research community. Modeling is a powerful tool to understand epidemic dynamics and to evaluate costs, benefits and effectiveness of control strategies. In order to assist decision-makers and researchers in the evaluation of different methodologies, we developed DengueME, a collaborative open source platform to simulate dengue disease and its vector's dynamics. DengueME provides a series of compartmental and individual-based models, implemented over a GIS database, that represents the Aedes aegypti's life cycle, human demography, human mobility, urban landscape and dengue transmission. The platform is designed to allow easy simulation of intervention scenarios. A GUI was developed to facilitate model configuration and data input.
+C1 [Lima, Tiago; Carneiro, Tiago; Silva, Leandro] Fed Univ Ouro Preto UFOP, Ouro Preto, MG, Brazil.
+   [Lana, Raquel; Codeco, Claudia; Reis, Izabel] Oswaldo Cruz Fdn Fiocruz, Rio De Janeiro, RJ, Brazil.
+   [Maretto, Raian; Santos, Leonardo; Monteiro, Antonio M. V.] Natl Inst Space Res INPE, Sao Jose Dos Campos, SP, Brazil.
+   [Medeiros, Liliam] Sao Paulo State Univ UNESP, Sao Jose Dos Campos, SP, Brazil.
+   [Coelho, Flavio] Getulio Vargas Fdn FGV, Rio De Janeiro, RJ, Brazil.
+RP Lima, T (corresponding author), Fed Univ Ouro Preto UFOP, Ouro Preto, MG, Brazil.
+EM tiagolima@decsi.ufop.br; tiago@iceb.ufop.br; leandrogs99@gmail.com;
+   raquelmlana@gmail.com; codeco@fiocruz.br; izabio2005@gmail.com;
+   rvmaretto@gmail.com; santoslbl@gmail.com; miguel@dpi.inpe.br;
+   liliam.medeiros@ict.unesp.br; fccoelho@fgv.br
+RI Coelho, Flavio Codeco/L-1089-2018; de Senna Carneiro, Tiago
+   Garcia/Q-8479-2019; Carneiro, Tiago/AAH-8822-2019; Santos, Leonardo
+   Bacelar Lima/A-2837-2014; Maretto, Raian Vargas/ABB-5352-2020
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; de Senna Carneiro, Tiago
+   Garcia/0000-0002-1508-7554; Maretto, Raian Vargas/0000-0002-4983-2700
+CR Balcan D, 2010, J COMPUT SCI-NETH, V1, P132, DOI 10.1016/j.jocs.2010.07.002
+   Lazcano JAB, 2006, REV PANAM SALUD PUBL, V19, P379, DOI 10.1590/S1020-49892006000600003
+   Carbajo AE, 2006, MED VET ENTOMOL, V20, P209, DOI 10.1111/j.1365-2915.2006.00625.x
+   Medeiros LCD, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0000942
+   Carneiro TGD, 2013, ENVIRON MODELL SOFTW, V46, P104, DOI 10.1016/j.envsoft.2013.03.002
+   FOCKS DA, 1993, J MED ENTOMOL, V30, P1003, DOI 10.1093/jmedent/30.6.1003
+   Ford Daniel Alexander, 2006, Int J Health Geogr, V5, P4, DOI 10.1186/1476-072X-5-4
+   Fraga L., 2010, S BRAS PESQ OP
+   Gubler Duane J., 2002, Trends in Microbiology, V10, P100, DOI 10.1016/S0966-842X(01)02288-0
+   Hladish T, 2012, BMC BIOINFORMATICS, V13, DOI 10.1186/1471-2105-13-76
+   Honorio NA, 2003, MEM I OSWALDO CRUZ, V98, P191, DOI 10.1590/S0074-02762003000200005
+   Lana R.M., 2011, J INF DATA MANAG, V2, P211
+   Lana RM, 2014, ACTA TROP, V129, P25, DOI 10.1016/j.actatropica.2013.07.025
+   Lima T, 2013, 2013 3RD INTERNATIONAL WORKSHOP ON DEVELOPING TOOLS AS PLUG-INS (TOPI), P37, DOI 10.1109/TOPI.2013.6597192
+   Luz C, 2008, MEM I OSWALDO CRUZ, V103, P214, DOI 10.1590/S0074-02762008000200016
+   Luz PM, 2003, MEM I OSWALDO CRUZ, V98, P871, DOI 10.1590/S0074-02762003000700002
+   Maciel-De-Freitas R, 2007, AM J TROP MED HYG, V76, P659, DOI 10.4269/ajtmh.2007.76.659
+   McMichael AJ, 2004, PHILOS T ROY SOC B, V359, P1049, DOI 10.1098/rstb.2004.1480
+   Muetzelfeldt R, 2003, EUR J AGRON, V18, P345, DOI 10.1016/S1161-0301(02)00112-0
+   North M. J., 2005, P AG 2005 C GEN SOC, P159
+   Otero M, 2008, B MATH BIOL, V70, P1297, DOI 10.1007/s11538-008-9300-y
+   Otero M, 2006, B MATH BIOL, V68, P1945, DOI 10.1007/s11538-006-9067-y
+   PARKER BM, 1986, ANN ENTOMOL SOC AM, V79, P925, DOI 10.1093/aesa/79.6.925
+   Pinho STR, 2010, PHILOS T R SOC A, V368, P5679, DOI 10.1098/rsta.2010.0278
+   Reis I. C., 2010, CARACTERIZACAO PAISA
+   Rico-Hesse R, 2010, CURR TOP MICROBIOL, V338, P45, DOI 10.1007/978-3-642-02215-9_4
+   RUEDA LM, 1990, J MED ENTOMOL, V27, P892, DOI 10.1093/jmedent/27.5.892
+   Santos LBL, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016102
+   Santos L. B. L., 2011, P 12 BRAZ S GEOINFOR, P85
+   Silva S., 2011, IADIS, P451
+   Tauil P L, 2001, Cad Saude Publica, V17 Suppl, P99, DOI 10.1590/S0102-311X2001000700018
+   Tisue S., 2004, INT C COMPL SYST, V21, P16, DOI 10.1109/ICVD.2004.1261037
+   Yang HM, 2008, APPL MATH COMPUT, V198, P401, DOI 10.1016/j.amc.2007.08.046
+NR 33
+TC 3
+Z9 3
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 0891-7736
+BN 978-1-4799-7486-3
+J9 WINT SIMUL C PROC
+PY 2014
+BP 1481
+EP 1492
+PG 12
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Theory & Methods
+SC Computer Science
+GA BG4XP
+UT WOS:000389248201067
+DA 2020-12-08
+ER
+
+PT J
+AU Codeco, CT
+   Cordeiro, JD
+   Lima, AWD
+   Colpo, RA
+   Cruz, OG
+   Coelho, FC
+   Luz, PM
+   Struchiner, CJ
+   de Barros, FR
+AF Codeco, Claudia Torres
+   Cordeiro, Josiane da Silva
+   da Silva Lima, Arthur Weiss
+   Colpo, Rodrigo Amarante
+   Cruz, Oswaldo Goncalves
+   Coelho, Flavio Codeco
+   Luz, Paula Mendes
+   Struchiner, Claudio Jose
+   de Barros, Fernando Ribeiro
+TI The epidemic wave of influenza A (H1N1) in Brazil, 2009
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Article
+DE Influenzavirus A; Epidemics; Surveillance
+ID VIRUS; A(H1N1); SURVEILLANCE; OUTBREAK; SPREAD; MEXICO
+AB This study describes the main features of pandemic influenza A (H1N1) in Brazil during 2009. Brazil is a large country that extends roughly from latitudes 5 degrees N to 34 degrees S. Brazil has tropical and sub-tropical climates, a heterogeneous population distribution, and intense urbanization in the southern portions of the country and along its Atlantic coast. Our analysis points to a wide variation in infection rates throughout the country, and includes both latitudinal effects and strong variations in detection rates. Two states (out of a total of 23) were responsible for 73% of all cases reported. Real time reproduction numbers demonstrate that influenza transmission was sustained in the country, beginning in May of 2009. Finally, this study discusses the challenges in understanding the infection dynamics of influenza and the adequacy of Brazil's influenza monitoring system.
+C1 [Codeco, Claudia Torres; da Silva Lima, Arthur Weiss; Colpo, Rodrigo Amarante; Cruz, Oswaldo Goncalves; Struchiner, Claudio Jose] Fundacao Oswaldo Cruz, Programa Comp Cient, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Cordeiro, Josiane da Silva] Univ Fed Rural Rio de Janeiro, Inst Ciencias Exatas, Seropedica, Brazil.
+   [Coelho, Flavio Codeco] Fundacao Getulio Vargas, Escola Matemat Aplicada, Rio De Janeiro, Brazil.
+   [Luz, Paula Mendes] Fundacao Oswaldo Cruz, Inst Pesquisa Clin Evandro Chagas, Rio De Janeiro, Brazil.
+   [de Barros, Fernando Ribeiro] Minist Saude, Secretaria Vigilancia Saude, Brasilia, DF, Brazil.
+RP Codeco, CT (corresponding author), Fundacao Oswaldo Cruz, Programa Comp Cient, Av Brasil 4365, BR-21045900 Rio De Janeiro, RJ, Brazil.
+EM codeco@fiocruz.br
+RI Struchiner, Claudio J/M-9360-2013; Coelho, Flavio Codeco/L-1089-2018;
+   Coelho, Flavio/L-1089-2018
+OI Struchiner, Claudio J/0000-0003-2114-847X; Coelho, Flavio
+   Codeco/0000-0003-0635-8989; Luz, Paula/0000-0001-9746-719X; Coelho,
+   Flavio/0000-0003-3868-4391
+FU CNPqNational Council for Scientific and Technological Development (CNPq)
+FX C. T. Codeco and F. C. Coelho performed part of this work as visiting
+   researcher and post-doc at the Instituto Gulbenkian de Ciencia,
+   Portugal, respectively. This work was commissioned by the Brazilian
+   Ministry of Health (process number 530001/10). C. T. Codeco received a
+   post-doc fellow ship from CNPq.
+CR Anton A, 2011, DIAGN MICR INFEC DIS, V69, P419, DOI 10.1016/j.diagmicrobio.2010.11.006
+   Boelle PY, 2009, EUROSURVEILLANCE, V14, P10
+   Parashar U, 2001, MMWR Recomm Rep, V50, P1
+   Cauchemez S, 2006, EMERG INFECT DIS, V12, P110
+   Cretikos MA, 2009, EUROSURVEILLANCE, V14, P28
+   Cruz-Pacheco G, 2009, EUROSURVEILLANCE, V14
+   Dawood FS, 2009, NEW ENGL J MED, V360, P2605, DOI 10.1056/NEJMoa0903810
+   Flahault A, 2009, PLOS CURR, V1, DOI DOI 10.1371/CURRENTS.RRN1140
+   Fraser C, 2009, SCIENCE, V324, P1557, DOI 10.1126/science.1176062
+   Grais RF, 2003, EUR J EPIDEMIOL, V18, P1065, DOI 10.1023/A:1026140019146
+   Kok J, 2010, J CLIN MICROBIOL, V48, P290, DOI 10.1128/JCM.01465-09
+   Laurie KL, 2010, J INFECT DIS, V202, P1011, DOI 10.1086/656188
+   Lessler J, 2010, EPIDEMICS-NETH, V2, P132, DOI 10.1016/j.epidem.2010.07.001
+   Massad E, 2010, MEM I OSWALDO CRUZ, V105, P179, DOI 10.1590/S0074-02762010000200012
+   Mossong J, 2008, PLOS MED, V5, P381, DOI 10.1371/journal.pmed.0050074
+   Nishiura H, 2010, THEOR BIOL MED MODEL, V7, DOI 10.1186/1742-4682-7-1
+   Oliveira WK, 2009, EUROSURVEILLANCE, V14, P16
+   Pourbohloul B, 2009, INFLUENZA OTHER RESP, V3, P215, DOI 10.1111/j.1750-2659.2009.00100.x
+   Runge-Ranzinger S, 2008, TROP MED INT HEALTH, V13, P1022, DOI 10.1111/j.1365-3156.2008.02112.x
+   Wallinga J, 2007, P ROY SOC B-BIOL SCI, V274, P599, DOI 10.1098/rspb.2006.3754
+   Wearing HJ, 2005, PLOS MED, V2, P621, DOI 10.1371/journal.pmed.0020174
+   White LF, 2009, INFLUENZA OTHER RESP, V3, P267, DOI 10.1111/j.1750-2659.2009.00106.x
+   Wood S., 2006, GEN ADDITIVE MODELS
+NR 23
+TC 8
+Z9 10
+U1 0
+U2 2
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+EI 1678-4464
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD JUL
+PY 2012
+VL 28
+IS 7
+BP 1325
+EP 1336
+DI 10.1590/S0102-311X2012000700011
+PG 12
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 962XF
+UT WOS:000305582000011
+PM 22729263
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT S
+AU Souza, RR
+   Coelho, FC
+   Higuchi, S
+   da Silva, DL
+AF Souza, Renato Rocha
+   Coelho, Flavio Codeco
+   Higuchi, Suemi
+   da Silva, Daniela Lucas
+BE Neelameghan, A
+   Raghavan, KS
+TI The CPDOC Semantic Portal: Applying Semantic and Knowledge Organization
+   Systems to the Brazilian Contemporary History Domain
+SO CATEGORIES, CONTEXTS AND RELATIONS IN KNOWLEDGE ORGANIZATION
+SE Advances in Knowledge Organization
+LA English
+DT Proceedings Paper
+CT 12th International ISKO Conference
+CY AUG 06-09, 2012
+CL Mysore, INDIA
+SP ISKO India Chapter, Sarada Ranganathan Endowment Lib Sci, Univ Mysore
+AB Presents the semantic portal project of the center for teaching and research in the Social Sciences and Contemporary History (CPDOC) of the Fundacao Getulio Vargas, Rio de Janeiro. This project involves the use of semantic and visualization technologies and natural language processing techniques to allow enhanced ways to access the CPDOC collections.
+C1 [Souza, Renato Rocha; Coelho, Flavio Codeco] Fundacao Getulio, Appl Math Sch, Rio De Janeiro, Brazil.
+   [Higuchi, Suemi] Fundacao Getulio Vargas, Ctr Pesquisa Documenta ao Histcria Contemporfn, Rio De Janeiro, Brazil.
+   [da Silva, Daniela Lucas] Univ Fed Espirito Santo, Vitoria, Brazil.
+RP Souza, RR (corresponding author), Fundacao Getulio, Appl Math Sch, Rio De Janeiro, Brazil.
+EM rsouza.fgv@gmail.com; fccoelho@gmail.com; Suemi.Higuchi@fgv.br;
+   danielalucas@hotmail.com
+RI Souza, Renato Rocha/AAB-9654-2019; Coelho, Flavio Codeco/L-1089-2018;
+   Coelho, Flavio/L-1089-2018
+OI Souza, Renato Rocha/0000-0002-1895-3905; Coelho, Flavio
+   Codeco/0000-0003-0635-8989; Coelho, Flavio/0000-0003-3868-4391
+CR Binding C, 2010, COMPUTER APPL QUANTI
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ERGON-VERLAG GMBH
+PI WURZBURG
+PA KEESBURGSTRABE 11, WURZBURG, D-97074, GERMANY
+SN 0938-5495
+BN 978-3-89913-902-0
+J9 ADV KNOW OR
+PY 2012
+VL 13
+BP 262
+EP 266
+PG 5
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA BB2TG
+UT WOS:000342292200040
+DA 2020-12-08
+ER
+
+PT S
+AU Coelho, FC
+   Souza, RR
+   Chada, DM
+   Cerdeira, PD
+AF Coelho, Flavio Codeco
+   Souza, Renato Rocha
+   Chada, Daniel Magalhaes
+   Cerdeira, Pablo de Camargo
+BE Neelameghan, A
+   Raghavan, KS
+TI Information Mining and Visualization of Data from the Brazilian Supreme
+   Court (STF): A Case Study
+SO CATEGORIES, CONTEXTS AND RELATIONS IN KNOWLEDGE ORGANIZATION
+SE Advances in Knowledge Organization
+LA English
+DT Proceedings Paper
+CT 12th International ISKO Conference
+CY AUG 06-09, 2012
+CL Mysore, INDIA
+SP ISKO India Chapter, Sarada Ranganathan Endowment Lib Sci, Univ Mysore
+AB This paper describes a joint research of the Law School (Direito Rio) and the Applied Math School (EMAp) of the Getulio Vargas Foundation (FGV), Brazil to analyze information from judicial activities in some of the Brazilian courts. The data for the study included the entire collection of judicial decisions from 1988 to the present. The idea was to identify bottlenecks in the judicial processes at the STF.
+C1 [Coelho, Flavio Codeco; Souza, Renato Rocha] Getulio Vargas Fdn, Appl Math Sch, Rio De Janeiro, RJ, Brazil.
+   [Chada, Daniel Magalhaes] Sch Business Adm, Rio De Janeiro, Brazil.
+   [Cerdeira, Pablo de Camargo] Secretary Consumer Def, Rio De Janeiro, Brazil.
+RP Coelho, FC (corresponding author), Getulio Vargas Fdn, Appl Math Sch, Rio De Janeiro, RJ, Brazil.
+EM fccoelho@gmail.com; rsouza.fgv@gmail.com; danielc2112@gmail.com;
+   pablo.cerdeira@gmail.com
+RI Souza, Renato Rocha/AAB-9654-2019; Coelho, Flavio Codeco/L-1089-2018;
+   Coelho, Flavio/L-1089-2018
+OI Souza, Renato Rocha/0000-0002-1895-3905; Coelho, Flavio
+   Codeco/0000-0003-0635-8989; Coelho, Flavio/0000-0003-3868-4391
+CR [Anonymous], 2011, SUPREMO NUMEROS
+   Kastellec JP, 2010, J EMPIR LEGAL STUD, V7, P202, DOI 10.1111/j.1740-1461.2010.01176.x
+   Katz D. M., 2010, ARXIV10034146
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ERGON-VERLAG GMBH
+PI WURZBURG
+PA KEESBURGSTRABE 11, WURZBURG, D-97074, GERMANY
+SN 0938-5495
+BN 978-3-89913-902-0
+J9 ADV KNOW OR
+PY 2012
+VL 13
+BP 320
+EP 325
+PG 6
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA BB2TG
+UT WOS:000342292200049
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Codeco, CT
+   Gomes, MGM
+AF Coelho, Flavio Codeco
+   Codeco, Claudia Torres
+   Gomes, M. Gabriela M.
+TI A Bayesian Framework for Parameter Estimation in Dynamical Models
+SO PLOS ONE
+LA English
+DT Article
+ID DIFFERENTIAL-EQUATIONS; INFECTIOUS-DISEASES; SEASONAL INFLUENZA;
+   INFERENCE; BIOLOGY; SYSTEMS
+AB Mathematical models in biology are powerful tools for the study and exploration of complex dynamics. Nevertheless, bringing theoretical results to an agreement with experimental observations involves acknowledging a great deal of uncertainty intrinsic to our theoretical representation of a real system. Proper handling of such uncertainties is key to the successful usage of models to predict experimental or field observations. This problem has been addressed over the years by many tools for model calibration and parameter estimation. In this article we present a general framework for uncertainty analysis and parameter estimation that is designed to handle uncertainties associated with the modeling of dynamic biological systems while remaining agnostic as to the type of model used. We apply the framework to fit an SIR-like influenza transmission model to 7 years of incidence data in three European countries: Belgium, the Netherlands and Portugal.
+C1 [Coelho, Flavio Codeco; Gomes, M. Gabriela M.] Inst Gulbenkian Ciencias, Oeiras, Portugal.
+   [Coelho, Flavio Codeco] Fundacao Getulio Vargas, Escola Matemat Aplicada, Rio De Janeiro, Brazil.
+   [Codeco, Claudia Torres] Fundacao Oswaldo Cruz, Programa Computacao Cient, Rio De Janeiro, Brazil.
+RP Coelho, FC (corresponding author), Inst Gulbenkian Ciencias, Oeiras, Portugal.
+EM fccoelho@fgv.br
+RI Gomes, Gabriela/H-7218-2014; Coelho, Flavio Codeco/L-1089-2018; Coelho,
+   Flavio/L-1089-2018
+OI Gomes, Gabriela/0000-0002-1454-4979; Coelho, Flavio
+   Codeco/0000-0003-0635-8989; Coelho, Flavio/0000-0003-3868-4391
+FU Fundacao para a Ciencia e a Tecnologia (FCT)Portuguese Foundation for
+   Science and Technology; European CommissionEuropean CommissionEuropean
+   Commission Joint Research Centre [MEXT-CT-2004-14338, EC-ICT-231807];
+   Brazilian Research Council (CNPq)National Council for Scientific and
+   Technological Development (CNPq)
+FX This research was funded by Fundacao para a Ciencia e a Tecnologia
+   (FCT), the European Commission (grants MEXT-CT-2004-14338 and
+   EC-ICT-231807), and the Brazilian Research Council (CNPq). The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR AKAIKE H, 2003, IEEE T, V19, P23716
+   Alkema L, 2008, SEX TRANSM INFECT, V84, pI11, DOI 10.1136/sti.2008.029991
+   ANDERSON RM, 1979, NATURE, V280, P361, DOI 10.1038/280361a0
+   ANDRIEU C, 2008, STAT COMPUT, V18, P43373
+   Bettencourt LMA, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002185
+   Breto C, 2009, ANN APPL STAT, V3, P319, DOI 10.1214/08-AOAS201
+   Brooks SP, 1998, J COMPUT GRAPH STAT, V7, P434, DOI 10.2307/1390675
+   Calderhead B., 2008, NEURAL INFORM PROCES, V22
+   Chowell G, 2010, P ROY SOC B-BIOL SCI, V277, P1857, DOI 10.1098/rspb.2009.1897
+   COELHO FC, 2009, BAYESIAN FRAMEWORK P
+   COELHO FC, 2009, BAYESIAN INFERENCE P
+   Coelho FC, 2008, CAD SAUDE PUBLICA, V24, P853, DOI 10.1590/S0102-311X2008000400016
+   *ECDC, 2009, EUR IN SURV NETW
+   Girolami M, 2008, THEOR COMPUT SCI, V408, P4, DOI 10.1016/j.tcs.2008.07.005
+   GOLIGHTLY A, 2006, J COMPUT BIOL, V13, P38851
+   GOLIGHTLY A, 2008, COMPUTATIONAL STAT D, V52, P41693
+   Gran JM, 2010, EPIDEMIOL INFECT, V138, P1559, DOI 10.1017/S0950268810000671
+   Ionides EL, 2006, P NATL ACAD SCI USA, V103, P18438, DOI 10.1073/pnas.0603181103
+   KASS RE, 1995, J AM STAT ASSOC, V90, P773, DOI 10.1080/01621459.1995.10476572
+   LAU LL, 2010, VIRAL SHEDDING CLIN
+   LECCA P, 2009, EUROPEAN BIOPHYSICS, V39, P1019
+   Ness RB, 2007, ANN EPIDEMIOL, V17, P564, DOI 10.1016/j.annepidem.2006.10.014
+   Paterson B, 2009, SCIENCE, V325, P1071, DOI 10.1126/science.325_1071b
+   Poole D, 2000, J AM STAT ASSOC, V95, P1244, DOI 10.2307/2669764
+   Ramsay JO, 2007, J ROY STAT SOC B, V69, P741, DOI 10.1111/j.1467-9868.2007.00610.x
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   SEVCIKOVA H, 2007, TRANSPORTATION RES B, V41, P52669
+   Spiegelhalter DJ, 2002, J R STAT SOC B, V64, P583, DOI 10.1111/1467-9868.00353
+   Stein W. A., 2009, SAGE MATH SOFTWARE V
+   VANNOORT SP, 2011, ROLE WEATHER R UNPUB
+   VRUGT JA, 2008, ACCELERATING MARKOV
+   Vyshemirsky V, 2008, BIOINFORMATICS, V24, P1933, DOI 10.1093/bioinformatics/btn338
+NR 32
+TC 35
+Z9 35
+U1 0
+U2 21
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 24
+PY 2011
+VL 6
+IS 5
+AR e19616
+DI 10.1371/journal.pone.0019616
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 769IJ
+UT WOS:000291005800003
+PM 21629684
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Codeco, CT
+AF Coelho, Flavio Codeco
+   Codeco, Claudia T.
+TI Dynamic Modeling of Vaccinating Behavior as a Function of Individual
+   Beliefs
+SO PLOS COMPUTATIONAL BIOLOGY
+LA English
+DT Article
+ID PUBLIC-HEALTH; YELLOW-FEVER; POLICY; MMR
+AB Individual perception of vaccine safety is an important factor in determining a person's adherence to a vaccination program and its consequences for disease control. This perception, or belief, about the safety of a given vaccine is not a static parameter but a variable subject to environmental influence. To complicate matters, perception of risk (or safety) does not correspond to actual risk. In this paper we propose a way to include the dynamics of such beliefs into a realistic epidemiological model, yielding a more complete depiction of the mechanisms underlying the unraveling of vaccination campaigns. The methodology proposed is based on Bayesian inference and can be extended to model more complex belief systems associated with decision models. We found the method is able to produce behaviors which approximate what has been observed in real vaccine and disease scare situations. The framework presented comprises a set of useful tools for an adequate quantitative representation of a common yet complex public-health issue. These tools include representation of beliefs as Bayesian probabilities, usage of logarithmic pooling to combine probability distributions representing opinions, and usage of natural conjugate priors to efficiently compute the Bayesian posterior. This approach allowed a comprehensive treatment of the uncertainty regarding vaccination behavior in a realistic epidemiological model.
+C1 [Coelho, Flavio Codeco] Inst Gulbenkian Ciencias, Theoret Epidemiol Grp, Oeiras, Portugal.
+   [Codeco, Claudia T.] Fundacao Oswaldo Cruz, Comp Sci Program, Rio De Janeiro, Brazil.
+RP Coelho, FC (corresponding author), Inst Gulbenkian Ciencias, Theoret Epidemiol Grp, Oeiras, Portugal.
+EM fcoelho@igc.gulbenkian.pt
+RI Coelho, Flavio Codeco/L-1089-2018; Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Coelho,
+   Flavio/0000-0003-3868-4391
+FU Brazilian Research Council (CNPq)National Council for Scientific and
+   Technological Development (CNPq); Fundacao Oswaldo Cruz; European
+   Commission GrantEuropean CommissionEuropean Commission Joint Research
+   Centre [MEXT-CT-2004-14338]
+FX This work was supported in by the Brazilian Research Council (CNPq) and
+   Fundacao Oswaldo Cruz. The author is grateful for the hospitality of
+   Instituto Gulbenkian de Ciencia and financial support of the European
+   Commission Grant MEXT-CT-2004-14338 during the preparation of this
+   manuscript. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+CR Bauch CT, 2005, P ROY SOC B-BIOL SCI, V272, P1669, DOI 10.1098/rspb.2005.3153
+   Bauch CT, 2004, P NATL ACAD SCI USA, V101, P13391, DOI 10.1073/pnas.0403823101
+   Camacho LAB, 2008, CAD SAUDE PUBLICA, V24, P482, DOI 10.1590/S0102-311X2008000300001
+   Chapman GB, 1999, PREV MED, V29, P249, DOI 10.1006/pmed.1999.0535
+   Codeco CT, 2007, J R SOC INTERFACE, V4, P1119, DOI 10.1098/rsif.2007.0234
+   Ehreth J, 2003, VACCINE, V21, P596, DOI 10.1016/S0264-410X(02)00623-0
+   Galvani AP, 2007, P NATL ACAD SCI USA, V104, P5692, DOI 10.1073/pnas.0606774104
+   Genest C., 1986, STAT SCI, P114, DOI DOI 10.1214/SS
+   Goldacre B, 2007, BRIT MED J, V335, P126, DOI 10.1136/bmj.39280.447419.59
+   Hennock EP, 1998, SOC HIST MED, V11, P49, DOI 10.1093/shm/11.1.49
+   Monath TP, 1999, LANCET, V353, P1541, DOI 10.1016/S0140-6736(99)00155-5
+   Nagaraj A, 2006, EUR J PUBLIC HEALTH, V16, P85, DOI 10.1093/eurpub/cki058
+   Reluga TC, 2006, MATH BIOSCI, V204, P185, DOI 10.1016/j.mbs.2006.08.015
+   Salmon DA, 2006, LANCET, V367, P436, DOI 10.1016/S0140-6736(06)68144-0
+   Serpell L, 2006, VACCINE, V24, P4041, DOI 10.1016/j.vaccine.2006.02.037
+   Smith A, 2007, LINGUIST INVESTIG, V30, P27
+   Struchiner CJ, 2004, EPIDEMIOL INFECT, V132, P939, DOI 10.1017/S0950268804002602
+   Vasconcelos P. F, 2003, REV SOC BRAS MED TRO, V36, P275, DOI DOI 10.1590/S0037-86822003000200012
+   Watts DJ, 2005, P NATL ACAD SCI USA, V102, P11157, DOI 10.1073/pnas.0501226102
+   Willink R, 2006, METROLOGIA, V43, P12, DOI 10.1088/0026-1394/43/1/002
+NR 20
+TC 34
+Z9 35
+U1 0
+U2 14
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1553-734X
+EI 1553-7358
+J9 PLOS COMPUT BIOL
+JI PLoS Comput. Biol.
+PD JUL
+PY 2009
+VL 5
+IS 7
+AR e1000425
+DI 10.1371/journal.pcbi.1000425
+PG 10
+WC Biochemical Research Methods; Mathematical & Computational Biology
+SC Biochemistry & Molecular Biology; Mathematical & Computational Biology
+GA 486TD
+UT WOS:000269220100019
+PM 19593365
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Codeco, CT
+   Coelho, FC
+AF Codeco, Claudia Torres
+   Coelho, Flavio Codeco
+TI Networks: epidemiology of transmissible diseases from a systemic
+   perspective
+SO CIENCIA & SAUDE COLETIVA
+LA Portuguese
+DT Article
+DE Epidemiology; Contact network; Social networks; Support networks
+ID SEXUAL NETWORKS; SOCIAL NETWORKS; RISK; HIV; INFECTION; SPREAD;
+   DYNAMICS; PATTERNS; SUPPORT; MEASLES
+AB The direct or indirect physical contact between human beings as a basic condition for the transmission of infectious diseases stimulated epidemiologists to put forth great efforts to understanding and describing the process of human contacts. It is through these contacts that disease spreads over populations and emerges, at the systemic level, in the form of epidemics. During the 20(th) century, many researchers dedicated themselves to revealing the population patterns that favor or not the emergence of epidemics and their temporal and spatial dynamics. The first insights came from population models adapted from the physical sciences, in which non-structured populations are considered. Later on it became clear that a more detailed description of social structures was required to correctly describe epidemic dynamics, and concepts such as social group, social network and social cohesion became important terms in the quantitative study of epidemics. The approximation between epidemiology and the social sciences turns obvious as their concepts are interacting more and more. To give a brief overview of this trajectory is the purpose of this article.
+C1 [Codeco, Claudia Torres; Coelho, Flavio Codeco] Fundacao Oswaldo Cruz, Programa Computacao Cient, BR-21045900 Rio De Janeiro, Brazil.
+RP Codeco, CT (corresponding author), Fundacao Oswaldo Cruz, Programa Computacao Cient, Av Brasil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM codeco@fiocruz.br
+RI Coelho, Flavio Codeco/L-1089-2018; Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Coelho,
+   Flavio/0000-0003-3868-4391
+CR Allen S, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-349
+   ANDERSON R M, 1991
+   Rosa TEDC, 2007, CAD SAUDE PUBLICA, V23, P2982, DOI 10.1590/S0102-311X2007001200019
+   Daley D. J., 1999, EPIDEMIC MODELLING I
+   Daley DJ, 1965, IMA J APPL MATH, V1, P42, DOI [10.1093/ imamat/ 1.1.42, DOI 10.1093/IMAMAT/1.1.42]
+   de Carvalho FT, 2007, CAD SAUDE PUBLICA, V23, P2023, DOI 10.1590/S0102-311X2007000900011
+   FINE PEM, 1982, INT J EPIDEMIOL, V11, P5, DOI 10.1093/ije/11.1.5
+   Friedman SR, 2007, AIDS BEHAV, V11, P641, DOI 10.1007/s10461-006-9166-7
+   FRIEDMAN SR, 1995, AM J EPIDEMIOL, V142, P864, DOI 10.1093/oxfordjournals.aje.a117726
+   Friedman SR, 2001, J URBAN HEALTH, V78, P411, DOI 10.1093/jurban/78.3.411
+   Grenfell BT, 2001, NATURE, V414, P716, DOI 10.1038/414716a
+   GRENFELL BT, 1985, J HYG-CAMBRIDGE, V95, P419, DOI 10.1017/S0022172400062859
+   Jolly AM, 2001, J URBAN HEALTH, V78, P433, DOI 10.1093/jurban/78.3.433
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   KINGSLAND SE, 1995, MODELING NATURE EPIS
+   KLOVDAHL AS, 1985, SOC SCI MED, V21, P1203, DOI 10.1016/0277-9536(85)90269-2
+   Koopman J, 2004, ANNU REV PUBL HEALTH, V25, P303, DOI 10.1146/annurev.publhealth.25.102802.124353
+   Latkin CA, 2003, INT J STD AIDS, V14, P770, DOI 10.1258/09564620360719831
+   Lett HS, 2007, HEALTH PSYCHOL, V26, P418, DOI 10.1037/0278-6133.26.4.418
+   Luke DA, 2007, ANNU REV PUBL HEALTH, V28, P69, DOI 10.1146/annurev.publhealth.28.021406.144132
+   Magnani R, 2005, AIDS, V19, pS67, DOI 10.1097/01.aids.0000172879.20628.e1
+   MITCHELL SG, 2007, AIDS S2, V46, pS55
+   Mitchinson AR, 2008, J AM COLL SURGEONS, V206, P292, DOI 10.1016/j.jamcollsurg.2007.08.017
+   MORIN Edgar, 2005, METODO NATUREZA NATU
+   Morris M, 1997, AIDS, V11, P641, DOI 10.1097/00002030-199705000-00012
+   Newman MEJ, 2004, PHYS REV E, V69, DOI [10.1103/PhysRevE.69.026113, 10.1103/PhysRevE.69.066133]
+   Potterat JJ, 1999, INT J STD AIDS, V10, P182, DOI 10.1258/0956462991913853
+   POTTERAT JJ, 1991, INT J STD AIDS, V2, P411, DOI 10.1177/095646249100200603
+   Rhodes T, 2005, SOC SCI MED, V61, P1026, DOI 10.1016/j.socscimed.2004.12.024
+   Ross R, 1916, P R SOC LOND A-CONTA, V92, P204, DOI 10.1098/rspa.1916.0007
+   Rothenberg R, 2007, SEX TRANSM INFECT, V83, P10, DOI 10.1136/sti.2006.017269
+   Perisse ARS, 2007, CAD SAUDE PUBLICA, V23, pS361, DOI 10.1590/S0102-311X2007001500004
+   Singer MC, 2006, SOC SCI MED, V63, P2010, DOI 10.1016/j.socscimed.2006.05.012
+   Skyttner L, 2006, GEN SYSTEMS THEORY P
+   Snead J, 2003, J URBAN HEALTH, V80, P330, DOI 10.1093/jurban/jtg035
+   Wallinga J, 1999, TRENDS MICROBIOL, V7, P372, DOI 10.1016/S0966-842X(99)01546-2
+   Wasserman Stanley, 1999, SOCIAL NETWORK ANAL
+   Watts DJ, 2004, 6 DEGREES SCI CONNEC
+   Wohlfeiler D, 2005, SEX TRANSM DIS, V32, pS48, DOI 10.1097/01.olq.0000175394.81945.68
+   Wylie JL, 2001, SEX TRANSM DIS, V28, P14, DOI 10.1097/00007435-200101000-00005
+   YORKE JA, 1978, SEX TRANSM DIS, V5, P51, DOI 10.1097/00007435-197804000-00003
+NR 41
+TC 2
+Z9 4
+U1 0
+U2 3
+PU ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI RIO DE JANEIRO
+PA AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36,
+   BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD NOV-DEC
+PY 2008
+VL 13
+IS 6
+BP 1767
+EP 1774
+DI 10.1590/S1413-81232008000600011
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 385QN
+UT WOS:000261828800011
+PM 18833353
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Codeco, CT
+   Struchiner, CJ
+AF Coelho, Flavio Codeco
+   Codeco, Claudia Torres
+   Struchiner, Claudio Jose
+TI Complete treatment of uncertainties in a model for dengue R-0 estimation
+SO CADERNOS DE SAUDE PUBLICA
+LA English
+DT Article
+DE Bayes theorem; dengue; epidemiologic models; uncertainty
+ID SAO-PAULO STATE; BAYESIAN-ANALYSIS; YELLOW-FEVER; BRAZIL; RISK
+AB In real epidemic processes, the basic reproduction number R-0 is the combined outcome of multiple probabilistic events. Nevertheless, it is frequently modeled as a deterministic function of epidemiological variables. This paper discusses the importance of adequate treatment of uncertainties in such models. This is done by comparing two methods of uncertainty analysis: Monte Carlo uncertainty analysis (MCUA) and the Bayesian melding (BM) method. These methods are applied to a model for the determination of R-0 of dengue fever based on entomological parameters. The BM was shown to provide a complete treatment of the uncertainties associated with model parameters. In contrast to MCUA, the incorporation of uncertainties led to realistic posterior distributions for parameter and variables. The incorporation, by the BM, of all the available information, from observational data to expert opinions, allows for the constructive use of uncertainties generating informative posterior distributions for all of the model's components that are coherent as a set.
+C1 [Coelho, Flavio Codeco; Codeco, Claudia Torres; Struchiner, Claudio Jose] Fundacao Oswaldo Cruz, Programa Computacao Cient, BR-21040900 Rio De Janeiro, RJ, Brazil.
+RP Coelho, FC (corresponding author), Fundacao Oswaldo Cruz, Programa Computacao Cient, Av Brasil 4365, BR-21040900 Rio De Janeiro, RJ, Brazil.
+EM fccoelho@fiocruz.br
+RI Coelho, Flavio Codeco/L-1089-2018; Struchiner, Claudio J/M-9360-2013;
+   Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Struchiner, Claudio
+   J/0000-0003-2114-847X; Coelho, Flavio/0000-0003-3868-4391
+CR Cancre N, 2000, AM J EPIDEMIOL, V152, P760, DOI 10.1093/aje/152.8.760
+   Chowell G, 2004, EMERG INFECT DIS, V10, P1258, DOI 10.3201/eid1007.030647
+   Dietz K, 1993, Stat Methods Med Res, V2, P23, DOI 10.1177/096228029300200103
+   Gibson GJ, 2004, P NATL ACAD SCI USA, V101, P12120, DOI 10.1073/pnas.0400829101
+   Kass RE, 1996, J AM STAT ASSOC, V91, P1343, DOI 10.2307/2291752
+   Laplace P-S, 1825, ESSAI PHILOS PROBABI
+   Luz PM, 2003, MEM I OSWALDO CRUZ, V98, P871, DOI 10.1590/S0074-02762003000700002
+   MACDONALD G, 1952, Trop Dis Bull, V49, P813
+   MARQUES CA, 1994, T ROY SOC TROP MED H, V88, P58, DOI 10.1016/0035-9203(94)90498-7
+   Massad E, 2003, REV SAUDE PUBL, V37, P477, DOI [10.1590/S0034-89102003000400013, 10.1590/s0034-89102003000400013]
+   Massad E, 2001, T ROY SOC TROP MED H, V95, P370, DOI 10.1016/S0035-9203(01)90184-1
+   Poole D, 2000, J AM STAT ASSOC, V95, P1244, DOI 10.2307/2669764
+   Rubin D. B, 1988, BAYESIAN STATISTICS, V3, P395
+   Sanchez MA, 1997, AM J EPIDEMIOL, V145, P1127
+NR 14
+TC 11
+Z9 11
+U1 0
+U2 2
+PU CADERNOS SAUDE PUBLICA
+PI RIO DE JANIERO
+PA RUA LEOPOLDO BUHOES 1480, RIO DE JANIERO, RJ 210410210, BRAZIL
+SN 0102-311X
+J9 CAD SAUDE PUBLICA
+JI Cad. Saude Publica
+PD APR
+PY 2008
+VL 24
+IS 4
+BP 853
+EP 861
+DI 10.1590/S0102-311X2008000400016
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 284WK
+UT WOS:000254737400016
+PM 18392363
+OA DOAJ Gold
+DA 2020-12-08
+ER
+
+PT J
+AU Codeco, CT
+   Luz, PM
+   Coelho, F
+   Galvani, AP
+   Struchiner, C
+AF Codeco, Claudia T.
+   Luz, Paula M.
+   Coelho, Flavio
+   Galvani, Alison P.
+   Struchiner, Claudio
+TI Vaccinating in disease-free regions: a vaccine model with application to
+   yellow fever
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE emerging infectious diseases; decision analysis; yellow fever; Brazil
+ID RIO-DE-JANEIRO; ADVERSE EVENTS; RISK
+AB Concerns regarding natural or induced emergence of infectious diseases have raised a debate on the pros and cons of pre-emptive vaccination of populations under uncertain risk. In the absence of immediate risk, ethical issues arise because even smaller risks associated with the vaccine are greater than the immediate disease risk (which is zero). The model proposed here seeks to formalize the vaccination decision process looking from the perspective of the susceptible individual, and results are shown in the context of the emergence of urban yellow fever in Brazil. The model decomposes the individual's choice about vaccinating or not into uncertain components. The choice is modelled as a function of (i) the risk of a vaccine adverse event, (ii) the risk of an outbreak and (iii) the probability of receiving the vaccine or escaping serious disease given an outbreak. Additionally, we explore how this decision varies as a function of mass vaccination strategies of varying efficiency. If disease is considered possible but unlikely (risk of outbreak less than 0.1), delay vaccination is a good strategy if a reasonably effcient campaign is expected. The advantage of waiting increases as the rate of transmission is reduced (low R-0) suggesting that vector control programmes and emergency vaccination preparedness work together to favour this strategy. The opposing strategy, vaccinating pre-emptively, is favoured if the probability of yellow fever urbanization is high or if expected R-0 is high and emergency action is expected to be slow. In summary, our model highlights the nonlinear dependence of an individual's best strategy on the preparedness of a response to a yellow fever outbreak or other emergent infectious disease.
+C1 Fundacao Oswaldo Cruz, Programa Computacao Cient, Rio De Janeiro, Brazil.
+   Yale Univ, Sch Publ Hlth, New Haven, CT 06520 USA.
+RP Codeco, CT (corresponding author), Fundacao Oswaldo Cruz, Programa Computacao Cient, Ave Brasil 4365, Rio De Janeiro, Brazil.
+EM codeco@fiocruz.br
+RI Coelho, Flavio Codeco/L-1089-2018; Struchiner, Claudio J/M-9360-2013;
+   Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Struchiner, Claudio
+   J/0000-0003-2114-847X; Luz, Paula/0000-0001-9746-719X; Coelho,
+   Flavio/0000-0003-3868-4391
+CR Camacho LAB, 2005, REV SAUDE PUBL, V39, P413, DOI 10.1590/S0034-89102005000300012
+   Camacho LAB, 2004, REV SAUDE PUBL, V38, P671, DOI 10.1590/S0034-89102004000500009
+   Caswell H., 2000, MATRIX POPULATION MO
+   Codeco CT, 2004, T ROY SOC TROP MED H, V98, P702, DOI 10.1016/j.trstmh.2003.12.019
+   Engel AR, 2006, VACCINE, V24, P2803, DOI 10.1016/j.vaccine.2006.01.009
+   Galler R, 2001, VIROLOGY, V290, P309, DOI 10.1006/viro.2001.1168
+   Lourenco-de-Oliveira R, 2002, MEM I OSWALDO CRUZ, V97, P437, DOI 10.1590/S0074-02762002000300031
+   Luz PM, 2003, MEM I OSWALDO CRUZ, V98, P871, DOI 10.1590/S0074-02762003000700002
+   Marchevsky RS, 2003, VIROLOGY, V316, P55, DOI 10.1016/S0042-6822(03)00583-X
+   Massad E, 2005, VACCINE, V23, P3908, DOI 10.1016/j.vaccine.2005.03.002
+   Massad E, 2001, T ROY SOC TROP MED H, V95, P370, DOI 10.1016/S0035-9203(01)90184-1
+   Poole D, 2000, J AM STAT ASSOC, V95, P1244, DOI 10.2307/2669764
+   Salmon DA, 2006, LANCET, V367, P436, DOI 10.1016/S0140-6736(06)68144-0
+   Salmon DA, 2006, EMERG THEMES EPIDEMI, V3, DOI 10.1186/1742-7622-3-13
+   Struchiner CJ, 2004, EPIDEMIOL INFECT, V132, P939, DOI 10.1017/S0950268804002602
+   Vasconcelos P. F, 2003, REV SOC BRAS MED TRO, V36, P275, DOI DOI 10.1590/S0037-86822003000200012
+NR 16
+TC 15
+Z9 15
+U1 0
+U2 2
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD DEC 22
+PY 2007
+VL 4
+IS 17
+BP 1119
+EP 1125
+DI 10.1098/rsif.2007.0234
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 228IO
+UT WOS:000250723800009
+PM 17442650
+OA Green Published
+DA 2020-12-08
+ER
+
+PT S
+AU Struchiner, CJ
+   Luz, PM
+   Codeco, CT
+   Coelho, FC
+   Massad, E
+AF Struchiner, C. J.
+   Luz, P. M.
+   Codeco, C. T.
+   Coelho, F. C.
+   Massad, E.
+BE Gumel, AB
+TI Current research issues in mosquito-borne diseases modeling
+SO MATHEMATICAL STUDIES ON HUMAN DISEASE DYNAMICS: EMERGING PARADIGMS AND
+   CHALLENGES
+SE Contemporary Mathematics
+LA English
+DT Proceedings Paper
+CT AMS-IMS-SIAM Joint Summer Research Conference on Modeling the Dynamics
+   of Human Diseases
+CY JUL 17-21, 2005
+CL Snowbird, UT
+SP AMS, IMS, SIAM
+DE mosquito-borne diseases; modeling; population genetics; molecular
+   biology
+ID YELLOW-FEVER VIRUS; VERTICAL TRANSMISSION; VACCINE EFFICACY; MALARIA
+   VACCINES; AEDES-AEGYPTI; EVOLUTION; INFERENCE; DYNAMICS; EPIDEMIOLOGY;
+   INFECTION
+AB Mosquito-borne diseases modeling enters the mathematical literature through the hands of Ronald Ross. We have come a long way since Ross' seminal contribution. Recent advances in molecular biology and genetics provide new tools to monitor diversity among pathogens, vertebrate and invertebrate hosts. The genetic manipulation of pathogens and vectors also holds a promissing future. Current population dynamics paradigms seem ill-equiped to make appropriate predictions in this context and need to be expanded. We briefly review some of the current main research issues brought by these new technologies and argue that a new unifying modeling paradigm becomes necessary.
+C1 Fundacao Oswaldo Cruz, Programa Computacao Cient, BR-21045900 Rio De Janeiro, Brazil.
+RP Struchiner, CJ (corresponding author), Fundacao Oswaldo Cruz, Programa Computacao Cient, BR-21045900 Rio De Janeiro, Brazil.
+EM stru@fiocruz.br; pluz@fiocruz.br; codeco@fiocruz.br;
+   fccoelho@fiocruz.br; edmassad@usp.br
+RI Struchiner, Claudio J/M-9360-2013; Massad, Eduardo/B-1169-2012; Coelho,
+   Flavio Codeco/L-1089-2018; Massad, Eduardo/H-6143-2011; Coelho,
+   Flavio/L-1089-2018
+OI Struchiner, Claudio J/0000-0003-2114-847X; Massad,
+   Eduardo/0000-0002-7200-2916; Coelho, Flavio Codeco/0000-0003-0635-8989;
+   Coelho, Flavio/0000-0003-3868-4391
+CR AITKEN THG, 1979, AM J TROP MED HYG, V28, P119, DOI 10.4269/ajtmh.1979.28.119
+   Alphey L, 2002, SCIENCE, V298, P119, DOI 10.1126/science.1078278
+   ANDERSON RM, 1989, PARASITOLOGY, V99, pS59, DOI 10.1017/S0031182000083426
+   Bailey N.T.J., 1982, BIOMATHEMATICS MALAR
+   Beerntsen BT, 2000, MICROBIOL MOL BIOL R, V64, P115, DOI 10.1128/MMBR.64.1.115-137.2000
+   Berk R. A., 2002, STAT SCI, V17, P173, DOI DOI 10.1214/SS/1030550860
+   Boete C, 2003, TRENDS PARASITOL, V19, P32, DOI 10.1016/S1471-4922(02)00003-X
+   Boete Christophe, 2002, Malar J, V1, P3
+   BRUCECHWATT L, 1980, RISE FALL MALARIA EU
+   Burger R., 2000, WILEY SERIES MATH CO
+   Cancre N, 2000, AM J EPIDEMIOL, V152, P760, DOI 10.1093/aje/152.8.760
+   Chevillon C, 2003, TRENDS MICROBIOL, V11, P415, DOI 10.1016/S0966-842X(03)00206-3
+   CHRISTIANSEN FB, 2000, WILEY SERIES MATH CO
+   CURTIS CF, 1994, PARASITOL TODAY, V10, P371, DOI 10.1016/0169-4758(94)90222-4
+   Day T, 2004, AM NAT, V163, pE40, DOI 10.1086/382548
+   Day T, 2003, TRENDS ECOL EVOL, V18, P113, DOI 10.1016/S0169-5347(02)00049-6
+   Diallo M, 2000, AM J TROP MED HYG, V62, P151, DOI 10.4269/ajtmh.2000.62.151
+   DIETZ K, 1974, B WORLD HEALTH ORGAN, V50, P347
+   FINE PEM, 1975, P ROY SOC MED, V68, P547, DOI 10.1177/003591577506800903
+   Fine PEM, 1975, TROPICAL DISEASES B, V72, P475
+   Fontenille D, 1997, T ROY SOC TROP MED H, V91, P533, DOI 10.1016/S0035-9203(97)90013-4
+   Galvani AP, 2003, TRENDS ECOL EVOL, V18, P132, DOI 10.1016/S0169-5347(02)00050-2
+   Gandon S, 2001, NATURE, V414, P751, DOI 10.1038/414751a
+   Gould F, 2004, ANNU REV ENTOMOL, V49, P193, DOI 10.1146/annurev.ento.49.061802.123344
+   HALLORAN ME, 1989, MATH BIOSCI, V94, P115, DOI 10.1016/0025-5564(89)90074-6
+   Halloran ME, 1999, EPIDEMIOL REV, V21, P73, DOI 10.1093/oxfordjournals.epirev.a017990
+   HALLORAN ME, 1991, EPIDEMIOLOGY, V2, P331, DOI 10.1097/00001648-199109000-00004
+   HALLORAN ME, 1995, EPIDEMIOLOGY, V6, P142, DOI 10.1097/00001648-199503000-00010
+   HALLORAN ME, 1991, AM J EPIDEMIOL, V133, P323, DOI 10.1093/oxfordjournals.aje.a115884
+   HALLORAN ME, 1992, AM J EPIDEMIOL, V136, P328, DOI 10.1093/oxfordjournals.aje.a116498
+   James AA, 2005, TRENDS PARASITOL, V21, P64, DOI 10.1016/j.pt.2004.11.004
+   KINGSOLVER JG, 1987, AM NAT, V130, P811, DOI 10.1086/284749
+   KITRON U, 1987, INT J HEALTH SERV, V17, P295, DOI 10.2190/68UG-BAWQ-YXCT-HFKT
+   Luz PM, 2003, MEM I OSWALDO CRUZ, V98, P871, DOI 10.1590/S0074-02762003000700002
+   Macdonald G., 1957, EPIDEMIOLOGY CONTROL
+   Massad E, 2005, VACCINE, V23, P3908, DOI 10.1016/j.vaccine.2005.03.002
+   Massad E, 2003, ARTIF INTELL MED, V29, P241, DOI 10.1016/S0933-3657(02)00070-2
+   Molineaux L, 1980, GARKI PROJECT RES EP
+   MOLINEAUX L, 1985, 14 UNDP WHOTDR
+   Mueller AK, 2005, NATURE, V433, P164, DOI 10.1038/nature03188
+   NAJERA JA, 1974, B WORLD HEALTH ORGAN, V50, P449
+   NEDELMAN J, 1985, MATH BIOSCI, V73, P159, DOI 10.1016/0025-5564(85)90010-0
+   Nye E., 1997, R ROSS MALARIOLOGIST
+   Pack DW, 2004, NAT MATER, V3, P133, DOI 10.1038/nmat1084
+   Poole D, 2000, J AM STAT ASSOC, V95, P1244, DOI 10.2307/2669764
+   RAFTERY AE, 1995, J AM STAT ASSOC, V90, P402, DOI 10.2307/2291048
+   RAND DA, 1995, P ROY SOC B-BIOL SCI, V259, P55, DOI 10.1098/rspb.1995.0009
+   Read AF, 2001, SCIENCE, V292, P1099, DOI 10.1126/science.1059410
+   RIBEIRO JMC, 1994, J MED ENTOMOL, V31, P10, DOI 10.1093/jmedent/31.1.10
+   Rice SH, 2004, EVOLUTIONARY THEORY
+   ROSEN L, 1983, AM J TROP MED HYG, V32, P1108, DOI 10.4269/ajtmh.1983.32.1108
+   ROSEN L, 1987, CR ACAD SCI III-VIE, V304, P347
+   Ross R, 1915, BRIT MED J, V1915, P546, DOI 10.1136/bmj.1.2830.546
+   ROSS R, 1910, T SOC TROP MED HYG, V3, P383
+   Ross R, 1921, BRIT MED J, V2, P1, DOI 10.1136/bmj.2.3157.1
+   Skinner-Adams TS, 2003, TRENDS PARASITOL, V19, P17, DOI 10.1016/S1471-4922(02)00005-3
+   SPIELMAN A, 1994, PARASITOL TODAY, V10, P374, DOI 10.1016/0169-4758(94)90223-2
+   STRUCHINER CJ, 1989, MATH BIOSCI, V94, P87, DOI 10.1016/0025-5564(89)90073-4
+   Wang C, 2004, NAT MATER, V3, P190, DOI 10.1038/nmat1075
+NR 59
+TC 7
+Z9 7
+U1 0
+U2 1
+PU AMER MATHEMATICAL SOC
+PI PROVIDENCE
+PA P.O. BOX 6248, PROVIDENCE, RI 02940 USA
+SN 0271-4132
+EI 1098-3627
+BN 0-8218-3775-3
+J9 CONTEMP MATH
+PY 2006
+VL 410
+BP 349
+EP 366
+PG 18
+WC Infectious Diseases; Mathematics, Applied
+SC Infectious Diseases; Mathematics
+GA BFM31
+UT WOS:000243040400020
+DA 2020-12-08
+ER
+
+PT J
+AU Codeco, CT
+   Coelho, FC
+AF Codeco, CT
+   Coelho, FC
+TI Trends in cholera epidemiology
+SO PLOS MEDICINE
+LA English
+DT Editorial Material
+C1 Fundacao Oswaldo Cruz, Comp Sci Program, Rio De Janeiro, Brazil.
+RP Codeco, CT (corresponding author), Fundacao Oswaldo Cruz, Comp Sci Program, Rio De Janeiro, Brazil.
+EM codeco@fiocruz.br
+RI Coelho, Flavio Codeco/L-1089-2018; Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Coelho,
+   Flavio/0000-0003-3868-4391
+CR COLWELL RR, 1994, ANN NY ACAD SCI, V740, P44, DOI 10.1111/j.1749-6632.1994.tb19852.x
+   Hartley DM, 2006, PLOS MED, V3, P63, DOI 10.1371/journal.pmed.0030007
+   Merrell DS, 2002, NATURE, V417, P642, DOI 10.1038/nature00778
+   Pascual M, 2002, MICROBES INFECT, V4, P237, DOI 10.1016/S1286-4579(01)01533-7
+   SNOW J, 1999, SOBRE MANEIRA TRANSM
+NR 5
+TC 18
+Z9 18
+U1 0
+U2 10
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1549-1277
+EI 1549-1676
+J9 PLOS MED
+JI PLos Med.
+PD JAN
+PY 2006
+VL 3
+IS 1
+BP 16
+EP 17
+AR e42
+DI 10.1371/journal.pmed.0030042
+PG 2
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 026MJ
+UT WOS:000236342700005
+PM 16435891
+OA DOAJ Gold, Green Published
+DA 2020-12-08
+ER
+
+PT J
+AU Cyrino, FZGA
+   Bottino, DA
+   Coelho, FC
+   Ravel, D
+   Bouskela, E
+AF Cyrino, FZGA
+   Bottino, DA
+   Coelho, FC
+   Ravel, D
+   Bouskela, E
+TI Effects of sulfonylureas on K-ATP channel-dependent vasodilation
+SO JOURNAL OF DIABETES AND ITS COMPLICATIONS
+LA English
+DT Article; Proceedings Paper
+CT 38th Annual Meeting of the
+   European-Association-for-the-Study-of-Diabetes
+CY SEP 01-05, 2002
+CL BUDAPEST, HUNGARY
+SP European Assoc Study Diabetes
+DE ATP-regulated K+ channel; vasodilation; microvascular reactivity;
+   sulfonylureas; hamster cheek pouch; diazoxide; glibenclamide;
+   gliclazide; glimepiride
+ID HAMSTER-CHEEK POUCH; DIABETES-MELLITUS; SMOOTH-MUSCLE; POTASSIUM
+   CHANNELS; INSULIN-SECRETION; BETA-CELL; RECEPTOR; BLOCK;
+   MICROCIRCULATION; GLIBENCLAMIDE
+AB Introduction: Sulfonylureas are widely prescribed for the treatment of type 2 diabetes. Their therapeutic efficacy resides in the ability to bind to sulfonylurea receptors (SURs) present on the beta-cell plasma membrane, to close the ATP-regulated potassium (K-ATP) channel, and thereby to enhance glucose-stimulated insulin secretion. These receptors are also found in a wide variety of extra-pancreatic tissues such as brain, peripheral nerves, heart, and vascular smooth muscle where they contribute to the regulation of the vascular tone. Objective: The objective of the present study was to determine the potency of three sulfonylureas, glibenclamide, gliclazide, and glimepiride, in antagonizing the vasorelaxant action of diazoxide, an ATP-regulated K+ channel (K-ATP) opener, in vivo, using the hamster cheek pouch preparation and evaluating the changes in mean internal diameter and blood flow of arterioles and venules. Material and methods: Cheek pouches of anesthetized male hamsters superfused with a HEPES-supported HCO3--buffered saline solution were placed under an intravital microscope coupled to a closed-circuit TV system. All substances were applied topically. Measurements: Mean arteriolar and venular internal diameters using an image shearing device, red blood cell (RBC) velocity by the dual-slit photometric technique and microvessel volume flow was calculated from diameters and RBC velocities. Results: The numbers are given in order, first diameter and then flow, always for the highest concentration of diazoxide tested, by itself or in combination with a given sulfonylurea: (1) diazoxide, used in doses of 0.01, 1, and 100 muM, elicited a dose-dependent dilation and flow increase in arterioles [increase of 52.1% (P < .01) and 41.2% (P < .01)] and vernules [37.9% (P < .05) and 57.6% (P < .01)]; (2) glibenclamide (0.81 muM) + diazoxide 29.3% (P = .172) and 25.0% (P = .064) for arterioles and 8% (P = .654) and 3.7% (P = .769) for venules; (3) gliclazide (12 muM) + diazoxide 51.0% (P < .01) and 46.7% ( P < .01) for arterioles and 59.0% (P < .01) and 45.2% (P < .01) for venules; (4) glimepiride (0.82 muM) + diazoxide 22.8% (P = .228) and 12.5% (P = .305) for arterioles and 15.6% (P = .415) and 16.0% (P = .291) for venules. Conclusion: These results suggest that, in contrast to glibenclamide and glimepiride, therapeutic concentrations of gliclazide produce no cross-reactivity with smooth muscle cell K-ATP channels in the microvessels of the hamster cheek pouch. Previous studies have confirmed these results in isolated aortic rings of rats and guinea pigs. (C) 2003 Elsevier Science Inc. All rights reserved.
+C1 Univ Estado Rio de Janeiro, Lab Pesquisas Microcirculacao, Pavilhao Reitor Haroldo Lisboa Cunha Terreo, BR-20550013 Rio De Janeiro, Brazil.
+   Inst Rech Int Servier, F-92415 Courbevoie, France.
+RP Bouskela, E (corresponding author), Univ Estado Rio de Janeiro, Lab Pesquisas Microcirculacao, Pavilhao Reitor Haroldo Lisboa Cunha Terreo, Rua Sao Francisco Xavier 524, BR-20550013 Rio De Janeiro, Brazil.
+RI Coelho, Flavio Codeco/L-1089-2018; Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Coelho,
+   Flavio/0000-0003-3868-4391
+CR AGUILARBRYAN L, 1995, SCIENCE, V268, P423, DOI 10.1126/science.7716547
+   Ashcroft FM, 1999, DIABETOLOGIA, V42, P903, DOI 10.1007/s001250051247
+   ASHCROFT SJH, 1992, BIOCHIM BIOPHYS ACTA, V1175, P45, DOI 10.1016/0167-4889(92)90008-Y
+   BOHLEN HG, 1979, CIRC RES, V45, P390, DOI 10.1161/01.RES.45.3.390
+   BOUSKELA E, 1992, AM J PHYSIOL, V262, pH478
+   Clement JP, 1997, NEURON, V18, P827, DOI 10.1016/S0896-6273(00)80321-9
+   COLWELL JA, 1979, ARCH INTERN MED, V138, P225
+   COPPACK SW, 1990, BRIT J CLIN PHARMACO, V29, P673, DOI 10.1111/j.1365-2125.1990.tb03688.x
+   DULING BR, 1973, MICROVASC RES, V5, P423, DOI 10.1016/0026-2862(73)90059-9
+   Gribble FM, 1998, DIABETES, V47, P1412, DOI 10.2337/diabetes.47.9.1412
+   Gribble FM, 1999, DIABETOLOGIA, V42, P845, DOI 10.1007/s001250051236
+   HENQUIN JC, 1990, NEW ANTIDIABETIC DRU, P93
+   KOBAYASHI K, 1981, J PHARMACOBIO-DYNAM, V4, P436, DOI 10.1248/bpb1978.4.436
+   Langtry HD, 1998, DRUGS, V55, P563, DOI 10.2165/00003495-199855040-00007
+   Lawrence CL, 2001, DIABETOLOGIA, V44, P1019, DOI 10.1007/s001250100595
+   NICHOLS CG, 1991, AM J PHYSIOL, V261, pH1675
+   QUAYLE JM, 1995, AM J PHYSIOL-CELL PH, V269, pC1112
+   Quayle JM, 1997, PHYSIOL REV, V77, P1165
+   SCHMIDANTOMARCHI H, 1987, J BIOL CHEM, V262, P15840
+   SCHMIDANTOMARCHI H, 1990, P NATL ACAD SCI USA, V87, P3489, DOI 10.1073/pnas.87.9.3489
+   Simoes C, 2002, J CARDIOVASC PHARM, V39, P340, DOI 10.1097/00005344-200203000-00004
+   Song DK, 2001, BRIT J PHARMACOL, V133, P193, DOI 10.1038/sj.bjp.0704062
+   SVENSJO E, 1978, UPSALA J MED SCI, V83, P71, DOI 10.3109/03009737809179115
+   WAYLAND H, 1967, J APPL PHYSIOL, V22, P333
+NR 24
+TC 7
+Z9 7
+U1 0
+U2 2
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1056-8727
+J9 J DIABETES COMPLICAT
+JI J. Diabetes Complications
+PD MAR-APR
+PY 2003
+VL 17
+IS 2
+SU S
+BP 6
+EP 10
+AR PII S1056-8727(02)00273-8
+DI 10.1016/S1056-8727(02)00273-8
+PG 5
+WC Endocrinology & Metabolism
+SC Endocrinology & Metabolism
+GA 657LX
+UT WOS:000181669600003
+PM 12623162
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Amaya, CC
+AF Coelho, FC
+   Amaya, CC
+TI Measuring the heart rate of the spider, Aphonopelma hentzi: a
+   non-invasive technique
+SO PHYSIOLOGICAL ENTOMOLOGY
+LA English
+DT Article
+DE Aphonopelma hentzi; Hall effect transducer; heart rate; non-invasive
+   technique; spider; tarantula; Theraphosidae
+ID TARANTULA
+AB In this work we describe a non-invasive and precise technique to record the heartbeats of a spider. A linear output Hall effect transducer in conjunction with a small magnet was used to monitor the micromovements on the dorsal surface of the abdomen of the tarantula Aphonopelma hentzi (Girard) (Theraphosidae). The exoskeleton in this region is in direct contact with suspensory ligaments connected to the heart, and the dorsal cuticle of the opisthosoma moves with each heartbeat. The technique allowed the discrimination of the different stages of the spider's cardiac cycle. The method can be also adapted for a smaller spider or other arthropods. We believe that the method proposed in this paper allows investigators to gain insights into a spider's natural heart rate by gathering unbiased data with a non-invasive and very precise technique. We have found the resting heart rate of A. hentzi to be 5.6 +/- 1.47 beats/min, which is lower than previously reported values.
+C1 Univ Texas, Dept Biol, Arlington, TX 76019 USA.
+RP Amaya, CC (corresponding author), Univ Texas, Dept Biol, POB 19498, Arlington, TX 76019 USA.
+EM camaya@uta.edu
+RI Coelho, Flavio Codeco/L-1089-2018; Coelho, Flavio/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989; Coelho,
+   Flavio/0000-0003-3868-4391
+CR ANDERSON JF, 1985, J COMP PHYSIOL B, V155, P529, DOI 10.1007/BF00694442
+   BROMHALL C, 1987, J COMP PHYSIOL B, V157, P451, DOI 10.1007/BF00691829
+   CARREL JE, 1976, SCIENCE, V193, P148, DOI 10.1126/science.935864
+   DUNLOP JA, 1992, J EXP BIOL, V166, P83
+   FOELIX RF, 1996, BIOL SPIDERS
+   GONZALEZFERNANDEZ F, 1984, J EXP ZOOL, V231, P27, DOI 10.1002/jez.1402310105
+   Paul Ruediger Joerg, 1995, Zoology (Jena), V98, P69
+   SHERMAN RG, 1968, COMP BIOCHEM PHYSIOL, V26, P529, DOI 10.1016/0010-406X(68)90645-2
+   SHERMAN RG, 1970, EXPT PHYSL BIOCH, P351
+   WILSON RS, 1967, J INSECT PHYSIOL, V13, P1309, DOI 10.1016/0022-1910(67)90133-3
+NR 10
+TC 5
+Z9 5
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0307-6962
+EI 1365-3032
+J9 PHYSIOL ENTOMOL
+JI Physiol. Entomol.
+PD JUN
+PY 2000
+VL 25
+IS 2
+BP 167
+EP 171
+DI 10.1046/j.1365-3032.2000.00182.x
+PG 5
+WC Entomology
+SC Entomology
+GA 330XF
+UT WOS:000087985900009
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Smatresk, NJ
+AF Coelho, FC
+   Smatresk, NJ
+TI Afferent input variability and ventilatory control in the marine toad,
+   Bufo marinus.
+SO FASEB JOURNAL
+LA English
+DT Meeting Abstract
+C1 Univ Texas, Arlington, TX 76019 USA.
+RI Coelho, Flavio Codeco/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FEDERATION AMER SOC EXP BIOL
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998 USA
+SN 0892-6638
+J9 FASEB J
+JI Faseb J.
+PD MAR 17
+PY 1998
+VL 12
+IS 4
+SU S
+MA 991
+BP A170
+EP A170
+PN 1
+PG 1
+WC Biochemistry & Molecular Biology; Biology; Cell Biology
+SC Biochemistry & Molecular Biology; Life Sciences & Biomedicine - Other
+   Topics; Cell Biology
+GA 121HC
+UT WOS:000076006400990
+DA 2020-12-08
+ER
+
+PT J
+AU Coelho, FC
+   Baker, TL
+   Smatresk, NJ
+AF Coelho, FC
+   Baker, TL
+   Smatresk, NJ
+TI Coherence and wavelet analysis of ventilatory time series in the toad,
+   Bufo marinus, an episodic breather.
+SO FASEB JOURNAL
+LA English
+DT Meeting Abstract
+C1 UNIV TEXAS,ARLINGTON,TX 76019.
+RI Coelho, Flavio Codeco/L-1089-2018
+OI Coelho, Flavio Codeco/0000-0003-0635-8989
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FEDERATION AMER SOC EXP BIOL
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998 USA
+SN 0892-6638
+J9 FASEB J
+JI Faseb J.
+PD FEB 28
+PY 1997
+VL 11
+IS 3
+BP 174
+EP 174
+PG 1
+WC Biochemistry & Molecular Biology; Biology; Cell Biology
+SC Biochemistry & Molecular Biology; Life Sciences & Biomedicine - Other
+   Topics; Cell Biology
+GA WL530
+UT WOS:A1997WL53000173
+DA 2020-12-08
+ER
+
+EF

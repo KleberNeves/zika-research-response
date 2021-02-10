@@ -1,0 +1,1794 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Luz, A
+   Lopes, B
+   Hallahan, KM
+   Valbon, B
+   Fontes, B
+   Schor, P
+   Dupps, WJ
+   Ambrosio, R
+AF Luz, Allan
+   Lopes, Bernardo
+   Hallahan, Katie M.
+   Valbon, Bruno
+   Fontes, Bruno
+   Schor, Paulo
+   Dupps, William J., Jr.
+   Ambrosio, Renato, Jr.
+TI Discriminant Value of Custom Ocular Response Analyzer Waveform
+   Derivatives in Forme Fruste Keratoconus
+SO AMERICAN JOURNAL OF OPHTHALMOLOGY
+LA English
+DT Article
+ID CORNEAL BIOMECHANICAL PROPERTIES; IN-SITU-KERATOMILEUSIS; UNILATERAL
+   KERATOCONUS; NORMAL EYES; ECTASIA; ABERRATIONS; PARAMETERS; SCORE
+AB PURPOSE: To evaluate the performance of corneal hysteresis (CH), corneal resistance factor (CRF), 37 Ocular Response Analyzer (ORA) waveform parameters, and 15 investigator-derived ORA variables in differentiating forme fruste keratoconus (KC) from normal corneas.
+   DESIGN: Case-control study.
+   METHODS: Seventy-eight eyes of 78 unaffected patients and 21 topographically normal eyes of 21 forme fruste KC patients with topographically manifest KC in the contralateral eye were matched for age, the thinnest point of the cornea, central corneal thickness, and maximum keratometry. Fifteen candidate variables were derived from exported ORA signals to characterize putative indicators of biomechanical behavior, and 37 waveform parameters were tested. Differences between groups were assessed by the Mann-Whitney test. The area under the receiver operating characteristic curve (AUROC) was used to compare the diagnostic performance.
+   RESULTS: Ten of 54 parameters reached significant differences between the groups (Mann-Whitney test, P <.05). Neither CRF nor CH differed significantly between the groups. Among the ORA waveform measurements, the best parameters were those related to the area under the first peak, plarea, and p1area1 (AUROC, 0.714 +/- 0.064 and 0.721 +/- 0.065, respectively). Among the investigator ORA variables, a measure incorporating the pressure-deformation relationship of the entire response cycle performed best (hysteresis loop area, AUROC, 0.694 +/- 0.067).
+   CONCLUSION: Waveform-derived ORA parameters, including a custom measure incorporating the pressure deformation relationship of the entire response cycle, performed better than traditional CH and CRF parameters in differentiating forme fruste KC from normal corneas. (C) 2016 by Elsevier Inc. All rights reserved.
+C1 [Luz, Allan; Lopes, Bernardo; Schor, Paulo; Ambrosio, Renato, Jr.] Univ Fed Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Hallahan, Katie M.; Dupps, William J., Jr.] Cleveland Clin, Cole Eye Inst, Cleveland, OH 44106 USA.
+   [Hallahan, Katie M.; Dupps, William J., Jr.] Cleveland Clin, Biomed Engn, Lerner Res Inst, Cleveland, OH 44106 USA.
+   [Luz, Allan] Hosp Olhos de Sergipe, Aracaju, Brazil.
+   [Luz, Allan; Lopes, Bernardo; Valbon, Bruno; Ambrosio, Renato, Jr.] Rio de Janeiro Corneal Tomog & Biomech Study Grp, Rio De Janeiro, Brazil.
+   [Lopes, Bernardo; Valbon, Bruno; Fontes, Bruno; Ambrosio, Renato, Jr.] Inst Olhos Renato Ambrosio & Visare Personal Lase, Rio De Janeiro, Brazil.
+RP Lopes, B (corresponding author), Jorge Amado Ave 1500, BR-49025330 Aracaju, SE, Brazil.
+EM dr.allanluz@gmail.com
+RI Ambrosio, Renato/H-6504-2017; Schor, Paulo/C-6555-2012; Dupps,
+   William/AAF-3459-2020
+OI Ambrosio, Renato/0000-0001-6919-4606; Schor, Paulo/0000-0002-3999-4706;
+   Dupps, William/0000-0003-0761-8658
+FU NEI NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Eye Institute (NEI) [R01
+   EY023381] Funding Source: Medline
+CR Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Binder PS, 2008, J CATARACT REFR SURG, V34, P2010, DOI 10.1016/j.jcrs.2008.08.035
+   DELONG ER, 1988, BIOMETRICS, V44, P837, DOI 10.2307/2531595
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   Fontes BM, 2011, J REFRACT SURG, V27, P209, DOI 10.3928/1081597X-20100415-02
+   Fontes BM, 2010, OPHTHALMOLOGY, V117, P673, DOI 10.1016/j.ophtha.2009.09.023
+   Ford MR, 2011, J BIOMED OPT, V16, DOI 10.1117/1.3526701
+   Hallahan KM, 2014, OPHTHALMOLOGY, V121, P459, DOI 10.1016/j.ophtha.2013.09.013
+   Holland DR, 1997, OPHTHALMOLOGY, V104, P1409, DOI 10.1016/S0161-6420(97)30123-7
+   Huseynova T, 2014, AM J OPHTHALMOL, V157, P885, DOI 10.1016/j.ajo.2013.12.024
+   Jafri B, 2007, J REFRACT SURG, V23, P774, DOI 10.3928/1081-597X-20071001-06
+   Kerautret J, 2008, J CATARACT REFR SURG, V34, P510, DOI 10.1016/j.jcrs.2007.11.018
+   Klyce SD, 2005, J REFRACT SURG, V21, pS617
+   Klyce SD, 2000, J CATARACT REFR SURG, V26, P472, DOI 10.1016/S0886-3350(00)00384-9
+   Klyce SD, 2009, BRIT J OPHTHALMOL, V93, P845, DOI 10.1136/bjo.2008.147371
+   Kozobolis V, 2012, EUR J OPHTHALMOL, V22, P920, DOI 10.5301/ejo.5000184
+   Li XH, 2004, OPHTHALMOLOGY, V111, P440, DOI 10.1016/j.ophtha.2003.06.020
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Luz A, 2013, REV BRAS OFTALMOL, V72, P361, DOI 10.1590/S0034-72802013000600002
+   Mikielewicz M, 2011, BRIT J OPHTHALMOL, V95, P793, DOI 10.1136/bjo.2010.188300
+   Ortiz D, 2007, J CATARACT REFR SURG, V33, P1371, DOI 10.1016/j.jcrs.2007.04.021
+   RABINOWITZ YS, 1993, OPHTHALMOLOGY, V100, P181
+   Randleman JB, 2008, AM J OPHTHALMOL, V145, P813, DOI 10.1016/j.ajo.2007.12.033
+   Randleman JB, 2008, OPHTHALMOLOGY, V115, P37, DOI 10.1016/j.ophtha.2007.03.073
+   Saad A, 2012, INVEST OPHTH VIS SCI, V53, P2978, DOI 10.1167/iovs.11-8803
+   Saad A, 2010, INVEST OPHTH VIS SCI, V51, P2912, DOI 10.1167/iovs.09-4304
+   Scarcelli G, 2012, INVEST OPHTH VIS SCI, V53, P185, DOI 10.1167/iovs.11-8281
+   Schweitzer C, 2010, INVEST OPHTH VIS SCI, V51, P2403, DOI 10.1167/iovs.09-3689
+   Ventura BV, 2013, J REFRACT SURG, V29, P637, DOI 10.3928/1081597X-20130819-05
+NR 29
+TC 14
+Z9 14
+U1 0
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0002-9394
+EI 1879-1891
+J9 AM J OPHTHALMOL
+JI Am. J. Ophthalmol.
+PD APR
+PY 2016
+VL 164
+BP 14
+EP 21
+DI 10.1016/j.ajo.2015.12.020
+PG 8
+WC Ophthalmology
+SC Ophthalmology
+GA DI7CS
+UT WOS:000373657300004
+PM 26743618
+OA Green Accepted
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+AF Fontes, Bruno M.
+TI Zika virus-related hypertensive iridocyclitis
+SO ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+LA English
+DT Letter
+C1 [Fontes, Bruno M.] Ctr Microcirurgia & Diagnost, Rio De Janeiro, RJ, Brazil.
+   [Fontes, Bruno M.] Ave Ataulfo de Paiva 135-1418, BR-22440032 Rio De Janeiro, RJ, Brazil.
+RP Fontes, BM (corresponding author), Ave Ataulfo de Paiva 135-1418, BR-22440032 Rio De Janeiro, RJ, Brazil.
+EM fontesbrunom@gmail.com
+CR [Anonymous], 2015, WKLY EPIDEMIOL REC, V90, P609
+   Dyer O., BMJ             1223, V351, ph6983
+   Fauci AS, 2016, N ENGL J MED
+   Marcondes CB, 2015, REV SOC BRAS MED TRO
+   Triunfol M., 2015, LANCET INFECT DIS
+   Ventura CV, 2016, LANCET, V387, P228, DOI 10.1016/S0140-6736(16)00006-4
+NR 6
+TC 26
+Z9 27
+U1 0
+U2 20
+PU CONSEL BRASIL OFTALMOLOGIA
+PI SAO PAULO
+PA ALAMEDA SANTOS 1343, 11 ANDAR CJ 1110, CERQUEIRA CESAR, SAO PAULO, SP
+   00000, BRAZIL
+SN 0004-2749
+EI 1678-2925
+J9 ARQ BRAS OFTALMOL
+JI Arq. Bras. Oftalmol.
+PD JAN-FEB
+PY 2016
+VL 79
+IS 1
+BP 63
+EP 63
+DI 10.5935/0004-2749.20160020
+PG 1
+WC Ophthalmology
+SC Ophthalmology
+GA DD1BS
+UT WOS:000369656700020
+PM 26840174
+OA DOAJ Gold
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+AF Fontes, Bruno Machado
+TI Peer review
+SO ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+LA English
+DT Editorial Material
+ID JOURNALS
+C1 [Fontes, Bruno Machado] ABO Arquivos Brasileiros Oftalmol, Rio De Janeiro, RJ, Brazil.
+RP Fontes, BM (corresponding author), Av Ataulfo de Paiva 135 Cj 1418, BR-20780020 Rio De Janeiro, RJ, Brazil.
+EM fontesbrunom@gmail.com
+CR Gasparyan AY, 2013, J KOREAN MED SCI, V28, P970, DOI 10.3346/jkms.2013.28.7.970
+   Gasparyan AY, 2012, CROAT MED J, V53, P386, DOI 10.3325/cmj.2012.53.386
+   Hopewell S, 2014, BMJ-BRIT MED J, V349, DOI 10.1136/bmj.g4145
+   Jefferson T, 2002, JAMA-J AM MED ASSOC, V287, P2784, DOI 10.1001/jama.287.21.2784
+   Kadar N, 2014, AM J OBSTET GYNECOL, V211, P596, DOI 10.1016/j.ajog.2014.08.018
+   Kara-Junior Newton, 2014, Rev. bras.oftalmol., V73, P05, DOI 10.5935/0034-7280.20140001
+   Kotsis SV, 2014, PLAST RECONSTR SURG, V133, P958, DOI 10.1097/PRS.0000000000000002
+   Moylan EC, 2014, BMC PHARMACOL TOXICO, V15, DOI 10.1186/2050-6511-15-55
+   Stahel PF, 2014, BMC MED, V12, DOI 10.1186/s12916-014-0179-1
+   Szekely T, 2014, TRENDS ECOL EVOL, V29, P371, DOI 10.1016/j.tree.2014.05.001
+   Tite L, 2007, J EPIDEMIOL COMMUN H, V61, P9, DOI 10.1136/jech.2006.049817
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEL BRASIL OFTALMOLOGIA
+PI SAO PAULO
+PA ALAMEDA SANTOS 1343, 11 ANDAR CJ 1110, CERQUEIRA CESAR, SAO PAULO, SP
+   00000, BRAZIL
+SN 0004-2749
+EI 1678-2925
+J9 ARQ BRAS OFTALMOL
+JI Arq. Bras. Oftalmol.
+PD JAN-FEB
+PY 2015
+VL 78
+IS 1
+BP V
+EP VIII
+DI 10.5935/0004-2749.20150001
+PG 4
+WC Ophthalmology
+SC Ophthalmology
+GA CC4OO
+UT WOS:000350332900001
+PM 25714544
+OA DOAJ Gold
+DA 2020-11-11
+ER
+
+PT J
+AU Valbon, BF
+   Ambrosio, R
+   Fontes, BM
+   Luz, A
+   Roberts, CJ
+   Alves, MR
+AF Valbon, Bruno Freitas
+   Ambrosio, Renato, Jr.
+   Fontes, Bruno Machado
+   Luz, Allan
+   Roberts, Cynthia J.
+   Alves, Milton Ruiz
+TI Ocular Biomechanical Metrics by CorVis ST in Healthy Brazilian Patients
+SO JOURNAL OF REFRACTIVE SURGERY
+LA English
+DT Article
+ID INTRAOCULAR-PRESSURE MEASUREMENT; RESPONSE ANALYZER; NONCONTACT; CORNEA;
+   HYPERTENSION; TONOMETER; GLAUCOMA; EYES
+AB PURPOSE: To evaluate ocular biomechanical metrics given by the CorVis ST (Oculus, Inc., Berlin, Germany) in a population of healthy Brazilian patients.
+   METHODS: An observational and cross-sectional study involving 1 eye randomly selected from 90 healthy patients. Studied parameters (including deformation amplitude, first applanation time, highest concavity time, second applanation time, first applanation length, second applanation length, curvature radius highest concavity, curvature radius normal, velocity in, and velocity out) derived from the CorVis ST were correlated to central corneal thickness from the Pentacam (Oculus, Inc.). Differences between data on the basis of gender were evaluated.
+   RESULTS: Mean patient age was 35.80 +/- 12.83 years (range: 21.07 to 78.84 years). Mean central corneal thickness was 547.50 +/- 32.00 mu m (range: 490 to 647 m) and mean spherical equivalent refraction was -3.29 +/- 3.69 diopters (range: -9.50 to + 10.37 diopters). Mean deformation amplitude was 1.05 +/- 0.08 mm (range: 0.91 to 1.26 mm). Highest concavity time was 18.38 +/- 0.93 ms (range: 16.95 to 21.07 ms). Intraocular pressure was 16.43 +/- 2.15 mm Hg (range: 11.50 to 21.0 mm Hg). First applanation time was 8.32 +/- 0.33 ms (range: 7.53 to 9.12 ms) and second applanation time was 23.80 +/- 0.44 ms (range: 22.76 to 24.95 ms). First applanation length (max) was 2.07 +/- 0.38 mm (range: 1.20 to 3.10 mm) and second applanation length (max) was 2.37 +/- 0.47 mm (range: 1.33 to 4.12 mm). Curvature radius highest concavity was 11.09 +/- 2.06 mm (range: 7.58 to 15.98 mm) and curvature radius normal was 7.59 +/- 0.67 mm (range: 6.82 to 11.02 mm). Velocity in was 0.21 +/- 0.05 m/s (range: 0.16 to 0.72 m/s) and velocity out was -0.33 +/- 0.07 m/s (range: -0.72 to -0.20 m/s). Studied parameters were not associated with gender.
+   CONCLUSIONS: Eight of 11 ocular biomechanical metrics given by the CorVis ST were associated with central corneal thickness, but the influence of central corneal thickness on these measurements was low.
+C1 [Valbon, Bruno Freitas; Alves, Milton Ruiz] Univ Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Valbon, Bruno Freitas; Ambrosio, Renato, Jr.; Fontes, Bruno Machado; Luz, Allan] Rio De Janeiro Corneal Tomog & Biomech Study Grp, Rio De Janeiro, Brazil.
+   [Roberts, Cynthia J.] Ohio State Univ, Dept Ophthalmol, Columbus, OH 43210 USA.
+   [Roberts, Cynthia J.] Ohio State Univ, Dept Biomed Engn, Columbus, OH 43210 USA.
+RP Valbon, BF (corresponding author), Av Marechal M Moraes 2767-102, BR-29051650 Vitoria, Espirito Santo, Brazil.
+EM brunovalbon@usp.br
+RI Ambrosio, Renato/H-6504-2017; Pepose, Jay/M-5140-2019
+OI Ambrosio, Renato/0000-0001-6919-4606; 
+CR Ambrosio Jr R, 2011, S C AM SOC CAT REFR
+   Faria-Correia F, 2013, J REFRACT SURG, V29, P356, DOI 10.3928/1081597X-20130129-03
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   Gonzalez-Meijome JM, 2008, CORNEA, V27, P421, DOI 10.1097/ICO.0b013e318164e49d
+   HARTSTEIN J, 1970, ARCH OPHTHALMOL-CHIC, V84, P728, DOI 10.1001/archopht.1970.00990040730005
+   Hon Y, 2013, OPTOMETRY VISION SCI, V90, pE1, DOI 10.1097/OPX.0b013e318279eb87
+   Hong JX, 2013, INVEST OPHTH VIS SCI, V54, P659, DOI 10.1167/iovs.12-10984
+   Huseynova T, 2014, AM J OPHTHALMOL, V157, P885, DOI 10.1016/j.ajo.2013.12.024
+   KOBAYASHI AS, 1973, EXP MECH, V13, P497, DOI 10.1007/BF02322337
+   Kotecha A, 2007, SURV OPHTHALMOL, V52, pS109, DOI 10.1016/j.survophthal.2007.08.004
+   Liu J, 2005, J CATARACT REFR SURG, V31, P146, DOI 10.1016/j.jcrs.2004.09.031
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Medeiros FA, 2006, J GLAUCOMA, V15, P364, DOI 10.1097/01.ijg.0000212268.42606.97
+   Nemeth G, 2013, J REFRACT SURG, V29, P558, DOI 10.3928/1081597X-20130719-06
+   Reznicek L, 2013, BRIT J OPHTHALMOL, V97, P1410, DOI 10.1136/bjophthalmol-2013-303400
+   Roberts CJ, 2011, ASS RES VIS OPHTH AN
+   SCHLEGEL WA, 1972, INVEST OPHTH VISUAL, V11, P593
+   Shah S, 2008, CLIN EXP OPHTHALMOL, V36, P508, DOI 10.1111/j.1442-9071.2008.01828.x
+   Smedowski A, 2014, INVEST OPHTH VIS SCI, V55, P666, DOI 10.1167/iovs.13-13172
+   Tejwani S, 2012, C EUR SOC CAT REFR S
+NR 20
+TC 34
+Z9 37
+U1 0
+U2 8
+PU SLACK INC
+PI THOROFARE
+PA 6900 GROVE RD, THOROFARE, NJ 08086 USA
+SN 1081-597X
+EI 1938-2391
+J9 J REFRACT SURG
+JI J. Refractive Surg.
+PD JUL
+PY 2014
+VL 30
+IS 7
+BP 468
+EP 473
+DI 10.3928/1081597X-20140521-01
+PG 6
+WC Ophthalmology; Surgery
+SC Ophthalmology; Surgery
+GA AK9QY
+UT WOS:000338763000008
+PM 24877553
+DA 2020-11-11
+ER
+
+PT J
+AU Luz, A
+   Fontes, BM
+   Lopes, B
+   Ramos, I
+   Correia, FF
+   Schor, P
+   Ambrosio, R
+AF Luz, Allan
+   Fontes, Bruno Machado
+   Lopes, Bernardo
+   Ramos, Isaac
+   Correia, Fernando Faria
+   Schor, Paulo
+   Ambrosio, Renato, Jr.
+TI Best waveform score for diagnosing keratoconus
+SO REVISTA BRASILEIRA DE OFTALMOLOGIA
+LA English
+DT Article
+DE Cornea/physiopathology; Keratoconus/diagnosis; Biomechanics/physiology;
+   Dilatation, pathologic; Diagnostic techniques, ophthalmologic
+ID CORNEAL BIOMECHANICAL PROPERTIES; OCULAR RESPONSE ANALYZER; IN-SITU
+   KERATOMILEUSIS; UNILATERAL KERATOCONUS; EYES; THICKNESS; HYSTERESIS;
+   GLAUCOMA
+AB Purpose: To test whether corneal hysteresis (CH) and corneal resistance factor (CRF) can discriminate between keratoconus and normal eyes and to evaluate whether the averages of two consecutive measurements perform differently from the one with the best waveform score (WS) for diagnosing keratoconus. Methods: ORA measurements for one eye per individual were selected randomly from 53 normal patients and from 27 patients with keratoconus. Two groups were considered the average (CH-Avg, CRF-Avg) and best waveform score (CH-WS, CRF-WS) groups. The Mann-Whitney U-test was used to evaluate whether the variables had similar distributions in the Normal and Keratoconus groups. Receiver operating characteristics (ROC) curves were calculated for each parameter to assess the efficacy for diagnosing keratoconus and the same obtained for each variable were compared pairwise using the Hanley-McNeil test. Results: The CH-Avg, CRF-Avg, CH-WS and CRF-WS differed significantly between the normal and keratoconus groups (p<0.001). The areas under the ROC curve (AUROC) for CH-Avg, CRF-Avg, CH-WS, and CRF-WS were 0.824, 0.873, 0.891, and 0.931, respectively. CH-WS and CRF-WS had significantly better AUROCs than CH-Avg and CRF-Avg, respectively (p=0.001 and 0.002). Conclusion: The analysis of the biomechanical properties of the cornea through the ORA method has proved to be an important aid in the diagnosis of keratoconus, regardless of the method used. The best waveform score (WS) measurements were superior to the average of consecutive ORA measurements for diagnosing keratoconus.
+C1 [Luz, Allan; Fontes, Bruno Machado; Schor, Paulo; Ambrosio, Renato, Jr.] Univ Fed Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Luz, Allan] Hosp Olhos Sergipe, Aracaju, SE, Brazil.
+   [Luz, Allan; Fontes, Bruno Machado; Ramos, Isaac; Correia, Fernando Faria; Ambrosio, Renato, Jr.] Rio de Janeiro Corneal Tomog & Biomech Study Grp, Rio De Janeiro, RJ, Brazil.
+   [Ambrosio, Renato, Jr.] Inst Olhos Renato Ambrosio Visare Personal Laser, Rio De Janeiro, RJ, Brazil.
+RP Luz, A (corresponding author), 995 Sao Jose, BR-49020380 Aracaju, SE, Brazil.
+EM allanluz@uol.com.br
+RI Schor, Paulo/C-6555-2012; Ambrosio, Renato/H-6504-2017
+OI Schor, Paulo/0000-0002-3999-4706; Ambrosio, Renato/0000-0001-6919-4606;
+   Faria-Correia, Fernando/0000-0002-8824-7862
+CR Ambrosio Renato Jr, 2011, Int Ophthalmol Clin, V51, P11, DOI 10.1097/IIO.0b013e31820f1d2d
+   Ang GS, 2008, J GLAUCOMA, V17, P259, DOI 10.1097/IJG.0b013e31815c3a93
+   Chen D, 2009, OPHTHAL PHYSL OPT, V29, P464, DOI 10.1111/j.1475-1313.2008.00625.x
+   Chui WS, 2008, OPHTHALMOLOGY, V115, P80, DOI 10.1016/j.ophtha.2007.03.061
+   Congdon NG, 2006, AM J OPHTHALMOL, V141, P868, DOI 10.1016/j.ajo.2005.12.007
+   DELONG ER, 1988, BIOMETRICS, V44, P837, DOI 10.2307/2531595
+   Fontes BM, 2011, J REFRACT SURG, V27, P209, DOI 10.3928/1081597X-20100415-02
+   Fontes BM, 2010, J REFRACT SURG, V26, P677, DOI 10.3928/1081597X-20091105-04
+   Fontes BM, 2010, ARQ BRAS OFTALMOL, V73, P333, DOI 10.1590/S0004-27492010000400006
+   HANLEY JA, 1982, RADIOLOGY, V143, P29, DOI 10.1148/radiology.143.1.7063747
+   Kamiya K, 2009, CORNEA, V28, P765, DOI 10.1097/ICO.0b013e3181967082
+   Kerautret J, 2008, J CATARACT REFR SURG, V34, P510, DOI 10.1016/j.jcrs.2007.11.018
+   Lam A, 2007, OPTOMETRY VISION SCI, V84, P909, DOI 10.1097/OPX.0b013e3181559db2
+   Li XH, 2004, OPHTHALMOLOGY, V111, P440, DOI 10.1016/j.ophtha.2003.06.020
+   LUCE D, 2006, INVEST OPHTHALMOL VI, V47
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Mangouritsas G, 2009, ACTA OPHTHALMOL, V87, P901, DOI 10.1111/j.1755-3768.2008.01370.x
+   Ortiz D, 2007, J CATARACT REFR SURG, V33, P1371, DOI 10.1016/j.jcrs.2007.04.021
+   Rabinowitz YS, 1998, SURV OPHTHALMOL, V42, P297, DOI 10.1016/S0039-6257(97)00119-7
+   Reinstein DZ, 2011, J REFRACT SURG, V27, P396, DOI 10.3928/1081597X-20110519-01
+   Shah S, 2007, INVEST OPHTH VIS SCI, V48, P3026, DOI 10.1167/iovs.04-0694
+   Shah S, 2009, CONTACT LENS ANTERIO, V32, P129, DOI 10.1016/j.clae.2008.12.009
+   Tse J, 2010, OPTOM VIS SCI
+   Wells AP, 2008, INVEST OPHTH VIS SCI, V49, P3262, DOI 10.1167/iovs.07-1556
+   Zadnik K, 1998, INVEST OPHTH VIS SCI, V39, P2537
+NR 25
+TC 3
+Z9 3
+U1 0
+U2 1
+PU SOC BRASILEIRA OFTALMOLOGIA
+PI RIO DE JANEIRO
+PA RUA SAO SALVADOR 107, RIO DE JANEIRO, 22231-170, BRAZIL
+SN 0034-7280
+J9 REV BRAS OFTALMOL
+JI Rev. Bras. Oftalmol.
+PD NOV-DEC
+PY 2013
+VL 72
+IS 6
+BP 361
+EP 365
+DI 10.1590/S0034-72802013000600002
+PG 5
+WC Ophthalmology
+SC Ophthalmology
+GA AI2BF
+UT WOS:000336661100002
+OA DOAJ Gold, Green Published
+DA 2020-11-11
+ER
+
+PT J
+AU Ramos, IC
+   Correa, R
+   Guerra, FP
+   Trattler, W
+   Belin, MW
+   Klyce, SD
+   Fontes, BM
+   Schor, P
+   Smolek, MK
+   Dawson, DG
+   Chalita, MR
+   Cazal, JO
+   Ruiz, M
+   Randleman, JB
+   Ambrosio, R
+AF Ramos, Isaac C.
+   Correa, Rosane
+   Guerra, Frederico P.
+   Trattler, William
+   Belin, Michael W.
+   Klyce, Stephen D.
+   Fontes, Bruno M.
+   Schor, Paulo
+   Smolek, Michael K.
+   Dawson, Daniel G.
+   Chalita, Maria Regina
+   Cazal, Jorge O.
+   Ruiz, Milton
+   Randleman, J. Bradley
+   Ambrosio, Renato, Jr.
+TI Variability of Subjective Classifications of Corneal Topography Maps
+   From LASIK Candidates
+SO JOURNAL OF REFRACTIVE SURGERY
+LA English
+DT Article
+ID IN-SITU-KERATOMILEUSIS; OPTICAL COHERENCE TOMOGRAPHY; EPITHELIAL
+   THICKNESS; IATROGENIC KERATECTASIA; ECTASIA RISK; SCORE SYSTEM;
+   KERATOCONUS; ABERRATIONS; DIAGNOSIS; INDEXES
+AB PURPOSE: To evaluate the variability of subjective corneal topography map classification between different experienced examiners and the impact of changing from an absolute to a normative scale on the classifications.
+   METHODS: Preoperative axial curvature maps using Scheimpflug imaging obtained with the Pentacam HR (Oculus Optikgerate, Wetzlar, Germany) and clinical parameters were sent to 11 corneal topography specialists for subjective classification according to the Ectasia Risk Scoring System. The study population included two groups: 11 eyes that developed ectasia after LASIK and 14 eyes that had successful and stable LASIK outcomes. Each case was first reviewed using the absolute scale masked to the patient group. After 3 months, the same cases were represented using a normative scale and reviewed again by the same examiners for new classifications masked to the patient group.
+   RESULTS: Using the absolute scale, 17 of 25 (68%) cases had variations on the classifications from 0 to 4 for the same eye across examiners, and the overall agreement with the mode was 60%. Using the normative scale, the classifications from 11 of 25 (44%) cases varied from 0 to 4 for the same eye across examiners, and the overall agreement with the mode was 61%. Eight examiners (73%) reported statistically higher scores (P < .05) when using the normative scale. Considering all 550 topographic analyses (25 cases, 11 examiners, and two scales), the same classification from the two scales was reported for 121 case pairs (44%).
+   CONCLUSION: There was significant inter-observer variability in the subjective classifications using the same scale, and significant intra-observer variability between scales. Changing from an absolute to a normative scale increased the scores on the classifications by the same examiner, but significant inter-observer variability in the subjective interpretation of the maps still persisted.
+C1 [Ramos, Isaac C.; Correa, Rosane; Guerra, Frederico P.; Fontes, Bruno M.; Ambrosio, Renato, Jr.] Rio de Janeiro Corneal Tomog & Biomech Study Grp, Rio De Janeiro, Brazil.
+   [Ramos, Isaac C.; Correa, Rosane; Guerra, Frederico P.; Ambrosio, Renato, Jr.] Inst Olhos Renato Ambrosio, Rio De Janeiro, Brazil.
+   [Ramos, Isaac C.] Hosp Olhos Santa Luzia, Maceio, Brazil.
+   [Correa, Rosane; Trattler, William] Ctr Excellence Eye Care, Miami, FL USA.
+   [Belin, Michael W.] Univ Arizona, Southern Arizona VA Healthcare Syst, Tucson, AZ USA.
+   [Klyce, Stephen D.] Mt Sinai Sch Med, Dept Ophthalmol, New York, NY USA.
+   [Schor, Paulo; Ambrosio, Renato, Jr.] Univ Fed Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Smolek, Michael K.] CLEVER Eye Inst, Pearl River, LA USA.
+   [Dawson, Daniel G.] Univ Florida, Dept Ophthalmol, Gainesville, FL USA.
+   [Chalita, Maria Regina] Univ Brasilia, Dept Ophthalmol, Brasilia, DF, Brazil.
+   [Cazal, Jorge O.] Univ Autonoma Barcelona, E-08193 Barcelona, Spain.
+   [Ruiz, Milton] Univ Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Randleman, J. Bradley] Emory Univ, Dept Ophthalmol, Atlanta, GA 30322 USA.
+RP Ambrosio, R (corresponding author), Conde Bonfim 211-702, BR-20520050 Rio De Janeiro, RJ, Brazil.
+EM dr.renatoambrosio@gmail.com
+RI Schor, Paulo/C-6555-2012; RUIZ, MILTON ARTUR/R-5569-2019; Randleman, J
+   Bradley/AAY-3649-2020; Ambrosio, Renato/H-6504-2017
+OI Schor, Paulo/0000-0002-3999-4706; RUIZ, MILTON
+   ARTUR/0000-0003-2212-4883; Ambrosio, Renato/0000-0001-6919-4606;
+   Trattler, William/0000-0003-0887-3263
+CR Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Ambrosio R, 2013, J REFRACT SURG, V29, P230, DOI 10.3928/1081597X-20130318-01
+   Ambrosio R, 2011, J REFRACT SURG, V27, P753, DOI 10.3928/1081597X-20110721-01
+   Ambrosio Renato Jr, 2011, Int Ophthalmol Clin, V51, P11, DOI 10.1097/IIO.0b013e31820f1d2d
+   Ambrosio R, 2010, J REFRACT SURG, V26, P906, DOI 10.3928/1081597X-20100428-02
+   Ambrosio R, 2010, J REFRACT SURG, V26, P847, DOI 10.3928/1081597X-20101006-01
+   Amoils SP, 2000, J CATARACT REFR SURG, V26, P967, DOI 10.1016/S0886-3350(00)00434-X
+   Binder PS, 2010, J REFRACT SURG, V26, P241, DOI 10.3928/1081597X-20100212-02
+   Binder PS, 2005, J REFRACT SURG, V21, P749
+   Buhren J, 2010, INVEST OPHTH VIS SCI, V51, P3424, DOI 10.1167/iovs.09-4960
+   Chan CCK, 2010, CLIN EXP OPHTHALMOL, V38, P335, DOI 10.1111/j.1442-9071.2010.02251.x
+   Fontes BM, 2011, J REFRACT SURG, V27, P209, DOI 10.3928/1081597X-20100415-02
+   Haque S, 2006, J REFRACT SURG, V22, P486, DOI 10.3928/1081-597X-20060501-11
+   Jafri B, 2007, J REFRACT SURG, V23, P774, DOI 10.3928/1081-597X-20071001-06
+   Klein SR, 2006, CORNEA, V25, P388, DOI 10.1097/01.ico.0000222479.68242.77
+   Klyce Stephen D., 2002, International Ophthalmology Clinics, V42, P19
+   Li Y, 2012, OPHTHALMOLOGY, V119, P2425, DOI 10.1016/j.ophtha.2012.06.023
+   Li Y, 2008, OPHTHALMOLOGY, V115, P2159, DOI 10.1016/j.ophtha.2008.08.004
+   MAEDA N, 1995, INVEST OPHTH VIS SCI, V36, P1327
+   MAEDA N, 1994, INVEST OPHTH VIS SCI, V35, P2749
+   Oshika T, 1998, Semin Ophthalmol, V13, P64, DOI 10.3109/08820539809059820
+   Rabinowitz Y S, 1989, Refract Corneal Surg, V5, P400
+   RABINOWITZ YS, 1995, J REFRACT SURG, V11, P371
+   Randleman JB, 2008, AM J OPHTHALMOL, V145, P813, DOI 10.1016/j.ajo.2007.12.033
+   Randleman JB, 2008, OPHTHALMOLOGY, V115, P37, DOI 10.1016/j.ophtha.2007.03.073
+   Rao SN, 2002, J REFRACT SURG, V18, P177
+   Reinstein DZ, 2010, J REFRACT SURG, V26, P259, DOI 10.3928/1081597X-20100218-01
+   Reinstein DZ, 2009, J REFRACT SURG, V25, P604, DOI 10.3928/1081597X-20090610-06
+   Saad A, 2010, INVEST OPHTH VIS SCI, V51, P5546, DOI 10.1167/iovs.10-5369
+   Saad A, 2010, INVEST OPHTH VIS SCI, V51, P2912, DOI 10.1167/iovs.09-4304
+   Seiler T, 1998, J CATARACT REFR SURG, V24, P1007, DOI 10.1016/S0886-3350(98)80057-6
+   Smolek MK, 2002, OPHTHALMOLOGY, V109, P361, DOI 10.1016/S0161-6420(01)00888-0
+   Spadea L, 2012, CLIN OPHTHALMOL, V6, P1801, DOI 10.2147/OPTH.S37249
+   WILSON SE, 1993, OPHTHALMOLOGY, V100, P1723
+   WILSON SE, 1991, SURV OPHTHALMOL, V35, P269, DOI 10.1016/0039-6257(91)90047-J
+   Wilson SE, 2001, CORNEA, V20, P441, DOI 10.1097/00003226-200107000-00001
+NR 36
+TC 16
+Z9 16
+U1 0
+U2 1
+PU SLACK INC
+PI THOROFARE
+PA 6900 GROVE RD, THOROFARE, NJ 08086 USA
+SN 1081-597X
+EI 1938-2391
+J9 J REFRACT SURG
+JI J. Refractive Surg.
+PD NOV
+PY 2013
+VL 29
+IS 11
+BP 770
+EP +
+DI 10.3928/1081597X-20130823-01
+PG 7
+WC Ophthalmology; Surgery
+SC Ophthalmology; Surgery
+GA 282QF
+UT WOS:000329186600007
+PM 23980708
+DA 2020-11-11
+ER
+
+PT J
+AU Valbon, BF
+   Ambrosio, R
+   Fontes, BM
+   Alves, MR
+AF Valbon, Bruno Freitas
+   Ambrosio, Renato, Jr.
+   Fontes, Bruno Machado
+   Alves, Milton Ruiz
+TI Effects of age on corneal deformation by non-contact tonometry
+   integrated with an ultra-high-speed (UHS) Scheimpflug camera
+SO ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+LA English
+DT Article
+DE Tonometry, ocular; Cornea; Biomechanics; Age factors
+ID OCULAR RESPONSE ANALYZER; BIOMECHANICAL PROPERTIES;
+   INTRAOCULAR-PRESSURE; STROMA; HYSTERESIS; EYES
+AB Purpose: To correlate parameters derived from corneal deformation resulting from non-contact tonometry integrated with an ultra-high-speed (UHS) Scheimpflug camera (Oculus Corvis ST, Scheimpflug Technology; Wetzlar, Germany) with age in normal eyes from young patients.
+   Methods: Observational, retrospective study involving one eye randomly selected from study participants, totaling 89 healthy eyes. The Scheimpflug images were taken with an ultra-high-speed camera during each measurement by the corvis ST. The deformation amplitude (DA) and other parameters (e. g., pachy apex, intraocular pressure, 1(st) A time, highest concavity-time, 2(nd) A time, 1(st) A Length, 2(nd) A Length, Wing-Dist, curvature radius highest concavity, curvature radius normal, Vin, Vout) measured by the corvis ST were correlated with age. The KolmogorovSmirnov test was applied, and Spearman's correlation test was utilized to evaluate the parameters measured by the Corvis ST and age.
+   Results: Mean patient age was 27.50 +/- 6.30 years. The highest concavity-time was the only studied parameter statistically significantly correlated to age (i. e., p=0.04, rs=0.18). All other corvis parameters were not correlated to age. This included DA (p=0.319), intraocular pressure (p=0.854), pachy apex (p=0.066), 1st A time (p=0.959), 2nd A time (p=0.561), 1st Length (0.552), 2nd Length (p=0.697), Wing-Dist (p=0.769), curvature radius HC (p=0.145), curvature radius normal (p=0.513), Vin (p=0.980) and Vout (p=0.592).
+   Conclusions: In healthy eyes, age and pressure or biomechanics as derived from the Corvis ST parameters were not associated with exception to highest concavity-time, i.e., the time from starting until the highest concavity is reached.
+C1 [Valbon, Bruno Freitas; Alves, Milton Ruiz] Univ Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Valbon, Bruno Freitas; Ambrosio, Renato, Jr.; Fontes, Bruno Machado] Rio de Janeiro Corneal Tomog & Biomech Study Grp, Rio De Janeiro, Brazil.
+RP Valbon, BF (corresponding author), Av Marechal Mascarenhas de Moraes 2767-102, BR-29052121 Vitoria, ES, Brazil.
+EM brunovalbon@usp.br
+RI Ambrosio, Renato/H-6504-2017; Alves, Milton R/T-7621-2018
+OI Ambrosio, Renato/0000-0001-6919-4606; 
+CR Ambrosio R, 2013, REV BRAS OFTALMOL, V72, P99, DOI 10.1590/S0034-72802013000200005
+   Boote C, 2006, INVEST OPHTH VIS SCI, V47, P901, DOI 10.1167/iovs.05-0893
+   Boyce BL, 2008, BIOMATERIALS, V29, P3896, DOI 10.1016/j.biomaterials.2008.06.011
+   Brown KE, 2006, CURR OPIN OPHTHALMOL, V17, P338, DOI 10.1097/01.icu.0000233951.01971.5b
+   Daxer A, 1998, INVEST OPHTH VIS SCI, V39, P644
+   Dupps WJ, 2006, EXP EYE RES, V83, P709, DOI 10.1016/j.exer.2006.03.015
+   Elsheikh A, 2008, EXP EYE RES, V86, P445, DOI 10.1016/j.exer.2007.12.002
+   Elsheikh A, 2010, J R SOC INTERFACE, V7, P1475, DOI 10.1098/rsif.2010.0108
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   KANAI A, 1973, Annals of Ophthalmology, V5, P285
+   Kirwan C, 2006, AM J OPHTHALMOL, V142, P990, DOI 10.1016/j.ajo.2006.07.058
+   Kobayashi AS, 1973, EXP MECH, V12, P497
+   Kotecha A, 2006, INVEST OPHTH VIS SCI, V47, P5337, DOI 10.1167/iovs.06-0557
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   MALIK NS, 1992, BIOCHIM BIOPHYS ACTA, V1138, P222, DOI 10.1016/0925-4439(92)90041-K
+   MEEK KM, 1993, BIOPHYS J, V64, P273, DOI 10.1016/S0006-3495(93)81364-X
+   Roberts C, 2000, J REFRACT SURG, V16, P407
+   SHERRARD ES, 1987, EYE, V1, P197, DOI 10.1038/eye.1987.37
+   Touboul D, 2008, J CATARACT REFR SURG, V34, P616, DOI 10.1016/j.jcrs.2007.11.051
+NR 19
+TC 54
+Z9 56
+U1 0
+U2 2
+PU CONSEL BRASIL OFTALMOLOGIA
+PI SAO PAULO
+PA ALAMEDA SANTOS 1343, 11 ANDAR CJ 1110, CERQUEIRA CESAR, SAO PAULO, SP
+   00000, BRAZIL
+SN 0004-2749
+J9 ARQ BRAS OFTALMOL
+JI Arq. Bras. Oftalmol.
+PD JUL-AUG
+PY 2013
+VL 76
+IS 4
+BP 229
+EP 232
+PG 4
+WC Ophthalmology
+SC Ophthalmology
+GA 224UI
+UT WOS:000324914800008
+PM 24061834
+OA DOAJ Gold
+DA 2020-11-11
+ER
+
+PT J
+AU Luz, A
+   Fontes, BM
+   Lopes, B
+   Ramos, I
+   Schor, P
+   Ambrosio, R
+AF Luz, Allan
+   Fontes, Bruno Machado
+   Lopes, Bernardo
+   Ramos, Isaac
+   Schor, Paulo
+   Ambrosio, Renato, Jr.
+TI ORA waveform-derived biomechanical parameters to distinguish normal from
+   keratoconic eyes
+SO ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+LA English
+DT Article
+DE Cornea; Keratoconus; Corneal diseases; Refractive surgical procedures;
+   Software; Biomechanics
+ID OCULAR RESPONSE ANALYZER; IN-SITU KERATOMILEUSIS; COLLAGEN
+   CROSS-LINKING; CORNEA; CURVES
+AB Purpose: To evaluate the ability of the Ocular Response Analyzer (ORA; Reichert Ophthalmic Instruments, Buffalo, NY) to distinguish between normal and keratoconic eyes, by comparing pressure and waveform signal-derived parameters.
+   Methods: This retrospective comparative case series study included 112 patients with normal corneas and 41 patients with bilateral keratoconic eyes. One eye from each subject was randomly selected for analysis. Keratoconus diagnosis was based on clinical examinations, including Placido disk-based corneal topography and rotating Scheimpflug corneal tomography. Data from the ORA best waveform score (WS) measurements were extracted using ORA software. Corneal hysteresis (CH), corneal resistance factor (CRF), Goldman-correlated intraocular pressure (IOPg), cornea-compensated intraocular pressure (IOPcc), and 37 parameters derived from the waveform signal were analyzed. Differences in the distributions among the groups were assessed using the Mann-Whitney test. Receiver operating characteristic (ROC) curves were calculated.
+   Results: Statistically significant differences between keratoconic and normal eyes were found in all parameters (p<0.05) except IOPcc and W1. The area under the ROC curve (AUROC) was greater than 0.85 for 11 parameters, including CH (0.852) and CRF (0.895). The parameters related to the area under the waveform peak during the second and first applanations (p2area and p1area) had the best performances, with AUROCs of 0.939 and 0.929, respectively. The AUROCs for CRF, p2area, and p1area were significantly greater than that for CH.
+   Conclusion: There are significant differences in biomechanical metrics between normal and keratoconic eyes. Compared with the pressure-derived parameters, corneal hysteresis and corneal resistance factor, novel waveform-derived ORA parameters provide better identification of keratoconus.
+C1 [Luz, Allan; Fontes, Bruno Machado; Lopes, Bernardo; Ramos, Isaac; Schor, Paulo; Ambrosio, Renato, Jr.] Inst Olhos Renato Ambrosio, Rio De Janeiro, Brazil.
+RP Luz, A (corresponding author), Rua Campo do Brito 995, BR-49020380 Aracaju, SE, Brazil.
+EM allanluz@uol.com.br
+RI Ambrosio, Renato/H-6504-2017; Schor, Paulo/C-6555-2012
+OI Ambrosio, Renato/0000-0001-6919-4606; Schor, Paulo/0000-0002-3999-4706
+CR Ambrosio R, 2011, J REFRACT SURG, V27, P753, DOI 10.3928/1081597X-20110721-01
+   Ambrosio Renato Jr, 2011, Int Ophthalmol Clin, V51, P11, DOI 10.1097/IIO.0b013e31820f1d2d
+   Avetisov SE, 2010, J REFRACT SURG, V26, P520, DOI 10.3928/1081597X-20091030-01
+   DELONG ER, 1988, BIOMETRICS, V44, P837, DOI 10.2307/2531595
+   Fontes BM, 2011, J REFRACT SURG, V27, P209, DOI 10.3928/1081597X-20100415-02
+   Fontes BM, 2010, OPHTHALMOLOGY, V117, P673, DOI 10.1016/j.ophtha.2009.09.023
+   Fry KL, 2008, ASS RES VISION OPHTH
+   Goldich Y, 2009, CORNEA, V28, P498, DOI 10.1097/ICO.0b013e318190734d
+   Kerautret J, 2008, J CATARACT REFR SURG, V34, P510, DOI 10.1016/j.jcrs.2007.11.018
+   KRACHMER JH, 1984, SURV OPHTHALMOL, V28, P293, DOI 10.1016/0039-6257(84)90094-8
+   LUCE D, 2006, INVEST OPHTHALMOL VI, V47
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Mackiewicz Z, 2006, CORNEA, V25, P603, DOI 10.1097/01.ico.0000208820.32614.00
+   MCNEIL BJ, 1984, MED DECIS MAKING, V4, P137, DOI 10.1177/0272989X8400400203
+   Mikielewicz M, 2011, BRIT J OPHTHALMOL, V95, P793, DOI 10.1136/bjo.2010.188300
+   Ortiz D, 2007, J CATARACT REFR SURG, V33, P1371, DOI 10.1016/j.jcrs.2007.04.021
+   Pinero DP, 2010, INVEST OPHTH VIS SCI, V51, P1948, DOI 10.1167/iovs.09-4177
+   Qazi MA, 2009, J CATARACT REFR SURG, V35, P1774, DOI 10.1016/j.jcrs.2009.05.041
+   Rabinowitz YS, 1998, SURV OPHTHALMOL, V42, P297, DOI 10.1016/S0039-6257(97)00119-7
+   Reeves SW, 2009, CORNEA, V28, P40, DOI 10.1097/ICO.0b013e3181839b06
+   Reinstein DZ, 2011, J REFRACT SURG, V27, P396, DOI 10.3928/1081597X-20110519-01
+   Saad A, 2010, INVEST OPHTH VIS SCI, V51, P2912, DOI 10.1167/iovs.09-4304
+   SAWAGUCHI S, 1991, INVEST OPHTH VIS SCI, V32, P1846
+   Sedaghat M, 2010, J CATARACT REFR SURG, V36, P1728, DOI 10.1016/j.jcrs.2010.06.056
+   Shah S, 2007, INVEST OPHTH VIS SCI, V48, P3026, DOI 10.1167/iovs.04-0694
+   Shah S, 2009, CONTACT LENS ANTERIO, V32, P129, DOI 10.1016/j.clae.2008.12.009
+   Spoerl E, 2011, J REFRACT SURG, V27, P452, DOI 10.3928/1081597X-20110106-01
+   Vinciguerra P, 2010, J REFRACT SURG, V26, P669, DOI 10.3928/1081597X-20100331-01
+   Zadnik K, 1998, INVEST OPHTH VIS SCI, V39, P2537
+NR 29
+TC 11
+Z9 12
+U1 0
+U2 2
+PU CONSEL BRASIL OFTALMOLOGIA
+PI SAO PAULO
+PA ALAMEDA SANTOS 1343, 11 ANDAR CJ 1110, CERQUEIRA CESAR, SAO PAULO, SP
+   00000, BRAZIL
+SN 0004-2749
+J9 ARQ BRAS OFTALMOL
+JI Arq. Bras. Oftalmol.
+PD MAR-APR
+PY 2013
+VL 76
+IS 2
+BP 111
+EP 117
+DI 10.1590/S0004-27492013000200011
+PG 7
+WC Ophthalmology
+SC Ophthalmology
+GA 177TM
+UT WOS:000321398300011
+PM 23828472
+OA DOAJ Gold, Green Published
+DA 2020-11-11
+ER
+
+PT J
+AU Alonso, RS
+   Fontes, BM
+   Ventura, MP
+   Ambrosio, R
+AF Alonso, Ruiz Simonato
+   Fontes, Bruno Machado
+   Ventura, Marcelo Palis
+   Ambrosio, Renato, Jr.
+TI Repeatability of central corneal thickness measurement with the Pentacam
+   HR system
+SO REVISTA BRASILEIRA DE OFTALMOLOGIA
+LA English
+DT Article
+DE Cornea/anatomy & histology; Corneal topography; Biometry/methods;
+   Reproducibility of results; Diagnostic techniques,
+   ophthalmological/instrumentation
+ID ULTRASOUND PACHYMETRY; ORBSCAN
+AB Purpose: To assess the repeatability of central corneal thickness measurement at the geometrical center (Central Corneal Thickness - CCT) given by the Pentacam High Resolution (HR) Comprehensive Eye Scanner (Oculus, Wetzlar, Germany) over time. Methods: Prospective, single center, observational study. Two separate CCT measurements were taken by the Pentacam corneal tomography exam (CTm) 3 to 12 months apart, and compared. Results: One hundred and sixteen eyes (n=116) of 62 health patients were included in this study. Average CCT in first and last visits was 541.6 +/- 37 mu m and 543.6 +/- 36.9 mu m respectively. Mean difference between both measurements was 9.2 +/- 6.4 mu m, and there was no statistically significant difference in CCT measurement between visits, with good correlation between them (P = 0.057, r(2) = 0,9209). Conclusion: Pentacam (HR) CTm gives repeatable CCT measurements over time.
+C1 [Alonso, Ruiz Simonato; Ventura, Marcelo Palis] Hosp Santa Casa Misericordia Rio de Janeiro RJ, Rio De Janeiro, Brazil.
+   [Fontes, Bruno Machado] Univ Fed Sao Paulo UNIFESP, Dept Oftalmol, Sao Paulo, Brazil.
+   [Ambrosio, Renato, Jr.] Hosp Univ Antonio Pedro, Niteroi, RJ, Brazil.
+   Inst Olhos Renato Ambrosio, Rio De Janeiro, RJ, Brazil.
+   [Ambrosio, Renato, Jr.] Univ Fed Fluminense, Rio De Janeiro, RJ, Brazil.
+RP Alonso, RS (corresponding author), Ave Amer,489 Bloco B,Casa 5, BR-22631000 Rio De Janeiro, RJ, Brazil.
+EM ruizsa@hotmail.com
+CR Amano S, 2006, OPHTHALMOLOGY, V113, P937, DOI 10.1016/j.ophtha.2006.01.063
+   Barkana Y, 2005, J CATARACT REFR SURG, V31, P1729, DOI 10.1016/j.jcrs.2005.03.058
+   Brandt JD, 2001, OPHTHALMOLOGY, V108, P1779, DOI 10.1016/S0161-6420(01)00760-6
+   Buehl W, 2006, AM J OPHTHALMOL, V141, P7, DOI 10.1016/j.ajo.2005.08.048
+   Doughty MJ, 2000, SURV OPHTHALMOL, V44, P367, DOI 10.1016/S0039-6257(00)00110-7
+   Fam HB, 2005, OPTOMETRY VISION SCI, V82, P1047, DOI 10.1097/01.opx.0000192348.37026.09
+   Feltgen N, 2001, BRIT J OPHTHALMOL, V85, P85, DOI 10.1136/bjo.85.1.85
+   FERNANDEZ MJG, 2002, CLAO J, V28, P221
+   Gonzalez-Meijome JM, 2003, J CATARACT REFR SURG, V29, P125, DOI 10.1016/S0886-3350(02)01815-1
+   Javaloy J, 2004, J REFRACT SURG, V20, P29
+   Lackner B, 2005, OPTOMETRY VISION SCI, V82, P892, DOI 10.1097/01.opx.0000180817.46312.0a
+   Li Y, 2006, OPHTHALMOLOGY, V113, P792, DOI 10.1016/j.ophtha.2006.01.048
+   Marsich MM, 2000, CORNEA, V19, P792, DOI 10.1097/00003226-200011000-00007
+   Medeiros FA, 2003, AM J OPHTHALMOL, V136, P805, DOI 10.1016/S0002-9394(03)00484-7
+   O'Donnell C, 2005, CORNEA, V24, P920, DOI 10.1097/01.ico.0000157422.01146.e9
+   Shildkrot Y, 2005, J GLAUCOMA, V14, P331, DOI 10.1097/01.ijg.0000176929.83734.b4
+   Wickham L, 2005, OPHTHALMOLOGY, V112, P225, DOI 10.1016/j.ophtha.2004.08.020
+NR 17
+TC 3
+Z9 3
+U1 0
+U2 3
+PU SOC BRASILEIRA OFTALMOLOGIA
+PI RIO DE JANEIRO
+PA RUA SAO SALVADOR 107, RIO DE JANEIRO, 22231-170, BRAZIL
+SN 0034-7280
+J9 REV BRAS OFTALMOL
+JI Rev. Bras. Oftalmol.
+PD JAN-FEB
+PY 2012
+VL 71
+IS 1
+BP 14
+EP 17
+DI 10.1590/S0034-72802012000100003
+PG 4
+WC Ophthalmology
+SC Ophthalmology
+GA 909TL
+UT WOS:000301587800003
+OA DOAJ Gold, Green Published
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Fontes, BM
+   Castro, E
+AF Fontes, Beatriz Machado
+   Fontes, Bruno Machado
+   Castro, Elaine
+TI Intraocular lens power calculation by measuring axial length with
+   partial optical coherence and ultrasonic biometry
+SO ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+LA English
+DT Article
+DE Diagnostic techniques; ophthalmological; Preoperative care; Cataract
+   extraction; Lens implantation, intraocular; Refractive errors
+ID CLINICAL FEASIBILITY; CATARACT-SURGERY; INTERFEROMETRY; ACCURACY; MASTER
+AB Purpose: To compare the achieved refractive outcomes of patients undergoing cataract surgery with intraocular lens (IOL) power calculation performed by conventional immersion ultrasound (US) or partial coherence interferometry (PCI).
+   Methods: Prospective, comparative case series. Patients undergoing cataract surgery were randomly divided in two groups with regard to the IOL power calculation method. Group 1 had calculations performed by PCI (IOL Master; Carl Zeiss Meditec), while US was used in Group 2 (Ultrascan; Alcon), using the Holladay 1 formula. Differences between target and achieved refractions were then compared.
+   Results: The study comprised 120 eyes from 79 patients. Biometry with PCI was used in 50 eyes of 33 patients, and US was used in 70 eyes of 46 patients. Mean age of patients in the PCI Group was 69.8 +/- 13.1 years (range 11 - 85) and 70.0 +/- 9.3 (45 - 86) in the US Group (P=0.7165). Mean axial length measured by PCI was 23.22 +/- 1.00 mm (range 21.01 - 25.45) and that by US was 23.22 +/- 1.06 mm (20.05 - 25.78) (P=0.9110). Mean absolute error in the PCI group was 0.15 +/- 0.33 D (range -0.65 -0.9) and that in the US group was 0.26 +/- 0.48 D (-1.05 -1.76). All eyes in the PCI group and 94.3% of those in the US group were within 1.00 D of the planned refraction.
+   Conclusion: Although both PCI and US yielded good prediction in IOL power calculation, the PCI group tended to show better accuracy and improved refractive outcome.
+C1 [Fontes, Beatriz Machado; Fontes, Bruno Machado; Castro, Elaine] Ctr Microcirurgia & Diagnost, Rio De Janeiro, Brazil.
+RP Fontes, BM (corresponding author), Av Amer 2-300 B Casa 27, BR-22640101 Rio De Janeiro, Brazil.
+EM beatriz_fontes@yahoo.com.br
+CR Bhatt AB, 2008, ARCH OPHTHALMOL-CHIC, V126, P929, DOI 10.1001/archopht.126.7.929
+   Connors R, 2002, J CATARACT REFR SURG, V28, P235, DOI 10.1016/S0886-3350(01)01179-8
+   Gantenbein C, 2003, KLIN MONATSBL AUGENH, V220, P309, DOI 10.1055/s-2003-39430
+   Gantenbein CPA, 2004, J FR OPHTALMOL, V27, P1121, DOI 10.1016/S0181-5512(04)96280-8
+   Haigis W, 2000, GRAEF ARCH CLIN EXP, V238, P765, DOI 10.1007/s004170000188
+   Jin GJC, 2007, OPHTHALMOLOGY, V114, P417, DOI 10.1016/j.ophtha.2006.07.041
+   Kiss B, 2002, J CATARACT REFR SURG, V28, P224, DOI 10.1016/S0886-3350(01)01272-X
+   Kiss B, 2002, J CATARACT REFR SURG, V28, P230, DOI 10.1016/S0886-3350(01)01274-3
+   Kora Y, 2001, J CATARACT REFR SURG, V27, P543, DOI 10.1016/S0886-3350(00)00790-2
+   Kutschan A, 2004, KLIN MONATSBL AUGENH, V221, P743, DOI 10.1055/s-2004-813385
+   Landers J, 2009, CLIN EXP OPHTHALMOL, V37, P566, DOI 10.1111/j.1442-9071.2009.02091.x
+   Mamalis N, 2003, J CATARACT REFR SURG, V29, P1, DOI 10.1016/S0886-3350(02)02011-4
+   Narvaez J, 2006, J CATARACT REFR SURG, V32, P2050, DOI 10.1016/j.jcrs.2006.09.009
+   Olsen T, 2005, J CATARACT REFR SURG, V31, P1345, DOI 10.1016/j.jcrs.2004.12.066
+   Olsen T, 2007, ACTA OPHTHALMOL SCAN, V85, P84, DOI 10.1111/j.1600-0420.2006.00774.x
+   Olsen T, 2007, ACTA OPHTHALMOL SCAN, V85, P472, DOI 10.1111/j.1600-0420.2007.00879.x
+   Packer M, 2002, J CATARACT REFR SURG, V28, P239, DOI 10.1016/S0886-3350(01)01259-7
+   Prager Thomas C, 2006, Ophthalmol Clin North Am, V19, P435
+   Rajan MS, 2002, EYE, V16, P552, DOI 10.1038/sj.eye.6700157
+   Remsch H, 2004, KLIN MONATSBL AUGENH, V221, P837, DOI 10.1055/s-2004-813658
+   Siahmed K, 2001, J FR OPHTALMOL, V24, P922
+   Verhulst E, 2001, Bull Soc Belge Ophtalmol, P61
+NR 22
+TC 15
+Z9 19
+U1 0
+U2 0
+PU CONSEL BRASIL OFTALMOLOGIA
+PI SAO PAULO
+PA ALAMEDA SANTOS 1343, 11 ANDAR CJ 1110, CERQUEIRA CESAR, SAO PAULO, SP
+   00000, BRAZIL
+SN 0004-2749
+EI 1678-2925
+J9 ARQ BRAS OFTALMOL
+JI Arq. Bras. Oftalmol.
+PD MAY-JUN
+PY 2011
+VL 74
+IS 3
+BP 166
+EP 170
+DI 10.1590/S0004-27492011000300004
+PG 5
+WC Ophthalmology
+SC Ophthalmology
+GA 819JX
+UT WOS:000294822300004
+PM 21915441
+OA DOAJ Gold, Green Published
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Ambrosio, R
+   Velarde, GC
+   Nose, W
+AF Fontes, Bruno M.
+   Ambrosio, Renato, Jr.
+   Velarde, Guillermo Coca
+   Nose, Walton
+TI Ocular Response Analyzer Measurements in Keratoconus With Normal Central
+   Corneal Thickness Compared With Matched Normal Control Eyes
+SO JOURNAL OF REFRACTIVE SURGERY
+LA English
+DT Article
+ID IN-SITU KERATOMILEUSIS; BIOMECHANICAL PROPERTIES; INTRAOCULAR-PRESSURE;
+   ULTRASOUND PACHYMETRY; UNILATERAL KERATOCONUS; CROSS-LINKING;
+   HYSTERESIS; TOPOGRAPHY; REPEATABILITY; PARAMETERS
+AB PURPOSE: To compare corneal hysteresis (CH) and corneal resistance factor (CRF) in eyes with keratoconus with a central corneal thickness (CCT) >= 520 mu m with CH and CRF in matched controls, and to estimate the sensitivity and specifi city of these parameters for discriminating between the two groups.
+   METHODS: This prospective, comparative case series comprised 19 eyes of 19 patients with keratoconus with CCT >= 520 mu m and 19 eyes of 19 healthy sex-, age-, and CCT-matched patients who underwent a complete clinical eye examination, corneal topography, tomography, and biomechanical evaluation. The receiver operating characteristic (ROC) curve was used to identify cutoff points that maximized the sensitivity and specifi city for discriminating between groups.
+   RESULTS: Central corneal thickness was 543.1 +/- 13.9 mu m (range: 520 +/- 568 mu m) in the keratoconus group and 545 +/- 12.5 mu m (range: 527 to 575 mu m) in the control group (P=.6017). Corneal hysteresis was 9.22 +/- 1.44 mmHg (range: 6.2 to 11.35 mmHg) in the keratoconus group and 10.58 +/- 1.91 mmHg (range: 7.34 to 13.53 mmHg) in the control group (P=.0075). Corneal resistance factor was 8.62 +/- 1.52 mmHg (range: 5.60 to 11.20 mmHg) in the keratoconus group and 10.30 +/- 1.92 mmHg (range: 6.95 to 14.12 mmHg) in the control group (P=.0049). The ROC curve analyses showed a poor overall predictive accuracy of CH (cutoff, 9.90 mmHg; sensitivity, 78.9%; specifi city, 63.2%; test accuracy, 71.05%) and CRF (cutoff, 8.90 mmHg; sensitivity, 68.4%; specifi city, 78.9%; test accuracy, 73.65%) for detecting keratoconus in the eyes studied.
+   CONCLUSIONS: Corneal hysteresis and CRF were statistically lower in the keratoconus group compared with the control group. Given the large overlap, both CH and CRF had low sensitivity and specifi city for discriminating between groups. [J Refract Surg. 2011; 27(3): 209-215.] doi:10.3928/1081597X-20100415-02
+C1 [Fontes, Bruno M.; Nose, Walton] Univ Fed Sao Paulo, Dept Ophthalmol, Rio De Janeiro, Brazil.
+   [Fontes, Bruno M.] Ctr Microcirurg Diagnost, Rio De Janeiro, Brazil.
+   [Fontes, Bruno M.; Ambrosio, Renato, Jr.] REFRACTA RIO, Rio De Janeiro, Brazil.
+   [Ambrosio, Renato, Jr.] Renato Ambrosio Eye Inst, Rio De Janeiro, Brazil.
+   [Velarde, Guillermo Coca] Univ Fed Fluminense, Rio De Janeiro, Brazil.
+RP Fontes, BM (corresponding author), Av Acacias 150,Bl 2,Apto 1001, BR-22776000 Rio De Janeiro, Brazil.
+EM brunomfontes@terra.com.br
+RI Nose, Walton/I-1431-2017; Ambrosio, Renato/H-6504-2017
+OI Nose, Walton/0000-0003-4510-1289; Ambrosio, Renato/0000-0001-6919-4606
+CR Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Belin MW, 2009, CLIN EXP OPHTHALMOL, V37, P14, DOI 10.1111/j.1442-9071.2008.01821.x
+   Boote C, 2006, INVEST OPHTH VIS SCI, V47, P901, DOI 10.1167/iovs.05-0893
+   Carbonaro F, 2008, OPHTHALMOLOGY, V115, P1545, DOI 10.1016/j.ophtha.2008.02.011
+   Congdon NG, 2006, AM J OPHTHALMOL, V141, P868, DOI 10.1016/j.ajo.2005.12.007
+   Dawson DG, 2008, OPHTHALMOLOGY, V115, P2181, DOI 10.1016/j.ophtha.2008.06.008
+   De Sanctis U, 2007, AM J OPHTHALMOL, V144, P712, DOI 10.1016/j.ajo.2007.07.021
+   del Buey MA, 2009, INVEST OPHTH VIS SCI, V50, P3199, DOI 10.1167/iovs.08-3312
+   Doughty MJ, 2000, SURV OPHTHALMOL, V44, P367, DOI 10.1016/S0039-6257(00)00110-7
+   Dupps WJ, 2007, J CATARACT REFR SURG, V33, P1499, DOI 10.1016/j.jcrs.2007.07.008
+   Ehlers N, 2004, EXP EYE RES, V78, P543, DOI 10.1016/j.exer.2003.09.017
+   Emre S, 2007, J CATARACT REFR SURG, V33, P1708, DOI 10.1016/j.jcrs.2007.06.020
+   Ertan A, 2008, CORNEA, V27, P1109, DOI 10.1097/ICO.0b013e31817f815a
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   Fontes BM, 2010, J REFRACT SURG, V26, P677, DOI 10.3928/1081597X-20091105-04
+   Goldich Y, 2009, CORNEA, V28, P498, DOI 10.1097/ICO.0b013e318190734d
+   Goldich Y, 2009, J CATARACT REFR SURG, V35, P715, DOI 10.1016/j.jcrs.2008.12.013
+   Gonzalez-Meijome JM, 2008, OPTOMETRY VISION SCI, V85, P457, DOI 10.1097/OPX.0b013e3181783a5f
+   Hager A, 2007, AM J OPHTHALMOL, V144, P341, DOI 10.1016/j.ajo.2007.05.023
+   Hardten DR, 2009, J CATARACT REFR SURG, V35, P1437, DOI 10.1016/j.jcrs.2009.05.006
+   Kamiya K, 2008, GRAEF ARCH CLIN EXP, V246, P1491, DOI 10.1007/s00417-008-0864-x
+   Kawamorita T, 2009, J CATARACT REFR SURG, V35, P127, DOI 10.1016/j.jcrs.2008.10.019
+   Khachikian SS, 2008, J REFRACT SURG, V24, P606, DOI 10.3928/1081597X-20080601-09
+   Khachikian SS, 2009, OPHTHALMOLOGY, V116, P816, DOI 10.1016/j.ophtha.2009.01.009
+   Kida T, 2008, AM J OPHTHALMOL, V146, P567, DOI 10.1016/j.ajo.2008.05.026
+   Kirwan C, 2008, ACTA OPHTHALMOL, V86, P215, DOI 10.1111/j.1600-0420.2007.01023.x
+   Kirwan C, 2006, AM J OPHTHALMOL, V142, P990, DOI 10.1016/j.ajo.2006.07.058
+   Kotecha A, 2007, SURV OPHTHALMOL, V52, pS109, DOI 10.1016/j.survophthal.2007.08.004
+   Kotecha A, 2006, INVEST OPHTH VIS SCI, V47, P5337, DOI 10.1167/iovs.06-0557
+   Lema I, 2009, BRIT J OPHTHALMOL, V93, P820, DOI 10.1136/bjo.2008.144253
+   Lema I, 2009, EYE CONTACT LENS, V35, P65, DOI 10.1097/ICL.0b013e318198be6e
+   LUCE D, 2006, INVEST OPHTHALMOL VI, V47
+   LUCE D, 2009, AM SOC CAT REFR SURG
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Luz Allan, 2006, Arq. Bras. Oftalmol., V69, P579, DOI 10.1590/S0004-27492006000400023
+   Maeda N, 2009, CLIN EXP OPHTHALMOL, V37, P118, DOI 10.1111/j.1442-9071.2009.02005.x
+   McGhee CNJ, 2009, CLIN EXP OPHTHALMOL, V37, P160, DOI 10.1111/j.1442-9071.2009.02009.x
+   McMahon TT, 2006, CORNEA, V25, P794, DOI 10.1097/01.ico.0000226359.26678.d1
+   Miranda MA, 2009, OPTOMETRY VISION SCI, V86, P266, DOI 10.1097/OPX.0b013e318196a737
+   Mollan SP, 2008, BRIT J OPHTHALMOL, V92, P1661, DOI 10.1136/bjo.2007.136473
+   Moreno-Montanes J, 2008, INVEST OPHTH VIS SCI, V49, P968, DOI 10.1167/iovs.07-0280
+   Nichols JJ, 2004, BRIT J OPHTHALMOL, V88, P788, DOI 10.1136/bjo.2003.034520
+   Ortiz D, 2007, J CATARACT REFR SURG, V33, P1371, DOI 10.1016/j.jcrs.2007.04.021
+   Pepose JS, 2007, AM J OPHTHALMOL, V143, P39, DOI 10.1016/j.ajo.2006.09.036
+   Ponce CMP, 2009, J CATARACT REFR SURG, V35, P1055, DOI 10.1016/j.jcrs.2009.01.022
+   Rabinowitz YS, 2006, CURR OPIN OPHTHALMOL, V17, P421, DOI 10.1097/01.icu.0000243015.51886.3a
+   Rabinowitz YS, 1998, SURV OPHTHALMOL, V42, P297, DOI 10.1016/S0039-6257(97)00119-7
+   Reeves SW, 2009, CORNEA, V28, P40, DOI 10.1097/ICO.0b013e3181839b06
+   Roberts C, 2000, J REFRACT SURG, V16, P407
+   Schweitzer C, 2010, INVEST OPHTH VIS SCI, V51, P2403, DOI 10.1167/iovs.09-3689
+   Shah Sunil, 2006, Cont Lens Anterior Eye, V29, P257, DOI 10.1016/j.clae.2006.09.006
+   Shah S, 2007, INVEST OPHTH VIS SCI, V48, P3026, DOI 10.1167/iovs.04-0694
+   Shah S, 2009, CONTACT LENS ANTERIO, V32, P129, DOI 10.1016/j.clae.2008.12.009
+   Shah S, 2009, CONTACT LENS ANTERIO, V32, P123, DOI 10.1016/j.clae.2009.02.005
+   Shen MX, 2008, VISION RES, V48, P2167, DOI 10.1016/j.visres.2008.06.020
+   Shen MX, 2008, OPTOMETRY VISION SCI, V85, P1185, DOI 10.1097/OPX.0b013e31818e8abe
+   Shirayama-Suzuki M, 2009, BRIT J OPHTHALMOL, V93, P815, DOI 10.1136/bjo.2008.140012
+   Song Y, 2008, AM J OPHTHALMOL, V145, P819, DOI 10.1016/j.ajo.2007.12.034
+   Steele TM, 2008, CLIN EXP OPHTHALMOL, V36, P824, DOI 10.1111/j.1442-9071.2009.01908.x
+   Sullivan-Mee M, 2008, OPTOMETRY VISION SCI, V85, P463, DOI 10.1097/OPX.0b013e3181784673
+   Sun L, 2009, AM J OPHTHALMOL, V147, P1061, DOI 10.1016/j.ajo.2009.01.008
+   Ucakhan OO, 2006, J CATARACT REFR SURG, V32, P970, DOI 10.1016/j.jcrs.2006.02.037
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P369, DOI 10.1016/j.ophtha.2008.09.048
+   WANG M, 2006, CORNEAL TOPOGRAPHY W, pR16
+   Wollensak G, 2006, CURR OPIN OPHTHALMOL, V17, P356, DOI 10.1097/01.icu.0000233954.86723.25
+   Zadnik K, 2002, CORNEA, V21, P671, DOI 10.1097/00003226-200210000-00008
+NR 66
+TC 55
+Z9 62
+U1 0
+U2 4
+PU SLACK INC
+PI THOROFARE
+PA 6900 GROVE RD, THOROFARE, NJ 08086 USA
+SN 1081-597X
+J9 J REFRACT SURG
+JI J. Refractive Surg.
+PD MAR
+PY 2011
+VL 27
+IS 3
+BP 209
+EP 215
+DI 10.3928/1081597X-20100415-02
+PG 7
+WC Ophthalmology; Surgery
+SC Ophthalmology; Surgery
+GA 742UD
+UT WOS:000288969600010
+PM 20481414
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Ambrosio, R
+   Velarde, GC
+   Nose, W
+AF Fontes, Bruno Machado
+   Ambrosio, Renato, Jr.
+   Velarde, Guillermo Coca
+   Nose, Walton
+TI Corneal biomechanical evaluation in healthy thin corneas compared with
+   matched keratoconus cases
+SO ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+LA English
+DT Article
+DE Cornea/physiology; Keratoconus; Corneal diseases;
+   Biomechanics/physiology; Diagnostic techniques, ophthalmological
+ID INTRAOCULAR-PRESSURE; THICKNESS; EYES; METRICS
+AB Purpose: To evaluate and compare corneal hysteresis (CH) and corneal resistance factor (CRF) in healthy eyes with a central corneal thickness (CCT) <= 505 mu m with CH and CRF in gender-, age-, and CCT-matched keratoconus cases, and to estimate the sensitivity and specificity of these parameters for discriminating between the two groups.
+   Methods: Prospective, comparative case series. In total 46 eyes from 30 healthy patients with CCT <= 505 mu m, and 42 eyes from 30 CCT-, gender- and age-matched keratoconus cases were enrolled. Biomechanical metrics (CH and CRF) were measured using the Ocular Response Analyzer (ORA) and then compared. A receiver operating characteristic (ROC) curve was used to identify cut-off points to maximize the sensitivity and specificity for discriminating between the groups.
+   Results: The CCT was 485.96 +/- 17.61 mu m (range, 438 - 505) in healthy thin corneas and 483.64 +/- 16.19 mu m (range, 452 - 505) in keratoconus; p = 0.5225. CH was 8.63 +/- 1.23 mmHg (range, 5.95 - 12.2) and 8.07 +/- 1.17 mmHg (range, 4.9 - 9.85), respectively; p = 0.0312. CRF was 8.43 +/- 1.29 mmHg (range, 5.45 - 11.10) and 7.22 +/- 1.34 mmHg (range, 4.7 - 9.45), respectively; p < 0.001. ROC curve analysis showed a poor overall predictive accuracy of CH (cut-off, 8.95 mmHg; sensitivity, 63%; specificity, 23.8%; test accuracy, 44.30%) and CRF (cut-off, 7.4 mmHg; sensitivity, 28.3%; specificity, 40.5%; test accuracy, 34.12%) for detecting keratoconus in the eyes studied.
+   Conclusion: CH and CRF were statistically lower in keratoconus than in healthy thin corneas. However, CH and CRF offered very low sensitivity and specificity for discriminating the groups.
+C1 Renato Ambrosio Eye Inst, Rio De Janeiro, Brazil.
+   Univ Fed Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+RP Fontes, BM (corresponding author), Av Acacias 150,Bl 2,Apto 1-001, BR-22776000 Rio De Janeiro, Brazil.
+EM brunomfontes@terra.com.br
+RI Ambrosio, Renato/H-6504-2017; Nose, Walton/I-1431-2017
+OI Ambrosio, Renato/0000-0001-6919-4606; Nose, Walton/0000-0003-4510-1289
+CR Aghaian E, 2004, OPHTHALMOLOGY, V111, P2211, DOI 10.1016/j.ophtha.2004.06.013
+   Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Boote C, 2006, INVEST OPHTH VIS SCI, V47, P901, DOI 10.1167/iovs.05-0893
+   Condon PI, 2006, J CATARACT REFR SURG, V32, P2124, DOI 10.1016/j.jcrs.2006.07.036
+   De Benito-Llopis L, 2009, AM J OPHTHALMOL, V147, P768, DOI 10.1016/j.ajo.2008.12.022
+   Doughty MJ, 2000, SURV OPHTHALMOL, V44, P367, DOI 10.1016/S0039-6257(00)00110-7
+   Ehlers N, 2004, EXP EYE RES, V78, P543, DOI 10.1016/j.exer.2003.09.017
+   FONTES BM, 2010, J REFRACT SURG, V19, P1
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   Fontes BM, 2010, J REFRACT SURG, V26, P677, DOI 10.3928/1081597X-20091105-04
+   Fontes BM, 2010, OPHTHALMOLOGY, V117, P673, DOI 10.1016/j.ophtha.2009.09.023
+   Grewal DS, 2009, J CATARACT REFR SURG, V35, P425, DOI 10.1016/j.jcrs.2008.11.046
+   Kamiya K, 2008, GRAEF ARCH CLIN EXP, V246, P1491, DOI 10.1007/s00417-008-0864-x
+   Kawamorita T, 2009, J CATARACT REFR SURG, V35, P127, DOI 10.1016/j.jcrs.2008.10.019
+   Khachikian SS, 2008, J REFRACT SURG, V24, P606, DOI 10.3928/1081597X-20080601-09
+   Konstantopoulos A, 2007, BRIT J OPHTHALMOL, V91, P551, DOI 10.1136/bjo.2006.103408
+   Krueger RR, 2009, J REFRACT SURG, V25, P837, DOI 10.3928/1081597X-20090917-04
+   Kymionis GD, 2007, AM J OPHTHALMOL, V144, P181, DOI 10.1016/j.ajo.2007.04.010
+   Kymionis GD, 2007, AM J OPHTHALMOL, V143, P236, DOI 10.1016/j.ajo.2006.10.041
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   McMahon TT, 2006, CORNEA, V25, P794, DOI 10.1097/01.ico.0000226359.26678.d1
+   Pinero DP, 2009, CLIN EXP OPTOM, V92, P297, DOI 10.1111/j.1444-0938.2009.00357.x
+   Qazi MA, 2009, J CATARACT REFR SURG, V35, P1774, DOI 10.1016/j.jcrs.2009.05.041
+   Rabinowitz YS, 1998, SURV OPHTHALMOL, V42, P297, DOI 10.1016/S0039-6257(97)00119-7
+   Reeves SW, 2009, CORNEA, V28, P40, DOI 10.1097/ICO.0b013e3181839b06
+   Roberts C, 2000, J REFRACT SURG, V16, P407
+   Roberts C, 2005, J CATARACT REFR SURG, V31, P2, DOI 10.1016/j.jcrs.2004.11.032
+   Roberts C, 2001, J REFRACT SURG, V17, P77
+   Tabbara KF, 2006, OPHTHALMOLOGY, V113, P1618, DOI 10.1016/j.ophtha.2006.03.045
+   Torres RJ, 2008, AM J OPHTHALMOL, V146, P747, DOI 10.1016/j.ajo.2008.05.047
+   Ucakhan OO, 2006, J CATARACT REFR SURG, V32, P970, DOI 10.1016/j.jcrs.2006.02.037
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P2036
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P2037, DOI 10.1016/j.ophtha.2009.08.027
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P369, DOI 10.1016/j.ophtha.2008.09.048
+NR 34
+TC 22
+Z9 24
+U1 0
+U2 2
+PU CONSEL BRASIL OFTALMOLOGIA
+PI SAO PAULO
+PA ALAMEDA SANTOS 1343, 11 ANDAR CJ 1110, CERQUEIRA CESAR, SAO PAULO, SP
+   00000, BRAZIL
+SN 0004-2749
+EI 1678-2925
+J9 ARQ BRAS OFTALMOL
+JI Arq. Bras. Oftalmol.
+PD JAN-FEB
+PY 2011
+VL 74
+IS 1
+BP 13
+EP 16
+DI 10.1590/S0004-27492011000100003
+PG 4
+WC Ophthalmology
+SC Ophthalmology
+GA 777JV
+UT WOS:000291612700003
+PM 21670900
+OA DOAJ Gold, Green Published
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Ambrosio, R
+   Salomao, M
+   Velarde, GC
+   Nose, W
+AF Fontes, Bruno M.
+   Ambrosio, Renato, Jr.
+   Salomao, Marcella
+   Velarde, Guillermo C.
+   Nose, Walton
+TI Biomechanical and Tomographic Analysis of Unilateral Keratoconus
+SO JOURNAL OF REFRACTIVE SURGERY
+LA English
+DT Article
+ID OCULAR RESPONSE ANALYZER; IN-SITU KERATOMILEUSIS; CORNEA; HYSTERESIS;
+   TOPOGRAPHY; ASYMMETRY; SEVERITY; ECTASIA; EYES
+AB PURPOSE: To evaluate and compare tomographic, clinical, and biomechanical data of patients with unilateral keratoconus and healthy controls.
+   METHODS: Observational, case-control study. Complete clinical eye examination was followed by topographic (ATLAS), tomographic (Pentacam), and biomechanical (Ocular Response Analyzer) evaluation. Cases were sex-and age-matched with healthy individuals for controls.
+   RESULTS: Four patients had unilateral keratoconus, and eight healthy patients served as controls. Central corneal thickness was 508 +/- 16 mu m in the keratoconus group, 531 +/- 12.7 mu m in the fellow eye group, and 528.6 +/- 40.7 mu m in the control group (P > .125, all comparisons). Central keratometry was 43.70 +/- 2.70 diopters (D) in the keratoconus group, 42.84 +/- 1.43 D in the fellow eye group, and 43.81 +/- 1.94 D in the control group (P > .45, all comparisons). Corneal astigmatism was 3.30 +/- 2.24 D in the keratoconus group, 1.38 +/- 1.49 D in the fellow eye group, and 1.34 +/- 1.13 D in the control group (P =. 037 between the keratoconus and control groups; P =. 25 between the keratoconus and fellow eye groups). Corneal hysteresis was 8.13 +/- 2 mmHg in the keratoconus group, 8.96 +/- 0.86 mmHg in the fellow eye group, and 9.89 +/- 1.33 mmHg in the control group (P > .064, all comparisons). Corneal resistance factor was 7.96 +/- 2.43 mmHg in the keratoconus group, 8.92 +/- 1.39 mmHg in the fellow eye group, and 9.90 +/- 2.24 mmHg in the control group (P > .33, all comparisons).
+   CONCLUSIONS: Corneal hysteresis and corneal resistance factor values were not statistically different among the groups; however, a trend for lower values was found for keratoconus and fellow eyes compared to controls. Data should be interpreted with caution because of the small sample. [J Refract Surg. 2010; 26(9): 677-681.] doi:10.3928/1081597X-20091105-04
+C1 [Fontes, Bruno M.; Nose, Walton] Univ Fed Sao Paulo, Dept Ophthalmol, Rio De Janeiro, Brazil.
+   [Fontes, Bruno M.; Ambrosio, Renato, Jr.] REFRACTA RIO, Rio De Janeiro, Brazil.
+   [Ambrosio, Renato, Jr.; Salomao, Marcella] Renato Ambrosio Eye Inst, Rio De Janeiro, Brazil.
+   [Salomao, Marcella] Benjamin Constant Inst, Rio De Janeiro, Brazil.
+   [Velarde, Guillermo C.] Univ Fed Fluminense, Rio De Janeiro, Brazil.
+RP Fontes, BM (corresponding author), Ave Acacias 150,Bl 2,Apto 1001, BR-22776000 Rio De Janeiro, Brazil.
+EM brunomfontes@terra.com.br
+RI Nose, Walton/I-1431-2017; Ambrosio, Renato/H-6504-2017
+OI Nose, Walton/0000-0003-4510-1289; Ambrosio, Renato/0000-0001-6919-4606
+CR Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Belin MW, 2007, AM J OPHTHALMOL, V143, P500, DOI 10.1016/j.ajo.2006.12.030
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   Gatinel D, 2007, J REFRACT SURG, V23, P76
+   Holland DR, 1997, OPHTHALMOLOGY, V104, P1409, DOI 10.1016/S0161-6420(97)30123-7
+   Kida T, 2006, INVEST OPHTH VIS SCI, V47, P4422, DOI 10.1167/iovs.06-0507
+   Klein SR, 2006, CORNEA, V25, P388, DOI 10.1097/01.ico.0000222479.68242.77
+   Konstantopoulos A, 2007, BRIT J OPHTHALMOL, V91, P551, DOI 10.1136/bjo.2006.103408
+   Kotecha A, 2007, SURV OPHTHALMOL, V52, pS109, DOI 10.1016/j.survophthal.2007.08.004
+   Kotecha A, 2006, INVEST OPHTH VIS SCI, V47, P5337, DOI 10.1167/iovs.06-0557
+   Laiquzzaman M, 2006, CLIN EXP OPHTHALMOL, V34, P114, DOI 10.1111/j.1442-9071.2006.01185.x
+   LEE LR, 1995, AUST NZ J OPHTHALMOL, V23, P129, DOI 10.1111/j.1442-9071.1995.tb00141.x
+   Li XH, 2004, OPHTHALMOLOGY, V111, P440, DOI 10.1016/j.ophtha.2003.06.020
+   LUCE D, 2009, AM SOC CAT REFR SURG
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   McMahon TT, 2006, CORNEA, V25, P794, DOI 10.1097/01.ico.0000226359.26678.d1
+   Medeiros FA, 2006, J GLAUCOMA, V15, P364, DOI 10.1097/01.ijg.0000212268.42606.97
+   Nichols JJ, 2004, BRIT J OPHTHALMOL, V88, P788, DOI 10.1136/bjo.2003.034520
+   Pepose JS, 2007, AM J OPHTHALMOL, V143, P39, DOI 10.1016/j.ajo.2006.09.036
+   RABINOWITZ YS, 1993, OPHTHALMOLOGY, V100, P181
+   Randleman JB, 2006, CURR OPIN OPHTHALMOL, V17, P406, DOI 10.1097/01.icu.0000233963.26628.f0
+   Shah Sunil, 2006, Cont Lens Anterior Eye, V29, P257, DOI 10.1016/j.clae.2006.09.006
+   Swartz T, 2007, CURR OPIN OPHTHALMOL, V18, P325, DOI 10.1097/ICU.0b013e3281ca7121
+   WANG M, 2006, CORNEAL TOPOGRAPHY W, pR16
+   Zadnik K, 2002, CORNEA, V21, P671, DOI 10.1097/00003226-200210000-00008
+NR 25
+TC 28
+Z9 28
+U1 0
+U2 2
+PU SLACK INC
+PI THOROFARE
+PA 6900 GROVE RD, THOROFARE, NJ 08086 USA
+SN 1081-597X
+J9 J REFRACT SURG
+JI J. Refractive Surg.
+PD SEP
+PY 2010
+VL 26
+IS 9
+BP 677
+EP 681
+DI 10.3928/1081597X-20091105-04
+PG 5
+WC Ophthalmology; Surgery
+SC Ophthalmology; Surgery
+GA 720AY
+UT WOS:000287253800007
+PM 19928695
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Ambrosio, R
+   Jardim, D
+   Velarde, GC
+   Nose, W
+AF Fontes, Bruno Machado
+   Ambrosio, Renato, Jr.
+   Jardim, Daniela
+   Velarde, Guillermo Coca
+   Nose, Walton
+TI Ability of corneal biomechanical metrics and anterior segment data in
+   the differentiation of keratoconus and healthy corneas
+SO ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+LA English
+DT Article
+DE Cornea; Corneal diseases; Corneal topography; Biomechanics; Keratoconus
+ID OPTICAL COHERENCE TOMOGRAPHY; OCULAR HYSTERESIS; DIURNAL-VARIATION;
+   THICKNESS; TOPOGRAPHY; EYES; REPEATABILITY; PACHYMETRY; ECTASIA; SUSPECT
+AB Purpose: To evaluate the sensitivity, specificity, and test accuracy of corneal biomechanical metrics and anterior segment data in differentiating keratoconus from healthy corneas.
+   Methods: Comparative case series. Patients with and without keratoconus (gender and age-matched) were submitted for complete eye examinations including corneal hysteresis (CH) and corneal resistance factor (CRF) as measured by the Ocular Response Analyzer and anterior segment data as gathered through Pentacam assessments. The anterior segment data measurement included average central keratometric readings (K-Ave), corneal astigmatism (CA), central corneal thickness (CCT), anterior chamber depth (AC depth) and corneal volume (CV). All parameters were assessed, compared and analyzed. A receiver operating characteristic (ROC) curve was used to identify the best cutoff point by which to maximize the sensitivity and specificity of discriminating keratoconus from normal corneas for each data category.
+   Results: Seventy seven eyes from forty three patients (24 male, 19 female) with keratoconus and eighty six eyes from forty three (24 male, 19 female) healthy controls were enrolled. ROC curve analysis showed poor overall predictive accuracy for all studied parameters in differentiating keratoconus from normal corneas. The highest sensitivity (79.2%) was obtained for both AC depth and CH (cutoff points 3.22 mm and 9.39 mmHg respectively). The best specificity (89.5%) and test accuracy (80.34%) were obtained for CA (cutoff point of 2.2 D).
+   Conclusion: When considered together, studied parameters showed statistical differences between groups. However, when considered independently they presented low sensitivity, specificity and test accuracy in differentiating keratoconus from healthy corneas.
+C1 [Fontes, Bruno Machado; Nose, Walton] Univ Fed Sao Paulo, Escola Paulista Med, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Ambrosio, Renato, Jr.] SBAO, Rio De Janeiro, Brazil.
+   [Jardim, Daniela] Clin Oftalmol Renato Ambrosio, Rio De Janeiro, Brazil.
+   [Velarde, Guillermo Coca] Univ Fed Fluminense, Dept Stat, Rio De Janeiro, Brazil.
+   [Nose, Walton] Univ Metropolitana Santos, Santos, SP, Brazil.
+RP Fontes, BM (corresponding author), Rua Castro Alves 10, BR-20775040 Rio De Janeiro, Brazil.
+EM brunomfontes@terra.com.br
+RI Nose, Walton/I-1431-2017; Ambrosio, Renato/H-6504-2017
+OI Nose, Walton/0000-0003-4510-1289; Ambrosio, Renato/0000-0001-6919-4606
+CR Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Belin MW, 2009, CLIN EXP OPHTHALMOL, V37, P14, DOI 10.1111/j.1442-9071.2008.01821.x
+   De Sanctis U, 2007, AM J OPHTHALMOL, V144, P712, DOI 10.1016/j.ajo.2007.07.021
+   Emre S, 2007, J CATARACT REFR SURG, V33, P1708, DOI 10.1016/j.jcrs.2007.06.020
+   Ertan A, 2009, CORNEA, V28, P836, DOI 10.1097/ICO.0b013e3181a18c07
+   Ethier CR, 2004, ANNU REV BIOMED ENG, V6, P249, DOI 10.1146/annurev.bioeng.6.040803.140055
+   FONTES BM, 2010, J REFRACT SURG, V19, P1
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   Fontes BM, 2010, OPHTHALMOLOGY, V117, P673, DOI 10.1016/j.ophtha.2009.09.023
+   Kawamorita T, 2009, J CATARACT REFR SURG, V35, P127, DOI 10.1016/j.jcrs.2008.10.019
+   Kida T, 2008, AM J OPHTHALMOL, V146, P567, DOI 10.1016/j.ajo.2008.05.026
+   Konstantopoulos A, 2007, BRIT J OPHTHALMOL, V91, P551, DOI 10.1136/bjo.2006.103408
+   Kotecha A, 2007, SURV OPHTHALMOL, V52, pS109, DOI 10.1016/j.survophthal.2007.08.004
+   Laiquzzaman M, 2006, CLIN EXP OPHTHALMOL, V34, P114, DOI 10.1111/j.1442-9071.2006.01185.x
+   Lema I, 2009, EYE CONTACT LENS, V35, P65, DOI 10.1097/ICL.0b013e318198be6e
+   Li Y, 2008, OPHTHALMOLOGY, V115, P2159, DOI 10.1016/j.ophtha.2008.08.004
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Luz Allan, 2006, Arq. Bras. Oftalmol., V69, P579, DOI 10.1590/S0004-27492006000400023
+   McMahon TT, 2006, CORNEA, V25, P794, DOI 10.1097/01.ico.0000226359.26678.d1
+   Miranda MA, 2009, OPTOMETRY VISION SCI, V86, P266, DOI 10.1097/OPX.0b013e318196a737
+   Pinero DP, 2009, CLIN EXP OPTOM, V92, P297, DOI 10.1111/j.1444-0938.2009.00357.x
+   Ponce CMP, 2009, J CATARACT REFR SURG, V35, P1055, DOI 10.1016/j.jcrs.2009.01.022
+   Rabinowitz YS, 2006, CURR OPIN OPHTHALMOL, V17, P421, DOI 10.1097/01.icu.0000243015.51886.3a
+   Rabinowitz YS, 1998, SURV OPHTHALMOL, V42, P297, DOI 10.1016/S0039-6257(97)00119-7
+   Randleman JB, 2006, CURR OPIN OPHTHALMOL, V17, P406, DOI 10.1097/01.icu.0000233963.26628.f0
+   Reeves SW, 2009, CORNEA, V28, P40, DOI 10.1097/ICO.0b013e3181839b06
+   Saad A, 2010, INVEST OPHTH VIS SCI, V51, P2912, DOI 10.1167/iovs.09-4304
+   SHAH S, 2008, CLIN EXPT OPHTHALMOL, V36, P499
+   Shah S, 2008, CLIN EXP OPHTHALMOL, V36, P508, DOI 10.1111/j.1442-9071.2008.01828.x
+   Shen MX, 2008, OPTOMETRY VISION SCI, V85, P1185, DOI 10.1097/OPX.0b013e31818e8abe
+   Shirayama-Suzuki M, 2009, BRIT J OPHTHALMOL, V93, P815, DOI 10.1136/bjo.2008.140012
+   Sun L, 2009, AM J OPHTHALMOL, V147, P1061, DOI 10.1016/j.ajo.2009.01.008
+   Swartz T, 2007, CURR OPIN OPHTHALMOL, V18, P325, DOI 10.1097/ICU.0b013e3281ca7121
+   Torres RM, 2005, Arch Soc Esp Oftalmol, V80, P215
+   Ucakhan OO, 2006, J CATARACT REFR SURG, V32, P970, DOI 10.1016/j.jcrs.2006.02.037
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P2036
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P2037, DOI 10.1016/j.ophtha.2009.08.027
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P369, DOI 10.1016/j.ophtha.2008.09.048
+   WANG M, 2006, CORNEAL TOPOGRAPHY W, pR16
+NR 39
+TC 24
+Z9 25
+U1 0
+U2 2
+PU CONSEL BRASIL OFTALMOLOGIA
+PI SAO PAULO
+PA ALAMEDA SANTOS 1343, 11 ANDAR CJ 1110, CERQUEIRA CESAR, SAO PAULO, SP
+   00000, BRAZIL
+SN 0004-2749
+EI 1678-2925
+J9 ARQ BRAS OFTALMOL
+JI Arq. Bras. Oftalmol.
+PD JUL-AUG
+PY 2010
+VL 73
+IS 4
+BP 333
+EP 337
+DI 10.1590/S0004-27492010000400006
+PG 5
+WC Ophthalmology
+SC Ophthalmology
+GA 663IV
+UT WOS:000282878100006
+PM 20944935
+OA DOAJ Gold, Green Published
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Ambrosio, R
+   Jardim, D
+   Velarde, GC
+   Nose, W
+AF Fontes, Bruno M.
+   Ambrosio, Renato, Jr.
+   Jardim, Daniela
+   Velarde, Guillermo C.
+   Nose, Walton
+TI Corneal Biomechanical Metrics and Anterior Segment Parameters in Mild
+   Keratoconus
+SO OPHTHALMOLOGY
+LA English
+DT Article
+ID OCULAR RESPONSE ANALYZER; IN-SITU KERATOMILEUSIS; INTRAOCULAR-PRESSURE
+   MEASUREMENTS; OPTICAL COHERENCE TOMOGRAPHY; ULTRASOUND PACHYMETRY;
+   RESISTANCE FACTOR; DIURNAL-VARIATION; REFRACTIVE-ERROR; AXIAL LENGTH;
+   NORMAL EYES
+AB Purpose: To compare corneal hysteresis (CH), corneal resistance factor (CRF), spherical equivalent (SE), average central keratometry (K-Avg), corneal astigmatism (CA), corneal volume (CV), anterior chamber (AC) depth, and central corneal thickness (CCT) between patients with mild keratoconus and healthy controls and to estimate the sensitivity and specificity of CH and CRF in discriminating mild keratoconus from healthy corneas.
+   Design: Comparative case series.
+   Participants: Sixty-three eyes (40 patients) with mild keratoconus (group 1) and 80 eyes from 40 gender- and age-matched controls (group 2).
+   Methods: Patients underwent a complete clinical eye examination, corneal topography (Humphrey ATLAS; Carl Zeiss Meditec, Dublin, CA), tomography (Pentacam; Oculus, Wetzlar, Germany), and biomechanical evaluations (ocular response analyzer; Reichert Ophthalmic Instruments, Depew, NY). The receiver operating characteristic (ROC) curve was used to identify cutoff points that maximized sensitivity and specificity in discriminating mild keratoconus from normal corneas.
+   Main Outcome Measures: Corneal hysteresis, CRF, SE, K-Avg, CA, CV, AC depth, and CCT. The diagnostic performance of CH and CRF for detecting mild keratoconus was assessed using the ROC curve.
+   Results: In group 1 versus group 2, the SE values (mean +/- standard deviation) were -3.55 +/- 2.87 diopters (D) versus -1.46 +/- 3.09 D (P = 0); K-Avg, 45.09 +/- 2.24 versus 43.24 +/- 1.54 D (P = 0); CA, 3.15 +/- 1.87 versus 1.07 +/- 0.83 D (P = 0); CV, 57.3 +/- 2.12 versus 60.86 +/- 3.39 mm(3) (P = 0); AC depth, 3.19 +/- 0.35 versus 3.05 +/- 0.43 mm (P = 0.0416); CCT, 503 +/- 34.15 versus 544.71 +/- 35.89 mu m (P = 0); CH, 8.50 +/- 1.36 versus 10.17 +/- 1.79 mmHg (P = 0); CRF, 7.85 +/- 1.49 versus 10.13 +/- 2.0 mmHg (P = 0). The ROC curve analyses showed a poor overall predictive accuracy of CH (cutoff, 9.64 mmHg; sensitivity, 87%; specificity, 65%; test accuracy, 74.83%) and CRF (cutoff, 9.60 mmHg; sensitivity, 90.5%; specificity, 66%; test accuracy, 76.97%) for detecting mild keratoconus.
+   Conclusions: The values for CH, CRF, CV, and CCT were statistically lower and those for SE, K-Avg, CA, and AC depth were statistically higher in patients with mild keratoconus compared with controls. Corneal hysteresis and CRF were poor parameters for discriminating between mild keratoconus and normal corneas.
+   Financial Disclosure(s): Proprietary or commercial disclosure may be found after the references. Ophthalmology 2010;117:673-679 (C) 2010 by the American Academy of Ophthalmology.
+C1 [Fontes, Bruno M.; Nose, Walton] Univ Fed Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+   [Fontes, Bruno M.] Ctr Microcirurgia & Diagnost, Rio De Janeiro, Brazil.
+   [Fontes, Bruno M.; Ambrosio, Renato, Jr.] REFRACTA RIO, Rio De Janeiro, Brazil.
+   [Ambrosio, Renato, Jr.; Jardim, Daniela] Renato Ambrosio Eye Inst, Rio De Janeiro, Brazil.
+   [Velarde, Guillermo C.] Univ Fed Fluminense, Rio De Janeiro, Brazil.
+RP Fontes, BM (corresponding author), Av Acacias 150 Bl 2 Apto 1001, BR-22776000 Rio De Janeiro, Brazil.
+EM brunomfontes@terra.com.br
+RI Nose, Walton/I-1431-2017; Ambrosio, Renato/H-6504-2017
+OI Nose, Walton/0000-0003-4510-1289; Ambrosio, Renato/0000-0001-6919-4606
+CR Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Annette H, 2008, J GLAUCOMA, V17, P361, DOI 10.1097/IJG.0b013e31815c3ad3
+   Belin MW, 2007, AM J OPHTHALMOL, V143, P500, DOI 10.1016/j.ajo.2006.12.030
+   Belin MW, 2009, CLIN EXP OPHTHALMOL, V37, P14, DOI 10.1111/j.1442-9071.2008.01821.x
+   Boote C, 2006, INVEST OPHTH VIS SCI, V47, P901, DOI 10.1167/iovs.05-0893
+   Carbonaro F, 2008, OPHTHALMOLOGY, V115, P1545, DOI 10.1016/j.ophtha.2008.02.011
+   Chen D, 2009, OPHTHAL PHYSL OPT, V29, P464, DOI 10.1111/j.1475-1313.2008.00625.x
+   Chen MC, 2008, J CATARACT REFR SURG, V34, P1886, DOI 10.1016/j.jcrs.2008.06.035
+   Condon PI, 2006, J CATARACT REFR SURG, V32, P2124, DOI 10.1016/j.jcrs.2006.07.036
+   de Sanctis U, 2008, OPHTHALMOLOGY, V115, P1534, DOI 10.1016/j.ophtha.2008.02.020
+   De Sanctis U, 2007, AM J OPHTHALMOL, V144, P712, DOI 10.1016/j.ajo.2007.07.021
+   del Buey MA, 2009, INVEST OPHTH VIS SCI, V50, P3199, DOI 10.1167/iovs.08-3312
+   Dupps WJ, 2007, J CATARACT REFR SURG, V33, P1499, DOI 10.1016/j.jcrs.2007.07.008
+   Dupps WJ, 2006, EXP EYE RES, V83, P709, DOI 10.1016/j.exer.2006.03.015
+   Ehlers N, 2004, EXP EYE RES, V78, P543, DOI 10.1016/j.exer.2003.09.017
+   Ehongo A., 2009, International Ophthalmology, V29, P325, DOI 10.1007/s10792-008-9239-x
+   Elsheikh A, 2008, CURR EYE RES, V33, P205, DOI 10.1080/02713680701882519
+   Emre S, 2007, J CATARACT REFR SURG, V33, P1708, DOI 10.1016/j.jcrs.2007.06.020
+   Ethier CR, 2004, ANNU REV BIOMED ENG, V6, P249, DOI 10.1146/annurev.bioeng.6.040803.140055
+   Fontes BM, 2008, J REFRACT SURG, V24, P941, DOI 10.3928/1081597X-20081101-14
+   Gatinel D, 2007, J REFRACT SURG, V23, P76
+   Goldich Y, 2009, CORNEA, V28, P498, DOI 10.1097/ICO.0b013e318190734d
+   Goldich Y, 2009, J CATARACT REFR SURG, V35, P715, DOI 10.1016/j.jcrs.2008.12.013
+   Gonzalez-Meijome JM, 2008, OPTOMETRY VISION SCI, V85, P457, DOI 10.1097/OPX.0b013e3181783a5f
+   Gonzalez-Meijome JM, 2008, CORNEA, V27, P421, DOI 10.1097/ICO.0b013e318164e49d
+   Hager A, 2007, AM J OPHTHALMOL, V144, P341, DOI 10.1016/j.ajo.2007.05.023
+   Hoffer KJ, 2008, AM J OPHTHALMOL, V146, P789, DOI 10.1016/j.ajo.2008.07.009
+   Kamiya K, 2008, GRAEF ARCH CLIN EXP, V246, P1491, DOI 10.1007/s00417-008-0864-x
+   Kawamorita T, 2009, J CATARACT REFR SURG, V35, P127, DOI 10.1016/j.jcrs.2008.10.019
+   Kerautret J, 2008, J CATARACT REFR SURG, V34, P510, DOI 10.1016/j.jcrs.2007.11.018
+   Khachikian SS, 2009, OPHTHALMOLOGY, V116, P816, DOI 10.1016/j.ophtha.2009.01.009
+   Kida T, 2008, AM J OPHTHALMOL, V146, P567, DOI 10.1016/j.ajo.2008.05.026
+   Kirwan C, 2008, OPHTHALMOLOGICA, V222, P334, DOI 10.1159/000145333
+   Kirwan C, 2008, ACTA OPHTHALMOL, V86, P215, DOI 10.1111/j.1600-0420.2007.01023.x
+   Kirwan C, 2006, AM J OPHTHALMOL, V142, P990, DOI 10.1016/j.ajo.2006.07.058
+   Klein SR, 2006, CORNEA, V25, P388, DOI 10.1097/01.ico.0000222479.68242.77
+   Kohlhaas M, 2006, J CATARACT REFR SURG, V32, P279, DOI 10.1016/j.jcrs.2005.12.092
+   Konstantopoulos A, 2007, BRIT J OPHTHALMOL, V91, P551, DOI 10.1136/bjo.2006.103408
+   Kotecha A, 2007, SURV OPHTHALMOL, V52, pS109, DOI 10.1016/j.survophthal.2007.08.004
+   Kucumen RB, 2008, J CATARACT REFR SURG, V34, P2096, DOI 10.1016/j.jcrs.2008.08.017
+   Kynlgopoulos M, 2008, KLIN MONATSBL AUGENH, V225, P357, DOI 10.1055/s-2008-1027256
+   Laiquzzaman M, 2006, CLIN EXP OPHTHALMOL, V34, P114, DOI 10.1111/j.1442-9071.2006.01185.x
+   Lam A, 2007, OPTOMETRY VISION SCI, V84, P909, DOI 10.1097/OPX.0b013e3181559db2
+   Lema I, 2009, EYE CONTACT LENS, V35, P65, DOI 10.1097/ICL.0b013e318198be6e
+   Li Y, 2008, OPHTHALMOLOGY, V115, P2159, DOI 10.1016/j.ophtha.2008.08.004
+   Lim L, 2008, INVEST OPHTH VIS SCI, V49, P3852, DOI 10.1167/iovs.07-1670
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Luz Allan, 2006, Arq. Bras. Oftalmol., V69, P579, DOI 10.1590/S0004-27492006000400023
+   Martinez-de-la-Casa JM, 2006, INVEST OPHTH VIS SCI, V47, P4410, DOI 10.1167/iovs.06-0158
+   McGhee CNJ, 2009, CLIN EXP OPHTHALMOL, V37, P160, DOI 10.1111/j.1442-9071.2009.02009.x
+   McGhee CN, 2008, CLIN EXP OPHTHALMOL, V36, P807, DOI 10.1111/j.1442-9071.2009.01919.x
+   McMahon TT, 2006, CORNEA, V25, P794, DOI 10.1097/01.ico.0000226359.26678.d1
+   Medeiros FA, 2006, J GLAUCOMA, V15, P364, DOI 10.1097/01.ijg.0000212268.42606.97
+   Miranda MA, 2009, OPTOMETRY VISION SCI, V86, P266, DOI 10.1097/OPX.0b013e318196a737
+   Mollan SP, 2008, BRIT J OPHTHALMOL, V92, P1661, DOI 10.1136/bjo.2007.136473
+   Moreno-Montanes J, 2008, INVEST OPHTH VIS SCI, V49, P968, DOI 10.1167/iovs.07-0280
+   Ortiz D, 2007, J CATARACT REFR SURG, V33, P1371, DOI 10.1016/j.jcrs.2007.04.021
+   Pepose JS, 2007, AM J OPHTHALMOL, V143, P39, DOI 10.1016/j.ajo.2006.09.036
+   Pinero DP, 2009, CLIN EXP OPTOM, V92, P297, DOI 10.1111/j.1444-0938.2009.00357.x
+   Ponce CMP, 2009, J CATARACT REFR SURG, V35, P1055, DOI 10.1016/j.jcrs.2009.01.022
+   Rabinowitz Y S, 1989, Refract Corneal Surg, V5, P400
+   Rabinowitz YS, 2006, CURR OPIN OPHTHALMOL, V17, P421, DOI 10.1097/01.icu.0000243015.51886.3a
+   Rabinowitz YS, 1998, SURV OPHTHALMOL, V42, P297, DOI 10.1016/S0039-6257(97)00119-7
+   Randleman JB, 2006, CURR OPIN OPHTHALMOL, V17, P406, DOI 10.1097/01.icu.0000233963.26628.f0
+   Reeves SW, 2009, CORNEA, V28, P40, DOI 10.1097/ICO.0b013e3181839b06
+   Shah S, 2008, CLIN EXP OPHTHALMOL, V36, P508, DOI 10.1111/j.1442-9071.2008.01828.x
+   Shah Sunil, 2006, Cont Lens Anterior Eye, V29, P257, DOI 10.1016/j.clae.2006.09.006
+   Shah S, 2007, INVEST OPHTH VIS SCI, V48, P3026, DOI 10.1167/iovs.04-0694
+   Shah S, 2009, CONTACT LENS ANTERIO, V32, P129, DOI 10.1016/j.clae.2008.12.009
+   Shah S, 2009, CONTACT LENS ANTERIO, V32, P123, DOI 10.1016/j.clae.2009.02.005
+   Shen MX, 2008, VISION RES, V48, P2167, DOI 10.1016/j.visres.2008.06.020
+   Shen MX, 2008, OPTOMETRY VISION SCI, V85, P1185, DOI 10.1097/OPX.0b013e31818e8abe
+   Shirayama-Suzuki M, 2009, BRIT J OPHTHALMOL, V93, P815, DOI 10.1136/bjo.2008.140012
+   Song Y, 2008, AM J OPHTHALMOL, V145, P819, DOI 10.1016/j.ajo.2007.12.034
+   Steele TM, 2008, CLIN EXP OPHTHALMOL, V36, P824, DOI 10.1111/j.1442-9071.2009.01908.x
+   Stonecipher K, 2006, CURR OPIN OPHTHALMOL, V17, P368, DOI 10.1097/01.icu.0000233957.88509.2d
+   Sullivan-Mee M, 2008, OPTOMETRY VISION SCI, V85, P463, DOI 10.1097/OPX.0b013e3181784673
+   Sun L, 2009, AM J OPHTHALMOL, V147, P1061, DOI 10.1016/j.ajo.2009.01.008
+   Swartz T, 2007, CURR OPIN OPHTHALMOL, V18, P325, DOI 10.1097/ICU.0b013e3281ca7121
+   Torres RM, 2005, Arch Soc Esp Oftalmol, V80, P215
+   Touboul D, 2008, J CATARACT REFR SURG, V34, P616, DOI 10.1016/j.jcrs.2007.11.051
+   Ucakhan OO, 2006, J CATARACT REFR SURG, V32, P970, DOI 10.1016/j.jcrs.2006.02.037
+   Velten K, 2006, J CATARACT REFR SURG, V32, P1073, DOI 10.1016/j.jcrs.2006.02.052
+   Vinciguerra P, 2009, OPHTHALMOLOGY, V116, P369, DOI 10.1016/j.ophtha.2008.09.048
+   Wang JC, 2003, J CATARACT REFR SURG, V29, P2015, DOI 10.1016/j.jcrs.2003.08.006
+NR 85
+TC 139
+Z9 140
+U1 0
+U2 5
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0161-6420
+EI 1549-4713
+J9 OPHTHALMOLOGY
+JI Ophthalmology
+PD APR
+PY 2010
+VL 117
+IS 4
+BP 673
+EP 679
+DI 10.1016/j.ophtha.2009.09.023
+PG 7
+WC Ophthalmology
+SC Ophthalmology
+GA 582YZ
+UT WOS:000276638800005
+PM 20138369
+DA 2020-11-11
+ER
+
+PT J
+AU Machado, LM
+   Castro, RS
+   Fontes, BM
+AF Machado, Leonardo Martins
+   Castro, Rosane S.
+   Fontes, Bruno M.
+TI Staining Patterns in Dry Eye Syndrome: Rose Bengal Versus Lissamine
+   Green
+SO CORNEA
+LA English
+DT Article
+DE keratoconjunctivitis sicca; ocular surface; lissamine green; rose
+   bengal; dry eye
+ID CORNEAL EPITHELIAL-CELLS; HERPES-SIMPLEX-VIRUS; OCULAR SURFACE; TEAR
+   FILM; XEROPHTHALMIA; FLUORESCEIN; DIAGNOSIS; DISEASE; TESTS; SICCA
+AB Purpose: To evaluate and compare conical staining patterns of lissamine green (LG) versus rose bengal (RB) in patients with dry eye syndrome. Secondary objectives included addressing patient's comfort after instillation and to correlate disease severity with staining patterns.
+   Methods: Randomized, comparative, crossover series. Patients with previous diagnosis of mild to moderate dry eye syndrome were divided in 2 groups regarding dye instillation order (group A: RB first; group B: LG first). Both dyes were applied in regular intervals, and a staining score (van Bijsterveld scale) was used to correlate and compare the results. Disease severity was determined by the Ocular Surface Disease Index. Comfort was evaluated by patient's answer in an objective questionnaire.
+   Results: Sixty eyes of 30 consecutive patients (24 females and 6 males) were included. There was no statistical difference between groups regarding disease severity, sex, or age. LG and RB showed good clinical correlation in both groups (group A: r = 0.939, P < 0.001; group B: r = 0.915, P < 0.001). LG was better tolerated than RB (P = 0.003 in both groups). Overall, We found a low statistical correlation between disease severity and staining scores.
+   Conclusions: Both LG and RB showed similar staining patterns. RB was found to provide greater patient discomfort. There was no correlation between disease severity (addressed by the ocular surface disease index questionnaire) and staining patterns (measured by the van Bijsterveld scale).
+C1 [Machado, Leonardo Martins; Castro, Rosane S.] Univ Estadual Campinas, Dept Ophthalmol, Campinas, SP, Brazil.
+   [Fontes, Bruno M.] Univ Fed Sao Paulo, Dept Ophthalmol, EPM, Sao Paulo, Brazil.
+RP Machado, LM (corresponding author), Rua Timoteo Costa 297-1401, BR-22450130 Rio De Janeiro, Brazil.
+EM leo_m@terra.com.br
+RI castro, rosane s/I-2740-2014
+CR BRANTOM PG, 1987, FOOD CHEM TOXICOL, V25, P977, DOI 10.1016/0278-6915(87)90292-4
+   Bron AJ, 2003, CORNEA, V22, P640, DOI 10.1097/00003226-200310000-00008
+   Calonge M, 2004, EXP EYE RES, V78, P457, DOI 10.1016/j.exer.2003.09.009
+   CHODOSH J, 1992, INVEST OPHTH VIS SCI, V33, P2520
+   CHODOSH J, 1994, INVEST OPHTH VIS SCI, V35, P1046
+   Dogru M, 2005, AM J OPHTHALMOL, V140, P507, DOI 10.1016/j.ajo.2005.04.034
+   EMRAN N, 1979, ARCH OPHTHALMOL-CHIC, V97, P2333
+   FEENSTRA RPG, 1992, OPHTHALMOLOGY, V99, P605
+   Gipson IK, 2007, OCUL SURF, V5, P179
+   Johnson ME, 2004, PROG RETIN EYE RES, V23, P449, DOI 10.1016/j.preteyeres.2004.04.003
+   KHURANA AK, 1991, ACTA OPHTHALMOL, V69, P79
+   Kim J, 1999, CORNEA, V18, P328, DOI 10.1097/00003226-199905000-00015
+   KUSIN JA, 1979, AM J CLIN NUTR, V32, P1559
+   Lemp MA, 2005, AM J OPHTHALMOL, V140, P898, DOI 10.1016/j.ajo.2005.06.031
+   Manning FJ, 1995, OPHTHALMOLOGY, V102, P1953, DOI 10.1016/S0161-6420(95)30769-5
+   Moss SE, 2004, ARCH OPHTHALMOL-CHIC, V122, P369, DOI 10.1001/archopht.122.3.369
+   Nichols KK, 2004, CORNEA, V23, P762, DOI 10.1097/01.ico.0000133997.07144.9e
+   NORN MS, 1969, ACTA OPHTHALMOL, V47, P1102
+   NORN MS, 1973, ACTA OPHTHALMOL, V51, P483
+   ROAT MI, 1987, ARCH OPHTHALMOL-CHIC, V105, P1415
+   Schiffman RM, 2000, ARCH OPHTHALMOL-CHIC, V118, P615, DOI 10.1001/archopht.118.5.615
+   Seitzman GD, 2006, AM J OPHTHALMOL, V141, P756, DOI 10.1016/j.ajo.2005.10.056
+   SJOGREN H, 1993, ACTA OPHTHALMOL    S, P2
+   Stroop WG, 2000, INVEST OPHTH VIS SCI, V41, P2096
+   TSENG SCG, 1994, INVEST OPHTH VIS SCI, V35, P3295
+   VANBIJST.OP, 1969, ARCH OPHTHALMOL-CHIC, V82, P10
+NR 26
+TC 32
+Z9 34
+U1 1
+U2 17
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0277-3740
+EI 1536-4798
+J9 CORNEA
+JI Cornea
+PD AUG
+PY 2009
+VL 28
+IS 7
+BP 732
+EP 734
+DI 10.1097/ICO.0b013e3181930c03
+PG 3
+WC Ophthalmology
+SC Ophthalmology
+GA 478YI
+UT WOS:000268624300004
+PM 19574917
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Ambrosio, R
+   Alonso, RS
+   Jardim, D
+   Velarde, GC
+   Nose, W
+AF Fontes, Bruno M.
+   Ambrosio, Renato
+   Alonso, Ruiz S.
+   Jardim, Daniela
+   Velarde, Guillermo C.
+   Nose, Walton
+TI Corneal Biomechanical Metrics in Eyes With Refraction of-19-00 to+9.00 D
+   in Healthy Brazilian Patients
+SO JOURNAL OF REFRACTIVE SURGERY
+LA English
+DT Article
+ID OCULAR RESPONSE ANALYZER; INTRAOCULAR-PRESSURE MEASUREMENTS; HYSTERESIS;
+   THICKNESS; TONOMETRY; GLAUCOMA
+AB PURPOSE:To evaluate corneal biomechanical metrics with tomographic parameters, (given by the, Oculus Pentacam) and refractive data in a population of healthy Brazilian patients.
+   METHODS: Observational, cross-sectional study of 150 consecutive patients (53 men and 97 women; 260 eyes). Age, gender, central keratometric readings (central K), central corneal thickness (CCT), anterior chamber depth (ACD), spherical equivalent refraction, corneal hysteresis, and corneal resistance factor (CRF) were assessed and analyzed.
+   RESULTS: Mean patient age was 46.5 +/- 21.04 years, average central K was 43.59 +/- 1.54 diopters (D), CCT. was 545.05 +/- 35.41 mu m, ACID was 2.96 +/- 0.52 mm, spherical equivalent refraction was -1.16 +/- 3.48 D, corneal hysteresis was 10.17 +/- 1.82, and CRF was 10.14 +/- 1.8 (range: 5.45 to 15.1). Mean CRF and corneal hysteresis were distinct among gender: CRF 10.326 in women and 9.810 in men (P=.0266); corneal hysteresis 10.421 in women and 9.727 in men (P=.0031). A negative correlation was found between both CRF and corneal hysteresis with age (r=-0.1255, P=.0434; and r=-0.2445, P=.0001, respectively). No association was found between,CRF and average central K (r=.0633, P=.3086), ACD (r= 0.0474, P=.4498), or spherical equivalent refraction, (r=0.1028, P=.1061). Corneal hysteresis was not associated with age and average central K (r=0.057-2, P=.3573, ACD (r=0.0060, P=.9236), or spherical equivalent refraction (r=0.0975, P=.1253). Corneal resistance factor and corneal hysteresis were positively associated with CCT (r=0.5760, P=0; and r=0.4655, P=0, respectively).
+   CONCLUSIONS: Corneal biomechanical metrics of healthy Brazilian patients were associated with CCT, gender, and age. Corneal steepness, ACD, and spherical equivalent refraction did not affect corneal hysteresis and CRF values in the studied population. [J Refract Surg. 2008;24:941-945.]
+C1 [Fontes, Bruno M.; Nose, Walton] Univ Fed Sao Paulo, Rio De Janeiro, Brazil.
+   [Ambrosio, Renato; Alonso, Ruiz S.; Velarde, Guillermo C.] Univ Fed Fluminense, Rio De Janeiro, Brazil.
+   [Ambrosio, Renato; Alonso, Ruiz S.; Jardim, Daniela] Renato Ambrosio Eye Inst, Rio De Janeiro, Brazil.
+RP Fontes, BM (corresponding author), Av Acacias 150 Bl 2 Apto 1001, BR-22776000 Rio De Janeiro, Brazil.
+EM brunomfontes@terra.com.br
+RI Ambrosio, Renato/H-6504-2017; Nose, Walton/I-1431-2017
+OI Ambrosio, Renato/0000-0001-6919-4606; Nose, Walton/0000-0003-4510-1289
+CR Ambrosio R, 2006, J CATARACT REFR SURG, V32, P1851, DOI 10.1016/j.jcrs.2006.06.025
+   Anderson K, 2004, J R SOC INTERFACE, V1, P3, DOI 10.1098/rsif.2004.0002
+   Boote C, 2006, INVEST OPHTH VIS SCI, V47, P901, DOI 10.1167/iovs.05-0893
+   Brown KE, 2006, CURR OPIN OPHTHALMOL, V17, P338, DOI 10.1097/01.icu.0000233951.01971.5b
+   Congdon NG, 2006, AM J OPHTHALMOL, V141, P868, DOI 10.1016/j.ajo.2005.12.007
+   Dupps WJ, 2006, EXP EYE RES, V83, P709, DOI 10.1016/j.exer.2006.03.015
+   Ethier CR, 2004, ANNU REV BIOMED ENG, V6, P249, DOI 10.1146/annurev.bioeng.6.040803.140055
+   Gatinel D, 2007, J REFRACT SURG, V23, P76
+   Kida T, 2006, INVEST OPHTH VIS SCI, V47, P4422, DOI 10.1167/iovs.06-0507
+   Kirwan C, 2006, AM J OPHTHALMOL, V142, P990, DOI 10.1016/j.ajo.2006.07.058
+   Kotecha A, 2006, INVEST OPHTH VIS SCI, V47, P5337, DOI 10.1167/iovs.06-0557
+   Laiquzzaman M, 2006, CLIN EXP OPHTHALMOL, V34, P114, DOI 10.1111/j.1442-9071.2006.01185.x
+   LUCE D, 2006, INVEST OPHTHALMOL VI, V47
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Luz Allan, 2006, Arq. Bras. Oftalmol., V69, P579, DOI 10.1590/S0004-27492006000400023
+   Martinez-de-la-Casa JM, 2006, INVEST OPHTH VIS SCI, V47, P4410, DOI 10.1167/iovs.06-0158
+   Medeiros FA, 2006, J GLAUCOMA, V15, P364, DOI 10.1097/01.ijg.0000212268.42606.97
+   Pallikaris IG, 2005, INVEST OPHTH VIS SCI, V46, P409, DOI 10.1167/iovs.04-0162
+   Pepose JS, 2007, AM J OPHTHALMOL, V143, P39, DOI 10.1016/j.ajo.2006.09.036
+   Roberts C, 2000, J REFRACT SURG, V16, P407
+   Schmack I, 2005, J REFRACT SURG, V21, P433
+   Shah Sunil, 2006, Cont Lens Anterior Eye, V29, P257, DOI 10.1016/j.clae.2006.09.006
+   Torres RM, 2005, Arch Soc Esp Oftalmol, V80, P215
+NR 23
+TC 61
+Z9 62
+U1 0
+U2 0
+PU SLACK INC
+PI THOROFARE
+PA 6900 GROVE RD, THOROFARE, NJ 08086 USA
+SN 1081-597X
+J9 J REFRACT SURG
+JI J. Refractive Surg.
+PD NOV
+PY 2008
+VL 24
+IS 9
+BP 941
+EP 945
+DI 10.3928/1081597X-20081101-14
+PG 5
+WC Ophthalmology; Surgery
+SC Ophthalmology; Surgery
+GA 371PD
+UT WOS:000260842500015
+PM 19044236
+DA 2020-11-11
+ER
+
+PT J
+AU Macsai, MS
+   Fontes, BM
+AF Macsai, Marian Sue
+   Fontes, Bruno Machado
+TI Refractive enhancement following presbylopia-correcting intraocular lens
+   implantation
+SO CURRENT OPINION IN OPHTHALMOLOGY
+LA English
+DT Article
+DE cataract; excimer laser; intraocular lens; presbyopia;
+   presbyopic-correcting lenses
+ID IN-SITU KERATOMILEUSIS; CATARACT-SURGERY; PHOTOREFRACTIVE KERATECTOMY;
+   RESIDUAL MYOPIA; EXCIMER-LASER; BIOPTICS; ASTIGMATISM; EXCHANGE; RESTOR;
+   ERRORS
+AB Purpose of review
+   Presbyopia-correcting intraocular lenses are widely available. Residual ametropia is one of the most common issues that can result in patient dissatisfaction. Options for correcting refractive surprises include piggyback intraccular lens implantation, corneal incisional surgery and laser correction. Excimer laser surgery is a safe and predictable method to correct residual amounts of ametropia in pseudophakic patients with monofocal intraccular lenses; however, there is scant published literature regarding this technique.
+   Recent findings
+   Presbyopia-correcting intraocular lenses require emmetropia for the best visual as small amounts of astigmatism or residual refractive errors can limit their outcome, visual performance. Laser-assisted in-situ keratomileusis and photorefractive keratectomy are safe and effective results in pseudophakic patients. Surgeons can refine the refractive outcome after intraocular lens implantation with the excimer laser to achieve better results and higher patient satisfaction.
+   Summary
+   Excimer laser corneal surgery for fine-tuning residual ametropia after presbyopia-correcting intraocular lenses is a safe adjunct treatment to increase patient satisfaction. Which technique (photo refractive keratectomy or laser-assisted in-situ keratomileusis) to use depends on surgeon preference and patient characteristics, as both demonstrate similar results in published literature. Knowledge of all available refractive methods and technologies are crucial for improving outcomes in these patients.
+C1 [Macsai, Marian Sue] Northwestern Univ, Evanston NW Hlthcare, Eye & Vis Ctr, Dept Ophthalmol, Glenview, IL 60026 USA.
+   [Macsai, Marian Sue] Northwestern Univ, Feinberg Sch Med, Dept Ophthalmol, Glenview, IL 60026 USA.
+   [Fontes, Bruno Machado] Univ Fed Sao Paulo, Dept Ophthalmol, Sao Paulo, Brazil.
+RP Macsai, MS (corresponding author), Northwestern Univ, Evanston NW Hlthcare, Eye & Vis Ctr, Dept Ophthalmol, 2050 Pfingsten Rd,Suite 220, Glenview, IL 60026 USA.
+EM mmacsai@enh.org
+CR Alio JL, 2004, J CATARACT REFR SURG, V30, P2494, DOI 10.1016/j.jcrs.2004.04.052
+   Artola A, 1999, J CATARACT REFR SURG, V25, P1456, DOI 10.1016/S0886-3350(99)00233-3
+   Ayala MJ, 2001, J REFRACT SURG, V17, P12
+   Blaylock JF, 2006, J CATARACT REFR SURG, V32, P1464, DOI 10.1016/j.jcrs.2006.04.011
+   Guell JL, 1999, OPHTHALMIC SURG LAS, V30, P341
+   Jabbur NS, 2004, J CATARACT REFR SURG, V30, P1867, DOI 10.1016/j.jcrs.2004.01.020
+   Khalil MB, 2007, J REFRACT SURG, V23, P467
+   Kim P, 2005, J CATARACT REFR SURG, V31, P979, DOI 10.1016/j.jcrs.2004.08.054
+   Kuo IC, 2005, J CATARACT REFR SURG, V31, P2104, DOI 10.1016/j.jcrs.2005.08.023
+   Lane Stephen S, 2006, Ophthalmol Clin North Am, V19, P89
+   Leccisotti A, 2004, J CATARACT REFR SURG, V30, P1461, DOI 10.1016/j.jcrs.2003.11.056
+   Leccisotti A, 2006, CURR OPIN OPHTHALMOL, V17, P399, DOI 10.1097/01.icu.0000233962.19004.14
+   Lee ES, 2005, J CATARACT REFR SURG, V31, P1960, DOI 10.1016/j.jcrs.2005.03.062
+   Leyland M, 2003, OPHTHALMOLOGY, V110, P1789, DOI 10.1016/S0161-6420(03)00722-X
+   Li Yan, 2003, Zhonghua Yan Ke Za Zhi, V39, P541
+   MALONEY RK, 1995, OPHTHALMOLOGY, V102, P1042
+   Nichamin LD, 2001, J CATARACT REFR SURG, V27, P1343, DOI 10.1016/S0886-3350(01)01106-3
+   Norouzi H, 2003, J REFRACT SURG, V19, P416
+   Olson RJ, 2005, AM J OPHTHALMOL, V140, P709, DOI 10.1016/j.ajo.2005.03.061
+   Pershin KB, 2000, J REFRACT SURG, V16, pS257, DOI 10.3928/1081-597X-20000302-13
+   Pop M, 2001, OPHTHALMOLOGY, V108, P104, DOI 10.1016/S0161-6420(00)00451-6
+   Prager Thomas C, 2006, Ophthalmol Clin North Am, V19, P435
+   Raman S, 2003, J CATARACT REFR SURG, V29, P513, DOI 10.1016/S0886-3350(02)01637-1
+   Rocha KM, 2005, J REFRACT SURG, V21, pS808
+   Velarde JI, 2001, J REFRACT SURG, V17, pS234
+   Werner Liliana, 2006, Ophthalmol Clin North Am, V19, P469
+   Zaldivar R, 2002, J REFRACT SURG, V18, pS336
+NR 27
+TC 21
+Z9 23
+U1 0
+U2 2
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 1040-8738
+J9 CURR OPIN OPHTHALMOL
+JI Curr. Opin. Ophthalmol.
+PD JAN
+PY 2008
+VL 19
+IS 1
+BP 18
+EP 21
+DI 10.1097/ICU.0b013e3282f14d9f
+PG 4
+WC Ophthalmology
+SC Ophthalmology
+GA 247JL
+UT WOS:000252074400005
+PM 18090892
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Macsai, M
+AF Fontes, Bruno M.
+   Macsai, Marian
+TI Corneal ectasia after scleral buckling surgery
+SO CORNEA
+LA English
+DT Article
+DE corneal biomechanics; corneal ectasia; scleral buckling complications
+AB Purpose: To describe a case of corneal ectasia with marked asymmetric progression attributable to encircling buckle surgery for retinal detachment.
+   Methods: Case report.
+   Results: A 72-year-old man developed clinical signs of pellucid marginal degeneration in 1 eye after placement of an encircling scleral buckle. The fellow eye showed normal slit-lamp examination, with topographic signs of forme-fruste pellucid marginal degeneration.
+   Conclusion: Patients with forme-fruste pellucid marginal degeneration may show progression and clinical manifestations after encircling scleral buckle, probably by changes in ocular physiology and corneal biomechanics.
+C1 Oftalmoclin Meier, Rio De Janeiro, Brazil.
+   Ctr Medico RIOMAR, Rio De Janeiro, Brazil.
+   Evanston NW Healthcare, Evanston, IL USA.
+   Northwestern Univ, Dept Ophthalmol, Chicago, IL 60611 USA.
+RP Fontes, BM (corresponding author), Ave Amer 2300 B Casa 27, BR-22640101 Rio De Janeiro, Brazil.
+EM brunofontcs@openlink.com.br
+CR Belda JI, 2002, OPHTHALMOLOGY, V109, P1950, DOI 10.1016/S0161-6420(02)01211-3
+   Charonis Alexander, 2004, Ophthalmol Clin North Am, V17, P545, DOI 10.1016/j.ohc.2004.06.008
+   Hayashi H, 1997, OPHTHALMOLOGY, V104, P831, DOI 10.1016/S0161-6420(97)30226-7
+   Luce DA, 2005, J CATARACT REFR SURG, V31, P156, DOI 10.1016/j.jcrs.2004.10.044
+   Moshfeghi AA, 2004, ARCH OPHTHALMOL-CHIC, V122, P473, DOI 10.1001/archopht.122.4.473
+   Panozzo G, 2001, OPHTHALMOLOGY, V108, P1663, DOI 10.1016/S0161-6420(01)00672-8
+   Phillips JR, 2004, INVEST OPHTH VIS SCI, V45, P758, DOI 10.1167/iovs.03-0732
+   Randleman J Bradley, 2004, Ophthalmol Clin North Am, V17, P513, DOI 10.1016/j.ohc.2004.06.001
+   Randleman J Bradley, 2004, Ophthalmol Clin North Am, V17, P521, DOI 10.1016/j.ohc.2004.06.002
+   Santo RM, 1999, AM J OPHTHALMOL, V127, P205, DOI 10.1016/S0002-9394(98)00349-3
+   Weinberger D, 1999, OPHTHALMOLOGY, V106, P1521, DOI 10.1016/S0161-6420(99)90447-5
+NR 11
+TC 0
+Z9 1
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0277-3740
+EI 1536-4798
+J9 CORNEA
+JI Cornea
+PD DEC
+PY 2006
+VL 25
+IS 10
+BP 1257
+EP 1259
+DI 10.1097/01.ico.0000231490.87754.2d
+PG 3
+WC Ophthalmology
+SC Ophthalmology
+GA 120YD
+UT WOS:000243121800030
+PM 17172914
+DA 2020-11-11
+ER
+
+PT J
+AU Fontes, BM
+   Muccioli, C
+   Principe, AH
+   Finamor, LP
+   Hofling-Lima, AL
+   Belfort, R
+AF Fontes, BM
+   Muccioli, C
+   Principe, AH
+   Finamor, LP
+   Hofling-Lima, AL
+   Belfort, R
+TI Effect of chronic systemic use of trimethoprim-sulfamethoxazole in the
+   conjunctival bacterial flora of patients with HIV infection
+SO AMERICAN JOURNAL OF OPHTHALMOLOGY
+LA English
+DT Article
+AB PURPOSE: To investigate the effect of orally administered trimethoprim-sulfamethoxazole (TMP-SMZ) on the prevalence, species distribution, and resistance of the conjunctival bacterial flora in adults with human immunodeficiency virus (HIV) infection.
+   DESIGN: Cross-sectional study, with clinical and experimental laboratory investigation.
+   METHODS: Samples from the inferior conjunctival fornix were collected and submitted for culture to evaluate aerobic flora.
+   RESULTS: Sixty samples were collected. Negative cultures were found in 17 (56.7%) eyes of the TMP-SMZ group and in 10 (33%) of the control group (P = .036). All Staphylococcus species isolates in the TMP-SMZ group were resistant to the drug, whereas 50% of the control group presented this finding (P = .025). In the study group, all bacteria were resistant to TMP-SMZ, compared with only 47% of the microorganisms in the control group.
+   CONCLUSION: Orally administered TMP-SMZ in patients with HIV infection seems to exert a selection pressure in the microorganisms present on the conjunctiva. (C) 2004 by Elsevier Inc. All rights reserved.
+C1 Univ Fed Sao Paulo, Paulista Sch Med, Dept Ophthalmol, Lab External Dis,Uveitis & AIDS Sector, Sao Paulo, Brazil.
+RP Fontes, BM (corresponding author), Pedro Toledo 544 Apto 403,Vila Clementino, BR-04039001 Sao Paulo, SP, Brazil.
+EM brunofontes@oftalmo.epm.br
+RI Hofling-Lima, Ana/O-7438-2019; Muccioli, Cristina/C-3419-2013; Belfort,
+   Rubens/E-2252-2012; Hofling-Lima, Ana Luisa/C-8865-2012
+OI Hofling-Lima, Ana/0000-0003-0338-3951; Belfort,
+   Rubens/0000-0002-8422-3898; 
+CR Chern KC, 1999, BRIT J OPHTHALMOL, V83, P1332, DOI 10.1136/bjo.83.12.1332
+   GRIMWADE K, 2003, COCHRANE LIB
+   Gritz DC, 1997, CORNEA, V16, P400, DOI 10.1097/00003226-199707000-00005
+   HOFLINGLIMA AL, 2002, EXOGENOUS OCULAR INF
+   McNaghten AD, 1999, AIDS, V13, P1687, DOI 10.1097/00002030-199909100-00012
+NR 5
+TC 3
+Z9 4
+U1 0
+U2 2
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0002-9394
+J9 AM J OPHTHALMOL
+JI Am. J. Ophthalmol.
+PD OCT
+PY 2004
+VL 138
+IS 4
+BP 678
+EP 679
+DI 10.1016/j.ajo.2004.05.013
+PG 2
+WC Ophthalmology
+SC Ophthalmology
+GA 864UO
+UT WOS:000224658600038
+PM 15488812
+DA 2020-11-11
+ER
+
+PT J
+AU Silva, FDCE
+   Ramos, RCZ
+   Zantut, LFC
+   Poggetti, RS
+   Fontes, B
+   Birolini, D
+AF Silva, FDCE
+   Ramos, RCZ
+   Zantut, LFC
+   Poggetti, RS
+   Fontes, B
+   Birolini, D
+TI Laparoscopic pneumoperitoneum in acute peritonitis does not increase
+   bacteremia or aggravate metabolic or hemodynamic disturbances
+SO SURGICAL LAPAROSCOPY ENDOSCOPY & PERCUTANEOUS TECHNIQUES
+LA English
+DT Article
+DE animal model; bacteremia; bacterial peritonitis; carbon dioxide;
+   laparoscopy; pneumoperitoneum
+ID INTRA-ABDOMINAL PRESSURE; HUMAN SEPTIC SHOCK; CARBON-DIOXIDE; CANINE
+   MODEL; INSUFFLATION; DYSFUNCTION; ABSORPTION; SEPSIS
+AB The use of laparoscopy in generalized peritonitis has become increasingly frequent in recent years. However, CO2 pneumoperitoneum in association with increased intraperitoneal pressure may have deleterious effects in patients with hemodynamic or metabolic disturbances caused by bacterial peritonitis. The purpose of this study was to investigate the effect of CO2 pneumoperitoneum on bacteremia, mean arterial pressure, and blood gas disturbances in an animal model of bacterial peritonitis. Dogs were anesthetized, orally intubated, and subjected to experimental peritonitis by intraperitoneal inoculation of a suspension containing Escherichia coli and sterile dog feces. The animals were randomly assigned to two groups: control animals were maintained under anesthesia, and the insufflated animals were subjected to intraperitoneal CO2 insufflation. Bacterial peritonitis provoked the appearance of bacteremia and a significant decrease in mean arterial pressure, pH, bicarbonate, and base deficit. The induction of bacterial peritonitis did not significantly influence pH in the control group and partial pressure of arterial CO2 in either group. Thirty minutes of CO2 pneumoperitoneum did not influence the effect of bacterial peritonitis on the analyzed variables. These results suggest that laparoscopic CO2 pneumoperitoneum does not aggravate bacteremia or metabolic and hemodynamic disturbances induced by bacterial peritonitis.
+C1 Univ Sao Paulo, Sch Med, Dept Surg, Sao Paulo, Brazil.
+RP Silva, FDCE (corresponding author), Rua Carlos Steinen 32 Ap 31, Sao Paulo, Brazil.
+CR ALLEN L, 1959, AM J PHYSIOL, V197, P551
+   BARNES GE, 1985, AM J PHYSIOL, V248, pR208
+   BERCI G, 1993, WORLD J SURG, V17, P8, DOI 10.1007/BF01655697
+   BOOKER WM, 1947, AM J PHYSIOL, V149, P292
+   BROWNE MK, 1985, SURG GYNECOL OBSTET, V161, P313
+   CALLERY MP, 1993, BAILLIERE CLIN GASTR, V7, P757, DOI 10.1016/0950-3528(93)90014-J
+   CRONENWETT JL, 1982, J SURG RES, V33, P324, DOI 10.1016/0022-4804(82)90045-2
+   De Watteville JC, 1991, CHIRURG DIGESTIVE VO, P170
+   DIAMANT M, 1978, ANESTHESIOLOGY, V48, P23, DOI 10.1097/00000542-197801000-00005
+   DUNN DL, 1994, SURG CLIN N AM, V74, P621, DOI 10.1016/S0039-6109(16)46333-4
+   DUNN DL, 1985, INFECT IMMUN, V49, P257, DOI 10.1128/IAI.49.2.257-264.1985
+   FRENCH J. E., 1960, QUART JOUR EXPTL PHYSIOL, V45, P88
+   HARDIE EM, 1983, CIRC SHOCK, V11, P159
+   HASSAPIS J, 1995, 55 ANN M AM ASS SURG
+   HO HS, 1992, ARCH SURG-CHICAGO, V127, P928
+   HODGSON C, 1970, ANAESTHESIA, V25, P382, DOI 10.1111/j.1365-2044.1970.tb00226.x
+   IVANKOVICH AD, 1975, ANESTHESIOLOGY, V42, P281, DOI 10.1097/00000542-197503000-00008
+   KASHTAN J, 1981, J SURG RES, V30, P249, DOI 10.1016/0022-4804(81)90156-6
+   KELMAN GR, 1972, BRIT J ANAESTH, V44, P1155, DOI 10.1093/bja/44.11.1155
+   LAMIS PA, 1996, AM SURGEON, V32, P751
+   LEIGHTON T, 1992, AM SURGEON, V58, P717
+   MACTIER RA, 1989, T AM SOC ART INT ORG, V35, P122
+   MADDAUS MA, 1988, SURG CLIN N AM, V68, P431
+   MOTEW M, 1973, AM J OBSTET GYNECOL, V115, P1002, DOI 10.1016/0002-9378(73)90683-2
+   NATANSON C, 1986, J CLIN INVEST, V78, P259, DOI 10.1172/JCI112559
+   NATANSON C, 1989, J CLIN INVEST, V83, P243, DOI 10.1172/JCI113866
+   Navez B, 1998, BRIT J SURG, V85, P32
+   PATERSONBROWN S, 1991, BAILLIERE CLIN GASTR, V5, P691, DOI 10.1016/0950-3528(91)90048-6
+   RICHARDSON JD, 1976, J SURG RES, V20, P401, DOI 10.1016/0022-4804(76)90112-8
+   SMITH I, 1971, BRIT MED J, V3, P410, DOI 10.1136/bmj.3.5771.410
+   Steinberg B, 1927, ARCH INTERN MED, V39, P449, DOI 10.1001/archinte.1927.00130030134013
+   ZINK J, 1977, GASTROENTEROLOGY, V73, P1119
+NR 32
+TC 5
+Z9 6
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 1530-4515
+EI 1534-4908
+J9 SURG LAPARO ENDO PER
+JI Surg. Laparosc. Endosc. Pct. Tech.
+PD OCT
+PY 2000
+VL 10
+IS 5
+BP 305
+EP 310
+PG 6
+WC Surgery
+SC Surgery
+GA 362XR
+UT WOS:000089804000008
+PM 11083214
+DA 2020-11-11
+ER
+
+EF

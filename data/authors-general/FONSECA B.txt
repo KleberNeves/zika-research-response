@@ -1,0 +1,4144 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Leonhard, S
+   Barreira, A
+   Van Doorn, P
+   Amorelli, M
+   Araujo, W
+   Gondim, FDA
+   Brito, M
+   Tan, CY
+   Cornblath, D
+   Dourado, ME
+   Fonseca, B
+   Souza, DGB
+   Islam, Z
+   Maciel, E
+   Marques, W
+   Matos, L
+   Mohammad, QD
+   Osorio, L
+   Pardo, C
+   Parra, B
+   Reisin, R
+   Resende, G
+   Dos Santos, D
+   Sejvar, J
+   Shahrizaila, N
+   Mendonca, HS
+   Solomon, T
+   Thirugnanam, U
+   Willison, H
+   Jacobs, B
+AF Leonhard, Sonja
+   Barreira, Amilton
+   Van Doorn, Pieter
+   Amorelli, Manuela
+   Araujo, Wildo
+   Aquino Gondim, Francisco De Assis
+   Brito, Maria
+   Tan Cheng-Yin
+   Cornblath, David
+   Dourado, Mario Emilio
+   Fonseca, Benedito
+   Brum Souza, Doralina Guimaraes
+   Islam, Zhahirul
+   Maciel, Ernane
+   Marques, Wilson
+   Matos, Luiza
+   Mohammad, Quazi Deen
+   Osorio, Lyda
+   Pardo, Carlos
+   Parra, Beatriz
+   Reisin, Ricardo
+   Resende, Glaucia
+   Dos Santos, Diogo
+   Sejvar, James
+   Shahrizaila, Nortina
+   Mendonca, Helena Silva
+   Solomon, Tom
+   Thirugnanam, Umapathi
+   Willison, Hugh
+   Jacobs, Bart
+TI International Zika virus related Guillain-Barre Syndrome Outcome Study
+   (IGOS-Zika): Update of a case-controlled study
+SO JOURNAL OF THE PERIPHERAL NERVOUS SYSTEM
+LA English
+DT Meeting Abstract
+CT Annual Meeting of the Peripheral-Nerve-Society
+CY JUL 21-25, 2018
+CL Baltimore, MD
+SP Peripheral Nerve Soc
+DE Inflammatory; Other
+C1 [Leonhard, Sonja; Van Doorn, Pieter; Jacobs, Bart] Erasmus MC, Dept Neurol, Rotterdam, Netherlands.
+   [Barreira, Amilton; Marques, Wilson] Univ Sao Paulo, Med Sch, Dept Neurosci, Ribeirao Preto, Brazil.
+   [Amorelli, Manuela] Secretary State Fed Dist, Dept Infect Dis, Brasilia, DF, Brazil.
+   [Araujo, Wildo] Univ Brasilia, Ceilandia Fac, Dept Epidemiol, Brasilia, DF, Brazil.
+   [Aquino Gondim, Francisco De Assis] Hosp Univ Walter Cantidio Fortaleza, Fortaleza, Ceara, Brazil.
+   [Brito, Maria] Hosp Restauracao, Recife, PE, Brazil.
+   [Tan Cheng-Yin; Shahrizaila, Nortina] Univ Malaya, Dept Neurol, Kuala Lumpur, Malaysia.
+   [Cornblath, David; Pardo, Carlos] Johns Hopkins Univ, Sch Med, Dept Neurol, Baltimore, MD 21205 USA.
+   [Dourado, Mario Emilio] Hosp Univ Onofre Lopes, Natal, RN, Brazil.
+   [Fonseca, Benedito] Med Sch Ribeirao Preto, Dept Virol, Ribeirao Preto, Brazil.
+   [Brum Souza, Doralina Guimaraes] Hosp Clin Fac Med Botucatu, Botucatu, SP, Brazil.
+   [Islam, Zhahirul] Icddr B, Lab Sci & Serv Div, Dhaka, Bangladesh.
+   [Maciel, Ernane; Matos, Luiza] Hosp Base Dist Fed, Brasilia, DF, Brazil.
+   [Mohammad, Quazi Deen] Inst Neurosci & Hosp NINS, Dhaka, Bangladesh.
+   [Osorio, Lyda; Parra, Beatriz] Univ Valle, Cali, Colombia.
+   [Reisin, Ricardo] Hosp Britanico, Buenas Aires, Argentina.
+   [Resende, Glaucia] Hosp Municipal Odilon Behrens MG, Belo Horizonte, MG, Brazil.
+   [Dos Santos, Diogo] Hosp Clin Univ Fed Oberlandia, Oberlandia, Brazil.
+   [Sejvar, James] Ctr Dis Control & Prevent, Atlanta, GA USA.
+   [Mendonca, Helena Silva] Univ Fed Goias, Goiania, Go, Brazil.
+   [Solomon, Tom] Hlth Protect Res Unit Emerging & Zoonot Infect, Liverpool, Merseyside, England.
+   [Thirugnanam, Umapathi] Natl Neurosci Inst, Singapore, Singapore.
+   [Willison, Hugh] Univ Glasgow, Dept Neurol, Glasgow, Lanark, Scotland.
+RI Marques, Wilson/G-4240-2012; Tan, Cheng-Yin/AAX-1763-2020; Araujo, Wildo
+   Navegantes/AAD-9163-2020; Pardo, Carlos A./A-5192-2008
+OI Marques, Wilson/0000-0002-4589-2749; Araujo, Wildo
+   Navegantes/0000-0002-6856-4094; Pardo, Carlos A./0000-0002-4128-5335
+FU European Union's Horizon 2020 research and innovation programme [734584]
+FX This project has received funding from the European Union's Horizon 2020
+   research and innovation programme under grant agreement No 734584
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1085-9489
+EI 1529-8027
+J9 J PERIPHER NERV SYST
+JI J. Peripher. Nerv. Syst.
+PD DEC
+PY 2018
+VL 23
+IS 4
+BP 321
+EP 322
+PG 2
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA HD8EO
+UT WOS:000452787700182
+DA 2020-11-10
+ER
+
+PT J
+AU Esposito, DL
+   Fonseca, BA
+AF Esposito, Danillo
+   Fonseca, Benedito
+TI INVESTIGATION OF <it>IN VITRO</it> INFECTIVITY OF CHIKUNGUNYA IMMATURE
+   VIRUS PARTICLES IN MAMMALIAN AND INSECT CELL LINES
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 67th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTHM)
+CY OCT 28-NOV 01, 2018
+CL New Orleans, LA
+SP Amer Soc Trop Med & Hyg, Bill & Melinda Gates Fdn, Takeda Pharmaceut Int AG, Novartis Social Business, Celgene Corp, Techlab Inc, Indiana Univ, Sch Med, B EI Resources, Sanofi Pasteur, Welcome, PLOS, Elsevier
+C1 [Esposito, Danillo; Fonseca, Benedito] Univ Sao Paulo, Ribeirao Preto, Brazil.
+RI Esposito, Danillo L.A./N-9261-2017
+OI Esposito, Danillo L.A./0000-0002-2755-4471
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2018
+VL 99
+IS 4
+SU S
+MA 170
+BP 53
+EP 53
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA HP0WF
+UT WOS:000461386602171
+DA 2020-11-10
+ER
+
+PT J
+AU Doltrario, AB
+   Silveira, LB
+   Silva, RF
+   Vilar, FC
+   Silva, ACT
+   Salomao, MC
+   Faiolla, RC
+   Del Padua, J
+   Fonseca, BA
+   Martinez, R
+AF Doltrario, Andrea
+   Silveira, Lude
+   Silva, Rafael
+   Vilar, Fernando
+   Silva, Anna
+   Salomao, Mariana
+   Faiolla, Rivian
+   Del Padua, Joel
+   Fonseca, Benedito
+   Martinez, Roberto
+TI CRACK LUNG MIMICKING MILIARY TUBERCULOSIS AND FUNGAL DISEASES IN A
+   HIV-INFECTED PATIENT
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 67th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTHM)
+CY OCT 28-NOV 01, 2018
+CL New Orleans, LA
+SP Amer Soc Trop Med & Hyg, Bill & Melinda Gates Fdn, Takeda Pharmaceut Int AG, Novartis Social Business, Celgene Corp, Techlab Inc, Indiana Univ, Sch Med, B EI Resources, Sanofi Pasteur, Welcome, PLOS, Elsevier
+C1 [Doltrario, Andrea; Silveira, Lude; Silva, Rafael; Vilar, Fernando; Silva, Anna; Salomao, Mariana; Faiolla, Rivian; Del Padua, Joel; Fonseca, Benedito; Martinez, Roberto] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI Vilar, Fernando Crivelenti/AAK-4233-2020
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2018
+VL 99
+IS 4
+SU S
+MA 1975
+BP 621
+EP 621
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA HP0WF
+UT WOS:000461386605025
+DA 2020-11-10
+ER
+
+PT J
+AU Silveira, LB
+   Doltrario, AB
+   Silva, RF
+   Vilar, FC
+   Silva, ACT
+   Salomao, MC
+   Faiolla, RC
+   Fabro, AT
+   Fonseca, BA
+   Martinez, R
+AF Silveira, Lude
+   Doltrario, Andrea
+   Silva, Rafael
+   Vilar, Fernando
+   Silva, Anna
+   Salomao, Mariana
+   Faiolla, Rivian
+   Fabro, Alexandre
+   Fonseca, Benedito
+   Martinez, Roberto
+TI SUCCESSFUL TREATMENT OF DISSEMINATED STRONGYLOIDIASIS WITH SUBCUTANEOUS
+   IVERMECTIN
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 67th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTHM)
+CY OCT 28-NOV 01, 2018
+CL New Orleans, LA
+SP Amer Soc Trop Med & Hyg, Bill & Melinda Gates Fdn, Takeda Pharmaceut Int AG, Novartis Social Business, Celgene Corp, Techlab Inc, Indiana Univ, Sch Med, B EI Resources, Sanofi Pasteur, Welcome, PLOS, Elsevier
+C1 [Silveira, Lude; Doltrario, Andrea; Silva, Rafael; Vilar, Fernando; Silva, Anna; Salomao, Mariana; Faiolla, Rivian; Fabro, Alexandre; Fonseca, Benedito; Martinez, Roberto] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI Vilar, Fernando Crivelenti/AAK-4233-2020
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2018
+VL 99
+IS 4
+SU S
+MA 1976
+BP 621
+EP 621
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA HP0WF
+UT WOS:000461386605026
+DA 2020-11-10
+ER
+
+PT J
+AU Moraes, FM
+   Esposito, DL
+   Klein, TM
+   Fonseca, BA
+AF Moraes, Flavia M.
+   Esposito, Danillo L.
+   Klein, Taline M.
+   Fonseca, Benedito A.
+TI EVALUATION OF SELECTED REAL-TIME RT-PCR PROTOCOLS AIMING AT THE BEST
+   POSSIBLE MOLECULAR DIAGNOSIS OF ZIKA VIRUS INFECTIONS
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 65th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 13-16, 2016
+CL Atlanta, GA
+SP Amer Soc Trop Med & Hygiene, Bill & Melinda Gates Fdn, Takeda Pharamaceut Int AG, ClinicalRM, Techlab Inc, Bayer, Sanofi Pasteur, ACS Infectious Diseases, New England Biolabs
+C1 [Moraes, Flavia M.; Esposito, Danillo L.; Klein, Taline M.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI Esposito, Danillo L.A./N-9261-2017
+OI Esposito, Danillo L.A./0000-0002-2755-4471
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2017
+VL 95
+IS 5
+SU S
+MA 747
+BP 235
+EP 236
+PG 2
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FJ6FS
+UT WOS:000412851502270
+DA 2020-11-10
+ER
+
+PT J
+AU Torres, FP
+   Esposito, DL
+   Klein, TM
+   Moraes, FM
+   Persona, MR
+   Fonseca, BA
+AF Torres, Fernanda P.
+   Esposito, Danillo L.
+   Klein, Taline M.
+   Moraes, Flavia M.
+   Persona, Michelli R.
+   Fonseca, Benedito A.
+TI DEFINING THE CLINICAL MANIFESTATIONS OF ZIKA AND DENGUE PATIENTS
+   ATTENDED IN RIBEIRAO PRETO, BRAZIL
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 65th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 13-16, 2016
+CL Atlanta, GA
+SP Amer Soc Trop Med & Hygiene, Bill & Melinda Gates Fdn, Takeda Pharamaceut Int AG, ClinicalRM, Techlab Inc, Bayer, Sanofi Pasteur, ACS Infectious Diseases, New England Biolabs
+C1 [Torres, Fernanda P.; Esposito, Danillo L.; Klein, Taline M.; Moraes, Flavia M.; Persona, Michelli R.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, Brazil.
+RI Esposito, Danillo L.A./N-9261-2017
+OI Esposito, Danillo L.A./0000-0002-2755-4471
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2017
+VL 95
+IS 5
+SU S
+MA 1366
+BP 429
+EP 429
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FJ6FS
+UT WOS:000412851502889
+DA 2020-11-10
+ER
+
+PT J
+AU Esposito, DL
+   Moraes, FM
+   Klein, TM
+   Persona, MR
+   Ribeiro, BS
+   Molla, VC
+   Frade, MAC
+   Fonseca, BA
+AF Esposito, Danillo L.
+   Moraes, Flavia M.
+   Klein, Taline M.
+   Persona, Michelli R.
+   Ribeiro, Beatriz S.
+   Molla, Vinicius C.
+   Frade, Marco Andrey C.
+   Fonseca, Benedito A.
+TI ZIKA VIRUS INFECTIONS: PAYING ATTENTION TO ATYPICAL PRESENTATIONS
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 65th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 13-16, 2016
+CL Atlanta, GA
+SP Amer Soc Trop Med & Hygiene, Bill & Melinda Gates Fdn, Takeda Pharamaceut Int AG, ClinicalRM, Techlab Inc, Bayer, Sanofi Pasteur, ACS Infectious Diseases, New England Biolabs
+C1 [Esposito, Danillo L.; Moraes, Flavia M.; Klein, Taline M.; Persona, Michelli R.; Ribeiro, Beatriz S.; Molla, Vinicius C.; Frade, Marco Andrey C.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI FRADE, MARCO ANDREY/AAB-5450-2020; Frade, Marco A C/G-1165-2012;
+   Esposito, Danillo L.A./N-9261-2017
+OI FRADE, MARCO ANDREY/0000-0003-2700-5971; Frade, Marco A
+   C/0000-0003-2700-5971; Esposito, Danillo L.A./0000-0002-2755-4471
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2017
+VL 95
+IS 5
+SU S
+MA 1383
+BP 435
+EP 435
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FJ6FS
+UT WOS:000412851502906
+DA 2020-11-10
+ER
+
+PT J
+AU Silva, JR
+   Lopes, AH
+   Talbot, J
+   Cecilio, NT
+   Rossato, MF
+   Silva, RL
+   Souza, GR
+   Silva, CR
+   Lucas, G
+   Fonseca, BA
+   Arruda, E
+   Alves, JC
+   Cunha, FQ
+   Cunha, TM
+AF Silva, Jaqueline R.
+   Lopes, Alexandre H.
+   Talbot, Jhimmy
+   Cecilio, Nerry T.
+   Rossato, Mateus F.
+   Silva, Rangel L.
+   Souza, Guilherme R.
+   Silva, Cassia R.
+   Lucas, Guilherme
+   Fonseca, Benedito A.
+   Arruda, Eurico
+   Alves-Filho, Jose C.
+   Cunha, Fernando Q.
+   Cunha, Thiago M.
+TI Neuroimmune-Glia Interactions in the Sensory Ganglia Account for the
+   Development of Acute Herpetic Neuralgia
+SO JOURNAL OF NEUROSCIENCE
+LA English
+DT Article
+DE glial cells; herpes; inflammation; pain
+ID SIMPLEX-VIRUS TYPE-1; DORSAL-ROOT GANGLIA; TUMOR-NECROSIS-FACTOR;
+   RECTIFYING POTASSIUM CURRENTS; TRIGEMINAL GANGLION; TNF-ALPHA;
+   POSTHERPETIC NEURALGIA; NEUROPATHIC PAIN; UP-REGULATION; NERVE INJURY
+AB Herpetic neuralgia is the most important symptom of herpes zoster disease, which is caused by Varicella zoster. Nevertheless, the pathophysiological mechanisms involved in herpetic neuralgia are not totally elucidated. Here, we examined the neuroimmune interactions at the sensory ganglia that account for the genesis of herpetic neuralgia using a murine model of Herpes Simplex Virus Type-1 (HSV-1) infection. The cutaneous HSV-1 infection of mice results in the development of a zosteriform-like skin lesion followed by a time-dependent increase in pain-like responses (mechanical allodynia). Leukocytes composed mainly of macrophages and neutrophils infiltrate infected DRGs and account for the development of herpetic neuralgia. Infiltrating leukocytes are responsible for driving the production of TNF, which in turn mediates the development of herpetic neuralgia through downregulation of the inwardly rectifying K+ channel Kir4.1 in satellite glial cells. These results revealed that neuroimmune-glia interactions at the sensory ganglia play a critical role in the genesis of herpetic neuralgia. In conclusion, the present study elucidates novel mechanisms involved in the genesis of acute herpetic pain and open new avenues for its control.
+C1 [Silva, Jaqueline R.; Lopes, Alexandre H.; Talbot, Jhimmy; Cecilio, Nerry T.; Rossato, Mateus F.; Silva, Rangel L.; Souza, Guilherme R.; Silva, Cassia R.; Alves-Filho, Jose C.; Cunha, Fernando Q.; Cunha, Thiago M.] Univ Sao Paulo, Dept Pharmacol, Ribeirao Preto Med Sch, BR-14040900 Sao Paulo, Brazil.
+   [Silva, Jaqueline R.; Alves-Filho, Jose C.; Cunha, Fernando Q.; Cunha, Thiago M.] Univ Sao Paulo, Grad Program Basic & Appl Immunol, Ribeirao Preto Med Sch, BR-14040900 Sao Paulo, Brazil.
+   [Lucas, Guilherme] Univ Sao Paulo, Dept Physiol, Ribeirao Preto Med Sch, BR-14040900 Sao Paulo, Brazil.
+   [Fonseca, Benedito A.] Univ Sao Paulo, Dept Internal Med, Ribeirao Preto Med Sch, BR-14040900 Sao Paulo, Brazil.
+   [Arruda, Eurico] Univ Sao Paulo, Dept Cellular Biol, Ribeirao Preto Med Sch, BR-14040900 Sao Paulo, Brazil.
+RP Cunha, FQ; Cunha, TM (corresponding author), Univ Sao Paulo, Ribeirao Preto Med Sch, Pharmacol Dept, Ave Bandeirantes,3900, BR-14040900 Ribeirao Preto, SP, Brazil.
+EM fdqcunha@fmrp.usp.br; thicunha@fmrp.usp.br
+RI Cunha, Fernando Q/M-3090-2014; Cecilio, Nerry/L-2378-2016; da Silva,
+   Cassia Regina/P-3697-2017; Silva, Rangel Leal/G-2009-2016; Cecilio,
+   Nerry/L-9927-2017; Cunha, Thiago M/B-7729-2012; Alves-Filho, Jose
+   Carlos/B-5814-2008; Lucas, Guilherme/N-8827-2014; Fonseca,
+   Benedito/F-3252-2012
+OI da Silva, Cassia Regina/0000-0002-1353-2570; Silva, Rangel
+   Leal/0000-0002-1322-7808; Cunha, Thiago M/0000-0003-1084-0065;
+   Alves-Filho, Jose Carlos/0000-0002-9918-8714; Lucas,
+   Guilherme/0000-0002-1656-9571; Cecilio, Nerry
+   Tatiana/0000-0001-5465-5238; Cunha, Fernando
+   Queiroz/0000-0003-4755-1670; Fonseca, Benedito/0000-0003-3159-5687
+FU Sao Paulo Research Foundation (FAPESP)Fundacao de Amparo a Pesquisa do
+   Estado de Sao Paulo (FAPESP) [2010/12309-8, 2011/19670-0, 2013/08216-2];
+   University of Sao Paulo NAP-DIN [11.1.21625.01.0]; European Union
+   Seventh Framework ProgrammeEuropean Union (EU) [HEALTH-F4-2011-281608
+   TIMER]; International Association for the Study of Pain (Early Career
+   Grant Award); FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP); CNPqNational Council for Scientific and Technological
+   Development (CNPq)
+FX This work was supported by the Sao Paulo Research Foundation (FAPESP
+   Grant 2010/12309-8, 2011/19670-0 for the thematic project and Grant
+   2013/08216-2 to the Center for Research in Inflammatory Disease); the
+   University of Sao Paulo NAP-DIN (Grant 11.1.21625.01.0); and the
+   European Union Seventh Framework Programme (FP7-2007-2013 Grant
+   HEALTH-F4-2011-281608 TIMER); and by the 2011 International Association
+   for the Study of Pain (Early Career Grant Award to T.M.C.). J.R.S was a
+   recipient of a fellowship from FAPESP and CNPq. We thank Sergio R. Rosa,
+   Katia Santos, and Maria Lucia Silva for technical assistance.
+CR Austin PJ, 2010, J NEUROIMMUNOL, V229, P26, DOI 10.1016/j.jneuroim.2010.08.013
+   Belzer V, 2010, NEURON GLIA BIOL, V6, P237, DOI 10.1017/S1740925X1100007X
+   Carr DJJ, 2006, J GEN VIROL, V87, P489, DOI 10.1099/vir.0.81339-0
+   Colleoni M, 2010, BBA-MOL BASIS DIS, V1802, P924, DOI 10.1016/j.bbadis.2009.10.012
+   Cunha TM, 2008, J LEUKOCYTE BIOL, V83, P824, DOI 10.1189/jlb.0907654
+   Cunha TM, 2004, BRAZ J MED BIOL RES, V37, P401, DOI 10.1590/S0100-879X2004000300018
+   Daley JM, 2008, J LEUKOCYTE BIOL, V83, P64, DOI 10.1189/jlb.0407247
+   Dubovy P, 2006, CELL MOL NEUROBIOL, V26, P1205, DOI 10.1007/s10571-006-9006-3
+   Faust N, 2000, BLOOD, V96, P719
+   Freland S, 2000, SCAND J IMMUNOL, V51, P219
+   Gan EY, 2013, AM J CLIN DERMATOL, V14, P77, DOI 10.1007/s40257-013-0011-2
+   Gilden D, 2011, NEUROPATH APPL NEURO, V37, P441, DOI 10.1111/j.1365-2990.2011.01167.x
+   Gnann JW, 2002, NEW ENGL J MED, V347, P340, DOI 10.1056/NEJMcp1302674
+   Hicks DJ, 2013, J COMP PATHOL, V149, P446, DOI 10.1016/j.jcpa.2013.04.001
+   Inglis JJ, 2005, ARTHRITIS RES THER, V7, pR807, DOI 10.1186/ar1743
+   Jancalek R, 2010, J NEUROINFLAMM, V7, DOI 10.1186/1742-2094-7-11
+   Javed S, 2011, J MED VIROL, V83, P2051, DOI 10.1002/jmv.22182
+   Klein RS, 2005, J VIROL, V79, P11457, DOI 10.1128/JVI.79.17.11457-11466.2005
+   Kodukula P, 1999, J IMMUNOL, V162, P2895
+   Kurt-Jones EA, 2004, P NATL ACAD SCI USA, V101, P1315, DOI 10.1073/pnas.0308057100
+   Lafaille FG, 2012, NATURE, V491, P769, DOI 10.1038/nature11583
+   Lima GK, 2010, AM J PATHOL, V177, P2433, DOI 10.2353/ajpath.2010.100121
+   Madsen L, 1999, P NATL ACAD SCI USA, V96, P10338, DOI 10.1073/pnas.96.18.10338
+   MESTRE C, 1994, J PHARMACOL TOX MET, V32, P197, DOI 10.1016/1056-8719(94)90087-6
+   Nagel MA, 2014, CURR OPIN NEUROL, V27, P356, DOI 10.1097/WCO.0000000000000092
+   Njoo C, 2014, JOVE-J VIS EXP, V22, P85
+   O'Connor KM, 2013, MED CLIN N AM, V97, P503, DOI 10.1016/j.mcna.2013.02.002
+   Ohara PT, 2009, NEUROSCIENTIST, V15, P450, DOI 10.1177/1073858409336094
+   Ohtori S, 2004, SPINE, V29, P1082, DOI 10.1097/00007632-200405150-00006
+   Okun E, 2011, TRENDS NEUROSCI, V34, P269, DOI 10.1016/j.tins.2011.02.005
+   Opstelten W, 2010, J CLIN VIROL, V48, pS8, DOI 10.1016/S1386-6532(10)70003-2
+   Paludan SR, 2011, NAT REV IMMUNOL, V11, P143, DOI 10.1038/nri2937
+   Patterson CE, 2003, J IMMUNOL, V171, P3102, DOI 10.4049/jimmunol.171.6.3102
+   Rittner Heike L, 2007, Curr Rheumatol Rep, V9, P503, DOI 10.1007/s11926-007-0081-3
+   Santee Jennifer A, 2002, Am J Clin Dermatol, V3, P517, DOI 10.2165/00128071-200203080-00001
+   Sarangi PP, 2007, J VIROL, V81, P11128, DOI 10.1128/JVI.01008-07
+   Schafers M, 2008, NEUROSCIENCE, V157, P414, DOI 10.1016/j.neuroscience.2008.08.067
+   Schafers M, 2003, NEUROSCI LETT, V347, P179, DOI 10.1016/S0304-3940(03)00695-5
+   Shaw SK, 2008, EXP NEUROL, V210, P286, DOI 10.1016/j.expneurol.2007.11.024
+   SHIMELD C, 1995, J NEUROIMMUNOL, V61, P7, DOI 10.1016/0165-5728(95)00068-D
+   Stirling DP, 2009, J NEUROSCI, V29, P753, DOI 10.1523/JNEUROSCI.4918-08.2009
+   Takasaki I, 2000, JPN J PHARMACOL, V83, P319, DOI 10.1254/jjp.83.319
+   Takasaki I, 2005, NEUROPHARMACOLOGY, V49, P283, DOI 10.1016/j.neuropharm.2004.12.025
+   Takasaki I, 2000, PAIN, V86, P95, DOI 10.1016/S0304-3959(00)00240-2
+   Takasaki I, 2002, ANESTHESIOLOGY, V96, P1168, DOI 10.1097/00000542-200205000-00021
+   Takeda M, 2015, NEUROSCIENCE, V288, P51, DOI 10.1016/j.neuroscience.2014.12.024
+   Takeda M, 2011, PAIN, V152, P2147, DOI 10.1016/j.pain.2011.05.023
+   Tang X, 2010, NEUROSCIENCE, V166, P397, DOI 10.1016/j.neuroscience.2010.01.005
+   Tyring SK, 2007, J AM ACAD DERMATOL, V57, pS136, DOI 10.1016/j.jaad.2007.09.016
+   van Rooijen N, 2010, METHODS MOL BIOL, V605, P189, DOI 10.1007/978-1-60327-360-2_13
+   Verri WA, 2006, PHARMACOL THERAPEUT, V112, P116, DOI 10.1016/j.pharmthera.2006.04.001
+   Vit JP, 2008, J NEUROSCI, V28, P4161, DOI 10.1523/JNEUROSCI.5053-07.2008
+   Vit JP, 2006, NEURON GLIA BIOL, V2, P247, DOI 10.1017/S1740925X07000427
+   Wilson AC, 2012, TRENDS MICROBIOL, V20, P604, DOI 10.1016/j.tim.2012.08.005
+   Witko-Sarsat V, 2000, LAB INVEST, V80, P617, DOI 10.1038/labinvest.3780067
+NR 55
+TC 9
+Z9 11
+U1 0
+U2 6
+PU SOC NEUROSCIENCE
+PI WASHINGTON
+PA 11 DUPONT CIRCLE, NW, STE 500, WASHINGTON, DC 20036 USA
+SN 0270-6474
+J9 J NEUROSCI
+JI J. Neurosci.
+PD JUL 5
+PY 2017
+VL 37
+IS 27
+BP 6408
+EP 6422
+DI 10.1523/JNEUROSCI.2233-16.2017
+PG 15
+WC Neurosciences
+SC Neurosciences & Neurology
+GA EZ5LT
+UT WOS:000404758300004
+PM 28576938
+OA Green Published, Bronze
+DA 2020-11-10
+ER
+
+PT J
+AU Esposito, DL
+   Ferreira, AA
+   Moraes, FM
+   Persona, MR
+   dos Ribeiro, B
+   Fabio, SV
+   Passos, LMR
+   Silva, AAMCE
+   Fonseca, BA
+AF Esposito, Danillo L.
+   Ferreira, Adriana A.
+   Moraes, Flavia M.
+   Persona, Michelli R.
+   dos Ribeiro, Beatriz
+   Fabio, Suzi V.
+   Passos, Luzia Marcia R.
+   Castro e Silva, Ana Alice M.
+   Fonseca, Benedito A.
+TI ABORTION RATE IS MUCH HIGHER THAN MICROCEPHALY RATE IN ZIKA VIRUS
+   INFECTIONS OCCURRING IN THE FIRST TRIMESTER OF PREGNANCY
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 66th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 05-09, 2017
+CL Baltimore, MD
+SP Amer Soc Trop Med & Hyg
+C1 [Esposito, Danillo L.; Ferreira, Adriana A.; Moraes, Flavia M.; Persona, Michelli R.; dos Ribeiro, Beatriz; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+   [Fabio, Suzi V.; Passos, Luzia Marcia R.; Castro e Silva, Ana Alice M.] Ribeirao Preto Hlth Dept, Ribeirao Preto, SP, Brazil.
+RI Esposito, Danillo L.A./N-9261-2017
+OI Esposito, Danillo L.A./0000-0002-2755-4471
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2017
+VL 97
+IS 5
+SU S
+MA 1959
+BP 610
+EP 610
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FT5TD
+UT WOS:000423215204675
+DA 2020-11-10
+ER
+
+PT J
+AU Barreira, AA
+   Marques, W
+   Marreco, A
+   Aquino-Cruz, C
+   Esposito, D
+   Klein, T
+   Jacobs, BC
+   Hughes, RAC
+   Cornblath, DR
+   van Doorn, P
+   Gorson, KC
+   Hartung, HP
+   Willison, HJ
+   Kusunoki, S
+   Fonseca, B
+AF Barreira, A. A.
+   Marques, W., Jr.
+   Marreco, A.
+   Aquino-Cruz, C.
+   Esposito, D.
+   Klein, T.
+   Jacobs, B. C.
+   Hughes, R. A. C.
+   Cornblath, D. R.
+   van Doorn, P.
+   Gorson, K. C.
+   Hartung, H-P
+   Willison, H. J.
+   Kusunoki, S.
+   Fonseca, B.
+TI GUILLAIN-BARRE SYNDROME RELATED TO ZIKA VIRUS INFECTION IN BRAZIL
+SO JOURNAL OF THE PERIPHERAL NERVOUS SYSTEM
+LA English
+DT Meeting Abstract
+CT Inflammatory Neuropathy Consortium and GBS 100 Centenary Symposium and
+   Ceilidh
+CY JUN 21-24, 2016
+CL Univ Glasgow, Glasgow, SCOTLAND
+SP Baxalta, CSL Behring, Grifols, Kedrion S p A, GBS CIDP Fdn Int, Guillain Barre Associated Inflammatory Neuropathies, LFB Biomedicaments, Octapharma, TEVA
+HO Univ Glasgow
+C1 [Barreira, A. A.] Univ Sao Paulo, Med Sch Ribeirao Preto, BR-05508 Sao Paulo, Brazil.
+   [Marques, W., Jr.; Marreco, A.; Aquino-Cruz, C.; Esposito, D.; Klein, T.; Fonseca, B.] Univ Sao Paulo, Sch Med, BR-05508 Sao Paulo, Brazil.
+   [Marques, W., Jr.; Marreco, A.; Aquino-Cruz, C.; Esposito, D.; Klein, T.; Fonseca, B.] Univ Sao Paulo, Univ Hosp Ribeirao Preto, BR-05508 Sao Paulo, Brazil.
+   [Jacobs, B. C.; van Doorn, P.] Erasmus MC, Rotterdam, Netherlands.
+   [Hughes, R. A. C.] UCL, Inst Neurol, London, England.
+   [Cornblath, D. R.] Johns Hopkins Univ, Baltimore, MD USA.
+   [Gorson, K. C.] Tufts Univ, Sch Med, Boston, MA 02111 USA.
+   [Hartung, H-P] Univ Dusseldorf, Dusseldorf, Germany.
+   [Willison, H. J.] Univ Glasgow, Glasgow, Lanark, Scotland.
+   [Kusunoki, S.] Univ Sch Med, Osaka, Japan.
+RI Marques, Wilson/G-4240-2012; Gorson, Kenneth/K-7778-2019; Esposito,
+   Danillo L.A./N-9261-2017
+OI Marques, Wilson/0000-0002-4589-2749; Esposito, Danillo
+   L.A./0000-0002-2755-4471
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 8
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1085-9489
+EI 1529-8027
+J9 J PERIPHER NERV SYST
+JI J. Peripher. Nerv. Syst.
+PD SEP
+PY 2016
+VL 21
+IS 3
+BP 162
+EP 162
+PG 1
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA DW7TY
+UT WOS:000383856200020
+DA 2020-11-10
+ER
+
+PT J
+AU dos Santos, AG
+   Stucchi, RSB
+   Boin, IFSF
+   Ataide, E
+   Angerami, R
+   Cunha, MS
+   Souza, RP
+   Fonseca, BAL
+AF dos Santos, Andrea G.
+   Stucchi, Raquel S. B.
+   Boin, Ilka F. S. F.
+   Ataide, Elaine
+   Angerami, Rodrigo
+   Cunha, Mariana S.
+   Souza, Renato P.
+   Fonseca, Benedito A. L.
+TI First Reported Case: Zika Virus Infection in a Liver Transplant Patient
+SO TRANSPLANTATION
+LA English
+DT Meeting Abstract
+CT 22nd Annual International Congress of the
+   International-Liver-Transplantation-Society (ILTS)
+CY MAY 04-07, 2016
+CL Seoul, SOUTH KOREA
+SP Int Liver Transplantat Soc
+C1 [dos Santos, Andrea G.; Stucchi, Raquel S. B.; Boin, Ilka F. S. F.; Ataide, Elaine] State Univ Campinas UNICAMP, Fac Med Sci, Unit Liver Transplantat, Campinas, SP, Brazil.
+   [Angerami, Rodrigo] State Univ Campinas UNICAMP, Hosp Clin, Sect Hosp Epidemiol, Campinas, SP, Brazil.
+   [Cunha, Mariana S.; Souza, Renato P.] Adolfo Lutz Inst, Div Vector Borne Dis, Sao Paulo, Brazil.
+   [Fonseca, Benedito A. L.] Univ Sao Paulo, Sch Med Ribeirao Preto, Div Infect Dis, Dept Internal Med, BR-14049 Ribeirao Preto, SP, Brazil.
+RI Angerami, Rodrigo Nogueira/A-8926-2013; Boin, Ilka/M-7184-2019; Boin,
+   Ilka FSF/C-7811-2009
+OI Angerami, Rodrigo Nogueira/0000-0002-4976-9238; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 57
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0041-1337
+EI 1534-6080
+J9 TRANSPLANTATION
+JI Transplantation
+PD MAY
+PY 2016
+VL 100
+SU 5
+MA LB-18
+BP S166
+EP S166
+PG 1
+WC Immunology; Surgery; Transplantation
+SC Immunology; Surgery; Transplantation
+GA DN5QY
+UT WOS:000377126400278
+DA 2020-11-10
+ER
+
+PT J
+AU Silva, J
+   Talbot, J
+   Lopes, A
+   Franca, R
+   Fonseca, B
+   Cunha, T
+   Cunha, F
+AF Silva, Jaqueline
+   Talbot, Jhimmy
+   Lopes, Alexandre
+   Franca, Rafael
+   Fonseca, Benedito
+   Cunha, Thiago
+   Cunha, Fernando
+TI Evaluation of immune response in dorsal root ganglion of mice infected
+   with Herpes Simplex Virus type 1 (HSV-1)
+SO JOURNAL OF IMMUNOLOGY
+LA English
+DT Meeting Abstract
+CT 99th Annual Meeting of the American-Association-of-Immunologists
+CY MAY 04-08, 2012
+CL Boston, MA
+SP Amer Assoc Immunol
+C1 [Silva, Jaqueline; Fonseca, Benedito; Cunha, Thiago; Cunha, Fernando] Univ Sao Paulo, Dept Biochem & Immunol, Ribeirao Preto Sch Med, BR-14049 Ribeirao Preto, Brazil.
+   [Talbot, Jhimmy; Lopes, Alexandre; Franca, Rafael] Univ Sao Paulo, Dept Pharmacol, Ribeirao Preto Sch Med, BR-14049 Ribeirao Preto, Brazil.
+RI Cunha, Thiago M/B-7729-2012; Cunha, Fernando Q/M-3090-2014
+OI Cunha, Thiago M/0000-0003-1084-0065; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC IMMUNOLOGISTS
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814 USA
+SN 0022-1767
+J9 J IMMUNOL
+JI J. Immunol.
+PD MAY 1
+PY 2012
+VL 188
+PG 1
+WC Immunology
+SC Immunology
+GA 950OX
+UT WOS:000304659700593
+DA 2020-11-10
+ER
+
+PT J
+AU Bonfa, A
+   Saito, RSN
+   Franca, RFO
+   Fonseca, BAL
+   Petri, DFS
+AF Bonfa, Alfredo
+   Saito, Rafael S. N.
+   Franca, Rafael F. O.
+   Fonseca, Benedito A. L.
+   Petri, Denise F. S.
+TI Poly(ethylene glycol) decorated poly(methylmethacrylate) nanoparticles
+   for protein adsorption
+SO MATERIALS SCIENCE & ENGINEERING C-MATERIALS FOR BIOLOGICAL APPLICATIONS
+LA English
+DT Article
+DE Poly(ethylene)glycol; Nanoparticles; BSA; Concanavalin A; Dengue virus;
+   Adsorption
+ID CONCANAVALIN-A; THIN-FILMS; ALBUMIN; BINDING; PARTICLES; BEHAVIOR; PH
+AB Poly(ethylene glycol) decorated poly( methyl methacrylate) particles were synthesized by means of emulsion polymerization using poly(ethylene glycol) sorbitan monolaurate (Tween-20) as surfactant. PMMA/PEG particles presented mean diameter (195 +/- 15) nm, indicating narrow size distribution. The adsorption behavior of bovine serum albumin (BSA) and concanavalin A (ConA) onto PMMA/PEG particles was investigated by means of spectrophotometry. Adsorption isotherms obtained for BSA onto PMMA/PEG particles fitted well sigmoidal function, which is typical for multilayer adsorption. Con A adsorbed irreversibly onto PMMA/PEG particles. The efficiency of ConA covered particles to induce dengue virus quick agglutination was evaluated. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Bonfa, Alfredo; Saito, Rafael S. N.; Petri, Denise F. S.] Univ Sao Paulo, Inst Quim, BR-05513970 Sao Paulo, Brazil.
+   [Franca, Rafael F. O.] Univ Sao Paulo, Fac Med Ribeirao Preto, Programa Pos Grad Imunol Basica & Aplicada, Ribeirao Preto, Brazil.
+   [Fonseca, Benedito A. L.] Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Clin Med, Ribeirao Preto, Brazil.
+RP Petri, DFS (corresponding author), Univ Sao Paulo, Inst Quim, POB 26077, BR-05513970 Sao Paulo, Brazil.
+EM dfsp@iq.usp.br
+RI PETRI, DENISE/H-5004-2012; Petri, Denise/L-5084-2019; Fonseca,
+   Benedito/F-3252-2012
+OI PETRI, DENISE/0000-0003-4814-8357; Freitas de Oliveira Franca,
+   Rafael/0000-0002-1846-6007; Fonseca, Benedito/0000-0003-3159-5687
+FU CNPqNational Council for Scientific and Technological Development
+   (CNPq); FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP)
+FX Authors gratefully acknowledge CNPq and FAPESP for financial support.
+CR Adamson A. W., 1997, PHYS CHEM SURFACES
+   Almeida AT, 2002, LANGMUIR, V18, P6914, DOI 10.1021/la0202982
+   Amim J, 2009, MAT SCI ENG C-BIO S, V29, P420, DOI 10.1016/j.msec.2008.08.018
+   Bock G., 2006, NEW TREATMENT STRATE
+   BREWER CF, 1983, BIOCHEMISTRY-US, V22, P3691, DOI 10.1021/bi00284a024
+   CARTER DC, 1994, ADV PROTEIN CHEM, V45, P153
+   Castro LBR, 2006, LANGMUIR, V22, P3757, DOI 10.1021/la053080z
+   Castro LBR, 2005, J NANOSCI NANOTECHNO, V5, P2063, DOI 10.1166/jnn.2005.501
+   Castro LBR, 2004, IND ENG CHEM RES, V43, P7774, DOI 10.1021/ie0495271
+   Chern CS, 1999, COLLOID POLYM SCI, V277, P528, DOI 10.1007/s003960050420
+   de Moura MR, 2009, MAT SCI ENG C-MATER, V29, P2319, DOI 10.1016/j.msec.2009.05.022
+   DOSERPO APV, 1991, J BIOM MAT RES, V46, P376
+   Francis GL, 2010, CYTOTECHNOLOGY, V62, P1, DOI 10.1007/s10616-010-9263-3
+   Fuller EL, 2007, MICROPOR MESOPOR MAT, V98, P102, DOI 10.1016/j.micromeso.2006.08.019
+   Giacomelli CE, 2001, J COLLOID INTERF SCI, V233, P234, DOI 10.1006/jcis.2000.7219
+   Gilbert R. G., 1995, EMULSION POLYM MECH
+   Goubko CA, 2009, MAT SCI ENG C-MATER, V29, P1855, DOI 10.1016/j.msec.2009.02.016
+   Jelinek R, 2004, CHEM REV, V104, P5987, DOI 10.1021/cr0300284
+   Jo TA, 2009, MAT SCI ENG C-BIO S, V29, P631, DOI 10.1016/j.msec.2008.10.035
+   Kim HR, 2007, ELECTROPHORESIS, V28, P2252, DOI 10.1002/elps.200600694
+   LOVGREN U, 1995, J CHROMATOGR B, V672, P33, DOI 10.1016/0378-4347(95)00198-R
+   Malmsten M, 1998, J COLLOID INTERF SCI, V202, P507, DOI 10.1006/jcis.1998.5513
+   Modis Y, 2003, P NATL ACAD SCI USA, V100, P6986, DOI 10.1073/pnas.0832193100
+   Nel AE, 2009, NAT MATER, V8, P543, DOI [10.1038/NMAT2442, 10.1038/nmat2442]
+   Pancera SM, 2006, J PHYS CHEM B, V110, P2674, DOI 10.1021/jp0532364
+   Pancera SM, 2002, LANGMUIR, V18, P3517, DOI 10.1021/la0110693
+   PAULA SOD, 2002, T R SOC TROP MED HYG, V96, P266
+   Pereira EMA, 2008, COLLOID SURFACE B, V66, P45, DOI 10.1016/j.colsurfb.2008.05.013
+   Pereira EMA, 2010, ACS APPL MATER INTER, V2, P2602, DOI 10.1021/am100442f
+   Peters T. J., 1996, ALL ALBUMIN
+   Serefoglou E, 2007, BIOMACROMOLECULES, V8, P1195, DOI 10.1021/bm061094t
+   Sierakowski MR, 2002, CARBOHYD POLYM, V49, P167, DOI 10.1016/S0144-8617(01)00321-6
+   Tada D, 2007, MAT SCI ENG C-BIO S, V27, P870, DOI 10.1016/j.msec.2006.10.008
+   Taylor ME, 2006, INTRO GLYCOBIOLOGY
+   Tlili A, 2005, MAT SCI ENG C-BIO S, V25, P490, DOI 10.1016/j.msec.2005.02.001
+   Tretiakov KV, 2009, J PHYS CHEM A, V113, P3799, DOI 10.1021/jp809447m
+   VanderVegt W, 1996, COLLOID POLYM SCI, V274, P27, DOI 10.1007/BF00658906
+NR 37
+TC 13
+Z9 13
+U1 0
+U2 18
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0928-4931
+EI 1873-0191
+J9 MAT SCI ENG C-MATER
+JI Mater. Sci. Eng. C-Mater. Biol. Appl.
+PD APR 8
+PY 2011
+VL 31
+IS 3
+BP 562
+EP 566
+DI 10.1016/j.msec.2010.11.020
+PG 5
+WC Materials Science, Biomaterials
+SC Materials Science
+GA 730PE
+UT WOS:000288045600009
+DA 2020-11-10
+ER
+
+PT J
+AU Saiki, FA
+   Costa, EP
+   Fonseca, BA
+AF Saiki, Flavia A.
+   Costa, Emiliana P.
+   Fonseca, Benedito A.
+TI VIRAL INTERFERENCE BETWEEN DENGUE-2 AND YELLOW FEVER VIRUSES IN VERO
+   CELLS
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 59th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 03-07, 2010
+CL Atlanta, GA
+SP Amer Soc Trop Med & Hyg (ASTMH)
+C1 [Saiki, Flavia A.; Costa, Emiliana P.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2010
+VL 83
+IS 5
+SU S
+MA 518
+BP 155
+EP 156
+PG 2
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 832QF
+UT WOS:000295819700519
+DA 2020-11-10
+ER
+
+PT J
+AU Mendonca, PR
+   Lobo, RR
+   Fonseca, BA
+AF Mendonca, Patricia Rolim
+   Lobo, Romulo Reboucas
+   Fonseca, Benedito A.
+TI SEVERE LIVER INFECTION IN AN ADULT PATIENT WITH DENGUE HEMORRHAGIC
+   FEVER: EVIDENCE FOR A BETTER USE OF THE NEW WHO DENGUE CASE
+   CLASSIFICATION
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 59th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 03-07, 2010
+CL Atlanta, GA
+SP Amer Soc Trop Med & Hyg (ASTMH)
+C1 [Mendonca, Patricia Rolim; Lobo, Romulo Reboucas; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2010
+VL 83
+IS 5
+SU S
+MA 519
+BP 156
+EP 156
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 832QF
+UT WOS:000295819700520
+DA 2020-11-10
+ER
+
+PT J
+AU Suzuki, A
+   Rocco, IM
+   Ferreira, IB
+   Pereira, LE
+   Cerroni, MP
+   Freitas, PP
+   Souza, RP
+   Coimbra, TLM
+   Petrella, SM
+   Fonseca, BA
+AF Suzuki, Akemi
+   Rocco, Iray M.
+   Ferreira, Ivani B.
+   Pereira, Luiz E.
+   Cerroni, Matheus P.
+   Freitas, Patricia P.
+   Souza, Renato P.
+   Coimbra, Terezinha Lisieux M.
+   Petrella, Selma M.
+   Fonseca, Benedito A.
+TI INVESTIGATION OF ARBOVIRAL INFECTIONS OF BIRDS IN SAO PAULO STATE,
+   BRAZIL
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 59th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 03-07, 2010
+CL Atlanta, GA
+SP Amer Soc Trop Med & Hyg (ASTMH)
+C1 [Suzuki, Akemi; Rocco, Iray M.; Ferreira, Ivani B.; Pereira, Luiz E.; Cerroni, Matheus P.; Souza, Renato P.; Coimbra, Terezinha Lisieux M.; Petrella, Selma M.] Adolfo Lutz Inst, Sao Paulo, Brazil.
+   [Freitas, Patricia P.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2010
+VL 83
+IS 5
+SU S
+MA 1166
+BP 347
+EP 347
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 832QF
+UT WOS:000295819701533
+DA 2020-11-10
+ER
+
+PT J
+AU Pereira, EMA
+   Dario, AF
+   Franca, RFO
+   Fonseca, BAL
+   Petri, DFS
+AF Pereira, Edla M. A.
+   Dario, Aline F.
+   Franca, Rafael F. O.
+   Fonseca, Benedito A. L.
+   Petri, Denise F. S.
+TI Binding of Dengue Virus Partitcles and Dengue Proteins onto Solid
+   Surfaces
+SO ACS APPLIED MATERIALS & INTERFACES
+LA English
+DT Article
+DE lectin; dengue virus; ellipsometry; AFM; surface energy; polystyrene
+ID CONCANAVALIN-A; CONFORMATIONAL-CHANGES; ENVELOPE PROTEIN; FREE-ENERGY;
+   JACKFRUIT; PARTICLES; LECTIN; ADSORPTION; CARBOXYMETHYLCELLULOSE;
+   IMMOBILIZATION
+AB The interaction between dengue virus particles (DENV), sedimentation hemagglutinin particles (SHA), dengue virus envelope protein (Eprot), and solid surfaces was investigated by means of ellipsometry and atomic force microscopy (AFM). The surfaces chosen are bare Si/SiO2 wafers and Si/SiO2 wafers covered with concanavalin A (ConA), jacalin (Jac), polystyrene (PS), or poly(styrene sulfonate) (PSS) films. Adsorption experiments at pH 7.2 and pH 3 onto all surfaces revealed that (i) adsorption of DENV particles took place only onto ConA under pH 7.2, because of specific recognition between glycans on DENV surface and ConA binding site; (ii) DENV particles did not attach to any of the surfaces at pH 3, suggesting the presence of positive charges on DENV surface at this pH, which repel the positively charged lectin surfaces; (iii) SHA particles are positively charged at pH 7.2 and pH 3 because they adhered to negatively charged surfaces at pH 7.2 and repelled positively charged layers at pH 3; and (iv) SHA particles carry polar groups on the surface because they attached to silanol surfaces at pH 3 and avoided hydrophobic PS films at pH 3 and pH 7.2. The adsorption behavior of Eprot at pH 7.2 revealed affinity for ConA > Jac > PSS > PS approximate to bare Si/SiO2 layers. These findings indicate that selectivity of the Eprot adsorption is higher when it is part of virus structure than when it is free in solution. The correlation between surface energy values determined by means of contact angle measurements and DENV, SHA, or Eprot adsorption behavior was used to understand the intermolecular forces at the interfaces. A direct correlation was not found because the contributions from surface energy were probably surpassed by specific contributions.
+C1 [Pereira, Edla M. A.; Dario, Aline F.; Petri, Denise F. S.] Univ Sao Paulo, Inst Quim, BR-05513970 Sao Paulo, Brazil.
+   [Franca, Rafael F. O.] Univ Sao Paulo, Fac Med Ribeirao Preto, Programa Pos Grad Imunol Basica & Aplicada, Ribeirao Preto, Brazil.
+   [Fonseca, Benedito A. L.] Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Clin Med, Ribeirao Preto, Brazil.
+RP Petri, DFS (corresponding author), Univ Sao Paulo, Inst Quim, POB 26077, BR-05513970 Sao Paulo, Brazil.
+EM dfsp@iq.usp.br
+RI PETRI, DENISE/H-5004-2012; Fonseca, Benedito/F-3252-2012
+OI PETRI, DENISE/0000-0003-4814-8357; Freitas de Oliveira Franca,
+   Rafael/0000-0002-1846-6007; Fonseca, Benedito/0000-0003-3159-5687
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq/MCT)National Council for Scientific and Technological Development
+   (CNPq); Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+FX The authors acknowledge Conselho Nacional de Desenvolvimento Cientifico
+   e Tecnologico (CNPq/MCT) and Fundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo (FAPESP) for financial support.
+CR Adamson WA, 1990, PHYS CHEM SURFACES
+   AHMED H, 1989, J BIOL CHEM, V264, P9365
+   Allison SL, 2001, J VIROL, V75, P4268, DOI 10.1128/JVI.75.9.4268-4275.2001
+   Azzam R. M., 1987, ELLIPSOMETRY POLARIZ
+   BOCK G, 2006, NOVARTIS FDN S SERIE
+   BREWER CF, 1983, BIOCHEMISTRY-US, V22, P3691, DOI 10.1021/bi00284a024
+   Briandet R, 2001, COLLOID SURFACE B, V21, P299, DOI 10.1016/S0927-7765(00)00213-7
+   BUNNMORENO MM, 1981, J IMMUNOL, V127, P427
+   Butti HJ, 1995, LANGMUIR, V11, P4735, DOI 10.1021/la00012a026
+   Cacace MG, 1997, Q REV BIOPHYS, V30, P241, DOI 10.1017/S0033583597003363
+   Casarano R, 2009, POLYMER, V50, P6218, DOI 10.1016/j.polymer.2009.10.048
+   Castro LBR, 2006, LANGMUIR, V22, P3757, DOI 10.1021/la053080z
+   Castro LBR, 2005, J NANOSCI NANOTECHNO, V5, P2063, DOI 10.1166/jnn.2005.501
+   Chaudhury MK, 1996, MAT SCI ENG R, V16, P97, DOI 10.1016/0927-796X(95)00185-9
+   De Paula SO, 2002, T ROY SOC TROP MED H, V96, P266, DOI 10.1016/S0035-9203(02)90094-5
+   Dobrovolskaia MA, 2007, NAT NANOTECHNOL, V2, P469, DOI 10.1038/nnano.2007.223
+   Dobrynin AV, 2005, PROG POLYM SCI, V30, P1049, DOI 10.1016/j.progpolymsci.2005.07.006
+   Efremova NV, 2000, BIOCHEMISTRY-US, V39, P3441, DOI 10.1021/bi992095r
+   Fujimoto J, 2001, LANGMUIR, V17, P56, DOI 10.1021/la000731c
+   Harnett EM, 2007, COLLOID SURFACE B, V55, P90, DOI 10.1016/j.colsurfb.2006.11.021
+   HEALY TW, 1978, ADV COLLOID INTERFAC, V9, P303, DOI 10.1016/0001-8686(78)85002-7
+   Jacquemart I, 2004, J COLLOID INTERF SCI, V278, P63, DOI 10.1016/j.jcis.2004.05.040
+   Jelinek R, 2004, CHEM REV, V104, P5987, DOI 10.1021/cr0300284
+   KABIR S, 1995, INT J BIOCHEM CELL B, V27, P147, DOI 10.1016/1357-2725(94)00071-I
+   Kosaka PM, 2009, ACS SYM SER, V1019, P223
+   Kullolli M, 2008, J SEP SCI, V31, P2733, DOI 10.1002/jssc.200800233
+   Marmur A, 2006, SOFT MATTER, V2, P12, DOI 10.1039/b514811c
+   Modis Y, 2003, P NATL ACAD SCI USA, V100, P6986, DOI 10.1073/pnas.0832193100
+   Modis Y, 2004, NATURE, V427, P313, DOI 10.1038/nature02165
+   Nel AE, 2009, NAT MATER, V8, P543, DOI [10.1038/NMAT2442, 10.1038/nmat2442]
+   OWENS DK, 1969, J APPL POLYM SCI, V13, P1741, DOI 10.1002/app.1969.070130815
+   Palik E D, 1985, HDB OPTICAL CONSTANT
+   Pereira EMA, 2008, COLLOID SURFACE B, V66, P45, DOI 10.1016/j.colsurfb.2008.05.013
+   PETRI DFS, 1999, COLLOID POLYM SCI, V277, P673
+   REEKE GN, 1975, J BIOL CHEM, V250, P1525
+   RUFFET E, 1992, BIOCHEM J, V286, P131, DOI 10.1042/bj2860131
+   Smith EA, 2003, J AM CHEM SOC, V125, P6140, DOI 10.1021/ja034165u
+   TAYLOR E, 2006, INTRO GLYCOBIOLOGY
+   Turkova J, 1999, J CHROMATOGR B, V722, P11, DOI 10.1016/S0378-4347(98)00434-4
+   VANDERVALK P, 1983, J BIOMED MATER RES, V17, P807, DOI 10.1002/jbm.820170508
+   ZAND R, 1971, P NATL ACAD SCI USA, V68, P2173, DOI 10.1073/pnas.68.9.2173
+   Zhang Y, 2004, STRUCTURE, V12, P1607, DOI 10.1016/j.str.2004.06.019
+   Zhang Y, 2003, EMBO J, V22, P2604, DOI 10.1093/emboj/cdg270
+NR 43
+TC 9
+Z9 9
+U1 1
+U2 12
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1944-8244
+J9 ACS APPL MATER INTER
+JI ACS Appl. Mater. Interfaces
+PD SEP
+PY 2010
+VL 2
+IS 9
+BP 2602
+EP 2610
+DI 10.1021/am100442f
+PG 9
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary
+SC Science & Technology - Other Topics; Materials Science
+GA 652OR
+UT WOS:000282017700020
+PM 20715788
+DA 2020-11-10
+ER
+
+PT J
+AU Castro-Jorge, LA
+   Machado, PRL
+   Favero, CA
+   Borges, MC
+   Passos, LMR
+   de Oliveira, RM
+   Fonseca, BAL
+AF Castro-Jorge, Luiza A.
+   Machado, Paula R. L.
+   Favero, Camila A.
+   Borges, Marcos C.
+   Passos, Luzia M. R.
+   de Oliveira, Rosana Moreira
+   Fonseca, Benedito A. L.
+TI Clinical Evaluation of the NS1 Antigen-Capture ELISA for Early Diagnosis
+   of Dengue Virus Infection in Brazil
+SO JOURNAL OF MEDICAL VIROLOGY
+LA English
+DT Article
+DE dengue; NS1; ELISA; IRT-PCR
+ID LINKED-IMMUNOSORBENT-ASSAY; NONSTRUCTURAL PROTEIN NS1;
+   MONOCLONAL-ANTIBODIES; SENSITIVITY; IMMUNOASSAY; SPECIFICITY; TESTS
+AB The fact that the diagnosis of infection with dengue virus is usually made by detecting IgM antibodies during the convalescent phase of the disease interferes with disease management and, consequently, with reducing mortality rates. This study evaluated the sensitivity and specificity of detection of NS1 in samples of patients suspected of acute dengue virus infection in Brazil. The results were used to institute treatment and the sensitivity and specificity of detection of NS1 were compared to the results of detection of IgM, virus isolation, and RT-PCR. Detection of NS1 yielded better results than RTPCR and virus isolation. When considering IgM detection and RT-PCR positive results as "gold standards," the sensitivity and specificity of the NS1 assay were 95.9% and 81.1%, respectively. All patients enrolled in the study were treated promptly and had an uneventful course of the disease. The detection of NS1 provided better results than the diagnostic techniques used currently during the acute phase of disease (RT-PCR and virus isolation). Detection of NS1 is an important tool for the diagnosis of acute dengue infection, particularly in highly endemic areas, allowing for rapid treatment of patients and reduction of disease burden. J. Med. Virol. 82: 1400-1405, 2010. (C) 2010 Wiley-Liss, Inc.
+C1 [Castro-Jorge, Luiza A.; Machado, Paula R. L.; Favero, Camila A.; Borges, Marcos C.; Passos, Luzia M. R.; de Oliveira, Rosana Moreira; Fonseca, Benedito A. L.] Univ Sao Paulo, Sch Med Ribeirao Preto, BR-14049900 Sao Paulo, Brazil.
+RP Fonseca, BAL (corresponding author), Univ Sao Paulo, Sch Med Ribeirao Preto, Ave Bandeirantes 3900, BR-14049900 Sao Paulo, Brazil.
+EM baldfons@fmrp.usp.br
+RI de Castro Jorge, Luiza Antunes/D-3773-2009; Borges, Marcos
+   Carvalho/A-3585-2014; Fonseca, Benedito/F-3252-2012
+OI Borges, Marcos Carvalho/0000-0001-6280-0714; Machado,
+   Paula/0000-0002-3085-9778; Fonseca, Benedito/0000-0003-3159-5687
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP), Sao
+   Paulo, BrazilFundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP) [06-587926, 07/04326-7]
+FX Grant sponsor: Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP), Sao Paulo, Brazil; Grant numbers: 06-587926; 07/04326-7.
+CR Alcon S, 2002, J CLIN MICROBIOL, V40, P376, DOI 10.1128/JCM.40.02.376-381.2002
+   Ayres M., 2005, BIOESTAT APLICACOES
+   Blacksell SD, 2008, DIAGN MICR INFEC DIS, V60, P43, DOI 10.1016/j.diagmicrobio.2007.07.011
+   Callahan JD, 2001, J CLIN MICROBIOL, V39, P4119, DOI 10.1128/JCM.39.11.4119-4124.2001
+   Chuansumrit A, 2008, PEDIATR INFECT DIS J, V27, P43, DOI 10.1097/INF.0b013e318150666d
+   De Paula Sérgio Oliveira, 2004, Braz J Infect Dis, V8, P390, DOI 10.1590/S1413-86702004000600002
+   *DENG DIAGN, 2005, DENGUE B, V29, P220
+   Deubel Vincent, 1997, P335
+   Dussart P, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000280
+   Dussart P, 2006, CLIN VACCINE IMMUNOL, V13, P1185, DOI 10.1128/CVI.00229-06
+   Gibbons RV, 2002, BRIT MED J, V324, P1563, DOI 10.1136/bmj.324.7353.1563
+   Gomes-Ruiz AC, 2006, J MED VIROL, V78, P760, DOI 10.1002/jmv.20620
+   GUBLER DJ, 1984, AM J TROP MED HYG, V33, P158, DOI 10.4269/ajtmh.1984.33.158
+   Hang VT, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000360
+   HENCHAL EA, 1983, AM J TROP MED HYG, V32, P164, DOI 10.4269/ajtmh.1983.32.164
+   HENCHAL EA, 1991, AM J TROP MED HYG, V45, P418, DOI 10.4269/ajtmh.1991.45.418
+   INNIS BL, 1989, AM J TROP MED HYG, V40, P418, DOI 10.4269/ajtmh.1989.40.418
+   Koraka P, 2003, J CLIN MICROBIOL, V41, P4154, DOI 10.1128/JCM.41.9.4154-4159.2003
+   Kumarasamy V, 2007, SMJ Singapore Medical Journal, V48, P669
+   Kumarasamy V, 2007, J VIROL METHODS, V140, P75, DOI 10.1016/j.jviromet.2006.11.001
+   Kyle JL, 2008, ANNU REV MICROBIOL, V62, P71, DOI 10.1146/annurev.micro.62.081307.163005
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Lapphra K, 2008, DIAGN MICR INFEC DIS, V60, P387, DOI 10.1016/j.diagmicrobio.2007.11.010
+   Libraty DH, 2002, J INFECT DIS, V186, P1165, DOI 10.1086/343813
+   Mackenzie JS, 2004, NAT MED, V10, pS98, DOI 10.1038/nm1144
+   *WHO, 2005, WHOFCHCAH0513
+   World Health Organization, 1997, DENG HEM FEV DIAGN T
+   Xu H, 2006, J CLIN MICROBIOL, V44, P2872, DOI 10.1128/JCM.00777-06
+   Young PR, 2000, J CLIN MICROBIOL, V38, P1053, DOI 10.1128/JCM.38.3.1053-1057.2000
+NR 29
+TC 22
+Z9 22
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0146-6615
+EI 1096-9071
+J9 J MED VIROL
+JI J. Med. Virol.
+PD AUG
+PY 2010
+VL 82
+IS 8
+BP 1400
+EP 1405
+DI 10.1002/jmv.21814
+PG 6
+WC Virology
+SC Virology
+GA 617IH
+UT WOS:000279273700016
+PM 20578057
+DA 2020-11-10
+ER
+
+PT J
+AU Barreira, AA
+   Lopes, LC
+   Santos, AC
+   Ramos, JO
+   Bastos, PG
+   Marques, VD
+   Castro-Jorge, LA
+   Fonseca, BA
+   Marques, W
+AF Barreira, A. A.
+   Lopes, L. C.
+   Santos, A. C.
+   Ramos, J. O.
+   Bastos, P. G.
+   Marques, V. D.
+   Castro-Jorge, L. A.
+   Fonseca, B. A.
+   Marques, W., Jr.
+TI Atypical Guillain-Barre syndrome associated to dengue fever
+SO JOURNAL OF NEUROLOGY
+LA English
+DT Meeting Abstract
+CT 20th Meeting of the European-Neurological-Society
+CY JUN 19-23, 2010
+CL Berlin, GERMANY
+SP European Neurol Soc
+C1 [Barreira, A. A.; Lopes, L. C.; Santos, A. C.; Ramos, J. O.; Bastos, P. G.; Marques, V. D.; Castro-Jorge, L. A.; Fonseca, B. A.; Marques, W., Jr.] Med Sch Ribeirao Preto, Ribeirao Preto, Brazil.
+RI Lopes, Luciane/H-3159-2019; Barreira, Amilton/A-1159-2008; de Castro
+   Jorge, Luiza Antunes/D-3773-2009; Lopes, Luis Felipe Dias/I-5809-2012
+OI Lopes, Luciane/0000-0002-3684-3275; Lopes, Luis Felipe
+   Dias/0000-0002-2438-0226
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0340-5354
+J9 J NEUROL
+JI J. Neurol.
+PD JUN
+PY 2010
+VL 257
+SU 1
+MA P332
+BP S106
+EP S106
+PG 1
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA 600AH
+UT WOS:000277955200309
+DA 2020-11-10
+ER
+
+PT J
+AU Cavicchioli, M
+   Massabni, AC
+   Heinrich, TA
+   Costa-Neto, CM
+   Abrao, EP
+   Fonseca, BAL
+   Castellano, EE
+   Corbi, PP
+   Lustri, WR
+   Leite, CQF
+AF Cavicchioli, Mauricio
+   Massabni, Antonio C.
+   Heinrich, Tassiele A.
+   Costa-Neto, Claudio M.
+   Abrao, Emiliana P.
+   Fonseca, Benedito A. L.
+   Castellano, Eduardo E.
+   Corbi, Pedro P.
+   Lustri, Wilton R.
+   Leite, Clarice Q. F.
+TI Pt(II) and Ag(I) complexes with acesulfame: Crystal structure and a
+   study of their antitumoral, antimicrobial and antiviral activities
+SO JOURNAL OF INORGANIC BIOCHEMISTRY
+LA English
+DT Article
+DE Antitumor agents; Antibiotic; Acesulfame-K; Platinum; Silver
+ID GROUP DOMAIN PROTEINS; SILVER NANOPARTICLES; TRIPHENYLPHOSPHINE LIGANDS;
+   MYCOBACTERIUM-TUBERCULOSIS; NUCLEOTIDE EXCISION; CROSS-LINKS; DNA;
+   BURNS; NITRATE; IDENTIFICATION
+AB Two new complexes of platinum(II) and silver(I) with acesulfame were synthesized. Acesulfame is in the anionic form acesulfamate (ace). The structures of both complexes were determined by X-ray crystallography. For K-2[PtCl2(ace)(2)] the platinum atom is coordinated to two Cl- and two N-acesulfamate atoms forming a trans-square planar geometry. Each K+ ion interacts with two oxygen atoms of the S(=O)(2) group of each acesulfamate. For the polymeric complex [Ag(ace)](n) the water molecule bridges between two crystallographic equivalent Agl atoms which are related each other by a twofold symmetry axis. Two Agl atoms, related to each other by a symmetry centre, make bond contact with two equivalent oxygen atoms. These bonds give rise to infinite chains along the unit cell diagonal in the ac plane. The in vitro cytotoxic analyses for the platinum complex using HeLa (human cervix cancer) cells show its low activity when compared to the vehicle-treated cells. The Ag(I) complex submitted to in vitro antimycobacterial tests, using the Microplate Alamar Blue (MABA) method, showed a good activity against Mycobacterium tuberculosis, responsible for tuberculosis, with a minimal inhibitory concentration (MIC) value of 11.6 mu M. The Ag(I) complex also presented a promising activity against Gram negative (Escherichia colt and Pseudomonas aeruginosa) and Gram positive (Enterococcus faecalis) microorganisms. The complex K-2[PtCl2(ace)(2)] was also evaluated for antiviral properties against dengue virus type 2 (New Guinea C strain) in Vero cells and showed a good inhibition of dengue virus type 2 (New Guinea G strain) replication at 200 mu M, when compared to vehicle-treated cells. (C) 2010 Elsevier Inc. All rights reserved.
+C1 [Cavicchioli, Mauricio; Massabni, Antonio C.] Univ Estadual Paulista Julio Mesquita Filho UNESP, Inst Quim, Rua Prof Francisco Degni S-N, BR-14801970 Araraquara, SP, Brazil.
+   [Heinrich, Tassiele A.; Costa-Neto, Claudio M.; Abrao, Emiliana P.; Fonseca, Benedito A. L.] Univ Sao Paulo, Fac Med Ribeirao Preto, BR-14049900 Ribeirao Preto, SP, Brazil.
+   [Castellano, Eduardo E.] Univ Sao Paulo, Inst Fis Sao Carlos, BR-13560970 Sao Carlos, SP, Brazil.
+   [Corbi, Pedro P.] Univ Estadual Campinas, UNICAMP, Inst Quim, Lab Quim Bioinorgan & Med, BR-13083970 Campinas, SP, Brazil.
+   [Lustri, Wilton R.] Ctr Univ Araraquara UNIARA, Dept Ciencias Biol & Saude, Assoc Sao Bento de Ensino, BR-14801320 Araraquara, SP, Brazil.
+   [Leite, Clarice Q. F.] Univ Estadual Paulista, UNESP, Fac Ciencias Farmaceut, BR-14801902 Araraquara, SP, Brazil.
+RP Cavicchioli, M (corresponding author), Univ Estadual Paulista Julio Mesquita Filho UNESP, Inst Quim, Rua Prof Francisco Degni S-N, BR-14801970 Araraquara, SP, Brazil.
+EM mauriciocavicchioli@gmail.com
+RI Leite, Clarice/D-9492-2012; Lustri, Wilton Rogerio/AAG-3992-2020;
+   Massabni, Antonio/D-2321-2014; Corbi, Pedro P/B-7639-2012; Costa-Neto,
+   Claudio M/K-7291-2015; Castellano, Eduardo Ernesto/AAR-5487-2020;
+   castellano, eduardo ernesto/K-7925-2018; Cavicchioli,
+   Mauricio/A-3073-2008; Massabni, Antonio Carlos/AAI-2151-2019; Fonseca,
+   Benedito/F-3252-2012
+OI Corbi, Pedro P/0000-0002-7478-0877; Costa-Neto, Claudio
+   M/0000-0002-7256-6412; Castellano, Eduardo Ernesto/0000-0003-0499-8907;
+   castellano, eduardo ernesto/0000-0003-0499-8907; Cavicchioli,
+   Mauricio/0000-0002-6557-7391; Massabni, Antonio
+   Carlos/0000-0002-4190-1505; Lustri, Wilton Rogerio/0000-0001-6627-4758;
+   Fonseca, Benedito/0000-0003-3159-5687
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo - FAPESPFundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) [2005/00174-2]
+FX The authors are grateful to the Fundacao de Amparo a Pesquisa do Estado
+   de Sao Paulo - FAPESP (Proc. 2005/00174-2) for financial support.
+CR BAUER AW, 1966, AM J CLIN PATHOL, V45, P493
+   BELLINGER CG, 1970, PLAST RECONSTR SURG, V45, P582, DOI 10.1097/00006534-197006000-00009
+   BERNERSPRICE SJ, 1988, J INORG BIOCHEM, V33, P285, DOI 10.1016/0162-0134(88)80007-2
+   Cardoso RF, 2004, ANTIMICROB AGENTS CH, V48, P3373, DOI 10.1128/AAC.48.9.3373-3381.2004
+   Castellano Joseph J, 2007, Int Wound J, V4, P114, DOI 10.1111/j.1742-481X.2007.00316.x
+   Cavicchioli M, 2007, ARCH PHARM, V340, P538, DOI 10.1002/ardp.200700040
+   Cavicchioli M, 2007, INORG CHIM ACTA, V360, P3055, DOI 10.1016/j.ica.2007.02.040
+   Collins LA, 1997, ANTIMICROB AGENTS CH, V41, P1004, DOI 10.1128/AAC.41.5.1004
+   COPPENS P, 1965, ACTA CRYSTALLOGR, V18, P1035, DOI 10.1107/S0365110X65002487
+   de Gracia CG, 2001, BURNS, V27, P67, DOI 10.1016/S0305-4179(00)00061-9
+   Dye C, 2002, J INFECT DIS, V185, P1197, DOI 10.1086/339818
+   EASTMAN A, 1986, BIOCHEMISTRY-US, V25, P3912, DOI 10.1021/bi00361a026
+   *ENR NON, 1997, COLLECT
+   Farrugia L. J., 1997, J APPL CRYSTALLOGR, V30, P565, DOI DOI 10.1107/S0021889897003117
+   FICHTINGERSCHEPMAN AMJ, 1985, BIOCHEMISTRY-US, V24, P707, DOI 10.1021/bi00324a025
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   Houng HSH, 2001, J VIROL METHODS, V95, P19, DOI 10.1016/S0166-0934(01)00280-4
+   *INT CTR DIFFR DAT, 1999, 040802 INT CTR DIFFR
+   *INT CTR DIFFR DAT, 1999, 441414 INT CTR DIFFR
+   *INT CTR DIFFR DAT, 1999, 040783 INT CTR DIFFR
+   Kasparkova J, 2002, J BIOL CHEM, V277, P48076, DOI 10.1074/jbc.M208016200
+   Kent P. T., 1985, GUIDE LEVEL 3 LAB
+   Klasen HJ, 2000, BURNS, V26, P131, DOI 10.1016/S0305-4179(99)00116-3
+   Klasen HJ, 2000, BURNS, V26, P117, DOI 10.1016/S0305-4179(99)00108-4
+   Li P, 2005, NANOTECHNOLOGY, V16, P1912, DOI 10.1088/0957-4484/16/9/082
+   MOSMANN T, 1983, J IMMUNOL METHODS, V65, P55, DOI 10.1016/0022-1759(83)90303-4
+   MOYER CA, 1965, ARCH SURG-CHICAGO, V90, P812
+   NAKAMOTO, 1997, INFRARED RAMAN SPECT, P387
+   *NAT COMM CLIN LAB, 1993, APPR STAND NCCLS PUB
+   Nomiya K, 2000, INORG CHIM ACTA, V298, P24, DOI 10.1016/S0020-1693(99)00401-6
+   Nomiya K, 2000, B CHEM SOC JPN, V73, P1143, DOI 10.1246/bcsj.73.1143
+   NOMIYA K, 1995, J INORG BIOCHEM, V58, P255, DOI 10.1016/0162-0134(94)00059-J
+   Nomiya K, 2002, J CHEM SOC DALTON, P2483, DOI 10.1039/b200684g
+   Otwinowski Z, 1997, METHOD ENZYMOL, V276, P307, DOI 10.1016/S0076-6879(97)76066-X
+   Rai M, 2009, BIOTECHNOL ADV, V27, P76, DOI 10.1016/j.biotechadv.2008.09.002
+   REED E, 1987, P NATL ACAD SCI USA, V84, P5024, DOI 10.1073/pnas.84.14.5024
+   ROSENBERG B, 1969, NATURE, V222, P385, DOI 10.1038/222385a0
+   Sheldrick G.M., 1997, SHELXS 97 PROGRAM CR
+   Sheldrick G.M., 1997, SHELXL 97 PROGRAM CR
+   Silver S, 2003, FEMS MICROBIOL REV, V27, P341, DOI 10.1016/S0168-6445(03)00047-0
+   Sondi I, 2004, J COLLOID INTERF SCI, V275, P177, DOI 10.1016/j.jcis.2004.02.012
+   THURMAN RB, 1988, CRIT REV ENV CONTR, V18, P295
+   Vaerewijck MJM, 2005, FEMS MICROBIOL REV, V29, P911, DOI 10.1016/j.femsre.2005.02.001
+   WHO, 2007, WHOHTMTB2007376
+   Zehnulova J, 2001, J BIOL CHEM, V276, P22191, DOI 10.1074/jbc.M103118200
+   Zhang C, 2003, CURR OPIN CHEM BIOL, V7, P28, DOI 10.1016/S1367-5931(02)00015-7
+NR 46
+TC 52
+Z9 54
+U1 2
+U2 53
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0162-0134
+EI 1873-3344
+J9 J INORG BIOCHEM
+JI J. Inorg. Biochem.
+PD MAY
+PY 2010
+VL 104
+IS 5
+BP 533
+EP 540
+DI 10.1016/j.jinorgbio.2010.01.004
+PG 8
+WC Biochemistry & Molecular Biology; Chemistry, Inorganic & Nuclear
+SC Biochemistry & Molecular Biology; Chemistry
+GA 578DW
+UT WOS:000276274700006
+PM 20149461
+DA 2020-11-10
+ER
+
+PT J
+AU Farias, KJ
+   Machado, PR
+   Fonseca, BA
+AF Farias, Kleber Juvenal
+   Machado, Paula Renata
+   Fonseca, Benedito Antonio
+TI STUDY OF THE REPLICATION OF DENGUE-2 VIRUS IN U937 CELLS UNDER THE
+   ACTION OF CHLOROQUINE
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 58th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 18-22, 2009
+CL Washington, DC
+SP Amer Soc Trop Med & Hyg
+C1 [Farias, Kleber Juvenal; Machado, Paula Renata; Fonseca, Benedito Antonio] Univ Sao Paulo, BR-14049 Ribeirao Preto, Brazil.
+RI FARIAS, KLEBER/AAC-9815-2019
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2009
+VL 81
+IS 5
+SU S
+MA 93
+BP 26
+EP 27
+PG 2
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 521WK
+UT WOS:000271956700094
+DA 2020-11-10
+ER
+
+PT J
+AU Machado, PR
+   Farias, K
+   Fonseca, B
+AF Machado, Paula Renata
+   Farias, Kleber
+   Fonseca, Benedito
+TI DETECTION AND QUANTIFICATION OF HUMAN HERPESVIRUS 8 IN SAMPLES OF
+   PATIENTS WITH AIDS-ASSOCIATED KAPOSI'S SARCOMA BY REAL TIME PCR
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 58th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 18-22, 2009
+CL Washington, DC
+SP Amer Soc Trop Med & Hyg
+C1 [Machado, Paula Renata; Farias, Kleber; Fonseca, Benedito] Univ Sao Paulo, BR-14049 Ribeirao Preto, Brazil.
+RI FARIAS, KLEBER/AAC-9815-2019
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2009
+VL 81
+IS 5
+SU S
+MA 291
+BP 82
+EP 82
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 521WK
+UT WOS:000271956700291
+DA 2020-11-10
+ER
+
+PT J
+AU Castro-Jorge, LA
+   Jorge, DM
+   Fonseca, BA
+AF Castro-Jorge, Luiza A.
+   Jorge, Daniel M.
+   Fonseca, Benedito A.
+TI DENV-3 GENOTYPE III IS CIRCULATING IN SAO PAULO STATE, BRAZIL, DURING
+   THE LAST FIVE YEARS, AND IT HAS NOT BEEN ASSOCIATED WITH THE SEVERE
+   PRESENTATIONS OF THE DISEASE
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 58th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 18-22, 2009
+CL Washington, DC
+SP Amer Soc Trop Med & Hyg
+C1 [Castro-Jorge, Luiza A.; Jorge, Daniel M.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI Jorge, Daniel M/B-4533-2010; de Castro Jorge, Luiza Antunes/D-3773-2009
+OI Jorge, Daniel M/0000-0002-8387-3215; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2009
+VL 81
+IS 5
+SU S
+MA 434
+BP 124
+EP 124
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 521WK
+UT WOS:000271956700434
+DA 2020-11-10
+ER
+
+PT J
+AU Sobral, MC
+   Castro-Jorge, LA
+   Passos, LM
+   Oliveira, RM
+   Fonseca, BA
+AF Sobral, Mariana C.
+   Castro-Jorge, Luiza A.
+   Passos, Luzia M.
+   Oliveira, Rosana Moreira
+   Fonseca, Benedito A.
+TI DETECTION OF ASYMPTOMATIC INFECTION AMONG RELATIVES OF DENGUE PATIENTS
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 58th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 18-22, 2009
+CL Washington, DC
+SP Amer Soc Trop Med & Hyg
+C1 [Sobral, Mariana C.; Castro-Jorge, Luiza A.; Passos, Luzia M.; Oliveira, Rosana Moreira; Fonseca, Benedito A.] Sch Med, Ribeirao Preto, SP, Brazil.
+RI de Castro Jorge, Luiza Antunes/D-3773-2009
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2009
+VL 81
+IS 5
+SU S
+MA 781
+BP 226
+EP 226
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 521WK
+UT WOS:000271956701197
+DA 2020-11-10
+ER
+
+PT J
+AU Borges, MC
+   Colares, JKB
+   Lima, DM
+   Fonseca, BAL
+AF Borges, Marcos Carvalho
+   Baima Colares, Jeova Keny
+   Lima, Danielle Malta
+   Lopes Fonseca, Benedito Antonio
+TI Advantages and Pitfalls of the Polymerase Chain Reaction in the
+   Diagnosis of Esophageal Ulcers in AIDS Patients
+SO DIGESTIVE DISEASES AND SCIENCES
+LA English
+DT Article
+DE Microbiology; Sexually transmitted diseases; Diagnosis; DNA bacterial;
+   Esophageal disease
+ID HUMAN-IMMUNODEFICIENCY-VIRUS; HIV-INFECTION; URINE SAMPLES;
+   CYTOMEGALOVIRUS; DISEASE; BIOPSY; DIFFERENTIATION; IDENTIFICATION;
+   AMPLIFICATION; HYBRIDIZATION
+AB HIV-1-infected patients frequently have opportunistic esophageal infections which, when associated with severe immunodeficiency, can be attributed to unusual pathogens. The clinical presentation of several esophageal diseases is similar and the best method for a specific diagnosis of these patients has not been well defined. To evaluate the role of the polymerase chain reaction (PCR) in the etiologic definition of esophageal ulcers in HIV-1-infected patients, 96 esophageal biopsies from 79 HIV-1-infected patients were processed by PCR using specific primers for cytomegalovirus (CMV), herpes virus (HSV), human papilloma virus (HPV), HIV-1, Mycobacterium tuberculosis, Mycobacterium avium, Mycobacterium intracellulare, Treponema pallidum, and Haemophilus ducreyi. The PCR results were compared to the histopathologic results. Seventy-nine patients were studied (mean age: 34 years; 62% men; median CD4 + T cell = 103.59 cells/mu l (range 1-795.2 cells/mu l). The most common endoscopic findings were as follows: esophageal candidiasis (37.1%), esophageal ulcers (24.7%), esophagitis (11.2%), and lugol-negative areas (10.1%). The histopathologic findings in the esophageal ulcers (22 biopsies) were non-specific inflammation (31.8%), HSV (36.4%), Candida (13.6%), CMV (13.6%), or HPV disease (4.5%). In the esophageal ulcer biopsies, the PCR results were negative in 27.6% of cases, and positive for HIV (65.5%), CMV (31%), HPV (20.7%), HSV (10.3%), and H. ducreyi (6.9%). The histopathologic examination did not identify a pathogen or identified only Candida in 15 biopsies of esophageal ulcers. PCR was positive in ten (66.7%) and negative in five (33.3%) of these biopsies (idiopathic ulcers). PCR detected: HIV (53.3%), CMV (20%), HPV (13.3%), and H. ducreyi (6,7%). PCR detected more etiologic agents in esophageal ulcers than histopathology and was able to detect unusual pathogens. On the other hand, sometimes more than one pathogen was detected in the esophageal ulcers, making it difficult to reach an accurate diagnosis. This finding indicates the need for more studies to evaluate the benefit of this method in the routine evaluation of esophageal ulcer biopsies in HIV-1-infected patients.
+C1 [Borges, Marcos Carvalho; Baima Colares, Jeova Keny; Lima, Danielle Malta; Lopes Fonseca, Benedito Antonio] Univ Sao Paulo, Dept Internal Med, Mol Virol Lab, Sch Med, BR-14048900 Ribeirao Preto, SP, Brazil.
+   [Borges, Marcos Carvalho] Univ Fed Sao Carlos, Dept Med, BR-13560 Sao Carlos, SP, Brazil.
+RP Fonseca, BAL (corresponding author), Univ Sao Paulo, Dept Internal Med, Mol Virol Lab, Sch Med, BR-14048900 Ribeirao Preto, SP, Brazil.
+EM baldfons@fmrp.usp.br
+RI Borges, Marcos Carvalho/A-3585-2014; Lima, Danielle/A-6108-2013;
+   Colares, Jeova Keny Baima/C-5257-2014; Fonseca, Benedito/F-3252-2012
+OI Borges, Marcos Carvalho/0000-0001-6280-0714; Lima,
+   Danielle/0000-0003-2734-6768; Colares, Jeova Keny
+   Baima/0000-0003-1367-6272; Fonseca, Benedito/0000-0003-3159-5687
+CR Ahmed HJ, 2003, SEX TRANSM DIS, V30, P114, DOI 10.1097/00007435-200302000-00004
+   Baron JM, 1996, J MED VIROL, V49, P279, DOI 10.1002/(SICI)1096-9071(199608)49:4&lt;279::AID-JMV4&gt;3.0.CO;2-0
+   BAUER HM, 1991, JAMA-J AM MED ASSOC, V265, P472, DOI 10.1001/jama.265.4.472
+   BONACINI M, 1991, ARCH INTERN MED, V151, P1567, DOI 10.1001/archinte.151.8.1567
+   BORGES MC, 2008, INT J STD A IN PRESS
+   Borum ML, 1999, J CLIN GASTROENTEROL, V28, P260, DOI 10.1097/00004836-199904000-00018
+   BURSTAIN JM, 1991, J CLIN MICROBIOL, V29, P62, DOI 10.1128/JCM.29.1.62-69.1991
+   Centurioni MG, 2005, BMC INFECT DIS, V5, DOI 10.1186/1471-2334-5-77
+   CHAWLA SK, 1994, AM J GASTROENTEROL, V89, P411
+   Chen ZH, 1996, J CLIN MICROBIOL, V34, P1267, DOI 10.1128/JCM.34.5.1267-1269.1996
+   Chong VH, 2005, J GASTROEN HEPATOL, V20, P722, DOI 10.1111/j.1440-1746.2005.03793.x
+   CHUI L, 1993, J CLIN MICROBIOL, V31, P659, DOI 10.1128/JCM.31.3.659-664.1993
+   CONNOLLY GM, 1989, GUT, V30, P1033, DOI 10.1136/gut.30.8.1033
+   Covas DT, 1998, J ACQ IMMUN DEF SYND, V19, P74, DOI 10.1097/00042560-199809010-00012
+   DEMMLER GJ, 1988, J INFECT DIS, V158, P1177, DOI 10.1093/infdis/158.6.1177
+   EISENACH KD, 1990, J INFECT DIS, V161, P977, DOI 10.1093/infdis/161.5.977
+   GILL MJ, 1992, AIDS, V6, P553, DOI 10.1097/00002030-199206000-00005
+   GOODGAME RW, 1993, AM J GASTROENTEROL, V88, P338
+   GRADON JD, 1992, CLIN INFECT DIS, V15, P134, DOI 10.1093/clinids/15.1.134
+   Houghton J, 1997, J INFECT DIS, V175, P1216, DOI 10.1086/593671
+   Knox TA, 2000, AM J GASTROENTEROL, V95, P3482, DOI 10.1111/j.1572-0241.2000.03365.x
+   KOTLER DP, 1989, AM J GASTROENTEROL, V84, P313
+   Lewis DA, 2000, SEX TRANSM INFECT, V76, P137, DOI 10.1136/sti.76.2.137
+   Lima DM, 2005, CHEST, V127, P1283, DOI 10.1378/chest.127.4.1283
+   Monkemuller Klaus E., 2000, Comprehensive Therapy, V26, P163, DOI 10.1007/s12019-000-0004-y
+   Mussi-Pinhata M M, 1994, J Pediatr (Rio J), V70, P338
+   Peter A, 2004, CLIN TRANSPLANT, V18, P580, DOI 10.1111/j.1399-0012.2004.00230.x
+   Quarto G, 2008, Minerva Gastroenterol Dietol, V54, P317
+   Rebollo MJ, 2006, DIAGN MICR INFEC DIS, V56, P141, DOI 10.1016/j.diagmicrobio.2006.03.018
+   SCHWARTZ DA, 1992, HUM PATHOL, V23, P1019, DOI 10.1016/0046-8177(92)90263-3
+   SMITH PD, 1993, J INFECT DIS, V167, P547, DOI 10.1093/infdis/167.3.547
+   THEISE ND, 1991, AM J GASTROENTEROL, V86, P1123
+   Wilcox CM, 2004, CLIN GASTROENTEROL H, V2, P564, DOI 10.1016/S1542-3565(04)00239-3
+   WILCOX CM, 1992, AM J MED, V92, P412, DOI 10.1016/0002-9343(92)90272-D
+   WILCOX CM, 1994, AM J GASTROENTEROL, V89, P2163
+   WILCOX CM, 1995, ANN INTERN MED, V123, P143, DOI 10.7326/0003-4819-123-2-199507150-00010
+   Wilcox CM, 1996, GASTROINTEST ENDOSC, V44, P587, DOI 10.1016/S0016-5107(96)70014-7
+   Yamamoto AY, 2001, J VIROL METHODS, V97, P159, DOI 10.1016/S0166-0934(01)00347-0
+NR 38
+TC 4
+Z9 5
+U1 0
+U2 7
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0163-2116
+EI 1573-2568
+J9 DIGEST DIS SCI
+JI Dig. Dis. Sci.
+PD SEP
+PY 2009
+VL 54
+IS 9
+BP 1933
+EP 1939
+DI 10.1007/s10620-008-0584-4
+PG 7
+WC Gastroenterology & Hepatology
+SC Gastroenterology & Hepatology
+GA 474ZP
+UT WOS:000268324000017
+PM 19051024
+DA 2020-11-10
+ER
+
+PT J
+AU Borges, MC
+   Colares, JKB
+   Lima, DM
+   Fonseca, BAL
+AF Borges, M. C.
+   Colares, J. K. B.
+   Lima, D. M.
+   Fonseca, B. A. L.
+TI Haemophilus ducreyi detection by polymerase chain reaction in
+   oesophageal lesions of HIV patients
+SO INTERNATIONAL JOURNAL OF STD & AIDS
+LA English
+DT Article
+DE chancroid; microbiology; sexually transmitted diseases; diagnosis; DNA
+   bacterial
+ID ACQUIRED-IMMUNODEFICIENCY-SYNDROME; VIRUS INFECTION; DIAGNOSIS;
+   ULCERATION; MANAGEMENT; SYMPTOMS; DISEASE; ULCERS
+AB HIV patients frequently have opportunistic oesophageal infections. We report Haemophilus ducreyi genetic material detected by polymerase chain reaction in biopsies of oesophageal lesions in three HIV-1-infected patients. This finding may be an indication of its aetiopathological role in oesophageal lesions of HIV patients.
+C1 [Fonseca, B. A. L.] Univ Sao Paulo, Med Sch Ribeirao Preto, Mol Virol Lab, Dept Internal Med, BR-14048900 Ribeirao Preto, SP, Brazil.
+   [Borges, M. C.] Univ Sao Carlos, Dept Med, Sao Carlos, SP, Brazil.
+RP Fonseca, BAL (corresponding author), Univ Sao Paulo, Med Sch Ribeirao Preto, Mol Virol Lab, Dept Internal Med, Av Bandeirantes 3900, BR-14048900 Ribeirao Preto, SP, Brazil.
+EM baldfons@fmrp.usp.br
+RI Borges, Marcos Carvalho/A-3585-2014; Lima, Danielle/A-6108-2013;
+   Colares, Jeova Keny Baima/C-5257-2014; Fonseca, Benedito/F-3252-2012
+OI Borges, Marcos Carvalho/0000-0001-6280-0714; Lima,
+   Danielle/0000-0003-2734-6768; Colares, Jeova Keny
+   Baima/0000-0003-1367-6272; Fonseca, Benedito/0000-0003-3159-5687
+CR BONACINI M, 1991, ARCH INTERN MED, V151, P1567, DOI 10.1001/archinte.151.8.1567
+   Bong CTH, 2002, MICROBES INFECT, V4, P1141, DOI 10.1016/S1286-4579(02)01639-8
+   CHAPEL TA, 1977, SEX TRANSM DIS, V4, P150, DOI 10.1097/00007435-197710000-00008
+   CHUI L, 1993, J CLIN MICROBIOL, V31, P659, DOI 10.1128/JCM.31.3.659-664.1993
+   CONNOLLY GM, 1989, GUT, V30, P1033, DOI 10.1136/gut.30.8.1033
+   DANGOR Y, 1993, SEX TRANSM DIS, V20, P5, DOI 10.1097/00007435-199301000-00002
+   Houghton J, 1997, J INFECT DIS, V175, P1216, DOI 10.1086/593671
+   JONASSON JA, 1993, INT J STD AIDS, V4, P317, DOI 10.1177/095646249300400602
+   JOSEPH AK, 1994, DERMATOL CLIN, V12, P1
+   KOTLER DP, 1989, AM J GASTROENTEROL, V84, P313
+   Lewis DA, 2006, SEX TRANSM INFECT, V82, P19, DOI 10.1136/sti.2006.023127
+   Lewis DA, 2003, SEX TRANSM INFECT, V79, P68, DOI 10.1136/sti.79.1.68
+   SCHMID GP, 1995, J CLIN MICROBIOL, V33, P3257, DOI 10.1128/JCM.33.12.3257-3259.1995
+   STURM AW, 1987, GENITOURIN MED, V63, P98
+   Ussher JE, 2007, CLIN INFECT DIS, V44, pE85, DOI 10.1086/515404
+   WILCOX CM, 1992, AM J MED, V92, P412, DOI 10.1016/0002-9343(92)90272-D
+   WILCOX CM, 1995, ANN INTERN MED, V123, P143, DOI 10.7326/0003-4819-123-2-199507150-00010
+   Wu JJ, 2004, CLIN DERMATOL, V22, P499, DOI 10.1016/j.clindermatol.2004.07.008
+NR 18
+TC 2
+Z9 2
+U1 0
+U2 2
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0956-4624
+EI 1758-1052
+J9 INT J STD AIDS
+JI Int. J. STD AIDS
+PD APR
+PY 2009
+VL 20
+IS 4
+BP 238
+EP 240
+DI 10.1258/ijsa.2008.008317
+PG 3
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 434UP
+UT WOS:000265299900006
+PM 19304967
+DA 2020-11-10
+ER
+
+PT J
+AU Castro, LA
+   Favero, CA
+   Machado, PR
+   Borges, MC
+   Fonseca, BA
+AF Castro, Luiza A.
+   Favero, Camila A.
+   Machado, Paula R.
+   Borges, Marcos C.
+   Fonseca, Benedito A.
+TI EVALUATION OF NS1 PROTEIN DETECTION AS A DIAGNOSTIC METHOD FOR DENGUE-3
+   INFECTION IN BRAZIL
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 57th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY DEC 07-11, 2008
+CL New Orleans, LA
+SP Amer Soc Trop Med & Hyg
+C1 [Castro, Luiza A.; Favero, Camila A.; Machado, Paula R.; Borges, Marcos C.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI Borges, Marcos Carvalho/A-3585-2014
+OI Borges, Marcos Carvalho/0000-0001-6280-0714
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD DEC
+PY 2008
+VL 79
+IS 6
+MA 116
+BP 34
+EP 35
+PG 2
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 382ZT
+UT WOS:000261644600117
+DA 2020-11-10
+ER
+
+PT J
+AU Gomes-Ruiz, AC
+   Silva, BM
+   Bonjardim, CA
+   Fonseca, BA
+AF Gomes-Ruiz, Alessandra C.
+   Silva, Breno M.
+   Bonjardim, Claudio A.
+   Fonseca, Benedito A.
+TI VIRUS REPLICATION IS INHIBITED BY RNA INTERFERENCE (RNAI) DIRECTED TO
+   DIFFERENT DENGUE GENOMIC REGIONS
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 57th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY DEC 07-11, 2008
+CL New Orleans, LA
+SP Amer Soc Trop Med & Hyg
+C1 [Gomes-Ruiz, Alessandra C.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+   [Bonjardim, Claudio A.] Univ Fed Minas Gerais, Belo Horizonte, MG, Brazil.
+RI Bonjardim, Claudio A/J-2601-2014; silva, breno/W-5122-2018
+OI silva, breno/0000-0003-2472-8111
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD DEC
+PY 2008
+VL 79
+IS 6
+MA 117
+BP 35
+EP 35
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 382ZT
+UT WOS:000261644600118
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BA
+   Favero, CA
+   Castro, LA
+   Borges, MC
+AF Fonseca, Benedito A.
+   Favero, Camila A.
+   Castro, Luiza A.
+   Borges, Marcos C.
+TI CHLOROQUINE IMPROVES PAIN AND WELL-BEING OF DENGUE PATIENTS BUT DOES NOT
+   INFLUENCE THE PRESENCE OF FEVER AND DURATION OF THE DISEASE
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 57th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY DEC 07-11, 2008
+CL New Orleans, LA
+SP Amer Soc Trop Med & Hyg
+C1 [Fonseca, Benedito A.; Favero, Camila A.; Castro, Luiza A.; Borges, Marcos C.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI Borges, Marcos Carvalho/A-3585-2014
+OI Borges, Marcos Carvalho/0000-0001-6280-0714
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD DEC
+PY 2008
+VL 79
+IS 6
+MA 124
+BP 37
+EP 37
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 382ZT
+UT WOS:000261644600125
+DA 2020-11-10
+ER
+
+PT J
+AU Pereira, EMA
+   Sierakowski, MR
+   Jo, TA
+   Moreira, RA
+   Monteiro-Moreira, ACO
+   Franca, RFO
+   Fonseca, BAL
+   Petri, DFS
+AF Pereira, Edla M. A.
+   Sierakowski, Maria Rita
+   Jo, Tatiane A.
+   Moreira, Renato A.
+   Monteiro-Moreira, Ana Cristina O.
+   Franca, Rafael F. O.
+   Fonseca, Benedito A. L.
+   Petri, Denise F. S.
+TI Lectins and/or xyloglucans/alginate layers as supports for
+   immobilization of dengue virus particles
+SO COLLOIDS AND SURFACES B-BIOINTERFACES
+LA English
+DT Article
+DE xyloglucan; lectin; dengue virus; ellipsometry; AFM
+ID AMINO-TERMINATED SURFACES; BOVINE SERUM-ALBUMIN; X-RAY-SCATTERING;
+   CONCANAVALIN-A; CONFORMATIONAL-CHANGES; ADSORPTION BEHAVIOR; DECORATED
+   PARTICLES; ENVELOPE PROTEIN; HEPARAN-SULFATE; ALGINIC ACID
+AB Formation of stable thin films of mixed xyloglucan (XG) and alginate (ALG) onto Si/SiO2 wafers was achieved under pH 11.6, 50 mM CaCl2, and at 70 degrees C. XG-ALG films presented mean thickness of (16 +/- 2) nun and globules rich surface, as evidenced by means of ellipsometry and atomic force microscopy (AFM), respectively. The adsorption of two glucose/mannose-binding seed (Canavalia ensiformis and Dioclea altissima) lectins, coded here as ConA and DAlt, onto XG-ALG surfaces took place under pH 5. Under this condition both lectins present positive net charge. ConA and DAIt adsorbed irreversibly onto XG-ALG forming homogenous monolayers similar to(4 +/- 1)nm thick. Lectins adsorption was mainly driven by electrostatic interaction between lectins positively charged residues and carboxylated (negatively charged) ALG groups. Adhesion of four serotypes of dengue virus, DENV (1-4), particles to XG-ALG surfaces were observed by ellipsometry and AFM. The attachment of dengue particles onto XG-ALG films might be mediated by (i) H bonding between E protein (located at virus particle surface) polar residues and hydroxyl groups present on XG-ALG surfaces and (ii) electrostatic interaction between E protein positively charged residues and ALG carboxylic groups. DENV-4 serotype presented the weakest adsorption onto XG-ALG surfaces, indicating that E protein on DENV-4 surface presents net charge (amino acid sequence) different from E proteins of other serotypes. All four DENV particles serotypes adsorbed similarly onto lectin films adsorbed. Nevertheless, the addition of 0.005 mol/L of mannose prevented dengue particles from adsorbing onto lectin films. XG-ALG and lectin layers serve as potential materials for the development of diagnostic methods for dengue. (c) 2008 Elsevier B.V. All rights reserved.
+C1 [Pereira, Edla M. A.; Petri, Denise F. S.] Univ Sao Paulo, Inst Quim, BR-05513970 Sao Paulo, Brazil.
+   [Sierakowski, Maria Rita; Jo, Tatiane A.] Univ Fed Parana, Dept Quim, BIOPOL, BR-80060000 Curitiba, Parana, Brazil.
+   [Moreira, Renato A.; Monteiro-Moreira, Ana Cristina O.] Univ Fortaleza, Ctr Ciencias Saude, Fortaleza, Ceara, Brazil.
+   [Franca, Rafael F. O.; Fonseca, Benedito A. L.] Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Clin Med, BR-14049 Ribeirao Preto, Brazil.
+RP Petri, DFS (corresponding author), Univ Sao Paulo, Inst Quim, POB 26077, BR-05513970 Sao Paulo, Brazil.
+EM dfsp@iq.usp.br
+RI Sierakowski, Maria R/H-9213-2013; Monteiro-Moreira, Ana Cristina
+   O/F-3685-2014; PETRI, DENISE/H-5004-2012; Petri, Denise/L-5084-2019;
+   Fonseca, Benedito/F-3252-2012
+OI Sierakowski, Maria R/0000-0002-8061-1199; Monteiro-Moreira, Ana Cristina
+   O/0000-0002-3606-6808; PETRI, DENISE/0000-0003-4814-8357; Moreira,
+   Renato de Azevedo/0000-0002-9626-6086; Fonseca,
+   Benedito/0000-0003-3159-5687; Freitas de Oliveira Franca,
+   Rafael/0000-0002-1846-6007
+FU Conselho Nacional de Desenvolvimento Cientifico a Tecnologico
+   (CNPq/MCT)National Council for Scientific and Technological Development
+   (CNPq); Fundacao Araucaria and Funda ao de Amparo a Pesquisa do Estado
+   de Sao Paulo (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP)
+FX The authors acknowledge Conselho Nacional de Desenvolvimento Cientifico
+   a Tecnologico (CNPq/MCT), Fundacao Araucaria and Funda ao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP) for financial support.
+CR Allison SL, 2001, J VIROL, V75, P4268, DOI 10.1128/JVI.75.9.4268-4275.2001
+   Alper J, 2001, SCIENCE, V291, P2339, DOI 10.1126/science.291.5512.2339
+   Avaltroni F, 2007, BIOMACROMOLECULES, V8, P106, DOI 10.1021/bm060655d
+   Azzam R. M. A., 1978, ELLIPSOMETRY POLARIZ
+   Bernfield M, 1999, ANNU REV BIOCHEM, V68, P729, DOI 10.1146/annurev.biochem.68.1.729
+   BHUSHAN B, 2004, APPL SCANNING PROBE
+   Bock G., 2006, NEW TREATMENT STRATE
+   Box GEP, 1978, STAT EXPT INTRO DESI
+   Brandrup J., 1966, POLYM HDB
+   Castro LBR, 2006, LANGMUIR, V22, P3757, DOI 10.1021/la053080z
+   Castro LBR, 2005, J NANOSCI NANOTECHNO, V5, P2063, DOI 10.1166/jnn.2005.501
+   Castro LBR, 2007, J PHYS CHEM B, V111, P8520, DOI 10.1021/jp0686543
+   De Paula SO, 2002, T ROY SOC TROP MED H, V96, P266, DOI 10.1016/S0035-9203(02)90094-5
+   DRAGET KI, 1994, CARBOHYD POLYM, V25, P31, DOI 10.1016/0144-8617(94)90159-7
+   GRANT GT, 1973, FEBS LETT, V32, P195, DOI 10.1016/0014-5793(73)80770-7
+   HEINZE T, 2005, ADV POLYM SCI POLYSA, V1
+   Jelinek R, 2004, CHEM REV, V104, P5987, DOI 10.1021/cr0300284
+   Lindenbach BD, 2003, ADV VIRUS RES, V59, P23, DOI 10.1016/S0065-3527(03)59002-9
+   Lis H, 1998, CHEM REV, V98, P637, DOI 10.1021/cr940413g
+   Maciel JD, 2007, CARBOHYD POLYM, V69, P522, DOI 10.1016/j.carbpol.2007.01.013
+   Modis Y, 2004, NATURE, V427, P313, DOI 10.1038/nature02165
+   Moreira RA, 1997, PHYTOCHEMISTRY, V46, P139, DOI 10.1016/S0031-9422(97)00262-8
+   MORRIS ER, 1978, CARBOHYD RES, V66, P145, DOI 10.1016/S0008-6215(00)83247-4
+   Palik E D, 1985, HDB OPTICAL CONSTANT
+   Pancera SM, 2005, MACROMOL BIOSCI, V5, P331, DOI 10.1002/mabi.200400206
+   QUEIROZ JC, 2007, NOVA, V30, P909
+   REEKE GN, 1975, CONCANAVALIN
+   Rostand KS, 1997, INFECT IMMUN, V65, P1
+   Seo SJ, 2005, BIOMATERIALS, V26, P3607, DOI 10.1016/j.biomaterials.2004.09.025
+   Sierakowski MR, 2007, J BRAZIL CHEM SOC, V18, P1017, DOI 10.1590/S0103-50532007000500021
+   Sierakowski MR, 2002, CARBOHYD POLYM, V49, P167, DOI 10.1016/S0144-8617(01)00321-6
+   Silva RA, 2007, INT J BIOL MACROMOL, V41, P404, DOI 10.1016/j.ijbiomac.2007.05.014
+   SMIDSROD O, 1966, ACTA CHEM SCAND, V20, P1026, DOI 10.3891/acta.chem.scand.20-1026
+   Spillmann D, 2001, BIOCHIMIE, V83, P811, DOI 10.1016/S0300-9084(01)01290-1
+   Stokke BT, 2000, MACROMOLECULES, V33, P1853, DOI 10.1021/ma991559q
+   Talarico LB, 2007, VIROLOGY, V363, P473, DOI 10.1016/j.virol.2007.01.043
+   Ueta RR, 2008, COLLOID SURFACE B, V61, P244, DOI 10.1016/j.colsurfb.2007.08.010
+   ZAND R, 1971, P NATL ACAD SCI USA, V68, P2173, DOI 10.1073/pnas.68.9.2173
+   Zhang Y, 2004, STRUCTURE, V12, P1607, DOI 10.1016/j.str.2004.06.019
+NR 39
+TC 15
+Z9 15
+U1 0
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0927-7765
+EI 1873-4367
+J9 COLLOID SURFACE B
+JI Colloid Surf. B-Biointerfaces
+PD OCT 1
+PY 2008
+VL 66
+IS 1
+BP 45
+EP 52
+DI 10.1016/j.colsurfb.2008.05.013
+PG 8
+WC Biophysics; Chemistry, Physical; Materials Science, Biomaterials
+SC Biophysics; Chemistry; Materials Science
+GA 345GI
+UT WOS:000258983900007
+PM 18579349
+DA 2020-11-10
+ER
+
+PT J
+AU Neto, RJP
+   Colares, JKB
+   Fonseca, BAL
+AF Neto, R. J. Pires
+   Colares, J. K. B.
+   Fonseca, B. A. L.
+TI Evaluation of genotype resistance testing for salvage antiretroviral
+   therapy at AIDS care centers from Ribeirao Preto, Sao Paulo, Brazil
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article
+DE HIV-1; antiretroviral therapy; salvage therapy; HIV-1 genotype
+   resistance testing
+ID RANDOMIZED CONTROLLED-TRIAL; HIV DRUG-RESISTANCE; ZIDOVUDINE RESISTANCE;
+   MANAGEMENT; MUTATIONS; FAILURE; ADULTS; IMPACT
+AB The availability of HIV-1 genotype resistance testing (GRT) to clinicians has been insufficiently studied outside randomized clinical trials. The present study evaluated the outcome of salvage antiretroviral therapy (ART) recommended by an expert physician based on GRT in a non-clinical trial setting in Ribeirao Preto, Brazil. A prospective, open, nonrandomized study evaluating easy access to GRT at six Brazilian AIDS Clinics was carried out. This cooperative study analyzed the efficacy of treatment recommended to patients whose salvage ART was guided by GRT with that of treatment with ART based only on previous ART history. A total of 112 patients with ART failure were included in the study, and 77 of them were submitted to GRT. The median CD4 cell count and viral load for these 77 patients at baseline were ( mean +/- SD) 252.1 +/- 157.4 cells/mu L and 4.60 +/- 0.5 log(10) HIV RNA copies/mL, respectively. The access time, i.e., the time elapsed between ordering the GRT and receiving the result was, on average, 71.9 +/- 37.3 days. The study results demonstrated that access to GRT followed by expert recommendations did not improve the time to persistent treatment failure when compared to conventional salvage ART. Access to GRT in this Brazilian community health care setting did not improve the long-term virologic outcomes of HIV-infected patients experiencing treatment failure. This result is probably related to the long time required to implement ART guided by GRT.
+C1 [Neto, R. J. Pires; Colares, J. K. B.; Fonseca, B. A. L.] Univ Sao Paulo, Dept Clin Med, Fac Med Ribeirao Preto, BR-14049900 Ribeirao Preto, SP, Brazil.
+   [Neto, R. J. Pires] Hosp Sao Jose Doencas Infecc, Secretaria Estado Saude, Fortaleza, Ceara, Brazil.
+RP Fonseca, BAL (corresponding author), USP, FMRP, Dept Clin Med, Hosp Clin, Av Bandeirantes 3900, BR-14049900 Ribeirao Preto, SP, Brazil.
+EM baldfons@fmrp.usp.br
+RI Colares, Jeova Keny Baima/C-5257-2014; da Justa Pires Neto,
+   Roberto/AAB-3425-2020; Fonseca, Benedito/F-3252-2012
+OI Colares, Jeova Keny Baima/0000-0003-1367-6272; da Justa Pires Neto,
+   Roberto/0000-0003-0291-9523; Fonseca, Benedito/0000-0003-3159-5687
+CR Baxter JD, 2000, AIDS, V14, pF83, DOI 10.1097/00002030-200006160-00001
+   Casseb J, 1999, AIDS PATIENT CARE ST, V13, P213, DOI 10.1089/apc.1999.13.213
+   Cingolani A, 2002, AIDS, V16, P369, DOI 10.1097/00002030-200202150-00008
+   Cohen CJ, 2002, AIDS, V16, P579, DOI 10.1097/00002030-200203080-00009
+   DAQUILA RT, 1995, ANN INTERN MED, V122, P401, DOI 10.7326/0003-4819-122-6-199503150-00001
+   *DHHS, 2006, GUID US ANT AG HIV 1
+   Durant J, 1999, LANCET, V353, P2195, DOI 10.1016/S0140-6736(98)12291-2
+   Green H, 2006, ANTIVIR THER, V11, P857
+   Hirsch MS, 1998, JAMA-J AM MED ASSOC, V279, P1984, DOI 10.1001/jama.279.24.1984
+   Hirsch MS, 2003, CLIN INFECT DIS, V37, P113, DOI 10.1086/375597
+   JAPOUR AJ, 1995, J INFECT DIS, V171, P1172, DOI 10.1093/infdis/171.5.1172
+   Lorenzi P, 1999, AIDS, V13, pF17, DOI 10.1097/00002030-199902040-00001
+   Marins JRP, 2003, AIDS, V17, P1675, DOI 10.1097/00002030-200307250-00012
+   Meynard JL, 2002, AIDS, V16, P727, DOI 10.1097/00002030-200203290-00008
+   Miller V, 1998, J INFECT DIS, V177, P1521, DOI 10.1086/515304
+   PIRES RJ, 2006, TRATADO CLIN MED, V3, P4198
+   Teixeira PR, 2004, AIDS, V18, pS5, DOI 10.1097/00002030-200406003-00002
+   Tural C, 2002, AIDS, V16, P209, DOI 10.1097/00002030-200201250-00010
+   Wegner SA, 2004, CLIN INFECT DIS, V38, P723, DOI 10.1086/381266
+   Zolopa AR, 1999, ANN INTERN MED, V131, P813, DOI 10.7326/0003-4819-131-11-199912070-00003
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI RIBEIRAO PRETO
+PA FACULDADE MEDICINA, CASA 10, 14049 RIBEIRAO PRETO, RIBEIRAO PRETO, SP
+   14049, BRAZIL
+SN 0100-879X
+EI 1414-431X
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PD JUN
+PY 2008
+VL 41
+IS 6
+BP 533
+EP 538
+DI 10.1590/S0100-879X2008005000013
+PG 6
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA 342EE
+UT WOS:000258766600016
+PM 18438592
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Nascimento, RT
+   Gomes-Ruiz, AC
+   Fonseca, BA
+AF Nascimento, Renata T.
+   Gomes-Ruiz, Alessandra C.
+   Fonseca, Benedito A.
+TI IL-5 levels and pain intensity correlated to high dengue 3 viral loads
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 56th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 04-08, 2007
+CL Philadelphia, PA
+SP Amer Soc Trop Med & Hyg
+C1 [Nascimento, Renata T.; Gomes-Ruiz, Alessandra C.; Fonseca, Benedito A.] USP, FMRP, Ribeirao Preto, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2007
+VL 77
+IS 5
+SU S
+MA 120
+BP 36
+EP 36
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 228UN
+UT WOS:000250758200121
+DA 2020-11-10
+ER
+
+PT J
+AU Gomes-Ruiz, AC
+   Silva, BM
+   Bonjardim, CA
+   Fonseca, BA
+AF Gomes-Ruiz, Alessandra C.
+   Silva, Breno M.
+   Bonjardim, Claudio A.
+   Fonseca, Benedito A.
+TI Inhibition of viral replication in human liver cells by short
+   interfering RNA directed to 5 '-noncoding region of dengue-2 virus
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 56th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 04-08, 2007
+CL Philadelphia, PA
+SP Amer Soc Trop Med & Hyg
+C1 [Gomes-Ruiz, Alessandra C.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+   [Silva, Breno M.; Bonjardim, Claudio A.] Univ Fed Minas Gerais, Belo Horizonte, MG, Brazil.
+RI Bonjardim, Claudio A/J-2601-2014
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2007
+VL 77
+IS 5
+SU S
+MA 450
+BP 129
+EP 129
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 228UN
+UT WOS:000250758200448
+DA 2020-11-10
+ER
+
+PT J
+AU Lima, DM
+   De Paula, SO
+   Palma, PV
+   Fonseca, BA
+AF Lima, Danielle M.
+   De Paula, Sergio O.
+   Palma, Patricia V.
+   Fonseca, Benedito A.
+TI A bivalent DNA vaccine candidate against dengue-3 and dengue-4
+   expressing the structural PRM/E proteins elicits cellular immune
+   response and protects mice against lethal challenge
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 56th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 04-08, 2007
+CL Philadelphia, PA
+SP Amer Soc Trop Med & Hyg
+C1 [Lima, Danielle M.; Palma, Patricia V.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+   [De Paula, Sergio O.] Univ Fed Vicosa, Vicosa, MG, Brazil.
+RI Lima, Danielle/A-6108-2013; De Paula, Sergio/N-2609-2018
+OI Lima, Danielle/0000-0003-2734-6768; De Paula, Sergio/0000-0002-2275-5768
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2007
+VL 77
+IS 5
+SU S
+MA 757
+BP 218
+EP 218
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 228UN
+UT WOS:000250758201218
+DA 2020-11-10
+ER
+
+PT J
+AU Takahashi, P
+   Fonseca, BA
+AF Takahashi, Paula
+   Fonseca, Benedito A.
+TI Heavy precipitation in the beginning of the summer is associated to a
+   smaller number of dengue cases in Ribeirao Preto, Sao Paulo State,
+   Brazil
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 56th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 04-08, 2007
+CL Philadelphia, PA
+SP Amer Soc Trop Med & Hyg
+C1 [Takahashi, Paula; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2007
+VL 77
+IS 5
+SU S
+MA 761
+BP 219
+EP 219
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 228UN
+UT WOS:000250758201222
+DA 2020-11-10
+ER
+
+PT J
+AU Machado, PR
+   Farias, KJ
+   Castro, LA
+   Fonseca, BA
+AF Machado, Paula R.
+   Farias, Kleber J.
+   Castro, Luiza A.
+   Fonseca, Benedito A.
+TI Molecular epidemiology of human herpesvirus 8 in HIV-positive patients
+   with Kaposi's sarcoma attended in Ribeirao Preto, Brazil
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 56th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene
+CY NOV 04-08, 2007
+CL Philadelphia, PA
+SP Amer Soc Trop Med & Hyg
+C1 [Machado, Paula R.; Farias, Kleber J.; Castro, Luiza A.; Fonseca, Benedito A.] Univ Sao Paulo, Ribeirao Preto, SP, Brazil.
+RI FARIAS, KLEBER/AAC-9815-2019
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2007
+VL 77
+IS 5
+SU S
+MA 931
+BP 266
+EP 266
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 228UN
+UT WOS:000250758201390
+DA 2020-11-10
+ER
+
+PT J
+AU Vanni, T
+   Morejon, KM
+   Santana, RC
+   de Melo, L
+   Ferrao, SBRL
+   Amorim, AP
+   Gaspar, GG
+   Ponzi, CC
+   Golin, NA
+   Custodio, FL
+   Marangoni, ATD
+   Campos, CP
+   Fonseca, BAL
+AF Vanni, T.
+   Morejon, K. M.
+   Santana, R. C.
+   de Melo, L.
+   Ferrao, S. B. R. L.
+   Amorim, A. P.
+   Gaspar, G. G.
+   Ponzi, C. C.
+   Golin, N. A.
+   Custodio, F. L.
+   Marangoni, A. T. D.
+   Campos, C. P., Jr.
+   Fonseca, B. A. L.
+TI Comparison of the effectiveness of initial combined antiretroviral
+   therapy with nelfinavir or efavirenz at a university-based outpatient
+   service in Brazil
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article
+DE AIDS; HIV; antiretroviral treatment; efavirenz; nelfinavir; highly
+   active antiretroviral therapy
+ID RESOURCE-POOR SETTINGS; HIV-INFECTION; PROTEASE-INHIBITOR; IMMUNOLOGICAL
+   RESPONSE; RANDOMIZED-TRIALS; COHORT; ADULTS; ADHERENCE; RITONAVIR;
+   REGIMENS
+AB Since there are some concerns about the effectiveness of highly active antiretroviral therapy in developing countries, we compared the initial combination antiretroviral therapy with zidovudine and lamivudine plus either nelfinavir or efavirenz at a university-based outpatient service in Brazil. This was a retrospective comparative cohort study carried out in a tertiary level hospital. A total of 194 patients receiving either nelfinavir or efavirenz were identified through our electronic database search, but only 126 patients met the inclusion criteria. Patients were included if they were older than 18 years old, naive for antiretroviral therapy, and had at least 1 follow-up visit after starting the antiretroviral regimen. Fifty-one of the included patients were receiving a nelfinavir-based regimen and 75 an efavirenz-based regimen as outpatients. Antiretroviral therapy was prescribed to all patients according to current guidelines. By intention-to-treat (missing/switch = failure), after a 12-month period, 65% of the patients in the efavirenz group reached a viral load < 400 copies/mL compared to 41% of the patients in the nelfinavir group (P = 0.01). The mean CD4 cell count increase after a 12-month period was also greater in the efavirenz group (195 x 10(6) cells/ L) than in the nelfinavir group (119 x 10(6) cells/ L; P = 0.002). The efavirenz-based regimen was superior compared to the nelfinavir-based regimen. The low response rate in the nelfinavir group might be partially explained by the difficulty of using a regimen requiring a higher patient compliance (12 vs 3 pills a day) in a developing country.
+C1 USP, FMRP, Dept Clin Med, Hosp Clin, BR-14049900 Ribeirao Preto, Brazil.
+RP Fonseca, BAL (corresponding author), USP, FMRP, Dept Clin Med, Hosp Clin, Av Bandeirantes,3900, BR-14049900 Ribeirao Preto, Brazil.
+EM baldfons@fmrp.usp.br
+RI de C Santana, Rodrigo/C-4429-2014; Vanni, Tazio P./B-7925-2018; Fonseca,
+   Benedito/F-3252-2012
+OI de C Santana, Rodrigo/0000-0002-5887-8663; Fonseca,
+   Benedito/0000-0003-3159-5687
+CR Albrecht MA, 2001, NEW ENGL J MED, V345, P398, DOI 10.1056/NEJM200108093450602
+   Bartlett JA, 2006, AIDS, V20, P2051, DOI 10.1097/01.aids.0000247578.08449.ff
+   Behrens G, 1999, AIDS, V13, pF63, DOI 10.1097/00002030-199907090-00001
+   Erickson JW, 1999, AIDS, V13, pS189
+   Haubrich RH, 1999, AIDS, V13, P1099, DOI 10.1097/00002030-199906180-00014
+   HISCH MS, 2000, JAMA-J AM MED ASSOC, V283, P2417
+   Hofer CB, 2004, JAIDS-J ACQ IMM DEF, V36, P967, DOI 10.1097/00126334-200408010-00011
+   Ivers LC, 2005, CLIN INFECT DIS, V41, P217, DOI 10.1086/431199
+   Lucas GM, 2001, AIDS, V15, P1679, DOI 10.1097/00002030-200109070-00011
+   Lucas GM, 1999, ANN INTERN MED, V131, P81, DOI 10.7326/0003-4819-131-2-199907200-00002
+   Paterson DL, 2000, ANN INTERN MED, V133, P21, DOI 10.7326/0003-4819-133-1-200007040-00004
+   Perez-Elias MJ, 2003, HIV CLIN TRIALS, V4, P391, DOI 10.1310/HVQX-7Q27-X4V1-GJA1
+   Phillips AN, 1999, AIDS, V13, P2075, DOI 10.1097/00002030-199910220-00010
+   Pulido F, 2004, JAIDS-J ACQ IMM DEF, V35, P343, DOI 10.1097/00126334-200404010-00003
+   Robbins GK, 2003, NEW ENGL J MED, V349, P2293, DOI 10.1056/NEJMoa030264
+   Schulz KF, 2005, LANCET, V365, P1657, DOI 10.1016/S0140-6736(05)66516-6
+   Staszewski S, 1999, NEW ENGL J MED, V341, P1865, DOI 10.1056/NEJM199912163412501
+   Stoll M, 2002, EUR J MED RES, V7, P463
+   Sulkowski MS, 2000, JAMA-J AM MED ASSOC, V283, P74, DOI 10.1001/jama.283.1.74
+   Teixeira PR, 2004, AIDS, V18, pS5, DOI 10.1097/00002030-200406003-00002
+   Walmsley S, 2002, NEW ENGL J MED, V346, P2039, DOI 10.1056/NEJMoa012354
+   2001, BRAZILIAN GUIDELINE
+NR 22
+TC 2
+Z9 2
+U1 0
+U2 1
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI RIBEIRAO PRETO
+PA FACULDADE MEDICINA, CASA 10, 14049 RIBEIRAO PRETO, RIBEIRAO PRETO, SP
+   14049, BRAZIL
+SN 0100-879X
+EI 1414-431X
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PD JUL
+PY 2007
+VL 40
+IS 7
+BP 963
+EP 969
+DI 10.1590/S0100-879X2007000700011
+PG 7
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA 195KN
+UT WOS:000248411200011
+PM 17653450
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Farias, KJ
+   Machado, PR
+   Fonseca, BA
+AF Farias, Kleber J.
+   Machado, Paula R.
+   Fonseca, Benedito A.
+TI Chloroquine reduces dengue virus replication in vero cells but not in
+   C6/36 cells, and partially protects mice against viral challenge
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+C1 Sch Med, Ribeirao Preto, Brazil.
+RI FARIAS, KLEBER/AAC-9815-2019
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2006
+VL 75
+IS 5
+SU S
+MA 115
+BP 34
+EP 35
+PG 2
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 109XW
+UT WOS:000242343900116
+DA 2020-11-10
+ER
+
+PT J
+AU Costa, EP
+   Fonseca, BA
+AF Costa, Emiliana P.
+   Fonseca, Benedito A.
+TI Dengue-2 virus almost abolish yellow fever virus replication in C6/36
+   cells
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+C1 Univ Sao Paulo, Ribeirao Preto, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2006
+VL 75
+IS 5
+SU S
+MA 463
+BP 135
+EP 136
+PG 2
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 109XW
+UT WOS:000242343900464
+DA 2020-11-10
+ER
+
+PT J
+AU Nascimento, RT
+   Fonseca, BA
+AF Nascimento, Renata T.
+   Fonseca, Benedito A.
+TI Clinical and laboratorial evaluation of patients with suspected dengue-3
+   infection in Ribeirao Preto, Sao Paulo, Brazil
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+C1 Univ Sao Paulo, Ribeirao Preto, Brazil.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD NOV
+PY 2006
+VL 75
+IS 5
+SU S
+MA 471
+BP 138
+EP 138
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 109XW
+UT WOS:000242343900472
+DA 2020-11-10
+ER
+
+PT J
+AU Vanni, T
+   Sprinz, E
+   Machado, MW
+   Santana, RDC
+   Fonseca, BAL
+   Schwartsmann, G
+AF Vanni, Tazio
+   Sprinz, Eduardo
+   Machado, Marcelo Warlet
+   Santana, Rodrigo de C.
+   Fonseca, Benedito Antonio L.
+   Schwartsmann, Gilberto
+TI Systemic treatment of AIDS-related Kaposi sarcoma: Current status and
+   perspectives
+SO CANCER TREATMENT REVIEWS
+LA English
+DT Review
+DE AIDS; Kaposi's sarcoma; treatment
+ID ACTIVE ANTIRETROVIRAL THERAPY; PEGYLATED-LIPOSOMAL DOXORUBICIN;
+   QUALITY-OF-LIFE; PHASE-II TRIAL; ORAL ETOPOSIDE; COMPLETE REGRESSION;
+   ANTITUMOR-ACTIVITY; CANCER INCIDENCE; HIV; COMBINATION
+AB Kaposi's sarcoma (KS) is the most frequent type of cancer in patients with Acquired Immune Deficiency Syndrome (AIDS). In the western world, its incidence decreased dramatically in the era of highly active anti-retroviral therapy (HAART). In contrast, the incidence of KS has been steadily climbing in parallel with the AIDS epidemic in Africa over the past 1015 years, being the most common cancer in adult men in countries like Uganda and Zimbabwe. AIDS-KS can be diagnosed at any stage of HIV infection, although it more commonly occurs in the setting of severe immune suppression, especially with an elevated viral toad. Up to now, AIDS-KS is stilt an incurable disease. Its clinical. course is variable, ranging from very indolent cases, requiring no or minimal therapy, to a rapidly progressive disease. Various local therapies are available to control small and asymptomatic lesions, while cytotoxic, immunological and biological therapies can be considered for more aggressive disease. The primary goal of therapy in most of the cases is to provide safe and effective palliation, in order to quality of Life. Optimal anti-retroviral therapy is a key component of AIDS-KS management. There are stilt many questions to be answered in the management of patients with AIDS-KS, such as (1) What are the therapeutic agents that should be used in this disease, and in which sequence? and (2) What are the benefits and risks expected with each treatment option? The aim of this review is to discuss the systemic management of AIDS-KS, with special focus on the above mentioned questions. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 Univ Fed Rio Grande do Sul, Fac Med, Porto Alegre, RS, Brazil.
+   Univ Sao Paulo, Fac Med Ribeirao Preto, BR-14049 Ribeirao Preto, Brazil.
+RP Schwartsmann, G (corresponding author), Univ Fed Rio Grande do Sul, Fac Med, Porto Alegre, RS, Brazil.
+EM gschwartsmann@hcpa.ufrgs.br
+RI sprinz, eduardo/V-7961-2019; Vanni, Tazio P./B-7925-2018; Schwartsmann,
+   Gilberto/G-4256-2016; de C Santana, Rodrigo/C-4429-2014; Fonseca,
+   Benedito/F-3252-2012
+OI sprinz, eduardo/0000-0003-4343-8304; Schwartsmann,
+   Gilberto/0000-0002-7850-1644; de C Santana, Rodrigo/0000-0002-5887-8663;
+   Fonseca, Benedito/0000-0003-3159-5687
+CR Antman K, 2000, NEW ENGL J MED, V342, P1027, DOI 10.1056/NEJM200004063421407
+   Antoniou T, 2005, CLIN PHARMACOKINET, V44, P111, DOI 10.2165/00003088-200544020-00001
+   Appleby P, 2000, JNCI-J NATL CANCER I, V92, P1823, DOI 10.1093/jnci/92.22.1823
+   BASSETT MT, 1995, INT J CANCER, V63, P9
+   *BHIV WRIT COMM BE, 2001, GUID TREATM HIV INF, V2, P276
+   Boivin G, 2000, AIDS, V14, P1907, DOI 10.1097/00002030-200009080-00004
+   Bower M, 1999, AIDS, V13, P2105, DOI 10.1097/00002030-199910220-00014
+   Cattelan AM, 1999, EUR J CANCER, V35, P1809, DOI 10.1016/S0959-8049(99)00161-6
+   Cianfrocca M, 2002, J CLIN ONCOL, V20, P153, DOI 10.1200/JCO.20.1.153
+   DEDICOAT M, 2004, COCHRANE LIB
+   Dezube Bruce J, 2004, AIDS Read, V14, P236
+   Echimane AK, 2000, CANCER, V89, P653, DOI 10.1002/1097-0142(20000801)89:3&lt;653::AID-CNCR22&gt;3.0.CO;2-Z
+   Evans SR, 2002, J CLIN ONCOL, V20, P3236, DOI 10.1200/JCO.2002.12.038
+   Gill J, 2002, JAIDS-J ACQ IMM DEF, V31, P384, DOI 10.1097/00126334-200212010-00003
+   Gill PS, 1999, J CLIN ONCOL, V17, P1876, DOI 10.1200/JCO.1999.17.6.1876
+   GILL PS, 1991, AM J MED, V90, P427, DOI 10.1016/0002-9343(91)80081-V
+   Gill PS, 1996, J CLIN ONCOL, V14, P2353, DOI 10.1200/JCO.1996.14.8.2353
+   Girard PM, 1996, AIDS, V10, P753, DOI 10.1097/00002030-199606001-00009
+   Glesby MJ, 1996, J INFECT DIS, V173, P1477, DOI 10.1093/infdis/173.6.1477
+   Grulich AE, 2001, AIDS, V15, P629, DOI 10.1097/00002030-200103300-00013
+   Hammoud Z, 1998, CLIN INFECT DIS, V26, P1233, DOI 10.1086/598351
+   Harris AH, 2002, SUPPORT CARE CANCER, V10, P486, DOI 10.1007/s00520-002-0363-2
+   Hengge UR, 2002, LANCET INFECT DIS, V2, P281, DOI 10.1016/S1473-3099(02)00263-3
+   Holkova B, 2001, J CLIN ONCOL, V19, P3848, DOI 10.1200/JCO.2001.19.18.3848
+   Koon HB, 2005, J CLIN ONCOL, V23, P982, DOI 10.1200/JCO.2005.06.079
+   KRIGEL RL, 1988, J BIOL RESP MODIF, V7, P359
+   Krown SE, 2004, J CLIN ONCOL, V22, P399, DOI 10.1200/JCO.2004.08.064
+   Krown SE, 1997, J CLIN ONCOL, V15, P3085, DOI 10.1200/JCO.1997.15.9.3085
+   Krown SE, 2002, J INTERF CYTOK RES, V22, P295, DOI 10.1089/107999002753675712
+   KROWN SE, 1989, J CLIN ONCOL, V7, P1201, DOI 10.1200/JCO.1989.7.9.1201
+   Krown SE, 2001, CURR OPIN ONCOL, V13, P374, DOI 10.1097/00001622-200109000-00010
+   LAUBENSTEIN LJ, 1984, J CLIN ONCOL, V2, P1115, DOI 10.1200/JCO.1984.2.10.1115
+   Lebbe C, 1998, AIDS, V12, pF45, DOI 10.1097/00002030-199807000-00002
+   Leitch H, 2003, HIV CLIN TRIALS, V4, P107
+   Levine AM, 2003, LANCET ONCOL, V4, P576, DOI 10.1016/S1470-2045(03)01198-7
+   Levine AM, 2001, EUR J CANCER, V37, P1288, DOI 10.1016/S0959-8049(01)00109-5
+   Martin-Carbonero L, 2004, AIDS, V18, P1737, DOI 10.1097/01.aids.0000131385.60974.b9
+   Martinelli C, 1998, AIDS, V12, P1717
+   Mbulaiteye SM, 2003, HEMATOL ONCOL CLIN N, V17, P673, DOI 10.1016/S0889-8588(03)00048-0
+   Miles SA, 2002, AIDS, V16, P421, DOI 10.1097/00002030-200202150-00014
+   Minotti G, 2004, PHARMACOL REV, V56, P185, DOI 10.1124/pr.56.2.6
+   MISUYASU R, 1997, P AN M AM SOC CLIN, V16, pA55
+   Mocroft A, 2004, CANCER-AM CANCER SOC, V100, P2644, DOI 10.1002/cncr.20309
+   Murdaca G, 2002, AIDS, V16, P304, DOI 10.1097/00002030-200201250-00029
+   Nasti G, 2003, CANCER-AM CANCER SOC, V98, P2440, DOI 10.1002/cncr.11816
+   Nasti G, 2003, J CLIN ONCOL, V21, P2876, DOI 10.1200/JCO.2003.10.162
+   Niehues T, 1999, AIDS, V13, P1148, DOI 10.1097/00002030-199906180-00026
+   Northfelt DW, 1998, J CLIN ONCOL, V16, P2445, DOI 10.1200/JCO.1998.16.7.2445
+   Northfelt DW, 1997, J CLIN ONCOL, V15, P653, DOI 10.1200/JCO.1997.15.2.653
+   Osoba D, 2001, CANCER INVEST, V19, P573, DOI 10.1081/CNV-100104284
+   Paparizos VA, 2002, J ACQ IMMUN DEF SYND, V30, P257
+   Parkin DM, 1999, AIDS, V13, P2563, DOI 10.1097/00002030-199912240-00010
+   Pati S, 2002, BLOOD, V99, P3771, DOI 10.1182/blood.V99.10.3771
+   Pellet C, 2001, J INVEST DERMATOL, V117, P858, DOI 10.1046/j.0022-202x.2001.01465.x
+   Postsmouth S., 2003, AIDS, V17, pF17
+   Rosenthal E, 2002, AM J CLIN ONCOL-CANC, V25, P57, DOI 10.1097/00000421-200202000-00012
+   SAVILLE MW, 1995, LANCET, V346, P26, DOI 10.1016/S0140-6736(95)92654-2
+   Schwartsmann G, 1998, CANCER TREAT REV, V24, P415, DOI 10.1016/S0305-7372(98)90004-4
+   Schwartsmann G, 1996, TUMORI, V82, P360
+   Schwartsmann G, 1997, J CLIN ONCOL, V15, P2118, DOI 10.1200/JCO.1997.15.5.2118
+   Sgadari C, 2000, J IMMUNOL, V165, P509, DOI 10.4049/jimmunol.165.1.509
+   Sgadari C, 2003, LANCET ONCOL, V4, P537, DOI 10.1016/S1470-2045(03)01192-6
+   SHEPHERD FA, 1988, CAN MED ASSOC J, V139, P635
+   Sikora K, 1999, ANN ONCOL, V10, P385, DOI 10.1023/A:1008367822016
+   SITAS F, 2000, J NATL CANC I MONOGR, V28, P1
+   Sprinz E, 2001, AM J CLIN ONCOL-CANC, V24, P177, DOI 10.1097/00000421-200104000-00016
+   Stebbing J, 2004, INT J CANCER, V108, P631, DOI 10.1002/ijc.11648
+   Stewart S, 1998, J CLIN ONCOL, V16, P683, DOI 10.1200/JCO.1998.16.2.683
+   Tirelli U, 2001, EUR J CANCER, V37, P1320, DOI 10.1016/S0959-8049(01)00106-X
+   Tulpule A, 1998, J CLIN ONCOL, V16, P3369, DOI 10.1200/JCO.1998.16.10.3369
+   Tulpule A, 2002, CANCER-AM CANCER SOC, V95, P147, DOI 10.1002/cncr.10634
+   *US PAN CLIN PRACT, 2004, GUID US ANT AG HIV 1
+   Von Roenn JH, 2003, HEMATOL ONCOL CLIN N, V17, P747, DOI 10.1016/S0889-8588(03)00043-1
+   Wabinga HR, 2000, BRIT J CANCER, V82, P1585, DOI 10.1054/bjoc.1999.1071
+   Welles L, 1998, J CLIN ONCOL, V16, P1112, DOI 10.1200/JCO.1998.16.3.1112
+   *WHO, 2003, WHO ESS DRUGS LIST
+NR 76
+TC 35
+Z9 36
+U1 0
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0305-7372
+EI 1532-1967
+J9 CANCER TREAT REV
+JI Cancer Treat. Rev.
+PD OCT
+PY 2006
+VL 32
+IS 6
+BP 445
+EP 455
+DI 10.1016/j.ctrv.2006.06.001
+PG 11
+WC Oncology
+SC Oncology
+GA 094XB
+UT WOS:000241271400005
+PM 16860939
+DA 2020-11-10
+ER
+
+PT J
+AU Vanni, T
+   Fonseca, BAL
+   Polanczyk, CA
+AF Vanni, Tazio
+   Lopes Fonseca, Benedito Antonio
+   Polanczyk, Carisi Anne
+TI Cost-effectiveness analysis comparing chemotherapy regimens in the
+   treatment of AIDS-related Kaposi's sarcoma in Brazil
+SO HIV CLINICAL TRIALS
+LA English
+DT Article
+DE chemotherapy; cost-effectiveness; Kaposi's sarcoma
+ID ACTIVE ANTIRETROVIRAL THERAPY; PEGYLATED-LIPOSOMAL DOXORUBICIN; CANCER
+   INCIDENCE; DAUNORUBICIN; HIV; VINCRISTINE; MANAGEMENT; BLEOMYCIN;
+   SETTINGS; TRIALS
+AB Background: Economic analyses of agents used in the treatment of AIDS and opportunistic diseases are particularly important in developing countries. Purpose: To analyze the cost-effectiveness of AIDS-related Kaposi's sarcoma (AIDS-KS) chemotherapy regimens in Brazil. Method: A decision-analysis model was developed, and effectiveness data were derived from randomized phase ill trials evaluating pegylated liposomal doxorubicin (PLD), liposomal daunorubicin (DNX), and the ABV regimen (doxorubicin, bleomycin, and vincristine). Resource data on direct medical costs were obtained from local sources. Results: The cost-effectiveness estimates (defined as average costs per patient who responds completely or partially) favored PLD (US $10,272/responder) in comparison to DNX (US $16,263/responder). Regarding cost-effectiveness, the ABV regimen that is widely used in developing countries had better results when compared to both PLD (US $1,268 vs. US $10,271) and DNX (US $1,268 vs. US $16,260). The incremental cost per additional responder of using PLD instead of ABV was US $20,990. Sensitivity analyses suggest that these results hold over a wide range of assumptions. Conclusion: ABV seems to be the most reasonable treatment option for AIDS-KS patients in resource-limited countries like Brazil.
+C1 Univ Sao Paulo, Fac Med Ribeirao Preto, Sao Paulo, Brazil.
+   Univ Fed Rio Grande do Sul, Fac Med, Porto Alegre, RS, Brazil.
+RP Polanczyk, CA (corresponding author), Hosp Clin Porto Alegre, Rua Ramiro Barcelos 2350,Sala 2225, BR-90035007 Porto Alegre, RS, Brazil.
+EM cpolanczyk@hcpa.ufrgs.br
+RI Vanni, Tazio P./B-7925-2018; Polanczyk, Carisi CAP/D-6208-2013; Fonseca,
+   Benedito/F-3252-2012
+OI Fonseca, Benedito/0000-0003-3159-5687
+CR Appleby P, 2000, JNCI-J NATL CANCER I, V92, P1823, DOI 10.1093/jnci/92.22.1823
+   BASSETT MT, 1995, INT J CANCER, V63, P9
+   BENNETT CL, 1994, CANCER INVEST, V12, P336, DOI 10.3109/07357909409023033
+   Bennett CL, 1998, J ACQ IMMUN DEF SYND, V18, P460, DOI 10.1097/00042560-199808150-00007
+   Bower M, 1999, AIDS, V13, P2105, DOI 10.1097/00002030-199910220-00014
+   *BRAZ MIN HLTH, 2004, HLTH PRIC DAT BANK 2
+   DEDICOAT M, 2004, COCHRANE LIB
+   Echimane AK, 2000, CANCER, V89, P653, DOI 10.1002/1097-0142(20000801)89:3&lt;653::AID-CNCR22&gt;3.0.CO;2-Z
+   Gill PS, 1996, J CLIN ONCOL, V14, P2353, DOI 10.1200/JCO.1996.14.8.2353
+   Grulich AE, 2001, AIDS, V15, P629, DOI 10.1097/00002030-200103300-00013
+   Hjortsberg C, 1999, ACTA ONCOL, V38, P1063
+   Krown SE, 2004, J CLIN ONCOL, V22, P399, DOI 10.1200/JCO.2004.08.064
+   Krown SE, 1997, J CLIN ONCOL, V15, P3085, DOI 10.1200/JCO.1997.15.9.3085
+   KROWN SE, 1989, J CLIN ONCOL, V7, P1201, DOI 10.1200/JCO.1989.7.9.1201
+   Leitch H, 2003, HIV CLIN TRIALS, V4, P107
+   Levine AM, 2001, EUR J CANCER, V37, P1288, DOI 10.1016/S0959-8049(01)00109-5
+   Lichtenegger H, 2004, ADV SPACE RES-SERIES, V33, P140, DOI 10.1016/j.asr.2003.07.018
+   Lynen L, 2005, AIDS REV, V7, P13
+   Martin-Carbonero L, 2004, AIDS, V18, P1737, DOI 10.1097/01.aids.0000131385.60974.b9
+   Mbulaiteye SM, 2003, HEMATOL ONCOL CLIN N, V17, P673, DOI 10.1016/S0889-8588(03)00048-0
+   Mocroft A, 2004, CANCER-AM CANCER SOC, V100, P2644, DOI 10.1002/cncr.20309
+   Northfelt DW, 1998, J CLIN ONCOL, V16, P2445, DOI 10.1200/JCO.1998.16.7.2445
+   Olweny CLM, 2005, INT J CANCER, V113, P632, DOI 10.1002/ijc.20606
+   Parkin DM, 1999, AIDS, V13, P2563, DOI 10.1097/00002030-199912240-00010
+   Rosenthal E, 2002, AM J CLIN ONCOL-CANC, V25, P57, DOI 10.1097/00000421-200202000-00012
+   SITAS F, 2000, J NATL CANC I MONOGR, V28, P1
+   SMITH TJ, 1993, JNCI-J NATL CANCER I, V85, P1460, DOI 10.1093/jnci/85.18.1460
+   Stewart S, 1998, J CLIN ONCOL, V16, P683, DOI 10.1200/JCO.1998.16.2.683
+   Teixeira PR, 2004, AIDS, V18, pS5, DOI 10.1097/00002030-200406003-00002
+   Tulpule A, 1998, J CLIN ONCOL, V16, P3369, DOI 10.1200/JCO.1998.16.10.3369
+   Von Roenn JH, 2003, HEMATOL ONCOL CLIN N, V17, P747, DOI 10.1016/S0889-8588(03)00043-1
+   Wabinga HR, 2000, BRIT J CANCER, V82, P1585, DOI 10.1054/bjoc.1999.1071
+   Welte R, 2004, PHARMACOECONOMICS, V22, P857, DOI 10.2165/00019053-200422130-00004
+NR 33
+TC 11
+Z9 12
+U1 0
+U2 0
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1528-4336
+EI 1945-5771
+J9 HIV CLIN TRIALS
+JI HIV Clin. Trials
+PD JUL-AUG
+PY 2006
+VL 7
+IS 4
+BP 194
+EP 202
+DI 10.1310/hct0704-194
+PG 9
+WC Infectious Diseases; Pharmacology & Pharmacy
+SC Infectious Diseases; Pharmacology & Pharmacy
+GA 098EQ
+UT WOS:000241504200005
+PM 17065031
+DA 2020-11-10
+ER
+
+PT J
+AU Neto, RJP
+   Lima, DM
+   de Paula, SO
+   Lima, CM
+   Rocco, IM
+   Fonseca, BAL
+AF Neto, RJP
+   Lima, DM
+   de Paula, SO
+   Lima, CM
+   Rocco, IM
+   Fonseca, BAL
+TI Molecular epidemiology of type 1 and 2 dengue viruses in Brazil from
+   1988 to 2001
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article
+DE dengue virus; nucleotide sequence; E/NS1 region; molecular epidemiology;
+   dengue fever; dengue hemorrhagic fever
+ID HEMORRHAGIC-FEVER; EVOLUTION; SEQUENCES; GENE
+AB Dengue is a mosquito-borne viral infection that in recent decades has become a major international public health concern. Epidemic dengue fever reemerged in Brazil in 1981. Since 1990 more than one dengue virus serotype has been circulating in this tropical country and increasing rates of dengue hemorrhagic fever and dengue shock syndrome have been detected every year. Some evidence supports the association between the introduction of a new serotype and/or genotype in a region and the appearance of dengue hemorrhagic fever. In order to study the evolutionary relationships and possible detection of the introduction of new dengue virus genotypes in Brazil in the last years, we analyzed partial nucleotide sequences of 52 Brazilian samples of both dengue type 1 and dengue type 2 isolated from 1988 to 2001 from highly endemic regions. A 240-nucleotide-long sequence from the envelope/nonstructural protein I gene junction was used for phylogenetic analysis. After comparing the nucleotide sequences originally obtained in this study to those previously studied by others, and analyzing the phylogenetic trees, we conclude that, after the initial introduction of the currently circulating dengue-1 and dengue-2 genotypes in Brazil, there has been no evidence of introduction of new genotypes since 1988. The increasing number of dengue hemorrhagic fever cases seen in Brazil in the last years is probably associated with secondary infections or with the introduction of new serotypes but not with the introduction of new genotypes.
+C1 Univ Sao Paulo, FMRP, Dept Clin Med, Mol Virol Lab, BR-14049900 Ribeirao Preto, Brazil.
+   Hosp Sao Jose Doencas Infecciosas, Secretaria Saude Estado Ceara, Fortaleza, Ceara, Brazil.
+   Inst Adolfo Lutz Sao Paulo, Secao Arbovirus, Sao Paulo, Brazil.
+RP Fonseca, BAL (corresponding author), Univ Sao Paulo, FMRP, Dept Clin Med, Mol Virol Lab, Av Bandeirantes 3900, BR-14049900 Ribeirao Preto, Brazil.
+EM baldfons@fmrp.usp.br
+RI De Paula, Sergio/N-2609-2018; da Justa Pires Neto,
+   Roberto/AAB-3425-2020; Lima, Danielle/A-6108-2013; Fonseca,
+   Benedito/F-3252-2012
+OI De Paula, Sergio/0000-0002-2275-5768; da Justa Pires Neto,
+   Roberto/0000-0003-0291-9523; Lima, Danielle/0000-0003-2734-6768;
+   Fonseca, Benedito/0000-0003-3159-5687
+CR Aviles G, 2003, VIRUS RES, V98, P75, DOI 10.1016/j.virusres.2003.08.018
+   Batista WC, 2001, VIRUS RES, V75, P35, DOI 10.1016/S0168-1702(01)00222-2
+   CHUNGUE E, 1995, J GEN VIROL, V76, P1877, DOI 10.1099/0022-1317-76-7-1877
+   DEUBEL V, 1993, ARCH VIROL, V129, P197, DOI 10.1007/BF01316895
+   dos Santos CND, 2002, VIRUS RES, V90, P197, DOI 10.1016/S0168-1702(02)00180-6
+   dos Santos FB, 2002, MEM I OSWALDO CRUZ, V97, P991, DOI 10.1590/S0074-02762002000700011
+   Figueiredo LTM, 2000, MICROBES INFECT, V2, P1643, DOI 10.1016/S1286-4579(00)01320-4
+   Foster JE, 2004, VIROLOGY, V324, P48, DOI 10.1016/j.virol.2004.03.020
+   Goncalvez AP, 2002, VIROLOGY, V303, P110, DOI 10.1006/viro.2002.1686
+   GUBLER DJ, 1984, AM J TROP MED HYG, V33, P158, DOI 10.4269/ajtmh.1984.33.158
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   Halstead SB, 2001, AM J TROP MED HYG, V65, P180, DOI 10.4269/ajtmh.2001.65.180
+   Halstead Scott B., 1997, P23
+   HENCHAL EA, 1990, CLIN MICROBIOL REV, V3, P376, DOI 10.1128/CMR.3.4.376-396.1990
+   IGARASHI A, 1985, ADV VIRUS RES, V30, P21, DOI 10.1016/S0065-3527(08)60447-9
+   KLIKS SC, 1989, AM J TROP MED HYG, V40, P444, DOI 10.4269/ajtmh.1989.40.444
+   Kumar S, 2001, BIOINFORMATICS, V17, P1244, DOI 10.1093/bioinformatics/17.12.1244
+   Lanciotti RS, 1997, J GEN VIROL, V78, P2279, DOI 10.1099/0022-1317-78-9-2279
+   Leitmeyer KC, 1999, J VIROL, V73, P4738, DOI 10.1128/JVI.73.6.4738-4747.1999
+   LEWIS JA, 1993, VIROLOGY, V197, P216, DOI 10.1006/viro.1993.1582
+   Lindenbach B.D., 2001, FIELDS VIROLOGY
+   Mangada MNM, 1998, VIROLOGY, V244, P458, DOI 10.1006/viro.1998.9093
+   McBride WJH, 2000, MICROBES INFECT, V2, P1041, DOI 10.1016/S1286-4579(00)01258-2
+   Miagostovich Marize P., 2003, Rev. Inst. Med. trop. S. Paulo, V45, P17, DOI 10.1590/S0036-46652003000100004
+   Miagostovich MP, 2002, BRAZ J MED BIOL RES, V35, P869, DOI 10.1590/S0100-879X2002000800002
+   Miagostovich MP, 1998, MEM I OSWALDO CRUZ, V93, P625, DOI 10.1590/S0074-02761998000500011
+   NOGUEIRA RMR, 1993, EPIDEMIOL INFECT, V111, P163, DOI 10.1017/S0950268800056788
+   NOGUEIRA RMR, 1991, MEM I OSWALDO CRUZ, V86, P269, DOI 10.1590/S0074-02761991000200018
+   Pandey Basu Dev, 2000, Southeast Asian Journal of Tropical Medicine and Public Health, V31, P266
+   Rico-Hesse R, 2003, ADV VIRUS RES, V59, P315, DOI 10.1016/S0065-3527(03)59009-1
+   Rico-Hesse R, 1998, AM J TROP MED HYG, V58, P96, DOI 10.4269/ajtmh.1998.58.96
+   RICOHESSE R, 1990, VIROLOGY, V174, P479, DOI 10.1016/0042-6822(90)90102-W
+   RicoHesse R, 1997, VIROLOGY, V230, P244, DOI 10.1006/viro.1997.8504
+   Rocco Iray Maria, 2001, Revista do Instituto de Medicina Tropical de Sao Paulo, V43, P55, DOI 10.1590/S0036-46652001000100011
+   Rothman AL, 1999, VIROLOGY, V257, P1, DOI 10.1006/viro.1999.9656
+   SCHATZMAYR HG, 2000, MEMORIAS I OSWALD S1, V95
+   Shurtleff AC, 2001, VIROLOGY, V281, P75, DOI 10.1006/viro.2000.0748
+   Uzcategui NY, 2001, J GEN VIROL, V82, P2945, DOI 10.1099/0022-1317-82-12-2945
+   Wang EY, 2000, J VIROL, V74, P3227, DOI 10.1128/JVI.74.7.3227-3234.2000
+   Watts J, 1999, LANCET, V354, P140, DOI 10.1016/S0140-6736(05)75281-8
+NR 40
+TC 17
+Z9 17
+U1 0
+U2 4
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI RIBEIRAO PRETO
+PA FACULDADE MEDICINA, CASA 10, 14049 RIBEIRAO PRETO, RIBEIRAO PRETO, SP
+   14049, BRAZIL
+SN 0100-879X
+EI 1414-431X
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PD JUN
+PY 2005
+VL 38
+IS 6
+BP 843
+EP 852
+PG 10
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA 940EA
+UT WOS:000230125300005
+PM 15933777
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Rezende, REF
+   Fonseca, BAL
+   Ramalho, LNZ
+   Zucoloto, S
+   Pinho, JRR
+   Bertolini, DA
+   Martinelli, ALC
+AF Rezende, REF
+   Fonseca, BAL
+   Ramalho, LNZ
+   Zucoloto, S
+   Pinho, JRR
+   Bertolini, DA
+   Martinelli, ALC
+TI The precore mutation is associated with severity of liver damage in
+   Brazilian patients with chronic hepatitis B
+SO JOURNAL OF CLINICAL VIROLOGY
+LA English
+DT Article
+DE hepatitis B virus.; HBV genotypes; G1896A precore mutation; severity of
+   liver disease; chronic hepatitis
+ID FULMINANT-HEPATITIS; VIRUS INFECTION; CORE ANTIGEN; INTRAHEPATIC
+   EXPRESSION; HISTOLOGICAL ACTIVITY; VIRAL REPLICATION; SEQUENCE-ANALYSIS;
+   REGION DEFECTS; MUTANTS; GENOTYPES
+AB Background: The clinical relevance of the G1896A precore mutation in chronic hepatitis B is still poorly understood.
+   Objectives: To assess the frequency of G1896A precore mutation in Brazilian patients with chronic hepatitis B, as well as its relation to the viral genotype. serum HBV-DNA levels and liver damage.
+   Study design: Fifty chronic hepatitis B patients (29 HBeAg-negative and 21 HBeAg-positive) were studied. HBV-DNA was quantified by the Amplicor HBV Monitor test and precore region and S gene were amplified and submitted to automatic sequencing. The histological activity index (HAI), degrees of hepatic fibrosis and distribution of core antigen (HBcAg) in hepatocytes were determined.
+   Results: Precore mutation occurred in 1/21 (4.8%) HBeAg-positive patients and in 17/29 (58.6%) HBeAg-negative (P <0.0001). Genotype D was identified in 56.5%, genotype A in 41.3%, and genotype F in 2.2%. The frequency of genotypes D and A, as well as serum levels of ALT and HBV-DNA were similar in patients infected with wild type and with precore mutant. Patients infected with precore mutant presented a higher frequency of moderate/severe HAI (p: 0.03) and moderate/severe fibrosis and cirrhosis (p: 0.03) than those infected with wild type. There was no association between G1896A mutation and cytoplasmic expression of HBcAg.
+   Conclusions: Precore mutation was frequent among Brazilian subjects with chronic hepatitis B and its presence was associated with greater severity of liver disease. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Univ Sao Paulo, Sch Med Ribeirao Preto, Dept Med, FMRP USP, BR-14048900 Ribeirao Preto, Brazil.
+   Univ Sao Paulo, Sch Med Ribeirao Preto, Dept Pathol, FMRP USP, Ribeirao Preto, Brazil.
+   Inst Adolfo Lutz Registro, Virol Branch, Sao Paulo, Brazil.
+RP Rezende, REF (corresponding author), Univ Sao Paulo, Sch Med Ribeirao Preto, Dept Med, FMRP USP, BR-14048900 Ribeirao Preto, Brazil.
+EM rosamarrezende@uol.com.br
+RI Pinho, Joao R. R./G-2850-2012; Ramalho, Leandra/A-3983-2010; Fonseca,
+   Benedito/F-3252-2012
+OI Pinho, Joao R. R./0000-0003-3999-0489; Ramalho,
+   Leandra/0000-0002-3486-5294; Fonseca, Benedito/0000-0003-3159-5687
+CR BAHN A, 1995, J MED VIROL, V47, P336, DOI 10.1002/jmv.1890470408
+   Ballard AL, 2000, J MED VIROL, V62, P463, DOI 10.1002/1096-9071(200012)62:4&lt;463::AID-JMV11&gt;3.0.CO;2-0
+   BRUNETTO MR, 1990, J HEPATOL, V10, P258, DOI 10.1016/0168-8278(90)90062-V
+   BRUNETTO MR, 1989, ITAL J GASTROENTEROL, V21, P151
+   CARMAN WF, 1989, LANCET, V2, P588
+   CHEN HS, 1992, J VIROL, V66, P5682, DOI 10.1128/JVI.66.9.5682-5684.1992
+   CHU CM, 1995, GASTROENTEROLOGY, V109, P1926, DOI 10.1016/0016-5085(95)90760-2
+   DESMET VJ, 1994, HEPATOLOGY, V19, P1513, DOI 10.1002/hep.1840190629
+   FATTOVICH G, 1991, GUT, V32, P294, DOI 10.1136/gut.32.3.294
+   FRANCA STM, 1989, SCAND J GASTROENTERO, V24, P454, DOI 10.3109/00365528909093074
+   Grandjacques C, 2000, J HEPATOL, V33, P430, DOI 10.1016/S0168-8278(00)80279-2
+   Guidotti LG, 1996, J VIROL, V70, P7056, DOI 10.1128/JVI.70.10.7056-7061.1996
+   Hadziyannis SJ, 2001, HEPATOLOGY, V34, P617, DOI 10.1053/jhep.2001.27834
+   HADZIYANNIS SJ, 1995, VIRAL HEPATITIS REV, V1, P7
+   Hunt CM, 2000, HEPATOLOGY, V31, P1037, DOI 10.1053/he.2000.6709
+   KNODELL RG, 1981, HEPATOLOGY, V1, P431, DOI 10.1002/hep.1840010511
+   Knoll A, 1999, J MED VIROL, V59, P14, DOI 10.1002/(SICI)1096-9071(199909)59:1&lt;14::AID-JMV3&gt;3.0.CO;2-T
+   KOSAKA Y, 1991, GASTROENTEROLOGY, V100, P1087, DOI 10.1016/0016-5085(91)90286-T
+   Kramvis A, 1998, J HEPATOL, V28, P132, DOI 10.1016/S0168-8278(98)80212-2
+   LAMBERTS C, 1993, J VIROL, V67, P3756, DOI 10.1128/JVI.67.7.3756-3762.1993
+   LASKUS T, 1994, DIGEST DIS SCI, V39, P2000, DOI 10.1007/BF02088138
+   LI JS, 1993, J VIROL, V67, P5402, DOI 10.1128/JVI.67.9.5402-5410.1993
+   LIANG TJ, 1991, NEW ENGL J MED, V324, P1705, DOI 10.1056/NEJM199106133242405
+   Lindh M, 2000, J VIRAL HEPATITIS, V7, P258
+   LINDH M, 1995, J INFECT DIS, V172, P1343, DOI 10.1093/infdis/172.5.1343
+   Lindh M, 1999, J INFECT DIS, V179, P775, DOI 10.1086/314688
+   LOK ASF, 1994, P NATL ACAD SCI USA, V91, P4077, DOI 10.1073/pnas.91.9.4077
+   Mangia A, 1996, DIGEST DIS SCI, V41, P2447, DOI 10.1007/BF02100141
+   Moraes MTB, 1996, ARCH VIROL, V141, P1767, DOI 10.1007/BF01718299
+   NIITSUMA H, 1995, J MED VIROL, V46, P397, DOI 10.1002/jmv.1890460417
+   OKAMOTO H, 1990, J VIROL, V64, P1298, DOI 10.1128/JVI.64.3.1298-1303.1990
+   OMATA M, 1991, NEW ENGL J MED, V324, P1699, DOI 10.1056/NEJM199106133242404
+   Park YN, 1999, LIVER, V19, P199, DOI 10.1111/j.1478-3231.1999.tb00036.x
+   Pinho J. R. R., 1993, Revista do Instituto de Medicina Tropical de Sao Paulo, V35, P515
+   RAMALHO F, 1988, J HEPATOL, V7, P14, DOI 10.1016/S0168-8278(88)80502-6
+   Rizzetto M, 2000, J MED VIROL, V61, P398, DOI 10.1002/1096-9071(200007)61:3&lt;398::AID-JMV20&gt;3.0.CO;2-E
+   RodriguezFrias F, 1995, HEPATOLOGY, V22, P1641, DOI 10.1002/hep.1840220605
+   SHAFRITZ DA, 1991, NEW ENGL J MED, V324, P1737, DOI 10.1056/NEJM199106133242411
+   Sitnik R, 2000, HEPATOLOGY, V32, p578A
+   Teles SA, 1999, ARTIF ORGANS, V23, P1074, DOI 10.1046/j.1525-1594.1999.06310.x
+   TERAZAWA S, 1991, PEDIATR RES, V29, P5, DOI 10.1203/00006450-199101000-00002
+   TURKASPA R, 1992, HEPATOLOGY, V16, P1338, DOI 10.1002/hep.1840160606
+   Zuckerman AJ, 1999, J MED VIROL, V58, P193, DOI 10.1002/(SICI)1096-9071(199907)58:3&lt;193::AID-JMV1&gt;3.0.CO;2-X
+NR 43
+TC 33
+Z9 38
+U1 0
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1386-6532
+EI 1873-5967
+J9 J CLIN VIROL
+JI J. Clin. Virol.
+PD JAN
+PY 2005
+VL 32
+IS 1
+BP 53
+EP 59
+DI 10.1016/j.jcv.2004.08.001
+PG 7
+WC Virology
+SC Virology
+GA 885XC
+UT WOS:000226189600009
+PM 15572007
+DA 2020-11-10
+ER
+
+PT J
+AU Carbonell, GV
+   Amorim, CRN
+   Furumura, MT
+   Darini, ALC
+   Fonseca, BAL
+   Yano, T
+AF Carbonell, GV
+   Amorim, CRN
+   Furumura, MT
+   Darini, ALC
+   Fonseca, BAL
+   Yano, T
+TI Biological activity of Serratia marcescens cytotoxi
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article
+DE cell culture; biological activity; Serratia marcescens; cytotoxin;
+   virulence factors
+ID INTENSIVE-CARE UNIT; OUTBREAK; INFECTION; CELLS
+AB Serratia marcescens cytotoxin was purified to homogeneity by ionexchange chromatography on a DEAE Sepharose Fast Flow column, a followed by gel filtration chromatography on a Sephadex G100 column. The molecular mass of the cytotoxin was estimated to be about 50 kDa. Some biological properties of the cytotoxin were analyzed and compared with well-characterized toxins, such as VT1, VT2 and CNF from Escherichia coli and hemolysin produced by S. marcescens. The sensitivity of the cell lines CHO, HeLa, HEp-2, Vero, BHK-21, MA 104 and J774 to the cytotoxin was determined by the cell viability assay using neutral red. CHO and HEp-2 were highly sensitive, with massive cellular death after 1 h of treatment, followed by BHK-21, HeLa, Vero and J774 cells, while MA 104 was insensitive to the toxin. Cytotoxin induced morphological changes such as cell rounding with cytoplasmic retraction and nuclear compactation which were evident 15 min after the addition of cytotoxin. The cytotoxic assays show that 15 min of treatment with the cytotoxin induced irreversible intoxication of the cells, determined by loss of cell viability. Concentrations of 2 CD50 (0.56 mug/ml) of purified cytotoxin did not present any hemolytic activity, showing that the cytotoxin is distinct from S. marcescens hemolysin. Antisera prepared against S. marcescens cytotoxin did not neutralize the cytotoxic activity of VT1, VT2 or CNF toxin, indicating that these toxins do not share antigenic determinants with cytotoxin. Moreover, we did not detect gene sequences for any of these toxins in S. marcescens by PCR assay. These results suggest that S. marcescens cytotoxin is not related to any of these toxins from E. coli.
+C1 UNICAMP, Dept Microbiol & Immunol, Inst Biol, BR-13083970 Campinas, SP, Brazil.
+   Univ Sao Paulo, Dept Analises Clin Toxicol & Bromatol, Fac Ciencias Farmaceut, BR-14049 Ribeirao Preto, SP, Brazil.
+   Univ Sao Paulo, Dept Clin Med, Fac Med Ribeirao Preto, BR-14049 Ribeirao Preto, SP, Brazil.
+RP Carbonell, GV (corresponding author), UNICAMP, Dept Microbiol & Immunol, Inst Biol, BR-13083970 Campinas, SP, Brazil.
+RI Darini, Ana Lucia C/C-8127-2012; Fonseca, Benedito/F-3252-2012
+OI Darini, Ana Lucia Costa/0000-0001-5433-926X; Fonseca,
+   Benedito/0000-0003-3159-5687
+CR Archibald LK, 1997, PEDIATR INFECT DIS J, V16, P1045, DOI 10.1097/00006454-199711000-00008
+   Blanco M, 1996, J MICROBIOL METH, V26, P95, DOI 10.1016/0167-7012(96)00900-1
+   Blanco M, 1997, J CLIN MICROBIOL, V35, P2958, DOI 10.1128/JCM.35.11.2958-2963.1997
+   Bosi C, 1996, J HOSP INFECT, V33, P217, DOI 10.1016/S0195-6701(96)90005-5
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1016/0003-2697(76)90527-3
+   Carbonell GV, 1997, BRAZ J MED BIOL RES, V30, P1291, DOI 10.1590/S0100-879X1997001100005
+   Carbonell GV, 1996, FEMS IMMUNOL MED MIC, V16, P299, DOI 10.1016/S0928-8244(96)00097-1
+   CLEARY TG, 1985, INFECT IMMUN, V47, P335, DOI 10.1128/IAI.47.1.335-337.1985
+   DAVIS BD, 1950, J BACTERIOL, V60, P17, DOI 10.1128/JB.60.1.17-28.1950
+   GYLES CL, 1991, J MICROBIOLOGY, V38, P734
+   Hertle R, 1999, INFECT IMMUN, V67, P817, DOI 10.1128/IAI.67.2.817-825.1999
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   MACLEOD DL, 1991, INFECT IMMUN, V59, P1300, DOI 10.1128/IAI.59.4.1300-1306.1991
+   MATSUMOTO K, 1984, J BACTERIOL, V157, P225, DOI 10.1128/JB.157.1.225-232.1984
+   MELLO ML, 1980, PRATICAS BIOL CELULA, P71
+   Miranda G, 1996, J CLIN MICROBIOL, V34, P3138, DOI 10.1128/JCM.34.12.3138-3141.1996
+   Ojeniyi B., 1994, Journal of Veterinary Medicine Series B, V41, P49, DOI 10.1111/j.1439-0450.1994.tb00205.x
+   Parreira VR, 1998, VET MICROBIOL, V62, P111, DOI 10.1016/S0378-1135(98)00197-7
+   vanOgtrop ML, 1997, J HOSP INFECT, V36, P95, DOI 10.1016/S0195-6701(97)90115-8
+NR 19
+TC 6
+Z9 8
+U1 0
+U2 3
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI SAO PAULO
+PA FACULDADE MEDICINA, SALA 21, 14049 RIBEIRAO PRETO, SAO PAULO, BRAZIL
+SN 0100-879X
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PD MAR
+PY 2003
+VL 36
+IS 3
+BP 351
+EP 359
+DI 10.1590/S0100-879X2003000300010
+PG 9
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA 661ZJ
+UT WOS:000181920300010
+PM 12640500
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU De Paula, SO
+   Neto, RJP
+   Correa, JACT
+   Assumpcao, SR
+   Costa, MLS
+   Lima, DM
+   Fonseca, BAL
+AF De Paula, SO
+   Neto, RJP
+   Correa, JACT
+   Assumpcao, SR
+   Costa, MLS
+   Lima, DM
+   Fonseca, BAL
+TI The use of reverse transcription-polymerase chain reaction (RT-PCR) for
+   the rapid detection and identification of dengue virus in an endemic
+   region: a validation study
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE dengue; diagnosis; polymerase chain reaction; validation study; Brazil
+ID DIAGNOSIS; FEVER
+AB Dengue is the most important arboviral disease worldwide. Dengue diagnosis is usually made by serology, but serological techniques do not identify the infecting strain, and are only useful late in the course of infection. Several reverse transcription-polymerase chain reaction (RT-PCR) protocols have been described for dengue diagnosis but none of them has been used on a regular basis. We conducted a validation study of PCR-based diagnosis in an area (in Brazil) where dengue-1 virus has been circulating at a low incidence rate. Viral detection by RT-PCR was evaluated using the sera of 253 patients with clinical diagnosis of dengue, and the results were compared to those obtained by IgM. capture enzyme-linked immunosorbent assay (MAC-ELISA) and virus isolation. Out of 75 IgM-positive samples, 17 were RT-PCR positive, and only 2 were positive for virus isolation. Through enzymatic digestion of PCR amplicons, we were able to differentiate the 2 dengue serotypes circulating in Brazil (dengue-1 and dengue-2), and to determine that dengue-1 was the virus responsible for the infections. We show with this study that RT-PCR is more sensitive than virus isolation on clinical samples and allows for a rapid detection of dengue infections and for a straightforward identification of the circulating serotype.
+C1 Univ Sao Paulo, Sch Med Ribeirao Preto, Dept Internal Med, BR-14049900 Ribeirao Preto, SP, Brazil.
+   Univ Sao Paulo, Sch Med Ribeirao Preto, Programme Grad Studies Appl Microbiol & Immunol, BR-14049900 Ribeirao Preto, SP, Brazil.
+   Inst Adolfo Lutz Registro, Ribeirao Preto, SP, Brazil.
+   Div Epidem Surveillance Municipal Dist Ribeirao P, Ribeirao Preto, SP, Brazil.
+RP Fonseca, BAL (corresponding author), Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Clin Med, Mol Virol Lab, Avenida Bandeirantes 3900, BR-14049900 Ribeirao Preto, SP, Brazil.
+EM baldfons@fmrp.usp.br
+RI De Paula, Sergio/N-2609-2018; da Justa Pires Neto,
+   Roberto/AAB-3425-2020; Lima, Danielle/A-6108-2013; Fonseca,
+   Benedito/F-3252-2012
+OI De Paula, Sergio/0000-0002-2275-5768; da Justa Pires Neto,
+   Roberto/0000-0003-0291-9523; Lima, Danielle/0000-0003-2734-6768;
+   Fonseca, Benedito/0000-0003-3159-5687
+CR CHAN SY, 1994, J VIROL METHODS, V49, P315, DOI 10.1016/0166-0934(94)90146-5
+   FULOP L, 1993, J VIROL METHODS, V44, P179, DOI 10.1016/0166-0934(93)90053-T
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   GUBLER DJ, 1988, P INT S YELL FEV DEN, P291
+   Guzman MG, 1996, CLIN DIAGN LAB IMMUN, V3, P621
+   HALSTEAD SB, 1988, SCIENCE, V239, P476, DOI 10.1126/science.3277268
+   Harris E, 1999, VIROLOGY, V253, P86, DOI 10.1006/viro.1998.9481
+   HENCHAL EA, 1991, AM J TROP MED HYG, V45, P418, DOI 10.4269/ajtmh.1991.45.418
+   Miagostovich MP, 2000, J CLIN MICROBIOL, V38, P1286, DOI 10.1128/JCM.38.3.1286-1289.2000
+   Pinheiro Fransisco P., 1997, World Health Statistics Quarterly, V50, P161
+   RICE CM, 1985, SCIENCE, V229, P726, DOI 10.1126/science.4023707
+   Suk-Yin Chan, 1994, Southeast Asian Journal of Tropical Medicine and Public Health, V25, P258
+   TANAKA M, 1993, J VIROL METHODS, V41, P311, DOI 10.1016/0166-0934(93)90020-R
+   TESH RB, 1979, AM J TROP MED HYG, V28, P1053, DOI 10.4269/ajtmh.1979.28.1053
+   VORNDAM V, 1994, ARCH VIROL, V136, P191, DOI 10.1007/BF01538828
+   VORNDAM V, 1994, J VIROL METHODS, V48, P237, DOI 10.1016/0166-0934(94)90122-8
+   WENGLER G, 1991, ARCH VIROLOGY S2, V136, P230
+   WHO, 1998, DENG HAEM FEV DIAGN
+   1994, SCI PUBLICATION, V548
+NR 19
+TC 22
+Z9 24
+U1 0
+U2 6
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0035-9203
+EI 1878-3503
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD MAY-JUN
+PY 2002
+VL 96
+IS 3
+BP 266
+EP 269
+DI 10.1016/S0035-9203(02)90094-5
+PG 4
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 579DV
+UT WOS:000177161900008
+PM 12174774
+DA 2020-11-10
+ER
+
+PT J
+AU Netto, MVP
+   Fonseca, BAL
+   Dantas, M
+   Saber, LTS
+   Castro, MCR
+   Ferraz, AS
+AF Netto, MVP
+   Fonseca, BAL
+   Dantas, M
+   Saber, LTS
+   Castro, MCR
+   Ferraz, AS
+TI Granzyme B, FAS-ligand and perforin expression during acute cellular
+   rejection episodes after kidney transplantation: Comparison between
+   blood and renal aspirates
+SO TRANSPLANTATION PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+CT 7th Congress of the Brazilian-Organ-Transplant-Association (ABTO)
+CY MAR 28-31, 2001
+CL VITORIA, BRAZIL
+SP Brazilian Organ Transplant Assoc
+ID ALLOGRAFT-REJECTION; GENE-EXPRESSION; ANTIGEN EXPRESSION; APOPTOSIS;
+   LYMPHOCYTES; TRANSCRIPTS; DIAGNOSIS
+C1 Univ Sao Paulo, Ribeirao Preto Med Sch, Clin Hosp, Dept Internal Med, BR-14048900 Ribeirao Preto, Brazil.
+   Univ Sao Paulo, Sao Paulo Med Sch, Renal Transplantat Unit, Sao Paulo, Brazil.
+RP Netto, MVP (corresponding author), Univ Sao Paulo, Ribeirao Preto Med Sch, Renal Transplant Unit, BR-14048900 Ribeirao Preto, Brazil.
+RI de castro, maria cristina ribeiro/B-6648-2009; Dantas,
+   Marcio/B-9838-2013; Fonseca, Benedito/F-3252-2012
+OI de castro, maria cristina ribeiro/0000-0002-6731-8369; Dantas,
+   Marcio/0000-0001-8515-6423; Fonseca, Benedito/0000-0003-3159-5687
+CR Barth C, 1998, TRANSPLANT P, V30, P2347, DOI 10.1016/S0041-1345(98)00647-2
+   CHEIGH JS, 1983, NEPHRON, V35, P6, DOI 10.1159/000183036
+   Colvin RB, 1997, J AM SOC NEPHROL, V8, P1930
+   GJERTSON DW, 1991, NEW ENGL J MED, V324, P1032, DOI 10.1056/NEJM199104113241505
+   HAYRY P, 1981, SCAND J IMMUNOL, V13, P87, DOI 10.1111/j.1365-3083.1981.tb00114.x
+   HAYRY P, 1984, TRANSPLANTATION, V38, P1
+   HELDERMAN JH, 1988, KIDNEY INT, V34, P376, DOI 10.1038/ki.1988.191
+   JEYARAJAH DR, 1995, TRANSPLANT P, V27, P887
+   Kato S, 1997, PATHOL INT, V47, P230, DOI 10.1111/j.1440-1827.1997.tb04485.x
+   LARSE CP, 1995, TRANSPLANTATION, V15, P221
+   LEIDTKE W, 1994, PCR METH APPL, V3, P185
+   LIPMAN ML, 1992, TRANSPLANTATION, V53, P73, DOI 10.1097/00007890-199201000-00014
+   LIPMAN ML, 1994, J IMMUNOL, V152, P5120
+   MASSON D, 1985, J BIOL CHEM, V260, P9069
+   MATSUNO T, 1998, TRANSPLANT P, V66, P1067
+   Pascoe MD, 2000, TRANSPLANTATION, V69, P2547, DOI 10.1097/00007890-200006270-00013
+   Pavlakis M, 1996, TRANSPL P, V28, P2019
+   Porter CJ, 2000, TRANSPLANTATION, V69, P1091, DOI 10.1097/00007890-200003270-00012
+   RAPPOLEE DA, 1988, SCIENCE, V241, P708, DOI 10.1126/science.3041594
+   RUKAVINA D, 1995, AM J REPROD IMMUNOL, V33, P394, DOI 10.1111/j.1600-0897.1995.tb00908.x
+   Saad R, 1997, TRANSPLANTATION, V64, P992, DOI 10.1097/00007890-199710150-00010
+   SAIKI RK, 1988, SCIENCE, V239, P487, DOI 10.1126/science.2448875
+   Sharma VK, 1996, TRANSPLANTATION, V62, P1860, DOI 10.1097/00007890-199612270-00031
+   Sharma VK, 1998, TRANSPL P, V30, P2364, DOI 10.1016/S0041-1345(98)00656-3
+   SMYTH MJ, 1995, IMMUNOL TODAY, V16, P202, DOI 10.1016/0167-5699(95)80122-7
+   Strehlau J, 1997, P NATL ACAD SCI USA, V94, P695, DOI 10.1073/pnas.94.2.695
+   SUDA T, 1994, J EXP MED, V179, P873, DOI 10.1084/jem.179.3.873
+   SUDA T, 1993, CELL, V75, P1169, DOI 10.1016/0092-8674(93)90326-L
+   Vasconcellos LM, 1998, TRANSPLANTATION, V66, P562, DOI 10.1097/00007890-199809150-00002
+   Wang JD, 1997, J INTERF CYTOK RES, V17, P369, DOI 10.1089/jir.1997.17.369
+NR 30
+TC 29
+Z9 34
+U1 0
+U2 1
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0041-1345
+J9 TRANSPLANT P
+JI Transplant. Proc.
+PD MAR
+PY 2002
+VL 34
+IS 2
+BP 476
+EP 478
+AR PII S0041-1345(02)02601-5
+DI 10.1016/S0041-1345(02)02601-5
+PG 3
+WC Immunology; Surgery; Transplantation
+SC Immunology; Surgery; Transplantation
+GA 553LB
+UT WOS:000175675700017
+PM 12009596
+DA 2020-11-10
+ER
+
+PT J
+AU Rezende, RE
+   Pinho, JR
+   Bertolini, DA
+   Secaf, M
+   Ramalho, LN
+   Zucoloto, S
+   Rodrigues, SS
+   Fonseca, BA
+   Martinelli, AL
+AF Rezende, RE
+   Pinho, JR
+   Bertolini, DA
+   Secaf, M
+   Ramalho, LN
+   Zucoloto, S
+   Rodrigues, SS
+   Fonseca, BA
+   Martinelli, AL
+TI Precore mutation and its relation with HBV-DNA levels, viral genotypes
+   and liver damage in Brazilian patients with chronic hepatitis B virus
+   (HBV) infection.
+SO HEPATOLOGY
+LA English
+DT Meeting Abstract
+C1 Univ Sao Paulo, Sch Med, BR-14049 Ribeirao Preto, Brazil.
+   Inst Adolfo Lutz Registro, Sao Paulo, Brazil.
+RI Pinho, Joao R. R./G-2850-2012
+OI Pinho, Joao R. R./0000-0003-3999-0489
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU W B SAUNDERS CO
+PI PHILADELPHIA
+PA INDEPENDENCE SQUARE WEST CURTIS CENTER, STE 300, PHILADELPHIA, PA
+   19106-3399 USA
+SN 0270-9139
+J9 HEPATOLOGY
+JI Hepatology
+PD OCT
+PY 2001
+VL 34
+IS 4
+SU S
+MA 1765
+BP 613A
+EP 613A
+PN 2
+PG 1
+WC Gastroenterology & Hepatology
+SC Gastroenterology & Hepatology
+GA 476KE
+UT WOS:000171224701755
+DA 2020-11-10
+ER
+
+PT J
+AU Carbonell, GV
+   Della Colleta, HHM
+   Yano, T
+   Darini, ALC
+   Levy, CE
+   Fonseca, BAL
+AF Carbonell, GV
+   Della Colleta, HHM
+   Yano, T
+   Darini, ALC
+   Levy, CE
+   Fonseca, BAL
+TI Clinical relevance and virulence factors of pigmented Serratia
+   marcescens
+SO FEMS IMMUNOLOGY AND MEDICAL MICROBIOLOGY
+LA English
+DT Article
+DE nosocomial infection; serotyping; virulence factor; pigmented Serratia
+   marcescens
+ID ESCHERICHIA-COLI; O-SEROTYPE; K-SEROTYPE; PATHOGENICITY; RESISTANCE;
+   CELLS
+AB Pigmented Serratia marcescens isolated in a Brazilian hospital were studied with respect to frequency of isolation, serotyping, antibiotic resistance and virulence factors. The serotype most frequent was O6:K14(53%) and all isolates were resistant to ampicillin, cephalothin and tetracycline. The majority of the isolates (92%) were resistant to the action of human serum and all produced cytotoxins on Vero, CHO, HEp-2 and Mt La cells. These isolates were virulent for mice (LD50 = 10(7) bacteria ml(-1)) and showed virulence factors, but were isolated with low frequency (3.4%) and caused infection in only 31% of cases. Analysis of serotyping, phage typing and chromosomal DNA revealed at least 13 unrelated strains among pigmented S. marcescens. In conclusion, this work describes a low frequency of isolation of pigmented S. marcescens from clinical specimens, indicating that non-pigmented strains are clinically more significant. (C) 2000 Federation of European Microbiological Societies. Published by Elsevier Science B.V. All rights reserved.
+C1 Univ Estadual Campinas, Dept Microbiol & Imunol, Sao Paulo, Brazil.
+   Univ Sao Paulo, Fac Ciencias Farmaceut Ribeirao Preto, Dept Anal Clin Toxciol & Bromatol, Sao Paulo, Brazil.
+   Univ Sao Paulo, Fac Ciencias Farmaceut, Disciplina Microbiol, Sao Paulo, Brazil.
+   Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Clin Med, Sao Paulo, Brazil.
+RP Yano, T (corresponding author), Univ Estadual Campinas, Dept Microbiol & Imunol, Sao Paulo, Brazil.
+RI Levy, Carlos/AAN-7226-2020; Darini, Ana Lucia C/C-8127-2012; Levy,
+   Carlos/L-2116-2013; Fonseca, Benedito/F-3252-2012
+OI Levy, Carlos/0000-0002-4862-8900; Fonseca, Benedito/0000-0003-3159-5687
+CR Aucken HM, 1998, J MED MICROBIOL, V47, P1105, DOI 10.1099/00222615-47-12-1105
+   Aucken HM, 1998, J MED MICROBIOL, V47, P1097, DOI 10.1099/00222615-47-12-1097
+   BAUER AW, 1966, AM J CLIN PATHOL, V45, P493
+   Carbonell GV, 1997, BRAZ J MED BIOL RES, V30, P1291, DOI 10.1590/S0100-879X1997001100005
+   CARBONELL GV, 1992, REV MICROBIOL, V23, P72
+   Darini Ana Lucia Da Costa, 1995, Revista Latinoamericana de Microbiologia, V37, P217
+   FINLAY BB, 1989, MICROBIOL REV, V53, P210, DOI 10.1128/MMBR.53.2.210-230.1989
+   GARGALLOVIOLA D, 1989, J CLIN MICROBIOL, V27, P860, DOI 10.1128/JCM.27.5.860-868.1989
+   Gautom RK, 1997, J CLIN MICROBIOL, V35, P2977, DOI 10.1128/JCM.35.11.2977-2980.1997
+   Hejazi A, 1997, J MED MICROBIOL, V46, P903, DOI 10.1099/00222615-46-11-903
+   KADO CI, 1981, J BACTERIOL, V145, P1365, DOI 10.1128/JB.145.3.1365-1373.1981
+   KONOWALCHUK J, 1977, INFECT IMMUN, V18, P775, DOI 10.1128/IAI.18.3.775-779.1977
+   PITT TL, 1980, J HYG-CAMBRIDGE, V84, P269, DOI 10.1017/S0022172400026772
+   REED L. J., 1938, AMER JOUR HYG, V27, P493
+   WILFERT JN, 1970, APPL MICROBIOL, V19, P345, DOI 10.1128/AEM.19.2.345-352.1970
+   WILLIAMS RP, 1971, J BACTERIOL, V106, P438, DOI 10.1128/JB.106.2.438-443.1971
+   WILLIAMS RP, 1971, J BACTERIOL, V106, P444, DOI 10.1128/JB.106.2.444-448.1971
+   Williams RP, 1973, APPL MICROBIOL, V116, P259
+NR 18
+TC 26
+Z9 27
+U1 0
+U2 38
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0928-8244
+J9 FEMS IMMUNOL MED MIC
+JI FEMS Immunol. Med. Microbiol.
+PD JUN
+PY 2000
+VL 28
+IS 2
+BP 143
+EP 149
+DI 10.1016/S0928-8244(00)00146-2
+PG 7
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA 312ZJ
+UT WOS:000086973600008
+PM 10799805
+OA Bronze
+DA 2020-11-10
+ER
+
+PT J
+AU Bollela, VR
+   Sato, DN
+   Fonseca, BAL
+AF Bollela, VR
+   Sato, DN
+   Fonseca, BAL
+TI McFarland nephelometer as a simple method to estimate the sensitivity of
+   the polymerase chain reaction using Mycobacterium tuberculosis as a
+   research tool
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article
+DE tuberculosis; PCR
+ID AMPLIFICATION; DNA; DIAGNOSIS; SPECIMENS
+AB Polymerase chain reaction (PCR) has been widely investigated for the diagnosis of tuberculosis. However, before this technique is applied on clinical samples, it needs to be well standardized. We describe the use of McFarland nephelometer, a very simple approach to determine microorganism concentration in solution, for PCR standardization and DNA quantitation, using Mycobacterium tuberculosis as a model. Tuberculosis is an extremely important disease for the public health system in developing countries and, with the advent of AIDS, it has also become an important public health problem in developed countries. Using Mycobacterium tuberculosis as a research model, we were able to detect 3 M. tuberculosis genomes using the McFarland nephelometer to assess micobacterial concentration. We have shown here that McFarland nephelometer is an easy and reliable procedure to determine PCR sensitivity at lower costs.
+C1 USP, FMRP, Dept Clin Med, BR-14049900 Ribeirao Preto, Brazil.
+   Inst Adolfo Lutz de Ribeirao Preto, Ribeirao Preto, Brazil.
+RP Fonseca, BAL (corresponding author), USP, FMRP, Dept Clin Med, Av Bandeirantes 3900, BR-14049900 Ribeirao Preto, Brazil.
+RI Bollela, Valdes Roberto/F-9182-2014; Fonseca, Benedito/F-3252-2012
+OI Bollela, Valdes Roberto/0000-0002-8221-4701; Fonseca,
+   Benedito/0000-0003-3159-5687
+CR BRISSONNOEL A, 1989, LANCET, V2, P1069
+   COUSINS DV, 1992, J CLIN MICROBIOL, V30, P255, DOI 10.1128/JCM.30.1.255-258.1992
+   EISENACH KD, 1990, J INFECT DIS, V161, P977, DOI 10.1093/infdis/161.5.977
+   FORBES BA, 1993, J CLIN MICROBIOL, V31, P1688, DOI 10.1128/JCM.31.7.1688-1694.1993
+   KOCAGOZ T, 1993, J CLIN MICROBIOL, V31, P1435
+   MCFARLAND J, 1907, JAMA-J AM MED ASSOC, V14, P1176
+   SAIKI RK, 1988, SCIENCE, V239, P487, DOI 10.1126/science.2448875
+   SCHLUGER NW, 1994, CHEST, V105, P1116, DOI 10.1378/chest.105.4.1116
+   SHAH JS, 1995, J CLIN MICROBIOL, V33, P1435, DOI 10.1128/JCM.33.6.1435-1441.1995
+   Spargo CA, 1996, MOL CELL PROBE, V10, P247, DOI 10.1006/mcpr.1996.0034
+   WOLINSKY E, 1994, CLIN INFECT DIS, V19, P396, DOI 10.1093/clinids/19.3.396
+NR 11
+TC 12
+Z9 13
+U1 0
+U2 1
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI SAO PAULO
+PA FACULDADE MEDICINA, SALA 21, 14049 RIBEIRAO PRETO, SAO PAULO, BRAZIL
+SN 0100-879X
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PD SEP
+PY 1999
+VL 32
+IS 9
+BP 1073
+EP 1076
+DI 10.1590/S0100-879X1999000900003
+PG 4
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA 241ED
+UT WOS:000082869000003
+PM 10464381
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Bollela, VR
+   Sato, DN
+   Fonseca, BAL
+AF Bollela, VR
+   Sato, DN
+   Fonseca, BAL
+TI Problems in the standardization of the polymerase chain reaction for the
+   diagnosis of pulmonary tuberculosis
+SO REVISTA DE SAUDE PUBLICA
+LA Portuguese
+DT Article
+DE tuberculosis, pulmonary diagnostic; polymerase chain reaction;
+   mycobacterium tuberculosis
+ID MYCOBACTERIUM-TUBERCULOSIS; AMPLIFICATION
+AB Introduction
+   The recent increase in the number of tuberculosis cases has called the world's attention once again to a perennial health problem, especially prevalent in developing countries. The time elapsed between the diagnosis and the institution of therapy is an obstacle to tuberculosis control and there is an urgent need for the development of techniques for the disease's rapid diagnosis. To achieve this goal molecular biology techniques have been exhaustively investigated. This work describes the use of a polymerase chain reaction for rapid diagnosis of tuberculosis in a developing country. The sensitivity and specificity of this technique is compared to standard techniques used in the microbiology laboratory.
+   Methods
+   This study was undertaken in Ribeirao Preto, S. Paulo State, Brazil. Forty-two sputum samples from suspected cases of tuberculosis attending the municipal health care centers were sent to the microbiology.laboratory. The samples were processed for the detection of Mycobacterium tuberculosis by acid-fast bacilli determination, culture in Lowenstein-Jensen medium, and by a polymerase chain reaction that amplified a fragment of 123 bare pairs of the Mycobacterium tuberculosis genome.
+   Results
+   Of the forty-two samples studied one was contaminated and excluded from the study, ten were culture positive, ten were positive for the presence of acid-fast bacilli, and sixteen were polymerase chain reaction positive. The sensitivity and specificity of this technique were 90% and 81%, respectively.
+   Conclusions
+   The polymerase chain reaction presented a sensitivity comparable to the? culture and the whole procedure took only one day to complete. The results presented here make it a strong candidate for rapid diagnosis of tuberculosis in clinical settings making it possible to begin the specific therapy early in the course of the disease. However, standardization of the technique is necessary, and the correlation with clinical findings is of paramount importance due to the high sensitivity of this technique.
+C1 Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Clin Med, Ribeirao Preto, SP, Brazil.
+   Inst Adolfo Lutz Ribeirao Preto, Ribeirao Preto, SP, Brazil.
+RP Fonseca, BAL (corresponding author), Av Bandeirantes,3900 Monte Alegre, BR-14049900 Ribeirao Preto, SP, Brazil.
+RI Bollela, Valdes Roberto/F-9182-2014; Fonseca, Benedito/F-3252-2012
+OI Bollela, Valdes Roberto/0000-0002-8221-4701; Fonseca,
+   Benedito/0000-0003-3159-5687
+CR BARNES PF, 1993, ANN INTERN MED, V119, P400, DOI 10.7326/0003-4819-119-5-199309010-00009
+   BATES JH, 1979, CHEST, V76, P757, DOI 10.1378/chest.76.6.757
+   Cartuyvels R, 1996, J CLIN MICROBIOL, V34, P2001, DOI 10.1128/JCM.34.8.2001-2003.1996
+   EISENACH KD, 1990, J INFECT DIS, V161, P977, DOI 10.1093/infdis/161.5.977
+   FONSECA BAL, 1997, BRAZ J INFECT DIS, V1, P57
+   Forbes BA, 1997, IMMUNOL INVEST, V26, P105, DOI 10.3109/08820139709048919
+   Garcia Garcia M L, 1994, Bol Oficina Sanit Panam, V116, P546
+   KOCAGOZ T, 1993, J CLIN MICROBIOL, V31, P1435
+   KONEMAN EW, 1992, MYCOBACTERIA, P703
+   KRITSKI AL, 1997, J PNEUMOL, V23, P33
+   *MIN SAUD, 1996, B EP AIDS
+   Otal I, 1997, J CLIN MICROBIOL, V35, P273, DOI 10.1128/JCM.35.1.273-277.1997
+   *SECR EST SAUD SAO, 1995, TUB UM EM MUND
+   SNIDER DE, 1994, J INFECT DIS, V169, P1189, DOI 10.1093/infdis/169.6.1189
+NR 14
+TC 13
+Z9 14
+U1 0
+U2 2
+PU REVISTA DE SAUDE PUBLICA
+PI SAO PAULO
+PA FACULDADE SAUDE PUBL DA USP, AV DR ARNALDO 715, 01255 SAO PAULO, BRAZIL
+SN 0034-8910
+J9 REV SAUDE PUBL
+JI Rev. Saude Publica
+PD JUN
+PY 1999
+VL 33
+IS 3
+BP 281
+EP 286
+DI 10.1590/S0034-89101999000300009
+PG 6
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 229LX
+UT WOS:000082197000009
+PM 10457001
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Carbonell, GV
+   Fonseca, BAL
+   Figueiredo, LTM
+   Darini, ALC
+   Yanaguita, RM
+AF Carbonell, GV
+   Fonseca, BAL
+   Figueiredo, LTM
+   Darini, ALC
+   Yanaguita, RM
+TI Culture conditions affect cytotoxin production by Serratia marcescens
+SO FEMS IMMUNOLOGY AND MEDICAL MICROBIOLOGY
+LA English
+DT Article
+DE cytotoxin production; culture conditions; Serratia marcescens
+ID ESCHERICHIA-COLI; CLOSTRIDIUM-DIFFICILE; TOXIN PRODUCTION; VIRULENCE
+   GENES; EXOTOXIN-A; IRON; TEMPERATURE; GROWTH; PATHOGENICITY; RESISTANCE
+AB Cytotoxins have been implicated in the pathogenesis of bacterial infections. In this study, the influence of different culture conditions was evaluated on cytotoxin production by Serratia marcescens. Parameters such as culture media, incubation temperature, starting pH of culture medium, aeration, anaerobiosis, carbon sources, iron concentration in the culture media, and release of cell-bound toxin by polymyxin B were investigated. The data suggest that this cytotoxin is predominantly extracellular and is not induced by iron limitation. Aerobic culture with shaking resulted in higher cytotoxicity than static aerobic or anaerobic culture. Bacteria grown in glucose, sucrose or galactose were more cytotoxic than those grown in inositol or maltose. The culture conditions that were identified as optimal for cytotoxin production by Serratia marcescens were incubation temperature ranging from 30 to 37 degrees C, in medium adjusted to pH 8.5, with shaking. This work will contribute to further studies on the identification of this cytotoxic activity.
+C1 USP,FAC CIENCIAS FARMACEUT RIBEIRAO PRETO,DEPT ANAL CLIN TOXICOL & BROMATOL,RIBEIRAO PRET,SP,BRAZIL.
+   USP,INST CIENCIAS BIOMED 2,RIBEIRAO PRET,SP,BRAZIL.
+   USP,FAC MED RIBEIRAO PRETO,DEPT CLIN MED,RIBEIRAO PRET,SP,BRAZIL.
+RI Darini, Ana Lucia C/C-8127-2012; Figueiredo, Luiz T/E-3702-2012;
+   Fonseca, Benedito/F-3252-2012
+OI Fonseca, Benedito/0000-0003-3159-5687
+CR Bizette G A, 1995, J La State Med Soc, V147, P64
+   BJORN MJ, 1978, INFECT IMMUN, V19, P785, DOI 10.1128/IAI.19.3.785-791.1978
+   Borenfreund E., 1984, J TISSUE CULTURE MET, V9, P7, DOI DOI 10.1007/BF01666038
+   CAMPBELL JR, 1992, PEDIATR INFECT DIS J, V11, P881, DOI 10.1097/00006454-199210000-00015
+   CARBONELL GV, 1992, REV MICROBIOL, V23, P72
+   CARBONELL GV, 1992, BRAZ J MED BIOL RES, V25, P1
+   CASTANEDAAGULLO M, 1956, J GEN PHYSIOL, V39, P369, DOI 10.1085/jgp.39.3.369
+   DONOHUEROLFE A, 1983, INFECT IMMUN, V39, P270, DOI 10.1128/IAI.39.1.270-274.1983
+   FINLAY BB, 1989, MICROBIOL REV, V53, P210, DOI 10.1128/MMBR.53.2.210-230.1989
+   FRANK DW, 1994, METHOD ENZYMOL, V235, P502
+   FRANK DW, 1989, J BACTERIOL, V170, P4477
+   GILLIGAN PH, 1979, INFECT IMMUN, V23, P99, DOI 10.1128/IAI.23.1.99-107.1979
+   HASLAM SC, 1986, J MED MICROBIOL, V21, P293, DOI 10.1099/00222615-21-4-293
+   Hernandez-Delgadillo Ricardo, 1994, Revista Latinoamericana de Microbiologia, V36, P93
+   JEPSEN PK, 1987, APPL ENVIRON MICROB, V53, P2593, DOI 10.1128/AEM.53.10.2593-2596.1987
+   KARMALI MA, 1985, J CLIN MICROBIOL, V22, P614, DOI 10.1128/JCM.22.4.614-619.1985
+   KONOWALCHUK J, 1977, INFECT IMMUN, V18, P775, DOI 10.1128/IAI.18.3.775-779.1977
+   LITWIN CM, 1993, CLIN MICROBIOL REV, V6, P137, DOI 10.1128/CMR.6.2.137-149.1993
+   MACLEOD DL, 1989, CAN J MICROBIOL, V35, P623, DOI 10.1139/m89-100
+   MAEDA H, 1995, METHOD ENZYMOL, V248, P395
+   MAHONY DE, 1989, APPL ENVIRON MICROB, V55, P2141, DOI 10.1128/AEM.55.9.2141-2143.1989
+   MATSUMOTO K, 1984, J BACTERIOL, V157, P225, DOI 10.1128/JB.157.1.225-232.1984
+   MAURELLI AT, 1984, INFECT IMMUN, V43, P195, DOI 10.1128/IAI.43.1.195-201.1984
+   McNaughton M, 1995, Can J Infect Control, V10, P7
+   MELTZ DJ, 1973, ARCH INTERN MED, V132, P359, DOI 10.1001/archinte.132.3.359
+   NAKASHIMA AK, 1987, J CLIN MICROBIOL, V25, P1014, DOI 10.1128/JCM.25.6.1014-1018.1987
+   OKUDA T, 1981, J CLIN MICROBIOL, V20, P691
+   PARMENT PA, 1992, CURR MICROBIOL, V25, P113, DOI 10.1007/BF01570969
+   POOLE K, 1988, J BACTERIOL, V170, P5146, DOI 10.1128/jb.170.11.5146-5152.1988
+   REPETTO G, 1993, ATLA-ALTERN LAB ANIM, V21, P501
+   ROWE GE, 1994, METHOD ENZYMOL, V235, P637
+   RUAN Y, 1990, ARCH MICROBIOL, V154, P221, DOI 10.1007/BF00248958
+   RYDEN AC, 1968, ACTA CHEM SCAND, V22, P2803, DOI 10.3891/acta.chem.scand.22-2803
+   Sekaninova G, 1995, Cent Eur J Public Health, V3, P80
+   SERAFIM MB, 1994, REV MICROBIOL, V25, P220
+   SIMBERKOFF MS, 1976, J LAB CLIN MED, V87, P206
+   STEPHEN M, 1993, INDIAN J MED RES-A, V97, P202
+   TAI SPS, 1990, MICROB PATHOGENESIS, V9, P267, DOI 10.1016/0882-4010(90)90015-I
+   VOLKOWFERNANDEZ P, 1993, SALUD PUBLICA MEXICO, V35, P440
+   WEINSTEIN DL, 1988, INFECT IMMUN, V56, P106, DOI 10.1128/IAI.56.1.106-111.1988
+   YAMAKAWA K, 1994, J MED MICROBIOL, V41, P319, DOI 10.1099/00222615-41-5-319
+   YAMAMOTO T, 1985, MICROBIOL IMMUNOL, V29, P677, DOI 10.1111/j.1348-0421.1985.tb00871.x
+NR 42
+TC 8
+Z9 8
+U1 0
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0928-8244
+J9 FEMS IMMUNOL MED MIC
+JI FEMS Immunol. Med. Microbiol.
+PD DEC 31
+PY 1996
+VL 16
+IS 3-4
+BP 299
+EP 307
+DI 10.1016/S0928-8244(96)00097-1
+PG 9
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA WE313
+UT WOS:A1996WE31300018
+PM 9116649
+OA Bronze
+DA 2020-11-10
+ER
+
+PT J
+AU FONSECA, BAL
+   PINCUS, S
+   SHOPE, RE
+   PAOLETTI, E
+   MASON, PW
+AF FONSECA, BAL
+   PINCUS, S
+   SHOPE, RE
+   PAOLETTI, E
+   MASON, PW
+TI RECOMBINANT VACCINIA VIRUSES CO-EXPRESSING DENGUE-1 GLYCOPROTEIN-PRM AND
+   GLYCOPROTEIN-E INDUCE NEUTRALIZING ANTIBODIES IN MICE (VOL 12, PG 279,
+   1994)
+SO VACCINE
+LA English
+DT Correction, Addition
+CR FONSECA BAL, 1994, VACCINE, V12, P279, DOI 10.1016/0264-410X(94)90206-2
+NR 1
+TC 3
+Z9 3
+U1 0
+U2 0
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0264-410X
+J9 VACCINE
+JI Vaccine
+PD APR
+PY 1994
+VL 12
+IS 5
+BP 480
+EP 480
+PG 1
+WC Immunology; Medicine, Research & Experimental
+SC Immunology; Research & Experimental Medicine
+GA NB397
+UT WOS:A1994NB39700021
+DA 2020-11-10
+ER
+
+PT J
+AU FONSECA, BAL
+   PINCUS, S
+   SHOPE, RE
+   PAOLETTI, E
+   MASON, PW
+AF FONSECA, BAL
+   PINCUS, S
+   SHOPE, RE
+   PAOLETTI, E
+   MASON, PW
+TI RECOMBINANT VACCINIA VIRUSES CO-EXPRESSING DENGUE-1 GLYCOPROTEINS PRM
+   AND E-INDUCE NEUTRALIZING ANTIBODIES IN MICE
+SO VACCINE
+LA English
+DT Article
+DE DENGUE; VACCINIA; RECOMBINANT; IMMUNOGENICITY
+ID JAPANESE ENCEPHALITIS-VIRUS; YELLOW-FEVER VIRUS; NONSTRUCTURAL PROTEIN
+   NS1; INTERFERON GAMMA-PRODUCTION; LETHAL JEV INFECTION;
+   MONOCLONAL-ANTIBODIES; STRUCTURAL PROTEINS; PROTECTIVE IMMUNITY;
+   MEMBRANE-PROTEINS; PASSIVE TRANSFER
+AB Four recombinant vaccinia viruses expressing different portions of the dengue type I virus (DEN-I) genome (C-prM-E-NS1-NS2A-NS2B; prM-E; prM-E-NS1-NS2A-NS2B; or NS1-NS2A) were constructed in order to establish the most immunogenic configuration of DEN-1 proteins. Both recombinants producing prM and E in the absence of c induced the synthesis of extracellular forms of E in vitro. Mice inoculated with these two recombinants produced DEN-I neutralizing (NEUT) and haemagglutination inhibiting (HAI) antibodies. The other two recombinant vaccinia viruses, which did not induce the production of extracellular forms of E, did not induce E-specific immune responses. These results support our previous studies on the design of flavivirus-vaccinia vaccine candidates by showing the importance of co-expressing prM and E in order to induce the synthesis of extracellular E and to elicit NEUT and HAI antibodies.
+C1 YALE UNIV,SCH MED,DEPT EPIDEMIOL & PUBL HLTH,YALE ARBOVIRUS RES UNIT,NEW HAVEN,CT 06510.
+   VIROGENET CORP,TROY,NY 12180.
+   US ARS,PLUM ISL ANIM DIS CTR,GREENPORT,NY 11944.
+RI Fonseca, Benedito/F-3252-2012
+OI Fonseca, Benedito/0000-0003-3159-5687
+FU NIAID NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [AI 10987-17] Funding Source: Medline
+CR Bhamarapravati N., 1990, Southeast Asian Journal of Tropical Medicine and Public Health, V21, P709
+   BRAY M, 1991, VIROLOGY, V185, P505, DOI 10.1016/0042-6822(91)90809-P
+   BRAY M, 1989, J VIROL, V63, P2853, DOI 10.1128/JVI.63.6.2853-2856.1989
+   CHAMBERS TJ, 1990, ANNU REV MICROBIOL, V44, P649, DOI 10.1146/annurev.mi.44.100190.003245
+   CLARKE DH, 1958, AM J TROP MED HYG, V7, P561, DOI 10.4269/ajtmh.1958.7.561
+   DEUBEL V, 1988, J GEN VIROL, V69, P1921, DOI 10.1099/0022-1317-69-8-1921
+   DEUBEL V, 1991, VIROLOGY, V180, P442, DOI 10.1016/0042-6822(91)90055-G
+   EARL PL, 1990, J VIROL, V64, P2448, DOI 10.1128/JVI.64.5.2448-2451.1990
+   FALGOUT B, 1990, J VIROL, V64, P4356, DOI 10.1128/JVI.64.9.4356-4363.1990
+   GENTRY MK, 1982, AM J TROP MED HYG, V31, P548, DOI 10.4269/ajtmh.1982.31.548
+   GOEBEL SJ, 1990, VIROLOGY, V179, P247, DOI 10.1016/0042-6822(90)90294-2
+   GOULD EA, 1986, J GEN VIROL, V67, P591, DOI 10.1099/0022-1317-67-3-591
+   GUO PX, 1989, J VIROL, V63, P4189, DOI 10.1128/JVI.63.10.4189-4198.1989
+   HAHN YS, 1990, ARCH VIROL, V115, P251, DOI 10.1007/BF01310534
+   HAISHI S, 1989, ACTA VIROL, V33, P497
+   HALSTEAD SB, 1988, SCIENCE, V239, P476, DOI 10.1126/science.3277268
+   HALSTEAD SB, 1981, AM J EPIDEMIOL, V114, P632, DOI 10.1093/oxfordjournals.aje.a113235
+   HALSTEAD SB, 1977, J EXP MED, V146, P210
+   HEINZ FX, 1983, VIROLOGY, V126, P525, DOI 10.1016/S0042-6822(83)80010-5
+   HENCHAL EA, 1988, J GEN VIROL, V69, P2101, DOI 10.1099/0022-1317-69-8-2101
+   HOTTA S, 1952, J INFECT DIS, V90, P1, DOI 10.1093/infdis/90.1.1
+   KAUFMAN BM, 1987, AM J TROP MED HYG, V36, P427, DOI 10.4269/ajtmh.1987.36.427
+   KAUFMAN BM, 1989, AM J TROP MED HYG, V41, P576, DOI 10.4269/ajtmh.1989.41.576
+   KIMURAKURODA J, 1988, J IMMUNOL, V141, P3606
+   KONISHI E, 1992, VIROLOGY, V188, P714, DOI 10.1016/0042-6822(92)90526-U
+   KONISHI E, 1991, VIROLOGY, V185, P401, DOI 10.1016/0042-6822(91)90788-D
+   KURANE I, 1989, J EXP MED, V170, P763, DOI 10.1084/jem.170.3.763
+   KURANE I, 1989, J CLIN INVEST, V83, P506, DOI 10.1172/JCI113911
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   LAI CJ, 1990, VACCINES 90, P119
+   MANIATIS T, 1982, MOLCLONING
+   MASON PW, 1991, VIROLOGY, V180, P294, DOI 10.1016/0042-6822(91)90034-9
+   MASON PW, 1987, VIROLOGY, V161, P262, DOI 10.1016/0042-6822(87)90196-6
+   MASON PW, 1989, J GEN VIROL, V70, P2037, DOI 10.1099/0022-1317-70-8-2037
+   MASON PW, 1989, VIROLOGY, V169, P354, DOI 10.1016/0042-6822(89)90161-X
+   MASON PW, 1990, J GEN VIROL, V71, P2107, DOI 10.1099/0022-1317-71-9-2107
+   MATHEWS JH, 1984, J IMMUNOL, V132, P1533
+   MATSUURA Y, 1989, VIROLOGY, V173, P674, DOI 10.1016/0042-6822(89)90580-1
+   MCCOWN J, 1990, AM J TROP MED HYG, V42, P491, DOI 10.4269/ajtmh.1990.42.491
+   MEN R, 1991, J VIROL, V65, P1400, DOI 10.1128/JVI.65.3.1400-1407.1991
+   PANICALI D, 1982, P NATL ACAD SCI-BIOL, V79, P4927, DOI 10.1073/pnas.79.16.4927
+   PINCUS S, 1992, VIROLOGY, V187, P290, DOI 10.1016/0042-6822(92)90317-I
+   PUTNAK JR, 1990, J GEN VIROL, V71, P1697, DOI 10.1099/0022-1317-71-8-1697
+   PUTNAK R, 1991, AM J TROP MED HYG, V45, P159, DOI 10.4269/ajtmh.1991.45.159
+   REPIK PM, 1983, AM J TROP MED HYG, V32, P577, DOI 10.4269/ajtmh.1983.32.577
+   RUSSELL PK, 1967, J IMMUNOL, V99, P291
+   SABIN ALBERT B., 1952, AMER JOUR TROP MED AND HYG, V1, P30
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   SATO T, 1993, VIROLOGY, V192, P483, DOI 10.1006/viro.1993.1064
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   SCHLESINGER JJ, 1985, J IMMUNOL, V135, P2805
+   SCHLESINGER JJ, 1986, J VIROL, V60, P1153, DOI 10.1128/JVI.60.3.1153-1155.1986
+   YAMSHCHIKOV VF, 1993, VIROLOGY, V192, P38, DOI 10.1006/viro.1993.1006
+   YASUDA A, 1990, J VIROL, V64, P2788, DOI 10.1128/JVI.64.6.2788-2795.1990
+   YUEN L, 1987, P NATL ACAD SCI USA, V84, P6417, DOI 10.1073/pnas.84.18.6417
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+   ZHAO B, 1987, J VIROL, V61, P4019, DOI 10.1128/JVI.61.12.4019-4022.1987
+NR 57
+TC 85
+Z9 89
+U1 0
+U2 2
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0264-410X
+J9 VACCINE
+JI Vaccine
+PD MAR
+PY 1994
+VL 12
+IS 3
+BP 279
+EP 285
+DI 10.1016/0264-410X(94)90206-2
+PG 7
+WC Immunology; Medicine, Research & Experimental
+SC Immunology; Research & Experimental Medicine
+GA MU369
+UT WOS:A1994MU36900013
+PM 8165861
+DA 2020-11-10
+ER
+
+PT J
+AU PINCUS, S
+   MASON, PW
+   KONISHI, E
+   FONSECA, BAL
+   SHOPE, RE
+   RICE, CM
+   PAOLETTI, E
+AF PINCUS, S
+   MASON, PW
+   KONISHI, E
+   FONSECA, BAL
+   SHOPE, RE
+   RICE, CM
+   PAOLETTI, E
+TI RECOMBINANT VACCINIA VIRUS PRODUCING THE PRM AND E-PROTEINS OF
+   YELLOW-FEVER VIRUS PROTECTS MICE FROM LETHAL YELLOW-FEVER ENCEPHALITIS
+SO VIROLOGY
+LA English
+DT Article
+ID MONOCLONAL-ANTIBODIES; JAPANESE ENCEPHALITIS; DENGUE-2 VIRUS; STRUCTURAL
+   GLYCOPROTEIN; NONSTRUCTURAL PROTEIN-NS1; PASSIVE TRANSFER; IMMUNIZATION;
+   NS1; EXPRESSION; ENVELOPE
+C1 VIROGENET CORP,465 JORDAN RD,RENSSELAER TECHNOL PK,TROY,NY 12180.
+   USDA ARS,PLUM ISL ANIM DIS CTR,GREENPORT,NY 11944.
+   WASHINGTON UNIV,SCH MED,DEPT MOLEC MICROBIOL,ST LOUIS,MO 63110.
+   YALE UNIV,SCH MED,DEPT EPIDEMIOL & PUBL HLTH,YALE ARBOVIRUS RES UNIT,NEW HAVEN,CT 06510.
+RI Fonseca, Benedito/F-3252-2012
+OI Fonseca, Benedito/0000-0003-3159-5687
+FU NIAID NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [AI 10987-17] Funding Source: Medline
+CR BRANDT WE, 1988, J INFECT DIS, V157, P1105, DOI 10.1093/infdis/157.5.1105
+   BRAY M, 1989, J VIROL, V63, P2853, DOI 10.1128/JVI.63.6.2853-2856.1989
+   CANE PA, 1988, J GEN VIROL, V69, P1241, DOI 10.1099/0022-1317-69-6-1241
+   CHAMBERS TJ, 1990, ANNU REV MICROBIOL, V44, P649, DOI 10.1146/annurev.mi.44.100190.003245
+   DESPRES P, 1991, J GEN VIROL, V72, P1331, DOI 10.1099/0022-1317-72-6-1331
+   DEUBEL V, 1988, J GEN VIROL, V69, P1921, DOI 10.1099/0022-1317-69-8-1921
+   DEUBEL V, 1991, VIROLOGY, V180, P442, DOI 10.1016/0042-6822(91)90055-G
+   EARL PL, 1990, J VIROL, V64, P2448, DOI 10.1128/JVI.64.5.2448-2451.1990
+   FALGOUT B, 1989, J VIROL, V63, P1852, DOI 10.1128/JVI.63.5.1852-1860.1989
+   FALGOUT B, 1990, J VIROL, V64, P4356, DOI 10.1128/JVI.64.9.4356-4363.1990
+   GOULD EA, 1986, J GEN VIROL, V67, P591, DOI 10.1099/0022-1317-67-3-591
+   HAHN YS, 1990, ARCH VIROL, V115, P251, DOI 10.1007/BF01310534
+   HAISHI S, 1989, ACTA VIROL, V33, P497
+   HEINZ FX, 1983, VIROLOGY, V126, P525, DOI 10.1016/S0042-6822(83)80010-5
+   HENCHAL EA, 1985, AM J TROP MED HYG, V34, P162, DOI 10.4269/ajtmh.1985.34.162
+   HENCHAL EA, 1988, J GEN VIROL, V69, P2101, DOI 10.1099/0022-1317-69-8-2101
+   IGARASHI A, 1978, J GEN VIROL, V40, P531, DOI 10.1099/0022-1317-40-3-531
+   KAUFMAN BM, 1987, AM J TROP MED HYG, V36, P427, DOI 10.4269/ajtmh.1987.36.427
+   KAUFMAN BM, 1989, AM J TROP MED HYG, V41, P576, DOI 10.4269/ajtmh.1989.41.576
+   KIMURAKURODA J, 1988, J IMMUNOL, V141, P3606
+   KONISHI E, 1991, VIROLOGY, V185, P401, DOI 10.1016/0042-6822(91)90788-D
+   MANIATIS T, 1982, MOL CLONING
+   MASON PW, 1991, VIROLOGY, V180, P294, DOI 10.1016/0042-6822(91)90034-9
+   MASON PW, 1989, J GEN VIROL, V70, P2037, DOI 10.1099/0022-1317-70-8-2037
+   MASON PW, 1990, J GEN VIROL, V71, P2107, DOI 10.1099/0022-1317-71-9-2107
+   MATHEWS JH, 1984, J IMMUNOL, V132, P1533
+   MATSUURA Y, 1989, VIROLOGY, V173, P674, DOI 10.1016/0042-6822(89)90580-1
+   MCCOWN J, 1990, AM J TROP MED HYG, V42, P491, DOI 10.4269/ajtmh.1990.42.491
+   MEN R, 1991, J VIROL, V65, P1400, DOI 10.1128/JVI.65.3.1400-1407.1991
+   MONATH TP, 1986, TOGAVIRIDAE FLAVIVIR, P375
+   PERKUS ME, 1989, J VIROL, V63, P3829, DOI 10.1128/JVI.63.9.3829-3836.1989
+   POST PR, 1990, VIRUS RES, V18, P291
+   PUTNAK JR, 1990, J GEN VIROL, V71, P1697, DOI 10.1099/0022-1317-71-8-1697
+   RICE CM, 1985, SCIENCE, V229, P726, DOI 10.1126/science.4023707
+   RICE CM, 1988, MODERN TRENDS VIROLO, P83
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   SCHLESINGER JJ, 1985, J IMMUNOL, V135, P2805
+   SCHLESINGER JJ, 1986, J VIROL, V60, P1153, DOI 10.1128/JVI.60.3.1153-1155.1986
+   SHIU SYW, 1991, J GEN VIROL, V72, P1451, DOI 10.1099/0022-1317-72-6-1451
+   SHOPE RE, 1980, TOGAVIRUSES BIOL STR, P47
+   Theiler M, 1937, J EXP MED, V65, P767, DOI 10.1084/jem.65.6.767
+   YASUDA A, 1990, J VIROL, V64, P2788, DOI 10.1128/JVI.64.6.2788-2795.1990
+   YUEN L, 1987, P NATL ACAD SCI USA, V84, P6417, DOI 10.1073/pnas.84.18.6417
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+   ZHAO B, 1987, J VIROL, V61, P4019, DOI 10.1128/JVI.61.12.4019-4022.1987
+NR 46
+TC 94
+Z9 98
+U1 0
+U2 1
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0042-6822
+J9 VIROLOGY
+JI Virology
+PD MAR
+PY 1992
+VL 187
+IS 1
+BP 290
+EP 297
+DI 10.1016/0042-6822(92)90317-I
+PG 8
+WC Virology
+SC Virology
+GA HD628
+UT WOS:A1992HD62800029
+PM 1736531
+DA 2020-11-10
+ER
+
+PT J
+AU KONISHI, E
+   PINCUS, S
+   FONSECA, BAL
+   SHOPE, RE
+   PAOLETTI, E
+   MASON, PW
+AF KONISHI, E
+   PINCUS, S
+   FONSECA, BAL
+   SHOPE, RE
+   PAOLETTI, E
+   MASON, PW
+TI COMPARISON OF PROTECTIVE IMMUNITY ELICITED BY RECOMBINANT VACCINIA
+   VIRUSES THAT SYNTHESIZE-E OR NS1 OF JAPANESE ENCEPHALITIS-VIRUS
+SO VIROLOGY
+LA English
+DT Article
+ID NONSTRUCTURAL PROTEIN NS1; FLAVIVIRUS GENOME ORGANIZATION; LETHAL DENGUE
+   INFECTION; MONOCLONAL-ANTIBODIES; YELLOW-FEVER; STRUCTURAL PROTEINS;
+   ESCHERICHIA-COLI; E-GLYCOPROTEIN; MOUSE NEUROVIRULENCE; PASSIVE TRANSFER
+C1 VIROGENET CORP,465 JORDAN RD,RENSSELAER TECHNOL PK,TROY,NY 12180.
+   YALE UNIV,SCH MED,DEPT EPIDEMIOL & PUBL HLTH,YALE ARBOVIRUS RES UNIT,NEW HAVEN,CT 06510.
+   USDA ARS,PLUM ISL ANIM DIS CTR,GREENPORT,NY 11944.
+RI Fonseca, Benedito/F-3252-2012
+OI Fonseca, Benedito/0000-0003-3159-5687
+FU NIAID NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [AI10987-17] Funding Source: Medline
+CR BRAY M, 1989, J VIROL, V63, P2853, DOI 10.1128/JVI.63.6.2853-2856.1989
+   CANE PA, 1988, J GEN VIROL, V69, P1241, DOI 10.1099/0022-1317-69-6-1241
+   CHAMBERS TJ, 1990, ANNU REV MICROBIOL, V44, P649, DOI 10.1146/annurev.mi.44.100190.003245
+   DALESSIO JM, 1988, NUCLEIC ACIDS RES, V16, P1999
+   DEUBEL V, 1988, J GEN VIROL, V69, P1921, DOI 10.1099/0022-1317-69-8-1921
+   DEUBEL V, 1991, VIROLOGY, V180, P442, DOI 10.1016/0042-6822(91)90055-G
+   FALGOUT B, 1989, J VIROL, V63, P1852, DOI 10.1128/JVI.63.5.1852-1860.1989
+   FALGOUT B, 1990, J VIROL, V64, P4356, DOI 10.1128/JVI.64.9.4356-4363.1990
+   GOULD EA, 1986, J GEN VIROL, V67, P591, DOI 10.1099/0022-1317-67-3-591
+   GUO PX, 1989, J VIROL, V63, P4189, DOI 10.1128/JVI.63.10.4189-4198.1989
+   HAHN YS, 1990, ARCH VIROL, V115, P251, DOI 10.1007/BF01310534
+   HAISHI S, 1989, ACTA VIROL, V33, P497
+   HALSTEAD SB, 1988, SCIENCE, V239, P476, DOI 10.1126/science.3277268
+   HEINZ FX, 1983, VIROLOGY, V126, P525, DOI 10.1016/S0042-6822(83)80010-5
+   HENCHAL EA, 1988, J GEN VIROL, V69, P2101, DOI 10.1099/0022-1317-69-8-2101
+   HUANG CH, 1982, ADV VIRUS RES, V27, P71, DOI 10.1016/S0065-3527(08)60433-9
+   IGARASHI A, 1978, J GEN VIROL, V40, P531, DOI 10.1099/0022-1317-40-3-531
+   KAUFMAN BM, 1987, AM J TROP MED HYG, V36, P427, DOI 10.4269/ajtmh.1987.36.427
+   KAUFMAN BM, 1989, AM J TROP MED HYG, V41, P576, DOI 10.4269/ajtmh.1989.41.576
+   KIMURAKURODA J, 1988, J IMMUNOL, V141, P3606
+   MANDECKI W, 1986, P NATL ACAD SCI USA, V83, P7177, DOI 10.1073/pnas.83.19.7177
+   MANIATIS T, 1982, MOL CLONING
+   MASON PW, 1991, VIROLOGY, V180, P294, DOI 10.1016/0042-6822(91)90034-9
+   MASON PW, 1989, J GEN VIROL, V70, P2037, DOI 10.1099/0022-1317-70-8-2037
+   MASON PW, 1989, VIROLOGY, V169, P354, DOI 10.1016/0042-6822(89)90161-X
+   MASON PW, 1987, VIROLOGY, V158, P361, DOI 10.1016/0042-6822(87)90208-X
+   MATHEWS JH, 1984, J IMMUNOL, V132, P1533
+   MATSUURA Y, 1989, VIROLOGY, V173, P674, DOI 10.1016/0042-6822(89)90580-1
+   MCADA PC, 1987, VIROLOGY, V158, P348, DOI 10.1016/0042-6822(87)90207-8
+   MCCOWN J, 1990, AM J TROP MED HYG, V42, P491, DOI 10.4269/ajtmh.1990.42.491
+   MEN R, 1991, J VIROL, V65, P1400, DOI 10.1128/JVI.65.3.1400-1407.1991
+   MONATH TP, 1986, TOGAVIRIDAE FLAVIVIR, P375
+   OKAYAMA H, 1982, MOL CELL BIOL, V2, P161, DOI 10.1128/MCB.2.2.161
+   PANICALI D, 1982, P NATL ACAD SCI-BIOL, V79, P4927, DOI 10.1073/pnas.79.16.4927
+   PUTNAK JR, 1990, J GEN VIROL, V71, P1697, DOI 10.1099/0022-1317-71-8-1697
+   REPIK PM, 1983, AM J TROP MED HYG, V32, P577, DOI 10.4269/ajtmh.1983.32.577
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   SCHLESINGER JJ, 1985, J IMMUNOL, V135, P2805
+   SCHLESINGER JJ, 1986, J VIROL, V60, P1153, DOI 10.1128/JVI.60.3.1153-1155.1986
+   SHOPE RE, 1980, TOGAVIRUSES BIOL STR, P47
+   YASUDA A, 1990, J VIROL, V64, P2788, DOI 10.1128/JVI.64.6.2788-2795.1990
+   YUEN L, 1987, P NATL ACAD SCI USA, V84, P6417, DOI 10.1073/pnas.84.18.6417
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+   ZHAO B, 1987, J VIROL, V61, P4019, DOI 10.1128/JVI.61.12.4019-4022.1987
+NR 45
+TC 99
+Z9 105
+U1 0
+U2 4
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0042-6822
+J9 VIROLOGY
+JI Virology
+PD NOV
+PY 1991
+VL 185
+IS 1
+BP 401
+EP 410
+DI 10.1016/0042-6822(91)90788-D
+PG 10
+WC Virology
+SC Virology
+GA GJ980
+UT WOS:A1991GJ98000043
+PM 1833876
+DA 2020-11-10
+ER
+
+PT J
+AU FONSECA, BAL
+   KHOSHNOOD, K
+   SHOPE, RE
+   MASON, PW
+AF FONSECA, BAL
+   KHOSHNOOD, K
+   SHOPE, RE
+   MASON, PW
+TI FLAVIVIRUS TYPE-SPECIFIC ANTIGENS PRODUCED FROM FUSIONS OF A PORTION OF
+   THE E-PROTEIN GENE WITH THE ESCHERICHIA-COLI TRPE GENE
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID PARTIAL NUCLEOTIDE-SEQUENCE; ENCEPHALITIS-VIRUS GENOME; YELLOW-FEVER
+   VIRUS; STRUCTURAL PROTEINS; DENGUE; RNA; DNA; IDENTIFICATION;
+   AMPLIFICATION; ANTIBODIES
+AB Based on previous data showing that JEV and DEN-1 fusion proteins can be used as antigens, we engineered analogous fusion proteins for the same regions of the E proteins of DEN-2, DEN-3, and DEN-4, using the polymerase chain reaction. The resulting fusion proteins were tested in a modified ELISA for their reactivity with mouse immune ascitic fluids (MIAF) generated against 10 different flaviviruses. The results showed that these recombinant antigens could be used as type-specific immunological reagents, and suggest that these antigens could ser-ve as the basis for rapid, safe, and inexpensive flavivirus serosurveys.
+C1 YALE UNIV, SCH MED, DEPT EPIDEMIOL & PUBL HLTH, YALE ARBOVIRUS RES UNIT, NEW HAVEN, CT 06510 USA.
+   INST ADOLFO LUTZ REGISTRO, DEPT VIROL, SECAO ARBOVIRUS, SAO PAULO, BRAZIL.
+   USDA ARS, PLUM ISL ANIM DIS CTR, GREENPORT, NY 11944 USA.
+RI Fonseca, Benedito/F-3252-2012
+OI Fonseca, Benedito/0000-0003-3159-5687
+FU NIAID NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [AI-10987-17] Funding Source: Medline
+CR BRANDT WE, 1967, AM J TROP MED HYG, V16, P339, DOI 10.4269/ajtmh.1967.16.339
+   CABRADILLA CD, 1986, BIO-TECHNOL, V4, P128, DOI 10.1038/nbt0286-128
+   CHOMCZYNSKI P, 1987, ANAL BIOCHEM, V162, P156, DOI 10.1006/abio.1987.9999
+   COIA G, 1988, J GEN VIROL, V69, P1, DOI 10.1099/0022-1317-69-1-1
+   DALGARNO L, 1986, J MOL BIOL, V187, P309, DOI 10.1016/0022-2836(86)90435-3
+   DOWBENKO DJ, 1985, P NATL ACAD SCI USA, V82, P7748, DOI 10.1073/pnas.82.22.7748
+   GENTRY MK, 1982, AM J TROP MED HYG, V31, P548, DOI 10.4269/ajtmh.1982.31.548
+   GRUENBERG A, 1988, J GEN VIROL, V69, P1391, DOI 10.1099/0022-1317-69-6-1391
+   HALSTEAD SB, 1988, SCIENCE, V239, P476, DOI 10.1126/science.3277268
+   HALSTEAD SB, 1982, PROG ALLERGY, V31, P301
+   IGARASHI A, 1978, J GEN VIROL, V40, P531, DOI 10.1099/0022-1317-40-3-531
+   INNIS BL, 1989, AM J TROP MED HYG, V40, P418, DOI 10.4269/ajtmh.1989.40.418
+   KOERNER TJ, 1991, METHOD ENZYMOL, V194, P477
+   MASON PW, 1987, VIROLOGY, V161, P262, DOI 10.1016/0042-6822(87)90196-6
+   MASON PW, 1989, J GEN VIROL, V70, P2037, DOI 10.1099/0022-1317-70-8-2037
+   MASON PW, 1990, J GEN VIROL, V71, P2107, DOI 10.1099/0022-1317-71-9-2107
+   MCADA PC, 1987, VIROLOGY, V158, P348, DOI 10.1016/0042-6822(87)90207-8
+   MONATH TP, 1986, TOGAVIRIDAE FLAVIVIR, P375
+   OHARA O, 1989, P NATL ACAD SCI USA, V86, P5673, DOI 10.1073/pnas.86.15.5673
+   OSATOMI K, 1990, VIROLOGY, V176, P643, DOI 10.1016/0042-6822(90)90037-R
+   RICE CM, 1985, SCIENCE, V229, P726, DOI 10.1126/science.4023707
+   RUSSELL PK, 1967, J IMMUNOL, V99, P291
+   SAIKI RK, 1988, SCIENCE, V239, P487, DOI 10.1126/science.2448875
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   SHOPE RE, 1980, TOGAVIRUSES BIOL STR, P47
+   TESH RB, 1979, AM J TROP MED HYG, V28, P1053, DOI 10.4269/ajtmh.1979.28.1053
+   TRENT DW, 1987, VIROLOGY, V156, P293, DOI 10.1016/0042-6822(87)90409-0
+   Voller A., 1986, MANUAL CLIN LABORATO, P99
+   WENGLER G, 1985, VIROLOGY, V147, P264, DOI 10.1016/0042-6822(85)90129-1
+   WESTAWAY EG, 1985, INTERVIROLOGY, V24, P183, DOI 10.1159/000149642
+   ZHAO B, 1986, VIROLOGY, V155, P77, DOI 10.1016/0042-6822(86)90169-8
+NR 31
+TC 30
+Z9 34
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD MAY
+PY 1991
+VL 44
+IS 5
+BP 500
+EP 508
+DI 10.4269/ajtmh.1991.44.500
+PG 9
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FW270
+UT WOS:A1991FW27000006
+PM 1648310
+DA 2020-11-10
+ER
+
+EF

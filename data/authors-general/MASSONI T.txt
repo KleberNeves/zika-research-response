@@ -1,0 +1,1489 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Vidal, M
+   Massoni, T
+   Ramalho, F
+AF Vidal, Marzina
+   Massoni, Tiago
+   Ramalho, Franklin
+TI A domain-specific language for verifying software requirement
+   constraints
+SO SCIENCE OF COMPUTER PROGRAMMING
+LA English
+DT Article
+DE GIRL; Alloy; Requirement Constraints; DSL
+AB Software requirement analysis can undoubtedly benefit from prevention and early detection of failures, in particular by some kind of automatic analysis. Formal methods offer means to represent and analyze requirements with rigorous tools, avoiding ambiguities, and allowing automatic verification of requirement consistency. However, formalisms often clash in the culture or lack of software analysts' skills, making them challenging to apply. In this article, we propose a Domain-Specific Language (DSL) based on Set Theory for requirement analysts. The Graphical InvaRiant Language (GIRL) can be used to specify software requirement structural invariants, with entities and their relationships. Those invariants can then have their consistency evaluated by the Alloy Analyzer, based on a translational semantics we provide for transforming GIRL models into Alloy specifications with no user intervention. With a prototypical language editor and transformations implemented into an Eclipse plugin, we carried out a qualitative study, with requirement analysts working for a government software company in Brazil, to evaluate usability and effectiveness of the GIRL-based analysis of real software requirements. The participants were able to effectively use the underlying formal analysis since 79 out of 80 assigned invariants were correctly modeled. While participants perceived as low the complexity of learning and using GIRL's simplest, set-based structures and relationships, the most complex logical structures, such as quantification and implication, were challenging. Furthermore, almost all post-study evaluations from the participants were positive, especially as a tool for discovering requirement inconsistencies. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Vidal, Marzina; Massoni, Tiago; Ramalho, Franklin] Univ Fed Campina Grande, Campina Grande, Paraiba, Brazil.
+RP Massoni, T (corresponding author), Univ Fed Campina Grande, Campina Grande, Paraiba, Brazil.
+EM marzina@ufcg.edu.br; massoni@computacao.ufcg.edu.br;
+   franklin@computacao.ufcg.edu.br
+CR Anastasakis K, 2007, LECT NOTES COMPUT SC, V4735, P436
+   Bixby WR, 2002, J SPORT EXERCISE PSY, V24, P33
+   Broadfoot GH, 2003, ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE, PROCEEDINGS, P49, DOI 10.1109/APSEC.2003.1254357
+   Cabot Jordi, 2012, Formal Methods for Model-Driven Engineering. 12th International School of Formal Methods for the Design of Computer, Communication and Software Systems (SFM 2012). Advanced Lectures, P58, DOI 10.1007/978-3-642-30982-3_3
+   Damyanov I., 2015, INT J COMPUT APPL, V115, P42
+   Daniel Jackson, 2000, P C FUT SOFTW ENG, P133, DOI 10.1145/336512.336545
+   Fernandez DM, 2017, EMPIR SOFTW ENG, V22, P2298, DOI 10.1007/s10664-016-9451-7
+   Fish A, 2005, ELECTRON NOTES THEOR, V127, P53, DOI 10.1016/j.entcs.2004.08.047
+   Fonteyn M. E., 1993, QUAL HEALTH RES, V3, P430, DOI DOI 10.1177/104973239300300403
+   Gheyi R, 2007, ELECTRON NOTES THEOR, V184, P209, DOI 10.1016/j.entcs.2007.03.023
+   Gonzalez C. A., 2012, P 1 INT WORKSH FORM, P44, DOI [10.1109/FormSERA.2012.6229788, DOI 10.1109/FORMSERA.2012.6229788]
+   Gonzalez CA, 2014, INFORM SOFTWARE TECH, V56, P821, DOI 10.1016/j.infsof.2014.03.003
+   Gramzow RH, 2003, J RES PERS, V37, P41, DOI 10.1016/S0092-6566(02)00535-4
+   Guarino A, 2019, IEEE INT CON INF VIS, P7, DOI 10.1109/IV.2019.00011
+   Hammer E.M., 1996, LOGIC VISUAL INFORM
+   Hoare T, 2007, I C DEPEND SYS NETWO, P2, DOI 10.1109/DSN.2007.87
+   Jackson D, 2006, SOFTWARE ABSTRACTION
+   Jaspan C, 2009, IEEE SOFTWARE, V26, P60, DOI 10.1109/MS.2009.188
+   Karpen Samuel C, 2018, Am J Pharm Educ, V82, P6299, DOI 10.5688/ajpe6299
+   Kent S, 2002, LECT NOTES COMPUT SC, V2263, P228
+   Kholkar D., 2005, SOFTVIS 05, P77
+   Makinson D., 2012, SETS LOGIC MATH COMP
+   Maoz S, 2011, LECT NOTES COMPUT SC, V6981, P592, DOI 10.1007/978-3-642-24485-8_44
+   Moody DL, 2009, IEEE T SOFTWARE ENG, V35, P756, DOI 10.1109/TSE.2009.67
+   OMG, 2011, MET OBJ FAC MOF 2 0
+   OMG, 2013, OMG MET OBJ FAC MOF
+   OMG, 2015, XML MET INT XMI VERS
+   Perez B., 2018, INF SCI
+   Shin S.-J., 1994, LOGICAL STATUS DIAGR
+   Snook C, 2006, ACM T SOFTW ENG METH, V15, P92, DOI 10.1145/1125808.1125811
+   Spichkova M., 2014, CORR
+   Stahl T., 2006, MODEL DRIVEN SOFTWAR
+   Stol KJ, 2015, IEEE-ACM INT WKSP CO, P47, DOI 10.1109/CESI.2015.15
+   Tahchiev P., 2010, JUNIT ACTION
+   van der Linden D, 2017, INT REQUIR ENG CONF, P41, DOI 10.1109/RE.2017.37
+   Volter M., 2013, DSL ENG DESIGNING IM
+   Wiegers K.E., 2003, SOFTWARE REQUIREMENT
+   Wohlin C, 2000, EXPT SOFTWARE ENG IN
+NR 38
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-6423
+EI 1872-7964
+J9 SCI COMPUT PROGRAM
+JI Sci. Comput. Program.
+PD OCT 1
+PY 2020
+VL 197
+AR 102509
+DI 10.1016/j.scico.2020.102509
+PG 26
+WC Computer Science, Software Engineering
+SC Computer Science
+GA NS6CO
+UT WOS:000572347300011
+DA 2020-12-16
+ER
+
+PT J
+AU Kostkova, P
+   dos Santos, WP
+   Massoni, T
+AF Kostkova, P.
+   Pinheiro dos Santos, W.
+   Massoni, T.
+TI ZIKA: improved surveillance and forecast of Zika virus in Brazil
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Meeting Abstract
+C1 [Kostkova, P.] UCL, UCL IRDR Ctr Digital Publ Hlth Emergencies, London, England.
+   [Pinheiro dos Santos, W.] Univ Fed Pernambuco, Dept Biomed Engn, Recife, PE, Brazil.
+   [Massoni, T.] Univ Fed Campina Grande, Dept Syst & Comp, Campina Grande, Paraiba, Brazil.
+EM p.kostkova@ucl.ac.uk
+RI Massoni, Tiago/AAE-9376-2020
+OI Massoni, Tiago/0000-0002-9423-7556
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD NOV
+PY 2019
+VL 29
+SU 4
+PG 2
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA KC0RL
+UT WOS:000506895303210
+DA 2020-12-16
+ER
+
+PT B
+AU Musah, A
+   Rubio-Solis, A
+   Birjovanu, G
+   dos Santos, WP
+   Massoni, T
+   Kostkova, P
+AF Musah, Anwar
+   Rubio-Solis, Adrian
+   Birjovanu, Georgiana
+   dos Santos, Wellington P.
+   Massoni, Tiago
+   Kostkova, Patty
+GP ACM
+TI Assessing the Relationship between various Climatic Risk Factors &
+   Mosquito Abundance in Recife, Brazil
+SO PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON DIGITAL PUBLIC HEALTH
+   (DPH '19)
+LA English
+DT Proceedings Paper
+CT 9th International Conference on Digital Public Health (DPH)
+CY NOV 20-23, 2019
+CL Marseille, FRANCE
+SP Assoc Comp Machinery, KDD, ICPS, ACM In Cooperat
+DE Vector control; surveillance; Zika virus; climate conditions;
+   spatial-temporal models
+AB Recife is one of many regions in the North Eastern section of Brazil to be hit hard by the Zika virus outbreak in 2015. Zika infection is caused by the arboviruses transmitted by the Aedes mosquitoes which are abundant in Brazil. It is a known fact that increased abundance of the Aedes mosquito is typically associated with standing (or stagnant) water which serves as a reservoir or hotspot for breeding. Apart from the presence of standing (or stagnated) water in human dwellings, it is important to consider other intermediate factors that drive the mosquitoes to increase in population size. We consider the example of a set of climate conditions such as land surface temperature, humidity, precipitation, seasonality etc. These are typical risk factors that must be taken into consideration especially for the spatial and early warning prediction of breeding hotspots for the Aedes mosquito species responsible for transmitting Zika viruses in Brazil. In this work-in-progress study, we bring together historical records from a mosquito surveillance and control programme conducted by the Centre for Environmental Surveillance Agency in Recife and open source climate information. We use a population-based ecological study design to explore the regional-level spatial-temporal relationship between the prevalence of households detected to have increased mosquito larvae density and environmental risk factors such as temperature and precipitation.
+C1 [Musah, Anwar; Birjovanu, Georgiana; Kostkova, Patty] UCL, Ctr Digital Publ Hlth & Emergencies, London, England.
+   [Rubio-Solis, Adrian] Ctr Engn & Ind Dev CIDESI, Mexico City, DF, Mexico.
+   [dos Santos, Wellington P.] Univ Fed Pernambuco, Dept Biomed Engn, Recife, PE, Brazil.
+   [Massoni, Tiago] Univ Fed Campina Grande, Dept Syst & Comp, Campina Grande, Paraiba, Brazil.
+RP Musah, A (corresponding author), UCL, Ctr Digital Publ Hlth & Emergencies, London, England.
+EM a.musah@ucl.ac.uk; adrian.rubio@cidesi.edu.mx;
+   georgiana.birjovanu.15@ucl.ac.uk; wellington.santos@ufpe.br;
+   massoni@dsc.ufcg.edu.br; p.kostkova@ucl.ac.uk
+OI Musah, Anwar/0000-0001-7978-1871
+CR Beltran JD, 2018, DH '18: PROCEEDINGS OF THE 2018 INTERNATIONAL CONFERENCE ON DIGITAL HEALTH, P90, DOI 10.1145/3194658.3194683
+   de Quincey E, 2009, ELECT HEALTHCARE, P21, DOI [10.1007/978-3-642-11745-9_4, DOI 10.1007/978-3-642-11745-9_4]
+   Dile Y.T., 2014, J AM WATER RESOUR AS, P1, DOI DOI 10.1111/jawr.12182
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   Fuka DR, 2014, HYDROL PROCESS, V28, P5613, DOI 10.1002/hyp.10073
+   Javed F, 2018, J BASIC MICROB, V58, P3, DOI 10.1002/jobm.201700398
+   Kostkova P, 2013, P 22 INT C WORLD WID
+   Lee D, 2018, J STAT SOFTW, V84, P1, DOI 10.18637/jss.v084.i09
+   Martines Roosecelis Brasil, 2016, MMWR MORBIDITY MORTA
+   McHale TC, 2019, INT J ENV RES PUB HE, V16, DOI 10.3390/ijerph16101759
+   Paixao ES, 2018, BMJ GLOB HEALTH, V3, DOI 10.1136/bmjgh-2017-000530
+   Romero-Vivas CME, 2005, J AM MOSQUITO CONTR, V21, P15, DOI 10.2987/8756-971X(2005)21[15:IORBAA]2.0.CO;2
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+BN 978-1-4503-7208-4
+PY 2019
+BP 97
+EP 100
+DI 10.1145/3357729.3357744
+PG 4
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Biomedical; Public, Environmental & Occupational Health
+SC Computer Science; Engineering; Public, Environmental & Occupational
+   Health
+GA BO7GL
+UT WOS:000524252200017
+OA Green Published
+DA 2020-12-16
+ER
+
+PT B
+AU Rubio-Solis, A
+   Musah, A
+   Dos Santos, WP
+   Massoni, T
+   Birjovanu, G
+   Kostkova, P
+AF Rubio-Solis, Adrian
+   Musah, Anwar
+   Dos Santos, Wellington P.
+   Massoni, Tiago
+   Birjovanu, Georgiana
+   Kostkova, Patty
+GP ACM
+TI ZIKA Virus: Prediction of Aedes Mosquito Larvae Occurrence in Recife
+   (Brazil) using Online Extreme Learning Machine and Neural Networks
+SO PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON DIGITAL PUBLIC HEALTH
+   (DPH '19)
+LA English
+DT Proceedings Paper
+CT 9th International Conference on Digital Public Health (DPH)
+CY NOV 20-23, 2019
+CL Marseille, FRANCE
+SP Assoc Comp Machinery, KDD, ICPS, ACM In Cooperat
+DE ZIKA virus (ZIKV); Neural Networks; Online Learning; Extreme Learning
+   Machines; Fuzzy Logic; Classification; Regression
+ID AMERICA
+AB Geographical maps showing the abundance of the Aedes species (A. Aegypti and A. Albopictus) in Latin America plays a crucial role in the fight against the Zika Virus (ZIKV). They aid in the identification of sites that promotes mosquito breeding and transmission of ZIKV. In the case of Brazil, one of the greatest factors that favours rapid mosquito reproduction is the presence of stagnated water in the environment. This could be in the form of non-flowing water filled in tanks, barrels, discarded tires, and many other containers situated in human dwellings. After the ZIKV outbreak from 2015, the environmental agency in Brazil have intensively been engaged with routine surveillance of water bodies present in households and the environment to destroy mosquito breeding hotspots as public health measure to prevent vector-to-human transmission of ZIKV. The objective of this study is to use data from their routine surveillance to showcase how our predictive framework based on Neural Networks and Online Extreme Learning Machine (OELM) can predict for Recife (Brazil) at a health district-level the following: firstly, the spatial distribution of the number of properties with water containers contaminated with the Aedes mosquito larvae responsible for ZIKV; and secondly, the spatial distribution of properties with the Aedes mosquito larvae stratified by type of water container. The ultimate goal for this research is to subsequently implement these models to their real-time surveillance data so as an early warning system is present to identify spatially the mosquito hotspots and provide an early warning. This system will be built to guide policy makers for directing resources for controlling the mosquito populations thereby limiting transmission to humans.
+C1 [Rubio-Solis, Adrian] Ctr Engn & Ind Dev CIDESI Mexico, Santiago De Queretaro, Qro, Mexico.
+   [Musah, Anwar; Birjovanu, Georgiana; Kostkova, Patty] UCL, IRDR Ctr Digital Publ Hlth Emergencies dPHE, London, England.
+   [Dos Santos, Wellington P.] Feb Univ Pernambuco, Dept Biomed Engn, Recife, PE, Brazil.
+   [Massoni, Tiago] Feb Univ Pernambuco, Dept Syst & Comp, Recife, PE, Brazil.
+RP Rubio-Solis, A (corresponding author), Ctr Engn & Ind Dev CIDESI Mexico, Santiago De Queretaro, Qro, Mexico.
+EM adrian.rubio@cidesi.edu.mx; a.musah@ucl.ac.uk;
+   wellington.santos@ufpe.br; massoni@computacao.ufcg.edu.br;
+   georgiana.birjovanu.15@ucl.ac.uk; p.kostkova@ucl.ac.uk
+CR Basso C, 2012, AM J TROP MED HYG, V87, P1083, DOI 10.4269/ajtmh.2012.12-0328
+   Beltran JD, 2018, DH '18: PROCEEDINGS OF THE 2018 INTERNATIONAL CONFERENCE ON DIGITAL HEALTH, P90, DOI 10.1145/3194658.3194683
+   Benelli G, 2016, PARASITOL RES, V115, P23, DOI 10.1007/s00436-015-4800-9
+   CALHEIROS RV, 1987, J CLIM APPL METEOROL, V26, P118, DOI 10.1175/1520-0450(1987)026<0118:RRRRFR>2.0.CO;2
+   de Lima-Camara TN, 2017, CABI CLIM CHANGE SER, P127, DOI 10.1079/9781780645377.0127
+   de Quincey E, 2009, ELECT HEALTHCARE, P21, DOI [10.1007/978-3-642-11745-9_4, DOI 10.1007/978-3-642-11745-9_4]
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   Fuller TL, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0188002
+   Gulland Anne, 2016, WHO URGES COUNTRIES
+   Heukelbach J, 2016, INFECT DEV CTRIES, V2, P116
+   Huang GB, 2004, IEEE IJCNN, P985
+   Javed F, 2018, J BASIC MICROB, V58, P3, DOI 10.1002/jobm.201700398
+   Jun W, 2011, INT J MACH LEARN CYB, V2, P261, DOI 10.1007/s13042-011-0024-1
+   Kamal M, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0210122
+   Kostkova P, 2013, P 22 INT C WORLD WID
+   Kostkova P, 2018, LIFE SCI SOC POLICY, V14, DOI 10.1186/s40504-018-0078-x
+   Kostkova P, 2014, ACM TRANS MANAG INF, V5, DOI 10.1145/2597892
+   Kostkova P, 2013, J MED INTERNET RES, V15, P167, DOI 10.2196/jmir.2146
+   Liang NY, 2006, IEEE T NEURAL NETWOR, V17, P1411, DOI 10.1109/TNN.2006.880583
+   Martines Roosecelis Brasil, 2016, MMWR MORBIDITY MORTA
+   MARTINEZHERNANDEZ, 2016, IEEE IJCNN, P4927, DOI DOI 10.1109/IJCNN.2016.7727848
+   Mendel JM, 2014, IEEE T FUZZY SYST, V22, P1162, DOI 10.1109/TFUZZ.2013.2286414
+   Messina JP, 2016, ELIFE, V5, DOI 10.7554/eLife.15272
+   Musso D, 2016, LANCET, V387, P1993, DOI 10.1016/S0140-6736(16)30428-7
+   Reiter P, 2001, ENVIRON HEALTH PERSP, V109, P141, DOI 10.2307/3434853
+   Rong HJ, 2009, IEEE T SYST MAN CY B, V39, P1067, DOI 10.1109/TSMCB.2008.2010506
+   Rubio-Solis A., 2017, FUZZY SYSTEMS FUZZ I, P1
+   Rubio-Solis A., 2018, 2018 IEEE INT C FUZZ, P1
+   Rubio-Solis A, 2019, IEEE T FUZZY SYST, V27, P333, DOI 10.1109/TFUZZ.2018.2858740
+   Rubio-Solis A, 2015, IEEE T FUZZY SYST, V23, P457, DOI 10.1109/TFUZZ.2014.2315656
+   Sakkas H, 2018, PATHOGENS, V7, DOI 10.3390/pathogens7030066
+   Soria-Olivas E, 2011, IEEE T NEURAL NETWOR, V22, P505, DOI 10.1109/TNN.2010.2103956
+   Wu DR, 2009, IEEE T FUZZY SYST, V17, P923, DOI 10.1109/TFUZZ.2008.924329
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+BN 978-1-4503-7208-4
+PY 2019
+BP 101
+EP 110
+DI 10.1145/3357729.3357738
+PG 10
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Biomedical; Public, Environmental & Occupational Health
+SC Computer Science; Engineering; Public, Environmental & Occupational
+   Health
+GA BO7GL
+UT WOS:000524252200018
+DA 2020-12-16
+ER
+
+PT J
+AU Alves, ELG
+   Song, M
+   Massoni, T
+   Machado, PDL
+   Kim, M
+AF Alves, Everton L. G.
+   Song, Myoungkyu
+   Massoni, Tiago
+   Machado, Patricia D. L.
+   Kim, Miryung
+TI Refactoring Inspection Support for Manual Refactoring Edits
+SO IEEE TRANSACTIONS ON SOFTWARE ENGINEERING
+LA English
+DT Article
+DE Refactoring; refactoring anomalies; code inspection
+ID IDENTIFICATION
+AB Refactoring is commonly performed manually, supported by regression testing, which serves as a safety net to provide confidence on the edits performed. However, inadequate test suites may prevent developers from initiating or performing refactorings. We propose REFDISTILLER, a static analysis approach to support the inspection of manual refactorings. It combines two techniques. First, it applies predefined templates to identify potential missed edits during manual refactoring. Second, it leverages an automated refactoring engine to identify extra edits that might be incorrect. REFDISTILLER also helps determine the root cause of detected anomalies. In our evaluation, REFDISTILLER identifies 97 percent of seeded anomalies, of which 24 percent are not detected by generated test suites. Compared to running existing regression test suites, it detects 22 times more anomalies, with 94 percent precision on average. In a study with 15 professional developers, the participants inspected problematic refactorings with REFDISTILLER versus testing only. With REFDISTILLER, participants located 90 percent of the seeded anomalies, while they located only 13 percent with testing. The results show REFDISTILLER can help check the correctness of manual refactorings.
+C1 [Alves, Everton L. G.] Univ Fed Campina Grande, Dept Comp Sci, BR-58109900 Campina Grande, Brazil.
+   [Song, Myoungkyu] Univ Nebraska Omaha, Dept Comp Sci, Omaha, NE 68182 USA.
+   [Massoni, Tiago] Univ Fed Campina Grande, Dept Comp Sci, BR-58429900 Campina Grande, PB, Brazil.
+   [Machado, Patricia D. L.] Univ Fed Campina Grande, Syst & Comp Dept, BR-58109900 Campina Grande, Brazil.
+   [Kim, Miryung] Univ Calif Los Angeles, Dept Comp Sci, Los Angeles, CA 90095 USA.
+RP Alves, ELG (corresponding author), Univ Fed Campina Grande, Dept Comp Sci, BR-58109900 Campina Grande, Brazil.
+EM everton@copin.ufcg.edu.br; mksong1117@gmail.com;
+   massoni@computacao.ufcg.edu.br; patricia@computacao.ufcg.edu.br;
+   miryung@cs.ucla.edu
+RI Massoni, Tiago/AAE-9376-2020; Machado, Patricia/B-5346-2009
+OI Massoni, Tiago/0000-0002-9423-7556; Machado,
+   Patricia/0000-0002-0661-0067
+FU National Science FoundationNational Science Foundation (NSF)
+   [CCF-1527923, CCF-1460325, CNS-1239498]; Google Faculty Award; National
+   Institute of Science and Technology for Software Engineering -
+   CNPq/Brasil [573964/2008-4]; Division of Computing and Communication
+   FoundationsNational Science Foundation (NSF)NSF - Directorate for
+   Computer & Information Science & Engineering (CISE) [1460325] Funding
+   Source: National Science Foundation
+FX This work was supported in part by the National Science Foundation under
+   grants CCF-1527923, CCF-1460325, CNS-1239498, a Google Faculty Award,
+   and by the National Institute of Science and Technology for Software
+   Engineering, funded by CNPq/Brasil, grant 573964/2008-4.
+CR Ackerman A. F., 1984, Software Validation, Inspection - Testing - Verification - Alternatives. Proceedings of the Symposium, P13
+   ACKERMAN AF, 1989, IEEE SOFTWARE, V6, P31, DOI 10.1109/52.28121
+   Alves E., 2014, P INT S FDN SOFTW EN
+   Alves E. L., 2016, ADDITIONAL ARTIFACTS
+   Alves ELG, 2017, J SYST SOFTWARE, V123, P223, DOI 10.1016/j.jss.2016.02.001
+   Alves ELG, 2015, 30TH ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING, VOLS I AND II, P1534, DOI 10.1145/2695664.2695811
+   Alves ELG, 2016, SOFTW TEST VERIF REL, V26, P402, DOI 10.1002/stvr.1603
+   Bavota G., 2012, 2012 12th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM 2012), P104, DOI 10.1109/SCAM.2012.20
+   Cornelio M, 2010, SCI COMPUT PROGRAM, V75, P106, DOI 10.1016/j.scico.2009.10.001
+   Daniel Brett, 2007, P 6 JOINT M EUR SOFT, P185, DOI DOI 10.1145/1287624.1287651
+   Dig D, 2005, PROC IEEE INT CONF S, P389
+   Do H, 2004, 2004 INTERNATIONAL SYMPOSIUM ON EMPIRICAL SOFTWARE ENGINEERING, PROCEEDINGS, P60
+   Do HS, 2004, 15TH INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING, PROCEEDINGS, P113
+   Fluri B, 2007, IEEE T SOFTWARE ENG, V33, P725, DOI 10.1109/TSE.2007.70731
+   Fokaefs M, 2012, J SYST SOFTWARE, V85, P2241, DOI 10.1016/j.jss.2012.04.013
+   Foster SR, 2012, PROC INT CONF SOFTW, P222, DOI 10.1109/ICSE.2012.6227191
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Fraser G., 2011, P 19 ACM SIGSOFT S 1, P416, DOI [10.1145/2025113.2025179., DOI 10.1145/2025113.2025179]
+   Ge J. W. X., 2014, REFACTORING AWARE CO
+   Ge X., 2014, P 7 INT WORKSH COOP, P99, DOI DOI 10.1145/2593702.2593706
+   Ge X, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P1095, DOI 10.1145/2568225.2568280
+   Ge X, 2012, PROC INT CONF SOFTW, P211, DOI 10.1109/ICSE.2012.6227192
+   GLIGORIC M, 2013, PROC EUR CONF OBJ, V7920, P629
+   Gligoric Milos, 2010, P 32 INT C SOFTW ENG, V1, P225, DOI DOI 10.1145/1806799.1806835
+   Kim M., 2012, P ACM SIGSOFT 20 INT
+   Kim M, 2011, 2011 33RD INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), P151, DOI 10.1145/1985793.1985815
+   Mens T, 2005, J SOFTW MAINT EVOL-R, V17, P247, DOI 10.1002/smr.316
+   Mens T, 2004, IEEE T SOFTWARE ENG, V30, P126, DOI 10.1109/TSE.2004.1265817
+   Mongiovi M, 2014, SCI COMPUT PROGRAM, V93, P39, DOI 10.1016/j.scico.2013.11.001
+   Murphy GC, 2006, IEEE SOFTWARE, V23, P76, DOI 10.1109/MS.2006.105
+   Murphy-Hill E., 2008, P ACM IEEE 30 INT C, P421
+   Murphy-Hill E, 2012, IEEE T SOFTWARE ENG, V38, P5, DOI 10.1109/TSE.2011.41
+   Negara S, 2013, LECT NOTES COMPUT SC, V7920, P552, DOI 10.1007/978-3-642-39038-8_23
+   Negara S, 2012, LECT NOTES COMPUT SC, V7313, P79, DOI 10.1007/978-3-642-31057-7_5
+   Opdyke WF, 1990, P S OBJ OR PROGR EMP
+   Overbey J. L., 2011, 2011 26th IEEE/ACM International Conference on Automated Software Engineering, P303, DOI 10.1109/ASE.2011.6100067
+   Overbey JL, 2010, ACM SIGPLAN FORTRAN, V29, P11
+   Pacheco C., 2007, COMP 22 ACM SIGPLAN, P815, DOI DOI 10.1145/1297846.1297902
+   Prete K., 2010, P 2010 IEEE INT C SO, P1, DOI DOI 10.1109/ICSM.2010.5609577
+   Rachatasumrit N, 2012, 2012 28TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE MAINTENANCE (ICSM), P357, DOI 10.1109/ICSM.2012.6405293
+   Schafer M, 2010, ACM SIGPLAN NOTICES, V45, P286, DOI 10.1145/1932682.1869485
+   Soares G., 2011, Proceedings of the 2011 25th Brazilian Symposium on Software Engineering (SBES 2011), P164, DOI 10.1109/SBES.2011.21
+   Soares G, 2013, IEEE T SOFTWARE ENG, V39, P147, DOI 10.1109/TSE.2012.19
+   Soares G, 2010, IEEE SOFTWARE, V27, P52, DOI 10.1109/MS.2010.63
+   Tsantalis N, 2009, IEEE T SOFTWARE ENG, V35, P347, DOI 10.1109/TSE.2009.1
+   Vakilian M., 2011, P 3 ACM SIGPLAN WORK, P31, DOI DOI 10.1145/2089155.2089164
+   Vakilian M, 2012, PROC INT CONF SOFTW, P233, DOI 10.1109/ICSE.2012.6227190
+   Weissgerber P., 2006, P 2006 INT WORKSH MI, P112, DOI DOI 10.1145/1137983.1138011
+   Zhang LM, 2011, 22ND IEEE INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING (ISSRE), P170, DOI 10.1109/ISSRE.2011.26
+NR 49
+TC 2
+Z9 2
+U1 0
+U2 5
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0098-5589
+EI 1939-3520
+J9 IEEE T SOFTWARE ENG
+JI IEEE Trans. Softw. Eng.
+PD APR
+PY 2018
+VL 44
+IS 4
+BP 365
+EP 383
+DI 10.1109/TSE.2017.2679742
+PG 19
+WC Computer Science, Software Engineering; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA GF4CH
+UT WOS:000431906800003
+OA Bronze
+DA 2020-12-16
+ER
+
+PT B
+AU Beltran, JD
+   Boscor, A
+   dos Santos, WP
+   Massoni, T
+   Kostkova, P
+AF Beltran, Juan D.
+   Boscor, Andrei
+   dos Santos, Wellington P.
+   Massoni, Tiago
+   Kostkova, Patty
+GP Assoc Comp Machinery
+TI ZIKA: A New System to Empower Health Workers and Local Communities to
+   Improve Surveillance Protocols by E-learning and to Forecast Zika Virus
+   in Real Time in Brazil
+SO DH '18: PROCEEDINGS OF THE 2018 INTERNATIONAL CONFERENCE ON DIGITAL
+   HEALTH
+LA English
+DT Proceedings Paper
+CT 8th International Conference on Digital Health (DH)
+CY APR 23-26, 2018
+CL Lyon, FRANCE
+SP ACM Special Interest Grp Knowledge Discovery & Data Mining, ICPS, Digital Biomarkers, Frost & Sullivan, WEB Conference, Int Journal Environm Res & Publ Hlth, Invest Lyon, UCL IRDR, UCL European Inst, Maddyness
+DE Zika virus; big data; surveillance; forecasting; e-learning
+ID TRANSMISSION; INFECTION; AMERICA; BRAIN
+AB The devastating consequences of neonates infected with the Zika virus makes it necessary to fight and stop the spread of this virus and its vectors (Aedes mosquitoes). An essential part of the fight against mosquitoes is the use of mobile technology to support routine surveillance and risk assessment by community health workers (health agents). In addition, to improve early warning systems, the public health authorities need to forecast more accurately where an outbreak of the virus and its vector is likely to occur. The ZIK. system aims to develop a novel comprehensive framework that combines e-learning to empower health agents, community-based participatory surveillance, and forecasting of occurrences and distribution of the Zika virus and its vectors in real time. This system is currently being implemented in Brazil, in the cities of Campina Grande, Recife, Jaboatao dos Guararapes, and Olinda, the State of Pernambuco and Paraiba with the highest prevalence of the Zika virus disease. In this paper, we present the ZIKA system which helps health agents to learn new techniques and good practices to improve the surveillance of the virus and offer a real time distribution forecast of the virus and the vector. The forecast model is recalibrated in real time with information coming from health agents, governmental institutions, and weather stations to predict the areas with higher risk of a Zika virus outbreak in an interactive map. This mapping and alert system will help governmental institutions to make fast decisions and use their resources more efficiently to stop the spread of the Zika virus. The ZIKA app was developed and built in Ionic which allows for easy cross-platform rendering for both iOS and Android. The system presented in the current paper is one of the first systems combining public health surveillance, citizen-driven participatory reporting and weather data-based prediction. The implementation of the ZIKA system will reduce the devastating consequences of Zika virus in neonates and improve the life quality of vulnerable people in Brazil.
+C1 [Beltran, Juan D.; Boscor, Andrei; Kostkova, Patty] UCL, Inst Risk & Disaster Reduct, London, England.
+   [dos Santos, Wellington P.] Univ Fed Pernambuco, Dept Biomed Engn, Recife, PE, Brazil.
+   [Massoni, Tiago] Univ Fed Campina Grande, Dept Syst & Comp, Campina Grande, Paraiba, Brazil.
+RP Beltran, JD (corresponding author), UCL, Inst Risk & Disaster Reduct, London, England.
+EM juan.beltran@ucl.ac.uk; andrei.boscor.14@ucl.ac.uk;
+   wellington.santos@ufpe.br; massoni@computacao.ufcg.edu.br;
+   p.kostkova@ucl.ac.uk
+RI Massoni, Tiago/AAE-9376-2020; Santos, Wellington P/F-9052-2012
+OI Massoni, Tiago/0000-0002-9423-7556; Santos, Wellington
+   P/0000-0003-2558-6602
+FU British Council Newton Fund [280860230]
+FX This work was supported by the British Council Newton Fund No.
+   280860230.
+CR Afsahi S, 2018, BIOSENS BIOELECTRON, V100, P85, DOI 10.1016/j.bios.2017.08.051
+   Alam A, 2017, BIOMED PHARMACOTHER, V91, P1152, DOI 10.1016/j.biopha.2017.05.045
+   ATTAR N, 2016, NAT REV MICROBIOL, V14, P62, DOI DOI 10.1038/NRMICR0.2015.28
+   Barata G, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0190482
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Carlson CJ, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004968
+   de Quincey E, 2009, ELECT HEALTHCARE, P21, DOI [10.1007/978-3-642-11745-9_4, DOI 10.1007/978-3-642-11745-9_4]
+   Faria NR, 2016, SCIENCE, V352, P345, DOI 10.1126/science.aaf5036
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   Gulland A, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i595
+   Javed F, 2017, J BASIC MICROB, V2017, P3
+   Kindhauser MK, 2016, B WORLD HEALTH ORGAN, V94, P86
+   Kostkova P, 2017, ACM P DIG HLTH 2017, V1
+   Kostkova P, 2013, P 22 INT C WORLD WID
+   Kostkova P, 2014, ACM TRANS MANAG INF, V5, DOI 10.1145/2597892
+   Kostkova P, 2015, FRONT PUBLIC HEALTH, V3, DOI 10.3389/fpubh.2015.00134
+   Martines RB, 2016, MMWR-MORBID MORTAL W, V65, P159, DOI 10.15585/mmwr.mm6506e1
+   McGough SF, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005295
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Messina JP, 2016, ELIFE, V5, DOI 10.7554/eLife.15272
+   Musso D, 2015, EMERG INFECT DIS, V21, P359, DOI 10.3201/eid2102.141363
+   Paz S, 2016, LANCET, V387, P745, DOI 10.1016/S0140-6736(16)00256-7
+   Samy AM, 2016, MEM I OSWALDO CRUZ, V111, P559, DOI 10.1590/0074-02760160149
+   Szomszor M., 2010, LECT NOTES I COMPUTE, V69, P18, DOI DOI 10.1007/978-3-642-23635-8_3
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 25
+TC 4
+Z9 4
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+BN 978-1-4503-6493-5
+PY 2018
+BP 90
+EP 94
+DI 10.1145/3194658.3194683
+PG 5
+WC Computer Science, Interdisciplinary Applications; Public, Environmental
+   & Occupational Health; Medical Informatics
+SC Computer Science; Public, Environmental & Occupational Health; Medical
+   Informatics
+GA BM1RY
+UT WOS:000460466600015
+DA 2020-12-16
+ER
+
+PT J
+AU Alves, ELG
+   Massoni, T
+   Machado, PDDL
+AF Alves, Everton L. G.
+   Massoni, Tiago
+   Machado, Patricia Duarte de Lima
+TI Test coverage of impacted code elements for detecting refactoring
+   faults: An exploratory study
+SO JOURNAL OF SYSTEMS AND SOFTWARE
+LA English
+DT Article
+DE Testing; Refactoring; Coverage
+ID MUTATION; TOOL
+AB Refactoring validation by testing is critical for quality in agile development. However, this activity may be misleading when a test suite is insufficiently robust for revealing faults. Particularly, refactoring faults can be tricky and difficult to detect. Coverage analysis is a standard practice to evaluate fault detection capability of test suites. However, there is usually a low correlation between coverage and fault detection. In this paper, we present an exploratory study on the use of coverage data of mostly impacted code elements to identify shortcomings in a test suite. We consider three real open source projects and their original test suites. The results show that a test suite not directly calling the refactored method and/or its callers increases the chance of missing the fault. Additional analysis of branch coverage on test cases shows that there are higher chances of detecting a refactoring fault when branch coverage is high. These results give evidence that a combination of impact analysis with branch coverage could be highly effective in detecting faults introduced by refactoring edits. Furthermore, we propose a statistic model that evidences the correlation of coverage over certain code elements and the suite's capability of revealing refactoring faults. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Alves, Everton L. G.; Machado, Patricia Duarte de Lima] Univ Fed Campina Grande, Rua Aprigio Veloso 882, Campina Grande, PB, Brazil.
+   [Massoni, Tiago] Univ Fed Campina Grande, Comp & Syst Dept, Rua Aprigio Veloso 882, Campina Grande, PB, Brazil.
+RP Alves, ELG (corresponding author), Univ Fed Campina Grande, Rua Aprigio Veloso 882, Campina Grande, PB, Brazil.
+EM everton@copin.ufcg.edu.br; tiago@computacao.ufcg.edu.br;
+   patricia@computacao.ufcg.edu.br
+RI Massoni, Tiago/AAE-9376-2020; Machado, Patricia/B-5346-2009
+OI Massoni, Tiago/0000-0002-9423-7556; Machado,
+   Patricia/0000-0002-0661-0067
+FU National Institute of Science and Technology for Software Engineering;
+   CNPq/BrasilNational Council for Scientific and Technological Development
+   (CNPq) [573964/2008-4]
+FX This work was partially supported by the National Institute of Science
+   and Technology for Software Engineering, funded by CNPq/Brasil, Grant
+   573964/2008-4.
+CR Alves E., 2012, SPLAB2012002 UFCG
+   Alves E.L., 2014, P 30 ACM SI IN PRESS
+   Alves E.L., 2014, P 22 ACM SI IN PRESS
+   Alves ELG, 2012, SPLAB2012001 UFCG
+   Alves ELG, 2013, 2013 8TH INTERNATIONAL WORKSHOP ON AUTOMATION OF SOFTWARE TEST (AST), P93, DOI 10.1109/IWAST.2013.6595798
+   Andrews JH, 2005, PROC INT CONF SOFTW, P402, DOI 10.1145/1062455.1062530
+   Andrews JH, 2003, IEEE T SOFTWARE ENG, V29, P634, DOI 10.1109/TSE.2003.1214327
+   Bavota G., 2012, 2012 12th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM 2012), P104, DOI 10.1109/SCAM.2012.20
+   Briand L., 1999, Proceedings 10th International Symposium on Software Reliability Engineering (Cat. No.PR00443), P148, DOI 10.1109/ISSRE.1999.809319
+   Briand LC, 2004, PROC INT CONF SOFTW, P86, DOI 10.1109/ICSE.2004.1317431
+   CAI X, 2005, ACM SIGSOFT SOFTWARE, V30, P1, DOI DOI 10.1145/1082983.1083288
+   Cornelio M, 2010, SCI COMPUT PROGRAM, V75, P106, DOI 10.1016/j.scico.2009.10.001
+   Daniel Brett, 2007, P 6 JOINT M EUR SOFT, P185, DOI DOI 10.1145/1287624.1287651
+   Dig D, 2005, PROC IEEE INT CONF S, P389
+   Field A. P., 2012, DISCOVERING STAT USI
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Frankl P. G., 1998, Software Engineering Notes, V23, P153
+   Frankl PG, 1997, J SYST SOFTWARE, V38, P235, DOI 10.1016/S0164-1212(96)00154-9
+   FRANKL PG, 1991, P S TEST AN VER TAV4, P154, DOI DOI 10.1145/120807.120821
+   Gargantini Angelo, 2012, Testing Software and Systems. 24th IFIP WG 6.1 International Conference (ICTSS 2012). Proceedings, P168, DOI 10.1007/978-3-642-34691-0_13
+   Ge X, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P1095, DOI 10.1145/2568225.2568280
+   Gligoric Milos, 2013, P 2013 INT S SOFTW T, P302, DOI DOI 10.1145/2483760.2483769
+   Hosmer D.W., 2000, INTRO LOGISTIC RE GR
+   INOZEMTSEVA L, 2014, ICSE, P435
+   Just R, 2014, P ACM SIGSOFT INT S
+   Kim M., 2012, P ACM SIGSOFT 20 INT
+   Kim M, 2011, 2011 33RD INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), P151, DOI 10.1145/1985793.1985815
+   Kim SW, 2001, SOFTW TEST VERIF REL, V11, P207, DOI 10.1002/stvr.238
+   Lee YY, 2013, PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2013), P23, DOI 10.1109/ICSE.2013.6606548
+   Lingming Zhang, 2011, 2011 IEEE 27th International Conference on Software Maintenance, P23, DOI 10.1109/ICSM.2011.6080769
+   Memon A, 2003, 18TH IEEE INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING, PROCEEDINGS, P164, DOI 10.1109/ASE.2003.1240304
+   Mens T, 2004, IEEE T SOFTWARE ENG, V30, P126, DOI 10.1109/TSE.2004.1265817
+   Moser R, 2008, LECT NOTES COMPUT SC, V5082, P252
+   Murphy GC, 2006, IEEE SOFTWARE, V23, P76, DOI 10.1109/MS.2006.105
+   Murphy-Hill E, 2012, IEEE T SOFTWARE ENG, V38, P5, DOI 10.1109/TSE.2011.41
+   Negara S, 2013, LECT NOTES COMPUT SC, V7920, P552, DOI 10.1007/978-3-642-39038-8_23
+   Perry W. E., 2006, EFFECTIVE METHODS SO
+   Ren XX, 2004, ACM SIGPLAN NOTICES, V39, P432, DOI 10.1145/1035292.1029012
+   Ryder BG, 2001, ACM SIGPLAN NOTICES, P46
+   Soares G., 2011, Proceedings of the 2011 25th Brazilian Symposium on Software Engineering (SBES 2011), P164, DOI 10.1109/SBES.2011.21
+   Soares G, 2013, IEEE T SOFTWARE ENG, V39, P147, DOI 10.1109/TSE.2012.19
+   Soares G, 2010, IEEE SOFTWARE, V27, P52, DOI 10.1109/MS.2010.63
+   Weissgerber P., 2006, P 2006 INT WORKSH MI, P112, DOI DOI 10.1145/1137983.1138011
+   Wong W. E., 1994, Proceedings. 5th International Symposium on Software Reliability Engineering (Cat. No.94TH8017), P230, DOI 10.1109/ISSRE.1994.341379
+   Xing Zhenchang, 2005, P 20 IEEE ACM INT C, P54, DOI DOI 10.1145/1101908.1101919
+NR 45
+TC 4
+Z9 5
+U1 0
+U2 0
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0164-1212
+EI 1873-1228
+J9 J SYST SOFTWARE
+JI J. Syst. Softw.
+PD JAN
+PY 2017
+VL 123
+BP 223
+EP 238
+DI 10.1016/j.jss.2016.02.001
+PG 16
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA ED8CR
+UT WOS:000389100100015
+DA 2020-12-16
+ER
+
+PT J
+AU Alves, ELG
+   Machado, PDL
+   Massoni, T
+   Kim, M
+AF Alves, Everton L. G.
+   Machado, Patricia D. L.
+   Massoni, Tiago
+   Kim, Miryung
+TI Prioritizing test cases for early detection of refactoring faults
+SO SOFTWARE TESTING VERIFICATION & RELIABILITY
+LA English
+DT Article
+DE test case prioritization; refactoring; automated software testing
+ID CHANGE IMPACT ANALYSIS; SELECTION; CHIANTI; TOOL
+AB Refactoring edits are error-prone, requiring cost-effective testing. Regression test suites are often used as a safety net for decreasing the chances of behavioural changes. Because of the high costs related to handling massive test suites, prioritization techniques can be applied to reorder test case execution, fostering early fault detection. However, traditional prioritization techniques are not specifically designed for detecting refactoring-related faults. This article proposes refactoring-based approach (RBA), a refactoring-aware strategy for prioritizing regression test cases. RBA reorders an existing test sequence, using a set of proposed refactoring fault models that define the refactoring's impact on program methods.
+   Refactoring-based approach's evaluation shows that it promotes early detection of refactoring faults and outperforms well-known prioritization techniques in 71% of the cases.
+   Moreover, it prioritizes fault-revealing test cases close to one another in 73% of the cases, which can be useful for fault localization. Those findings show that RBA can considerably improve prioritization of test cases during perfective evolution, both by increasing fault-detection rates as well as by helping to pinpoint defects introduced by an incorrect refactoring. Copyright (C) 2016 John Wiley & Sons, Ltd.
+C1 [Alves, Everton L. G.; Machado, Patricia D. L.; Massoni, Tiago] Univ Fed Campina Grande, BR-58429900 Campina Grande, Brazil.
+   [Kim, Miryung] Univ Calif Los Angeles, Los Angeles, CA 90095 USA.
+RP Alves, ELG (corresponding author), Univ Fed Campina Grande, BR-58429900 Campina Grande, Brazil.
+EM everton@copin.ufcg.edu.br
+RI Machado, Patricia/B-5346-2009; Massoni, Tiago/AAE-9376-2020
+OI Machado, Patricia/0000-0002-0661-0067; Massoni,
+   Tiago/0000-0002-9423-7556
+FU Direct For Computer & Info Scie & EnginrNational Science Foundation
+   (NSF)NSF - Directorate for Computer & Information Science & Engineering
+   (CISE) [1460325] Funding Source: National Science Foundation
+CR Alves E, 2013, P 7 BRAZ WORKSH SYST
+   Alves ELG, 2012, SPLAB2012001 UFCG
+   Alves ELG, 2013, 2013 8TH INTERNATIONAL WORKSHOP ON AUTOMATION OF SOFTWARE TEST (AST), P93, DOI 10.1109/IWAST.2013.6595798
+   Arnold RS, 1996, INTRO SOFTWARE CHANG, V1, P1
+   Catal C, 2013, SOFTWARE QUAL J, V21, P445, DOI 10.1007/s11219-012-9181-z
+   Chen TY, 2004, LECT NOTES COMPUT SC, V3321, P320
+   Cornelio M, 2010, SCI COMPUT PROGRAM, V75, P106, DOI 10.1016/j.scico.2009.10.001
+   Daniel Brett, 2008, 2008 23rd IEEE/ACM International Conference on Automated Software Engineering, P363, DOI 10.1109/ASE.2008.49
+   Daniel B, 2007, ESEC FSE 2007 P ACM
+   Daniel Brett, 2007, P 6 JOINT M EUR SOFT, P185, DOI DOI 10.1145/1287624.1287651
+   Dig D, 2005, PROC IEEE INT CONF S, P389
+   Elbaum S, 2002, IEEE T SOFTWARE ENG, V28, P159, DOI 10.1109/32.988497
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Fraser G., 2011, P 19 ACM SIGSOFT S 1, P416, DOI [10.1145/2025113.2025179., DOI 10.1145/2025113.2025179]
+   Ge X, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P1095, DOI 10.1145/2568225.2568280
+   Gligoric Milos, 2010, P 32 INT C SOFTW ENG, V1, P225, DOI DOI 10.1145/1806799.1806835
+   Gonzalez-Sanchez Alberto, 2010, Proceedings of the Tenth International Conference on Quality Software (QSIC 2010), P42, DOI 10.1109/QSIC.2010.28
+   Grove D, 1997, ACM SIGPLAN NOTICES, V32, P108, DOI 10.1145/263700.264352
+   Inkumsah Kobi, 2008, 2008 23rd IEEE/ACM International Conference on Automated Software Engineering, P297, DOI 10.1109/ASE.2008.40
+   Jain R, 1991, ART COMPUTER SYSTEMS, V182
+   Jeffrey D, 2006, P INT COMP SOFTW APP, P411
+   Jiang B, 2009, IEEE INT CONF AUTOM, P233, DOI 10.1109/ASE.2009.77
+   Jiang B, 2009, P INT COMP SOFTW APP, P99, DOI 10.1109/COMPSAC.2009.23
+   Jones J. A., 2005, P 20 IEEE ACM INT C, P273, DOI DOI 10.1145/1101908.1101949
+   Kazarlis SA, 1996, IEEE T POWER SYST, V11, P83, DOI 10.1109/59.485989
+   Kim M., 2012, P ACM SIGSOFT 20 INT
+   Kim M., 2010, P 18 ACM SIGSOFT INT, P371, DOI [DOI 10.1145/1882291.1882353, 10.1145/1882291.1882353]
+   Korel B, 2005, PROC IEEE INT CONF S, P559
+   Law J, 2003, PROC INT CONF SOFTW, P308, DOI 10.1109/ICSE.2003.1201210
+   Lee YY, 2013, PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2013), P23, DOI 10.1109/ICSE.2013.6606548
+   Leung H K N, 1989, P IEEE INT C SOFTW M, P60, DOI DOI 10.1109/ICSM.1989.65194
+   Li Z, 2007, IEEE T SOFTWARE ENG, V33, P225, DOI 10.1109/TSE.2007.38
+   Lingming Zhang, 2011, 2011 IEEE 27th International Conference on Software Maintenance, P23, DOI 10.1109/ICSM.2011.6080769
+   MacCormack A, 2006, MANAGE SCI, V52, P1015, DOI 10.1287/mnsc.1060.0552
+   Mei H, 2012, IEEE T SOFTWARE ENG, V38, P1258, DOI 10.1109/TSE.2011.106
+   Mei L., 2009, P 18 INT C WORLD WID, P901, DOI DOI 10.1145/1526709.1526830
+   Mei LJ, 2011, J SYST SOFTWARE, V84, P603, DOI 10.1016/j.jss.2010.11.905
+   Mens T, 2004, IEEE T SOFTWARE ENG, V30, P126, DOI 10.1109/TSE.2004.1265817
+   Mens T, 2006, ELECTRON NOTES THEOR, V152, P125, DOI 10.1016/j.entcs.2005.10.021
+   Mongiovi M, 2014, SCI COMPUT PROGRAM, V93, P39, DOI 10.1016/j.scico.2013.11.001
+   Murphy GC, 2006, IEEE SOFTWARE, V23, P76, DOI 10.1109/MS.2006.105
+   Murphy-Hill E, 2012, IEEE T SOFTWARE ENG, V38, P5, DOI 10.1109/TSE.2011.41
+   Naumann DA, 2012, REFACTORING REPRESEN
+   Negara S, 2013, COMP STUDY MANUAL AU
+   Overbey JL, 2010, ACM SIGPLAN FORTRAN, V29, P11
+   Park H, 2008, PROCEEDINGS OF THE SECOND INTERNATIONAL CONFERENCE ON INFORMATION SECURITY AND ASSURANCE, P32
+   Rachatasumrit N, 2012, 2012 28TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE MAINTENANCE (ICSM), P357, DOI 10.1109/ICSM.2012.6405293
+   Ramanathan MK, 2008, APPLIED COMPUTING 2008, VOLS 1-3, P667
+   Ren XX, 2005, PROC INT CONF SOFTW, P664, DOI 10.1145/1062455.1062598
+   Ren XX, 2004, ACM SIGPLAN NOTICES, V39, P432, DOI 10.1145/1035292.1029012
+   Rocha J, 2012, P 3 BRAZ C SOFTW THE, V4, P43
+   Rothermel G, 2001, IEEE T SOFTWARE ENG, V27, P929, DOI 10.1109/32.962562
+   Rothermel G., 1999, Proceedings IEEE International Conference on Software Maintenance - 1999 (ICSM'99). `Software Maintenance for Business Change' (Cat. No.99CB36360), P179, DOI 10.1109/ICSM.1999.792604
+   Rothermel G, 2000, SOFTW TEST VERIF REL, V10, P77, DOI 10.1002/1099-1689(200006)10:2<77::AID-STVR197>3.0.CO;2-E
+   Rummel MJ, 2005, P 20 S APPL COMP
+   Ruth M., 2007, P 2 INT C INT WEB AP, P47
+   Sanchez AB, 2014, 2014 IEEE SEVENTH INTERNATIONAL CONFERENCE ON SOFTWARE TESTING, VERIFICATION AND VALIDATION (ICST), P41, DOI 10.1109/ICST.2014.15
+   Singh Y, SPECIAL ISSUE ADV NE, V379
+   Soares G, 2009, TOOLS SESSION SBES, P49
+   Soares G, 2012, P 3 ANN C SYST PROGR, P49
+   Soares G, 2013, IEEE T SOFTWARE ENG, V39, P147, DOI 10.1109/TSE.2012.19
+   Soares G, 2010, IEEE SOFTWARE, V27, P52, DOI 10.1109/MS.2010.63
+   Srikanth H, 2005, 2005 INTERNATIONAL SYMPOSIUM ON EMPIRICAL SOFTWARE ENGINEERING (ISESE), PROCEEDINGS, P62, DOI 10.1109/ISESE.2005.1541815
+   Srivastava A., 2002, Software Engineering Notes, V27, P97
+   Stoerzer M., 2006, P 14 ACM SIGSOFT INT, P57
+   Vakilian M, 2012, PROC INT CONF SOFTW, P233, DOI 10.1109/ICSE.2012.6227190
+   Walcott K. R., 2006, P INT S SOFTW TEST A, P1, DOI DOI 10.1145/1146238.1146240
+   Wang WE, 1997, EIGHTH INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING, PROCEEDINGS, P264, DOI 10.1109/ISSRE.1997.630875
+   Weissgerber P., 2006, P 2006 INT WORKSH MI, P112, DOI DOI 10.1145/1137983.1138011
+   Wloka J, 2010, IEEE SOFTWARE, V27, P66, DOI 10.1109/MS.2009.159
+   Wohlin C., 2012, EXPT SOFTWARE ENG
+   Xia X., 2014, AUTOMAT SOFTW ENG, P1
+   Xing Zhenchang, 2005, P 20 IEEE ACM INT C, P54, DOI DOI 10.1145/1101908.1101919
+   Yoo S, 2012, SOFTW TEST VERIF REL, V22, P67, DOI [10.1002/stvr.430, 10.1002/stv.430]
+   Zhang L, 2012, FAULTTRACER CHANGE I
+   Zhang LM, 2013, PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2013), P192, DOI 10.1109/ICSE.2013.6606565
+NR 76
+TC 10
+Z9 11
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0960-0833
+EI 1099-1689
+J9 SOFTW TEST VERIF REL
+JI Softw. Test. Verif. Reliab.
+PD AUG
+PY 2016
+VL 26
+IS 5
+BP 402
+EP 426
+DI 10.1002/stvr.1603
+PG 25
+WC Computer Science, Software Engineering
+SC Computer Science
+GA DV4YP
+UT WOS:000382932100004
+DA 2020-12-16
+ER
+
+PT B
+AU Alves, ELG
+   Massoni, T
+   Machado, PDL
+AF Alves, Everton L. G.
+   Massoni, Tiago
+   Machado, Patricia D. L.
+BE Shin, D
+TI Test Coverage and Impact Analysis for Detecting Refactoring Faults: A
+   Study on the Extract Method Refactoring
+SO 30TH ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING, VOLS I AND II
+LA English
+DT Proceedings Paper
+CT 30th ACM Symposium on Applied Computing (SAC)
+CY APR 13-17, 2015
+CL Salamanca, SPAIN
+SP ACM, ACM Special Interest Grp Appl Comp, Telefonica, IBM
+DE Testing; Refactoring; Coverage
+AB Refactoring validation by automated testing is a common practice in agile development processes. However, this practice can be misleading when the test suite is not adequate. Particularly, refactoring faults can be tricky and difficult to detect. While coverage analysis is a standard practice to evaluate a test suite's fault detection capability, there is usually low correlation between coverage and fault detection. In this paper, we present an exploratory study on coverage of refactoring-impacted code, in order to identify shortcomings of test suites, focusing on the Extract Method Refactoring. We consider three open-source projects and their test suites. The results show that, in most cases, the lacking of test case calling the method changed in the refactoring increases the chance of missing faults. Also, a high proportion of test cases that do not cover the callers of that method does not reveal the fault either. Additional analysis of branch coverage on the test cases exercising impacted elements show a higher chance of detecting a fault when branch coverage is also high. It seems reasonable to conclude that a combination of impact analysis with branch coverage could be highly effective in detecting faults introduced by Extract Method.
+C1 [Alves, Everton L. G.; Massoni, Tiago; Machado, Patricia D. L.] Univ Fed Campina Grande, Campina Grande, PB, Brazil.
+RP Alves, ELG (corresponding author), Univ Fed Campina Grande, Campina Grande, PB, Brazil.
+RI Machado, Patricia/B-5346-2009; Massoni, Tiago/AAE-9376-2020
+OI Machado, Patricia/0000-0002-0661-0067; Massoni,
+   Tiago/0000-0002-9423-7556
+CR Alves E. L., 2014, P 22 ACM SIGSOFT INT
+   Alves ELG, 2013, 2013 8TH INTERNATIONAL WORKSHOP ON AUTOMATION OF SOFTWARE TEST (AST), P93, DOI 10.1109/IWAST.2013.6595798
+   Briand L., 1999, 10 INT S SOFTW REL E, P148
+   CAI X, 2005, ACM SIGSOFT SOFTWARE, V30, P1, DOI DOI 10.1145/1082983.1083288
+   Cornelio M, 2010, SCI COMPUT PROGRAM, V75, P106, DOI 10.1016/j.scico.2009.10.001
+   Daniel Brett, 2007, P 6 JOINT M EUR SOFT, P185, DOI DOI 10.1145/1287624.1287651
+   Dig D, 2005, PROC IEEE INT CONF S, P389
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Frankl P. G., 1998, Software Engineering Notes, V23, P153
+   Frankl PG, 1997, J SYST SOFTWARE, V38, P235, DOI 10.1016/S0164-1212(96)00154-9
+   FRANKL PG, 1991, P S TEST AN VER TAV4, P154, DOI DOI 10.1145/120807.120821
+   Ge X, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P1095, DOI 10.1145/2568225.2568280
+   Gligoric Milos, 2013, P 2013 INT S SOFTW T, P302, DOI DOI 10.1145/2483760.2483769
+   Inozemtseva L, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P435, DOI 10.1145/2568225.2568271
+   Kim M., 2012, P ACM SIGSOFT 20 INT
+   Kim M, 2011, 2011 33RD INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), P151, DOI 10.1145/1985793.1985815
+   Lee YY, 2013, PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2013), P23, DOI 10.1109/ICSE.2013.6606548
+   Lingming Zhang, 2011, 2011 IEEE 27th International Conference on Software Maintenance, P23, DOI 10.1109/ICSM.2011.6080769
+   Murphy GC, 2006, IEEE SOFTWARE, V23, P76, DOI 10.1109/MS.2006.105
+   Negara S, 2013, LECT NOTES COMPUT SC, V7920, P552, DOI 10.1007/978-3-642-39038-8_23
+   Perry W. E., 2006, EFFECTIVE METHODS SO
+   Ren XX, 2004, ACM SIGPLAN NOTICES, V39, P432, DOI 10.1145/1035292.1029012
+   Ryder BG, 2001, ACM SIGPLAN NOTICES, P46
+   Soares G., 2011, Proceedings of the 2011 25th Brazilian Symposium on Software Engineering (SBES 2011), P164, DOI 10.1109/SBES.2011.21
+   SOARES G, 2013, SOFTWARE ENG IEEE T, V39, P147, DOI DOI 10.1109/TSE.2012.19
+   Soares G, 2010, IEEE SOFTWARE, V27, P52, DOI 10.1109/MS.2010.63
+   Weissgerber P., 2006, P 2006 INT WORKSH MI, P112, DOI DOI 10.1145/1137983.1138011
+   Wong W. E., 1994, Proceedings. 5th International Symposium on Software Reliability Engineering (Cat. No.94TH8017), P230, DOI 10.1109/ISSRE.1994.341379
+   Xing Zhenchang, 2005, P 20 IEEE ACM INT C, P54, DOI DOI 10.1145/1101908.1101919
+NR 29
+TC 4
+Z9 4
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+PY 2015
+BP 1534
+EP 1540
+DI 10.1145/2695664.2695811
+PG 7
+WC Computer Science, Interdisciplinary Applications
+SC Computer Science
+GA BF4IX
+UT WOS:000381029800241
+DA 2020-12-16
+ER
+
+PT J
+AU Soares, G
+   Gheyi, R
+   Massoni, T
+AF Soares, Gustavo
+   Gheyi, Rohit
+   Massoni, Tiago
+TI Automated Behavioral Testing of Refactoring Engines
+SO IEEE TRANSACTIONS ON SOFTWARE ENGINEERING
+LA English
+DT Article
+DE Refactoring; automated testing; program generation
+ID SOFTWARE; GENERATION
+AB Refactoring is a transformation that preserves the external behavior of a program and improves its internal quality. Usually, compilation errors and behavioral changes are avoided by preconditions determined for each refactoring transformation. However, to formally define these preconditions and transfer them to program checks is a rather complex task. In practice, refactoring engine developers commonly implement refactorings in an ad hoc manner since no guidelines are available for evaluating the correctness of refactoring implementations. As a result, even mainstream refactoring engines contain critical bugs. We present a technique to test Java refactoring engines. It automates test input generation by using a Java program generator that exhaustively generates programs for a given scope of Java declarations. The refactoring under test is applied to each generated program. The technique uses SAFEREFACTOR, a tool for detecting behavioral changes, as an oracle to evaluate the correctness of these transformations. Finally, the technique classifies the failing transformations by the kind of behavioral change or compilation error introduced by them. We have evaluated this technique by testing 29 refactorings in Eclipse JDT, NetBeans, and the JastAdd Refactoring Tools. We analyzed 153,444 transformations, and identified 57 bugs related to compilation errors, and 63 bugs related to behavioral changes.
+C1 [Soares, Gustavo; Gheyi, Rohit; Massoni, Tiago] Fed Univ Campina Grande UFCG, Dept Comp & Syst DSC, BR-58429900 Campina Grande, PB, Brazil.
+RP Soares, G (corresponding author), Fed Univ Campina Grande UFCG, Dept Comp & Syst DSC, 882 Aprigio Veloso, BR-58429900 Campina Grande, PB, Brazil.
+EM gsoares@dsc.ufcg.edu.br; rohit@dsc.ufcg.edu.br; massoni@dsc.ufcg.edu.br
+RI Massoni, Tiago/AAE-9376-2020; Ines, INCT/J-9550-2013
+OI Massoni, Tiago/0000-0002-9423-7556; Gheyi, Rohit/0000-0002-5562-4449
+FU National Institute of Science and Technology for Software Engineering
+   (INES); CNPqNational Council for Scientific and Technological
+   Development (CNPq) [573964/2008-4, 477336/2009-4, 304470/2010-4,
+   480160/2011-2]
+FX The authors are grateful to Paul Strooper, Paulo Borba, Augusto Sampaio,
+   Max Schafer, and the anonymous referees for useful suggestions. This
+   work was partially supported by the National Institute of Science and
+   Technology for Software Engineering (INES), funded by CNPq grants
+   573964/2008-4, 477336/2009-4, 304470/2010-4, and 480160/2011-2.
+CR Balaban I, 2005, ACM SIGPLAN NOTICES, V40, P265, DOI 10.1145/1103845.1094832
+   Baresi L., 2010, 2010 32nd International Conference on Software Engineering (ICSE), P281, DOI 10.1145/1810295.1810353
+   BAZZICHI F, 1982, IEEE T SOFTWARE ENG, V8, P343, DOI 10.1109/TSE.1982.235428
+   Borba P, 2004, SCI COMPUT PROGRAM, V52, P53, DOI 10.1016/j.scico.2004.03.003
+   CELENTANO A, 1980, SOFTWARE PRACT EXPER, V10, P897, DOI 10.1002/spe.4380101104
+   Coppit D, 2005, IEEE T SOFTWARE ENG, V31, P328, DOI 10.1109/TSE.2005.52
+   Cornelio M., 2004, THESIS FED U PERNAMB
+   Daniel Brett, 2007, P 6 JOINT M EUR SOFT, P185, DOI DOI 10.1145/1287624.1287651
+   Dig D, 2005, PROC IEEE INT CONF S, P389
+   Eclipse.org, 2011, JDT COR COMP
+   Embarcadero Technologies, 2011, JBUILDER
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Fuhrer R, 2005, LECT NOTES COMPUT SC, V3586, P71
+   Gligoric Milos, 2010, P 32 INT C SOFTW ENG, V1, P225, DOI DOI 10.1145/1806799.1806835
+   Goodenough J. B., 1975, SIGPLAN Notices, V10, P493
+   Gosling J., 2005, JAVA LANGUAGE SPECIF
+   HANFORD KV, 1970, IBM SYST J, V9, P242, DOI 10.1147/sj.94.0242
+   Hoffman DM, 2011, SOFTWARE PRACT EXPER, V41, P427, DOI 10.1002/spe.1017
+   Jackson D., 2000, Proceedings of the 2000 International Conference on Software Engineering. ICSE 2000 the New Millennium, P730, DOI 10.1109/ICSE.2000.870482
+   Jackson D, 2006, SOFTWARE ABSTRACTION
+   Jagannath V, 2009, LECT NOTES COMPUT SC, V5503, P171
+   Jet Brains, 2011, INT ID
+   Korel B., 1998, Software Engineering Notes, V23, P143
+   Li HQ, 2008, LECT NOTES COMPUT SC, V5083, P19
+   Marinov D, 2001, 16TH ANNUAL INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE 2001), PROCEEDINGS, P22, DOI 10.1109/ASE.2001.989787
+   Mckeeman W., 1998, DIGIT TECH J, V10, P100
+   Mens T, 2004, IEEE T SOFTWARE ENG, V30, P126, DOI 10.1109/TSE.2004.1265817
+   Mens T, 2002, LECT NOTES COMPUT SC, V2505, P286
+   Murphy GC, 2006, IEEE SOFTWARE, V23, P76, DOI 10.1109/MS.2006.105
+   OPDYKE W, 1992, THESIS U ILLINOIS UR
+   Overbey J. L., 2011, 2011 26th IEEE/ACM International Conference on Automated Software Engineering, P303, DOI 10.1109/ASE.2011.6100067
+   Pacheco C, 2007, PROC INT CONF SOFTW, P75
+   Reichenbach C, 2009, LECT NOTES COMPUT SC, V5653, P394
+   Schafer M, 2010, ACM SIGPLAN NOTICES, V45, P286, DOI 10.1145/1932682.1869485
+   Schafer M, 2010, LECT NOTES COMPUT SC, V6183, P225, DOI 10.1007/978-3-642-14107-2_11
+   Schafer M, 2008, ACM SIGPLAN NOTICES, V43, P277, DOI 10.1145/1449955.1449787
+   Schafer M., 2009, P 23 EUR C OBJ OR PR, V5653, P369
+   Schafer M., 2011, REFACTORING BUGS
+   Schafer Max, 2008, P 3 WORKSH PROGR LAN, P67, DOI DOI 10.1145/1481848.1481859
+   Silva L, 2008, SEFM 2008: SIXTH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND FORMAL METHODS, PROCEEDINGS, P217, DOI 10.1109/SEFM.2008.29
+   Soares G., 2011, 2011 IEEE 27th International Conference on Software Maintenance, P173, DOI 10.1109/ICSM.2011.6080784
+   Soares G, 2010, IEEE SOFTWARE, V27, P52, DOI 10.1109/MS.2010.63
+   Steimann F, 2009, LECT NOTES COMPUT SC, V5653, P419, DOI 10.1007/978-3-642-03013-0_19
+   Sun Microsystems, 2011, NETBEANS IDE
+   Tip F, 2003, ACM SIGPLAN NOTICES, V38, P13, DOI 10.1145/949343.949308
+   Tokuda L., 2001, Automated Software Engineering, V8, P89, DOI 10.1023/A:1008715808855
+   Wei Jin, 2010, Proceedings of the Third IEEE International Conference on Software Testing, Verification and Validation (ICST 2010), P137, DOI 10.1109/ICST.2010.64
+   Zhu H, 1997, ACM COMPUT SURV, V29, P366, DOI 10.1145/267580.267590
+NR 48
+TC 60
+Z9 60
+U1 0
+U2 10
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0098-5589
+EI 1939-3520
+J9 IEEE T SOFTWARE ENG
+JI IEEE Trans. Softw. Eng.
+PD FEB
+PY 2013
+VL 39
+IS 2
+BP 147
+EP 162
+DI 10.1109/TSE.2012.19
+PG 16
+WC Computer Science, Software Engineering; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA 079ML
+UT WOS:000314174500002
+DA 2020-12-16
+ER
+
+PT B
+AU Alves, ELG
+   Machado, PDL
+   Massoni, T
+   Santos, STC
+AF Alves, Everton L. G.
+   Machado, Patricia D. L.
+   Massoni, Tiago
+   Santos, Samuel T. C.
+GP IEEE
+TI A Refactoring-Based Approach for Test Case Selection and Prioritization
+SO 2013 8TH INTERNATIONAL WORKSHOP ON AUTOMATION OF SOFTWARE TEST (AST)
+LA English
+DT Proceedings Paper
+CT 8th International Workshop on Automation of Software Test (AST)
+CY MAY 18-19, 2013
+CL San Francisco, CA
+AB Refactoring edits, commonly applied during software development, may introduce faults in a previously-stable code. Therefore, regression testing is usually applied to check whether the code maintains its previous behavior. In order to avoid rerunning the whole regression suite, test case prioritization techniques have been developed to order test cases for earlier achievement of a given goal, for instance, improving the rate of fault detection during regression testing execution. However, as current techniques are usually general purpose, they may not be effective for early detection of refactoring faults. In this paper, we propose a refactoring-based approach for selecting and prioritizing regression test cases, which specializes selection/prioritization tasks according to the type of edit made. The approach has been evaluated through a case study that compares it to well-known prioritization techniques by using a real open-source Java system. This case study indicates that the approach can be more suitable for early detection of refactoring faults when comparing to the other prioritization techniques.
+C1 [Alves, Everton L. G.; Machado, Patricia D. L.; Massoni, Tiago; Santos, Samuel T. C.] Univ Fed Campina Grande, SPLab Software Practices Lab, Campina Grande, Brazil.
+RP Alves, ELG (corresponding author), Univ Fed Campina Grande, SPLab Software Practices Lab, Campina Grande, Brazil.
+EM everton@copin.ufcg.edu.br; patricia@computacao.ufcg.edu.br;
+   massoni@computacao.ufcg.edu.br; samuel.santos@ccc.ufcg.edu.br
+RI Machado, Patricia/B-5346-2009; Massoni, Tiago/AAE-9376-2020
+OI Machado, Patricia/0000-0002-0661-0067; Massoni,
+   Tiago/0000-0002-9423-7556
+CR Alves E., 2012, SPLAB2012002 UFCG
+   Alves E. L. G., 2013, SPLAB2013001 UFCG
+   Alves ELG, 2012, SPLAB2012001 UFCG
+   Beck K, 2004, EXTREME PROGRAMMING
+   Binder R., 2000, TESTING OBJECT ORIEN
+   Cornelio M.L., 2004, THESIS UFPE
+   Do H, 2006, EMPIR SOFTW ENG, V11, P33, DOI 10.1007/s10664-006-5965-8
+   Elbaum S, 2002, IEEE T SOFTWARE ENG, V28, P159, DOI 10.1109/32.988497
+   Elbaum S, 2000, PRIORITIZING TEST CA, V25
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Harrold MJ, 2008, 2008 FRONTIERS OF SOFTWARE MAINTENANCE, P99, DOI 10.1109/FOSM.2008.4659253
+   IBM TCS, 2007, ABSTR SYNT TREE MET
+   Jouault F., 2006, COMP 21 ACM SIGPLAN, P719, DOI DOI 10.1145/1176617.1176691
+   Kim JM, 2002, ICSE 2002: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, P119, DOI 10.1109/ICSE.2002.1007961
+   Kim M., 2010, P 18 ACM SIGSOFT INT, P371, DOI [DOI 10.1145/1882291.1882353, 10.1145/1882291.1882353]
+   Leung H. K. N., 1989, Proceedings: Conference on Software Maintenance (Cat. No.89CH2744-1), P60, DOI 10.1109/ICSM.1989.65194
+   Li Z, 2007, IEEE T SOFTWARE ENG, V33, P225, DOI 10.1109/TSE.2007.38
+   Lingming Zhang, 2011, 2011 IEEE 27th International Conference on Software Maintenance, P23, DOI 10.1109/ICSM.2011.6080769
+   Maia C.L.B., 2010, ADV SOFTWARE ENG, V2010
+   Mens T, 2006, ELECTRON NOTES THEOR, V152, P125, DOI 10.1016/j.entcs.2005.10.021
+   Murphy GC, 2006, IEEE SOFTWARE, V23, P76, DOI 10.1109/MS.2006.105
+   Onoma AK, 1998, COMMUN ACM, V41, P81, DOI 10.1145/274946.274960
+   Opdyke WF, 1990, P S OBJ OR PROGR EMP
+   OPDYKE WF, 1992, THESIS U ILLINOIS
+   Ren XX, 2004, ACM SIGPLAN NOTICES, V39, P432, DOI 10.1145/1035292.1029012
+   Rothermel G, 2001, IEEE T SOFTWARE ENG, V27, P929, DOI 10.1109/32.962562
+   Rothermel G., 1999, Proceedings IEEE International Conference on Software Maintenance - 1999 (ICSM'99). `Software Maintenance for Business Change' (Cat. No.99CB36360), P179, DOI 10.1109/ICSM.1999.792604
+   Ryder BG, 2001, ACM SIGPLAN NOTICES, P46
+   Singh Y., SPECIAL ISSUE ADV NE, P379
+   Soares G., 2011, Proceedings of the 2011 25th Brazilian Symposium on Software Engineering (SBES 2011), P164, DOI 10.1109/SBES.2011.21
+   Soares G, 2013, IEEE T SOFTWARE ENG, V39, P147, DOI 10.1109/TSE.2012.19
+   Soares G, 2010, IEEE SOFTWARE, V27, P52, DOI 10.1109/MS.2010.63
+   Srivastava A., 2002, Software Engineering Notes, V27, P97
+   Walcott K. R., 2006, P INT S SOFTW TEST A, P1, DOI DOI 10.1145/1146238.1146240
+   Wang WE, 1997, EIGHTH INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING, PROCEEDINGS, P264, DOI 10.1109/ISSRE.1997.630875
+   Yoo S, 2012, SOFTW TEST VERIF REL, V22, P67, DOI [10.1002/stvr.430, 10.1002/stv.430]
+NR 36
+TC 7
+Z9 7
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-6161-3
+PY 2013
+BP 93
+EP 99
+PG 7
+WC Computer Science, Software Engineering
+SC Computer Science
+GA BA1QK
+UT WOS:000332877400016
+DA 2020-12-16
+ER
+
+PT S
+AU Massoni, T
+   Gheyi, R
+   Borba, P
+AF Massoni, Tiago
+   Gheyi, Rohit
+   Borba, Paulo
+BE Davies, J
+   Simao, A
+TI Synchronizing Model and Program Refactoring
+SO FORMAL METHODS: FOUNDATIONS AND APPLICATIONS
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 13th Brazilian Symposium on Formal Methods (SBMF)
+CY NOV 08-11, 2010
+CL Natal, BRAZIL
+SP CNPq, Brazilian Sci Technol Res Council, CAPES, Brazilian Higher Educ Fund Council, Fed Univ Rio Grande Norte (UFRN), Miranda Computacao Comercio Ltda, SETIRN
+AB Object models provide abstract information about software structure, but their maintenance is difficult after refactoring takes place. In Model-Driven Development (MDD), effective transferral of model refactoring changes to programs is problematic, especially if these programs are subject to developer manipulation. Consequently, code-driven approaches end up being adopted. We formalize a theory of synchronizers, which are sequences of behavior-preserving program transformations. This theory makes use of invariant-based refactoring, the key idea behind synchronizers. We also establish and prove a soundness theorem for synchronizers. By uncovering the formal requirements for correct refactoring synchronization, the proved properties point out issues - regarding consistency, refactoring automation and quality - that recur in several MDD settings that employ object models.
+C1 [Massoni, Tiago; Gheyi, Rohit] Univ Fed Campina Grande, Campina Grande, PB, Brazil.
+   [Borba, Paulo] Univ Fed Pernambuco, Recife, PE, Brazil.
+RP Massoni, T (corresponding author), Univ Fed Campina Grande, Campina Grande, PB, Brazil.
+EM massoni@dsc.ufcg.edu.br; rohit@dsc.ufcg.edu.br; phmb@cin.ufpe.br
+RI Massoni, Tiago/AAE-9376-2020; Borba, Paulo/N-7140-2019
+OI Massoni, Tiago/0000-0002-9423-7556; Borba, Paulo/0000-0002-0381-2843
+FU CNPqNational Council for Scientific and Technological Development (CNPq)
+   [477336/2009-4, 573964/2008-4]; National Institute of Science and
+   Technology for Software Engineering (INES2)
+FX This work was partially supported by CNPq grant 477336/2009-4, and the
+   National Institute of Science and Technology for Software Engineering
+   (INES2), also funded by CNPq, grant 573964/2008-4.
+CR [Anonymous], 2008, THESIS UFPE
+   Antkiewicz M, 2008, LECT NOTES COMPUT SC, V5235, P3, DOI 10.1007/978-3-540-88643-3_1
+   Banerjee A, 2005, J ACM, V52, P894, DOI 10.1145/1101821.1101824
+   Barnett M., 2004, J OBJECT TECHNOLOGY, V3, P27
+   Bohannon  Aaron, 2006, P 25 ACM SIGMOD SIGA, P338, DOI DOI 10.1145/1142351.1142399
+   Borba P, 2004, SCI COMPUT PROGRAM, V52, P53, DOI 10.1016/j.scico.2004.03.003
+   Clarke D, 2001, THESIS UNSW
+   Diskin Z, 2008, LECT NOTES COMPUT SC, V5301, P21, DOI 10.1007/978-3-540-87875-9_2
+   Fowler M., 1999, REFACTORING IMPROVIN
+   France R, 2007, FOSE 2007: FUTURE OF SOFTWARE ENGINEERING, P37, DOI 10.1109/FOSE.2007.14
+   Gheyi R, 2005, ELECTRON NOTES THEOR, V130, P3, DOI 10.1016/j.entcs.2005.03.002
+   Gheyi R, 2007, ELECTRON NOTES THEOR, V184, P209, DOI 10.1016/j.entcs.2007.03.023
+   Gheyi R, 2009, LECT NOTES COMPUT SC, V5902, P204, DOI 10.1007/978-3-642-10452-7_14
+   Greenfield J., 2004, SOFTWARE FACTORIES A
+   Harrison W, 2000, ACM SIGPLAN NOTICES, V35, P178, DOI 10.1145/354222.353184
+   Hettel T, 2008, LECT NOTES COMPUT SC, V5063, P31, DOI 10.1007/978-3-540-69927-9_3
+   Jackson D, 2006, SOFTWARE ABSTRACTION
+   LAMMEL R, 2004, P 1 INT WORKSH SOFTW, P31
+   LISKOV B, 2001, PROGRAM DEV JAVA
+   Martin A, 1994, THESIS PENBROKE COLL
+   Massoni T., 2010, SYNCHRONIZING MODEL
+   Massoni T., 2006, SETR WORKSH 2006, P91
+   Massoni T, 2008, LECT NOTES COMPUT SC, V4961, P362, DOI 10.1007/978-3-540-78743-3_27
+   Mens T, 2004, IEEE T SOFTWARE ENG, V30, P126, DOI 10.1109/TSE.2004.1265817
+   Morgan C., 1998, PROGRAMMING SPECIFIC
+   Opdyke W, 1992, THESIS UIUC
+   Stevens P, 2008, LECT NOTES COMPUT SC, V5235, P408, DOI 10.1007/978-3-540-88643-3_10
+NR 27
+TC 3
+Z9 3
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+BN 978-3-642-19828-1
+J9 LECT NOTES COMPUT SC
+PY 2011
+VL 6527
+BP 96
+EP +
+PG 3
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BXQ59
+UT WOS:000296753200007
+DA 2020-12-16
+ER
+
+PT J
+AU Gheyi, R
+   Massoni, T
+   Borba, P
+AF Gheyi, Rohit
+   Massoni, Tiago
+   Borba, Paulo
+TI Automatically Checking Feature Model Refactorings
+SO JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+LA English
+DT Article
+DE feature models; refactoring; Alloy
+AB A feature model (FM) defines the valid combinations of features, whose combinations correspond to a program in a Software Product Line (SPL). FMs may evolve, for instance, during refactoring activities. Developers may use a catalog of refactorings as support. However, the catalog is incomplete in principle. Additionally, it is non-trivial to propose correct refactorings. To our knowledge, no previous analysis technique for FMs is used for checking properties of general FM refactorings (a transformation that can be applied to a number of FMs) containing a representative number of features. We propose an efficient encoding of FMs in the Alloy formal specification language. Based on this encoding, we show how the Alloy Analyzer tool, which performs analysis on Alloy models, can be used to automatically check whether encoded general and specific FM refactorings are correct. Our approach can analyze general transformations automatically to a significant scale in a few seconds. In order to evaluate the analysis performance of our encoding, we evaluated in automatically generated FMs ranging from 500 to 2,000 features. Furthermore, we analyze the soundness of general transformations.
+C1 [Gheyi, Rohit; Massoni, Tiago] Univ Fed Campina Grande, Dept Comp & Syst, Campina Grande, Brazil.
+   [Borba, Paulo] Univ Fed Pernambuco, Informat Ctr, Recife, PE, Brazil.
+RP Gheyi, R (corresponding author), Univ Fed Campina Grande, Dept Comp & Syst, Campina Grande, Brazil.
+EM rohit@dsc.ufcg.edu.br; massoni@dsc.ufcg.edu.br; phmb@cin.ufpe.br
+RI Borba, Paulo/N-7140-2019; Massoni, Tiago/AAE-9376-2020
+OI Borba, Paulo/0000-0002-0381-2843; Massoni, Tiago/0000-0002-9423-7556;
+   Gheyi, Rohit/0000-0002-5562-4449
+FU CNPqNational Council for Scientific and Technological Development (CNPq)
+   [573964/2008-4, 477336/2009-4]
+FX We gratefully thank the guest editors, the anonymous referees, Leopoldo
+   Teixeira, Marcilio Mendonca and Felix Chang for useful suggestions. This
+   work was partially supported by the National Institute of Science and
+   Technology for Software Engineering (INES), funded by CNPq grants
+   573964/2008-4 and 477336/2009-4.
+CR ALVES V, 2006, P GEN PROGR COMP ENG, P62
+   Alves V, 2007, LECT NOTES COMPUT SC, V4640, P117
+   Antkiewicz M., 2004, P 2004 OOPSLA WORKSH, P67, DOI DOI 10.1145/1066129.1066143
+   Batory D, 2005, LECT NOTES COMPUT SC, V3714, P7
+   Benavides D, 2005, LECT NOTES COMPUT SC, V3520, P491
+   Benavides D., 2010, INFORM SYSTEMS, V35
+   Benavides D., 2006, MANAGING VARIABILITY
+   Benavides D., 2006, JISBD, P367
+   Clements P., 2001, SOFTWARE PRODUCT LIN
+   Czarnecki K., 2005, Software Process Improvement and Practice, V10, P7, DOI 10.1002/spip.213
+   Czarnecki K., 2000, GENERATIVE PROGRAMMI
+   Czarnecki K, 2007, SPLC 2007: 11TH INTERNATIONAL SOFTWARE PRODUCT LINE CONFERENCE, PROCEEDINGS, P23, DOI 10.1109/SPLINE.2007.24
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Garrido A., 2002, P INT WORKSH PRINC S, P6
+   GHEYI R, 2006, TRUFPECIN20060827
+   Gheyi R, 2008, J UNIVERS COMPUT SCI, V14, P3573
+   Gheyi Rohit, 2006, 1 ALL WORKSH PORTL U, P71, DOI 10.1.1.295.4053
+   Hofner P, 2006, LECT NOTES COMPUT SC, V4085, P300
+   Jackson D, 2006, SOFTWARE ABSTRACTION
+   JACKSON D, 2000, 22 INT C SOFTW ENG, P730
+   Kang K. C., 1990, FEATURE ORIENTED DOM
+   LIU J, 2006, 28 INT C SOFTW ENG, P112
+   Mendonca M, 2008, GPCE'08: PROCEEDINGS OF THE ACM SIGPLAN SEVENTH INTERNATIONAL CONFERENCE ON GENERATIVE PROGRAMMING AND COMPONENT ENGINEERING, P13
+   Mens T, 2004, IEEE T SOFTWARE ENG, V30, P126, DOI 10.1109/TSE.2004.1265817
+   Momtahan L, 2005, ELECTRON NOTES THEOR, V128, P37, DOI 10.1016/j.entcs.2005.04.003
+   OPDYKE W, 1992, THESIS U ILLINOIS UR
+   Schobbens PY, 2007, COMPUT NETW, V51, P456, DOI 10.1016/j.comnet.2006.08.008
+   Segura Sergio, 2010, Proceedings of the Third IEEE International Conference on Software Testing, Verification and Validation (ICST 2010), P35, DOI 10.1109/ICST.2010.20
+   SEGURA S, 2007, 7 JORN PROGR LENG PR, P275
+   Segura S, 2008, LECT NOTES COMPUT SC, V5235, P489, DOI 10.1007/978-3-540-88643-3_15
+   Soares S., 2008, OOPSLA COMPANION, P737
+   Sun J, 2005, IEEE INT C ENG COMP, P303
+   Thum T, 2009, PROC INT CONF SOFTW, P254, DOI 10.1109/ICSE.2009.5070526
+   Torlak E, 2008, LECT NOTES COMPUT SC, V5014, P326, DOI 10.1007/978-3-540-68237-0_23
+   Trinidad P, 2008, J SYST SOFTWARE, V81, P883, DOI 10.1016/j.jss.2007.10.030
+   Trinidad P., 2008, 12 SOFTW PROD LIN C
+   TRUJILLO S, 2006, GPCE 06, P191, DOI DOI 10.1145/1173706.1173736
+   van Deursen A., 2002, Journal of Computing and Information Technology - CIT, V10, P1, DOI 10.2498/cit.2002.01.01
+   White J, 2008, SPLC 2008: 12TH INTERNATIONAL SOFTWARE PRODUCT LINE CONFERENCE, PROCEEDINGS, P225, DOI 10.1109/SPLC.2008.16
+NR 39
+TC 11
+Z9 11
+U1 0
+U2 1
+PU GRAZ UNIV TECHNOLGOY, INST INFORMATION SYSTEMS COMPUTER MEDIA-IICM
+PI GRAZ
+PA INFFELDGASSE 16C, GRAZ, A-8010, AUSTRIA
+SN 0948-695X
+J9 J UNIVERS COMPUT SCI
+JI J. Univers. Comput. Sci.
+PY 2011
+VL 17
+IS 5
+BP 684
+EP 711
+PG 28
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA 759WO
+UT WOS:000290279400004
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Soares, G
+   Gheyi, R
+   Serey, D
+   Massoni, T
+AF Soares, Gustavo
+   Gheyi, Rohit
+   Serey, Dalton
+   Massoni, Tiago
+TI Making Program Refactoring Safer
+SO IEEE SOFTWARE
+LA English
+DT Editorial Material
+DE Software; Java; Safety; Testing; Medical services; Cloning; software
+   engineering; refactoring; behavior preservation; unit testing
+ID JAVA
+C1 [Soares, Gustavo; Gheyi, Rohit; Serey, Dalton] Univ Fed Campina Grande, Dept Comp Sci, Campina Grande, PB, Brazil.
+   [Massoni, Tiago] Univ Fed Campina Grande, Dept Comp & Syst, Campina Grande, PB, Brazil.
+RP Soares, G (corresponding author), Univ Fed Campina Grande, Dept Comp Sci, Campina Grande, PB, Brazil.
+EM gsoares@dsc.ufcg.edu.br; rohit@dsc.ufcg.edu.br; dalton@dsc.ufcg.edu.br;
+   massoni@dsc.ufcg.edu.br
+RI Ines, INCT/J-9550-2013; Massoni, Tiago/AAE-9376-2020
+OI Massoni, Tiago/0000-0002-9423-7556; Gheyi, Rohit/0000-0002-5562-4449
+CR Cabral B, 2007, LECT NOTES COMPUT SC, V4609, P151
+   Daniel Brett, 2007, P 6 JOINT M EUR SOFT, P185, DOI DOI 10.1145/1287624.1287651
+   EKMAN T, 2008, REFACTORING BUGS ECL
+   Fowler M., 1999, REFACTORING IMPROVIN
+   Fuhrer R, 2005, LECT NOTES COMPUT SC, V3586, P71
+   Mens T, 2004, IEEE T SOFTWARE ENG, V30, P126, DOI 10.1109/TSE.2004.1265817
+   Murphy-Hill E, 2009, PROC INT CONF SOFTW, P287, DOI 10.1109/ICSE.2009.5070529
+   OPDYKE WF, 1992, UIUCDCSR921759
+   Pacheco C, 2007, PROC INT CONF SOFTW, P75
+   SCHAFER M, 2008, P OOPSLA, P277
+   SOARES G, 2009, P BRAZ S PROGR LANG, P159
+   SOARES G, 2009, P BRAZ S SOFTW ENG S, P49
+   Steimann F, 2009, LECT NOTES COMPUT SC, V5653, P419, DOI 10.1007/978-3-642-03013-0_19
+   Taveira Julio Cesar, 2009, Proceedings of the 2009 23rd Brazilian Symposium on Software Engineering. SBES 2009, P22, DOI 10.1109/SBES.2009.21
+NR 14
+TC 49
+Z9 50
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0740-7459
+J9 IEEE SOFTWARE
+JI IEEE Softw.
+PD JUL-AUG
+PY 2010
+VL 27
+IS 4
+BP 52
+EP 57
+DI 10.1109/MS.2010.63
+PG 6
+WC Computer Science, Software Engineering
+SC Computer Science
+GA 611KD
+UT WOS:000278813100013
+DA 2020-12-16
+ER
+
+PT S
+AU Gheyi, R
+   Massoni, T
+   Borba, P
+   Sampaio, A
+AF Gheyi, Rohit
+   Massoni, Tiago
+   Borba, Paulo
+   Sampaio, Augusto
+BE Oliveria, MVM
+   Woodcock, J
+TI A Complete Set of Object Modeling Laws for Alloy
+SO FORMAL METHODS: FOUNDATIONS AND APPLICATIONS
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 12th Brazilian Symposium on Formal Methods
+CY AUG 19-21, 2009
+CL Gramado, BRAZIL
+SP Fed Univ Rio Grande do Sul, Inst Informat, Brazilian Comp Soc, CNPq, CAPES, Banrisul, Govt State Rio Grande do Sul, Microsoft Res, Fed Univ Rio Grande do Sul, Univ York
+AB Applying transformations to object-oriented systems usually aflects source code and its associated models, involving complex maintenance efforts to keep those artifacts up to date Most projects abandon design information in the form of models early in the life cycle, as their maintenance becomes extremely expensive In tins paper. we propose a complete catalog of object, model laws (bidirectional semantics-preserving transformations) for Alloy, a formal object-oriented modeling language We address relative completeness through a reduction process that transforms an arbitrary Alloy model alto an equivalent, model in a. core language (normal form) We evaluate our completeness result using two distinct normal forms
+C1 [Gheyi, Rohit; Massoni, Tiago; Borba, Paulo; Sampaio, Augusto] Univ Fed Pernambuco, Informat Ctr, Fed Univ Campina Grande, Dept Comp Syst, Recife, PE, Brazil.
+RP Gheyi, R (corresponding author), Univ Fed Pernambuco, Informat Ctr, Fed Univ Campina Grande, Dept Comp Syst, Recife, PE, Brazil.
+EM rohit@dsc.ufcg.edu.br; massoni@dsc.ufcg.edu.br
+RI Borba, Paulo/N-7140-2019; Massoni, Tiago/AAE-9376-2020
+OI Borba, Paulo/0000-0002-0381-2843; Massoni, Tiago/0000-0002-9423-7556
+CR BANERJEE J, 1987, INT C MAN DAT, P311
+   BERGSTEIN PL, 1991, OOPSLA 91 CONFERENCE PROCEEDINGS : OBJECT-ORIENTED PROGRAMMING SYSTEMS, LANGUAGES, AND APPLICATIONS, P299
+   Borba P, 2004, SCI COMPUT PROGRAM, V52, P53, DOI 10.1016/j.scico.2004.03.003
+   Evans AS, 1999, 2ND IEEE WORKSHOP ON INDUSTRIAL STRENGTH FORMAL SPECIFICATION TECHNIQUES - PROCEEDINGS, P102, DOI 10.1109/WIFT.1998.766304
+   Frias MF, 2005, ACM T SOFTW ENG METH, V14, P478, DOI 10.1145/1101815.1101819
+   GHEYI R, 2005, P ASE, P372
+   GHEYI R, 2007, THESIS UFPE
+   GHEYI R, 2007, BRAZ S FORM METH BRA, P22
+   Gheyi R, 2005, ELECTRON NOTES THEOR, V130, P3, DOI 10.1016/j.entcs.2005.03.002
+   Gogolla M., 1998, UNIFIED MODELING LAN, P87
+   HOARE CAR, 1987, COMMUN ACM, V30, P672, DOI 10.1145/27651.27653
+   Jackson D, 2006, SOFTWARE ABSTRACTION
+   LANO K, 1998, UML, P97
+   Massoni T, 2008, LECT NOTES COMPUT SC, V4961, P362, DOI 10.1007/978-3-540-78743-3_27
+   McComb T, 2004, LECT NOTES COMPUT SC, V2984, P69
+   OWRE S, 2007, PVS LANGUAGE REFEREN
+   Surly G., 2001, LNCS, P134, DOI DOI 10.1007/3-540-45441-1_11
+NR 17
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+BN 978-3-642-10451-0
+J9 LECT NOTES COMPUT SC
+PY 2009
+VL 5902
+BP 204
+EP 219
+PG 16
+WC Computer Science, Theory & Methods
+SC Computer Science
+GA BOM04
+UT WOS:000276970300014
+DA 2020-12-16
+ER
+
+PT S
+AU Massoni, T
+   Gheyi, R
+   Borba, P
+AF Massoni, Tiago
+   Gheyi, Rohit
+   Borba, Paulo
+BE Fiadeiro, JL
+   Inverardi, P
+TI Formal model-driven program refactoring
+SO FUNDAMENTAL APPROACHES TO SOFTWARE ENGINEERING, PROCEEDINGS
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 11th International Conference on Fundamental Approaches to Software
+   Engineering
+CY MAR 29-APR 06, 2008
+CL Budapest, HUNGARY
+AB Evolutionary tasks, specially refactoring, affect source code and object models, hindering correctness and conformance. Due to the gap between object models and programs, refactoring tasks get duplicated in commonly-used model-driven development approaches, such as Round-Tip Engineering. In this paper, we propose a formal approach to consistently refactor systems in a model-driven manner. Each object model refactoring applied by the user is associated with a sequence of behavior preserving program transformations, which can be semiautomatically performed to an initially conforming program. As a consequence, this foundation for model-driven refactoring guarantees behavior preservation of the target program, besides its conformance with the refactored object model. This approach is described in detail, along with its formal infrastructure, including a conformance relationship between object models and programs. A case study reveals evidence on issues that will surely recur in other model-driven development contexts.
+C1 [Massoni, Tiago] Univ Pernambuco, Dept Comp Syst, Pernambuco, Brazil.
+   [Gheyi, Rohit; Borba, Paulo] Univ Fed Pernambuco, Informat Ctr, Recife, PE, Brazil.
+RP Massoni, T (corresponding author), Univ Pernambuco, Dept Comp Syst, Pernambuco, Brazil.
+EM tlm@dsc.upe.br; rg@cin.ufpe.br; phmb@cin.ufpe.br
+RI Borba, Paulo/N-7140-2019
+OI Borba, Paulo/0000-0002-0381-2843
+CR Balcer M. J., 2002, EXECUTABLE UML FDN M
+   Banerjee A, 2005, J ACM, V52, P894, DOI 10.1145/1101821.1101824
+   Borba P, 2004, SCI COMPUT PROGRAM, V52, P53, DOI 10.1016/j.scico.2004.03.003
+   Fowler M., 1999, REFACTORING IMPROVIN
+   GHEYI R, 2007, THESIS FEDERAL U PER
+   Gheyi R, 2005, ELECTRON NOTES THEOR, V130, P3, DOI 10.1016/j.entcs.2005.03.002
+   GUEHENEUC YG, 2004, P 19 C OBJ OR PROGR, P301
+   HAILPERN B, IBM SYSTEMS J, V45, P451
+   Harrison W, 2000, ACM SIGPLAN NOTICES, V35, P178, DOI 10.1145/354222.353184
+   HOARE CAR, 1987, COMMUN ACM, V30, P672, DOI 10.1145/27651.27653
+   Jackson D, 2006, SOFTWARE ABSTRACTION
+   KLEPPE A, 2003, MDA EXPLAINED PRACTI
+   MASSONI T, 2006, SBMF, P201
+   MASSONI T, 2005, P 19 BRAZ S SOFTW EN, P152
+   Oliveira M., 2003, Formal Aspects of Computing, V15, P28, DOI 10.1007/s00165-003-0003-8
+   OPDYKE W, 1992, THESIS U ILLINOIS UR
+   SENDALL S, 2004, WORKSH BEST PRACTICE
+   Tip F, 2003, ACM SIGPLAN NOTICES, V38, P13, DOI 10.1145/949343.949308
+NR 18
+TC 12
+Z9 12
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+BN 978-3-540-78742-6
+J9 LECT NOTES COMPUT SC
+PY 2008
+VL 4961
+BP 362
+EP +
+PG 2
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BHN79
+UT WOS:000254603000027
+OA Bronze
+DA 2020-12-16
+ER
+
+PT J
+AU Gheyi, R
+   Massoni, T
+   Borba, P
+AF Gheyi, Rohit
+   Massoni, Tiago
+   Borba, Paulo
+TI Algebraic Laws for Feature Models
+SO JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 12th Brazilian Symposium on Programming Languages
+CY 2008
+CL Fortaleza, BRAZIL
+DE feature models; refactoring; algebraic laws; software product lines
+AB Software Product Lines (SPL) may be adopted by either bootstrapping existing software products into a SPL, or extending an existing SPL to encompass an additional software product. Program refactorings are usually applied for carrying out those tasks. The notion of SPL refactoring is an extension of the traditional definition of refactoring; it involves not only program refactorings, but also Feature Model ( FM) refactorings, in order to improve configurability. However, FM refactorings are hard to define, due to the incompleteness of the refactoring catalogs developed as of today. In this paper, we propose a complete, sound catalog of algebraic laws, making up special FM refactorings that preserve configurability. This catalog is also defined as minimal, as one law cannot be derived from another one in the same catalog. In addition, a theory for FMs is presented, in the context of a theorem prover.
+C1 [Gheyi, Rohit; Massoni, Tiago] Univ Fed Campina Grande, Dept Comp & Syst, Campina Grande, Brazil.
+   [Borba, Paulo] Univ Fed Pernambuco, Informat Ctr, Recife, PE, Brazil.
+RP Gheyi, R (corresponding author), Univ Fed Campina Grande, Dept Comp & Syst, Campina Grande, Brazil.
+EM rohit@dsc.ufcg.edu.br; massoni@dsc.ufcg.edu.br; phmb@cin.ufpe.br
+RI Massoni, Tiago/AAE-9376-2020; Borba, Paulo/N-7140-2019
+OI Massoni, Tiago/0000-0002-9423-7556; Borba, Paulo/0000-0002-0381-2843;
+   Gheyi, Rohit/0000-0002-5562-4449
+CR ALVES V, 2006, P GEN PROGR COMP ENG, P62
+   Antkiewicz M., 2004, P 2004 OOPSLA WORKSH, P67, DOI DOI 10.1145/1066129.1066143
+   Batory D, 2005, LECT NOTES COMPUT SC, V3714, P7
+   Benavides D, 2005, LECT NOTES COMPUT SC, V3520, P491
+   Clements P., 2001, SOFTWARE PRODUCT LIN
+   Czarnecki K., 2005, Software Process Improvement and Practice, V10, P7, DOI 10.1002/spip.213
+   Czarnecki K., 2000, GENERATIVE PROGRAMMI
+   Fowler M., 1999, REFACTORING IMPROVIN
+   GHEYI R, 2006, TRUFPECIN200608027 F
+   Gheyi Rohit, 2006, 1 ALL WORKSH PORTL U, P71, DOI 10.1.1.295.4053
+   Hofner P, 2006, LECT NOTES COMPUT SC, V4085, P300
+   Jackson D, 2006, SOFTWARE ABSTRACTION
+   LIU J, 2006, 28 INT C SOFTW ENG, P112
+   OPDYKE W, 1992, THESIS U ILLINOIS UR
+   Owre S, 1999, LECT NOTES COMPUT SC, V1641, P338
+   Sun J, 2005, IEEE INT C ENG COMP, P303
+   TRUJILLO S, 2006, GPCE 06, P191, DOI DOI 10.1145/1173706.1173736
+   van Deursen A., 2002, Journal of Computing and Information Technology - CIT, V10, P1, DOI 10.2498/cit.2002.01.01
+NR 18
+TC 10
+Z9 11
+U1 0
+U2 1
+PU GRAZ UNIV TECHNOLGOY, INST INFORMATION SYSTEMS COMPUTER MEDIA-IICM
+PI GRAZ
+PA INFFELDGASSE 16C, GRAZ, A-8010, AUSTRIA
+SN 0948-695X
+J9 J UNIVERS COMPUT SCI
+JI J. Univers. Comput. Sci.
+PY 2008
+VL 14
+IS 21
+BP 3573
+EP 3591
+PG 19
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA 427BN
+UT WOS:000264754900011
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT B
+AU Massoni, T
+   Sampaio, A
+   Borba, P
+AF Massoni, T
+   Sampaio, A
+   Borba, P
+BE Khosrowpour, M
+TI A RUP-Based software process supporting progressive implementation
+SO ISSUES AND TRENDS OF INFORMATION TECHNOLOGY MANAGEMENT IN CONTEMPORARY
+   ORGANIZATIONS, VOLS 1 AND 2
+LA English
+DT Proceedings Paper
+CT International Conference of the
+   Information-Resources-Management-Association
+CY MAY 19-22, 2002
+CL SEATTLE, WA
+SP Informat Resources Management Assoc
+AB In this paper we extend the Rational Unified Process (RUP) with a method that supports the progressive, and separate, implementation of three different aspects: persistence, distribution and concurrence control. This complements RUP with an specific implementation method and helps to tame the complexity of applications that are persistent, distributed and concurrent. By gradually and separately implementing, testing and validating such applications, we obtain two major benefits:. the impact caused by requirements changes during development is reduced, testing and debugging are simplified.
+EM tlm@cin.ufpe.br; acas@cin.ufpe.br; phmb@cin.ufpe.br
+RI Massoni, Tiago/AAE-9376-2020; Borba, Paulo/N-7140-2019
+OI Massoni, Tiago/0000-0002-9423-7556; Borba, Paulo/0000-0002-0381-2843
+CR ALVES V, 2000, 14 BRAZ S SOFTW ENG
+   AMBLER S, 1999, SOFTWARE DEV MAG SEP
+   Ambler S. W., 1998, PROCESS PATTERNS BUI
+   Beck K., 1999, EXTREME PROGRAMMING
+   Booch G, 1999, UNIFIED MODELING LAN
+   BORBA P, 1999, ENG DISTR OBJ WORKSH, P40
+   GOSGLING J, 1996, JAVA LANGUAGE SPECIF
+   GRAHAM I, 1997, OPEN PROCESS SPECIFI
+   JACOBSON I, 1999, UNIFIED SOFTWARE DEV
+   KICZALES G, 2001, P 15 EUR C OBJ OR PR, P327, DOI DOI 10.1007/3-540-45337-7_18
+   Kiczales G., 1997, P EUR C OBJ OR PROGR, P220, DOI DOI 10.1007/BF60053381
+   Kruchten P., 1999, RATIONAL UNIFIED PRO
+   MASSONI T, IN PRESS 1 LAT AM C
+   PARNAS DL, 1972, COMMUN ACM, V15, P1053, DOI 10.1145/361598.361623
+   SOARES S, 2001, 5 BRAZ S PROGR LANG
+   TARR P, 1999, 1999 INT C SOFTW ENG, P107
+   VIANA E, 2000, THESIS UFPE
+   Waldo J, 1997, LECT NOTES COMPUT SC, V1222, P49
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IDEA GROUP PUBLISHING
+PI HERSHEY
+PA 1331 E CHOCOLATE AVE, HERSHEY, PA 17033-1117 USA
+BN 1-930708-39-4
+PY 2002
+BP 480
+EP 483
+PG 4
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Information Science & Library Science; Management;
+   Telecommunications
+SC Computer Science; Information Science & Library Science; Business &
+   Economics; Telecommunications
+GA BV92R
+UT WOS:000180407800125
+DA 2020-12-16
+ER
+
+EF

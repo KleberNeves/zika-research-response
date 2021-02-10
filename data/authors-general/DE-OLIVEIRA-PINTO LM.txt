@@ -1,0 +1,2844 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU De Sa, NBR
+   De Sousa, NCS
+   Ribeiro-Alves, M
+   Da Silva, TP
+   Pilotto, JH
+   Rolla, VC
+   Giacoia-Gripp, CBW
+   De-Oliveira-Pinto, LM
+   Scott-Algara, D
+   Morgado, MG
+   Teixeira, SLM
+AF De Sa, N. B. R.
+   De Sousa, N. C. S.
+   Ribeiro-Alves, M.
+   Da Silva, T. P.
+   Pilotto, J. H.
+   Rolla, V. C.
+   Giacoia-Gripp, C. B. W.
+   De-Oliveira-Pinto, L. M.
+   Scott-Algara, D.
+   Morgado, M. G.
+   Teixeira, S. L. M.
+TI The CARD8 rs2043211 genetic variant and IL-33 plasma levels are
+   associated with TB-HIV/IRIS onset in Brazilian individuals
+SO JOURNAL OF THE INTERNATIONAL AIDS SOCIETY
+LA English
+DT Meeting Abstract
+C1 [De Sa, N. B. R.; De Sousa, N. C. S.; Da Silva, T. P.; Pilotto, J. H.; Giacoia-Gripp, C. B. W.; Morgado, M. G.; Teixeira, S. L. M.] Fiocruz MS, Inst Oswaldo Cruz, Lab AIDS & Mol Immunol, Rio De Janeiro, Brazil.
+   [Ribeiro-Alves, M.] Fiocruz MS, Natl Inst Infect Dis Evandro Chagas, Lab Clin Res STD AIDS, Rio De Janeiro, Brazil.
+   [Rolla, V. C.] Fiocruz MS, Natl Inst Infect Dis Evandro Chagas, Clin Res Lab Mycobacteria, Rio De Janeiro, Brazil.
+   [De-Oliveira-Pinto, L. M.] Fiocruz MS, Inst Oswaldo Cruz, Lab Viral Immunol, Rio De Janeiro, Brazil.
+   [Scott-Algara, D.] Inst Pasteur, Unite Biol Cellulaire Lymphocytes, Paris, France.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+EI 1758-2652
+J9 J INT AIDS SOC
+JI J. Int. AIDS Soc.
+PD JUL
+PY 2020
+VL 23
+SU 4
+SI SI
+MA PDA0103
+BP 104
+EP 104
+PG 1
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA MP1RO
+UT WOS:000551988900203
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU de Abreu, FVS
+   Ferreira-De-Brito, A
+   Azevedo, AD
+   Linhares, JHR
+   Santos, VD
+   Miranda, EH
+   Neves, MSAS
+   Yousfi, L
+   Ribeiro, IP
+   dos Santos, AAC
+   dos Santos, E
+   dos Santos, TP
+   Teixeira, DS
+   Gomes, MQ
+   Fernandes, CB
+   da Silva, AMV
+   Lima, MDQ
+   Paupy, C
+   Romano, APM
+   Bom, APDA
+   de Oliveira-Pinto, LM
+   Moutailler, S
+   Motta, MD
+   Castro, MG
+   Bonaldo, MC
+   de Lima, SMB
+   Lourenco-de-Oliveira, R
+AF Santos de Abreu, Filipe Vieira
+   Ferreira-de-Brito, Anielly
+   Azevedo, Adriana de Souza
+   Rezende Linhares, Jose Henrique
+   Santos, Vanessa de Oliveira
+   Miranda, Emily Hime
+   Alberto Santos Neves, Maycon Sebastiao
+   Yousfi, Lena
+   Ribeiro, Ieda Pereira
+   Cunhad dos Santos, Alexandre Araujo
+   dos Santos, Edmilson
+   dos Santos, Taissa Pereira
+   Teixeira, Danilo Simonini
+   Gomes, Marcelo Quintela
+   Fernandes, Camilla Bayma
+   Vieira da Silva, Andrea Marques
+   Queiroz Lima, Monique da Rocha
+   Paupy, Christophe
+   Martins Romano, Alessandro Pecego
+   Dinis Ano Bom, Ana Paula
+   de Oliveira-Pinto, Luzia Maria
+   Moutailler, Sara
+   Motta, Monique de Albuquerque
+   Castro, Marcia Goncalves
+   Bonaldo, Myrna Cristina
+   Barbosa de Lima, Sheila Maria
+   Lourenco-de-Oliveira, Ricardo
+TI Survey on Non-Human Primates and Mosquitoes Does not Provide Evidences
+   of Spillover/Spillback between the Urban and Sylvatic Cycles of Yellow
+   Fever and Zika Viruses Following Severe Outbreaks in Southeast Brazil
+SO VIRUSES-BASEL
+LA English
+DT Article
+DE arboviruses; Flavivirus; serology; PRNT; high throughput real time PCR
+ID ESPIRITO-SANTO; AEDES-AEGYPTI; SAO-PAULO; EMERGENCE; MONKEYS; DENGUE;
+   STATE; INFECTION; DIAGNOSIS; EPIDEMIC
+AB In the last decade, Flaviviruses such as yellow fever (YFV) and Zika (ZIKV) have expanded their transmission areas. These viruses originated in Africa, where they exhibit both sylvatic and interhuman transmission cycles. In Brazil, the risk of YFV urbanization has grown, with the sylvatic transmission approaching the most densely populated metropolis, while concern about ZIKV spillback to a sylvatic cycle has risen. To investigate these health threats, we carried out extensive collections and arbovirus screening of 144 free-living, non-human primates (NHPs) and 5219 mosquitoes before, during, and after ZIKV and YFV outbreaks (2015-2018) in southeast Brazil. ZIKV infection was not detected in any NHP collected at any time. In contrast, current and previous YFV infections were detected in NHPs sampled between 2017 and 2018, but not before the onset of the YFV outbreak. Mosquito pools screened by high-throughput PCR were positive for YFV when captured in the wild and during the YFV outbreak, but were negative for 94 other arboviruses, including ZIKV, regardless of the time of collection. In conclusion, there was no evidence of YFV transmission in coastal southeast Brazil before the current outbreak, nor the spread or establishment of an independent sylvatic cycle of ZIKV or urban Aedes aegypti transmission of YFV in the region. In view of the region's receptivity and vulnerability to arbovirus transmission, surveillance of NHPs and mosquitoes should be strengthened and continuous.
+C1 [Santos de Abreu, Filipe Vieira; Ferreira-de-Brito, Anielly; Alberto Santos Neves, Maycon Sebastiao; Gomes, Marcelo Quintela; Motta, Monique de Albuquerque; Castro, Marcia Goncalves; Lourenco-de-Oliveira, Ricardo] Inst Oswaldo Cruz, Lab Mosquitos Transmissores Hematozoarios, BR-21040900 Rio De Janeiro, Brazil.
+   [Santos de Abreu, Filipe Vieira] Inst Fed Norte Minas Gerais, BR-39560000 Salinas, Brazil.
+   [Azevedo, Adriana de Souza; Rezende Linhares, Jose Henrique; Santos, Vanessa de Oliveira; Miranda, Emily Hime; Barbosa de Lima, Sheila Maria] Inst Tecnol Imunobiol Biomanguinhos, Lab Tecnol Virol, BR-21040900 Rio De Janeiro, Brazil.
+   [Yousfi, Lena; Moutailler, Sara] Univ Paris Est, UMR BIPAR, Hlth Anim Lab, ANSES,INRA,Ecole Natl Vet Alfort, F-94700 Maisons Alfort, France.
+   [Ribeiro, Ieda Pereira; Cunhad dos Santos, Alexandre Araujo; Bonaldo, Myrna Cristina] Inst Oswaldo Cruz, Lab Biol Mol Flavivirus, BR-21040900 Rio De Janeiro, Brazil.
+   [dos Santos, Edmilson] Secretaria Saude Rio Grande Sul, Div Vigilancia Ambiental Saude, BR-90610000 Porto Alegre, RS, Brazil.
+   [dos Santos, Taissa Pereira; Paupy, Christophe] Univ Montpellier, MIVEGEC, CNRS, Inst Rech Dev IRD, F-34394 Montpellier, France.
+   [Teixeira, Danilo Simonini] Univ Estadual Santa Cruz, Nucleo Atendimento & Pesquisa Anim Silvestres, BR-45662900 Ilheus, BA, Brazil.
+   [Fernandes, Camilla Bayma; Vieira da Silva, Andrea Marques; Dinis Ano Bom, Ana Paula] Inst Tecnol Imunobiol Biomanguinhos, Lab Tecnol Imunol, BR-21040900 Rio De Janeiro, Brazil.
+   [Queiroz Lima, Monique da Rocha; de Oliveira-Pinto, Luzia Maria] Inst Oswaldo Cruz, Lab Imunol Viral, BR-21040900 Rio De Janeiro, Brazil.
+   [Martins Romano, Alessandro Pecego] Minist Saude, Secretaria Vigilancia Saude, BR-70719040 Brasilia, DF, Brazil.
+RP Lourenco-de-Oliveira, R (corresponding author), Inst Oswaldo Cruz, Lab Mosquitos Transmissores Hematozoarios, BR-21040900 Rio De Janeiro, Brazil.
+EM filipe.vieira@ifnmg.edu.br; aniellya@gmail.com;
+   adriana.soares@bio.fiocruz.br; henrique.rznd@hotmail.com;
+   vanessa.oliveira@bio.fiocruz.br; emily@bio.fiocruz.br;
+   mayconnev@gmail.com; lenayousfi@hotmail.fr; iedapr@gmail.com;
+   xande_acs@hotmail.com; edmilsondvas@gmail.com; tayssadnz@gmail.com;
+   simonini.danilo@gmail.com; marcquintela@gmail.com;
+   camilla.bayma@bio.fiocruz.br; amarques@bio.fiocruz.br;
+   moniquerql@gmail.com; christophe.paupy@ird.fr;
+   alessandropecego@gmail.com; adinis@bio.fiocruz.br;
+   lmopnogueira@gmail.com; sara.moutailler@anses.fr; moniquemot@gmail.com;
+   marciadengue@gmail.com; mbonaldo@ioc.fiocruz.br; smaria@bio.fiocruz.br;
+   lourenco@ioc.fiocruz.br
+RI Paupy, Christophe/I-4847-2017; Sara, Moutailler/J-9633-2019; Abreu,
+   Filipe/F-6364-2019
+OI Paupy, Christophe/0000-0002-7122-2079; Sara,
+   Moutailler/0000-0003-3010-6968; Ribeiro, Ieda
+   Pereira/0000-0002-0874-6072; Bonaldo, Myrna/0000-0001-9899-3386; Barbosa
+   de Lima, Sheila Maria/0000-0001-9234-1678; Lourenco-de-Oliveira,
+   Ricardo/0000-0003-0423-5694; Pereira dos santos,
+   Taissa/0000-0001-6916-0297; Abreu, Filipe/0000-0001-9768-4688
+FU EUROPEAN UNION'S HORIZON 2020 Research and Innovation Programme:
+   ZIKAlliance [734548]; CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E
+   TECNOLOGICONational Council for Scientific and Technological Development
+   (CNPq) [309577/2013-6, 312446/2018-7, 309471/2016-8, 426767/2018-7,
+   88881.130684/2016-01]; FUNDACAO CARLOS CHAGAS FILHO DE AMPARO A PESQUISA
+   DO ESTADO DO RIO DE JANEIRO [E-26/203.064/2016]; INSTITUT PASTEUR [528];
+   COORDENACAODE APERFEICOAMENTODE PESSOAL DE NIVEL SUPERIORCAPES [Cofecub
+   799-14, Auxpe 1731/2014]; FUNDACAO OSWALDO CRUZ [VPPIS-004-FIO18]
+FX This research was funded by EUROPEAN UNION'S HORIZON 2020 Research and
+   Innovation Programme: ZIKAlliance 734548; CONSELHO NACIONAL DE
+   DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO: 309577/2013-6 and
+   312446/2018-7 and 309471/2016-8 and 426767/2018-7 and
+   88881.130684/2016-01; FUNDACAO CARLOS CHAGAS FILHO DE AMPARO A PESQUISA
+   DO ESTADO DO RIO DE JANEIRO: E-26/203.064/2016; INSTITUT PASTEUR: PTR
+   No. 528; COORDENACAODE APERFEICOAMENTODE PESSOAL DE NIVEL SUPERIOR:
+   Cofecub 799-14 and Auxpe 1731/2014; FUNDACAO OSWALDO CRUZ:
+   VPPIS-004-FIO18.
+CR Abreu F.V.S.D., 2019, MEM I O CRUZ, V114
+   Abreu F, 2019, AM J PRIMATOL, V81, DOI 10.1002/ajp.22963
+   Althouse BM, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0005055
+   Araujo FAA, 2011, EPIDEMIOL SERV SAUDE, V20, P527, DOI 10.5123/S1679-49742011000400012
+   [Anonymous], 2017, BRAZ GUIA VIG EP PRI
+   [Anonymous], 2003, WHO GUID PLAQ RED NE
+   de Almeida MAB, 2019, J MED PRIMATOL, V48, P211, DOI 10.1111/jmp.12417
+   de Almeida MAB, 2012, AM J PRIMATOL, V74, P68, DOI 10.1002/ajp.21010
+   Berry N., 2019, SCI REP, V9, P1
+   Bicca-marques JC, 2017, SCI ADV, P18
+   Bonaldo MC, 2017, MEM I OSWALDO CRUZ, V112, P447, DOI 10.1590/0074-02760170134
+   Bonaldo MC, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004816
+   Brasil P, 2017, LANCET GLOB HEALTH, V5, pE1038, DOI 10.1016/S2214-109X(17)30333-9
+   Bryant JE, 2007, PLOS PATHOG, V3, P668, DOI 10.1371/journal.ppat.0030075
+   Catenacci LS, 2018, ECOHEALTH, V15, P777, DOI 10.1007/s10393-018-1361-2
+   Causey OR, 1949, AM J TROP MED HYG  S, Vs1-29, P555, DOI [10.4269/ajtmh.1949.s1-29.555, DOI 10.4269/AJTMH.1949.S1-29.555]
+   Chiu CY, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-17067-w
+   Fernandes NCCD, 2017, EMERG INFECT DIS, V23, P2038, DOI 10.3201/eid2312.170685
+   Couto-Lima D, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-05186-3
+   Cunha MS, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-41950-3
+   Cunha MS, 2019, SCI REP, V9, P1, DOI DOI 10.1038/s41598-018-37186-2
+   Vasconcelos PFD, 2010, REV SAUDE PUBL, V44, P1144, DOI 10.1590/S0034-89102010005000046
+   Davis N C, 1930, J Exp Med, V52, P405
+   Davis NC, 1930, AM J HYG, V11, P321
+   de Araujo TVB, 2016, LANCET INFECT DIS, V16, P1356, DOI 10.1016/S1473-3099(16)30318-8
+   de Avila-Pires Fernando Dias, 2018, Revista de Patologia Tropical, V47, P1, DOI 10.5216/rpt.v47i1.52274
+   de Oliveira EF, 2018, TRANSBOUND EMERG DIS, V65, P1094, DOI 10.1111/tbed.12829
+   de Souza RP, 2011, REV INST MED TROP SP, V53, P133, DOI 10.1590/S0036-46652011000300004
+   Delatorre E, 2019, FRONT MICROBIOL, V10, DOI 10.3389/fmicb.2019.01079
+   dos Santos TP, 2018, EMERG MICROBES INFEC, V7, DOI 10.1038/s41426-018-0194-y
+   Faria NR, 2018, SCIENCE, V361, P894, DOI 10.1126/science.aat7115
+   Favoretto SR, 2019, ECOHEALTH, V16, P61, DOI 10.1007/s10393-019-01394-7
+   Fedigan LM, 2017, INT ENCY PRIMATOLOGY, P1
+   Fernandes RS, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-56669-4
+   Ferreira-de-Brito A, 2016, MEM I OSWALDO CRUZ, V111, P655, DOI 10.1590/0074-02760160332
+   Franco O., 1969, HIST FEBRE AMARELA B, V1, P210
+   Garcia de Oliveira, 2019, B WORLD HEALTH ORGAN, V97, P6
+   Gomez MM, 2018, J GEN VIROL, V99, P536, DOI 10.1099/jgv.0.001033
+   HADDOW AJ, 1948, ANN TROP MED PARASIT, V42, P218, DOI 10.1080/00034983.1948.11685365
+   Heukelbach J, 2016, J INFECT DEV COUNTR, V10, P116, DOI 10.3855/jidc.8217
+   IVERSSON LB, 1984, REV SAUDE PUBL, V18, P323, DOI 10.1590/S0034-89101984000400007
+   Karna AK, 2018, VIRUSES-BASEL, V10, DOI 10.3390/v10080434
+   Klitting R, 2018, GENES-BASEL, V9, DOI 10.3390/genes9060291
+   KUMM HW, 1950, AM J TROP MED, V30, P733
+   Kuno G, 1998, J VIROL, V72, P73, DOI 10.1128/JVI.72.1.73-83.1998
+   LAEMMERT HW, 1946, AM J TROP MED, V26, P33
+   LOPES ODS, 1978, AM J EPIDEMIOL, V107, P444
+   Mayer SV, 2017, ACTA TROP, V166, P155, DOI 10.1016/j.actatropica.2016.11.020
+   Miagostovich MP, 1999, J CLIN VIROL, V14, P183, DOI 10.1016/S1386-6532(99)00059-1
+   Monath TP, 2015, J CLIN VIROL, V64, P160, DOI 10.1016/j.jcv.2014.08.030
+   Moreira-Soto A, 2018, CLIN MICROBIOL INFEC, V24, DOI 10.1016/j.cmi.2018.01.026
+   Moreira-Soto A, 2018, MSPHERE, V3, DOI [10.1128/mSphere.00523-17, 10.1128/msphere.00523-17]
+   Moreno ES, 2015, MEM I OSWALDO CRUZ, V110, P865, DOI 10.1590/0074-02760150075
+   Moussallem TM, 2019, REV PANAM SALUD PUBL, V43, DOI 10.26633/RPSP.2019.29
+   Moutailler S, 2019, VIRUSES-BASEL, V11, DOI 10.3390/v11100904
+   Pinheiro GG, 2019, INSECTS, V10, DOI 10.3390/insects10050136
+   Possas C, 2018, MEM I OSWALDO CRUZ, V113, DOI 10.1590/0074-02760180278
+   Rosa APAT, 2016, REV PAN AMAZONICA SA, V7, P61, DOI [10.5123/S2176-62232016000500007, DOI 10.5123/S2176-62232016000500007]
+   de Abreu FVS, 2019, EMERG MICROBES INFEC, V8, P218, DOI 10.1080/22221751.2019.1568180
+   Shan C, 2017, J CLIN MICROBIOL, V55, P3028, DOI [10.1128/JCM.00975-17, 10.1128/jcm.00975-17]
+   Soper F.L., 1937, REV HIG SAUDE PUBLIC, V10, P104
+   Soper FL, 1933, AM J HYG, V18, P555, DOI 10.1093/oxfordjournals.aje.a117967
+   Steinhagen K, 2016, EUROSURVEILLANCE, V21, P13, DOI 10.2807/1560-7917.ES.2016.21.50.30426
+   Terzian ACB, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-34423-6
+   Vanchiere J.A., 2017, J TROP MED HYG, V98, P173
+   Weaver SC, 2013, TRENDS MICROBIOL, V21, P360, DOI 10.1016/j.tim.2013.03.003
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 67
+TC 2
+Z9 2
+U1 1
+U2 1
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1999-4915
+J9 VIRUSES-BASEL
+JI Viruses-Basel
+PD APR
+PY 2020
+VL 12
+IS 4
+AR 364
+DI 10.3390/v12040364
+PG 21
+WC Virology
+SC Virology
+GA LX0IV
+UT WOS:000539525300006
+PM 32224891
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Tian, Y
+   Seumois, G
+   De-Oliveira-Pinto, LM
+   Mateus, J
+   Herrera-de la Mata, S
+   Kim, C
+   Hinz, D
+   Goonawardhana, NDS
+   de Silva, AD
+   Premawansa, S
+   Premawansa, G
+   Wijewickrama, A
+   Balmaseda, A
+   Grifoni, A
+   Vijayanand, P
+   Harris, E
+   Peters, B
+   Sette, A
+   Weiskopf, D
+AF Tian, Yuan
+   Seumois, Gregory
+   De-Oliveira-Pinto, Luzia M.
+   Mateus, Jose
+   Herrera-de la Mata, Sara
+   Kim, Cheryl
+   Hinz, Denise
+   Goonawardhana, N. D. Suraj
+   de Silva, Aruna D.
+   Premawansa, Sunil
+   Premawansa, Gayani
+   Wijewickrama, Ananda
+   Balmaseda, Angel
+   Grifoni, Alba
+   Vijayanand, Pandurangan
+   Harris, Eva
+   Peters, Bjoern
+   Sette, Alessandro
+   Weiskopf, Daniela
+TI Molecular Signatures of Dengue Virus-Specific IL-10/IFN-gamma
+   Co-producing CD4 T Cells and Their Association with Dengue Disease
+SO CELL REPORTS
+LA English
+DT Article
+ID ORIGINAL ANTIGENIC SIN; PROTECTIVE ROLE; INFECTION PROMOTES; PLASMA
+   LEAKAGE; IL-10 FAMILY; IFN-GAMMA; RNA-SEQ; RESPONSES; CYTOKINES; TH1
+AB Dengue virus (DENV) can cause diseases ranging from dengue fever (DF) to more severe dengue hemorrhagic fever/dengue shock syndrome (DHF/DSS). Whether antiviral T cells contribute to the protection against or pathogenesis of severe disease is not well defined. Here, we identified antigen-specific IL-10(+)IFN-gamma(+) double-positive (DP) CD4 T cells during acute DENV infection. While the transcriptomic signatures of DP cells partially overlapped with those of cytotoxic and type 1 regulatory CD4 T cells, the majority of them were non-cytotoxic/Tr1 and included IL21, IL22, CD109, and CCR1. Although we observed a higher frequency of DP cells in DHF, the transcriptomic profile of DP cells was similar in DF and DHF, suggesting that DHF is not associated with the altered phenotypic or functional attributes of DP cells. Overall, this study revealed a DENV-specific DP cell subset in patients with acute dengue disease and argues against altered DP cells as a determinant of DHF.
+C1 [Tian, Yuan; Seumois, Gregory; De-Oliveira-Pinto, Luzia M.; Mateus, Jose; Herrera-de la Mata, Sara; de Silva, Aruna D.; Grifoni, Alba; Vijayanand, Pandurangan; Peters, Bjoern; Sette, Alessandro; Weiskopf, Daniela] La Jolla Inst Immunol, Div Vaccine Discovery, La Jolla, CA 92037 USA.
+   [Kim, Cheryl; Hinz, Denise] La Jolla Inst Immunol, Flow Cytometry Core Facil, La Jolla, CA 92037 USA.
+   [Goonawardhana, N. D. Suraj; de Silva, Aruna D.] Gen Sir John Kotelawala Def Univ, Dept Paraclin Sci, Ratmalana 10390, Russia.
+   [Premawansa, Sunil] Univ Colombo, Dept Zool & Environm Sci, Fac Sci, Colombo 00300, Sri Lanka.
+   [Premawansa, Gayani] North Colombo Teaching Hosp, Ragama 11010, Sri Lanka.
+   [Wijewickrama, Ananda] Natl Inst Infect Dis, Gothatuwa 10620, Angoda, Sri Lanka.
+   [Balmaseda, Angel] Minist Salud, Ctr Nacl Diagnost & Referencia, Lab Nacl Virol, Managua 16064, Nicaragua.
+   [Harris, Eva] Univ Calif Berkeley, Sch Publ Hlth, Div Infect Dis & Vaccinol, Berkeley, CA 94720 USA.
+   [Peters, Bjoern; Sette, Alessandro] Univ Calif San Diego, Dept Med, San Diego, CA 92093 USA.
+RP Tian, Y (corresponding author), La Jolla Inst Immunol, Div Vaccine Discovery, La Jolla, CA 92037 USA.
+EM ytian@lji.org
+FU Shared Instrumentation Grant (SIG) Program [S10 RR027366, S10 OD018499];
+   NIHUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USA [S10 OD016262, HHSN272200900042C,
+   HHSN27220140045C]; National Institute of Allergy and Infectious
+   DiseasesUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [U19 AI118626, P01 AI106695]; Brazilian
+   National Council for Scientific and Technological DevelopmentNational
+   Council for Scientific and Technological Development (CNPq) [CNPq
+   232745/2014-5]; Departamento Administrativo de Ciencia, Tecnologia e
+   Innovacion (COLCIENCIAS)Departamento Administrativo de Ciencia,
+   Tecnologia e Innovacion Colciencias; Pontificia Universidad Javeriana
+   (Convocatoria 727 Doctorados Nacionales); American Association of
+   Immunologists Intersect Fellowship Program for Computational Scientists
+   and Immunologists; NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS
+   DISEASESUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [U19AI118626, U19AI118626, P01AI106695,
+   U19AI118626, P01AI106695, P01AI106695, U19AI118626, P01AI106695,
+   U19AI118626, P01AI106695, P01AI106695, U19AI118626, P01AI106695,
+   P01AI106695, P01AI106695, P01AI106695, U19AI118626, U19AI118626,
+   U19AI118626, P01AI106695, P01AI106695, U19AI118626, P01AI106695,
+   U19AI118626, U19AI118626, U19AI118626, P01AI106695, P01AI106695,
+   P01AI106695, U19AI118626, P01AI106695, U19AI118626, P01AI106695,
+   U19AI118626, U19AI118626, P01AI106695, P01AI106695, U19AI118626,
+   P01AI106695, U19AI118626, P01AI106695, P01AI106695, P01AI106695,
+   U19AI118626, U19AI118626, U19AI118626, U19AI118626, P01AI106695,
+   U19AI118626, P01AI106695, P01AI106695, U19AI118626, U19AI118626,
+   U19AI118626, U19AI118626, U19AI118626, U19AI118626, P01AI106695,
+   P01AI106695, P01AI106695, P01AI106695, P01AI106695, U19AI118626,
+   P01AI106695, U19AI118626] Funding Source: NIH RePORTER
+FX We thank the La Jolla Institute for Immunology Flow Cytometry,
+   Next-Generation Sequencing, and Bioinformatics core facilities for
+   services, as well as the members of the Peters and Sette laboratories
+   for their help. The FACSAria II cell sorter and the CyTOF mass cytometer
+   were acquired through the Shared Instrumentation Grant (SIG) Program S10
+   RR027366 and S10 OD018499, respectively. The Illumina HiSeq 2500
+   Sequencer was purchased through NIH S10 OD016262. This work was
+   performed as a project of the Human Immunology ProjectConsortium (HIPC)
+   and supported by National Institute of Allergy and Infectious Diseases
+   grants U19 AI118626 and P01 AI106695 and NIH contracts HHSN272200900042C
+   and HHSN27220140045C. L.M.D.-O.-P. was the recipient of a postdoctoral
+   fellowship from the Brazilian National Council for Scientific and
+   Technological Development (CNPq 232745/2014-5). J.M. was supported by
+   PhD student fellowships from the Departamento Administrativo de Ciencia,
+   Tecnologia e Innovacion (COLCIENCIAS) and Pontificia Universidad
+   Javeriana (Convocatoria 727 Doctorados Nacionales). Y.T. was supported
+   through the American Association of Immunologists Intersect Fellowship
+   Program for Computational Scientists and Immunologists. The female icon
+   and mosquito icon used in the graphical abstract were made by Freepik
+   and Kiranshastry, respectively, from https://www.flaticon.com.
+CR Adikari TN, 2016, CLIN EXP IMMUNOL, V184, P90, DOI 10.1111/cei.12747
+   Amir ED, 2013, NAT BIOTECHNOL, V31, P545, DOI 10.1038/nbt.2594
+   Anders S, 2015, BIOINFORMATICS, V31, P166, DOI 10.1093/bioinformatics/btu638
+   Anderson CF, 2007, J EXP MED, V204, P285, DOI 10.1084/jem.20061886
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Bolotin DA, 2017, NAT BIOTECHNOL, V35, P908, DOI 10.1038/nbt.3979
+   Bolotin DA, 2015, NAT METHODS, V12, P380, DOI 10.1038/nmeth.3364
+   Boyle MJ, 2017, FRONT IMMUNOL, V8, DOI 10.3389/fimmu.2017.01329
+   Butthep P, 2012, PEDIATR INFECT DIS J, V31, pE232, DOI 10.1097/INF.0b013e31826fd456
+   Chareonsirisuthigul T, 2007, J GEN VIROL, V88, P365, DOI 10.1099/vir.0.82537-0
+   Chen LC, 2006, AM J TROP MED HYG, V74, P142, DOI 10.4269/ajtmh.2006.74.142
+   Cox MA, 2013, VIROLOGY, V435, P157, DOI 10.1016/j.virol.2012.09.012
+   de Alwis R, 2016, J VIROL, V90, P4771, DOI 10.1128/JVI.02892-15
+   do Rosario APF, 2012, J IMMUNOL, V188, P1178, DOI 10.4049/jimmunol.1102755
+   Gerosa F, 1999, CLIN IMMUNOL, V92, P224, DOI 10.1006/clim.1999.4752
+   Green S, 1999, J MED VIROL, V59, P329, DOI 10.1002/(SICI)1096-9071(199911)59:3&lt;329::AID-JMV12&gt;3.0.CO;2-G
+   Grifoni A, 2017, FRONT IMMUNOL, V8, DOI 10.3389/fimmu.2017.01309
+   Gwinn W, 2003, AM J TROP MED HYG, V69, P39, DOI 10.4269/ajtmh.2003.69.39
+   Hackl H, 2016, NAT REV GENET, V17, P441, DOI 10.1038/nrg.2016.67
+   HALSTEAD SB, 1983, AM J TROP MED HYG, V32, P154, DOI 10.4269/ajtmh.1983.32.154
+   Hatch S, 2011, J INFECT DIS, V203, P1282, DOI 10.1093/infdis/jir012
+   Jagannathan P, 2016, J INFECT DIS, V214, P329, DOI 10.1093/infdis/jiw147
+   Jagannathan P, 2014, PLOS PATHOG, V10, DOI 10.1371/journal.ppat.1003864
+   Jankovic D, 2007, J EXP MED, V204, P273, DOI 10.1084/jem.20062175
+   Jayaratne HE, 2018, IMMUNOLOGY, V154, P89, DOI 10.1111/imm.12863
+   Flores-Mendoza LK, 2017, MEDIAT INFLAMM, V2017, DOI 10.1155/2017/5197592
+   Kotecha N, 2010, CURR PROTOC CYTOM, V10, P10, DOI [10.1002/0471142956.cy1017s53, DOI 10.1002/0471142956.CY1017S53]
+   Kraus AA, 2007, J CLIN MICROBIOL, V45, P3777, DOI 10.1128/JCM.00827-07
+   Laidlaw BJ, 2017, SCI IMMUNOL, V2, DOI 10.1126/sciimmunol.aan4767
+   Laidlaw BJ, 2015, NAT IMMUNOL, V16, P871, DOI 10.1038/ni.3224
+   Lee BH, 2019, CYTOM PART A, V95, P1019, DOI 10.1002/cyto.a.23866
+   Li H, 2009, BIOINFORMATICS, V25, P1754, DOI 10.1093/bioinformatics/btp324
+   Lindow JC, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001742
+   Love MI, 2014, GENOME BIOL, V15, DOI 10.1186/s13059-014-0550-8
+   Luhn K, 2007, J EXP MED, V204, P979, DOI 10.1084/jem.20061381
+   Malavige GN, 2013, BMC INFECT DIS, V13, DOI 10.1186/1471-2334-13-341
+   Martins GA, 2006, NAT IMMUNOL, V7, P457, DOI 10.1038/ni1320
+   Michelini RH, 2013, J EXP MED, V210, P1189, DOI 10.1084/jem.20130392
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Ngono AE, 2018, ANNU REV IMMUNOL, V36, P279, DOI 10.1146/annurev-immunol-042617-053142
+   Ngono AE, 2016, EBIOMEDICINE, V13, P284, DOI 10.1016/j.ebiom.2016.10.006
+   O'Garra A, 2007, NAT REV IMMUNOL, V7, P425, DOI 10.1038/nri2097
+   Ouyang WJ, 2019, IMMUNITY, V50, P871, DOI 10.1016/j.immuni.2019.03.020
+   Ouyang WJ, 2011, ANNU REV IMMUNOL, V29, P71, DOI 10.1146/annurev-immunol-031210-101312
+   Parish IA, 2014, J CLIN INVEST, V124, P3455, DOI [10.1172/JC166108, 10.1172/JCI66108]
+   Patil VS, 2018, SCI IMMUNOL, V3, DOI 10.1126/sciimmunol.aan8664
+   Picelli S, 2014, NAT PROTOC, V9, P171, DOI 10.1038/nprot.2014.006
+   Pohl-Koppe A, 1998, J IMMUNOL, V160, P1804
+   Prestwood TR, 2012, J VIROL, V86, P12561, DOI 10.1128/JVI.06743-11
+   Roncarolo MG, 2018, IMMUNITY, V49, P1004, DOI 10.1016/j.immuni.2018.12.001
+   Rosales SL, 2018, METHODS MOL BIOL, V1799, P275, DOI 10.1007/978-1-4939-7896-0_21
+   Rothman AL, 2011, NAT REV IMMUNOL, V11, P532, DOI 10.1038/nri3014
+   Schmieder R, 2011, BIOINFORMATICS, V27, P863, DOI 10.1093/bioinformatics/btr026
+   Screaton G, 2015, NAT REV IMMUNOL, V15, P745, DOI 10.1038/nri3916
+   Shugay M, 2015, PLOS COMPUT BIOL, V11, DOI 10.1371/journal.pcbi.1004503
+   Spolski R, 2014, NAT REV DRUG DISCOV, V13, P381, DOI 10.1038/nrd4296
+   St John AL, 2019, NAT REV IMMUNOL, V19, P218, DOI 10.1038/s41577-019-0123-x
+   Stephens M, 2017, BIOSTATISTICS, V18, P275, DOI 10.1093/biostatistics/kxw041
+   Szabo SJ, 2000, CELL, V100, P655, DOI 10.1016/S0092-8674(00)80702-3
+   Tian Y, 2019, J CLIN INVEST, V129, P1727, DOI 10.1172/JCI123726
+   Tian Y, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-01728-5
+   Tian Y, 2016, FRONT IMMUNOL, V7, DOI 10.3389/fimmu.2016.00531
+   Tian Y, 2016, J IMMUNOL, V197, P1308, DOI 10.4049/jimmunol.1502481
+   Tian Y, 2016, TRENDS IMMUNOL, V37, P557, DOI 10.1016/j.it.2016.06.001
+   Tian Y, 2016, J IMMUNOL, V196, P2153, DOI 10.4049/jimmunol.1401236
+   Trapnell C, 2009, BIOINFORMATICS, V25, P1105, DOI 10.1093/bioinformatics/btp120
+   Tripathi SK, 2014, IMMUNOL REV, V261, P62, DOI 10.1111/imr.12204
+   Tsai TT, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003320
+   Ubol S, 2010, J INFECT DIS, V201, P923, DOI 10.1086/651018
+   Walther M, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000364
+   Weiskopf D, 2016, J INFECT DIS, V214, P1117, DOI 10.1093/infdis/jiw309
+   Weiskopf D, 2015, P NATL ACAD SCI USA, V112, pE4256, DOI 10.1073/pnas.1505956112
+   Weiskopf D, 2014, FRONT IMMUNOL, V5, DOI 10.3389/fimmu.2014.00093
+   Weiskopf D, 2013, P NATL ACAD SCI USA, V110, pE2046, DOI 10.1073/pnas.1305227110
+   White AM, 2016, FRONT IMMUNOL, V7, DOI 10.3389/fimmu.2016.00355
+   Ferreira RAX, 2015, ACTA TROP, V149, P138, DOI 10.1016/j.actatropica.2015.04.023
+   Xin G, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-07492-4
+   Yauch LE, 2010, J IMMUNOL, V185, P5405, DOI 10.4049/jimmunol.1001709
+   Yauch LE, 2009, J IMMUNOL, V182, P4865, DOI 10.4049/jimmunol.0801974
+   Yeste A, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4753
+   Zellweger RM, 2015, J VIROL, V89, P6494, DOI 10.1128/JVI.00036-15
+   Zellweger RM, 2014, J IMMUNOL, V193, P4117, DOI 10.4049/jimmunol.1401597
+   Zellweger RM, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003723
+   Zeng HY, 2015, CELL MOL IMMUNOL, V12, P566, DOI 10.1038/cmi.2015.44
+   Zhou YY, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-09234-6
+   Zhu AQ, 2019, BIOINFORMATICS, V35, P2084, DOI 10.1093/bioinformatics/bty895
+   Zompi S, 2012, J IMMUNOL, V188, P404, DOI 10.4049/jimmunol.1102124
+NR 87
+TC 3
+Z9 3
+U1 0
+U2 1
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 2211-1247
+J9 CELL REP
+JI Cell Reports
+PD DEC 24
+PY 2019
+VL 29
+IS 13
+BP 4482
+EP +
+DI 10.1016/j.celrep.2019.11.098
+PG 18
+WC Cell Biology
+SC Cell Biology
+GA JY3RI
+UT WOS:000504335700021
+PM 31875555
+OA DOAJ Gold, Green Accepted
+DA 2020-12-09
+ER
+
+PT J
+AU Cipitelli, MD
+   Paiva, IA
+   Badolato-Correa, J
+   de-Oliveira-Pinto, LM
+AF Cipitelli, Marcio da Costa
+   Paiva, Iury Amancio
+   Badolato-Correa, Jessica
+   de-Oliveira-Pinto, Luzia Maria
+TI Influence of chemokines on the endothelial permeability and cellular
+   transmigration during dengue
+SO IMMUNOLOGY LETTERS
+LA English
+DT Review
+DE Dengue; Endothelial cells; Chemokines
+ID ORIGINAL ANTIGENIC SIN; ANTIBODY-DEPENDENT ENHANCEMENT; INNATE
+   IMMUNE-RESPONSES; VIRUS-INFECTION; HEMORRHAGIC-FEVER; RECEPTOR
+   EXPRESSION; CYTOKINE PRODUCTION; ADHERENS JUNCTIONS; TIGHT JUNCTIONS;
+   PLASMA LEAKAGE
+AB During a pathogenic infection, an inflammatory process is triggered in which several inflammatory mediators, such as cytokines, chemokines, growth factors, complement system components, nitric oxide, and others induce integrity alteration on the endothelial barrier. Chemokines are responsible for regulating leukocyte trafficking under homeostatic conditions as well as activating immune system cells under inflammatory conditions. They are crucial molecules in the early stages of infection, leading to the recruitment of immune cells, namely neutrophils, monocytes, natural killer (NK) cells, natural killer T cells (NKT), dendritic cells (DC), T lymphocytes and all cells expressing chemokine receptors for inflammatory sites. Other functions, such as collagen production, tissue repair, a proliferation of hematopoietic precursors and angiogenesis, are also performed by these molecules. Chemokines, amongst inflammatory mediators, play a key role in dengue immunopathogenesis. Dengue fever is a disease caused by the dengue virus (DENV). It is characterized by a broad spectrum of clinical manifestations ranging from asymptomatic cases to mild and severe symptomatic ones. As for the latter, the appearance of hemorrhagic manifestations and changes in vascular permeability may lead the patient to develop cavitary effusions, organ involvement, and even death. As chemokines exert an influence on various homeostatic and inflammatory processes, acting vigorously on vascular endothelial activation and cell migration, the main purpose of this chapter is to discuss the influence of chemokines on the alteration of endothelial permeability and migration of T lymphocytes in DENV infection.
+C1 [Cipitelli, Marcio da Costa; Paiva, Iury Amancio; Badolato-Correa, Jessica; de-Oliveira-Pinto, Luzia Maria] Fundacao Oswaldo Cruz, Oswaldo Cruz Inst, Lab Viral Immunol, Rio De Janeiro, Brazil.
+RP de-Oliveira-Pinto, LM (corresponding author), Fundacao Oswaldo Cruz, Oswaldo Cruz Inst, Lab Viral Immunol, Rio De Janeiro, Brazil.
+EM lpinto@ioc.fiocruz.br
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior
+   (CAPES)CAPES; Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (CNPq)National Council for Scientific and Technological
+   Development (CNPq); Instituto Oswaldo Cruz (Fiocruz) for the students'
+   fellowships
+FX This study was supported by Coordenacao de Aperfeicoamento de Pessoal de
+   Nivel Superior (CAPES), Conselho Nacional de Desenvolvimento Cientifico
+   e Tecnologico (CNPq) and Instituto Oswaldo Cruz (Fiocruz) for the
+   students' fellowships.
+CR Aird WC, 2004, CRIT CARE MED, V32, pS271, DOI 10.1097/01.CCM.0000129669.21649.40
+   Appanna R, 2007, CLIN VACCINE IMMUNOL, V14, P969, DOI 10.1128/CVI.00069-07
+   Appay V, 2008, CYTOM PART A, V73A, P975, DOI 10.1002/cyto.a.20643
+   Avirutnan P, 1998, J IMMUNOL, V161, P6338
+   Bachelerie F, 2014, PHARMACOL REV, V66, P1, DOI 10.1124/pr.113.007724
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Becker Y, 2007, VIRUS GENES, V34, P93, DOI 10.1007/s11262-006-0056-x
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Blanchet X, 2012, FRONT IMMUNOL, V3, DOI 10.3389/fimmu.2012.00175
+   Boonnak K, 2013, J IMMUNOL, V190, P5659, DOI 10.4049/jimmunol.1203052
+   Brady OJ, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001760
+   Bynoe MS, 2015, FLUIDS BARRIERS CNS, V12, DOI 10.1186/s12987-015-0017-7
+   Calvert JK, 2015, J INTERF CYTOK RES, V35, P654, DOI 10.1089/jir.2014.0195
+   Chan KR, 2014, P NATL ACAD SCI USA, V111, P2722, DOI 10.1073/pnas.1317454111
+   Chan KR, 2011, P NATL ACAD SCI USA, V108, P12479, DOI 10.1073/pnas.1106568108
+   Chanthick C, 2018, VIRUSES-BASEL, V10, DOI 10.3390/v10020069
+   Chau Tran Nguyen Bich, 2008, J Infect Dis, V198, P516, DOI 10.1086/590117
+   Chen HR, 2018, PLOS PATHOG, V14, DOI 10.1371/journal.ppat.1007033
+   Cines DB, 1998, BLOOD, V91, P3527
+   Clay CC, 2007, J VIROL, V81, P12040, DOI 10.1128/JVI.00133-07
+   Costa VV, 2017, MBIO, V8, DOI [10.1128/mBio.00741-17, 10.1128/mbio.00741-17]
+   Culshaw A, 2017, NAT IMMUNOL, V18, P1228, DOI 10.1038/ni.3850
+   Dalrymple NA, 2014, CURR OPIN VIROL, V7, P134, DOI 10.1016/j.coviro.2014.06.006
+   Dalrymple NA, 2012, J VIROL, V86, P6408, DOI 10.1128/JVI.00213-12
+   DAVENPORT FM, 1953, J EXP MED, V98, P641, DOI 10.1084/jem.98.6.641
+   de-Oliveira-Pinto LM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0038527
+   Dejnirattisai W, 2010, SCIENCE, V328, P745, DOI 10.1126/science.1185181
+   Dvorak HF, 2010, CURR OPIN HEMATOL, V17, P225, DOI 10.1097/MOH.0b013e3283386638
+   Endy TP, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0000975
+   Fang YT, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110655
+   Fariz-Safhan MN, 2014, TROP BIOMED, V31, P270
+   Ferguson NM, 2014, P NATL ACAD SCI USA, V111, P9370, DOI 10.1073/pnas.1407648111
+   Fernando S, 2016, BMC INFECT DIS, V16, DOI 10.1186/s12879-016-1656-2
+   FERRARA JLM, 1993, CURR OPIN IMMUNOL, V5, P794, DOI 10.1016/0952-7915(93)90139-J
+   FRANCIS T Jr, 1960, Whats New, V220, P26
+   Friberg H, 2011, SCI REP-UK, V1, DOI 10.1038/srep00051
+   Fung KYY, 2018, TRAFFIC, V19, P5, DOI 10.1111/tra.12533
+   Furuse M, 2006, TRENDS CELL BIOL, V16, P181, DOI 10.1016/j.tcb.2006.02.006
+   Furuta T, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001505
+   Gagnon SJ, 1999, J VIROL, V73, P3623, DOI 10.1128/JVI.73.5.3623-3629.1999
+   Garcia M, 2017, EUR CYTOKINE NETW, V28, P41, DOI 10.1684/ecn.2017.0394
+   Giannotta M, 2013, DEV CELL, V26, P441, DOI 10.1016/j.devcel.2013.08.020
+   Gonzalez-Motos V, 2016, CYTOKINE GROWTH F R, V30, P71, DOI 10.1016/j.cytogfr.2016.02.007
+   Griffith JW, 2014, ANNU REV IMMUNOL, V32, P659, DOI 10.1146/annurev-immunol-032713-120145
+   Guabiraba R, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015680
+   Guzman MG, 2016, NAT REV DIS PRIMERS, V2, DOI 10.1038/nrdp.2016.55
+   Guzman MG, 2015, LANCET, V385, P453, DOI 10.1016/S0140-6736(14)60572-9
+   HALSTEAD SB, 1983, AM J TROP MED HYG, V32, P154, DOI 10.4269/ajtmh.1983.32.154
+   HALSTEAD SB, 1970, YALE J BIOL MED, V42, P350
+   HALSTEAD SB, 1977, J EXP MED, V146, P201, DOI 10.1084/jem.146.1.201
+   Hatch S, 2011, J INFECT DIS, V203, P1282, DOI 10.1093/infdis/jir012
+   HAWKES RA, 1964, AUST J EXP BIOL MED, V42, P465
+   Hirase T, 1997, J CELL SCI, V110, P1603
+   Hoh BP, 2015, HUM IMMUNOL, V76, P421, DOI 10.1016/j.humimm.2015.03.019
+   Holbrook MR, 2017, VIRUSES-BASEL, V9, DOI 10.3390/v9050097
+   Honsawek S, 2007, J INFECTION, V54, P225, DOI 10.1016/j.jinf.2006.06.002
+   HOTT S, 1952, J INFECT DIS, V90, P10, DOI 10.1093/infdis/90.1.10
+   Hsieh MF, 2006, J IMMUNOL, V177, P1855, DOI 10.4049/jimmunol.177.3.1855
+   Inyoo S, 2017, JPN J INFECT DIS, V70, P186, DOI [10.7883/yoken.jjid.2016.123, 10.7883/yoken.JJID.2016.123]
+   Ip PP, 2010, J IMMUNOL, V184, P5705, DOI 10.4049/jimmunol.0903484
+   Janssens AS, 2005, J CLIN PATHOL, V58, P285, DOI 10.1136/jcp.2004.017210
+   Kamaladasa A, 2016, ANTIVIR RES, V133, P183, DOI 10.1016/j.antiviral.2016.07.016
+   Katzelnick LC, 2017, SCIENCE, V358, P929, DOI 10.1126/science.aan6836
+   Kelley JF, 2012, VIROLOGY, V422, P326, DOI 10.1016/j.virol.2011.10.030
+   Klenerman P, 1998, NATURE, V394, P482
+   Kolb SA, 1999, J NEUROIMMUNOL, V93, P172, DOI 10.1016/S0165-5728(98)00223-9
+   Konradt C, 2018, EUR J IMMUNOL, V48, P1607, DOI 10.1002/eji.201646789
+   KURANE I, 1989, J EXP MED, V170, P763, DOI 10.1084/jem.170.3.763
+   Lan NTP, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000304
+   Lee YR, 2006, J GEN VIROL, V87, P3623, DOI 10.1099/vir.0.82093-0
+   Libraty DH, 2009, PLOS MED, V6, DOI 10.1371/journal.pmed.1000171
+   LIVINGSTON PG, 1995, J IMMUNOL, V154, P1287
+   Locati M, 2002, ALLERGY, V57, P972, DOI 10.1034/j.1398-9995.2002.02166.x
+   Loke H, 2001, J INFECT DIS, V184, P1369, DOI 10.1086/324320
+   Lopez-Cotarelo P, 2017, TRENDS IMMUNOL, V38, P927, DOI 10.1016/j.it.2017.08.004
+   de Oliveira ECL, 2009, REV SOC BRAS MED TRO, V42, P682, DOI 10.1590/S0037-86822009000600014
+   Mackenzie JS, 2004, NAT MED, V10, pS98, DOI 10.1038/nm1144
+   Malavige GN, 2017, IMMUNOLOGY, V151, P261, DOI 10.1111/imm.12748
+   Mantovani A, 2006, NAT REV IMMUNOL, V6, P907, DOI 10.1038/nri1964
+   MARCHETT.NJ, 1972, APPL MICROBIOL, V24, P328, DOI 10.1128/AEM.24.3.328-333.1972
+   Mathew A, 1996, J CLIN INVEST, V98, P1684, DOI 10.1172/JCI118964
+   Matsushima K., 2011, INFLAMM REGEN, V31, P11, DOI DOI 10.2492/inflammregen.31.11
+   Mayxay M, 2011, TROP MED INT HEALTH, V16, P127, DOI 10.1111/j.1365-3156.2010.02641.x
+   Mehta D, 2006, PHYSIOL REV, V86, P279, DOI 10.1152/physrev.00012.2005
+   Messina JP, 2014, TRENDS MICROBIOL, V22, P138, DOI 10.1016/j.tim.2013.12.011
+   Miagostovich MP, 1997, CLIN NEUROPATHOL, V16, P204
+   Mills JH, 2011, PURINERG SIGNAL, V7, P265, DOI 10.1007/s11302-011-9222-2
+   Modhiran N, 2015, SCI TRANSL MED, V7, DOI 10.1126/scitranslmed.aaa3863
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Muller DA, 2017, J INFECT DIS, V215, pS89, DOI 10.1093/infdis/jiw649
+   Muller WA, 2016, IMMUNOL REV, V273, P61, DOI 10.1111/imr.12443
+   Murphy BR, 2011, ANNU REV IMMUNOL, V29, P587, DOI 10.1146/annurev-immunol-031210-101315
+   Naghavi M, 2017, LANCET, V390, P1151, DOI 10.1016/S0140-6736(17)32152-9
+   Navarro-Sanchez E, 2005, ARCH MED RES, V36, P425, DOI 10.1016/j.arcmed.2005.04.007
+   Nedoszytko B, 2014, POSTEP DERM ALERGOL, V31, P84, DOI 10.5114/pdia.2014.40920
+   Nguyen TPD, 2010, J IMMUNOL, V184, P7281, DOI 10.4049/jimmunol.0903262
+   Nibbs RJB, 2013, NAT REV IMMUNOL, V13, P815, DOI 10.1038/nri3544
+   Nielsen DG, 2009, VIROL J, V6, DOI 10.1186/1743-422X-6-211
+   Nielsen MS, 2012, COMPR PHYSIOL, V2, P1981, DOI 10.1002/cphy.c110051
+   Ong EZ, 2017, SCI REP-UK, V7, DOI 10.1038/srep40923
+   Povoa TF, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0168973
+   Povoa TF, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0083386
+   Proudfoot AEI, 2016, FRONT IMMUNOL, V7, DOI 10.3389/fimmu.2016.00183
+   Puerta-Guardo H, 2016, PLOS PATHOG, V12, DOI 10.1371/journal.ppat.1005738
+   Rathi K R, 2013, Med J Armed Forces India, V69, P254, DOI 10.1016/j.mjafi.2012.08.021
+   Rey FA, 2018, EMBO REP, V19, P206, DOI 10.15252/embr.201745302
+   Rivino L, 2004, J EXP MED, V200, P725, DOI 10.1084/jem.20040774
+   Romagnani P, 2000, EUR CYTOKINE NETW, V11, P510
+   Rothman AL, 2011, NAT REV IMMUNOL, V11, P532, DOI 10.1038/nri3014
+   SABIN ALBERT B., 1952, AMER JOUR TROP MED AND HYG, V1, P30
+   SALGAME P, 1991, SCIENCE, V254, P279, DOI 10.1126/science.1681588
+   Salje H, 2018, NATURE, V557, P719, DOI 10.1038/s41586-018-0157-4
+   SANGKAWIBHA N, 1984, AM J EPIDEMIOL, V120, P653, DOI 10.1093/oxfordjournals.aje.a113932
+   Schulz O, 2016, ANNU REV IMMUNOL, V34, P203, DOI 10.1146/annurev-immunol-041015-055649
+   Screaton G, 2015, NAT REV IMMUNOL, V15, P745, DOI 10.1038/nri3916
+   Sierra B, 2007, HUM IMMUNOL, V68, P531, DOI 10.1016/j.humimm.2007.03.001
+   Singh S, 2017, INFECT GENET EVOL, V52, P34, DOI 10.1016/j.meegid.2017.04.022
+   Soo KM, 2017, PEERJ, V5, DOI 10.7717/peerj.3589
+   Srikiatkhachorn A, 2014, ANTIVIR RES, V109, P160, DOI 10.1016/j.antiviral.2014.07.005
+   Srikiatkhachorn A, 2011, CLIN INFECT DIS, V53, P563, DOI 10.1093/cid/cir451
+   Srikiatkhachorn A, 2009, THROMB HAEMOSTASIS, V102, P1042, DOI 10.1160/TH09-03-0208
+   St John AL, 2019, NAT REV IMMUNOL, V19, P218, DOI 10.1038/s41577-019-0123-x
+   Suwarto S, 2017, J INFECT DIS, V215, P992, DOI 10.1093/infdis/jix041
+   Syenina A, 2015, ELIFE, V4, DOI 10.7554/eLife.05291
+   Talavera D, 2004, J GEN VIROL, V85, P1801, DOI 10.1099/vir.0.19652-0
+   Tisoncik JR, 2012, MICROBIOL MOL BIOL R, V76, P16, DOI 10.1128/MMBR.05015-11
+   Troupin A, 2016, J IMMUNOL, V197, P4382, DOI 10.4049/jimmunol.1600846
+   Tsang TK, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-09193-y
+   Umehara H, 2004, ARTERIOSCL THROM VAS, V24, P34, DOI 10.1161/01.ATV.0000095360.62479.1F
+   Wallez Y, 2008, BBA-BIOMEMBRANES, V1778, P794, DOI 10.1016/j.bbamem.2007.09.003
+   WATERMAN SH, 1982, ACTA VIROL, V26, P376
+   Weaver SC, 2009, INFECT GENET EVOL, V9, P523, DOI 10.1016/j.meegid.2009.02.003
+   Weiskopf D, 2015, P NATL ACAD SCI USA, V112, pE4256, DOI 10.1073/pnas.1505956112
+   Weiskopf D, 2013, P NATL ACAD SCI USA, V110, pE2046, DOI 10.1073/pnas.1305227110
+   Whittall C, 2013, J IMMUNOL, V190, P1725, DOI 10.4049/jimmunol.1200867
+   WHO, 2019, DENGUE AND SEVERE DE
+   WHO Library Cataloguing-in-Publication Data, LIBRARY CATALOGUING
+   WHO/TDR, 2016, TECHNICAL HANDBOOK F
+   Wills BA, 2004, J INFECT DIS, V190, P810, DOI 10.1086/422754
+   Yacoub S, 2015, LANCET, V385, P102, DOI 10.1016/S0140-6736(15)60417-2
+   Zaba LC, 2007, J CLIN INVEST, V117, P2517, DOI 10.1172/JCI32282
+   Zachary I, 2014, CHEM IMMUNOL ALLERGY, V99, P37, DOI 10.1159/000354169
+   Zamudio-Meza H, 2009, J GEN VIROL, V90, P2902, DOI 10.1099/vir.0.014159-0
+   Zang YCQ, 2000, BRAIN, V123, P1874, DOI 10.1093/brain/123.9.1874
+   Zlotnik A, 2012, IMMUNITY, V36, P705, DOI 10.1016/j.immuni.2012.05.008
+NR 145
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-2478
+EI 1879-0542
+J9 IMMUNOL LETT
+JI Immunol. Lett.
+PD AUG
+PY 2019
+VL 212
+BP 88
+EP 97
+DI 10.1016/j.imlet.2019.06.001
+PG 10
+WC Immunology
+SC Immunology
+GA IU2MX
+UT WOS:000483415600011
+PM 31181280
+DA 2020-12-09
+ER
+
+PT J
+AU Barros, TAC
+   Batista, DD
+   de Carvalho, AT
+   Faria, NRD
+   Barreto-Vieira, DF
+   Jacome, FC
+   Barth, OM
+   Nogueira, RMR
+   Neves, PCD
+   Matos, DCD
+   de Azeredo, EL
+   Damasco, PV
+   da Cunha, RV
+   de-Oliveira-Pinto, LM
+AF da Costa Barros, Tamiris Azamor
+   Batista, Debora de Oliveira
+   de Carvalho, Amanda Torrentes
+   da Costa Faria, Nieli Rodrigues
+   Barreto-Vieira, Debora Ferreira
+   Jacome, Fernanda Cunha
+   Barth, Ortrud Monika
+   Ribeiro Nogueira, Rita Maria
+   da Costa Neves, Patricia Cristina
+   de Souza Matos, Denise Cristina
+   de Azeredo, Elzinandes Leal
+   Damasco, Paulo Vieira
+   da Cunha, Rivaldo Venancio
+   de-Oliveira-Pinto, Luzia Maria
+TI Different aspects of platelet evaluation in dengue: Measurement of
+   circulating mediators, ability to interact with the virus, the degree of
+   activation and quantification of intraplatelet protein content
+SO VIRUS RESEARCH
+LA English
+DT Article
+DE Platelets; Dengue; Activation markers
+ID TRANSFORMING-GROWTH-FACTOR; ORIGINAL ANTIGENIC SIN; HEMORRHAGIC-FEVER;
+   NITRIC-OXIDE; CLINICAL-OUTCOMES; ANTIBODY-RESPONSE; INCREASED LEVEL;
+   MECHANISMS; ADHESION; INFECTION
+AB Platelets play a role in hemostasis, coagulation, angiogenesis, inflammation and immune response is one of the most affected cells in dengue. Here we describe some aspects of platelets by observing their specific circulating mediators, the ability to interact with the virus and morphological consequences of this interaction, activation markers and intraplatelet protein contents in dengue. We conducted this study using dengue-patients as well as healthy donors. Immunoenzymatic assay, flow cytometry, transmission electron microscopy and intraplatelet proteins expression assays were carried out. Briefly, we found an increase in sCD62L, NO or TBX2 ratio in platelet count, mostly in patients with the worse clinical outcome. After in vitro DENV infection or during natural infection, platelets underwent morphological alteration with increased expression of platelet activation markers, particularly in natural infections. Analysis of intraplatelet protein contents revealed different angiogenic and inflammatory profiles, maintaining or not extracellular matrix integrity between OF and DFWS patients. Thus, platelets are frequently affected by dengue, either by altering their own functionality, as "carrier" of the virus, or as an antiviral and mediator-secreting effector cell. Thus, strategies aimed at recovering platelet amounts in dengue seem to be essential for a better clinical outcome of the patients.
+C1 [da Costa Barros, Tamiris Azamor; Batista, Debora de Oliveira; de Azeredo, Elzinandes Leal; de-Oliveira-Pinto, Luzia Maria] Fiocruz MS, Inst Oswaldo Cruz, Lab Viral Immunol, Rio De Janeiro, Brazil.
+   [da Costa Barros, Tamiris Azamor; da Costa Neves, Patricia Cristina; de Souza Matos, Denise Cristina] Fiocruz MS, Inst Tecnol Imunobiol Biomanguinhos, Lab Immunol Technol, Rio De Janeiro, Brazil.
+   [de Carvalho, Amanda Torrentes] Univ Fed Fluminense, Inst Biol, Immunobiol Dept, Rio De Janeiro, Brazil.
+   [da Costa Faria, Nieli Rodrigues; Ribeiro Nogueira, Rita Maria] Fiocruz MS, Inst Oswaldo Cruz, Lab Flavivirus, Rio De Janeiro, Brazil.
+   [Barreto-Vieira, Debora Ferreira; Jacome, Fernanda Cunha; Barth, Ortrud Monika] Fiocruz MS, Inst Oswaldo Cruz, Lab Viral Morphol & Morphogenesis, Rio De Janeiro, Brazil.
+   [Damasco, Paulo Vieira] Univ Estado Rio De Janeiro, Fed Univ State Rio De Janeiro, Brazil Pedro Ernesto Univ Hosp, Rio Laranjeiras Hosp,Gaffree Guinle Univ Hosp, Rio De Janeiro, Brazil.
+   [da Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Mato Grosso Sul Univ Hosp, Fed Univ, Dept Clin Med, Campo Grande, Brazil.
+RP de-Oliveira-Pinto, LM (corresponding author), Inst Oswaldo Cruz, Fundacao Oswaldo Cruz, Pavilhao Helio & Peggy Pereira, Lab Imunol Viral, Sala B119,Ave Brasil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM lpinto@ioc.flocruz.br
+RI /AAD-2097-2020
+FU IOC/FIOCRUZ
+FX This work was financially supported by IOC/FIOCRUZ.
+CR Agarwal R, 1999, INT J EXP PATHOL, V80, P143, DOI 10.1046/j.1365-2613.1999.00107.x
+   ASSOIAN RK, 1986, J CELL BIOL, V102, P1217, DOI 10.1083/jcb.102.4.1217
+   Avirutnan P, 1998, J IMMUNOL, V161, P6338
+   Azeredo EL, 2006, MEM I OSWALDO CRUZ, V101, P437, DOI 10.1590/S0074-02762006000400016
+   Back Anne Tuiskunen, 2013, Infect Ecol Epidemiol, V3, DOI 10.3402/iee.v3i0.19839
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Barreto-Vieira DF, 2015, INDIAN J APPL RES, V5, P44
+   Barth OM, 2016, MEM I OSWALDO CRUZ, V111, P411, DOI 10.1590/0074-02760150433
+   Basu A, 2008, FEMS IMMUNOL MED MIC, V53, P46, DOI 10.1111/j.1574-695X.2008.00399.x
+   Brass LF, 2003, CHEST, V124, p18S, DOI 10.1378/chest.124.3_suppl.18S
+   Carrizzo A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089745
+   Cheng Y, 2002, SCIENCE, V296, P539, DOI 10.1126/science.1068711
+   Davi G, 2007, NEW ENGL J MED, V357, P2482, DOI 10.1056/NEJMra071014
+   de Azeredo EL, 2015, MEDIAT INFLAMM, V2015, DOI 10.1155/2015/313842
+   Trugilho MRD, 2017, PLOS PATHOG, V13, DOI 10.1371/journal.ppat.1006385
+   DiGiovanni CW, 2012, EXPERT REV MED DEVIC, V9, P111, DOI [10.1586/ERD.11.76, 10.1586/erd.11.76]
+   Ferroni P, 2009, CLIN CHIM ACTA, V399, P88, DOI 10.1016/j.cca.2008.09.018
+   George R., 1997, Annals Academy of Medicine Singapore, V26, P815
+   Guilarde AO, 2008, J INFECT DIS, V197, P817, DOI 10.1086/528805
+   HALSTEAD SB, 1970, YALE J BIOL MED, V42, P311
+   HALSTEAD SB, 1980, AM J TROP MED HYG, V29, P638, DOI 10.4269/ajtmh.1980.29.638
+   HARTMANN K, 1989, J RECEPTOR RES, V9, P181, DOI 10.3109/10799898909066053
+   Her Z, 2017, J INFECT DIS, V215, P42, DOI 10.1093/infdis/jiw494
+   Hottz ED, 2013, J THROMB HAEMOST, V11, P951, DOI 10.1111/jth.12178
+   Hottz ED, 2014, J IMMUNOL, V193, P1864, DOI 10.4049/jimmunol.1400091
+   IGARASHI A, 1978, J GEN VIROL, V40, P531, DOI 10.1099/0022-1317-40-3-531
+   KAPLAN DR, 1979, BLOOD, V53, P1043
+   Kar M, 2017, OPEN FORUM INFECT DI, V4, DOI 10.1093/ofid/ofx051
+   KAREY KP, 1989, BLOOD, V74, P1093
+   KAREY KP, 1989, BLOOD, V74, P1084
+   Krishnamurti C, 2002, AM J TROP MED HYG, V66, P435, DOI 10.4269/ajtmh.2002.66.435
+   Krishnamurti C, 2001, AM J TROP MED HYG, V65, P840, DOI 10.4269/ajtmh.2001.65.840
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Laur F, 1998, T ROY SOC TROP MED H, V92, P654, DOI 10.1016/S0035-9203(98)90800-8
+   Le Roith Derek, 2003, Exp Diabesity Res, V4, P205, DOI 10.1155/EDR.2003.205
+   Levy A, 2010, T ROY SOC TROP MED H, V104, P16, DOI 10.1016/j.trstmh.2009.06.013
+   Li ZY, 2010, ARTERIOSCL THROM VAS, V30, P2341, DOI 10.1161/ATVBAHA.110.207522
+   Lin CF, 2001, J MED VIROL, V63, P143, DOI 10.1002/1096-9071(20000201)63:2&lt;143::AID-JMV1009&gt;3.0.CO;2-L
+   Matsuura C, 2012, T ROY SOC TROP MED H, V106, P174, DOI 10.1016/j.trstmh.2011.10.009
+   Michels M, 2014, THROMB HAEMOSTASIS, V112, P352, DOI 10.1160/TH14-01-0056
+   MIYAZONO K, 1987, J BIOL CHEM, V262, P4098
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   NAKAO S, 1989, BLOOD, V74, P1235
+   Noisakran S, 2009, SE ASIAN J TROP MED, V40, P253
+   Nthiez-Avellaneda D., 2018, VIRUSES, V10
+   Offermanns S, 2006, CIRC RES, V99, P1293, DOI 10.1161/01.RES.0000251742.71301.16
+   Ojha A, 2017, SCI REP-UK, V7, DOI 10.1038/srep41697
+   OKA Y, 1983, J CLIN INVEST, V72, P249, DOI 10.1172/JCI110964
+   Preeyasombat C, 1999, J Med Assoc Thai, V82 Suppl 1, pS16
+   Punyadee N, 2015, J VIROL, V89, P1587, DOI 10.1128/JVI.02207-14
+   Rathakrishnan A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0052215
+   Rothman AL, 2011, NAT REV IMMUNOL, V11, P532, DOI 10.1038/nri3014
+   SCHOEPP RJ, 1984, J CLIN MICROBIOL, V20, P1017, DOI 10.1128/JCM.20.5.1017-1019.1984
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   Simon AY, 2015, BLOOD, V126, P378, DOI 10.1182/blood-2014-09-598029
+   TDR/ WHO, 2009, DENG GUID DIAGN TREA
+   Thakur Preeti, 2016, VirusDisease, V27, P48, DOI 10.1007/s13337-015-0296-2
+   Thein TL, 2015, J INFECT DIS, V212, P711, DOI 10.1093/infdis/jiv122
+   Torrentes-Carvalho A, 2009, MEM I OSWALDO CRUZ, V104, P1091, DOI 10.1590/S0074-02762009000800005
+   Trzeciak-Ryczek A, 2013, POL J VET SCI, V16, P407, DOI 10.2478/pjvs-2013-0058
+   Valero N, 2002, AM J TROP MED HYG, V66, P762, DOI 10.4269/ajtmh.2002.66.762
+   van de Weg CAM, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002236
+   Varga-Szabo D, 2008, ARTERIOSCL THROM VAS, V28, P403, DOI 10.1161/ATVBAHA.107.150474
+   Vaughn DW, 2000, J INFECT DIS, V181, P2, DOI 10.1086/315215
+   Voraphani N, 2010, ANN TROP PAEDIATR, V30, P213, DOI 10.1179/146532810X12786388978607
+   Weyrich AS, 2004, TRENDS IMMUNOL, V25, P489, DOI 10.1016/j.it.2004.07.003
+   Weyrich AS, 2003, J THROMB HAEMOST, V1, P1897, DOI 10.1046/j.1538-7836.2003.00304.x
+   Zhang XA, 2016, ONCOTARGET, V7, P33340, DOI 10.18632/oncotarget.9043
+NR 68
+TC 1
+Z9 2
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-1702
+EI 1872-7492
+J9 VIRUS RES
+JI Virus Res.
+PD JAN 15
+PY 2019
+VL 260
+BP 163
+EP 172
+DI 10.1016/j.virusres.2018.09.013
+PG 10
+WC Virology
+SC Virology
+GA HI9DH
+UT WOS:000456755000021
+PM 30282001
+DA 2020-12-09
+ER
+
+PT J
+AU Badolato-Correa, J
+   Sanchez-Arcila, JC
+   de Souza, TMA
+   Barbosa, LS
+   Nunes, PCG
+   Lima, MDQ
+   Gandini, M
+   de Filippis, AMB
+   da Cunha, RV
+   de Azeredo, EL
+   de-Oliveira-Pinto, LM
+AF Badolato-Correa, Jessica
+   Sanchez-Arcila, Juan Camilo
+   Alves de Souza, Thiara Manuele
+   Barbosa, Luciana Santos
+   Guerra Nunes, Priscila Conrado
+   Queiroz Lima, Monique da Rocha
+   Gandini, Mariana
+   Bispo de Filippis, Ana Maria
+   da Cunha, Rivaldo Venancio
+   de Azeredo, Elzinandes Leal
+   de-Oliveira-Pinto, Luzia Maria
+TI Human T cell responses to Dengue and Zika virus infection compared to
+   Dengue/Zika coinfection
+SO IMMUNITY INFLAMMATION AND DISEASE
+LA English
+DT Article
+DE Dengue; Zika: T lymphocytes
+ID LYMPHOCYTES; IMMUNITY; MEMORY; HETEROGENEITY; ARBOVIRUSES; MICRONESIA;
+   EXPRESSION; EPIDEMIC; OUTBREAK; ADULTS
+AB Introduction: Zika virus (ZIKV) and dengue virus (DENV) co-circulated during latest outbreaks in Brazil, hence, it is important to evaluate the host cross-reactive immune responses to these viruses. So far, little is known about human T cell responses to ZIKV and no reports detail adaptive immune responses during DENV/ZIKV coinfection.
+   Methods: Here, we studied T cells responses in well-characterized groups of DENV, ZIKV, or DENV/ZIKV infected patients and DENV-exposed healthy donors. We evaluated chemokine receptors expression and single/multifunctional frequencies of IFN gamma, TNF, and IL2-producing T cells during these infections. Even without antigenic stimulation, it was possible to detect chemokine receptors and IFN gamma, TNF, and IL2-producing T cells from all individuals by flow cytometry. Additionally, PBMCs' IFN gamma response to DENV NS1 protein and to polyclonal stimuli was evaluated by ELISPOT.
+   Results: DENV and ZIKV infections and DENV/ZIKV coinfections similarly induced expression of CCR5, CX3CR1, and CXCR3 on CD4 and CD8 T cells. DENV/ZIKV coinfection decreased the ability of CD4(+) T cells to produce IFN gamma(+), TNF+, TNF+IFN gamma(+), and TNF(+)IL2(+), compared to DENV and ZIKV infections. A higher magnitude of IFN response to DENV NS1 was found in donors with a history of dengue infection, however, a hyporesponsiveness was found in acute DENV, ZIKV, or DENV/ZIKV infected patients, even previously infected with DENV.
+   Conclusion: Therefore, we emphasize the potential impact of coinfection on the immune response from human hosts, mainly in areas where DENV and ZIKV cocirculate.
+C1 [Badolato-Correa, Jessica; Sanchez-Arcila, Juan Camilo; Alves de Souza, Thiara Manuele; Barbosa, Luciana Santos; Guerra Nunes, Priscila Conrado; Queiroz Lima, Monique da Rocha; de Azeredo, Elzinandes Leal; de-Oliveira-Pinto, Luzia Maria] Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Viral Immunol, Sala B119,Pavilhao Helio & Peggy Pereira, BR-21045900 Rio De Janeiro, Brazil.
+   [Barbosa, Luciana Santos] Univ Fed Rio de Janeiro, Lab Genet, IPPMG, UFRJ, Rio De Janeiro, Brazil.
+   [Gandini, Mariana] Fundacao Oswaldo Cruz, Lab Cellular Microbiol, Inst Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Bispo de Filippis, Ana Maria] Fundacao Oswaldo Cruz, Lab Flavivirus, Inst Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [da Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Dept Clin Med, Campo Grande, Brazil.
+   [da Cunha, Rivaldo Venancio] Fundacao Oswaldo Cruz, Campo Grande, MS, Brazil.
+RP de-Oliveira-Pinto, LM (corresponding author), Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Viral Immunol, Sala B119,Pavilhao Helio & Peggy Pereira, BR-21045900 Rio De Janeiro, Brazil.
+EM lpinto@ioc.fiocruz.br
+OI Gandini, Mariana/0000-0003-3603-6921; Sanchez-Arcila, Juan
+   Camilo/0000-0002-6879-4439
+FU IOC/FIOCRUZ; FAPERJCarlos Chagas Filho Foundation for Research Support
+   of the State of Rio de Janeiro (FAPERJ) [E-26/202.011/2016]
+FX This work was financially supported by IOC/FIOCRUZ and FAPERJ. Juan
+   Camilo Sanchez-Arcila is recipient of Post-doctoral fellowship FAPERJ
+   E-26/202.011/2016.
+CR Aubry M, 2015, INT J INFECT DIS, V41, P11, DOI 10.1016/j.ijid.2015.10.005
+   Azeredo EL, 2001, IMMUNOBIOLOGY, V204, P494, DOI 10.1078/0171-2985-00058
+   Azevedo RSS, 2016, J CLIN VIROL, V85, P56, DOI 10.1016/j.jcv.2016.10.024
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Bottcher JP, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms9306
+   BRASIL(d). Ministerio da Saude, 2015, FEBR CHIK MAN CLIN
+   Brito C, 2015, ACTA MEDICA PORT, V28, P679
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Cao-Lormeau VM, 2016, LANCET, V387, P1531, DOI 10.1016/S0140-6736(16)00562-6
+   Cao-Lormeau VM, 2014, LANCET, V384, P1571, DOI 10.1016/S0140-6736(14)61977-2
+   CDC, REV DIAGN TEST ZIK C
+   de Oliveira WK, 2016, MMWR-MORBID MORTAL W, V65
+   de-Oliveira-Pinto LM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0038527
+   Duffy MR, 2009, NEW ENGL J MED, V360, P2536, DOI 10.1056/NEJMoa0805715
+   Farber JM, 1997, J LEUKOCYTE BIOL, V61, P246
+   Foo S.-S., 2017, NAT MICROBIOL, V1
+   Fuentes-Miranda CJ, 2014, INTERVIROLOGY, V57, DOI 10.1159/000357180
+   Gao P, 2003, J LEUKOCYTE BIOL, V73, P273, DOI 10.1189/jlb.0602269
+   Gideon HP, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0071351
+   Guzman MG, 2002, LANCET INFECT DIS, V2, P33, DOI 10.1016/S1473-3099(01)00171-2
+   Haddow AD, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001477
+   Hsieh MF, 2006, J IMMUNOL, V177, P1855, DOI 10.4049/jimmunol.177.3.1855
+   Johansson MA, 2016, NEW ENGL J MED, V375, P1, DOI 10.1056/NEJMp1605367
+   Johnson BW, 2005, J CLIN MICROBIOL, V43, P4977, DOI 10.1128/JCM.43.10.4977-4983.2005
+   Kuno G, 2007, ARCH VIROL, V152, P687, DOI 10.1007/s00705-006-0903-z
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Lanciotti RS, 2007, EMERG INFECT DIS, V13, P764, DOI 10.3201/eid1305.070015
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Lazear HM, 2016, J VIROL, V90, P4864, DOI 10.1128/JVI.00252-16
+   Lednicky J, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004687
+   Lichterfeld M, 2004, BLOOD, V104, P487, DOI 10.1182/blood-2003-12-4341
+   Lindow JC, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001742
+   Loetscher M, 1996, J EXP MED, V184, P963, DOI 10.1084/jem.184.3.963
+   Metsky HC, 2017, NATURE, V546, P411, DOI 10.1038/nature22402
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Pierson TC, 2016, CELL, V167, P625, DOI 10.1016/j.cell.2016.09.020
+   Rodrigues NCP, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0165945
+   Rivino L, 2016, EXPERT REV VACCINES, V15, P443, DOI 10.1586/14760584.2016.1116948
+   Rivino L, 2013, J IMMUNOL, V191, P4010, DOI 10.4049/jimmunol.1301507
+   Sallusto F, 2009, EUR J IMMUNOL, V39, P2076, DOI 10.1002/eji.200939722
+   Sandberg JK, 2001, J IMMUNOL, V167, P181, DOI 10.4049/jimmunol.167.1.181
+   Seder RA, 2008, NAT REV IMMUNOL, V8, P247, DOI 10.1038/nri2274
+   Sierra B, 2014, MICROBES INFECT, V16, P40, DOI 10.1016/j.micinf.2013.10.011
+   Simmons CP, 2005, J VIROL, V79, P5665, DOI 10.1128/JVI.79.9.5665-5675.2005
+   Song H, 2016, NAT STRUCT MOL BIOL, V23, P456, DOI 10.1038/nsmb.3213
+   Weiskopf D, 2015, P NATL ACAD SCI USA, V112, pE4256, DOI 10.1073/pnas.1505956112
+   WHO, 2017, DENG FACT SHEET
+   WORLD HEALTH ORGANIZATION (WHO); Special Programme for Research and Training in Tropical Diseases (TDR), 2009, DENG GUID DIAGN TREA
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 49
+TC 13
+Z9 13
+U1 1
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+EI 2050-4527
+J9 IMMUN INFLAMM DIS
+JI IMMUN. INFLAMM. DIS.
+PD JUN
+PY 2018
+VL 6
+IS 2
+BP 194
+EP 206
+DI 10.1002/iid3.203
+PG 13
+WC Immunology
+SC Immunology
+GA GF5GQ
+UT WOS:000431995100001
+PM 29282904
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Grifoni, A
+   Pham, J
+   Sidney, J
+   O'Rourke, PH
+   Paul, S
+   Peters, B
+   Martini, SR
+   de Silva, AD
+   Ricciardi, MJ
+   Magnani, DM
+   Silveira, CGT
+   Maestri, A
+   Costa, PR
+   de-Oliveira-Pinto, LM
+   de Azeredo, EL
+   Damasco, PV
+   Phillips, E
+   Mallal, S
+   de Silva, AM
+   Collins, M
+   Durbin, A
+   Diehl, SA
+   Cerpas, C
+   Balmaseda, A
+   Kuan, G
+   Coloma, J
+   Harris, E
+   Crowe, JE
+   Stone, M
+   Norris, PJ
+   Busch, M
+   Vivanco-Cid, H
+   Cox, J
+   Graham, BS
+   Ledgerwood, JE
+   Turtle, L
+   Solomon, T
+   Kallas, EG
+   Watkins, DI
+   Weiskopf, D
+   Sette, A
+AF Grifoni, Alba
+   Pham, John
+   Sidney, John
+   O'Rourke, Patrick H.
+   Paul, Sinu
+   Peters, Bjoern
+   Martini, Sheridan R.
+   de Silva, Aruna D.
+   Ricciardi, Michael J.
+   Magnani, Diogo M.
+   Silveira, Cassia G. T.
+   Maestri, Alvino
+   Costa, Priscilla R.
+   de-Oliveira-Pinto, Luzia Maria
+   de Azeredo, Elzinandes Leal
+   Damasco, Paulo Vieira
+   Phillips, Elizabeth
+   Mallal, Simon
+   de Silva, Aravinda M.
+   Collins, Matthew
+   Durbin, Anna
+   Diehl, Sean A.
+   Cerpas, Cristhiam
+   Balmaseda, Angel
+   Kuan, Guillermina
+   Coloma, Josefina
+   Harris, Eva
+   Crowe, James E., Jr.
+   Stone, Mars
+   Norris, Phillip J.
+   Busch, Michael
+   Vivanco-Cid, Hector
+   Cox, Josephine
+   Graham, Barney S.
+   Ledgerwood, Julie E.
+   Turtle, Lance
+   Solomon, Tom
+   Kallas, Esper G.
+   Watkins, David I.
+   Weiskopf, Daniela
+   Sette, Alessandro
+TI Prior Dengue Virus Exposure Shapes T Cell Immunity to Zika Virus in
+   Humans
+SO JOURNAL OF VIROLOGY
+LA English
+DT Article
+DE ZIKV; DENV; T cells; heterologous immunity; cross-reactivity;
+   immunodominance
+ID ORIGINAL ANTIGENIC SIN; COMPREHENSIVE ANALYSIS; HETEROLOGOUS IMMUNITY;
+   CROSS-REACTIVITY; PROTECTIVE ROLE; RESPONSES; INFECTION; VACCINE;
+   ANTIBODIES; CD4(+)
+AB While progress has been made in characterizing humoral immunity to Zika virus (ZIKV) in humans, little is known regarding the corresponding T cell responses to ZIKV. Here, we investigate the kinetics and viral epitopes targeted by T cells responding to ZIKV and address the critical question of whether preexisting dengue virus (DENV) T cell immunity modulates these responses. We find that memory T cell responses elicited by prior infection with DENV or vaccination with tetravalent dengue attenuated vaccines (TDLAV) recognize ZIKV-derived peptides. This cross-reactivity is explained by the sequence similarity of the two viruses, as the ZIKV peptides recognized by DENV-elicited memory T cells are identical or highly conserved in DENV and ZIKV. DENV exposure prior to ZIKV infection also influences the timing and magnitude of the T cell response. ZIKV-reactive T cells in the acute phase of infection are detected earlier and in greater magnitude in DENV-immune patients. Conversely, the frequency of ZIKV-reactive T cells continues to rise in the convalescent phase in DENV-naive donors but declines in DENV-preexposed donors, compatible with more efficient control of ZIKV replication and/or clearance of ZIKV antigen. The quality of responses is also influenced by previous DENV exposure, and ZIKV-specific CD8 T cells from DENV-preexposed donors selectively upregulated granzyme B and PD1, unlike DENV-naive donors. Finally, we discovered that ZIKV structural proteins (E, prM, and C) are major targets of both the CD4 and CD8 T cell responses, whereas DENV T cell epitopes are found primarily in nonstructural proteins.
+   IMPORTANCE The issue of potential ZIKV and DENV cross-reactivity and how preexisting DENV T cell immunity modulates Zika T cell responses is of great relevance, as the two viruses often cocirculate and Zika virus has been spreading in geographical regions where DENV is endemic or hyperendemic. Our data show that memory T cell responses elicited by prior infection with DENV recognize ZIKV-derived peptides and that DENV exposure prior to ZIKV infection influences the timing, magnitude, and quality of the T cell response. Additionally, we show that ZIKV-specific responses target different proteins than DENV-specific responses, pointing toward important implications for vaccine design against this global threat.
+C1 [Grifoni, Alba; Pham, John; Sidney, John; O'Rourke, Patrick H.; Paul, Sinu; Peters, Bjoern; Martini, Sheridan R.; Weiskopf, Daniela; Sette, Alessandro] Jolla Inst Allergy & Immunol, Div Vaccine Discovery, La Jolla, CA 92037 USA.
+   [de Silva, Aruna D.] Genetech Res Inst, Colombo, Sri Lanka.
+   [Ricciardi, Michael J.; Magnani, Diogo M.; Watkins, David I.] Univ Miami, Miller Sch Med, Dept Pathol, Miami, FL 33136 USA.
+   [Silveira, Cassia G. T.; Maestri, Alvino; Costa, Priscilla R.; Kallas, Esper G.] Univ Sao Paulo, Div Clin Immunol & Allergy, Sch Med, Sao Paulo, Brazil.
+   [de-Oliveira-Pinto, Luzia Maria; de Azeredo, Elzinandes Leal] Fundacao Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Damasco, Paulo Vieira] Fed Univ State Rio Janeiro UNIRIO, Rio De Janeiro, Brazil.
+   [Phillips, Elizabeth; Mallal, Simon] Vanderbilt Univ, Sch Med, Dept Med, Nashville, TN 37212 USA.
+   [de Silva, Aravinda M.; Collins, Matthew] Univ N Carolina, Sch Med, Dept Microbiol & Immunol, Chapel Hill, NC 27599 USA.
+   [Durbin, Anna] Johns Hopkins Univ Bloomberg, Sch Publ Hlth, Baltimore, MD USA.
+   [Diehl, Sean A.] Univ Vermont, Sch Med, Burlington, VT 05405 USA.
+   [Cerpas, Cristhiam; Balmaseda, Angel] Minist Hlth, Natl Ctr Diag & Reference, Natl Virol Lab, Managua, Nicaragua.
+   [Kuan, Guillermina] Minist Hlth, Hlth Ctr Socrates Flores Vivas, Managua, Nicaragua.
+   [Coloma, Josefina; Harris, Eva] Univ Calif Berkeley, Sch Publ Hlth, Div Infect Dis & Vaccinol, Berkeley, CA 94720 USA.
+   [Crowe, James E., Jr.] Vanderbilt Univ, Med Ctr, Vanderbilt Vaccine Ctr, Nashville, TN USA.
+   [Stone, Mars; Norris, Phillip J.] Blood Syst Res Inst, San Francisco, CA USA.
+   [Vivanco-Cid, Hector] Univ Veracruzana, Inst Invest Med Biolog, Veracruz, Mexico.
+   [Cox, Josephine; Graham, Barney S.; Ledgerwood, Julie E.] NIH, Vaccine Res Ctr, NIAID, Bldg 10, Bethesda, MD 20892 USA.
+   [Turtle, Lance] Univ Liverpool, Inst Infect & Global Hlth, Ctr Global Vaccine Res, Liverpool, Merseyside, England.
+   [Turtle, Lance; Solomon, Tom] Univ Liverpool, NIHR Hlth Protect Res Unit Emerging & Zoonot Infe, Liverpool, Merseyside, England.
+   [Turtle, Lance] Royal Liverpool Univ Hosp, Trop & Infect Dis Unit, Liverpool, Merseyside, England.
+   [Solomon, Tom] Univ Liverpool, Inst Infect & Global Hlth, Liverpool, Merseyside, England.
+   [Solomon, Tom] Walton Ctr NHS Fdn Trust, Liverpool, Merseyside, England.
+   [Phillips, Elizabeth; Mallal, Simon] Murdoch Univ, Inst Immunol & Infect Dis, Perth, WA, Australia.
+RP Sette, A (corresponding author), Jolla Inst Allergy & Immunol, Div Vaccine Discovery, La Jolla, CA 92037 USA.
+EM alex@lji.org
+RI /AAD-2097-2020; Crowe, James E./B-5549-2009; desilva,
+   Aravinda/ABE-6260-2020; Diehl, Sean/AAE-2779-2020; Graham, Barney
+   S./AAC-5898-2019
+OI Crowe, James E./0000-0002-0049-1079; desilva,
+   Aravinda/0000-0003-3317-5950; Diehl, Sean/0000-0001-9700-235X; Graham,
+   Barney S./0000-0001-8112-0853; Kallas, Esper/0000-0003-2026-6925;
+   Magnani, Diogo/0000-0002-1773-2406; , Alba/0000-0002-2209-5966; Cox,
+   Josephine/0000-0003-1301-7373; Weiskopf, Daniela/0000-0003-2968-7371;
+   Solomon, Tom/0000-0001-7266-6547; Turtle, Lance/0000-0002-0778-1693
+FU National Institutes of HealthUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [HHSN272200900042C,
+   HHSN27220140045C, U19 AI118626-01, HHSN268201100001I, 1P01AI106695-01A1,
+   RO1 AI127828]; ZikaPLAN - European Union [734584]; BMGF [457
+   OPP1104710]; University of Miami Clinical and Translational Research
+   Institute; Consejo Nacional de Ciencia y Tecnologia (CONACyT) Fonteras
+   de la CienciaConsejo Nacional de Ciencia y Tecnologia (CONACyT)
+   [2015-02-1192]; Ciencia Basica SEP-CONACyT [256235]; Fosiss-CONACyT
+   [233697]; Medical Research CouncilMedical Research Council UK (MRC)
+   [MC_PC_15096, G116/194] Funding Source: researchfish; National Institute
+   for Health ResearchNational Institute for Health Research (NIHR)
+   [12/205/28, NF-SI-0514-10177, RP-PG-0108-10048, EME/12/205/28,
+   CL-2013-07-005] Funding Source: researchfish; NATIONAL CENTER FOR
+   ADVANCING TRANSLATIONAL SCIENCESUnited States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH National
+   Center for Advancing Translational Sciences (NCATS) [UL1TR000460,
+   UL1TR000460, UL1TR000460, UL1TR000460, UL1TR000460, UL1TR000460] Funding
+   Source: NIH RePORTER; NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS
+   DISEASESUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Allergy &
+   Infectious Diseases (NIAID) [P01AI106695, P01AI106695, ZIAAI005047,
+   P01AI106695, P01AI106695, P01AI106695, U19AI118626, U19AI118626,
+   ZIAAI005047, P01AI106695, U19AI118626, U19AI118626, P01AI106695,
+   P01AI106695, P01AI106695, U19AI118626, U19AI118626, U19AI118626,
+   P01AI106695, P01AI106695, P01AI106695, ZIAAI005037, U19AI118626,
+   U19AI118626, P01AI106695, P01AI106695, U19AI118626, P01AI106695,
+   U19AI118626, U19AI118626, ZIAAI005047, P01AI106695, P01AI106695,
+   P01AI106695, U19AI118626, R01AI127828, R01AI127828, U19AI118626,
+   U19AI118626, P01AI106695, P01AI106695, U19AI118626, P01AI106695,
+   ZIAAI005047, U19AI118626, ZIAAI005047, ZIAAI005037, P01AI106695,
+   U19AI118626, P01AI106695, P01AI106695, ZIAAI005047, U19AI118626,
+   U19AI118626, R01AI127828, P01AI106695, U19AI118626, P01AI106695,
+   P01AI106695, ZIAAI005037, ZIAAI005047, P01AI106695, ZIAAI005037,
+   ZIAAI005047, ZIAAI005037, P01AI106695, U19AI118626, P01AI106695,
+   U19AI118626, U19AI118626, P01AI106695, P01AI106695, U19AI118626,
+   U19AI118626, U19AI118626, ZIAAI005037, P01AI106695, U19AI118626,
+   P01AI106695, ZIAAI005037, ZIAAI005037, ZIAAI005047, U19AI118626,
+   ZIAAI005037, ZIAAI005037, P01AI106695, U19AI118626, ZIAAI005047,
+   P01AI106695, P01AI106695, U19AI118626, P01AI106695, P01AI106695,
+   U19AI118626, R01AI127828, ZIAAI005047, U19AI118626, P01AI106695,
+   U19AI118626, U19AI118626, P01AI106695, U19AI118626, ZIAAI005037,
+   U19AI118626, P01AI106695, U19AI118626, P01AI106695, U19AI118626,
+   P01AI106695, U19AI118626, U19AI118626, P01AI106695, U19AI118626] Funding
+   Source: NIH RePORTER; NATIONAL INSTITUTE OF GENERAL MEDICAL
+   SCIENCESUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of General
+   Medical Sciences (NIGMS) [P50GM115305, P50GM115305, P50GM115305,
+   P50GM115305, P50GM115305, P50GM115305, P50GM115305, P50GM115305,
+   P50GM115305, P50GM115305, P50GM115305, P50GM115305, P50GM115305,
+   P50GM115305, P50GM115305, P50GM115305, P50GM115305, P50GM115305,
+   P50GM115305, P50GM115305, P50GM115305, P50GM115305, P50GM115305,
+   P50GM115305, P50GM115305, P50GM115305, P50GM115305, P50GM115305,
+   P50GM115305, P50GM115305, P50GM115305, P50GM115305] Funding Source: NIH
+   RePORTER
+FX This work was supported by National Institutes of Health contracts and
+   grants HHSN272200900042C, HHSN27220140045C, and U19 AI118626-01 to A.S.,
+   HHSN268201100001I to BSRI, 1P01AI106695-01A1 to E.H., and RO1 AI127828
+   to J.E.C. Further support was provided by ZikaPLAN, which has received
+   funding from the European Union's Horizon 2020 research and innovation
+   program under grant agreement no. 734584, to A.S., by BMGF grant 457
+   OPP1104710 to A.P.D., an internal grant from the University of Miami
+   Clinical and Translational Research Institute to D.I.W., and grants from
+   Consejo Nacional de Ciencia y Tecnologia (CONACyT) Fonteras de la
+   Ciencia 2015-02-1192, Ciencia Basica SEP-CONACyT 256235, and
+   Fosiss-CONACyT 233697 to H.V.-C.
+CR Ahmed R, 2011, IMMUNOL CELL BIOL, V89, P340, DOI 10.1038/icb.2010.155
+   Akondy RS, 2009, J IMMUNOL, V183, P7919, DOI 10.4049/jimmunol.0803903
+   Angelo MA, 2017, J VIROL, V91, DOI 10.1128/JVI.02147-16
+   Balmaseda A, 2006, TROP MED INT HEALTH, V11, P935, DOI 10.1111/j.1365-3156.2006.01641.x
+   Barba-Spaeth G, 2016, NATURE, V536, P48, DOI 10.1038/nature18938
+   Chandele A, 2016, J VIROL, V90, P11259, DOI 10.1128/JVI.01424-16
+   Collins MH, 2017, EMERG INFECT DIS, V23, P773, DOI 10.3201/eid2305.161630
+   de Alwis R, 2016, J VIROL, V90, P4771, DOI 10.1128/JVI.02892-15
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   Domingues RB, 2008, J NEUROL SCI, V267, P36, DOI 10.1016/j.jns.2007.09.040
+   Durbin AP, 2013, J INFECT DIS, V207, P957, DOI 10.1093/infdis/jis936
+   Fauci AS, 2016, NEW ENGL J MED, V374, P601, DOI 10.1056/NEJMp1600297
+   FERNANDEZ RJ, 1990, MEM I OSWALDO CRUZ, V85, P347, DOI 10.1590/S0074-02761990000300012
+   Heymann DL, 2016, LANCET, V387, P719, DOI 10.1016/S0140-6736(16)00320-2
+   Kanakaratne N, 2009, EMERG INFECT DIS, V15, P192, DOI 10.3201/eid1502.080926
+   Kirkpatrick BD, 2015, J INFECT DIS, V212, P702, DOI 10.1093/infdis/jiv082
+   Kraus AA, 2007, J CLIN MICROBIOL, V45, P3777, DOI 10.1128/JCM.00827-07
+   Kuan G, 2009, AM J EPIDEMIOL, V170, P120, DOI 10.1093/aje/kwp092
+   Lanciotti RS, 2008, EMERG INFECT DIS, V14, P1232, DOI 10.3201/eid1408.080287
+   Lanteri MC, 2008, J INFECT DIS, V197, P1296, DOI 10.1086/586898
+   Ledgerwood JE, 2010, VACCINE, V29, P304, DOI 10.1016/j.vaccine.2010.10.037
+   Moutaftsi M, 2006, NAT BIOTECHNOL, V24, P817, DOI 10.1038/nbt1215
+   Musso D, 2016, CLIN MICROBIOL REV, V29, P487, DOI 10.1128/CMR.00072-15
+   Ngono AE, 2016, EBIOMEDICINE, V13, P284, DOI 10.1016/j.ebiom.2016.10.006
+   Pantoja P, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms15674
+   Paul Sinu, 2016, Curr Protoc Immunol, V114, DOI 10.1002/cpim.12
+   Pierson TC, 2016, CELL, V167, P625, DOI 10.1016/j.cell.2016.09.020
+   Priyamvada L, 2016, P NATL ACAD SCI USA, V113, P7852, DOI 10.1073/pnas.1607931113
+   Rivino L, 2017, IMMUNOLOGY, V150, P146, DOI 10.1111/imm.12681
+   Rothman AL, 2011, NAT REV IMMUNOL, V11, P532, DOI 10.1038/nri3014
+   Rubin EJ, 2016, NEW ENGL J MED, V374, P984, DOI 10.1056/NEJMe1601862
+   Sharma S, 2014, J LEUKOCYTE BIOL, V95, P405, DOI 10.1189/jlb.0713386
+   Sikka V, 2016, J GLOB INFECT DIS, V8, P3, DOI 10.4103/0974-777X.176140
+   Sips GJ, 2012, REV MED VIROL, V22, P69, DOI 10.1002/rmv.712
+   Soares CN, 2010, INT J INFECT DIS, V14, pE150, DOI 10.1016/j.ijid.2009.03.016
+   Speer SD, 2016, SCIENCE, V353, P750, DOI 10.1126/science.aah6187
+   Stettler K, 2016, SCIENCE, V353, P823, DOI 10.1126/science.aaf8505
+   Swanstrom JA, 2016, MBIO, V7, DOI 10.1128/mBio.01123-16
+   Turtle L, 2016, J EXP MED, V213, P1331, DOI 10.1084/jem.20151517
+   Waggoner JJ, 2016, EMERG INFECT DIS, V22, P1295, DOI 10.3201/eid2207.160326
+   Waggoner JJ, 2016, J CLIN VIROL, V78, P57, DOI 10.1016/j.jcv.2016.01.007
+   Waggoner JJ, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002116
+   Weiskopf D, 2016, J INFECT DIS, V214, P1117, DOI 10.1093/infdis/jiw309
+   Weiskopf D, 2015, J INFECT DIS, V212, P1743, DOI 10.1093/infdis/jiv289
+   Weiskopf D, 2015, P NATL ACAD SCI USA, V112, pE4256, DOI 10.1073/pnas.1505956112
+   Weiskopf D, 2015, J VIROL, V89, P120, DOI 10.1128/JVI.02129-14
+   Weiskopf D, 2014, J VIROL, V88, P11383, DOI 10.1128/JVI.01108-14
+   Weiskopf D, 2014, FRONT IMMUNOL, V5, DOI 10.3389/fimmu.2014.00093
+   Weiskopf D, 2013, P NATL ACAD SCI USA, V110, pE2046, DOI 10.1073/pnas.1305227110
+   Welsh RM, 2010, IMMUNOL REV, V235, P244, DOI 10.1111/j.0105-2896.2010.00897.x
+   Wen JS, 2017, NAT MICROBIOL, V2, DOI 10.1038/nmicrobiol.2017.36
+   World Health Organization, 2017, ZIK VIR MICR GUILL B
+   Xu X, 2016, PLOS CURR, V8
+   Yun SI, 2017, J MICROBIOL, V55, P204, DOI 10.1007/s12275-017-7063-6
+   Zehn D, 2010, J IMMUNOL, V184, P6320, DOI 10.4049/jimmunol.1000149
+NR 55
+TC 53
+Z9 53
+U1 1
+U2 4
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 0022-538X
+EI 1098-5514
+J9 J VIROL
+JI J. Virol.
+PD DEC
+PY 2017
+VL 91
+IS 24
+AR e01469-17
+DI 10.1128/JVI.01469-17
+PG 19
+WC Virology
+SC Virology
+GA FO1TT
+UT WOS:000416548700018
+PM 28978707
+OA Green Published, Bronze
+DA 2020-12-09
+ER
+
+PT J
+AU Weiskopf, D
+   de-Oliveira-Pinto, LM
+   Tian, Y
+   de Silva, AD
+   Seumois, G
+   Vijayanand, P
+   Premavvansa, S
+   Prennawansa, G
+   Wijewickrama, A
+   Peters, B
+   Sette, A
+AF Weiskopf, Daniela
+   de-Oliveira-Pinto, Luzia M.
+   Tian, Yuan
+   de Silva, Aruna D.
+   Seumois, Gregory
+   Vijayanand, Pandurangan
+   Premavvansa, Sunil
+   Prennawansa, Gayani
+   Wijewickrama, Ananda
+   Peters, Bjoern
+   Sette, Alessandro
+TI The CD4 T cell response in acute infection with dengue vims
+SO JOURNAL OF IMMUNOLOGY
+LA English
+DT Meeting Abstract
+CT Annual Meeting of the American-Association-of-Immunologists (AAI)
+CY MAY 12-16, 2017
+CL Washington, DC
+SP Amer Assoc Immunologists
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC IMMUNOLOGISTS
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814 USA
+SN 0022-1767
+EI 1550-6606
+J9 J IMMUNOL
+JI J. Immunol.
+PD MAY 1
+PY 2017
+VL 198
+IS 1
+SU S
+MA 78.17
+PG 4
+WC Immunology
+SC Immunology
+GA FD8EC
+UT WOS:000407757000315
+DA 2020-12-09
+ER
+
+PT J
+AU Grifoni, A
+   Pham, J
+   O'Rourke, PH
+   Peters, B
+   de Silva, AD
+   Ricciardi, MJ
+   Silveira, CG
+   Maestri, A
+   de Oliveira-Pinto, LM
+   Damasco, PV
+   Collins, M
+   de Silva, AM
+   Diehl, SA
+   Durbin, AP
+   Cerpas, C
+   Balmaseda, A
+   Kuan, G
+   Coloma, J
+   Harris, E
+   Crowe, JE
+   Stone, M
+   Norris, PJ
+   Busch, M
+   Vivanco-Cid, H
+   Graham, B
+   Ledgerwood, JE
+   Watkins, DI
+   Kallas, EG
+   Sette, A
+   Weiskopf, D
+AF Grifoni, Alba
+   Pham, John
+   O'Rourke, Patrick H.
+   Peters, Bjoern
+   de Silva, Aruna D.
+   Ricciardi, Michael J.
+   Silveira, Cassia G.
+   Maestri, Alvino
+   de Oliveira-Pinto, Luzia M.
+   Damasco, Paulo Vieira
+   Collins, Mathew
+   de Silva, Aravinda M.
+   Diehl, Sean A.
+   Durbin, Anna P.
+   Cerpas, Cristhiam
+   Balmaseda, Angel
+   Kuan, Guillermina
+   Coloma, Josefina
+   Harris, Eva
+   Crowe, James E., Jr.
+   Stone, Mars
+   Norris, Phillip J.
+   Busch, Michael
+   Vivanco-Cid, Hector
+   Graham, Barney
+   Ledgerwood, Julie E.
+   Watkins, David I.
+   Kallas, Esper G.
+   Sette, Alessandro
+   Weiskopf, Daniela
+TI PRIOR DENGUE VIRUS EXPOSE SHAPES T CELL IMMUNITY TO ZIKA VIRUS IN HUMANS
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Meeting Abstract
+CT 66th Annual Meeting of the
+   American-Society-of-Tropical-Medicine-and-Hygiene (ASTMH)
+CY NOV 05-09, 2017
+CL Baltimore, MD
+SP Amer Soc Trop Med & Hyg
+C1 [Grifoni, Alba; Pham, John; O'Rourke, Patrick H.; Peters, Bjoern; Sette, Alessandro; Weiskopf, Daniela] La Jolla Inst Allergy & Immunol, La Jolla, CA USA.
+   [de Silva, Aruna D.] Genetech Res Inst, Colombo, Sri Lanka.
+   [Ricciardi, Michael J.; Watkins, David I.] Univ Miami, Miller Sch Med, Miami, FL 33136 USA.
+   [Silveira, Cassia G.; Maestri, Alvino; Kallas, Esper G.] Univ Sao Paulo, Sao Paulo, Brazil.
+   [de Oliveira-Pinto, Luzia M.] Fundacao Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Damasco, Paulo Vieira] Fed Univ State Rio de Janeiro UNIRIO, Rio De Janeiro, Brazil.
+   [Collins, Mathew; de Silva, Aravinda M.] Univ N Carolina, Sch Med, Chapel Hill, NC USA.
+   [Diehl, Sean A.] Univ Vermont, Coll Med, Burlington, VT USA.
+   [Diehl, Sean A.] Univ Vermont, Vaccine Testing Ctr, Burlington, VT USA.
+   [Durbin, Anna P.] Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Cerpas, Cristhiam; Balmaseda, Angel] Minist Hlth, Natl Ctr Diag & Reference, Natl Virol Lab, Managua, Nicaragua.
+   [Kuan, Guillermina] Minist Hlth, Hlth Ctr Socrates Flores Vivas, Managua, Nicaragua.
+   [Coloma, Josefina; Harris, Eva] Univ Calif Berkeley, Sch Publ Hlth, Berkeley, CA 94720 USA.
+   [Crowe, James E., Jr.] Vanderbilt Univ, Med Ctr, Nashville, TN USA.
+   [Stone, Mars; Norris, Phillip J.; Busch, Michael] Blood Syst Res Inst, San Francisco, CA USA.
+   [Vivanco-Cid, Hector] Univ Veracruzana, Xalapa, Veracruz, Mexico.
+   [Graham, Barney; Ledgerwood, Julie E.] NIAID, Vaccine Res Ctr, 9000 Rockville Pike, Bethesda, MD 20892 USA.
+RI Diehl, Sean/AAE-2779-2020; Crowe, James E./B-5549-2009; Graham, Barney
+   S./AAC-5898-2019; /AAD-2097-2020
+OI Diehl, Sean/0000-0001-9700-235X; Crowe, James E./0000-0002-0049-1079;
+   Graham, Barney S./0000-0001-8112-0853; 
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+EI 1476-1645
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PY 2017
+VL 97
+IS 5
+SU S
+MA 1332
+BP 414
+EP 414
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FT5TD
+UT WOS:000423215204048
+DA 2020-12-09
+ER
+
+PT J
+AU Gandini, M
+   Petitinga-Paiva, F
+   Marinho, CF
+   Correa, G
+   De Oliveira-Pinto, LM
+   de Souza, LJ
+   Cunha, RV
+   Kubelka, CF
+   de Azeredo, EL
+AF Gandini, Mariana
+   Petitinga-Paiva, Fabienne
+   Marinho, Cintia Ferreira
+   Correa, Gladys
+   De Oliveira-Pinto, Luzia Maria
+   de Souza, Luiz Jose
+   Cunha, Rivaldo Venancio
+   Kubelka, Claire Fernandes
+   de Azeredo, Elzinandes Leal
+TI Dengue Virus Induces NK Cell Activation through TRAIL Expression during
+   Infection
+SO MEDIATORS OF INFLAMMATION
+LA English
+DT Article
+ID NATURAL-KILLER-CELLS; HLA CLASS-I; T-CELLS; APOPTOSIS; LIGAND;
+   CYTOTOXICITY; SEVERITY; RECEPTOR; FEVER; IFN
+AB Dengue is an acute febrile illness with a wide spectrum of signs and symptoms ranging from mild to severe forms characterized by plasma leakage that can be fatal. NK cells are one of the main effectors in early infection and may play an important role in dengue pathogenesis. We investigated NK cell involvement during dengue infection. A higher frequency of NK cell subsets and TRAIL+NK cells was found in mild DF cases when compared to that in severe cases or healthy donors. NK activation markers such as CD107a and TLR3 were upregulated in patients' cells compared to those in healthy donors. In addition, IL12 related to NK cell activation were upregulated in mild DF cases. In vitro PBMC culture models show that DENV-stimulated and IFN alpha-stimulated NK cells were able to express TRAIL, suggesting an indirect activation of cells, regarding TRAIL expression. Type I IFN receptor blockage on DENV-stimulated PBMCs showed TRAIL expression on NK cells is partially IFN alpha dependent. In addition, during PBMC stimulation, TRAIL expression on NK cells was inversely correlated with DENV-positive monocytes. Therefore, we observed DENV-induced activation of NK cell populations. A higher activation of NK cells would promote limited viral spread, resulting in decreased inflammatory response, contributing to protection against dengue severity.
+C1 [Gandini, Mariana; Petitinga-Paiva, Fabienne; Marinho, Cintia Ferreira; Correa, Gladys; De Oliveira-Pinto, Luzia Maria; Kubelka, Claire Fernandes; de Azeredo, Elzinandes Leal] Fiocruz MS, Oswaldo Cruz Inst, Viral Immunol Lab, Rio De Janeiro, RJ, Brazil.
+   [Gandini, Mariana] Fiocruz MS, Oswaldo Cruz Inst, Celular Microbiol Lab, Rio De Janeiro, RJ, Brazil.
+   [de Souza, Luiz Jose] Plantadores de Cana Hosp, Campos Dos Goytacazes, RJ, Brazil.
+   [Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Med Clin Dept, Campo Grande, MS, Brazil.
+RP de Azeredo, EL (corresponding author), Fiocruz MS, Oswaldo Cruz Inst, Viral Immunol Lab, Rio De Janeiro, RJ, Brazil.
+EM elzinandes@ioc.fiocruz.br
+RI Kubelka, Claire F/C-5558-2009
+OI Gandini, Mariana/0000-0003-3603-6921
+CR Alter G, 2004, J IMMUNOL METHODS, V294, P15, DOI 10.1016/j.jim.2004.08.008
+   Arias J, 2014, VIROLOGY, V452, P42, DOI 10.1016/j.virol.2013.12.027
+   Azeredo EL, 2006, CLIN EXP IMMUNOL, V143, P345, DOI 10.1111/j.1365-2249.2006.02996.x
+   Chau Tran Nguyen Bich, 2008, J Infect Dis, V198, P516, DOI 10.1086/590117
+   Cohnen A, 2013, BLOOD, V122, P1411, DOI 10.1182/blood-2012-07-441832
+   Neves PCD, 2009, VACCINE, V27, P5543, DOI 10.1016/j.vaccine.2009.07.028
+   de-Oliveira-Pinto LM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0038527
+   Devignot S, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011671
+   Fernandez-Mestre MT, 2004, TISSUE ANTIGENS, V64, P469, DOI 10.1111/j.1399-0039.2004.00304.x
+   Fu Xiao-ying, 2012, Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi, V28, P926
+   Gabrielli S, 2016, J IMMUNOL RES, V2016, DOI 10.1155/2016/1376595
+   Gandini M, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002257
+   Garcia G, 2006, J CLIN VIROL, V37, P53, DOI 10.1016/j.jcv.2006.04.010
+   Glassner A, 2012, LAB INVEST, V92, P967, DOI 10.1038/labinvest.2012.54
+   Green AM, 2014, J MOL BIOL, V426, P1148, DOI 10.1016/j.jmb.2013.11.023
+   Green S, 1999, J INFECT DIS, V180, P1429, DOI 10.1086/315072
+   Guzman MG, 2015, LANCET, V385, P453, DOI 10.1016/S0140-6736(14)60572-9
+   HALSTEAD SB, 1988, SCIENCE, V239, P476, DOI 10.1126/science.3277268
+   Halstead SB, 2003, AM J TROP MED HYG, V69, P5
+   Hamel R, 2015, J VIROL, V89, P8880, DOI 10.1128/JVI.00354-15
+   Hershkovitz O, 2008, J VIROL, V82, P7666, DOI 10.1128/JVI.02274-07
+   Hotho DM, 2013, ANTIVIR RES, V97, P347, DOI 10.1016/j.antiviral.2012.12.025
+   Ishikawa E, 2005, J VIROL, V79, P7658, DOI 10.1128/JVI.79.12.7658-7663.2005
+   Jost S, 2013, ANNU REV IMMUNOL, V31, P163, DOI 10.1146/annurev-immunol-032712-100001
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Lee YH, 2016, J GEN VIROL, V97, P3103, DOI 10.1099/jgv.0.000637
+   Leitmeyer KC, 1999, J VIROL, V73, P4738, DOI 10.1128/JVI.73.6.4738-4747.1999
+   Lim DSL, 2014, J IMMUNOL, V193, P5065, DOI 10.4049/jimmunol.1302240
+   Loke H, 2001, J INFECT DIS, V184, P1369, DOI 10.1086/324320
+   Matsuda T, 2005, J GEN VIROL, V86, P1055, DOI 10.1099/vir.0.80531-0
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Nasirudeen AMA, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0000926
+   Nielsen N, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0031959
+   Nightingale ZD, 2008, J LEUKOCYTE BIOL, V84, P1028, DOI 10.1189/jlb.0208105
+   Pacsa AS, 2000, FEMS IMMUNOL MED MIC, V28, P151, DOI 10.1111/j.1574-695X.2000.tb01470.x
+   Paolini R, 2015, CYTOKINE GROWTH F R, V26, P113, DOI 10.1016/j.cytogfr.2014.11.003
+   Poli A, 2009, IMMUNOLOGY, V126, P458, DOI 10.1111/j.1365-2567.2008.03027.x
+   Rathakrishnan A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0052215
+   Saikh KU, 2003, J INFECT DIS, V188, P1562, DOI 10.1086/379196
+   Sato K, 2001, EUR J IMMUNOL, V31, P3138, DOI 10.1002/1521-4141(200111)31:11<3138::AID-IMMU3138>3.0.CO;2-B
+   Schmidt KN, 2004, J IMMUNOL, V172, P138, DOI 10.4049/jimmunol.172.1.138
+   Shrestha B, 2012, J VIROL, V86, P8937, DOI 10.1128/JVI.00673-12
+   Song DZ, 2013, ANAT REC, V296, P1552, DOI 10.1002/ar.22768
+   Spits H, 2013, NAT REV IMMUNOL, V13, P145, DOI 10.1038/nri3365
+   Stegmann KA, 2010, GASTROENTEROLOGY, V138, P1885, DOI 10.1053/j.gastro.2010.01.051
+   Sun PF, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002298
+   Tomescu C, 2010, AIDS, V24, P2151, DOI 10.1097/QAD.0b013e32833dfc20
+   Tsai Y. T., 2007, CELLULAR MICROBIOLOG, V11
+   Tu ZK, 2011, CELL IMMUNOL, V271, P286, DOI 10.1016/j.cellimm.2011.07.006
+   Varchetta S, 2012, HEPATOLOGY, V56, P841, DOI 10.1002/hep.25723
+   Wahid S. Fadilah S. Abdul, 2000, Southeast Asian Journal of Tropical Medicine and Public Health, V31, P259
+   Walczak H, 1997, EMBO J, V16, P5386, DOI 10.1093/emboj/16.17.5386
+   Wang J, 2012, IMMUNOLOGY, V137, P37, DOI 10.1111/j.1365-2567.2012.03607.x
+   Warke RV, 2008, J VIROL, V82, P555, DOI 10.1128/JVI.01694-06
+   Werner JM, 2013, HEPATOLOGY, V58, P1621, DOI 10.1002/hep.26353
+   Wiley SR, 1995, IMMUNITY, V3, P673, DOI 10.1016/1074-7613(95)90057-8
+   Wong KL, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036435
+   WORLD HEALTH ORGANIZATION (WHO); Special Programme for Research and Training in Tropical Diseases (TDR), 2009, DENG GUID DIAGN TREA
+   Xavier-Carvalho C, 2013, INFECT GENET EVOL, V20, P197, DOI 10.1016/j.meegid.2013.08.017
+   Zamai L, 1998, J EXP MED, V188, P2375, DOI 10.1084/jem.188.12.2375
+   Zhang C, 2008, HUM IMMUNOL, V69, P490, DOI 10.1016/j.humimm.2008.06.004
+   Zhang Y, 2007, IMMUNOLOGY, V121, P258, DOI 10.1111/j.1365-2567.2007.02573.x
+NR 62
+TC 5
+Z9 5
+U1 0
+U2 0
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 0962-9351
+EI 1466-1861
+J9 MEDIAT INFLAMM
+JI Mediat. Inflamm.
+PY 2017
+VL 2017
+AR 5649214
+DI 10.1155/2017/5649214
+PG 10
+WC Cell Biology; Immunology
+SC Cell Biology; Immunology
+GA FH3NO
+UT WOS:000411055400001
+PM 29038620
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU de Azeredo, EL
+   Solorzano, VEF
+   de Oliveira, DB
+   Marinho, CF
+   de Souza, LJ
+   da Cunha, RV
+   Damasco, PV
+   Kubelka, CF
+   de-Oliveira-Pinto, LM
+AF de Azeredo, Elzinandes Leal
+   Fiestas Solorzano, Victor Edgar
+   de Oliveira, Debora Batista
+   Marinho, Cintia Ferreira
+   de Souza, Luiz Jose
+   da Cunha, Rivaldo Venancio
+   Damasco, Paulo Vieira
+   Kubelka, Claire Fernandes
+   de-Oliveira-Pinto, Luzia Maria
+TI Increased circulating procoagulant and anticoagulant factors as TF and
+   TFPI according to severity or infecting serotypes in human dengue
+   infection
+SO MICROBES AND INFECTION
+LA English
+DT Article
+DE TFPI; TF; Dengue
+ID TISSUE FACTOR EXPRESSION; RIO-DE-JANEIRO; HEMORRHAGIC-FEVER;
+   VIRUS-INFECTION; BLOOD-COAGULATION; SHOCK SYNDROME; ACTIVATION;
+   HEMOSTASIS; BRAZIL; FIBRINOLYSIS
+AB Tissue Factor (TF) is the initiator of coagulation and Tissue Factor Inhibitor (TFPI) is the physiological inhibitor of the TF/FVIIa complex. Circulating levels of TF and TFPI were quantified in dengue patients and the relationships with disease severity and infecting serotype analysed. A significant decrease in TF and TPFI plasma levels was observed in mild DF patients compared with severe dengue. Furthermore, both factors were associated with haemorrhagic manifestations. Finally, TF levels were significantly increased in DENV-1/2 infected patients as compared with DENV-4. These findings suggest that activation of TF-pathway is an important component of DENV-related coagulation disorders. (C) 2016 Institut Pasteur. Published by Elsevier Masson SAS. All rights reserved.
+C1 [de Azeredo, Elzinandes Leal; Fiestas Solorzano, Victor Edgar; de Oliveira, Debora Batista; de Souza, Luiz Jose; Kubelka, Claire Fernandes; de-Oliveira-Pinto, Luzia Maria] Inst Oswaldo Cruz, Lab Viral Immunol, Rio De Janeiro, Brazil.
+   [de Souza, Luiz Jose] Referral Ctr Dengue, Campos Dos Goytacazes, Brazil.
+   [da Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Dept Clin Med, Campo Grande, Brazil.
+   [Damasco, Paulo Vieira] Univ Fed Rio de Janeiro, Gaffree Guinle Univ Hosp, Rio Laranjeiras Hosp, Rio De Janeiro, Brazil.
+   [Damasco, Paulo Vieira] Univ Estado Rio De Janeiro, Pedro Ernesto Univ Hosp, Rio De Janeiro, Brazil.
+RP de Azeredo, EL (corresponding author), Inst Oswaldo Cruz, Lab Viral Immunol, Rio De Janeiro, Brazil.
+EM elzinandes@ioc.fiocruz.br
+RI Kubelka, Claire F/C-5558-2009; /AAD-2097-2020; Fiestas,
+   Victor/J-6894-2019
+OI Fiestas, Victor/0000-0002-5554-3542
+FU PROEP/IOC [400103/2011-7]; PAPESNational Council for Scientific and
+   Technological Development (CNPq) [403460/2008-5]; CNPqNational Council
+   for Scientific and Technological Development (CNPq) [476051/2010-0];
+   FAPERJCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ) [E-26/110.843/2013]
+FX We acknowledge the patients and healthy controls for their voluntary
+   participation. We thank Claudia Kamel for the manuscript review. This
+   investigation was supported by Brazilian institutions: PROEP/IOC
+   (400103/2011-7), PAPES (403460/2008-5), CNPq (476051/2010-0), and FAPERJ
+   (E-26/110.843/2013).
+CR Baker JV, 2013, THROMB RES, V132, P495, DOI 10.1016/j.thromres.2013.08.016
+   Camerer E, 1996, THROMB RES, V81, P1, DOI 10.1016/0049-3848(95)00209-X
+   Chen JP, 2000, BLOOD COAGUL FIBRIN, V11, P461, DOI 10.1097/00001721-200007000-00010
+   Cordeiro MT, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004945
+   Faria NRD, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002095
+   de Azeredo EL, 2015, MEDIAT INFLAMM, V2015, DOI 10.1155/2015/313842
+   de Azeredo EL, 2010, BLOOD CELL MOL DIS, V45, P334, DOI 10.1016/j.bcmd.2010.08.004
+   Funderburg NT, 2010, BLOOD, V115, P161, DOI 10.1182/blood-2009-03-210179
+   Geisbert TW, 2003, LANCET, V362, P1953, DOI 10.1016/S0140-6736(03)15012-X
+   HELLER MV, 1995, THROMB HAEMOSTASIS, V73, P368
+   Huerta-Zepeda A, 2008, THROMB HAEMOSTASIS, V99, P936, DOI [10.1160/TH07-08-0483, 10.1160/TH07-08-0438]
+   Kasthuri RS, 2010, SEMIN THROMB HEMOST, V36, P764, DOI 10.1055/s-0030-1265293
+   Langer F, 2008, ANN HEMATOL, V87, P451, DOI 10.1007/s00277-008-0446-3
+   Macedo GA, 2013, T ROY SOC TROP MED H, V107, P141, DOI 10.1093/trstmh/trs091
+   Huy NT, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002412
+   Osterud B, 2006, SEMIN THROMB HEMOST, V32, P11, DOI 10.1055/s-2006-933336
+   Owens AP, 2010, THROMB HAEMOSTASIS, V104, P432, DOI 10.1160/TH09-11-0771
+   Samanta J, 2015, WORLD J CLIN CASES, V3, P125, DOI 10.12998/wjcc.v3.i2.125
+   Sosothikul D, 2007, THROMB HAEMOSTASIS, V97, P627, DOI 10.1160/TH06-02-0094
+   Srikiatkhachorn A, 2010, CURR TOP MICROBIOL, V338, P67, DOI 10.1007/978-3-642-02215-9_6
+   Thomas L, 2014, AM J TROP MED HYG, V91, P138, DOI 10.4269/ajtmh.13-0595
+   Tilley R, 2006, SEMIN THROMB HEMOST, V32, P5, DOI 10.1055/s-2006-933335
+   WHO/TDR, 2009, DENG GUID DIAGN TREA
+   Wills BA, 2002, CLIN INFECT DIS, V35, P277, DOI 10.1086/341410
+   ZAGNE SMO, 1994, T ROY SOC TROP MED H, V88, P677, DOI 10.1016/0035-9203(94)90225-9
+NR 25
+TC 1
+Z9 1
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1286-4579
+EI 1769-714X
+J9 MICROBES INFECT
+JI Microbes Infect.
+PD JAN
+PY 2017
+VL 19
+IS 1
+BP 62
+EP 68
+DI 10.1016/j.micinf.2016.08.005
+PG 7
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA EI7KU
+UT WOS:000392677400007
+PM 27592310
+DA 2020-12-09
+ER
+
+PT J
+AU Limonta, D
+   Torrentes-Carvalho, A
+   Marinho, CF
+   de Azeredo, EL
+   de Souza, LJ
+   Motta-Castro, ARC
+   da Cunha, RV
+   Kubelka, CF
+   Nogueira, RMR
+   de-Oliveira-Pinto, LM
+AF Limonta, Daniel
+   Torrentes-Carvalho, Amanda
+   Marinho, Cintia Ferreira
+   de Azeredo, Elzinandes Leal
+   de Souza, Luiz Jose
+   Motta-Castro, Ana Rita C.
+   da Cunha, Rivaldo Venancio
+   Kubelka, Claire Fernandes
+   Ribeiro Nogueira, Rita Maria
+   de-Oliveira-Pinto, Luzia Maria
+TI Apoptotic Mediators in Patients With Severe and Non-Severe Dengue From
+   Brazil
+SO JOURNAL OF MEDICAL VIROLOGY
+LA English
+DT Article
+DE apoptosis; pathogenesis; lymphocytes; monocytes
+ID NECROSIS-FACTOR-ALPHA; VIRUS-INDUCED APOPTOSIS; HEMORRHAGIC-FEVER;
+   ENDOTHELIAL-CELLS; DENDRITIC CELLS; LYMPHOCYTE APOPTOSIS; SURVIVIN
+   EXPRESSION; INFECTED PATIENTS; DISEASE SEVERITY; SERUM-LEVELS
+AB Despite being the most significant arboviral disease worldwide, dengue has no antiviral treatment or reliable severity predictors. It has been shown that apoptotic cells from blood and tissues may be involved in the complex pathogenesis of dengue. However, very little is known about the interplay between proapoptotic and antiapoptotic mediators in this disease. Therefore, plasma levels of the three proapoptotic mediators Fas ligand (FasL), tumor necrosis factor-alpha (TNF-alpha), and TNF-related apoptosis-inducing ligand (TRAIL) were measured in dengue patients. Patients were classified according to the World Health Organization classification of dengue revised in 2009. Additionally, inhibitors of apoptosis protein (IAPs) were determined in plasma (Survivin) and peripheral blood mononuclear cells (PBMCs) lysates (cIAP-1, cIAP-2, XIAP). Levels of apoptotic proteins in plasma were correlated with counts of blood cells. FasL and TRAIL levels were elevated in dengue patients without warning signs when compared to patients with severe dengue and controls. Dengue patients with warning signs showed decreased levels of Survivin compared to patients with severe dengue and controls. TRAIL was inversely correlated with counts of lymphocyte subsets. In contrast, Survivin was positively correlated with leukocyte counts. There was a trend of elevated IAPs levels in PBMCs of patients with severe dengue. The results suggest a likely antiviral effect of TRAIL in dengue. It appears that TRAIL might be involved with apoptosis induction of lymphocytes, whereas IAPs might participate in protecting leukocytes from apoptosis. Further research is needed to explore the interactions between pro and antiapoptotic molecules and their implications in dengue pathogenesis. (C) 2013 Wiley Periodicals, Inc.
+C1 [Limonta, Daniel; Torrentes-Carvalho, Amanda; Marinho, Cintia Ferreira; de Azeredo, Elzinandes Leal; Kubelka, Claire Fernandes; de-Oliveira-Pinto, Luzia Maria] Fiocruz MS, Inst Oswaldo Cruz, Lab Imunol Viral, BR-21045900 Rio De Janeiro, Brazil.
+   [Limonta, Daniel; Ribeiro Nogueira, Rita Maria] Fiocruz MS, Inst Oswaldo Cruz, Lab Flavivirus, BR-21045900 Rio De Janeiro, Brazil.
+   [de Souza, Luiz Jose] Ctr Reg Referencia Dengue, Rio De Janeiro, Brazil.
+   [Motta-Castro, Ana Rita C.; da Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Setor Hemonucleo, Cuiaba, MS, Brazil.
+RP Limonta, D (corresponding author), PAHO WHO Collaborating Ctr Study Dengue & Its Vec, Pedro Kouri Inst Trop Med IPK, Dept Virol, Arbovirus Lab, Autopista Novia Mediodia Km 6 1-2,POB 601, Havana, Cuba.
+EM dlimonta@ipk.sld.cu
+RI Kubelka, Claire F/C-5558-2009; motta-castro, ana rita c/O-2075-2017
+OI Motta-Castro, Ana Rita/0000-0003-3070-1337
+FU National Council for Scientific and Technological Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq); Oswaldo Cruz Foundation (FIOCRUZ); CNPq in BrazilNational
+   Council for Scientific and Technological Development (CNPq)
+FX Grant sponsor: The National Council for Scientific and Technological
+   Development (CNPq) and Oswaldo Cruz Foundation (FIOCRUZ). Dr. Daniel
+   Limonta received a Cellular and Molecular Biology post-graduate
+   fellowship in Brazil from CNPq
+CR Alexander N, 2011, TROP MED INT HEALTH, V16, P936, DOI 10.1111/j.1365-3156.2011.02793.x
+   Altieri DC, 2010, BIOCHEM J, V430, P199, DOI 10.1042/BJ20100814
+   Azizan A, 2006, J VIROL METHODS, V138, P211, DOI 10.1016/j.jviromet.2006.08.010
+   Balas C, 2011, J INFECT DIS, V203, P103, DOI 10.1093/infdis/jiq022
+   Balmaseda A, 2006, AM J TROP MED HYG, V74, P449, DOI 10.4269/ajtmh.2006.74.449
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Becerra A, 2009, J MED VIROL, V81, P1403, DOI 10.1002/jmv.21538
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Bokarewa M, 2007, SCAND J IMMUNOL, V66, P192, DOI 10.1111/j.1365-3083.2007.01977.x
+   Borges BD, 2011, CLIN EXP MED, V11, P189, DOI 10.1007/s10238-010-0122-5
+   Bozza FA, 2008, BMC INFECT DIS, V8, DOI 10.1186/1471-2334-8-86
+   Cardier JE, 2005, CYTOKINE, V30, P359, DOI 10.1016/j.cyto.2005.01.021
+   Chen HC, 2007, J VIROL, V81, P5518, DOI 10.1128/JVI.02575-06
+   Chen LC, 2006, AM J TROP MED HYG, V74, P142, DOI 10.4269/ajtmh.2006.74.142
+   Crist SA, 2004, EXP HEMATOL, V32, P1073, DOI 10.1016/j.exphem.2004.07.022
+   Cummins NW, 2010, CELL DEATH DIS, V1, DOI 10.1038/cddis.2010.77
+   de-Oliveira-Pinto LM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0038527
+   Fernandez-Mestre MT, 2004, TISSUE ANTIGENS, V64, P469, DOI 10.1111/j.1399-0039.2004.00304.x
+   Galluzzi L, 2012, CELL DEATH DIFFER, V19, P107, DOI 10.1038/cdd.2011.96
+   Gandini M, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002257
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Hensley LE, 2002, IMMUNOL LETT, V80, P169, DOI 10.1016/S0165-2478(01)00327-3
+   HOBER D, 1993, AM J TROP MED HYG, V48, P324, DOI 10.4269/ajtmh.1993.48.324
+   Hotchkiss RS, 2009, NEW ENGL J MED, V361, P1570, DOI 10.1056/NEJMra0901217
+   Huerre MR, 2001, VIRCHOWS ARCH, V438, P107
+   IGARASHI A, 1978, J GEN VIROL, V40, P531, DOI 10.1099/0022-1317-40-3-531
+   Jaiyen Y, 2009, MICROBIOL IMMUNOL, V53, P442, DOI 10.1111/j.1348-0421.2009.00148.x
+   Kadhiravan T, 2010, IMMUNE NETW, V10, P164
+   KLIKS SC, 1989, AM J TROP MED HYG, V40, P444, DOI 10.4269/ajtmh.1989.40.444
+   Korner C, 2012, BMC CANCER, V12, DOI 10.1186/1471-2407-12-85
+   La Braga E, 2001, MEM I OSWALDO CRUZ, V96, P229, DOI 10.1590/S0074-02762001000200015
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Laur F, 1998, T ROY SOC TROP MED H, V92, P654, DOI 10.1016/S0035-9203(98)90800-8
+   Law HKW, 2009, BMC IMMUNOL, V10, DOI 10.1186/1471-2172-10-35
+   Levy A, 2010, T ROY SOC TROP MED H, V104, P16, DOI 10.1016/j.trstmh.2009.06.013
+   Liao HW, 2010, J MED VIROL, V82, P1392, DOI 10.1002/jmv.21815
+   Liew KJL, 2006, J VIROL METHODS, V131, P47, DOI 10.1016/j.jviromet.2005.07.003
+   Limjindaporn T, 2007, BIOCHEM BIOPH RES CO, V362, P334, DOI 10.1016/j.bbrc.2007.07.194
+   Limonta D, 2007, J CLIN VIROL, V40, P50, DOI 10.1016/j.jcv.2007.04.024
+   Limonta Daniel, 2009, Int J Infect Dis, V13, pe77, DOI 10.1016/j.ijid.2008.06.028
+   Locksley RM, 2001, CELL, V104, P487, DOI 10.1016/S0092-8674(01)00237-9
+   Long TH, 2010, J VIROL, V84, P12982, DOI 10.1128/JVI.01224-10
+   Matsuda T, 2005, J GEN VIROL, V86, P1055, DOI 10.1099/vir.0.80531-0
+   Melloni E, 2005, J CELL PHYSIOL, V204, P973, DOI 10.1002/jcp.20358
+   Mera S, 2008, J LEUKOCYTE BIOL, V83, P149, DOI 10.1189/jlb.0507287
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Myint KS, 2006, J INFECT DIS, V194, P600, DOI 10.1086/506451
+   Narvaez F, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001397
+   Nasi M, 2005, IMMUNOGENETICS, V57, P628, DOI 10.1007/s00251-005-0031-z
+   Okada H, 2000, ARCH VIROL, V145, P905, DOI 10.1007/s007050050683
+   Perez AB, 2010, HUM IMMUNOL, V71, P1135, DOI 10.1016/j.humimm.2010.08.004
+   Priyadarshini D, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0008709
+   Roe MFE, 2004, CLIN EXP IMMUNOL, V137, P139, DOI 10.1111/j.1365-2249.2004.02512.x
+   Rothman AL, 2010, CURR TOP MICROBIOL, V338, P83, DOI 10.1007/978-3-642-02215-9_7
+   Shrestha B, 2012, J VIROL, V86, P8937, DOI 10.1128/JVI.00673-12
+   Sierra B, 2007, HUM IMMUNOL, V68, P531, DOI 10.1016/j.humimm.2007.03.001
+   Silke J., 2013, COLD SPRING HARB PER, V5
+   Simmons CP, 2012, NEW ENGL J MED, V366, P1423, DOI 10.1056/NEJMra1110265
+   Song JX, 2005, IMMUNITY, V22, P621, DOI 10.1016/j.immuni.2005.03.012
+   Suksanpaisan L, 2007, J MED VIROL, V79, P300, DOI 10.1002/jmv.20798
+   Torrentes-Carvalho A, 2009, MEM I OSWALDO CRUZ, V104, P1091, DOI 10.1590/S0074-02762009000800005
+   Vejbaesya S, 2009, J INFECT DIS, V199, P1442, DOI 10.1086/597422
+   Warke RV, 2008, J GEN VIROL, V89, P1605, DOI 10.1099/vir.0.2008/000968-0
+   Warke RV, 2008, J VIROL, V82, P555, DOI 10.1128/JVI.01694-06
+   Wong KL, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036435
+   WORLD HEALTH ORGANIZATION (WHO); Special Programme for Research and Training in Tropical Diseases (TDR), 2009, DENG GUID DIAGN TREA
+   Zauli G, 2006, CYTOKINE GROWTH F R, V17, P245, DOI 10.1016/j.cytogfr.2006.04.002
+   Zhu Y, 2003, APOPTOSIS, V8, P71, DOI 10.1023/A:1021653119934
+NR 68
+TC 13
+Z9 13
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0146-6615
+EI 1096-9071
+J9 J MED VIROL
+JI J. Med. Virol.
+PD AUG
+PY 2014
+VL 86
+IS 8
+BP 1437
+EP 1447
+DI 10.1002/jmv.23832
+PG 11
+WC Virology
+SC Virology
+GA AL9UB
+UT WOS:000339486200019
+PM 24170344
+OA Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Marinho, CF
+   Azeredo, EL
+   Torrentes-Carvalho, A
+   Marins-Dos-Santos, A
+   Kubelka, CF
+   de Souza, LJ
+   Cunha, RV
+   de-Oliveira-Pinto, LM
+AF Marinho, Cintia Ferreira
+   Azeredo, Elzinandes Leal
+   Torrentes-Carvalho, Amanda
+   Marins-Dos-Santos, Alessandro
+   Kubelka, Claire Fernandes
+   de Souza, Luiz Jose
+   Cunha, Rivaldo Venancio
+   de-Oliveira-Pinto, Luzia Maria
+TI Down-Regulation of Complement Receptors on the Surface of Host Monocyte
+   Even as In Vitro Complement Pathway Blocking Interferes in Dengue
+   Infection
+SO PLOS ONE
+LA English
+DT Article
+ID ANTIBODY-DEPENDENT ENHANCEMENT; HUMAN DENDRITIC CELLS; BORNE
+   ENCEPHALITIS-VIRUS; MEMBRANE ATTACK COMPLEX; WEST-NILE-VIRUS;
+   HEMORRHAGIC-FEVER; MONOCLONAL-ANTIBODIES; INFLUENZA-VIRUS; FC-RECEPTORS;
+   VASCULAR LEAKAGE
+AB In dengue virus (DENV) infection, complement system (CS) activation appears to have protective and pathogenic effects. In severe dengue fever (DF), the levels of DENV non-structural-1 protein and of the products of complement activation, including C3a, C5a and SC5b-9, are higher before vascular leakage occurs, supporting the hypothesis that complement activation contributes to unfavourable outcomes. The clinical manifestations of DF range from asymptomatic to severe and even fatal. Here, we aimed to characterise CS by their receptors or activation product, in vivo in DF patients and in vitro by DENV-2 stimulation on monocytes. In comparison with healthy controls, DF patients showed lower expression of CR3 (CD11b), CR4 (CD11c) and, CD59 on monocytes. The DF patients who were high producers of SC5b-9 were also those that showed more pronounced bleeding or vascular leakage. Those findings encouraged us to investigate the role of CS in vitro, using monocytes isolated from healthy subjects. Prior blocking with CR3 alone (CD11b) or CR3 (CD11b/CD18) reduced viral infection, as quantified by the levels of intracellular viral antigen expression and soluble DENV non-structural viral protein. However, we found that CR3 alone (CD11b) or CR3 (CD11b/CD18) blocking did not influence major histocompatibility complex presentation neither active caspase-1 on monocytes, thus probably ruling out inflammasome-related mechanisms. Although it did impair the secretion of tumour necrosis factor alpha and interferon alpha. Our data provide strategies of blocking CR3 (CD11b) pathways could have implications for the treatment of viral infection by antiviral-related mechanisms.
+C1 [Marinho, Cintia Ferreira; Azeredo, Elzinandes Leal; Torrentes-Carvalho, Amanda; Kubelka, Claire Fernandes; de-Oliveira-Pinto, Luzia Maria] Inst Oswaldo Cruz, Lab Viral Immunol, BR-20001 Rio De Janeiro, Brazil.
+   [Marins-Dos-Santos, Alessandro] Inst Oswaldo Cruz, Flow Cytometry Sect, Ctr Cell Sorting & Anal, BR-20001 Rio De Janeiro, Brazil.
+   [de Souza, Luiz Jose] Referral Ctr Dengue, Campos Dos Goytacazes, Brazil.
+   [Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Dept Clin Med, Campo Grande, Brazil.
+RP de-Oliveira-Pinto, LM (corresponding author), Inst Oswaldo Cruz, Lab Viral Immunol, BR-20001 Rio De Janeiro, Brazil.
+EM lpinto@ioc.fiocruz.br
+RI Kubelka, Claire F/C-5558-2009
+FU FAPERJCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ) [110.843/2013]; CNPqNational Council for
+   Scientific and Technological Development (CNPq) [306409/2010-0]
+FX FAPERJ 110.843/2013, CNPq 306409/2010-0. The funders had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Acosta EG, 2008, J GEN VIROL, V89, P474, DOI 10.1099/vir.0.83357-0
+   Avirutnan P, 2006, J INFECT DIS, V193, P1078, DOI 10.1086/500949
+   Avirutnan P, 1998, J IMMUNOL, V161, P6338
+   Avirutnan P, 2010, J EXP MED, V207, P793, DOI 10.1084/jem.20092545
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   BEEBE DP, 1981, J IMMUNOL, V126, P1562
+   BERGER M, 1988, BLOOD, V71, P151
+   Bhakdi S, 1990, Southeast Asian J Trop Med Public Health, V21, P652
+   BOKISCH VA, 1973, NEW ENGL J MED, V289, P996, DOI 10.1056/NEJM197311082891902
+   Bosch I, 2002, J VIROL, V76, P5588, DOI 10.1128/JVI.76.11.5588-5597.2002
+   Bossi F, 2004, J IMMUNOL, V173, P6921, DOI 10.4049/jimmunol.173.11.6921
+   CARDOSA MJ, 1986, J VIROL, V57, P952, DOI 10.1128/JVI.57.3.952-959.1986
+   CARDOSA MJ, 1983, J EXP MED, V158, P258, DOI 10.1084/jem.158.1.258
+   Carr JM, 2003, J MED VIROL, V69, P521, DOI 10.1002/jmv.10340
+   Carroll MC, 2004, NAT IMMUNOL, V5, P981, DOI 10.1038/ni1113
+   Chan KR, 2011, P NATL ACAD SCI USA, V108, P12479, DOI 10.1073/pnas.1106568108
+   Chen ST, 2008, NATURE, V453, P672, DOI 10.1038/nature07013
+   CHURDBOONCHART V, 1983, AM J TROP MED HYG, V32, P569, DOI 10.4269/ajtmh.1983.32.569
+   Cole DS, 2003, CLIN SCI, V104, P455, DOI 10.1042/CS20020362
+   Crill WD, 2001, J VIROL, V75, P7769, DOI 10.1128/JVI.75.16.7769-7773.2001
+   DAVIES A, 1989, J EXP MED, V170, P637, DOI 10.1084/jem.170.3.637
+   Dobrina A, 2002, BLOOD, V99, P185, DOI 10.1182/blood.V99.1.185
+   Durbin AP, 2008, VIROLOGY, V376, P429, DOI 10.1016/j.virol.2008.03.028
+   Feng JQ, 2002, J VIROL, V76, P1369, DOI 10.1128/JVI.76.3.1369-1378.2002
+   Fernandez-Arias C, 2013, J IMMUNOL, V190, P3363, DOI 10.4049/jimmunol.1103812
+   Gasque P, 2004, MOL IMMUNOL, V41, P1089, DOI 10.1016/j.molimm.2004.06.011
+   Green S, 2006, CURR OPIN INFECT DIS, V19, P429, DOI 10.1097/01.qco.0000244047.31135.fa
+   Guzman MG, 2010, VIRUSES-BASEL, V2, P2649, DOI 10.3390/v2122649
+   HALSTEAD SB, 1988, SCIENCE, V239, P476, DOI 10.1126/science.3277268
+   Halstead SB, 2007, LANCET, V370, P1644, DOI 10.1016/S0140-6736(07)61687-0
+   HATTORI R, 1989, J BIOL CHEM, V264, P9053
+   Helmy KY, 2006, CELL, V124, P915, DOI 10.1016/j.cell.2005.12.039
+   Jayasekera JP, 2007, J VIROL, V81, P3487, DOI 10.1128/JVI.02128-06
+   Jessie K, 2004, J INFECT DIS, V189, P1411, DOI 10.1086/383043
+   KAUFMAN BM, 1987, AM J TROP MED HYG, V36, P427, DOI 10.4269/ajtmh.1987.36.427
+   Khromykh AA, 2000, J VIROL, V74, P3253, DOI 10.1128/JVI.74.7.3253-3263.2000
+   Kim DD, 2006, CLIN IMMUNOL, V118, P127, DOI 10.1016/j.clim.2005.10.014
+   KLIKS SC, 1989, AM J TROP MED HYG, V40, P444, DOI 10.4269/ajtmh.1989.40.444
+   KURANE I, 1988, J GEN VIROL, V69, P445, DOI 10.1099/0022-1317-69-2-445
+   Kurane I, 2007, COMP IMMUNOL MICROB, V30, P329, DOI 10.1016/j.cimid.2007.05.010
+   Kurosu T, 2007, BIOCHEM BIOPH RES CO, V362, P1051, DOI 10.1016/j.bbrc.2007.08.137
+   LEE JM, 1989, J GEN VIROL, V70, P335, DOI 10.1099/0022-1317-70-2-335
+   Li K, 2011, MOL IMMUNOL, V48, P1121, DOI 10.1016/j.molimm.2011.02.003
+   LOEGERING DJ, 1991, BIOCHEM BIOPH RES CO, V180, P268, DOI 10.1016/S0006-291X(05)81287-2
+   Lozach PY, 2005, J BIOL CHEM, V280, P23698, DOI 10.1074/jbc.M504337200
+   Mackenzie JM, 1996, VIROLOGY, V220, P232, DOI 10.1006/viro.1996.0307
+   MALASIT P, 1987, Southeast Asian Journal of Tropical Medicine and Public Health, V18, P316
+   MASON PW, 1989, VIROLOGY, V169, P354, DOI 10.1016/0042-6822(89)90161-X
+   Mehlhop E, 2005, J VIROL, V79, P7466, DOI 10.1128/JVI.79.12.7466-7477.2005
+   Miller S, 2007, J BIOL CHEM, V282, P8873, DOI 10.1074/jbc.M609919200
+   Miwa T, 2001, INT IMMUNOPHARMACOL, V1, P445, DOI 10.1016/S1567-5769(00)00043-6
+   Morgan BP, 1999, CRIT REV IMMUNOL, V19, P173
+   Mozdzanowska K, 2006, VIROLOGY, V352, P418, DOI 10.1016/j.virol.2006.05.008
+   Mukhopadhyay S, 2005, NAT REV MICROBIOL, V3, P13, DOI 10.1038/nrmicro1067
+   Nascimento EJM, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006782
+   Navarro-Sanchez E, 2005, ARCH MED RES, V36, P425, DOI 10.1016/j.arcmed.2005.04.007
+   Navarro-Sanchez E, 2003, EMBO REP, V4, P723, DOI 10.1038/sj.embor.embor866
+   Neves-Souza PCF, 2005, BMC INFECT DIS, V5, DOI 10.1186/1471-2334-5-64
+   Pang T, 2007, IMMUNOL CELL BIOL, V85, P43, DOI 10.1038/sj.icb.7100008
+   Perera R, 2008, CURR OPIN MICROBIOL, V11, P369, DOI 10.1016/j.mib.2008.06.004
+   PHILLPOTTS RJ, 1987, ARCH VIROL, V93, P295, DOI 10.1007/BF01310983
+   Preynat-Seauve O, 2004, EUR J IMMUNOL, V34, P147, DOI 10.1002/eji.200324260
+   Ravetch J, 2010, NAT IMMUNOL, V11, P183, DOI 10.1038/ni0310-183
+   RICE CM, 1986, VIROLOGY, V151, P1, DOI 10.1016/0042-6822(86)90098-X
+   Ricklin D, 2010, NAT IMMUNOL, V11, P785, DOI 10.1038/ni.1923
+   Rothman AL, 1999, VIROLOGY, V257, P1, DOI 10.1006/viro.1999.9656
+   SAADI S, 1995, J EXP MED, V182, P1807, DOI 10.1084/jem.182.6.1807
+   Sandor N, 2013, IMMUNOBIOLOGY, V218, P652, DOI 10.1016/j.imbio.2012.07.031
+   Schmidt RE, 2005, IMMUNOL LETT, V100, P56, DOI 10.1016/j.imlet.2005.06.022
+   SCHOEPP RJ, 1984, J CLIN MICROBIOL, V20, P1017, DOI 10.1128/JCM.20.5.1017-1019.1984
+   SIMS PJ, 1995, SEMIN CELL BIOL, V6, P275, DOI 10.1006/scel.1995.0037
+   Spain-Santana TA, 2001, J MED VIROL, V65, P324, DOI 10.1002/jmv.2037
+   Spear GT, 2001, CURR TOP MICROBIOL, V260, P229
+   Srikiatkhachorn A, 2010, CURR TOP MICROBIOL, V338, P67, DOI 10.1007/978-3-642-02215-9_6
+   Sun PF, 2011, VIROLOGY, V421, P245, DOI 10.1016/j.virol.2011.08.026
+   Torrentes-Carvalho A, 2009, MEM I OSWALDO CRUZ, V104, P1091, DOI 10.1590/S0074-02762009000800005
+   van der Schaar HM, 2008, PLOS PATHOG, V4, DOI 10.1371/journal.ppat.1000244
+   Vazquez S, 2002, VACCINE, V20, P1823, DOI 10.1016/S0264-410X(01)00515-1
+   Welsch S, 2009, CELL HOST MICROBE, V5, P365, DOI 10.1016/j.chom.2009.03.007
+   WESTAWAY EG, 1987, ARCH VIROL, V94, P215, DOI 10.1007/BF01310715
+   Wong KL, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036435
+   Wu MF, 2013, BLOOD, V121, P95, DOI 10.1182/blood-2012-05-430090
+   Yamanaka A, 2008, J VIROL, V82, P927, DOI 10.1128/JVI.00992-07
+NR 83
+TC 9
+Z9 10
+U1 0
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 25
+PY 2014
+VL 9
+IS 7
+AR e102014
+DI 10.1371/journal.pone.0102014
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AM6RP
+UT WOS:000339992600008
+PM 25061945
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Torrentes-Carvalho, A
+   Marinho, CF
+   de Oliveira-Pinto, LM
+   de Oliveira, DB
+   Damasco, PV
+   Cunha, RV
+   de Souza, LJ
+   de Azeredo, EL
+   Kubelka, CF
+AF Torrentes-Carvalho, Amanda
+   Marinho, Cintia Ferreira
+   de Oliveira-Pinto, Luzia Maria
+   de Oliveira, Debora Batista
+   Damasco, Paulo Vieira
+   Cunha, Rivaldo Venancio
+   de Souza, Luiz Jose
+   de Azeredo, Elzinandes Leal
+   Kubelka, Claire Fernandes
+TI Regulation of T lymphocyte apoptotic markers is associated to cell
+   activation during the acute phase of dengue
+SO IMMUNOBIOLOGY
+LA English
+DT Article
+DE Apoptosis; Activation markers; Dengue; Lymphocytes
+ID ORIGINAL ANTIGENIC SIN; TNF-ALPHA; HEMORRHAGIC-FEVER; IMMUNE ACTIVATION;
+   VIRUS-INFECTIONS; DEATH; MITOCHONDRIAL; INDUCTION; MEMBRANE; RECEPTOR
+AB Dengue fever, a public health problem in Brazil, may present severe clinical manifestations as result of an increased vascular permeability and coagulation disorders. T cell activation is a critical event for an effective immune response against infection, including the production of cytokines. We aim to reveal mechanisms that modulate the virus-cell interaction, with an emphasis on cell death. Apoptosis is involved in lymphocyte homeostasis, contributes to the clearance of virus-infected cells but also may play a role in the pathogenesis. Phosphatidylserine exposure on CD8T lymphocytes from dengue patients support early apoptotic processes and loss of genomic integrity, observed by DNA fragmentation in T lymphocytes and indicating late apoptosis. These T cells express activation and cytotoxic phenotypes as revealed by CD29 and CD107a upregulation. Higher frequencies of CD95 were detected in T lymphocytes mainly in those with the cytotoxic profile (CD107a(+)) and lower levels of anti-apoptotic molecule Bcl-2, suggesting that both CD4(+) and CD8(+) T cell subsets are more susceptible to apoptosis during acute dengue. The analysis of apoptosis-related protein expression profile showed that not only molecules with pro-but also those with anti-apoptotic functions are overexpressed, indicating that survival mechanisms could be possibly protecting cells against apoptosis caused by viral, immune, oxidative and/or genotoxic stresses. These observations led us to propose that in dengue patients there is an association between T cell susceptibility to apoptosis and the activation state. The mechanisms for understanding the immunopathogenesis during dengue infection are discussed.(C) 2013 Elsevier GmbH. All rights reserved.
+C1 [Torrentes-Carvalho, Amanda; Marinho, Cintia Ferreira; de Oliveira-Pinto, Luzia Maria; de Oliveira, Debora Batista; de Azeredo, Elzinandes Leal; Kubelka, Claire Fernandes] Inst Oswaldo Cruz, FIOCRUZ, Lab Imunol Viral, Manguinho, RJ, Brazil.
+   [Damasco, Paulo Vieira] Univ Estado Rio De Janeiro, Hosp Univ Pedro Ernesto, Rio De Janeiro, Brazil.
+   [Damasco, Paulo Vieira] Univ Fed Estado Rio de Janeiro, Hosp Univ Gafree Guinle, Rio de Janeiro, Brazil.
+   [Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, FM, Dept Clin Med, Campo Grande, MS, Brazil.
+   [de Souza, Luiz Jose] Ctr Referencia Dengue, Campos Dos Goytacazes, RJ, Brazil.
+   [de Souza, Luiz Jose] Fac Med, Campos Dos Goytacazes, RJ, Brazil.
+RP Kubelka, CF (corresponding author), Av Brasil,4365 Manguinhos, BR-21040360 Rio De Janeiro, RJ, Brazil.
+EM torrentes@ioc.fiocruz.br; claire@ioc.fiocruz.br
+RI Cunha, Rivaldo Venancio/I-7737-2014; Kubelka, Claire F/C-5558-2009;
+   /AAD-2097-2020
+OI Cunha, Rivaldo Venancio/0000-0002-6622-7043; 
+FU IOC/FIOCRUZ; CNPqNational Council for Scientific and Technological
+   Development (CNPq); FAPERJCarlos Chagas Filho Foundation for Research
+   Support of the State of Rio de Janeiro (FAPERJ); CAPESCAPES
+FX We would like to acknowledge Ana Rita Motta Castro and her students, for
+   their assistance with patient recruitment and sample collection. We also
+   would like to thank Alessandro Marins dos Santos and Daniela Beghini for
+   the help in the FACS CyAn facility and Dr. Gisela Freitas Trindade for
+   the help in the protein expression assay. We are indebted to the
+   Flavivirus Laboratory team led by Dr. Rita Nogueira at FIOCRUZ, RJ and
+   Plinio Barcelar Laboratory in Campos de Goytacazes for laboratory
+   diagnosis of dengue cases. We gratefully acknowledge the voluntarily
+   participation from patients and healthy individuals in this study. This
+   work was financially supported by IOC/FIOCRUZ, CNPq, FAPERJ and CAPES.
+CR Azeredo EL, 2001, IMMUNOBIOLOGY, V204, P494, DOI 10.1078/0171-2985-00058
+   Azeredo EL, 2006, MEM I OSWALDO CRUZ, V101, P437, DOI 10.1590/S0074-02762006000400016
+   Bao SD, 2001, NATURE, V411, P969, DOI 10.1038/35082110
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Bethell DB, 1998, J INFECT DIS, V177, P778, DOI 10.1086/517807
+   Brazilian-Health-Ministery, 2012, PORT SAUD DIM CAS GR
+   Brazilian-Health-Ministry, 2010, SECR VIG STATIDE
+   Cardier JE, 2005, CYTOKINE, V30, P359, DOI 10.1016/j.cyto.2005.01.021
+   Casazza JP, 2006, J EXP MED, V203, P2865, DOI 10.1084/jem.20052246
+   Courageot MP, 2003, ADV VIRUS RES, V60, P157, DOI 10.1016/S0065-3527(03)60005-9
+   de-Oliveira-Pinto LM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0038527
+   Deveraux QL, 1999, GENE DEV, V13, P239, DOI 10.1101/gad.13.3.239
+   Du CY, 2000, CELL, V102, P33, DOI 10.1016/S0092-8674(00)00008-8
+   Duangchinda T, 2010, P NATL ACAD SCI USA, V107, P16922, DOI 10.1073/pnas.1010867107
+   El-Bacha T, 2007, BBA-MOL BASIS DIS, V1772, P1158, DOI 10.1016/j.bbadis.2007.08.003
+   Feig C, 2007, EUR J IMMUNOL, V37, pS61, DOI 10.1002/eji.200737462
+   Forestier C, 2003, J IMMUNOL, V171, P4096, DOI 10.4049/jimmunol.171.8.4096
+   Gandini M, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002257
+   Gibbons RV, 2002, BRIT MED J, V324, P1563, DOI 10.1136/bmj.324.7353.1563
+   Green DR, 2004, SCIENCE, V305, P626, DOI 10.1126/science.1099320
+   Green S, 1999, J INFECT DIS, V180, P1429, DOI 10.1086/315072
+   Grell M, 1999, EMBO J, V18, P3034, DOI 10.1093/emboj/18.11.3034
+   Herbeuval JP, 2005, BLOOD, V106, P3524, DOI 10.1182/blood-2005-03-1243
+   Hosaka N, 1998, J INFECT DIS, V178, P1030, DOI 10.1086/515700
+   Kumagai A, 2004, J BIOL CHEM, V279, P49599, DOI 10.1074/jbc.M408353200
+   KURANE I, 1991, J CLIN INVEST, V88, P1473, DOI 10.1172/JCI115457
+   Laboissiere P., 2013, ONZ EST CONC 74 CAS
+   Lang JD, 2009, CRIT CARE, V13, DOI 10.1186/cc7144
+   Lemasters JJ, 2005, GASTROENTEROLOGY, V129, P351, DOI 10.1053/j.gastro.2005.06.006
+   Libraty DH, 2002, J INFECT DIS, V185, P1213, DOI 10.1086/340365
+   Lichtenstein AV, 2001, ANN NY ACAD SCI, V945, P239
+   Limonta D., 2013, J MED VIROL
+   Limonta D, 2007, J CLIN VIROL, V40, P50, DOI 10.1016/j.jcv.2007.04.024
+   Liu S, 2006, MOL CELL BIOL, V26, P6056, DOI 10.1128/MCB.00492-06
+   Lowndes NF, 2000, CURR OPIN GENET DEV, V10, P17, DOI 10.1016/S0959-437X(99)00050-7
+   Mathew A, 1999, J IMMUNOL, V162, P5609
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Mongkolsapaya J, 2006, J IMMUNOL, V176, P3821, DOI 10.4049/jimmunol.176.6.3821
+   Myint KS, 2006, J INFECT DIS, V194, P600, DOI 10.1086/506451
+   Nasirudeen AMA, 2008, MICROBES INFECT, V10, P1124, DOI 10.1016/j.micinf.2008.06.005
+   O'Connell MJ, 2000, TRENDS CELL BIOL, V10, P296, DOI 10.1016/S0962-8924(00)01773-6
+   Pang T, 2007, IMMUNOL CELL BIOL, V85, P43, DOI 10.1038/sj.icb.7100008
+   Paulsen M, 2011, CELL COMMUN SIGNAL, V9, DOI 10.1186/1478-811X-9-7
+   Pimentel-Muinos FX, 1999, IMMUNITY, V11, P783, DOI 10.1016/S1074-7613(00)80152-1
+   Pinto LMO, 1999, MEM I OSWALDO CRUZ, V94, P387, DOI 10.1590/S0074-02761999000300019
+   Rothman AL, 2011, NAT REV IMMUNOL, V11, P532, DOI 10.1038/nri3014
+   Sancho P, 2003, MOL PHARMACOL, V63, P581, DOI 10.1124/mol.63.3.581
+   Schimmer AD, 2004, CANCER RES, V64, P7183, DOI 10.1158/0008-5472.CAN-04-1918
+   Sharpe AH, 2007, NAT IMMUNOL, V8, P239, DOI 10.1038/ni1443
+   Sprent J, 2001, SCIENCE, V293, P245, DOI 10.1126/science.1062416
+   Srikiatkhachorn A, 2009, THROMB HAEMOSTASIS, V102, P1042, DOI 10.1160/TH09-03-0208
+   Strasser A, 2009, IMMUNITY, V30, P180, DOI 10.1016/j.immuni.2009.01.001
+   Stuller KA, 2010, J IMMUNOL, V184, P3850, DOI 10.4049/jimmunol.0902935
+   Thalappilly S, 2006, FEBS J, V273, P2766, DOI 10.1111/j.1742-4658.2006.05293.x
+   Torrentes-Carvalho A, 2009, MEM I OSWALDO CRUZ, V104, P1091, DOI 10.1590/S0074-02762009000800005
+   Vasconcelos JR, 2012, PLOS PATHOG, V8, DOI 10.1371/journal.ppat.1002699
+   Verhagen AM, 2002, J BIOL CHEM, V277, P445, DOI 10.1074/jbc.M109891200
+   Vousden KH, 2002, NAT REV CANCER, V2, P594, DOI 10.1038/nrc864
+   Wang L, 2007, AM J TROP MED HYG, V77, P297, DOI 10.4269/ajtmh.2007.77.297
+   Wauquier N, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000837
+   Weiskopf D, 2013, P NATL ACAD SCI USA, V110, pE2046, DOI 10.1073/pnas.1305227110
+   Whitehorn J, 2011, VACCINE, V29, P7221, DOI 10.1016/j.vaccine.2011.07.022
+   Zhou BBS, 2000, NATURE, V408, P433, DOI 10.1038/35044005
+   Zhou W, 2007, VIRAL IMMUNOL, V20, P379, DOI 10.1089/vim.2007.0030
+NR 64
+TC 11
+Z9 12
+U1 0
+U2 5
+PU ELSEVIER GMBH
+PI MUNICH
+PA HACKERBRUCKE 6, 80335 MUNICH, GERMANY
+SN 0171-2985
+J9 IMMUNOBIOLOGY
+JI Immunobiology
+PD MAY
+PY 2014
+VL 219
+IS 5
+BP 329
+EP 340
+DI 10.1016/j.imbio.2013.11.002
+PG 12
+WC Immunology
+SC Immunology
+GA AF1NJ
+UT WOS:000334480300001
+PM 24508270
+DA 2020-12-09
+ER
+
+PT J
+AU de-Oliveira-Pinto, LM
+   Marinho, CF
+   Povoa, TF
+   de Azeredo, EL
+   de Souza, LA
+   Barbosa, LDR
+   Motta-Castro, ARC
+   Alves, AMB
+   Avila, CAL
+   de Souza, LJ
+   da Cunha, RV
+   Damasco, PV
+   Paes, MV
+   Kubelka, CF
+AF de-Oliveira-Pinto, Luzia Maria
+   Marinho, Cintia Ferreira
+   Povoa, Tiago Fajardo
+   de Azeredo, Elzinandes Leal
+   de Souza, Luiza Assed
+   Ribeiro Barbosa, Luiza Damian
+   Motta-Castro, Ana Rita C.
+   Alves, Ada M. B.
+   Lins Avila, Carlos Andre
+   de Souza, Luiz Jose
+   da Cunha, Rivaldo Venancio
+   Damasco, Paulo Vieira
+   Paes, Marciano Viana
+   Kubelka, Claire Fernandes
+TI Regulation of Inflammatory Chemokine Receptors on Blood T Cells
+   Associated to the Circulating Versus Liver Chemokines in Dengue Fever
+SO PLOS ONE
+LA English
+DT Article
+ID HUMAN ENDOTHELIAL-CELLS; VIRUS-INFECTION; HEMORRHAGIC-FEVER; ADHESION
+   RECEPTORS; DENDRITIC CELLS; FUNCTIONAL-CHARACTERIZATION; SELECTIVE
+   EXPRESSION; CYTOKINE PRODUCTION; HEPATITIS-C; IFN-GAMMA
+AB Little is known about the role of chemokines/chemokines receptors on T cells in natural DENV infection. Patients from DENV-2 and -3-outbreaks were studied prospectively during the acute or convalescent phases. Expression of chemokine receptor and activation markers on lymphocyte subpopulations were determined by flow cytometry analysis, plasma chemokine ligands concentrations were measured by ELISA and quantification of CCL5/RANTES(+) cells in liver tissues from fatal dengue cases was performed by immunochemistry. In the acute DENV-infection, T-helper/T-cytotoxic type-1 cell (Th1/Tc1)-related CCR5 is significantly higher expressed on both CD4 and CD8 T cells. The Th1-related CXCR3 is up-regulated among CD4 T cells and Tc2-related CCR4 is up-regulated among CD8 T cells. In the convalescent phase, all chemokine receptor or chemokine ligand expression tends to reestablish control healthy levels. Increased CCL2/MCP-1 and CCL4/MIP-1 beta but decreased CCL5/RANTES levels were observed in DENV-patients during acute infection. Moreover, we showed an increased CD107a expression on CCR5 or CXCR3-expressing T cells and higher expression of CD29, CD44(HIGH) and CD127(LOW) markers on CCR4-expressing CD8 T cells in DENV-patients when compared to controls. Finally, liver from dengue fatal patients showed increased number of cells expressing CCL5/RANTES in three out of four cases compared to three death from a non-dengue patient. In conclusion, both Th1-related CCR5 and CXCR3 among CD4 T cells have a potential ability to exert cytotoxicity function. Moreover, Tc1-related CCR5 and Tc2-related CCR4 among CD8 T cells have a potential ability to exert effector function and migration based on cell markers evaluated. The CCR5 expression would be promoting an enhanced T cell recruitment into liver, a hypothesis that is corroborated by the CCL5/RANTES increase detected in hepatic tissue from dengue fatal cases. The balance between protective and pathogenic immune response mediated by chemokines during dengue fever will be discussed.
+C1 [de-Oliveira-Pinto, Luzia Maria; Marinho, Cintia Ferreira; de Azeredo, Elzinandes Leal; Kubelka, Claire Fernandes] Fiocruz MS, Lab Imunol Viral, IOC, BR-21045900 Rio De Janeiro, Brazil.
+   [Povoa, Tiago Fajardo; Alves, Ada M. B.; Paes, Marciano Viana] Fiocruz MS, IOC, Lab Biotecnol & Fisiol Infecces Virais, BR-21045900 Rio De Janeiro, Brazil.
+   [de Souza, Luiza Assed; Ribeiro Barbosa, Luiza Damian; de Souza, Luiz Jose] Ctr Reg Referencia Dengue, Rio De Janeiro, Brazil.
+   [Motta-Castro, Ana Rita C.; da Cunha, Rivaldo Venancio] Univ Fed Mato Grosso do Sul, Setor Hemonucleo, Mato Grosso, Brazil.
+   [Lins Avila, Carlos Andre; Damasco, Paulo Vieira] Univ Estado Rio De Janeiro, Hosp Univ Pedro Ernesto, Rio De Janeiro, Brazil.
+RP de-Oliveira-Pinto, LM (corresponding author), Fiocruz MS, Lab Imunol Viral, IOC, BR-21045900 Rio De Janeiro, Brazil.
+EM lpinto@ioc.fiocruz.br
+RI motta-castro, ana rita c/O-2075-2017; Kubelka, Claire F/C-5558-2009;
+   Cunha, Rivaldo Venancio/I-7737-2014; /AAD-2097-2020
+OI Cunha, Rivaldo Venancio/0000-0002-6622-7043; Paes,
+   Marciano/0000-0002-2266-2801; Motta-Castro, Ana Rita/0000-0003-3070-1337
+FU Brazilian Research Council; Oswaldo Cruz Foundation
+FX This work was supported by the Brazilian Research Council and the
+   Oswaldo Cruz Foundation. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Ahamed J, 2005, BLOOD, V105, P2384, DOI 10.1182/blood-2004-09-3422
+   Almeida JR, 2007, J EXP MED, V204, P2473, DOI 10.1084/jem.20070784
+   Aplin AE, 1998, PHARMACOL REV, V50, P197
+   Apolinario A, 2002, AM J GASTROENTEROL, V97, P2861, DOI 10.1111/j.1572-0241.2002.07054.x
+   Arai K, 2002, CELL IMMUNOL, V219, P48, DOI 10.1016/S0008-8749(02)00584-1
+   Araujo LM, 2004, EUR J IMMUNOL, V34, P327, DOI 10.1002/eji.200324151
+   Avirutnan P, 1998, J IMMUNOL, V161, P6338
+   Azeredo EL, 2006, MEM I OSWALDO CRUZ, V101, P437, DOI 10.1590/S0074-02762006000400016
+   Barniol J, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-106
+   Betts MR, 2003, J IMMUNOL METHODS, V281, P65, DOI 10.1016/S0022-1759(03)00265-5
+   Bozza FA, 2008, BMC INFECT DIS, V8, DOI 10.1186/1471-2334-8-86
+   Campbell JJ, 1999, NATURE, V400, P776, DOI 10.1038/23495
+   Casazza JP, 2006, J EXP MED, V203, P2865, DOI 10.1084/jem.20052246
+   Chau Tran Nguyen Bich, 2008, J Infect Dis, V198, P516, DOI 10.1086/590117
+   Chen RF, 2007, T ROY SOC TROP MED H, V101, P1106, DOI 10.1016/j.trstmh.2007.06.019
+   Daucher M, 2008, J VIROL, V82, P4102, DOI 10.1128/JVI.02212-07
+   Dejnirattisai W, 2008, J IMMUNOL, V181, P5865, DOI 10.4049/jimmunol.181.9.5865
+   Dong T, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0001192
+   Drillenburg P, 2000, BLOOD, V95, P1900, DOI 10.1182/blood.V95.6.1900
+   Duangchinda T, 2010, P NATL ACAD SCI USA, V107, P16922, DOI 10.1073/pnas.1010867107
+   Farber JM, 1997, J LEUKOCYTE BIOL, V61, P246
+   Gandini M, 2011, MEM I OSWALDO CRUZ, V106, P594, DOI 10.1590/S0074-02762011000500012
+   Gao P, 2003, J LEUKOCYTE BIOL, V73, P273, DOI 10.1189/jlb.0602269
+   Guabiraba R, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015680
+   Gulzar N, 2011, HUM IMMUNOL
+   Harris ES, 2000, J BIOL CHEM, V275, P23409, DOI 10.1074/jbc.R000004200
+   Heydtmann M, 2002, GUT, V50, P150, DOI 10.1136/gut.50.2.150
+   Huang YH, 2000, AM J TROP MED HYG, V63, P71, DOI 10.4269/ajtmh.2000.63.71
+   Huster KM, 2004, P NATL ACAD SCI USA, V101, P5610, DOI 10.1073/pnas.0308054101
+   HYNES RO, 1992, CELL, V69, P11, DOI 10.1016/0092-8674(92)90115-S
+   Imai T, 1999, INT IMMUNOL, V11, P81, DOI 10.1093/intimm/11.1.81
+   Ip PP, 2010, J IMMUNOL, V184, P5705, DOI 10.4049/jimmunol.0903484
+   Kadhiravan T, 2010, IMMUNE NETW, V10, P164
+   Kaech SM, 2003, NAT IMMUNOL, V4, P1191, DOI 10.1038/ni1009
+   Karpus WJ, 1997, J IMMUNOL, V158, P4129
+   Khanna R, 1997, J IMMUNOL, V158, P3619
+   Kim CH, 2001, J CLIN INVEST, V108, P1331, DOI 10.1172/JCI200113543
+   KLIKS SC, 1989, AM J TROP MED HYG, V40, P444, DOI 10.4269/ajtmh.1989.40.444
+   Kobayashi N, 2006, J LEUKOCYTE BIOL, V80, P320, DOI 10.1189/jlb.1205725
+   Kondo T, 2009, INT IMMUNOL, V21, P523, DOI 10.1093/intimm/dxp019
+   Larrubia JR, 2007, J HEPATOL, V47, P632, DOI 10.1016/j.jhep.2007.04.009
+   Lee YR, 2006, J GEN VIROL, V87, P3623, DOI 10.1099/vir.0.82093-0
+   Loetscher M, 1996, J EXP MED, V184, P963, DOI 10.1084/jem.184.3.963
+   Maggi E, 1997, BLOOD, V89, P3672, DOI 10.1182/blood.V89.10.3672.3672_3672_3681
+   Mangada MM, 2005, J IMMUNOL, V175, P2676, DOI 10.4049/jimmunol.175.4.2676
+   Mohamadzadeh M, 1998, J CLIN INVEST, V101, P97, DOI 10.1172/JCI1604
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Mongkolsapaya J, 2006, J IMMUNOL, V176, P3821, DOI 10.4049/jimmunol.176.6.3821
+   Murphy BR, 2011, ANNU REV IMMUNOL, V29, P587, DOI 10.1146/annurev-immunol-031210-101315
+   Nightingale ZD, 2008, J LEUKOCYTE BIOL, V84, P1028, DOI 10.1189/jlb.0208105
+   PALIARD X, 1988, J IMMUNOL, V141, P849
+   Pribila JT, 2004, ANNU REV IMMUNOL, V22, P157, DOI 10.1146/annurev.immunol.22.012703.104649
+   Rabin RL, 1999, J IMMUNOL, V162, P3840
+   Rabin RL, 2003, J IMMUNOL, V171, P2812, DOI 10.4049/jimmunol.171.6.2812
+   Romagnani S, 2000, ANN ALLERG ASTHMA IM, V85, P9, DOI 10.1016/S1081-1206(10)62426-X
+   Rot A, 2004, ANNU REV IMMUNOL, V22, P891, DOI 10.1146/annurev.immunol.22.012703.104543
+   SABIN ALBERT B., 1952, AMER JOUR TROP MED AND HYG, V1, P30
+   SALGAME P, 1991, SCIENCE, V254, P279, DOI 10.1126/science.1681588
+   Schluns KS, 2005, INT J BIOCHEM CELL B, V37, P1567, DOI 10.1016/j.biocel.2005.02.017
+   Seder RA, 2008, NAT REV IMMUNOL, V8, P247, DOI 10.1038/nri2274
+   Seneviratne SL, 2007, QJM-INT J MED, V100, P19, DOI 10.1093/qjmed/hcl132
+   Simmons CP, 2005, J VIROL, V79, P5665, DOI 10.1128/JVI.79.9.5665-5675.2005
+   SPRINGER TA, 1990, NATURE, V346, P425, DOI 10.1038/346425a0
+   Srikiatkhachorn A, 2010, CURR TOP MICROBIOL, V338, P67, DOI 10.1007/978-3-642-02215-9_6
+   Talavera D, 2004, J GEN VIROL, V85, P1801, DOI 10.1099/vir.0.19652-0
+   Tomiyama H, 2004, EUR J IMMUNOL, V34, P999, DOI 10.1002/eji.200324478
+   von Andrian UH, 2000, NEW ENGL J MED, V343, P1020, DOI 10.1056/NEJM200010053431407
+   Wagner C, 2001, EUR J IMMUNOL, V31, P1173, DOI 10.1002/1521-4141(200104)31:4<1173::AID-IMMU1173>3.0.CO;2-9
+   Whitehorn J, 2011, VACCINE
+   Zhou W, 2007, VIRAL IMMUNOL, V20, P379, DOI 10.1089/vim.2007.0030
+NR 70
+TC 32
+Z9 33
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 16
+PY 2012
+VL 7
+IS 7
+AR e38527
+DI 10.1371/journal.pone.0038527
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 974VS
+UT WOS:000306466100011
+PM 22815692
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU de-Oliveira-Pinto, LM
+   Gandini, M
+   Freitas, LP
+   Siqueira, MM
+   Marinho, CF
+   Setubal, S
+   Kubelka, CF
+   Cruz, OG
+   de Oliveira, SA
+AF de-Oliveira-Pinto, Luzia Maria
+   Gandini, Mariana
+   Freitas, Lais Picinini
+   Siqueira, Marilda Mendonca
+   Marinho, Cintia Ferreira
+   Setubal, Sergio
+   Kubelka, Claire Fernandes
+   Cruz, Oswaldo Goncalves
+   de Oliveira, Solange Artimos
+TI Profile of circulating levels of IL-1Ra, CXCL10/IP-10, CCL4/MIP-1 beta
+   and CCL2/MCP-1 in dengue fever and parvovirosis
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE dengue; parvovirus B19; chemokines; IL-1Ra
+ID MONOCYTE CHEMOATTRACTANT PROTEIN-1; INTERLEUKIN-1 RECEPTOR ANTAGONIST;
+   TUMOR-NECROSIS-FACTOR; PRO-INFLAMMATORY CYTOKINES; VIRUS-INFECTION; B19
+   INFECTION; HEMORRHAGIC-FEVER; SHOCK SYNDROME; ERYTHEMA INFECTIOSUM;
+   INTERFERON-ALPHA
+AB Dengue virus (DENV) and parvovirus B19 (B19V) infections are acute exanthematic febrile illnesses that are not easily differentiated on clinical grounds and affect the paediatric population. Patients with these acute exanthematic diseases were studied. Fever was more frequent in DENV than in B19V-infected patients. Arthritis/arthralgias with DENV infection were shown to be significantly more frequent in adults than in children. The circulating levels of interleukin (IL)-1 receptor antagonist (Ra), CXCL10/inducible protein-10 (IP-10), CCL4/macrophage inflammatory protein-1 beta and CCL2/monocyte chemotactic protein-1 (MCP-1) were determined by multiplex immunoassay in serum samples obtained from B19V (37) and DENV-infected (36) patients and from healthy individuals (7). Forward stepwise logistic regression analysis revealed that circulating CXCL10/IP-10 tends to be associated with DENV infection and that IL-1Ra was significantly associated with DENV infection. Similar analysis showed that circulating CCL2/MCP-1 tends to be associated with B19V infection. In dengue fever, increased circulating IL-1Ra may exert antipyretic actions in an effort to counteract the already increased concentrations of IL-1 beta, while CXCL10/IP-10 was confirmed as a strong pro-inflammatory marker. Recruitment of monocytes/macrophages and upregulation of the humoral immune response by CCL2/MCP-1 by B19V may be involved in the persistence of the infection. Children with B19V or DENV infections had levels of these cytokines similar to those of adult patients.
+C1 [de-Oliveira-Pinto, Luzia Maria; Gandini, Mariana; Freitas, Lais Picinini; Marinho, Cintia Ferreira; Kubelka, Claire Fernandes] Inst Oswaldo Cruz Fiocruz, Lab Imunol Viral, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Cruz, Oswaldo Goncalves] Inst Oswaldo Cruz Fiocruz, Programa Comp Cient, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Siqueira, Marilda Mendonca] Inst Oswaldo Cruz Fiocruz, Lab Virus Resp & Sarampo, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Setubal, Sergio; de Oliveira, Solange Artimos] Univ Fed Fluminense, Disciplina Doencas Infecciosas & Parasitarias, Hosp Univ Antonio Pedro, Niteroi, RJ, Brazil.
+RP de-Oliveira-Pinto, LM (corresponding author), Inst Oswaldo Cruz Fiocruz, Lab Imunol Viral, Av Brasil 4365, BR-21045900 Rio De Janeiro, RJ, Brazil.
+EM lpinto@ioc.fiocruz.br
+OI Freitas, Lais/0000-0001-9012-9382
+FU FAPERJCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ); CNPqNational Council for Scientific and
+   Technological Development (CNPq); FIOCRUZ
+FX FAPERJ, CNPq, FIOCRUZ
+CR Ahmed PA, 2010, NIGER J CLIN PRACT, V13, P413
+   AREND WP, 1993, ADV IMMUNOL, V54, P167, DOI 10.1016/S0065-2776(08)60535-0
+   Arend WR, 2002, CYTOKINE GROWTH F R, V13, P323, DOI 10.1016/S1359-6101(02)00020-5
+   BARNA BP, 1994, J NEUROIMMUNOL, V50, P101, DOI 10.1016/0165-5728(94)90220-8
+   Becerra A, 2009, J MED VIROL, V81, P1403, DOI 10.1002/jmv.21538
+   Becquart P, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-356
+   Bozza FA, 2008, BMC INFECT DIS, V8, DOI 10.1186/1471-2334-8-86
+   BROWN Z, 1992, KIDNEY INT, V42, P95, DOI 10.1038/ki.1992.266
+   Chaturvedi UC, 2007, FEMS IMMUNOL MED MIC, V50, P285, DOI 10.1111/j.1574-695X.2007.00273.x
+   Chau Tran Nguyen Bich, 2008, J Infect Dis, V198, P516, DOI 10.1086/590117
+   CHORBA T, 1986, J INFECT DIS, V154, P383, DOI 10.1093/infdis/154.3.383
+   Corcoran A, 2000, J VIROL, V74, P9903, DOI 10.1128/JVI.74.21.9903-9910.2000
+   Oliveira MJC, 2008, REV SOC BRAS MED TRO, V41, P338, DOI 10.1590/S0037-86822008000400004
+   CUSHING SD, 1990, P NATL ACAD SCI USA, V87, P5134, DOI 10.1073/pnas.87.13.5134
+   de Oliveira SA, 2009, CLIN RHEUMATOL, V28, P1067, DOI 10.1007/s10067-009-1184-1
+   Dejnirattisai W, 2008, J IMMUNOL, V181, P5865, DOI 10.4049/jimmunol.181.9.5865
+   Dejnirattisai W, 2010, SCIENCE, V328, P745, DOI 10.1126/science.1185181
+   Dinarello CA, 1995, NUTRITION, V11, P695
+   Duyen HTL, 2011, J INFECT DIS, V203, P1292, DOI 10.1093/infdis/jir014
+   Elena B, 2011, VACCINE, V29, P1534, DOI 10.1016/j.vaccine.2010.12.095
+   Fink J, 2007, PLOS NEGLECT TROP D, V1, DOI 10.1371/journal.pntd.0000086
+   FIRESTEIN GS, 1994, ARTHRITIS RHEUM, V37, P644, DOI 10.1002/art.1780370507
+   Gourine AV, 1998, ANN NY ACAD SCI, V856, P266, DOI 10.1111/j.1749-6632.1998.tb08335.x
+   Gu L, 1997, J LEUKOCYTE BIOL, V62, P577
+   Gubler DJ, 2002, ARCH MED RES, V33, P330, DOI 10.1016/S0188-4409(02)00378-8
+   Gubler Duane J., 2002, Trends in Microbiology, V10, P100, DOI 10.1016/S0966-842X(01)02288-0
+   Gupta V, 2011, J TROP PEDIATRICS, V57, P451, DOI 10.1093/tropej/fmr020
+   HALSTEAD SB, 1970, YALE J BIOL MED, V42, P311
+   HALSTEAD SB, 1977, NATURE, V265, P739, DOI 10.1038/265739a0
+   Halstead SB, 2007, LANCET, V370, P1644, DOI 10.1016/S0140-6736(07)61687-0
+   Hsieh MF, 2006, J IMMUNOL, V177, P1855, DOI 10.4049/jimmunol.177.3.1855
+   Ip PP, 2010, J IMMUNOL, V184, P5705, DOI 10.4049/jimmunol.0903484
+   Jitschin R, 2011, CLIN MICROBIOL INFEC, V17, P1336, DOI 10.1111/j.1469-0691.2010.03355.x
+   Juffrie M, 2000, INFECT IMMUN, V68, P702, DOI 10.1128/IAI.68.2.702-707.2000
+   Kerr JR, 2004, J MED VIROL, V74, P147, DOI 10.1002/jmv.20158
+   Kerr JR, 2001, J GEN VIROL, V82, P3011, DOI 10.1099/0022-1317-82-12-3011
+   KLIKS SC, 1988, AM J TROP MED HYG, V38, P411, DOI 10.4269/ajtmh.1988.38.411
+   KLIR JJ, 1994, AM J PHYSIOL, V266, pR1845, DOI 10.1152/ajpregu.1994.266.6.R1845
+   KLUGER MJ, 1991, PHYSIOL REV, V71, P93
+   Krone B, 2008, MULT SCLER J, V14, P136, DOI 10.1177/1352458507082069
+   KURANE I, 1993, AM J TROP MED HYG, V48, P222, DOI 10.4269/ajtmh.1993.48.222
+   La Braga E, 2001, MEM I OSWALDO CRUZ, V96, P229, DOI 10.1590/S0074-02762001000200015
+   Lee YR, 2006, J GEN VIROL, V87, P3623, DOI 10.1099/vir.0.82093-0
+   Levy A, 2010, T ROY SOC TROP MED H, V104, P16, DOI 10.1016/j.trstmh.2009.06.013
+   Li S, 2001, BRAIN RES, V910, P163, DOI 10.1016/S0006-8993(01)02707-X
+   Loetscher P, 1996, J IMMUNOL, V156, P322
+   Luheshi G, 1996, AM J PHYSIOL-ENDOC M, V270, pE91
+   Mangada MM, 2002, J INFECT DIS, V185, P1697, DOI 10.1086/340822
+   May LJ, 2011, CARDIOL YOUNG, V21, P241, DOI 10.1017/S1047951110001964
+   Miller AJ, 1997, BRIT J PHARMACOL, V120, P1274, DOI 10.1038/sj.bjp.0701049
+   MS/SVS - Ministerio da Saude/Secretaria de Vigilancia em Saude, 2010, CLIPP 13 14 15 NOV 2
+   MS/SVS - Ministerio da Saude/Secretaria de Vigilancia em Saude, 2011, SVS RED
+   MS - Ministerio da Saude/Secretaria de Vigilancia em Saude, 2010, INF EP DENG SEM 1 52
+   Nigro G, 2000, CLIN INFECT DIS, V31, P65, DOI 10.1086/313929
+   Pinto LMO, 1999, MEM I OSWALDO CRUZ, V94, P387, DOI 10.1590/S0074-02761999000300019
+   Raghupathy R, 1998, J MED VIROL, V56, P280, DOI 10.1002/(SICI)1096-9071(199811)56:3&lt;280::AID-JMV18&gt;3.0.CO;2-I
+   Rothman AL, 2009, ANN NY ACAD SCI, V1171, pE36, DOI 10.1111/j.1749-6632.2009.05055.x
+   SANGKAWIBHA N, 1984, AM J EPIDEMIOL, V120, P653, DOI 10.1093/oxfordjournals.aje.a113932
+   STANDIFORD TJ, 1991, J BIOL CHEM, V266, P9912
+   Tran NBC, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000657
+   WAGNER AD, 1995, MAYO CLIN PROC, V70, P261, DOI 10.4065/70.3.261
+   WATANABE M, 1994, CLIN LAB HAEMATOL, V16, P179
+   Webster DP, 2009, LANCET INFECT DIS, V9, P678, DOI 10.1016/S1473-3099(09)70254-3
+   Yaegashi N, 1998, J INFECTION, V37, P28, DOI 10.1016/S0163-4453(98)90346-2
+   YOSHIMURA T, 1989, FEBS LETT, V244, P487, DOI 10.1016/0014-5793(89)80590-3
+   Young NS, 2004, NEW ENGL J MED, V350, P586, DOI 10.1056/NEJMra030840
+NR 66
+TC 26
+Z9 26
+U1 0
+U2 8
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD FEB
+PY 2012
+VL 107
+IS 1
+BP 48
+EP 56
+DI 10.1590/S0074-02762012000100007
+PG 9
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 889GU
+UT WOS:000300062500007
+PM 22310535
+OA DOAJ Gold
+DA 2020-12-09
+ER
+
+PT J
+AU Silverio, JC
+   de-Oliveira-Pinto, LM
+   da Silva, AA
+   de Oliveira, GM
+   Lannes-Vieira, J
+AF Silverio, Jaline Coutinho
+   de-Oliveira-Pinto, Luzia Maria
+   da Silva, Andrea Alice
+   de Oliveira, Gabriel Melo
+   Lannes-Vieira, Joseli
+TI Perforin-expressing cytotoxic cells contribute to chronic cardiomyopathy
+   in Trypanosoma cruzi infection
+SO INTERNATIONAL JOURNAL OF EXPERIMENTAL PATHOLOGY
+LA English
+DT Article
+DE cardiomyopathy; CD8+T-cells; Chagas disease; cytokines; perforin;
+   Trypanosoma cruzi
+ID NITRIC-OXIDE SYNTHASE; HUMAN CHAGAS-DISEASE; T-CELLS; ELICITED
+   MYOCARDITIS; MICE; HEART; CYTOKINES; INFLAMMATION; LYMPHOCYTES;
+   RESISTANCE
+AB P>Understanding the dual participation of the immune response in controlling the invader and at the same time causing tissue damage might contribute to the design of effective new vaccines and therapies for Chagas disease. Perforin, a cytolytic protein product of killer cells, is involved in resistance to acute Trypanosoma cruzi infection. However, the contribution of perforin in parasite control and chronic chagasic cardiomyopathy is unclear. Perforin-positive cells were detected in the heart tissue during the acute and chronic phases of infection of C57BL/6 mice inoculated with low dose (102 parasites) of the Colombian T. cruzi strain. This protocol led to acute phase survival in both wild-type and perforin null (pfp-/-) mice lineages. During the chronic infection, parasitism and inducible nitric oxide synthase (iNOS) as well as interleukin (IL)-4+ and, mainly, interferon (IFN)-gamma+ cells were more elevated in the heart tissue of pfp-/- mice. Higher levels of circulating NO and anti-parasite immunoglobulin (Ig)G2c and IgG3, paralleled by a prominent frequency of IFN-gamma+ and IL-10+ splenocytes, were present in pfp-/--infected mice. Therefore, although the perforin-dependent pathway plays a role, it is not crucial for anti-T. cruzi immunity and acute phase survival of mice infected with a low inoculum. Further, perforin deficiency resulted in lower activity of creatine kinase-muscle brain isoform (CK-MB) isoenzyme in serum and a more restricted connexin 43 loss, both of which are markers of the cardiomyocyte lesion. Moreover, perforin deficiency hampered the development of severe electrocardiographic abnormalities. Hence, our results corroborate that perforin-bearing cytotoxic cells might contribute to cardiomyocyte lesion and heart dysfunction during chronic T. cruzi infection, shedding light on immunopathogenesis of chronic chagasic cardiomyopathy.
+C1 [Silverio, Jaline Coutinho; de-Oliveira-Pinto, Luzia Maria; da Silva, Andrea Alice; Lannes-Vieira, Joseli] Fiocruz MS, Inst Oswaldo Cruz, Lab Biol Interacoes, BR-21045900 Rio De Janeiro, Brazil.
+   [da Silva, Andrea Alice] Univ Fed Fluminense, Dept Patol, Niteroi, RJ, Brazil.
+   [de Oliveira, Gabriel Melo] Fiocruz MS, Inst Oswaldo Cruz, Lab Biol Celular, BR-21045900 Rio De Janeiro, Brazil.
+RP Lannes-Vieira, J (corresponding author), Fiocruz MS, Inst Oswaldo Cruz, Lab Biol Interacoes, Av Brasil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM lannes@ioc.fiocruz.br
+RI Silva, Andrea Alice/J-6729-2012
+OI Silva, Andrea Alice/0000-0001-5856-6128
+FU FAPERJCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ) [E-26/171.126/2005, E-26/111.756/2008];
+   Brazilian Research Council/CNPqNational Council for Scientific and
+   Technological Development (CNPq) [471518/2006-7, 410401/2006-4];
+   National Institute for Science and Technology [INCT/CNPq/2008]
+FX The authors are grateful to Dr Belmira dos Santos for breeding the
+   pfp-/- mice and Ms. Marilene Damazio dos Santos and Mrs Luiz Carlos da
+   Silva for their excellent technical assistance. Also, the authors are in
+   debt to Dr Ana Paula Marino and MSc Marcia Terra for collecting blood
+   and tissue samples. English review and revision by Mitchel Raymond
+   Lishon (UCLA, USA) is also acknowledged.This work was supported in part
+   by grants from FAPERJ (E-26/171.126/2005; E-26/111.756/2008) and the
+   Brazilian Research Council/CNPq (Universal #471518/2006-7; DECIT
+   #410401/2006-4; National Institute for Science and Technology -
+   INCT/CNPq/2008). L. M. de-Oliveira-Pinto and J. Lannes-Vieira are
+   research fellows of the CNPq. The authors have no relevant financial
+   interests related to this manuscript, including employments,
+   consultancies, honoraria, stock ownerships or options, expert testimony,
+   grants or patents received or pending, or royalties.
+CR Abel LCJ, 2001, J AUTOIMMUN, V17, P99, DOI 10.1006/jaut.2001.0523
+   Biedermann T, 2001, NAT IMMUNOL, V2, P1054, DOI 10.1038/ni725
+   Binah O, 2002, J MOL CELL CARDIOL, V34, P1147, DOI 10.1006/jmcc.2002.2056
+   Cordeiro FD, 2001, CLIN DIAGN LAB IMMUN, V8, P112, DOI 10.1128/CDLI.8.1.112-118.2001
+   Costa GC, 2009, J INFECT DIS, V199, P451, DOI 10.1086/596061
+   Cummings KL, 2004, INFECT IMMUN, V72, P4081, DOI 10.1128/IAI.72.7.4081-4089.2004
+   D'IMPERIO M R, 1986, Journal of Immunology, V137, P353
+   de Souza AP, 2000, PARASITOL RES, V86, P800, DOI 10.1007/s004360000262
+   dos Santos PVA, 2001, MICROBES INFECT, V3, P971, DOI 10.1016/S1286-4579(01)01461-7
+   FEDERICI EE, 1964, AM J TROP MED HYG, V13, P272, DOI 10.4269/ajtmh.1964.13.272
+   Feng QP, 2001, CIRCULATION, V104, P700, DOI 10.1161/hc3201.092284
+   Fichera LE, 2004, INFECT IMMUN, V72, P359, DOI 10.1128/IAI.72.1.359-363.2004
+   Foote LC, 1996, J IMMUNOL, V157, P2749
+   Garcia S, 2005, ANTIMICROB AGENTS CH, V49, P1521, DOI 10.1128/AAC.49.4.1521-1528.2005
+   Gomes JAS, 2003, INFECT IMMUN, V71, P1185, DOI 10.1128/IAI.71.3.1185-1193.2003
+   Henriques-Pons A, 2002, INT J EXP PATHOL, V83, P67, DOI 10.1046/j.1365-2613.2002.00215.x
+   Higuchi MD, 1997, AM J TROP MED HYG, V56, P485
+   Higuchi MD, 2003, CARDIOVASC RES, V60, P96, DOI 10.1016/S0008-6363(03)00361-4
+   Huang H, 1999, J MOL CELL CARDIOL, V31, P75, DOI 10.1006/jmcc.1998.0848
+   Kierszenbaum F, 2005, TRENDS PARASITOL, V21, P513, DOI 10.1016/j.pt.2005.08.013
+   Kumar S, 1998, PARASITE IMMUNOL, V20, P207, DOI 10.1046/j.1365-3024.1998.00154.x
+   Kumar S, 2001, J IMMUNOL, V166, P4596, DOI 10.4049/jimmunol.166.7.4596
+   Lannes-Vieira J, 2003, MEM I OSWALDO CRUZ, V98, P299, DOI 10.1590/S0074-02762003000300002
+   Laucella SA, 2004, J INFECT DIS, V189, P909, DOI 10.1086/381682
+   Machado FS, 2000, CIRCULATION, V102, P3003, DOI 10.1161/01.CIR.102.24.3003
+   Marin JA, 2007, CIRCULATION, V115, P1109, DOI 10.1161/CIRCULATIONAHA.106.624296
+   Marino APMP, 2004, CIRCULATION, V110, P1443, DOI 10.1161/01.CIR.0000141561.15939.EC
+   Martin D, 2004, IMMUNOL REV, V201, P304, DOI 10.1111/j.0105-2896.2004.00183.x
+   Medeiros GA, 2009, MICROBES INFECT, V11, P264, DOI 10.1016/j.micinf.2008.11.012
+   Michailowsky V, 2003, INFECT IMMUN, V71, P3165, DOI 10.1128/IAI.71.6.3165-3171.2003
+   Michailowsky V, 2001, AM J PATHOL, V159, P1723, DOI 10.1016/S0002-9440(10)63019-2
+   Miranda KM, 2001, NITRIC OXIDE-BIOL CH, V5, P62, DOI 10.1006/niox.2000.0319
+   Mitchell GF, 1998, AM J PHYSIOL-HEART C, V274, pH747
+   MIYAHIRA Y, 1995, J IMMUNOL METHODS, V181, P145
+   Muller U, 2003, EUR J IMMUNOL, V33, P70, DOI 10.1002/immu.200390009
+   Nickell SP, 2000, EXP PARASITOL, V94, P207, DOI 10.1006/expr.2000.4498
+   Perez-Fuentes R, 2003, INT J PARASITOL, V33, P293, DOI 10.1016/S0020-7519(02)00283-7
+   Pipkin ME, 2007, CURR OPIN IMMUNOL, V19, P301, DOI 10.1016/j.coi.2007.04.011
+   REIS DD, 1993, AM J TROP MED HYG, V48, P637, DOI 10.4269/ajtmh.1993.48.637
+   Reis MM, 1997, CLIN IMMUNOL IMMUNOP, V83, P165, DOI 10.1006/clin.1997.4335
+   Saeftel M, 2001, INFECT IMMUN, V69, P2252, DOI 10.1128/IAI.69.4.2252-2259.2001
+   Sambhara S, 1998, CELL IMMUNOL, V187, P13, DOI 10.1006/cimm.1998.1314
+   Sandberg JK, 2001, J IMMUNOL, V167, P181, DOI 10.4049/jimmunol.167.1.181
+   Severs NJ, 2006, ADV CARDIOL, V42, P228, DOI 10.1159/000092572
+   Silva JS, 2003, FRONT BIOSCI-LANDMRK, V8, pS314, DOI 10.2741/1012
+   Tzelepis F, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000393
+   WALSH CM, 1994, P NATL ACAD SCI USA, V91, P10854, DOI 10.1073/pnas.91.23.10854
+   WIRTH JJ, 1989, IMMUNOLOGY, V66, P296
+NR 48
+TC 18
+Z9 19
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0959-9673
+EI 1365-2613
+J9 INT J EXP PATHOL
+JI Int. J. Exp. Pathol.
+PD FEB
+PY 2010
+VL 91
+IS 1
+BP 72
+EP 86
+DI 10.1111/j.1365-2613.2009.00670.x
+PG 15
+WC Pathology
+SC Pathology
+GA 536BW
+UT WOS:000273018200009
+PM 19878357
+OA Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Azeredo, EL
+   Zagne, SM
+   Alvarenga, AR
+   Nogueira, RMR
+   Kubelka, CF
+   de Oliveira-Pinto, LM
+AF Azeredo, Elzinandes L.
+   Zagne, Sonia M. O.
+   Alvarenga, Allan R.
+   Nogueira, Rita M. R.
+   Kubelka, Claire F.
+   de Oliveira-Pinto, Luzia M.
+TI Activated peripheral lymphocytes with increased expression of cell
+   adhesion molecules and cytotoxic markers are associated with dengue
+   fever disease
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE dengue; patients lymphocytes activation
+ID T-CELLS; PLASMA-CONCENTRATIONS; IMMUNE ACTIVATION; RISK-FACTORS; VIRUS;
+   SEVERITY; INTERLEUKIN-18; INFECTION; APOPTOSIS; CYTOKINE
+AB The immune mechanisms involved in dengue fever and dengue hemorrhagic/dengue shock syndrome are not well understood The ex vivo activation status of immune cells during the dengue disease inpatients was examined CD4 If and CD8 T cells were reduced during the acute phase. Interestingly, CD8 T cells co-expressing activation marker HLA-DR, Q, P and cytolytic granule protein-Tia-1 were significantly higher in dengue patients than in controls. Detection of adhesion molecules indicated that in dengue patients the majority of T cells (CD4 and CD8) express the activation/memory phenotype, characterized as CD44(HIGH) and lack the expression of the naive cell marker CD62L(LOW). Also, the levels of T cells co-expressing ICAM-1 (CD54), VLA-4, and LFA-1 (CD11a) were significantly increased. CD8 T lymphocytes expressed predominantly low levels of anti-apoptotic molecule Bcl-2 in the acute phase, possibly leading to the exhibition of a phenotype of activated/effector cells. Circulating levels of IL-18, TGF-beta 1 and sICAM-1 were significantly elevated in dengue patients. Early activation events occur during acute dengue infection which might contribute to viral clearance. Differences in expression of adhesion molecules among CD4 and CD8 T cells might underlie the selective extravasation of these subsets from blood circulation into lymphoid organs and/or tissues. In addition, activated CD8 T cells would be more susceptible to apoptosis as shown by the alteration in Bcl-2 expression. Cytokines such as IL-18, TGF-beta 1, and sICAM-1 may be contributing by either stimulating or suppressing the adaptative immune response, during dengue infection, thereby perhaps establishing a relationship with disease severity.
+C1 Fiocruz MS, Lab Imunol Viral, Dept Virol, Inst Oswaldo Cruz, BR-21045900 Rio De Janeiro, Brazil.
+   Fiocruz MS, Lab Autoimunidade & Imunoregulacao, Dept Imunol, Inst Oswaldo Cruz, BR-21045900 Rio De Janeiro, Brazil.
+   Univ Fed Fluminense, Dept Clin Med, Hosp Univ Antonio Pedro, Niteroi, RJ, Brazil.
+RP de Oliveira-Pinto, LM (corresponding author), Fiocruz MS, Lab Imunol Viral, Dept Virol, Inst Oswaldo Cruz, Av Brasil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM lpinto@ioc.fiocruz.br
+CR Agarwal R, 1999, INT J EXP PATHOL, V80, P143, DOI 10.1046/j.1365-2613.1999.00107.x
+   Anderson R, 1997, J VIROL, V71, P4226, DOI 10.1128/JVI.71.6.4226-4232.1997
+   Azeredo EL, 2006, CLIN EXP IMMUNOL, V143, P345, DOI 10.1111/j.1365-2249.2006.02996.x
+   Balmaseda A, 2005, AM J TROP MED HYG, V73, P1059, DOI 10.4269/ajtmh.2005.73.1059
+   Boudet F, 1996, J IMMUNOL, V156, P2282
+   Carbone FR, 1998, IMMUNOL TODAY, V19, P368, DOI 10.1016/S0167-5699(98)01301-2
+   Cerwenka A, 1996, J IMMUNOL, V156, P459
+   Chaturvedi UC, 1999, J MED VIROL, V59, P335, DOI 10.1002/(SICI)1096-9071(199911)59:3&lt;335::AID-JMV13&gt;3.0.CO;2-E
+   Chen LC, 2006, AM J TROP MED HYG, V74, P142, DOI 10.4269/ajtmh.2006.74.142
+   CORLEY RB, 1985, P NATL ACAD SCI USA, V82, P516, DOI 10.1073/pnas.82.2.516
+   DESTGROTH SF, 1966, J EXP MED, V124, P331, DOI 10.1084/jem.124.3.331
+   Dinarello CA, 2003, J INFECT DIS, V187, pS370, DOI 10.1086/374751
+   Fujioka N, 1999, J VIROL, V73, P2401, DOI 10.1128/JVI.73.3.2401-2409.1999
+   Green S, 1999, J INFECT DIS, V180, P1429, DOI 10.1086/315072
+   Green S, 1999, J INFECT DIS, V179, P755, DOI 10.1086/314680
+   Guidotti LG, 2001, ANNU REV IMMUNOL, V19, P65, DOI 10.1146/annurev.immunol.19.1.65
+   Guzman MG, 2003, J CLIN VIROL, V27, P1, DOI 10.1016/S1386-6532(03)00010-6
+   Harris E, 2000, AM J TROP MED HYG, V63, P5, DOI 10.4269/ajtmh.2000.63.5
+   Harty JT, 2000, ANNU REV IMMUNOL, V18, P275, DOI 10.1146/annurev.immunol.18.1.275
+   Iyngkaran N., 1995, Singapore Medical Journal, V36, P218
+   JAKOBSEN PH, 1994, IMMUNOLOGY, V83, P665
+   Jessie K, 2004, J INFECT DIS, V189, P1411, DOI 10.1086/383043
+   Kaplanski G, 1997, DIGEST DIS SCI, V42, P2277, DOI 10.1023/A:1018818801824
+   LEE HM, 1993, J IMMUNOL, V151, P668
+   Lin CF, 2005, J IMMUNOL, V174, P395, DOI 10.4049/jimmunol.174.1.395
+   Liu CC, 2002, J MED VIROL, V68, P241, DOI 10.1002/jmv.10198
+   Liu QH, 1998, IEEE MICROW GUIDED W, V8, P18, DOI 10.1109/75.650975
+   Lum LCSL, 2002, J PEDIATR-US, V140, P629, DOI 10.1067/mpd.2002.123665
+   Mathew A, 1999, J IMMUNOL, V162, P5609
+   Mongkolsapaya J, 2003, NAT MED, V9, P921, DOI 10.1038/nm887
+   Morel JCM, 2001, J BIOL CHEM, V276, P37069, DOI 10.1074/jbc.M103574200
+   Murgue B, 2001, J MED VIROL, V65, P97, DOI 10.1002/jmv.2007
+   Mustafa AS, 2001, FEMS IMMUNOL MED MIC, V30, P229, DOI 10.1111/j.1574-695X.2001.tb01575.x
+   Neves-Souza PCF, 2005, BMC INFECT DIS, V5, DOI 10.1186/1471-2334-5-64
+   Nordoy I, 1996, CLIN IMMUNOL IMMUNOP, V81, P16, DOI 10.1006/clin.1996.0151
+   Paul ME, 2005, J ALLERGY CLIN IMMUN, V115, P848, DOI 10.1016/j.jaci.2004.11.054
+   Phuong CXT, 2004, AM J TROP MED HYG, V70, P172, DOI 10.4269/ajtmh.2004.70.172
+   Rothman AL, 2004, J CLIN INVEST, V113, P946, DOI 10.1172/JCI200421512
+   Slifka MK, 2000, J MOL MED, V78, P74, DOI 10.1007/s001090000086
+   TENNERRACZ K, 1993, AM J PATHOL, V142, P1750
+   Thein S, 1997, AM J TROP MED HYG, V56, P566, DOI 10.4269/ajtmh.1997.56.566
+   van der Most RG, 2003, INT IMMUNOL, V15, P119
+   Vaughn DW, 2000, J INFECT DIS, V181, P2, DOI 10.1086/315215
+   Vidal-Vanaclocha F, 2000, P NATL ACAD SCI USA, V97, P734, DOI 10.1073/pnas.97.2.734
+   WACHOLTZ MC, 1989, J EXP MED, V170, P431, DOI 10.1084/jem.170.2.431
+   *WHO, 2002, COMM DIS SURV RESP C
+   Wilder-Smith A, 2005, NEW ENGL J MED, V353, P924, DOI 10.1056/NEJMra041927
+NR 47
+TC 36
+Z9 36
+U1 0
+U2 3
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD JUN
+PY 2006
+VL 101
+IS 4
+BP 437
+EP 449
+DI 10.1590/S0074-02762006000400016
+PG 13
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 065II
+UT WOS:000239153000016
+PM 16951817
+OA DOAJ Gold, Green Published
+DA 2020-12-09
+ER
+
+PT J
+AU Azeredo, EL
+   De Oliveira-Pinto, LM
+   Zagne, SM
+   Cerqueira, DIS
+   Nogueira, RMR
+   Kubelka, CF
+AF Azeredo, EL
+   De Oliveira-Pinto, LM
+   Zagne, SM
+   Cerqueira, DIS
+   Nogueira, RMR
+   Kubelka, CF
+TI NK cells, displaying early activation, cytotoxicity and adhesion
+   molecules, are associated with mild dengue disease
+SO CLINICAL AND EXPERIMENTAL IMMUNOLOGY
+LA English
+DT Article
+DE dengue; NK cells; patients; activation; cytotoxicity; adhesion molecules
+ID NATURAL-KILLER-CELLS; PERIPHERAL-BLOOD LYMPHOCYTES; HUMAN DENDRITIC
+   CELLS; T-CELLS; HEMORRHAGIC-FEVER; HUMAN LIVER; TNF-ALPHA; EXPRESSION;
+   INFECTION; CYTOKINE
+AB During the innate immune response against infections, Natural Killer (NK) cells are as important effector cells as are Cytotoxic T lymphocytes (CTL) generated after antigenic stimulation in the adaptative response. NK cells increase in numbers, after viral infection or vaccination. We investigated the NK cell and CD8 T lymphocyte status in 55 dengue infected patients. The NK (CD56+CD3-) and CD56+ T cell (CD56+CD3+) rates rise during the acute phase of disease. The majority of NK cells from dengue patients display early markers for activation (CD69, HLA-DR, and CD38) and cell adhesion molecules (CD44, CD11a) during the acute phase of disease. The intracellular cytotoxic granule, TIA-1, is also up-regulated early in NK cells. Most of these markers appear also on CD8+ T lymphocytes but during the late acute phase. Circulating IL-15 is elevated in a significant number of patients during early acute infection and its values were statistically correlated with NK frequencies and cytotoxic markers on NKs. We have therefore shown that dengue virus infection is very likely stimulating a cytotoxic response that may be efficient in controlling the virus in synergism with CD8+ T lymphocytes. Interestingly, the heightened CD56+CD3-, CD56+CD3+, CD56+TIA-1+ and CD56+CD11a+ cell rates are associated with mild dengue clinical manifestations and might indicate a good prognosis of the disease.
+C1 Fiocruz MS, Inst Oswaldo Cruz, Dept Virol, BR-21040360 Rio De Janeiro, Brazil.
+   Fiocruz MS, Inst Oswaldo Cruz, Dept Immunol, BR-21040360 Rio De Janeiro, Brazil.
+   Hosp Univ Antonio Pedro, UFF, Niteroi, RJ, Brazil.
+RP Kubelka, CF (corresponding author), Fiocruz MS, Inst Oswaldo Cruz, Dept Virol, Ave Brazil 4365, BR-21040360 Rio De Janeiro, Brazil.
+EM claire@ioc.fiocruz.br
+RI Kubelka, Claire F/C-5558-2009
+CR ALLAVENA P, 1991, J EXP MED, V173, P439, DOI 10.1084/jem.173.2.439
+   ANDERSON P, 1990, J IMMUNOL, V144, P574
+   [Anonymous], 1997, DENG HAEM FEV DIAGN, P13
+   Azeredo EL, 2001, IMMUNOBIOLOGY, V204, P494, DOI 10.1078/0171-2985-00058
+   BANCROFT GJ, 1993, CURR OPIN IMMUNOL, V5, P503, DOI 10.1016/0952-7915(93)90030-V
+   Biron CA, 1999, ANNU REV IMMUNOL, V17, P189, DOI 10.1146/annurev.immunol.17.1.189
+   BIRON CA, 1989, NEW ENGL J MED, V320, P1731, DOI 10.1056/NEJM198906293202605
+   CARSON WE, 1994, J EXP MED, V180, P1395, DOI 10.1084/jem.180.4.1395
+   CHEN BP, 1987, CELL IMMUNOL, V110, P282, DOI 10.1016/0008-8749(87)90123-7
+   Cooper MA, 2001, TRENDS IMMUNOL, V22, P633, DOI 10.1016/S1471-4906(01)02060-9
+   d'Ettorre G, 2002, AIDS, V16, P181, DOI 10.1097/00002030-200201250-00006
+   Delves PJ, 2000, NEW ENGL J MED, V343, P108, DOI 10.1056/NEJM200007133430207
+   Doherty DG, 2000, IMMUNOL REV, V174, P5, DOI 10.1034/j.1600-0528.2002.017416.x
+   Doherty DG, 1999, J IMMUNOL, V163, P2314
+   Dunne J, 2001, J IMMUNOL, V167, P3129, DOI 10.4049/jimmunol.167.6.3129
+   Exley M, 1997, J EXP MED, V186, P109, DOI 10.1084/jem.186.1.109
+   Fadilah S. A. W., 1999, Southeast Asian Journal of Tropical Medicine and Public Health, V30, P710
+   Ferlazzo G, 2004, P NATL ACAD SCI USA, V101, P16606, DOI 10.1073/pnas.0407522101
+   Flamand L, 1996, J CLIN INVEST, V97, P1373, DOI 10.1172/JCI118557
+   Goodison S, 1999, J CLIN PATHOL-MOL PA, V52, P189
+   Gosselin J, 1999, BLOOD, V94, P4210, DOI 10.1182/blood.V94.12.4210.424k07_4210_4219
+   Green S, 1999, J INFECT DIS, V180, P1429, DOI 10.1086/315072
+   Green S, 1999, J INFECT DIS, V179, P755, DOI 10.1086/314680
+   Green S, 1999, J MED VIROL, V59, P329, DOI 10.1002/(SICI)1096-9071(199911)59:3&lt;329::AID-JMV12&gt;3.0.CO;2-G
+   GREEN S, 1993, J VIROL, V67, P5962, DOI 10.1128/JVI.67.10.5962-5967.1993
+   Guidotti LG, 2001, ANNU REV IMMUNOL, V19, P65, DOI 10.1146/annurev.immunol.19.1.65
+   Guzman MG, 2003, J CLIN VIROL, V27, P1, DOI 10.1016/S1386-6532(03)00010-6
+   Harris E, 2000, AM J TROP MED HYG, V63, P5, DOI 10.4269/ajtmh.2000.63.5
+   HILDRETH JEK, 1983, EUR J IMMUNOL, V13, P202, DOI 10.1002/eji.1830130305
+   Ho LJ, 2001, J IMMUNOL, V166, P1499, DOI 10.4049/jimmunol.166.3.1499
+   HOBER D, 1993, AM J TROP MED HYG, V48, P324, DOI 10.4269/ajtmh.1993.48.324
+   Kennedy MK, 2000, J EXP MED, V191, P771, DOI 10.1084/jem.191.5.771
+   KRENSKY AM, 1983, J IMMUNOL, V131, P611
+   KURANE I, 1991, J VIROL, V65, P1823, DOI 10.1128/JVI.65.4.1823-1828.1991
+   Lalezari J P, 2000, HIV Clin Trials, V1, P1
+   Lanier LL, 2000, J EXP MED, V191, P1259, DOI 10.1084/jem.191.8.1259
+   LANIER LL, 1991, J IMMUNOL, V146, P4421
+   Libraty DH, 2001, J VIROL, V75, P3501, DOI 10.1128/JVI.75.8.3501-3508.2001
+   Lima M, 2002, BLOOD CELL MOL DIS, V28, P181, DOI 10.1006/bcmd.2002.0506
+   LIVINGSTON PG, 1995, J IMMUNOL, V154, P1287
+   Lodoen MB, 2005, NAT REV MICROBIOL, V3, P59, DOI 10.1038/nrmicro1066
+   Lum LCSL, 2002, J PEDIATR-US, V140, P629, DOI 10.1067/mpd.2002.123665
+   Mallone R, 2001, INT IMMUNOL, V13, P397, DOI 10.1093/intimm/13.4.397
+   Mathew A, 1999, J IMMUNOL, V162, P5609
+   Matsumoto G, 1998, J IMMUNOL, V160, P5781
+   Miagostovich Mariz P., 1993, Revista do Instituto de Medicina Tropical de Sao Paulo, V35, P149, DOI 10.1590/S0036-46651993000200006
+   Miagostovich MP, 1999, J CLIN VIROL, V14, P183, DOI 10.1016/S1386-6532(99)00059-1
+   Miagostovich MP, 1997, MEM I OSWALDO CRUZ, V92, P595, DOI 10.1590/S0074-02761997000500006
+   MINGARI MC, 1995, INT IMMUNOL, V7, P697, DOI 10.1093/intimm/7.4.697
+   Moretta A, 2002, NAT REV IMMUNOL, V2, P957, DOI 10.1038/nri956
+   Mrozek E, 1996, BLOOD, V87, P2632, DOI 10.1182/blood.V87.7.2632.bloodjournal8772632
+   Neves-Souza PCF, 2005, BMC INFECT DIS, V5, DOI 10.1186/1471-2334-5-64
+   Phuong CXT, 2004, AM J TROP MED HYG, V70, P172, DOI 10.4269/ajtmh.2004.70.172
+   Pinto LMO, 1999, MEM I OSWALDO CRUZ, V94, P387, DOI 10.1590/S0074-02761999000300019
+   Prussin C, 1997, J IMMUNOL, V159, P5862
+   RABINOWICH H, 1993, J IMMUNOL, V150, P4844
+   RABINOWICH H, 1993, CELL IMMUNOL, V152, P481, DOI 10.1006/cimm.1993.1306
+   ROBERTSON MJ, 1990, J IMMUNOL, V145, P3194
+   Robertson MJ, 2002, J LEUKOCYTE BIOL, V71, P173
+   Satoh M, 1996, J IMMUNOL, V157, P3886
+   SCHMIDTWOLF IGH, 1994, BRIT J HAEMATOL, V87, P453, DOI 10.1111/j.1365-2141.1994.tb08297.x
+   Sconocchia G, 1997, BLOOD, V90, P716, DOI 10.1182/blood.V90.2.716.716_716_725
+   Sconocchia G, 1999, BLOOD, V94, P3864, DOI 10.1182/blood.V94.11.3864.423k14_3864_3871
+   Shresta S, 2004, VIROLOGY, V319, P262, DOI 10.1016/j.virol.2003.09.048
+   Siqueira JB, 2005, EMERG INFECT DIS, V11, P48, DOI 10.3201/eid1101.031091
+   STAUNTON DE, 1989, NATURE, V339, P61, DOI 10.1038/339061a0
+   STORKUS WJ, 1991, CRIT REV IMMUNOL, V10, P393
+   TIAN QS, 1991, CELL, V67, P629, DOI 10.1016/0092-8674(91)90536-8
+   TRINCHIERI G, 1989, ADV IMMUNOL, V47, P187, DOI 10.1016/S0065-2776(08)60664-1
+   Uksila J, 1997, J IMMUNOL, V158, P1610
+   von Sydow FFO, 2000, MEM I OSWALDO CRUZ, V95, P483, DOI 10.1590/S0074-02762000000400007
+   Wahid S. Fadilah S. Abdul, 2000, Southeast Asian Journal of Tropical Medicine and Public Health, V31, P259
+   *WHO, 2002, COMM DIS SURV RESP
+   Wilder-Smith A, 2005, NEW ENGL J MED, V353, P924, DOI 10.1056/NEJMra041927
+   Zamai L, 1998, J EXP MED, V188, P2375, DOI 10.1084/jem.188.12.2375
+NR 75
+TC 88
+Z9 91
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0009-9104
+EI 1365-2249
+J9 CLIN EXP IMMUNOL
+JI Clin. Exp. Immunol.
+PD FEB
+PY 2006
+VL 143
+IS 2
+BP 345
+EP 356
+DI 10.1111/j.1365-2249.2006.02996.x
+PG 12
+WC Immunology
+SC Immunology
+GA 002YD
+UT WOS:000234647300020
+PM 16412060
+OA Green Published, Bronze
+DA 2020-12-09
+ER
+
+PT J
+AU Lecoeur, H
+   de Oliveira-Pinto, LM
+   Gougeon, ML
+AF Lecoeur, H
+   de Oliveira-Pinto, LM
+   Gougeon, ML
+TI Multiparametric flow cytometric analysis of biochemical and functional
+   events associated with apoptosis and oncosis using the
+   7-aminoactinomycin D assay
+SO JOURNAL OF IMMUNOLOGICAL METHODS
+LA English
+DT Article
+DE 7-AAD; flow cytometry; apoptosis; oncosis
+ID CELL-DEATH; PLASMA-MEMBRANE; PHOSPHATIDYLSERINE EXPRESSION; LYMPHOCYTE
+   APOPTOSIS; SURFACE PHENOTYPE; ANNEXIN-V; NECROSIS; THYMOCYTES; EXPOSURE;
+   ACTIVATION
+AB Apoptosis and primary necrosis are the two modes of cell death induced by a lethal injury. The majority of structural and biochemical events occurring during cell death can be analysed by flow cytometry. The 7-aminoactinomycin D (7-AAD) assay can be used to detect the loss of membrane integrity during apoptosis of murine thymocytes and human peripheral lymphocytes. We describe here new applications of the 7-AAD assay. It can be applied to a variety of cell lines of different origins, including adherent cell lines, and it allows the co-detection of lipidic antigens such as phosphatidylserine (PS) residues, and biochemical processes linked to apoptosis, such as the loss of mitochondrial transmembrane potential, cardiolipin peroxidation, the expression of the 7A6 mitochondrial antigen and DNA fragmentation. Thus, this assay is a noninvasive method particularly adapted to the analysis of biochemical events associated with cell death. Finally, we show that this assay is not specific for apoptosis since it detects oncosis, the early stage of primary necrosis. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Inst Pasteur, Dept Mol Med, F-75724 Paris 15, France.
+RP Gougeon, ML (corresponding author), Inst Pasteur, Dept Mol Med, 28 Rue Dr Roux, F-75724 Paris 15, France.
+EM mlgougeo@pasteur.fr
+CR AKAGI Y, 1993, INT J RADIAT BIOL, V64, P47, DOI 10.1080/09553009314551101
+   ARENDS MJ, 1991, INT REV EXP PATHOL, V32, P223
+   BOMFORD R, 1992, VACCINE, V10, P572, DOI 10.1016/0264-410X(92)90435-M
+   Bonneau MJ, 2000, EXP CELL RES, V259, P23, DOI 10.1006/excr.2000.4974
+   Cohen GM, 1997, BIOCHEM J, V326, P1, DOI 10.1042/bj3260001
+   CORVER WE, 1995, CYTOMETRY, V19, P267, DOI 10.1002/cyto.990190311
+   DARZYNKIEWICZ Z, 1992, CYTOMETRY, V13, P795, DOI 10.1002/cyto.990130802
+   Darzynkiewicz Z, 1997, CYTOMETRY, V27, P1
+   Douglas RS, 1995, J IMMUNOL METHODS, V188, P219, DOI 10.1016/0022-1759(95)00216-2
+   Formigli L, 2000, J CELL PHYSIOL, V182, P41, DOI 10.1002/(SICI)1097-4652(200001)182:1<41::AID-JCP5>3.0.CO;2-7
+   GORCZYCA W, 1993, CANCER RES, V53, P1945
+   Gougeon ML, 1997, J IMMUNOL, V158, P2964
+   Gougeon ML, 1996, J IMMUNOL, V156, P3509
+   GRASLKRAUPP B, 1995, HEPATOLOGY, V21, P1465, DOI 10.1016/0270-9139(95)90071-3
+   IDZIOREK T, 1995, J IMMUNOL METHODS, V185, P249, DOI 10.1016/0022-1759(95)00172-7
+   JONKER R, 1993, DETECTION APOPTOSIS, V67, P355
+   KAGI D, 1994, SCIENCE, V265, P528, DOI 10.1126/science.7518614
+   KOOPMAN G, 1994, BLOOD, V84, P1415, DOI 10.1182/blood.V84.5.1415.1415
+   Kroemer G, 1997, IMMUNOL TODAY, V18, P44, DOI 10.1016/S0167-5699(97)80014-X
+   Lecoeur H, 1998, J IMMUNOL METHODS, V217, P11, DOI 10.1016/S0022-1759(98)00060-X
+   Lecoeur H, 1996, J IMMUNOL METHODS, V198, P87, DOI 10.1016/0022-1759(96)00148-2
+   Lecoeur H, 2001, CYTOMETRY, V44, P65, DOI 10.1002/1097-0320(20010501)44:1<65::AID-CYTO1083>3.0.CO;2-Q
+   Lecoeur H, 2001, J IMMUNOL METHODS, V253, P177, DOI 10.1016/S0022-1759(01)00359-3
+   Lecoeur H, 1997, J IMMUNOL METHODS, V209, P111, DOI 10.1016/S0022-1759(97)00138-5
+   Ledru E, 1998, J IMMUNOL, V160, P3194
+   Leist M, 1997, J EXP MED, V185, P1481, DOI 10.1084/jem.185.8.1481
+   Lelli JL, 1998, FREE RADICAL BIO MED, V25, P694, DOI 10.1016/S0891-5849(98)00107-5
+   Lemaire C, 1999, BIOCHEM PHARMACOL, V58, P85, DOI 10.1016/S0006-2952(99)00082-9
+   Lenardo M, 1999, ANNU REV IMMUNOL, V17, P221, DOI 10.1146/annurev.immunol.17.1.221
+   Los M, 1999, IMMUNITY, V10, P629, DOI 10.1016/S1074-7613(00)80062-X
+   Maeno E, 2000, P NATL ACAD SCI USA, V97, P9487, DOI 10.1073/pnas.140216197
+   MAJNO G, 1995, AM J PATHOL, V146, P3
+   MODEST EJ, 1974, CANCER CHEMOTH REP 1, V58, P35
+   NICOLETTI I, 1991, J IMMUNOL METHODS, V139, P271, DOI 10.1016/0022-1759(91)90198-O
+   OLIVIER R, 1995, METHOD ENZYMOL, V251, P270, DOI 10.1016/0076-6879(95)51129-6
+   ORMEROD MG, 1993, CYTOMETRY, V14, P595, DOI 10.1002/cyto.990140603
+   Oshimi S, 1996, J PHYSIOL-LONDON, V495, P319, DOI 10.1113/jphysiol.1996.sp021596
+   Palomba L, 1999, BIOCHEM PHARMACOL, V58, P1743, DOI 10.1016/S0006-2952(99)00271-3
+   PETIT PX, 1995, J CELL BIOL, V130, P157, DOI 10.1083/jcb.130.1.157
+   Pollicino T, 1998, BIOMED PHARMACOTHER, V52, P363, DOI 10.1016/S0753-3322(99)80003-1
+   PorteraCailliau C, 1997, J COMP NEUROL, V378, P70
+   RABINOVITCH PS, 1986, J IMMUNOL, V136, P2769
+   SCHMALL B, 1992, American Journal of Physiologic Imaging, V7, P2
+   SCHMID I, 1994, CYTOMETRY, V15, P12, DOI 10.1002/cyto.990150104
+   SCHMID I, 1994, J IMMUNOL METHODS, V170, P145, DOI 10.1016/0022-1759(94)90390-5
+   Terradillos O, 1998, ONCOGENE, V17, P2115, DOI 10.1038/sj.onc.1202432
+   TORRESROCA JF, 1995, CELL DEATH DIFFER, V2, P309
+   vanEngeland M, 1996, CYTOMETRY, V24, P131, DOI 10.1002/(SICI)1097-0320(19960601)24:2<131::AID-CYTO5>3.0.CO;2-M
+   VERMES I, 1995, J IMMUNOL METHODS, V184, P39, DOI 10.1016/0022-1759(95)00072-I
+   WALKER PR, 1995, CELL DEATH DIFFER, V2, P97
+   Waring P, 1999, CELL DEATH DIFFER, V6, P624, DOI 10.1038/sj.cdd.4400540
+   Zamai L, 2001, CYTOMETRY, V44, P57, DOI 10.1002/1097-0320(20010501)44:1<57::AID-CYTO1082>3.0.CO;2-O
+   ZELENIN AV, 1984, CYTOMETRY, V5, P348, DOI 10.1002/cyto.990050410
+   Zhang CH, 1996, J IMMUNOL, V157, P3980
+   Zheng TS, 2000, EXP CELL RES, V256, P67, DOI 10.1006/excr.2000.4841
+NR 55
+TC 69
+Z9 76
+U1 0
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0022-1759
+EI 1872-7905
+J9 J IMMUNOL METHODS
+JI J. Immunol. Methods
+PD JUL 1
+PY 2002
+VL 265
+IS 1-2
+BP 81
+EP 96
+AR PII S0022-1759(02)00072-8
+DI 10.1016/S0022-1759(02)00072-8
+PG 16
+WC Biochemical Research Methods; Immunology
+SC Biochemistry & Molecular Biology; Immunology
+GA 569LZ
+UT WOS:000176605000007
+PM 12072180
+DA 2020-12-09
+ER
+
+EF

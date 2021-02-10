@@ -1,0 +1,1161 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Marques, AM
+   Velozo, LS
+   Carvalho, MA
+   Serdeiro, MT
+   Honorio, NA
+   Kaplan, MAC
+   Maleck, M
+AF Marques, Andre M.
+   Velozo, Leosvaldo S.
+   Carvalho, Michelle A.
+   Serdeiro, Michele T.
+   Honorio, Nildimar A.
+   Kaplan, Maria Auxiliadora C.
+   Maleck, Marise
+TI Larvicidal activity of Ottonia anisum metabolites against Aedes aegypti:
+   A potential natural alternative source for mosquito vector control in
+   Brazil
+SO JOURNAL OF VECTOR BORNE DISEASES
+LA English
+DT Article
+DE 1-butyl-3,4-methylenedioxybenzene; Aedes aegypti; dengue; larvicidal
+   activity; Ottonia anisum; Piper
+ID ROOTS; PIPER; TOXICITY; LIGNANS; PHYTOCHEMISTRY; GRANDISIN; EXTRACTS
+AB Background & objectives: Aedes aegypti mosquito is the principal vector of the viruses responsible for urban yellow fever, dengue, dengue haemorrhagic fever, as well as Zika and chikungunya in Brazil. The present study was aimed to investigate the insecticidal potential of the extract and fractions of Ottonia anisum, along with special metabolites isolated from it, as natural alternatives against larvae (L3) of Ae. aegypti, vector of potentially deadly tropical infections in Brazil.
+   Methods: The plant species O. anisum was collected in March 2015, at Xerem area, in Rio de Janeiro City, Brazil. Crude extracts and the isolated pure compounds were screened for toxicity against Ae. aegypti larvae (L3). Bioassays were performed on 20 larvae (L3) of Ae. aegypti in triplicate. The samples were dissolved in a mixture of acetone and DMSO at final concentrations of 1-200 mu g/ml. The toxicity of the solutions was evaluated towards the growth and development of Ae. aegypti larvae till emergence of adults.
+   Results: The crude hexane extract showed 100% larval mortality 24 h after treatment at a concentration of 200 mu g/ml. The bioassays using 1-butyl-3,4-methylenedioxybenzene revealed 100% mortality among L3 larvae, 24 h after the treatment at a concentration of 30 mu g/ml, the LC50 recorded was 1.6 mu g/ml. At concentration of 10 mu g/ml, the L3 larval mortality recorded was 92%.
+   Interpretation & conclusion: The metabolite 1-butyl-3,4-methylenedioxybenzene showed potent toxicity against Ae. aegypti larvae. This arylbutanoid agent could be used as a natural alternative adjuvant pesticide, in new compositions that would be environmentally safer.
+C1 [Marques, Andre M.; Velozo, Leosvaldo S.; Kaplan, Maria Auxiliadora C.] Univ Fed Rio de Janeiro, Hlth Sci Ctr, Walter Mors Inst Res Nat Prod IPPN, Rio De Janeiro, Brazil.
+   [Carvalho, Michelle A.; Serdeiro, Michele T.; Maleck, Marise] Univ Severino Sombra, Vector Insect Lab, Av Expedicionario Oswaldo Almeida Ramos, Rio De Janeiro, Brazil.
+   [Serdeiro, Michele T.] Fiocruz MS, Inst Oswaldo Cruz, Interdisciplinary Lab Entomol Surveillance Dipter, Rio De Janeiro, Brazil.
+   [Honorio, Nildimar A.] Fiocruz MS, Inst Oswaldo Cruz, Sentinel Operat Ctr Vector Mosquitoes, Rio De Janeiro, Brazil.
+   [Honorio, Nildimar A.] Fiocruz MS, Inst Oswaldo Cruz, Hematozoa Transmis Mosquitoes Lab LATHEMA, Rio De Janeiro, Brazil.
+   [Maleck, Marise] Univ Severino Sombra, Environm Sci, Av Expedicionario Oswaldo Almeida Ramos, Vassouras, Brazil.
+   [Maleck, Marise] Univ Severino Sombra, Hlth Sci, Av Expedicionario Oswaldo Almeida Ramos, Vassouras, Brazil.
+   [Maleck, Marise] Fiocruz MS, Inst Oswaldo Cruz, Lab Entomol Med & Forense, Rio De Janeiro, Brazil.
+RP Marques, AM (corresponding author), Univ Fed Rio de Janeiro, Hlth Sci Ctr, Walter Mors Inst Res Nat Prod IPPN, Rio De Janeiro, Brazil.; Marques, AM (corresponding author), Univ Fed Rio de Janeiro, Ctr Ciencias Saude, Inst Pesquisas Prod Nat Walter Mors IPPN, Bloco H,1 Andar, BR-21941590 Rio De Janeiro, Brazil.
+EM andrefarmaciarj@yahoo.com.br
+RI Marques, Andre M/I-5898-2018
+OI Marques, Andre M/0000-0001-5444-5724
+FU CAPESCAPES; FAPERJCarlos Chagas Filho Foundation for Research Support of
+   the State of Rio de Janeiro (FAPERJ); CNPqNational Council for
+   Scientific and Technological Development (CNPq)
+FX The authors wish to thank to CAPES, FAPERJ and CNPq for financially
+   supporting the study.
+CR Narciso JOA, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-172
+   [Anonymous], 2017, EM PREP RESP YELL FE
+   Cabral MMO, 2009, J AM MOSQUITO CONTR, V25, P103, DOI 10.2987/08-5828.1
+   Colvard MD, 2006, J ETHNOPHARMACOL, V107, P134, DOI 10.1016/j.jep.2006.04.005
+   de Almeida RRP, 2009, CHEM BIODIVERS, V6, P1427, DOI 10.1002/cbdv.200800212
+   Dias CN, 2014, PARASITOL RES, V113, P565, DOI 10.1007/s00436-013-3687-6
+   do Nascimento JC, 2013, PEST MANAG SCI, V69, P1267, DOI 10.1002/ps.3495
+   Garcez WS, 2013, REV VIRTUAL QUIM, V5, P363, DOI 10.5935/1984-6835.20130034
+   Gyawali N, 2016, J VECTOR DIS, V53, P293
+   HAMILTON MA, 1978, ENVIRON SCI TECHNOL, V12, P417, DOI 10.1021/es60140a017
+   Harmatha J, 2002, ENTOMOL EXP APPL, V104, P51, DOI 10.1023/A:1021286002077
+   Hernandez-Lambrano R, 2015, J STORED PROD RES, V62, P81, DOI 10.1016/j.jspr.2015.04.004
+   Jensen HR, 2006, INSECT MOL BIOL, V15, P329, DOI 10.1111/j.1365-2583.2006.00648.x
+   Lee Hoi-Seon, 2005, Journal of Applied Biological Chemistry, V48, P65
+   Leitao F, 2014, REV BRAS FARMACOGN, V24, P225, DOI 10.1016/j.bjp.2014.04.005
+   Leite ACCF, 2012, REV BRAS FARMACOGN, V22, P517, DOI 10.1590/S0102-695X2012005000016
+   Lopez KSE, 2016, AN ACAD BRAS CIENC, V88, P2229, DOI 10.1590/0001-3765201620150821
+   Maleck M, 2017, J MED ENTOMOL, V54, P159, DOI 10.1093/jme/tjw130
+   Maleck M, 2014, J MED ENTOMOL, V51, P458, DOI 10.1603/ME13069
+   Herrera JM, 2015, IND CROP PROD, V70, P435, DOI 10.1016/j.indcrop.2015.03.074
+   Marinho F, 2016, EPIDEMIOL SERV SAUDE, V25, P701, DOI [10.5123/s1679-49742016000400004, 10.5123/S1679-49742016000400004]
+   Marques André M, 2015, Univ. Sci., V20, P61, DOI 10.11144/Javeriana.SC20-1.amgp
+   Marques AM, 2011, NAT PROD COMMUN, V6, P939
+   Marques AM, 2008, REV BRAS FARMACOGN, V18, P709, DOI 10.1590/S0102-695X2008000500013
+   Moreira D. L., 1997, Journal of Essential Oil Research, V9, P565
+   Motulsky H. J., 2002, ANAL DATA GRAPHPAD P
+   Murray M, 2012, J TOXICOL ENV HEAL B, V15, P365, DOI 10.1080/10937404.2012.705105
+   Navickiene HMD, 2007, PEST MANAG SCI, V63, P399, DOI 10.1002/ps.1340
+   PAHO, 2016, ZIK EP REP BRAZ
+   Park IK, 2005, J AGR FOOD CHEM, V53, P969, DOI 10.1021/jf048208h
+   Parmar VS, 1997, PHYTOCHEMISTRY, V46, P597, DOI 10.1016/S0031-9422(97)00328-2
+   Scott Ian M., 2008, Phytochemistry Reviews, V7, P65, DOI 10.1007/s11101-006-9058-5
+   Sokal RR, 1979, BIOMETRIA PRINCIPIOS, P832
+   Vogt T, 2010, MOL PLANT, V3, P2, DOI 10.1093/mp/ssp106
+   WHO, 2012, GLOB STRAT DENG PREV
+NR 35
+TC 3
+Z9 4
+U1 0
+U2 19
+PU WOLTERS KLUWER MEDKNOW PUBLICATIONS
+PI MUMBAI
+PA WOLTERS KLUWER INDIA PVT LTD , A-202, 2ND FLR, QUBE, C T S  NO 1498A-2
+   VILLAGE MAROL, ANDHERI EAST, MUMBAI, 400059, INDIA
+SN 0972-9062
+J9 J VECTOR DIS
+JI J. Vector Borne Dis.
+PD MAR
+PY 2017
+VL 54
+IS 1
+BP 61
+EP 68
+PG 8
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA ES0IM
+UT WOS:000399210000008
+PM 28352047
+OA DOAJ Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Maleck, M
+   Hollanda, PD
+   Serdeiro, MT
+   Soares, ROD
+   Honorio, NA
+   Silva, CG
+AF Maleck, Marise
+   Hollanda, Priscila de Oliveira
+   Serdeiro, Michele Teixeira
+   de Araujo Soares, Renata Oliveira
+   Honorio, Nildimar Alves
+   Silva, Claudia Gontijo
+TI Toxicity and Larvicidal Activity of Podophyllum-Based Lignans Against
+   Aedes aegypti (Diptera: Culicidae)
+SO JOURNAL OF MEDICAL ENTOMOLOGY
+LA English
+DT Article
+DE Aedes aegypti; larvicidal activity; lignans; Podophyllum hexandrum
+ID ARYLTETRALIN LIGNANS; RHODNIUS-PROLIXUS; PLANT; HEXANDRUM; BURCHELLIN;
+   NEOLIGNANS; GRANDISIN; PRODUCTS; PELTATUM; FUTURE
+AB Aedes aegypti L. (Diptera: Culicidae) is a mosquito species that has adapted to urban environments and is the main vector of dengue viruses. Because of the increasing incidence of dengue, a more environmentally acceptable insecticide needs to be found. Natural products have been and continue to be an important source of leading compounds that can be modified in order to develop new drugs. The lignan family of natural products includes compounds with a diverse spectrum of biological activity. Podophyllotoxin and its related lignans represent an exciting class of natural products that can be targeted at different types of biological activity and are therefore worth exploring further. This study had the aim of evaluating the larvicidal activity of an ethanolic extract from the rhizomes and roots of Podophyllum hexandrum (PM-3) and its isolated lignans, podophyllotoxone (1) and desoxypodophyllotoxin (2), on the larvae of the mosquito vector Ae. aegypti. The PM-3 extract and the compounds (1) and (2) were dissolved in a mixture of acetone and dimethylsulfoxide at final concentrations of 1, 10, 30, 50, 100, and 200 lg/ml. After dilution, the solutions were applied (lg/ml) to the larvae-rearing medium. Overall, the ethanolic extract from the rhizomes and roots of P. hexandrum and the compounds (1) and (2) showed larvicidal activity against the larvae of Ae. aegypti. According to the results from this study, it can be concluded that podophyllotoxone (1) and desoxypodophyllotoxin (2) exhibited significant toxicity toward Ae. aegypti larvae.
+C1 [Maleck, Marise; Hollanda, Priscila de Oliveira; Serdeiro, Michele Teixeira] Univ Severino Sombra, Lab Insetos Vetores, Rua Antenor Caravana 667, BR-27700000 Vassouras, RJ, Brazil.
+   [Maleck, Marise; Hollanda, Priscila de Oliveira] Univ Severino Sombra, Proreitoria Ciencias Saude & Humanas, Av Expedicionario Oswaldo Almeida Ramos 280, BR-27700000 Vassouras, RJ, Brazil.
+   [Maleck, Marise; Serdeiro, Michele Teixeira] Univ Severino Sombra, Ciencias Ambientais, Av Expedicionario Oswaldo Almeida Ramos 280, BR-27700000 Vassouras, RJ, Brazil.
+   [de Araujo Soares, Renata Oliveira] Fiocruz MS, Lab Biol Mol & Doencas Endem, Inst Oswaldo Cruz, Av Brazil 4365, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Honorio, Nildimar Alves] Fiocruz MS, Inst Oswaldo Cruz, Lab Transmissores Hematozoarios & Nucleo Operac S, Av Brazil 4365, BR-21045900 Rio De Janeiro, Brazil.
+   [Silva, Claudia Gontijo] Fdn Ezequiel Dias, Serv Biotecnol Vegetal, Rua Conde Pereira Carneiro 80, BR-30510010 Belo Horizonte, MG, Brazil.
+RP Maleck, M (corresponding author), Univ Severino Sombra, Lab Insetos Vetores, Rua Antenor Caravana 667, BR-27700000 Vassouras, RJ, Brazil.; Maleck, M (corresponding author), Univ Severino Sombra, Proreitoria Ciencias Saude & Humanas, Av Expedicionario Oswaldo Almeida Ramos 280, BR-27700000 Vassouras, RJ, Brazil.; Maleck, M (corresponding author), Univ Severino Sombra, Ciencias Ambientais, Av Expedicionario Oswaldo Almeida Ramos 280, BR-27700000 Vassouras, RJ, Brazil.
+EM marise.maleck@gmail.com; priscilahollanda@yahoo.com.br;
+   mserdeiro@gmail.com; soaresroa@gmail.com; nahonorio1@gmail.com;
+   claudia.gontijo@funed.mg.gov.br
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ)Carlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ) [E-26/201329/2016]; Fundacao Educacional Severino
+   Sombra (FUSVE/USS)
+FX This research was supported by grants E-26/201329/2016 from Fundacao de
+   Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ) and Fundacao
+   Educacional Severino Sombra (FUSVE/USS). C.G.S. is particularly grateful
+   to Dr Paul M Dewick (University of Nottingham, United Kingdom) for
+   providing plant material and laboratory facilities at the Pharmaceutical
+   Sciences Department.
+CR Narciso JOA, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-172
+   Apers S., 2003, Phytochemistry Reviews, V2, P201, DOI 10.1023/B:PHYT.0000045497.90158.d2
+   Ayres DC, 1990, LIGNANS CHEM BIOL CL, P402
+   Ayres M, 2007, BIOESTAT 5 0 APLICAC
+   Valotto CFB, 2011, REV SOC BRAS MED TRO, V44, P194, DOI 10.1590/s0037-86822011005000010
+   Broomhead A. J., 1989, THESIS
+   Cabral MMO, 2007, FITOTERAPIA, V78, P20, DOI 10.1016/j.fitote.2006.09.011
+   Cabral MMO, 2009, J AM MOSQUITO CONTR, V25, P103, DOI 10.2987/08-5828.1
+   Cabral MMO, 2000, PARASITOL RES, V86, P710, DOI 10.1007/PL00008556
+   Cabral MMO, 2000, FITOTERAPIA, V71, P1, DOI 10.1016/S0367-326X(99)00105-7
+   Cabral MMO, 1995, MEM I OSWALDO CRUZ, V90, P759, DOI 10.1590/S0074-02761995000600018
+   Chakraborty A, 2010, INDIAN J BIOTECHNOL, V9, P217
+   Charlton JL, 1998, J NAT PROD, V61, P1447, DOI 10.1021/np980136z
+   Consoli RAGB, 1994, PRINCIPAIS MOSQUITOS
+   Cotton CM, 1996, ETHNOBOTANY PRINCIPL
+   Dewick P. M., 1989, STUDIES NATURAL PROD, V5, P459
+   DEWICK PM, 1981, PHYTOCHEMISTRY, V20, P2277, DOI 10.1016/0031-9422(81)80129-X
+   DUKE SO, 1990, ADVANCES IN NEW CROPS, P511
+   Ferreira GLC, 2012, REV INST MED TROP SP, V54, pS5, DOI 10.1590/S0036-46652012000700003
+   George DR, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-28
+   Gordaliza M, 2000, CURR PHARM DESIGN, V6, P1811, DOI 10.2174/1381612003398582
+   HAMILTON MA, 1978, ENVIRON SCI TECHNOL, V12, P417, DOI 10.1021/es60140a017
+   Harmatha Juraj, 2003, Phytochemistry Reviews, V2, P321, DOI 10.1023/B:PHYT.0000045494.98645.a3
+   INAMORI Y, 1986, CHEM PHARM BULL, V34, P2247
+   JACKSON DE, 1984, PHYTOCHEMISTRY, V23, P1147, DOI 10.1016/S0031-9422(00)82628-X
+   JACKSON DE, 1985, PHYTOCHEMISTRY, V24, P2407, DOI 10.1016/S0031-9422(00)83052-6
+   Lee KH, 2005, ANTICANCER AGENTS FROM NATURAL PRODUCTS, P71
+   Lee Kuo-Hsiung, 2003, Phytochemistry Reviews, V2, P341, DOI 10.1023/B:PHYT.0000045495.59732.58
+   Leite ACCF, 2012, REV BRAS FARMACOGN, V22, P517, DOI 10.1590/S0102-695X2012005000016
+   MACRAE WD, 1984, PHYTOCHEMISTRY, V23, P1207, DOI 10.1016/S0031-9422(00)80428-8
+   Maia MF, 2011, MALARIA J, V10, DOI 10.1186/1475-2875-10-S1-S11
+   Majumder A, 2009, J BIO SCI, V1, P46
+   Maleck M, 2014, J MED ENTOMOL, V51, P458, DOI 10.1603/ME13069
+   Marques André M, 2015, Univ. Sci., V20, P61, DOI 10.11144/Javeriana.SC20-1.amgp
+   MEIJER W, 1974, ECON BOT, V28, P68, DOI 10.1007/BF02861382
+   Ministerio da Saude, 2015, B EPIDEMIOLOGICO, V46
+   MIYAZAWA M, 1994, PHYTOCHEMISTRY, V35, P611, DOI 10.1016/S0031-9422(00)90572-7
+   Miyazawa M, 1999, J AGR FOOD CHEM, V47, P5108, DOI 10.1021/jf9903509
+   Motulsky H. J., 2002, ANAL DATA GRAHPAD PR
+   Naish S, 2014, BMC INFECT DIS, V14, DOI 10.1186/1471-2334-14-167
+   Rao R. R., 1993, FLORA INDIA, V1, P414
+   Saguez J, 2013, ARTHROPOD-PLANT INTE, V7, P225, DOI 10.1007/s11829-012-9236-x
+   Salako A. A., 1996, THESIS
+   Shaw JMH, 2002, GENUS EPIMEDIUM OTHE, P239
+   SILVA Cintia Vieira, 2000, THESIS
+   Soares ROA, 2011, EXP PARASITOL, V129, P381, DOI 10.1016/j.exppara.2011.08.019
+   Sokal R, 1979, PRINCIPIOS METODOS E
+   Solis PN, 2005, PHARM BIOL, V43, P378, DOI 10.1080/13880200590951865
+   Souza TM, 2011, J MED ENTOMOL, V48, P846, DOI 10.1603/ME10205
+   Souza TM, 2012, PEST MANAG SCI, V68, P1380, DOI 10.1002/ps.3316
+   WHO, 2012, GLOB STRAT DENG PREV
+   WHO, 2011, SEARO TECHN PUBL SER, V60
+   WHO (World Health Organization), 2005, GUID LAB FIELD TEST
+   Wu SQ, 2008, CURR OPIN BIOTECH, V19, P145, DOI 10.1016/j.copbio.2008.02.007
+NR 54
+TC 1
+Z9 1
+U1 0
+U2 8
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0022-2585
+EI 1938-2928
+J9 J MED ENTOMOL
+JI J. Med. Entomol.
+PD JAN
+PY 2017
+VL 54
+IS 1
+BP 159
+EP 166
+DI 10.1093/jme/tjw130
+PG 8
+WC Entomology; Veterinary Sciences
+SC Entomology; Veterinary Sciences
+GA EP2IX
+UT WOS:000397207700021
+PM 28082643
+DA 2020-12-16
+ER
+
+PT J
+AU Narciso, JOA
+   Soares, ROD
+   Mallet, JRD
+   Guimaraes, AE
+   Chaves, MCD
+   Barbosa, JM
+   Maleck, M
+AF Abreu Narciso, Juliana Oliveira
+   de Araujo Soares, Renata Oliveira
+   dos Santos Mallet, Jacenir Reis
+   Guimaraes, Anthony Erico
+   de Oliveira Chaves, Maria Celia
+   Barbosa-Filho, Jose Maria
+   Maleck, Marise
+TI Burchellin: study of bioactivity against Aedes aegypti
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE Dengue; Aedes aegypti (L.); Neolignan burchellin; Ocotea cymbarum
+   (Lauraceae); Larvicidal activity
+ID CHRYSOMYA-MEGACEPHALA; LARVICIDAL ACTIVITY; RHODNIUS-PROLIXUS;
+   POSTEMBRYONIC DEVELOPMENT; BIOLOGICAL-ACTIVITY; MOSQUITO; NEOLIGNANS;
+   GRANDISIN; LIGNANS; LARVAL
+AB Background: The dengue mosquito Aedes aegypti Linnaeus, 1762 is a widespread insect pest of serious medical importance. Since no effective vaccine is available for treating dengue, the eradication or control of the main mosquito vector is regarded as essential. Since conventional insecticides have limited success, plants may be an alternative source of larvicidal agents, since they contain a rich source of bioactive chemicals. The aim of this study was to evaluate the larvicidal activity of the neolignan burchellin isolated from Ocotea cymbarum (Lauraceae), a plant from the Amazon region, against third instar larvae of A. aegypti.
+   Methods: Burchellin obtained from O. cymbarum was analyzed. The inhibitory activity against A. aegypti eggs and larvae and histological changes in the digestive system of treated L3 larvae were evaluated. In addition, nitric oxide synthase activity and nitric oxide levels were determined, and cytotoxicity bioassays performed.
+   Results: The data showed that burchellin interfered with the development cycle of the mosquito, where its strongest toxic effect was 100% mortality in larvae (L3) at concentrations >= 30 ppm. This compound did not show target cell toxicity in peritoneal macrophages from BALB/ c mice, and proved to have molecular stability when dissolved in water. The L3 and L4 larvae treated with the compound showed cellular destruction and disorganization, cell spacing, and vacuolization of epithelial cells in small regions of the midgut.
+   Conclusion: The neolignan burchellin proved to be a strong candidate for a natural, safe and stable phytolarvicidal to be used in population control of A. aegypti.
+C1 [Abreu Narciso, Juliana Oliveira; Guimaraes, Anthony Erico; Maleck, Marise] Fiocruz MS, Inst Oswaldo Cruz, Lab Diptera, BR-21045900 Rio De Janeiro, Brazil.
+   [de Araujo Soares, Renata Oliveira] Fiocruz MS, Inst Oswaldo Cruz, Lab Biol Mol & Doencas Endem, BR-21040360 Rio De Janeiro, Brazil.
+   [dos Santos Mallet, Jacenir Reis] Inst Oswaldo Cruz, Entomol Med & Forense, Lab Transmissores Leishmanioses, BR-21040360 Vassouras, RJ, Brazil.
+   [de Oliveira Chaves, Maria Celia; Barbosa-Filho, Jose Maria] Univ Fed Paraiba, Lab Tecnol Farmaceut, BR-58051970 Joao Pessoa, PB, Brazil.
+   [Maleck, Marise] Univ Severino Sombra, Lab Insetos Vetores Ciencias Saude, BR-27700000 Vassouras, RJ, Brazil.
+RP Maleck, M (corresponding author), Fiocruz MS, Inst Oswaldo Cruz, Lab Diptera, Av Brazil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM mmaleck@oi.com.br
+RI Miranda, Marcio/J-8677-2014; Filho, Jose Maria Barbosa/B-3951-2010;
+   Maleck, Marise/I-3614-2015
+OI Filho, Jose Maria Barbosa/0000-0002-9567-4096; Maleck,
+   Marise/0000-0001-7699-7896; Guimaraes, Anthony/0000-0002-9982-2471
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ)Carlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ); Fundacao para o Desenvolvimento Cient fico e
+   Tecnologico em Sa de (FIOTEC/FIOCRUZ)
+FX This research was supported by grants from Fundacao de Amparo a Pesquisa
+   do Estado do Rio de Janeiro (FAPERJ) and Fundacao para o Desenvolvimento
+   Cient fico e Tecnologico em Sa de (FIOTEC/FIOCRUZ). The authors thank
+   NApVe, (Parceira DIRAC-IOC-VPAAPS/FIOCRUZ) for the A. aegypti eggs and
+   Dr. Marcelo Genestra (Laboratorio de Bioqu mica de Tripanossomat deos,
+   IOC/FIOCRUZ) for analysis of NADPH and NOS.
+CR ALKOFAHI A, 1989, ACS SYM SER, V387, P25
+   ARAUJOLIMA O, 1972, PHYTOCHEMISTRY, V11, P2031
+   Bancroft JD, 1996, THEORY PRACTICE HIST, P83
+   BENTLEY MD, 1989, ANNU REV ENTOMOL, V34, P401, DOI 10.1146/annurev.en.34.010189.002153
+   BUCHI G, 1977, J ORG CHEM, V42, P1784
+   Cabral MMO, 2007, FITOTERAPIA, V78, P20, DOI 10.1016/j.fitote.2006.09.011
+   Cabral MMO, 2010, EXP PARASITOL, V124, P319, DOI 10.1016/j.exppara.2009.11.007
+   Cabral MMO, 2009, J AM MOSQUITO CONTR, V25, P103, DOI 10.2987/08-5828.1
+   Cabral MMO, 2000, PARASITOL RES, V86, P710, DOI 10.1007/PL00008556
+   Cabral MMO, 2000, FITOTERAPIA, V71, P1, DOI 10.1016/S0367-326X(99)00105-7
+   Cabral MMO, 1995, MEM I OSWALDO CRUZ, V90, P759, DOI 10.1590/S0074-02761995000600018
+   Cabral MMO, 2001, PARASITOL RES, V87, P730, DOI 10.1007/s004360100434
+   Chauret DC, 1996, J NAT PROD, V59, P152, DOI 10.1021/np960036y
+   Christopher S.R., 1960, AEDES AEGYPTI L YELL, P739
+   Cabral MMD, 2007, J MED ENTOMOL, V44, P249
+   EVANS DA, 1992, INDIAN J BIOCHEM BIO, V29, P360
+   Genestra M, 2006, ARCH MICROBIOL, V185, P348, DOI 10.1007/s00203-006-0105-9
+   George DR, 2014, PARASITE VECTOR, V7, DOI 10.1186/1756-3305-7-28
+   HAMILTON MA, 1978, ENVIRON SCI TECHNOL, V12, P417, DOI 10.1021/es60140a017
+   Leite ACCF, 2012, REV BRAS FARMACOGN, V22, P517, DOI 10.1590/S0102-695X2012005000016
+   Maleck M., 2013, J NAT PHARM, V4, P32
+   March J, 1985, ADV ORG CHEM, P134
+   Monte-Neto RL, 2006, Z NATURFORSCH C, V62c, P348
+   Moser BA, 2001, J GEN VIROL, V82, P283, DOI 10.1099/0022-1317-82-2-283
+   Motulsky H. J., 2002, ANAL DATA GRAPHPAD P
+   Park IK, 2005, J AGR FOOD CHEM, V53, P969, DOI 10.1021/jf048208h
+   Park IK, 2002, J AGR FOOD CHEM, V50, P1866, DOI 10.1021/jf011457a
+   Nogueira CDR, 2009, J MED ENTOMOL, V46, P281, DOI 10.1603/033.046.0212
+   RICHIE JP, 1986, P SOC EXP BIOL MED, V183, P81
+   Silva Heloísa Helena Garcia da, 2004, Rev. Soc. Bras. Med. Trop., V37, P396, DOI 10.1590/S0037-86822004000500005
+   Silva VC, 2008, MICROSC RES TECHNIQ, V71, P663, DOI 10.1002/jemt.20605
+   Snodgrass R. E., 1935, PRINCIPLES INSECT MO
+   Sokal RR, 1979, PRINCIPIOS Y METHOD
+   Solis PN, 2005, PHARM BIOL, V43, P378, DOI 10.1080/13880200590951865
+   SUKUMAR K, 1991, J AM MOSQUITO CONTR, V7, P210
+   Teixeira MD, 2002, TROP MED INT HEALTH, V7, P757, DOI 10.1046/j.1365-3156.2002.00930.x
+   WHO, 1997, DENGUE HEMORRHA FEVE
+   World Health Organization (WHO), 1970, WHO TECHN REPORT SER, V443
+NR 38
+TC 11
+Z9 12
+U1 0
+U2 16
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD APR 8
+PY 2014
+VL 7
+AR 172
+DI 10.1186/1756-3305-7-172
+PG 10
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AF9WZ
+UT WOS:000335066700001
+PM 24713267
+OA DOAJ Gold, Green Published
+DA 2020-12-16
+ER
+
+PT J
+AU Maleck, M
+   Ferreira, B
+   Mallet, J
+   Guimaraes, A
+   Kato, M
+AF Maleck, Marise
+   Ferreira, Bruna
+   Mallet, Jacenir
+   Guimaraes, Anthony
+   Kato, Massuo
+TI Cytotoxicity of Piperamides Towards Aedes aegypti ( Diptera: Culicidae)
+SO JOURNAL OF MEDICAL ENTOMOLOGY
+LA English
+DT Article
+DE cytotoxicity; Culicidae; larvicide; piperamide
+ID PIPER-NIGRUM; LARVICIDAL ACTIVITY; ANTIFUNGAL AMIDES; POSTEMBRYONIC
+   DEVELOPMENT; BIOLOGICAL-ACTIVITY; MIDGUT EVENTS; L. DIPTERA; EXTRACTS;
+   GRANDISIN; OXIDASE
+AB The effectiveness of the amides piplartine and piperlonguminine isolated from Piper species for controlling L3 and L4 of Aedes aegypti (L.) was assessed through bioassays at concentrations ranging from 1 to 300 g/ml. Piplartine reduced the mosquito development period and caused larval mortality only at concentrations 100 g/ml, whereas piperlonguminine resulted in an extended period of mosquito development (10 g/ml) and caused 100% larval mortality (30 g/ml) within 24 h. The toxicity and cytotoxic effects of piperlonguminine on epithelial cells of the digestive system of Ae. aegypti were viewed using transmission electron microscopy, which indicated vacuolization of cytoplasm, mitochondrial swelling and leaking of nuclear material. Piperlonguminine was the more effective amide, showing toxic activity with LD 50 of 12 g/ml against the larvae of Ae. aegypti.
+C1 [Maleck, Marise] Ctr Ciencias Saude & Mestrado Profiss Ciencias Am, Lab Insetos Vetores, BR-27700000 Vassouras, RJ, Brazil.
+   [Ferreira, Bruna; Guimaraes, Anthony] Fundacao Oswaldo Cruz FIOCRUZ, Inst Oswaldo Cruz, Lab Diptera, BR-21040900 Rio De Janeiro, RJ, Brazil.
+   [Mallet, Jacenir] Inst Oswaldo Cruz, Setor Entomol Med & Forense, Lab Transmissores Leishmanioses, BR-21040360 Rio De Janeiro, RJ, Brazil.
+   [Kato, Massuo] Univ Sao Paulo, Lab Prod Nat, Inst Quim, BR-05508900 Sao Paulo, Brazil.
+RP Maleck, M (corresponding author), Ctr Ciencias Saude & Mestrado Profiss Ciencias Am, Lab Insetos Vetores, Av Expedicionario Oswaldo de Almeida Ramos 280, BR-27700000 Vassouras, RJ, Brazil.
+EM mmaleck@oi.com.br
+RI Kato, Massuo Jorge/C-1631-2014; Maleck, Marise/I-3614-2015
+OI Kato, Massuo Jorge/0000-0002-3315-2129; Guimaraes,
+   Anthony/0000-0002-9982-2471; Maleck, Marise/0000-0001-7699-7896
+CR Al-Baghdadi OB, 2012, BIOORG MED CHEM LETT, V22, P7183, DOI 10.1016/j.bmcl.2012.09.056
+   ANGERILLI NPD, 1980, CAN ENTOMOL, V112, P1249, DOI 10.4039/Ent1121249-12
+   Arruda W., 2008, Revista de Patologia Tropical, V37, P255
+   Ayres M, 2007, BIOESTAT 5 0 APLICAC
+   Barbieri E, 2007, REV BRAS PARASITOL V, V16, P87
+   Beserra EB, 2006, NEOTROP ENTOMOL, V35, P853, DOI 10.1590/S1519-566X2006000600021
+   Cabral MMO, 2007, FITOTERAPIA, V78, P20, DOI 10.1016/j.fitote.2006.09.011
+   Cabral MMO, 2010, EXP PARASITOL, V124, P319, DOI 10.1016/j.exppara.2009.11.007
+   Cabral MMO, 2008, REV BRAS FARMACOGN, V18, P699, DOI 10.1590/S0102-695X2008000500011
+   Cabral MMO, 2009, J AM MOSQUITO CONTR, V25, P103, DOI 10.2987/08-5828.1
+   Cabral MMO, 2000, PARASITOL RES, V86, P710, DOI 10.1007/PL00008556
+   CASIDA JE, 1970, J AGR FOOD CHEM, V18, P753, DOI 10.1021/jf60171a013
+   CHARLES JF, 1987, ANN INST PASTEUR MIC, V138, P471, DOI 10.1016/0769-2609(87)90064-0
+   COCKE J, 1979, LIFE SCI, V24, P817, DOI 10.1016/0024-3205(79)90366-7
+   CONSOLI R A G B, 1988, Memorias do Instituto Oswaldo Cruz, V83, P87, DOI 10.1590/S0074-02761988000100012
+   Cotinguiba F, 2009, MED CHEM RES, V18, P703, DOI 10.1007/s00044-008-9161-9
+   da Silva RV, 2002, PHYTOCHEMISTRY, V59, P521, DOI 10.1016/S0031-9422(01)00431-9
+   Dantas I. M., 1993, THESIS ESCOLA SUPERI
+   DAVIDSON EW, 1979, CAN J MICROBIOL, V25, P178, DOI 10.1139/m79-028
+   de Moraes J, 2013, CURR MED CHEM, V20, P301, DOI 10.2174/092986713804806694
+   de Moraes J, 2011, EXP PARASITOL, V127, P357, DOI 10.1016/j.exppara.2010.08.021
+   Cabral MMD, 2007, J MED ENTOMOL, V44, P249
+   EDWARDS PJ, 1981, ECOLOGIA INTERACOES
+   EVANS DA, 1992, INDIAN J BIOCHEM BIO, V29, P360
+   Flauzino RF, 2009, REV PANAM SALUD PUBL, V25, P456, DOI 10.1590/S1020-49892009000500012
+   Flores J.G., 1991, Acta Manilana, P25
+   HAMILTON MA, 1977, ENVIRON SCI TECHNOL, V11, P714, DOI 10.1021/es60130a004
+   KARNOVSKY MJ, 1965, J CELL BIOL, V27, pA137
+   Lago JHG, 2012, NAT PROD RES, V26, P770, DOI 10.1080/14786419.2011.561435
+   Leite ACCF, 2012, REV BRAS FARMACOGN, V22, P517, DOI 10.1590/S0102-695X2012005000016
+   Marques JV, 2007, J NAT PROD, V70, P2036, DOI 10.1021/np070347g
+   Marques JV, 2010, J BRAZIL CHEM SOC, V21, P1807, DOI 10.1590/S0103-50532010001000003
+   Motulsky H. J., 2002, ANAL DATA GRAPHPAD P
+   Narciso J.O.A., 2009, MONOGRAFIA ESPECIALI
+   Navickiene HMD, 2000, PHYTOCHEMISTRY, V55, P621, DOI 10.1016/S0031-9422(00)00226-0
+   Park IK, 2002, J AGR FOOD CHEM, V50, P1866, DOI 10.1021/jf011457a
+   Rahman T, 2010, BIOORG MED CHEM LETT, V20, P537, DOI 10.1016/j.bmcl.2009.11.106
+   Rapado LN, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002251
+   Nogueira CDR, 2009, J MED ENTOMOL, V46, P281, DOI 10.1603/033.046.0212
+   Scott Ian M., 2008, Phytochemistry Reviews, V7, P65, DOI 10.1007/s11101-006-9058-5
+   Scott JG, 1999, INSECT BIOCHEM MOLEC, V29, P757, DOI 10.1016/S0965-1748(99)00038-7
+   SHARMA VP, 1969, MOSQ NEWS, V29, P9
+   Siddiqui BS, 2004, CHEM PHARM BULL, V52, P1349, DOI 10.1248/cpb.52.1349
+   Silva Heloisa Helena Garcia da, 1999, Entomologia y Vectores, V6, P383
+   Silva HHG, 1999, REV SOC BRASILEIRA M, V32, P349, DOI DOI 10.1590/S0037-86821999000400003
+   SILVA IG, 2003, REV PATOLOGIA TROPIC, V32, P73
+   Simas N. K., 2003, THESIS U FEDERAL RIO
+   Simas NK, 2007, REV SOC BRAS MED TRO, V40, P405, DOI 10.1590/S0037-86822007000400006
+   Sokal R. R., 1979, PRINCIPIOS METODOS E, P223
+   Teixeira MD, 2002, TROP MED INT HEALTH, V7, P757, DOI 10.1046/j.1365-3156.2002.00930.x
+   Trindade FTT, 2012, REV BRAS FARMACOGN, V22, P979, DOI 10.1590/S0102-695X2012005000039
+   Vendramim D. J., 2000, INFORM SOC ENTOMOLOG, V25, P1
+   Waliwitiya R, 2012, J MED ENTOMOL, V49, P614, DOI 10.1603/ME10272
+   [WHO] World Health Organization, 1997, DENG B EP DENG DENGH
+   World Health Organization, 1970, WHO TECHN REP SER, V443
+   Yang YC, 2002, J AGR FOOD CHEM, V50, P3765, DOI 10.1021/jf011708f
+NR 56
+TC 5
+Z9 5
+U1 0
+U2 15
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0022-2585
+EI 1938-2928
+J9 J MED ENTOMOL
+JI J. Med. Entomol.
+PD MAR
+PY 2014
+VL 51
+IS 2
+BP 458
+EP 463
+DI 10.1603/ME13069
+PG 6
+WC Entomology; Veterinary Sciences
+SC Entomology; Veterinary Sciences
+GA AC5CW
+UT WOS:000332539500020
+PM 24724297
+OA Green Published
+DA 2020-12-16
+ER
+
+PT J
+AU Leite, ACCF
+   Kato, MJ
+   Soares, ROA
+   Guimaraes, AE
+   Santos-Mallet, JR
+   Cabral, MMO
+AF Leite, Ana Carolina C. F.
+   Kato, Massuo J.
+   Soares, Renata O. A.
+   Guimaraes, Anthony E.
+   Santos-Mallet, Jacenir R.
+   Cabral, Marise M. O.
+TI Grandisin caused morphological changes larval and toxicity on Aedes
+   aegypti
+SO REVISTA BRASILEIRA DE FARMACOGNOSIA-BRAZILIAN JOURNAL OF PHARMACOGNOSY
+LA English
+DT Article
+DE Aedes aegypti; Piper solmsianum; histology; toxicity; tropical disease
+ID TETRAHYDROFURAN LIGNANS; RHODNIUS-PROLIXUS; TRYPANOSOMA-CRUZI;
+   PIPER-SOLMSIANUM; BURCHELLIN; GROWTH
+AB Dengue is a tropical disease caused by an arbovirus transmitted by Aedes aegypti. Since no effective vaccine is available for treating dengue, the present study focused on population vector control through investigating the use of the lignan grandisin, isolated from Piper solmsianum C. DC., Piperaceae, against the larvae of A. aegypti. Grandisin caused larval (L3) mortality at LC50 150 mu g/mL. Histological analysis on A. aegypti larvae treated with grandisin (LC50 50 mu g/mL) showed changes in the anterior-middle midgut, with intense tissue destruction and cell disorganization.
+C1 [Kato, Massuo J.] Univ Sao Paulo, Lab Quim Prod Nat, Dept Quim Fundamental, Inst Quim, BR-05508 Sao Paulo, Brazil.
+   Univ Severino Sombra, Lab Insetos Vetores, Unidade Ensino Pesquisa & Extensao Prof Antonio O, Ctr Ciencias Exatas Tecnol & Nat, BR-2770000 Vassouras, RJ, Brazil.
+RP Cabral, MMO (corresponding author), Univ Severino Sombra, Lab Insetos Vetores CECETEN, Unidade Ensino Pesquisa & Extensao Prof Antonio O, Av Exp Oswaldo Almeida Ramos 280, BR-2770000 Vassouras, RJ, Brazil.
+EM mmaleck@uss.br
+RI Guimaraes, Anthony/C-2564-2013; Kato, Massuo Jorge/C-1631-2014; Maleck,
+   Marise/I-3614-2015
+OI Kato, Massuo Jorge/0000-0002-3315-2129; Guimaraes,
+   Anthony/0000-0002-9982-2471; Maleck, Marise/0000-0001-7699-7896
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de JaneiroCarlos Chagas
+   Filho Foundation for Research Support of the State of Rio de Janeiro
+   (FAPERJ); Fundacao de Amparo a Pesquisa do Estado de Sao Paulo Conselho
+   Nacional de Desenvolvimento Cientifico e TecnologicoNational Council for
+   Scientific and Technological Development (CNPq)Fundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP); Fundacao para o
+   Desenvolvimento Cientifico e Tecnologico em Saude
+FX This research was supported by grants from Fundacao de Amparo a Pesquisa
+   do Estado do Rio de Janeiro, Fundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   and Fundacao para o Desenvolvimento Cientifico e Tecnologico em Saude.
+CR Andrighetti-Frohner CR, 2003, MEM I OSWALDO CRUZ, V98, P843, DOI 10.1590/S0074-02762003000600023
+   Arruda Walquiria, 2003, Entomologia y Vectores, V10, P47
+   Arruda Walquíria, 2003, Rev. Soc. Bras. Med. Trop., V36, P17, DOI 10.1590/S0037-86822003000100004
+   Bancroft J, 1996, THEORY PRACTICE HIST
+   Cabral MMO, 2009, J AM MOSQUITO CONTR, V25, P103, DOI 10.2987/08-5828.1
+   Cabral MMO, 2000, PARASITOL RES, V86, P710, DOI 10.1007/PL00008556
+   Cabral MMO, 2000, FITOTERAPIA, V71, P1, DOI 10.1016/S0367-326X(99)00105-7
+   Cabral MMO, 2001, PARASITOL RES, V87, P730, DOI 10.1007/s004360100434
+   Consoli RAGB, 1994, PRINCIPAIS MOSQUITOS
+   Hamilton MA, 1978, ENVIRON SCI TECHNOL, V12, P714
+   HOLLOWAY D, 1974, PHYTOCHEMISTRY, V13, P1233, DOI 10.1016/0031-9422(74)80107-X
+   Kato MJ, 2007, PURE APPL CHEM, V79, P529, DOI 10.1351/pac200779040529
+   Lopes NP, 1998, PLANTA MED, V64, P667, DOI 10.1055/s-2006-957548
+   Martins RCC, 2003, PHYTOCHEMISTRY, V64, P667, DOI 10.1016/S0031-9422(03)00356-X
+   Martins RCC, 2000, PHYTOCHEMISTRY, V55, P843, DOI 10.1016/S0031-9422(00)00295-8
+   Miranda Oliveira JEM, 2002, REV BRAS OL FIBROSAS, V6, P557
+   MOSMANN T, 1983, J IMMUNOL METHODS, V65, P55, DOI 10.1016/0022-1759(83)90303-4
+   Quijano-Abril MA, 2006, J BIOGEOGR, V33, P1266, DOI 10.1111/j.1365-2699.2006.01501.x
+   Nogueira CDR, 2009, J MED ENTOMOL, V46, P281, DOI 10.1603/033.046.0212
+   SAUVAIN M, 1993, PHYTOTHER RES, V7, P167, DOI 10.1002/ptr.2650070215
+NR 20
+TC 14
+Z9 15
+U1 0
+U2 15
+PU SOC BRASILEIRA FARMACOGNOSIA
+PI CURITIBA-PR
+PA C/O PROF CID AIMBIRE DE MORAES SANTOS, UFPR-LAB FARM, RUA PREF LOTHARIO
+   MEISSNER, 632-JD BOTANICO, CURITIBA-PR, 80210-170, BRAZIL
+SN 0102-695X
+J9 REV BRAS FARMACOGN
+JI Rev. Bras. Farmacogn.-Braz. J. Pharmacogn.
+PD MAY-JUN
+PY 2012
+VL 22
+IS 3
+BP 517
+EP 521
+DI 10.1590/S0102-695X2012005000016
+PG 5
+WC Chemistry, Medicinal; Pharmacology & Pharmacy
+SC Pharmacology & Pharmacy
+GA 942WV
+UT WOS:000304083100008
+OA Other Gold
+DA 2020-12-16
+ER
+
+PT J
+AU Nogueira, CDR
+   De Mello, RP
+   Kato, MJ
+   Cabral, MMD
+AF Ribeiro Nogueira, Camila Diniz
+   De Mello, Rubens Pinto
+   Kato, Massuo Jorge
+   De Oliveira Cabral, Marise Maleck
+TI Disruption of Chrysomya megacephala Growth Caused by Lignan Grandisin
+SO JOURNAL OF MEDICAL ENTOMOLOGY
+LA English
+DT Article
+DE Chrysomya megacephala; grandisin; lignan; Diptera; postembryonic
+   development
+ID POSTEMBRYONIC DEVELOPMENT; TETRAHYDROFURAN LIGNANS; BIOLOGICAL-ACTIVITY;
+   PIPER-SOLMSIANUM; NEOLIGNANS; PHENYLPROPANOIDS; CALLIPHORIDAE; DIPTERA
+AB The toxicity of tetrahydrofuran lignan grandisin was evaluated against larvae of Chrysomya megacephala F. (Diptera: Calliphoridae). The bioassay involved topical treatment on larvae, topical treatment oil egg masses, and incorporation in the larval diet. Grandisin showed inhibition of postembryonic development by ovicidal (30%) and larvicidal (38%) effects and reduced larval weight (4 mg), when topically applied oil egg masses and starving larvae (L1) at a concentration of 100 mu g/mu l. These findings elucidated the effect of grandisin on the C. megacephala life cycle and its potential to control C. megacephala populations.
+C1 [Ribeiro Nogueira, Camila Diniz; De Mello, Rubens Pinto; De Oliveira Cabral, Marise Maleck] Fundacao Oswaldo Cruz, Lab Diptera Entomol IOC, BR-21040900 Rio De Janeiro, Brazil.
+   [Kato, Massuo Jorge] Univ Sao Paulo, Inst Quim, Dept Quim Fundamental, BR-05508900 Sao Paulo, Brazil.
+   [De Oliveira Cabral, Marise Maleck] Univ Severino Sombra, Dept Ciencias Biol, BR-27700000 Vassouras, RJ, Brazil.
+RP Cabral, MMD (corresponding author), Fundacao Oswaldo Cruz, Lab Diptera Entomol IOC, Av Brazil 4365, BR-21040900 Rio De Janeiro, Brazil.
+EM mmaleck@ioc.fiocruz.br
+RI Kato, Massuo Jorge/C-1631-2014; Maleck, Marise/I-3614-2015
+OI Kato, Massuo Jorge/0000-0002-3315-2129; Maleck,
+   Marise/0000-0001-7699-7896
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ)Carlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ); Coordenacao de Aperfeicoamento de Pessoal de Nivel
+   SuperiorCAPES
+FX We are indebted to Chagas Disease Eco-epidemiology Laboratory, FIOCRUZ,
+   and Colegio Pedro H for technical assistance with the insect colony.
+   This research was supported by grants from Fundacao de Amparo a Pesquisa
+   do Estado do Rio de Janeiro (FAPERJ) and Coordenacao de Aperfeicoamento
+   de Pessoal de Nivel Superior.
+CR Benevides PJC, 1999, PHYTOCHEMISTRY, V52, P339, DOI 10.1016/S0031-9422(99)00177-6
+   Cabral MMO, 2007, FITOTERAPIA, V78, P20, DOI 10.1016/j.fitote.2006.09.011
+   Chauret DC, 1996, J NAT PROD, V59, P152, DOI 10.1021/np960036y
+   Cabral MMD, 2007, J MED ENTOMOL, V44, P249
+   de Oliveira VC, 2002, REV SAUDE PUBL, V36, P614, DOI [10.1590/S0034-89102002000600011, 10.1590/s0034-89102002000600011]
+   *GRAPHPAD SOFTW IN, 1999, INSTAT GUID CHOOS IN
+   Greenberg B., 1973, FLIES DIS BIOL DIS T, V2
+   GUIMARAES J H, 1978, Revista Brasileira de Entomologia, V22, P53
+   JENSEN S, 1993, PHYTOCHEMISTRY, V33, P523, DOI 10.1016/0031-9422(93)85442-T
+   Kato MJ, 2007, PURE APPL CHEM, V79, P529, DOI 10.1351/pac200779040529
+   Lago JHG, 2004, J NAT PROD, V67, P1783, DOI 10.1021/np030530j
+   Martins RCC, 2003, PHYTOCHEMISTRY, V64, P667, DOI 10.1016/S0031-9422(03)00356-X
+   Martins RCC, 2000, PHYTOCHEMISTRY, V55, P843, DOI 10.1016/S0031-9422(00)00295-8
+   MENDONCA PM, 2004, ENTOMOL VECTORES, V11, P50
+   Queiroz Margareth M. De Carvalho, 1991, Revista Brasileira de Zoologia, V8, P75, DOI 10.1590/S0101-81751991000100006
+   SENGUPTA S, 1987, Fitoterapia, V58, P147
+   Solis PN, 2005, PHARM BIOL, V43, P378, DOI 10.1080/13880200590951865
+   Sukontason KL, 2005, J MED ENTOMOL, V42, P702, DOI 10.1603/0022-2585(2005)042[0702:FROHMC]2.0.CO;2
+NR 18
+TC 9
+Z9 9
+U1 0
+U2 7
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0022-2585
+EI 1938-2928
+J9 J MED ENTOMOL
+JI J. Med. Entomol.
+PD MAR
+PY 2009
+VL 46
+IS 2
+BP 281
+EP 283
+DI 10.1603/033.046.0212
+PG 3
+WC Entomology; Veterinary Sciences
+SC Entomology; Veterinary Sciences
+GA 418QZ
+UT WOS:000264164800012
+PM 19351078
+OA Bronze
+DA 2020-12-16
+ER
+
+PT J
+AU Cabral, MMO
+   Alencar, JA
+   Guimaraes, AE
+   Kato, MJ
+AF Cabral, Marise M. O.
+   Alencar, Jeronimo A.
+   Guimaraes, Anthony E.
+   Kato, Massuo J.
+TI LARVICIDAL ACTIVITY OF GRANDISIN AGAINST AEDES AEGYPTI
+SO JOURNAL OF THE AMERICAN MOSQUITO CONTROL ASSOCIATION
+LA English
+DT Article
+DE Lignoids; Culicidae; larvicidal activity; Aedes aegypti; Piper
+   solmsianum
+ID TETRAHYDROFURAN LIGNANS; PIPER-SOLMSIANUM; PHENYLPROPANOIDS; NEOLIGNANS;
+   MOSQUITOS
+AB Dengue is a tropical disease caused by an arbovirus transmitted by the mosquito Aedes aegypti. Because no effective vaccine is available for the disease, the strategy for its prevention has focused on vector control by the use of natural insecticides. The aim of this study was to evaluate the larvicidal activity of the lignan grandisin, a leaf extract from Piper solmsianum, against Ae. aegypti.
+C1 [Cabral, Marise M. O.; Alencar, Jeronimo A.; Guimaraes, Anthony E.] Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Diptera, BR-21040900 Rio De Janeiro, Brazil.
+   [Cabral, Marise M. O.] Univ Severino Sombra, Lab Insetos Vetores & CECETEN, BR-27700000 Rio De Janeiro, Brazil.
+   [Kato, Massuo J.] Univ Sao Paulo, Lab Quim Prod Nat, Dept Quim Fundamental, Inst Quim, BR-05508900 Sao Paulo, Brazil.
+RP Cabral, MMO (corresponding author), Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Diptera, Ave Brasil 4365, BR-21040900 Rio De Janeiro, Brazil.
+RI Guimaraes, Anthony/C-2564-2013; Kato, Massuo Jorge/C-1631-2014; Maleck,
+   Marise/I-3614-2015
+OI Kato, Massuo Jorge/0000-0002-3315-2129; Guimaraes,
+   Anthony/0000-0002-9982-2471; Maleck, Marise/0000-0001-7699-7896
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de JaneiroCarlos Chagas
+   Filho Foundation for Research Support of the State of Rio de Janeiro
+   (FAPERJ); Fundacao de Amparo a Pesquisa do Estado de Sao PauloFundacao
+   de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP); Fundacao para o
+   Desenvolvimento Cientifico e Tecnologico
+FX This research was supported by grants from Fundacao de Amparo a Pesquisa
+   do Estado do Rio de Janeiro, Fundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo, and Fundacao para o Desenvolvimento Cientifico e Tecnologico.
+CR Alencar Jeronimo, 2004, Entomologia y Vectores, V11, P369
+   Chaithong U, 2006, J VECTOR ECOL, V31, P138, DOI 10.3376/1081-1710(2006)31[138:LEOPPO]2.0.CO;2
+   Chauret DC, 1996, J NAT PROD, V59, P152, DOI 10.1021/np960036y
+   Choochote Wej, 2006, Rev. Inst. Med. trop. S. Paulo, V48, P33, DOI 10.1590/S0036-46652006000100007
+   da Silva RV, 2002, PHYTOCHEMISTRY, V59, P521, DOI 10.1016/S0031-9422(01)00431-9
+   Dua VK, 2008, J AM MOSQUITO CONTR, V24, P315, DOI 10.2987/5642.1
+   Dyer LA, 2003, J CHEM ECOL, V29, P2499, DOI 10.1023/A:1026310001958
+   Gubler DJ, 2002, ARCH MED RES, V33, P330, DOI 10.1016/S0188-4409(02)00378-8
+   HAMILTON MA, 1977, ENVIRON SCI TECHNOL, V11, P714, DOI 10.1021/es60130a004
+   Harmatha J, 2002, ENTOMOL EXP APPL, V104, P51, DOI 10.1023/A:1021286002077
+   JENSEN S, 1993, PHYTOCHEMISTRY, V33, P523, DOI 10.1016/0031-9422(93)85442-T
+   Kato MJ, 2007, PURE APPL CHEM, V79, P529, DOI 10.1351/pac200779040529
+   Lopes NP, 1998, PLANTA MED, V64, P667, DOI 10.1055/s-2006-957548
+   Martins RCC, 2003, PHYTOCHEMISTRY, V64, P667, DOI 10.1016/S0031-9422(03)00356-X
+   Martins RCC, 2000, PHYTOCHEMISTRY, V55, P843, DOI 10.1016/S0031-9422(00)00295-8
+   Park IK, 2005, J AGR FOOD CHEM, V53, P969, DOI 10.1021/jf048208h
+   Parmar VS, 1998, PHYTOCHEMISTRY, V49, P1069, DOI 10.1016/S0031-9422(98)00208-8
+   Quijano-Abril MA, 2006, J BIOGEOGR, V33, P1266, DOI 10.1111/j.1365-2699.2006.01501.x
+   Sivagnaname N, 2004, MEM I OSWALDO CRUZ, V99, P115, DOI 10.1590/S0074-02762004000100021
+   Solis PN, 2005, PHARM BIOL, V43, P378, DOI 10.1080/13880200590951865
+   SUKUMAR K, 1991, J AM MOSQUITO CONTR, V7, P210
+   Tauil Pedro Luiz, 2002, Cad. Saúde Pública, V18, P867, DOI 10.1590/S0102-311X2002000300030
+   Wrigley S. K., 2000, BIODIVERSITY NEW LEA
+NR 23
+TC 20
+Z9 24
+U1 0
+U2 6
+PU AMER MOSQUITO CONTROL ASSOC
+PI MOUNT LAUREL
+PA 15000 COMMERCE PARKWAY, SUITE C, MOUNT LAUREL, NJ 08054 USA
+SN 8756-971X
+EI 1943-6270
+J9 J AM MOSQUITO CONTR
+JI J. Am. Mosq. Control Assoc.
+PD MAR
+PY 2009
+VL 25
+IS 1
+BP 103
+EP 105
+DI 10.2987/08-5828.1
+PG 3
+WC Entomology
+SC Entomology
+GA 425UZ
+UT WOS:000264664300014
+PM 19432075
+DA 2020-12-16
+ER
+
+PT J
+AU Cabral, MMO
+   Crescente, ERF
+   Mendonca, PM
+   Gomes, CMS
+   Oliveira, VC
+   Kelecom, A
+AF Cabral, Marise M. O.
+   Crescente, Esteban R. F.
+   Mendonca, Paloma M.
+   Gomes, Celma M. S.
+   Oliveira, Vanderleia C.
+   Kelecom, Alphonse
+TI Melia azedarach L. extracts and their activity on Musca domestica L.
+   (Diptera: Muscidae)
+SO REVISTA BRASILEIRA DE FARMACOGNOSIA-BRAZILIAN JOURNAL OF PHARMACOGNOSY
+LA English
+DT Article
+DE Plant extract; Diptera; Melia azedarach; growth development; biological
+   activity
+ID RHODNIUS-PROLIXUS; NATURAL-PRODUCTS
+AB Crudes extracts and fractions from seeds of Melia azedarach L. (Meliaceae) have been assayed on Musca domestica Linnaeus, 1758 (Diptera: Muscidae). Thus, the postembryonic development of the flies was reduced and the delay from newly hatched larvae to adults had significant increase. In addition, the pupal weights were reduced and the sexual ratio altered. Toxicity to fly eggs was also observed.
+C1 [Cabral, Marise M. O.] Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Diptera, BR-21045900 Rio De Janeiro, Brazil.
+   [Cabral, Marise M. O.] Univ Severino Sombra, Lab Insetos Vetores, BR-27700000 Vassouras, RJ, Brazil.
+   [Gomes, Celma M. S.] Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Hematozoarios, BR-21045900 Rio De Janeiro, Brazil.
+   [Crescente, Esteban R. F.; Mendonca, Paloma M.; Oliveira, Vanderleia C.] Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Ecoepidemiol Doenca de Chagas, BR-21045900 Rio De Janeiro, Brazil.
+   [Kelecom, Alphonse] Univ Fed Fluminense, Dept Biol Geral, BR-24001970 Niteroi, RJ, Brazil.
+RP Cabral, MMO (corresponding author), Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Diptera, Av Brasil 4365,Pavilhao Carlos Chagas 413, BR-21045900 Rio De Janeiro, Brazil.
+EM mmaleck@oi.com.br
+RI Mendonca, Paloma Martins/T-2332-2019; Maleck, Marise/I-3614-2015
+OI Maleck, Marise/0000-0001-7699-7896
+FU Funda ao de Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ)Carlos
+   Chagas Filho Foundation for Research Support of the State of Rio de
+   Janeiro (FAPERJ)
+FX This work was supported by grants from the Funda ao de Amparo a Pesquisa
+   do Estado do Rio de Janeiro (FAPERJ).
+CR Agra MD, 2008, REV BRAS FARMACOGN, V18, P472, DOI 10.1590/S0102-695X2008000300023
+   ALSHAROOK Z, 1991, J APPL ENTOMOL, V111, P425, DOI 10.1111/j.1439-0418.1991.tb00344.x
+   Amaral Flavia M.M., 2006, Rev. bras. farmacogn., V16, P696, DOI 10.1590/S0102-695X2006000500017
+   Barbosa Filho José M., 2006, Rev. bras. farmacogn., V16, P258, DOI 10.1590/S0102-695X2006000200021
+   Barbosa-Filho José M., 2006, Rev. bras. farmacogn., V16, P421, DOI 10.1590/S0102-695X2006000300021
+   Barbosa-Filho José M., 2007, Rev. bras. farmacogn., V17, P141, DOI 10.1590/S0102-695X2007000100022
+   Cabral MMO, 1996, MEM I OSWALDO CRUZ, V91, P117, DOI 10.1590/S0074-02761996000100021
+   Cabral MMO, 1995, MEM I OSWALDO CRUZ, V90, P759, DOI 10.1590/S0074-02761995000600018
+   Cabral MMO, 1999, FITOTERAPIA, V70, P561, DOI 10.1016/S0367-326X(99)00089-1
+   Carpinella MC, 2003, J AGR FOOD CHEM, V51, P369, DOI 10.1021/jf025811w
+   COUTINHO J. O., 1957, REV INST ADOLFO LUTZ, V17, P5
+   Cox GL, 1912, J HYG-CAMBRIDGE, V12, P290, DOI 10.1017/S0022172400005039
+   de Oliveira VC, 2002, REV SAUDE PUBL, V36, P614, DOI [10.1590/S0034-89102002000600011, 10.1590/s0034-89102002000600011]
+   Duke JA, 1981, MED PLANTS WORLD
+   Greenberg B., 1973, FLIES DIS, VII
+   GREENBERG B, 1971, FILES DIS, V1
+   HARTWELL JL, 1971, LLOYD, V34, P103
+   Harwood RF, 1979, ENTOMOLOGY HUMAN ANI
+   HERNANDEZ XE, 1983, REV CHAPINGO, V40, P55
+   Kelecom A, 1996, J BRAZIL CHEM SOC, V7, P39, DOI 10.5935/0103-5053.19960006
+   LAGUNES TA, 1984, EXTRACTOS ACUOSOS PO
+   Lepage H. S., 1946, BIOLoGICO [SAO PAULO], V12, P265
+   LIST PH, 1979, HAGERS HDB PHARMAZEU, V6
+   Mulholland DA, 2000, CURR ORG CHEM, V4, P1011, DOI 10.2174/1385272003375941
+   OLIVEIRA VC, 1999, THESIS U FEDERAL RUR
+   PRADHAN S., 1962, INDIAN FARMING, V12, P7
+   Queiroz Margareth M. De Carvalho, 1991, Revista Brasileira de Zoologia, V8, P75, DOI 10.1590/S0101-81751991000100006
+   Simas NK, 2004, QUIM NOVA, V27, P46, DOI 10.1590/S0100-40422004000100009
+   SINGH G, 1993, J SCI IND RES INDIA, V52, P676
+   ZHAO CX, 1984, CHINESE MED J-PEKING, V97, P910
+NR 30
+TC 5
+Z9 6
+U1 0
+U2 5
+PU SOC BRASILEIRA FARMACOGNOSIA
+PI CURITIBA-PR
+PA C/O PROF CID AIMBIRE DE MORAES SANTOS, UFPR-LAB FARM, RUA PREF LOTHARIO
+   MEISSNER, 632-JD BOTANICO, CURITIBA-PR, 80210-170, BRAZIL
+SN 0102-695X
+J9 REV BRAS FARMACOGN
+JI Rev. Bras. Farmacogn.-Braz. J. Pharmacogn.
+PD DEC
+PY 2008
+VL 18
+SU S
+BP 699
+EP 702
+DI 10.1590/S0102-695X2008000500011
+PG 4
+WC Chemistry, Medicinal; Pharmacology & Pharmacy
+SC Pharmacology & Pharmacy
+GA 424OR
+UT WOS:000264576500010
+OA Other Gold, Green Published
+DA 2020-12-16
+ER
+
+PT J
+AU Cabral, MMO
+   Garcia, ES
+   Gottlieb, OR
+   Kelecom, A
+AF Cabral, Marise M. O.
+   Garcia, Eloi S.
+   Gottlieb, Otto R.
+   Kelecom, Alphonse
+TI Degradation of the neolignan, burchellin in the hemolymph of the
+   bloodsucking insect Rhodnius prolixus
+SO FITOTERAPIA
+LA English
+DT Article
+DE Rhodnius prolixus; Neolignan; Burchellin; Biodegradation; Hemolymph
+ID FEEDING DETERRENT ACTIVITY; LIGNANS; PINORESINOL; BUG
+AB The neolignan, burchellin, a natural compound that reduces urine excretion in larvae of the bloodsucking bug, Rhodnius prolixus, a vector of Chagas' disease, is rapidly degraded in the hemolymph of the insect. The main product that accumulates in this tissue has been shown to be piperonyl alcohol. Other catabolites have been identified by GC-MS analysis. (c) 2007 Published by Elsevier B.V.
+C1 [Cabral, Marise M. O.] Univ Severino Sombra, Dept Biol, Vassouras, RJ, Brazil.
+   [Cabral, Marise M. O.] Fiocruz MS, Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Lab Diptera, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Garcia, Eloi S.] Fiocruz MS, Fundacao Oswaldo Cruz, Inst Oswaldo Cruz, Dept Biochem & Mol Biol, BR-21045900 Rio De Janeiro, RJ, Brazil.
+   [Gottlieb, Otto R.] Univ Fed Fluminense, Dept Organ Chem, BR-24001970 Niteroi, RJ, Brazil.
+   [Kelecom, Alphonse] Univ Fed Fluminense, Dept Gen Biol, BR-24001970 Niteroi, RJ, Brazil.
+RP Cabral, MMO (corresponding author), Univ Severino Sombra, Dept Biol, Av Brasil 4365,Cx Postal 926, Vassouras, RJ, Brazil.
+EM mmaleck@ioc.fiocruz.br
+RI Maleck, Marise/I-3614-2015
+OI Maleck, Marise/0000-0001-7699-7896
+FU CNPqNational Council for Scientific and Technological Development
+   (CNPq); CAPESCAPES; FAPERJCarlos Chagas Filho Foundation for Research
+   Support of the State of Rio de Janeiro (FAPERJ); DAADDeutscher
+   Akademischer Austausch Dienst (DAAD)
+FX We are grateful to Jose Carlos Ribeiro de Albuquerque and Eliane
+   Goncalves de Carvalho of the Analytical Centrum of Far-Manguinhos
+   (FIOCRUZ-RJ) for technical assistance. This research was supported by
+   grants from CNPq, CAPES, FAPERJ, and DAAD.
+CR ARAUJOLIMA O, 1972, PHYTOCHEMISTRY, V11, P2031
+   BOWERS WS, 1984, CIB FDN S OR DEV AD, P19
+   BRENER Z, 1973, ANNU REV MICROBIOL, V27, P347, DOI 10.1146/annurev.mi.27.100173.002023
+   Cabral MMO, 1999, PARASITOL RES, V85, P184, DOI 10.1007/s004360050532
+   Cabral MMO, 2000, PARASITOL RES, V86, P710, DOI 10.1007/PL00008556
+   Cabral MMO, 2000, FITOTERAPIA, V71, P1, DOI 10.1016/S0367-326X(99)00105-7
+   Cabral MMO, 1999, FITOTERAPIA, V70, P561, DOI 10.1016/S0367-326X(99)00089-1
+   Cabral MMO, 2001, PARASITOL RES, V87, P730, DOI 10.1007/s004360100434
+   Chagas C, 1909, MEM I OSWALDO CRUZ, V1, P159, DOI DOI 10.1590/S0074-02761909000200008
+   Garcia ES, 2000, PHYTOCHEMISTRY, V55, P611, DOI 10.1016/S0031-9422(00)00228-4
+   GARCIA ES, 1983, GENES ANTIGENES PARA, P44
+   GENSLER WJ, 1977, J MED CHEM, V20, P635, DOI 10.1021/jm00215a004
+   Gottlieb O. R., 1989, NATURAL PRODUCTS WOO, P439
+   Harmatha J, 2002, ENTOMOL EXP APPL, V104, P51, DOI 10.1023/A:1021286002077
+   HARMATHA J, 1984, BIOCHEM SYST ECOL, V12, P95, DOI 10.1016/0305-1978(84)90015-2
+   Harmatha Juraj, 2003, Phytochemistry Reviews, V2, P321, DOI 10.1023/B:PHYT.0000045494.98645.a3
+   MACRAE WD, 1984, PHYTOCHEMISTRY, V23, P1207, DOI 10.1016/S0031-9422(00)80428-8
+   MATSUI K, 1975, TETRAHEDRON LETT, P1905
+   MIYAZAWA M, 1994, PHYTOCHEMISTRY, V35, P611, DOI 10.1016/S0031-9422(00)90572-7
+   NAKATANI N, 1988, PHYTOCHEMISTRY, V27, P3127, DOI 10.1016/0031-9422(88)80013-X
+   PEOCK S, 1993, J ROY SOC HEALTH, V113, P292, DOI 10.1177/146642409311300603
+   Sartorelli P, 1998, PHYTOCHEMISTRY, V47, P1003, DOI 10.1016/S0031-9422(97)00605-5
+   SIH CJ, 1976, J AM CHEM SOC, V98, P5412, DOI 10.1021/ja00433a070
+NR 23
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0367-326X
+EI 1873-6971
+J9 FITOTERAPIA
+JI Fitoterapia
+PD JAN
+PY 2008
+VL 79
+IS 1
+BP 59
+EP 63
+DI 10.1016/j.fitote.2007.07.004
+PG 5
+WC Chemistry, Medicinal; Pharmacology & Pharmacy
+SC Pharmacology & Pharmacy
+GA 414LU
+UT WOS:000263866000011
+PM 17904765
+DA 2020-12-16
+ER
+
+PT J
+AU Cabral, MMD
+   Mendonca, PM
+   Gomes, CMD
+   Barbosa, JM
+   Dias, CD
+   Soares, MJ
+   Queiroz, MMD
+AF De Oliveira Cabral, Marise Maleck
+   Mendonca, Paloma Martins
+   Da Silva Gomes, Celma Marinho
+   Barbosa-Filho, Jose Maria
+   Dias, Celidarque Da Silva
+   Soares, Maurilio Jose
+   De Carvalho Queiroz, Margareth Maria
+TI Biological activity of yangambin on the postembryonic development of
+   Chrysomya megacephala (Diptera : Calliphoridae)
+SO JOURNAL OF MEDICAL ENTOMOLOGY
+LA English
+DT Article
+DE Chrysomya megacephala; yangambin; lignans; Diptera; postembryonic
+   development
+ID RHODNIUS-PROLIXUS; RECEPTOR ANTAGONIST; LIGNANS; RATS; EXCRETION;
+   MYIASIS; WORLD; SHOCK
+AB Phytochemicals endowed with hormonal, antihormonal, or toxic activity are potential agents for insect control. Thus, we became interested in testing Brazilian plant metabolites on Chrysomya megacephala (F.) (Diptera: Calliphoridae), a public health menace that is one of the most prevalent flies in Brazilian urban areas. We tested the lignan yangambin, from the leaves of Ocotea duckei Vattimo (Lauraceae). Topical treatment of eggs and first instars with yangambin as well as feeding larvae a yangambin-treated diet resulted in inhibition of postembryonic development, morphological alteration, and oviposition reduction.
+C1 Fiocruz MS, Dept Entomol, IOC, BR-21040900 Rio De Janeiro, Brazil.
+   Colegio Pedro 2, Rio De Janeiro, Brazil.
+   Fiocruz MS, IOC, Lab Biol & Controle Insetos Vetores, Dept Biol, BR-21040900 Rio De Janeiro, Brazil.
+   Univ Fed Paraiba, Lab Tecnol Farmaceut, BR-58501970 Joao Pessoa, Paraiba, Brazil.
+   Fiocruz MS, Inst Oswaldo Cruz, Dept Ultraestructura & Biol Celular, Lab Biol Celular Microorganismos, BR-21040900 Rio De Janeiro, Brazil.
+RP Cabral, MMD (corresponding author), Fiocruz MS, Dept Entomol, IOC, Av Brasil 4365, BR-21040900 Rio De Janeiro, Brazil.
+RI Mendonca, Paloma Martins/T-2332-2019; Queiroz, Margareth MC/C-2297-2013;
+   Filho, Jose Maria Barbosa/B-3951-2010; Soares, Maurilio J/I-4627-2016;
+   Maleck, Marise/I-3614-2015
+OI Queiroz, Margareth MC/0000-0001-5478-1277; Filho, Jose Maria
+   Barbosa/0000-0002-9567-4096; Soares, Maurilio J/0000-0001-9701-836X;
+   Maleck, Marise/0000-0001-7699-7896
+CR ALMEIDA RN, 1995, CIENC CULT SAUDE, V14, P7
+   Araujo CV, 2001, N-S ARCH PHARMACOL, V363, P267, DOI 10.1007/s002100000350
+   Barbosa-Filho J. M., 1999, Anais da Academia Brasileira de Ciencias, V71, P231
+   BAUMGARTNER DL, 1984, J MED ENTOMOL, V21, P105, DOI 10.1093/jmedent/21.1.105
+   Bowers W. S., 1976, The juvenile hormones., P394
+   BOWERS WS, 1976, SCIENCE, V193, P542, DOI 10.1126/science.986685
+   BOWERS WS, 1968, SCIENCE, V161, P895, DOI 10.1126/science.161.3844.895
+   Cabral MMO, 2000, PARASITOL RES, V86, P710, DOI 10.1007/PL00008556
+   Cabral MMO, 2000, FITOTERAPIA, V71, P1, DOI 10.1016/S0367-326X(99)00105-7
+   Cabral MMO, 1999, FITOTERAPIA, V70, P561, DOI 10.1016/S0367-326X(99)00089-1
+   CABRAL MMO, 2006, IN PRESS FITOTERAPIA
+   CASTROFARIANETO HC, 1995, PLANTA MED, V61, P101, DOI 10.1055/s-2006-958025
+   Chapman RF, 1998, INSECTS STRUCTURE FU
+   FURLANETTO SMP, 1984, REV MICROBIOL, V15, P170
+   Garcia ES, 2004, TOXICON, V44, P431, DOI 10.1016/j.toxicon.2004.05.007
+   GONZALEZCOLOMA A, 1994, PHYTOCHEMISTRY, V35, P607, DOI 10.1016/S0031-9422(00)90571-5
+   GREENBERG B, 1988, J MED ENTOMOL, V25, P199, DOI 10.1093/jmedent/25.3.199
+   GREENBERG B, 1971, FLIES DIS ECOLOGY CL, V1
+   GREENBERG D, 1973, FLIES DIS BIOL DIS T, V2
+   GUIMARAES J H, 1978, Revista Brasileira de Entomologia, V22, P53
+   Guimaraes J.H., 1979, Revista Brasileira de Entomologia, V23, P245
+   GUIMARAES JH, 1999, MYIASIS MAN ANIMALS
+   HALL M, 1995, ADV PARASIT, V35, P257, DOI 10.1016/S0065-308X(08)60073-1
+   HARMATHA J, 1984, BIOCHEM SYST ECOL, V12, P95, DOI 10.1016/0305-1978(84)90015-2
+   Harmatha Juraj, 2003, Phytochemistry Reviews, V2, P321, DOI 10.1023/B:PHYT.0000045494.98645.a3
+   Herbert JM, 1997, J LIPID MEDIAT CELL, V17, P1, DOI 10.1016/S0929-7855(97)00011-4
+   MACRAE WD, 1984, PHYTOCHEMISTRY, V23, P1207, DOI 10.1016/S0031-9422(00)80428-8
+   MENDONCA PM, 2004, ENTOMOL VECTORES, V11, P50
+   Miyazawa M, 1998, NAT PROD LETT, V12, P175, DOI 10.1080/10575639808048288
+   MIYAZAWA M, 1994, PHYTOCHEMISTRY, V35, P611, DOI 10.1016/S0031-9422(00)90572-7
+   Morais L. C. S. L., 1996, Fitoterapia, V67, P557
+   Morais LCSL, 1998, J ETHNOPHARMACOL, V62, P57, DOI 10.1016/S0378-8741(98)00044-0
+   Moravec MM, 2003, J POP CULT, V37, P144
+   PACHU CO, 1993, CIENC CULT SAUDE, V12, P14
+   Queiroz Margareth M. De Carvalho, 1991, Revista Brasileira de Zoologia, V8, P75, DOI 10.1590/S0101-81751991000100006
+   Queiroz MMC, 1999, 14 C LAT PAR AC GUER
+   Ribeiro R, 1996, PHYTOMEDICINE, V3, P249, DOI 10.1016/S0944-7113(96)80062-6
+   Serra MF, 1997, PLANTA MED, V63, P207, DOI 10.1055/s-2006-957654
+   SILBERGLIED RE, 1978, BEHAV ECOL SOCIOBIOL, V3, P203, DOI 10.1007/BF00296311
+   Sukontason KL, 2005, J MED ENTOMOL, V42, P702, DOI 10.1603/0022-2585(2005)042[0702:FROHMC]2.0.CO;2
+   Tibirica EV, 1996, PHYTOMEDICINE, V2, P235, DOI 10.1016/S0944-7113(96)80048-1
+   VALGODE MA, 1998, REV UNIG, V1, P57
+   Zumpt F., 1965, MYIASIS MAN ANIMALS
+NR 43
+TC 9
+Z9 10
+U1 0
+U2 9
+PU ENTOMOLOGICAL SOCIETY AMERICA
+PI LANHAM
+PA 10001 DEREKWOOD LANE, STE 100, LANHAM, MD 20706-4876 USA
+SN 0022-2585
+J9 J MED ENTOMOL
+JI J. Med. Entomol.
+PD MAR
+PY 2007
+VL 44
+IS 2
+BP 249
+EP 255
+PG 7
+WC Entomology; Veterinary Sciences
+SC Entomology; Veterinary Sciences
+GA 144YV
+UT WOS:000244833400012
+PM 17427693
+DA 2020-12-16
+ER
+
+PT J
+AU Maleck, M
+   Fischer, MR
+   Kammer, B
+   Zeiler, C
+   Mangel, E
+   Schenk, F
+   Pfeifer, KJ
+AF Maleck, M
+   Fischer, MR
+   Kammer, B
+   Zeiler, C
+   Mangel, E
+   Schenk, F
+   Pfeifer, KJ
+TI Do computers teach better? A media comparison study for case-based
+   teaching in radiology
+SO RADIOGRAPHICS
+LA English
+DT Article
+DE computers, educational aid; education
+ID ASSISTED-INSTRUCTION; EDUCATION; CURRICULA; MODULE; TOOL
+AB A prospective study was performed to better define the role of computers in teaching radiology to medical students. Two hundred twenty-five 3rd-year students were randomly assigned to one of four groups and exposed to 10 radiology cases as well as to a voluntary weekly radiology lecture. Group A used computer-based cases with interactive elements; group B used computer-based cases without interactive elements; group C used paper-based cases with interactive elements; and group D was not exposed to the cases and served as a control group. On a multiple-choice question test, groups A, B, and C showed significant improvement (+11.2%, +15.1%, and +13.0%, respectively), whereas group D did not (+0.6%). On an image interpretation test, group A showed the most improvement (+15.7% [P < .001]), followed by group B (+15.1% [P <. 01]) and group C (+10.2% [P < .05]); group D showed no significant improvement (+8.5%). No significant differences in the learning outcome were found between the two interactive groups (computer based and paper based). Computer-based teaching with case studies (with or without interactivity) improves students' problem-solving ability in radiology.
+C1 Univ Munich, Klinikum Innenstadt, Dept Med AG Instruct, D-80336 Munich, Germany.
+   Univ Munich, Klinikum Innenstadt, Dept Diagnost Radiol, D-80336 Munich, Germany.
+   Univ Munich, Klinikum Innenstadt, Dept Surg, D-80336 Munich, Germany.
+RP Maleck, M (corresponding author), Univ Munich, Klinikum Innenstadt, Dept Med AG Instruct, Ziemssenstr 1, D-80336 Munich, Germany.
+CR Armstrong R, 1999, J RHEUMATOL, V26, P56
+   BROWN DW, 1968, J AMER MED ASSOC, V206, P1059
+   BROWN RL, 1990, MED EDUC, V24, P438, DOI 10.1111/j.1365-2923.1990.tb02653.x
+   Calhoun PS, 1997, RADIOGRAPHICS, V17, P1277, DOI 10.1148/radiographics.17.5.9308115
+   Chew F S, 1994, Acad Radiol, V1, P326
+   CLARK RE, 1992, ACAD MED, V67, P820
+   Costaridou L, 1998, BRIT J RADIOL, V71, P167, DOI 10.1259/bjr.71.842.9579181
+   D'Alessandro DM, 1997, ACAD RADIOL, V4, P719, DOI 10.1016/S1076-6332(97)80074-8
+   DALESSANDRO MP, 1993, AM J ROENTGENOL, V161, P187, DOI 10.2214/ajr.161.1.8517300
+   DESCH LW, 1986, MED EDUC, V20, P417, DOI 10.1111/j.1365-2923.1986.tb01187.x
+   Erkonen W E, 1994, Acad Radiol, V1, P287, DOI 10.1016/S1076-6332(05)80731-7
+   Fischer M R, 1996, Z Arztl Fortbild (Jena), V90, P385
+   FRIEDMAN CP, 1994, ACAD MED, V69, P455, DOI 10.1097/00001888-199406000-00005
+   JAFFE CC, 1993, RADIOGRAPHICS, V13, P931, DOI 10.1148/radiographics.13.4.8356279
+   JELOVSEK FR, 1993, M D COMPUT, V10, P165
+   KEANE DR, 1991, ACAD MED, V66, P444, DOI 10.1097/00001888-199108000-00005
+   Kuszyk BS, 1997, AM J ROENTGENOL, V169, P631, DOI 10.2214/ajr.169.3.9275868
+   MALECK M, IN PRESS MED TEACHER
+   MAMMONE GL, 1995, RADIOGRAPHICS, V15, P1489, DOI 10.1148/radiographics.15.6.8577972
+   MANGIONE S, 1992, ACAD MED, V67, pS63, DOI 10.1097/00001888-199210000-00041
+   MENNIN SP, 1993, ACAD MED, V68, P616, DOI 10.1097/00001888-199308000-00012
+   MORIN FD, 1995, RADIOGRAPHICS, V15, P703, DOI 10.1148/radiographics.15.3.7624574
+   MURRAY TS, 1978, MED EDUC, V12, P6, DOI 10.1111/j.1365-2923.1978.tb00316.x
+   NORMAN GR, 1992, MEM COGNITION, V20, P344, DOI 10.3758/BF03210919
+   Norman GR, 1996, ACAD MED, V71, pS62, DOI 10.1097/00001888-199610000-00045
+   PATTON DD, 1971, RADIOLOGY, V100, P553, DOI 10.1148/100.3.553
+   PICKELL GC, 1986, MED EDUC, V20, P201, DOI 10.1111/j.1365-2923.1986.tb01168.x
+   Regehr G, 1996, ACAD MED, V71, P988, DOI 10.1097/00001888-199609000-00015
+   SCHMIDT HG, 1995, ACAD MED, V70, P708, DOI 10.1097/00001888-199508000-00015
+   Schmidt HG, 1996, ACAD MED, V71, P658, DOI 10.1097/00001888-199606000-00021
+   SCHMIDT HG, 1987, J MED EDUC, V62, P305
+   SINHA S, 1992, AM J ROENTGENOL, V159, P199, DOI 10.2214/ajr.159.1.1609698
+   SKINNER JB, 1983, MED EDUC, V17, P49, DOI 10.1111/j.1365-2923.1983.tb01093.x
+NR 33
+TC 66
+Z9 66
+U1 0
+U2 4
+PU RADIOLOGICAL SOC NORTH AMERICA
+PI OAK BROOK
+PA 820 JORIE BLVD, OAK BROOK, IL 60523 USA
+SN 0271-5333
+J9 RADIOGRAPHICS
+JI Radiographics
+PD JUL-AUG
+PY 2001
+VL 21
+IS 4
+BP 1025
+EP 1032
+DI 10.1148/radiographics.21.4.g01jl091025
+PG 8
+WC Radiology, Nuclear Medicine & Medical Imaging
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA 471KN
+UT WOS:000170928700027
+PM 11452078
+DA 2020-12-16
+ER
+
+PT J
+AU Fischer, MR
+   Dietrich, JW
+   Maleck, M
+   Stade, UD
+   Eitel, F
+AF Fischer, MR
+   Dietrich, JW
+   Maleck, M
+   Stade, UD
+   Eitel, F
+TI Computer-based instruction in medicine: A multicentre study in seven
+   computer resource centres in the German-speaking community
+SO GESUNDHEITSWESEN
+LA German
+DT Article
+DE medical education; CBI; CBT; evaluation; curricular integration
+ID ASSISTED-INSTRUCTION
+AB EVA, a multicentre study of seven computer resource centres (CRCs) in three German-speaking nations, was carried out over a period of six months to gather structural and process data regarding the use of computer-based instruction (CBI) applications in medicine, and to identify the factors contributing to a more successful integration of CBI into the medical curriculum.
+   618 machine-readable questionnaires from CRC users and seven questionnaires on structural data of the participating CRCs covering 51 computer stations were evaluated. For Macintosh workstations (n = 34), an additional digital log-protocol was analysed.
+   In conclusion, it seems that so far less than 10% of medical students use CBI programs in German-speaking countries. The data show the presently still poor integration of CBI into the medical curriculum.
+C1 Univ Munich, Klinikum Innenstadt, Med Klin, AG Instruct, D-80336 Munich, Germany.
+   Univ Munich, Klinikum Innenstadt, Chirurg Klin, Munich, Germany.
+RP Fischer, MR (corresponding author), Univ Munich, Klinikum Innenstadt, Med Klin, AG Instruct, Ziemssenstr 1, D-80336 Munich, Germany.
+RI Dietrich, Johannes W./C-3498-2009
+OI Dietrich, Johannes W./0000-0002-1185-3549
+CR BERAN H, 1995, HDB HOCHSCHULLEHRE
+   BERAN H, 1995, WORKSH MEGE 95
+   BERAN H, 1994, MED LERNPROGRAMME BI, P2
+   BOEHLE C, 1993, WORLD HEALTH FORUM, V14, P213
+   Clark R. E., 1985, Journal of Educational Computing Research, V1, P137, DOI 10.2190/HC3L-G6YD-BAK9-EQB5
+   CLARK RE, 1992, ACAD MED, V67, P819, DOI 10.1097/00001888-199212000-00004
+   DIETRICH JW, 1996, MEDUCS, V9, P28
+   DIETRICH JW, 1998, COMPUTER BASED TRAIN, P29
+   EYSENBACH G, 1995, INFORMATIK BIOMETRIE, V26, P56
+   FIESCHI D, 1994, PATHOL BIOL, V42, P183
+   FISCHER M, 1994, THYROIDEA FALLBASIER, P49
+   *GMC, 1993, REC UND MED ED
+   *GPEP, 1984, GPEP REP PHYS 21 CEN
+   GULICH M, 1998, MED AUSBILD, V15, P9
+   JELOVSEK FR, 1993, M D COMPUT, V10, P165
+   KREIS M, 1995, ARZTBILD ZUKUNFT ANA, P26
+   SILBERNAGEL S, 1993, MITT HV, V4, P236
+   STADE UD, 1996, MED INFORMATIK BIOME, P153
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 0
+PU GEORG THIEME VERLAG
+PI STUTTGART
+PA RUDIGERSTR 14, D-70469 STUTTGART, GERMANY
+SN 0941-3790
+J9 GESUNDHEITSWESEN
+JI Gesundheitswesen
+PD MAY
+PY 2000
+VL 62
+IS 5
+BP 289
+EP 294
+DI 10.1055/s-2000-10976
+PG 6
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 344LX
+UT WOS:000088761200006
+PM 10893877
+DA 2020-12-16
+ER
+
+EF

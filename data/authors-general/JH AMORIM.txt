@@ -1,0 +1,2935 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Andrade, MM
+   Luiz, WB
+   Souza, RDO
+   Amorim, JH
+AF Andrade, Mariana Moreira
+   Luiz, Wilson Barros
+   da Silva Oliveira Souza, Rayane
+   Amorim, Jaime Henrique
+TI The History of Methicillin-Resistant Staphylococcus aureus in Brazil
+SO CANADIAN JOURNAL OF INFECTIOUS DISEASES & MEDICAL MICROBIOLOGY
+LA English
+DT Review
+ID RIO-DE-JANEIRO; CYSTIC-FIBROSIS PATIENTS; SCCMEC TYPE-IV; BLOOD-STREAM
+   INFECTION; GRAM-POSITIVE BACTERIA; HEALTH-CARE WORKERS; RISK-FACTORS;
+   MOLECULAR CHARACTERIZATION; MULTIDRUG-RESISTANT; EPIDEMIC CLONE
+AB Since the emergence of MRSA in the 1960s, a gradual increase in infections by resistant bacteria has been observed. Clinical manifestations may vary from brand to critical condition due to host risk factors, as well as pathogen virulence and resistance. The high adaptability and pathogenic profile of MRSA clones contributed to its spread in hospital and community settings. In Brazil, the first MRSA isolates were reported in the late 1980s, and since then different genetic profiles, such as the Brazilian epidemic clone (BEC) and other clones considered a pandemic, became endemic in the Brazilian population. Additionally, Brazil's MRSA clones were shown to be able to transfer genes involved in multidrug resistance and enhanced pathogenic properties. These events contributed to the rise of highly resistant and pathogenic MRSA. In this review, we present the main events which compose the history of MRSA in Brazil, including numbers and locations of isolation, as well as types of staphylococcal cassette chromosome mec (SCCmec) found in the Brazilian territory.
+C1 [Andrade, Mariana Moreira; da Silva Oliveira Souza, Rayane; Amorim, Jaime Henrique] Univ Fed Oeste Bahia, Lab Agentes Infecciosos & Vetores, Ctr Ciencias Biol & Saude, Barreiras, BA, Brazil.
+   [Andrade, Mariana Moreira; Luiz, Wilson Barros; Amorim, Jaime Henrique] Univ Estadual Santa Cruz, Programa Pograd Biol & Biotecnol Microrganismos, Ilheus, BA, Brazil.
+RP Amorim, JH (corresponding author), Univ Fed Oeste Bahia, Lab Agentes Infecciosos & Vetores, Ctr Ciencias Biol & Saude, Barreiras, BA, Brazil.; Amorim, JH (corresponding author), Univ Estadual Santa Cruz, Programa Pograd Biol & Biotecnol Microrganismos, Ilheus, BA, Brazil.
+EM marianaandrade94@outlook.com; wbluiz@uesc.br; ray.zeppelin@gmail.com;
+   jaime.amorim@ufob.edu.br
+RI Luiz, Wilson/L-7575-2015
+OI Luiz, Wilson/0000-0003-3265-8547
+FU CoordenacAo de Aperfeicoamento de Pessoal de Nivel Superior (CAPES)CAPES
+FX The authors are thankful to CoordenacAo de Aperfeicoamento de Pessoal de
+   Nivel Superior (CAPES) for the mastering fellowship of Mariana Moreira
+   Andrade.
+CR Abad ED, 2020, J MICROBIOL IMMUNOL, V53, P724, DOI 10.1016/j.jmii.2018.12.014
+   Amaral MM, 2005, J INFECT DIS, V192, P801, DOI 10.1086/432515
+   Neto EDA, 2017, MEM I OSWALDO CRUZ, V112, P647, DOI 10.1590/0074-02760170040
+   [Anonymous], 2018, PLAN AC PREV CONTR R
+   Anvisa an de V. S., 2016, PROGRAMA NACL PREVEN
+   Armand-Lefevre L, 2005, EMERG INFECT DIS, V11, P711, DOI 10.3201/eid1105.040866
+   Assis DCM, 2014, BIOMED RES INT, V2014, P1, DOI DOI 10.1155/2014/909601
+   Barreto HM, 2014, BIOMED RES INT, V2014, DOI 10.1155/2014/305610
+   BARRETT FF, 1968, NEW ENGL J MED, V279, P441, DOI 10.1056/NEJM196808292790901
+   Bastos LR, 2019, ANTON LEEUW INT J G, V112, P961, DOI 10.1007/s10482-019-01229-z
+   Bastos MCF, 1999, EUR J CLIN MICROBIOL, V18, P393, DOI 10.1007/s100960050306
+   Becker AP, 2012, EPIDEMIOL INFECT, V140, P1372, DOI 10.1017/S095026881100210X
+   Beltrame CO, 2012, EUR J CLIN MICROBIOL, V31, P2011, DOI 10.1007/s10096-011-1534-1
+   Beretta ALRZ, 2004, BRAZ J MED BIOL RES, V37, P1345, DOI 10.1590/S0100-879X2004000900009
+   Bes TM, 2018, REV INST MED TROP SP, V60, DOI [10.1590/S1678-9946201860058, 10.1590/s1678-9946201860058]
+   Bonesso MF, 2014, BRAZ J MICROBIOL, V45, P1401, DOI 10.1590/S1517-83822014000400034
+   Bottega A, 2014, REV SOC BRAS MED TRO, V47, P589, DOI 10.1590/0037-8682-0140-2014
+   BRANCHINI MLM, 1993, DIAGN MICR INFEC DIS, V17, P275, DOI 10.1016/0732-8893(93)90036-7
+   da Silva ECBF, 2008, BRAZ J INFECT DIS, V12, P504, DOI 10.1590/S1413-86702008000600012
+   Bride LD, 2019, REV SOC BRAS MED TRO, V52, DOI 10.1590/0037-8682-0095-2019
+   Brites Carlos, 2006, Braz J Infect Dis, V10, P235, DOI 10.1590/S1413-86702006000400003
+   Brust T, 2013, BRAZ J MICROBIOL, V44, P865, DOI 10.1590/S1517-83822013000300031
+   BULGER RJ, 1967, ANN INTERN MED, V67, P81, DOI 10.7326/0003-4819-67-1-81
+   Busato César Roberto, 2006, Braz J Infect Dis, V10, P185, DOI 10.1590/S1413-86702006000300006
+   Caiaffa HH, 2013, DIAGN MICR INFEC DIS, V76, P518, DOI 10.1016/j.diagmicrobio.2013.04.024
+   Camargo CH, 2013, DIAGN MICR INFEC DIS, V76, P372, DOI 10.1016/j.diagmicrobio.2013.03.013
+   Campos GB, 2012, NEW MICROBIOL, V35, P183
+   Caraciolo FB, 2012, AN BRAS DERMATOL, V87, P857, DOI 10.1590/S0365-05962012000600006
+   Carmo MS, 2011, BRAZ J MED BIOL RES, V44, P1013, DOI 10.1590/S0100-879X2011007500114
+   Cataneo C, 2011, REV LAT-AM ENFERM, V19, P1072, DOI 10.1590/S0104-11692011000500003
+   Cavalcante FS, 2015, BRAZ J MED BIOL RES, V48, P588, DOI 10.1590/1414-431X20154221
+   Cavalcante FS, 2014, J HOSP INFECT, V86, P151, DOI 10.1016/j.jhin.2013.12.004
+   Cavalcante Fernanda S, 2014, BMC Res Notes, V7, P759, DOI 10.1186/1756-0500-7-759
+   Cavalcante FS, 2017, AM J INFECT CONTROL, V45, P1190, DOI 10.1016/j.ajic.2017.06.003
+   Cavalcante FS, 2016, J INFECT DEV COUNTR, V10, P195, DOI 10.3855/jidc.7414
+   Cavalcanti Silvana M.M., 2005, Braz J Infect Dis, V9, P56, DOI 10.1590/S1413-86702005000100010
+   Cechinel A, 2016, CAN J INFECT DIS MED, V2016, DOI 10.1155/2016/8163456
+   Chambers HF, 2009, NAT REV MICROBIOL, V7, P629, DOI 10.1038/nrmicro2200
+   Chamon RC, 2017, BRAZ J INFECT DIS, V21, P185, DOI 10.1016/j.bjid.2016.09.015
+   Coimbra MVD, 2000, J MED MICROBIOL, V49, P187, DOI 10.1099/0022-1317-49-2-187
+   Corso A, 1998, MICROB DRUG RESIST, V4, P277, DOI 10.1089/mdr.1998.4.277
+   Cursino MA, 2012, DIAGN MICR INFEC DIS, V74, P343, DOI 10.1016/j.diagmicrobio.2012.08.006
+   Cury GG, 2009, BRAZ J INFECT DIS, V13, P165, DOI 10.1590/S1413-86702009000300002
+   da Costa TM, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0160506
+   Pereira JND, 2016, BRAZ J INFECT DIS, V20, P276, DOI 10.1016/j.bjid.2016.03.003
+   da Silveira M, 2018, ANN CLIN MICROB ANTI, V17, DOI 10.1186/s12941-018-0271-z
+   Dabul ANG, 2014, EPIDEMIOL INFECT, V142, P479, DOI 10.1017/S0950268813001325
+   Damasco AP, 2019, BRAZ J INFECT DIS, V23, P139, DOI 10.1016/j.bjid.2019.03.003
+   Damasco PV, 2013, INFECTION, V41, P851, DOI 10.1007/s15010-013-0430-2
+   David MZ, 2010, CLIN MICROBIOL REV, V23, P616, DOI 10.1128/CMR.00081-09
+   Cruz EDD, 2011, REV LAT-AM ENFERM, V19, P90, DOI 10.1590/S0104-11692011000100013
+   Silva Helisângela de Almeida, 2003, Braz J Infect Dis, V7, P381, DOI 10.1590/S1413-86702003000600005
+   de Araujo Bruno Espirito Santo, 2010, Am J Emerg Med, V28, DOI 10.1016/j.ajem.2009.08.010
+   de Brito CS, 2015, REV SOC BRAS MED TRO, V48, P614, DOI 10.1590/0037-8682-0030-2015
+   de Carvalho MJ, 2009, CLINICS, V64, P295, DOI 10.1590/S1807-59322009000400005
+   de Carvalho SP, 2019, BRAZ J INFECT DIS, V23, P134, DOI 10.1016/j.bjid.2019.04.005
+   de Carvalho SP, 2017, BRAZ J INFECT DIS, V21, P464, DOI 10.1016/j.bjid.2017.04.001
+   de Matos PDM, 2010, MEM I OSWALDO CRUZ, V105, P931, DOI 10.1590/S0074-02762010000700017
+   de Melo EC, 2009, BRAZ J INFECT DIS, V13, P398, DOI 10.1590/S1413-86702009000600002
+   de Miranda OP, 2007, CLIN MICROBIOL INFEC, V13, P1165, DOI 10.1111/j.1469-0691.2007.01830.x
+   de Moura JP, 2011, REV LAT-AM ENFERM, V19, P325, DOI 10.1590/S0104-11692011000200014
+   de Oliveira BGRB, 2019, INT WOUND J, V16, P1408, DOI 10.1111/iwj.13205
+   de Oliveira CF, 2015, J INFECT DEV COUNTR, V9, P743, DOI 10.3855/jidc.5868
+   de Oliveira LM, 2015, BMC MICROBIOL, V15, DOI 10.1186/s12866-015-0598-y
+   de Sousa FC, 2010, BRAZ J MICROBIOL, V41, P316, DOI 10.1590/S1517-83822010000200009
+   de Sousa FC, 2009, REV SOC BRAS MED TRO, V42, P179, DOI 10.1590/S0037-86822009000200017
+   De Sousa MA, 2001, J CLIN MICROBIOL, V39, P2197, DOI 10.1128/JCM.39.6.2197-2205.2001
+   de Sousa MA, 1998, J CLIN MICROBIOL, V36, P2590, DOI 10.1128/JCM.36.9.2590-2596.1998
+   Oliveira DMD, 2018, INTENS CRIT CARE NUR, V49, P51, DOI 10.1016/j.iccn.2018.08.003
+   de Sousa FC, 2009, BRAZ J MED BIOL RES, V42, P877, DOI 10.1590/S0100-879X2009005000018
+   de Vasconcellos AG, 2012, JPN J INFECT DIS, V65, P7
+   Del'Alamo L, 2007, J HOSP INFECT, V65, P226, DOI 10.1016/j.jhin.2006.12.005
+   Deurenberg RH, 2008, INFECT GENET EVOL, V8, P747, DOI 10.1016/j.meegid.2008.07.007
+   DEVRIESE LA, 1972, ZENTRALB VET RIEHE B, V19, P598
+   Diekema DJ, 2019, OPEN FORUM INFECT DI, V6, pS47, DOI 10.1093/ofid/ofy270
+   dosSantos KRN, 1996, INFECT CONT HOSP EP, V17, P813
+   Dowzicky M, 2000, DIAGN MICR INFEC DIS, V37, P57, DOI 10.1016/S0732-8893(99)00154-6
+   DUARTE FC, 2018, REV INST MED TROP SP, V60, P5
+   Duarte FC, 2019, J INFECT CHEMOTHER, V25, P293, DOI 10.1016/j.jiac.2018.09.010
+   Egido Jesus M., 2003, Rev. Soc. Bras. Med. Trop., V36, P707, DOI 10.1590/S0037-86822003000600011
+   Falcao MHL, 1999, J MED MICROBIOL, V48, P515, DOI 10.1099/00222615-48-6-515
+   Pires BMFB, 2018, ADV SKIN WOUND CARE, V31, P399, DOI 10.1097/01.ASW.0000540069.99416.a6
+   Caboclo RMF, 2013, AM J INFECT CONTROL, V41, pE21, DOI 10.1016/j.ajic.2012.08.008
+   Ferreira FA, 2013, BMC MICROBIOL, V13, DOI 10.1186/1471-2180-13-93
+   Ferreira FA, 2012, J MICROBIOL METH, V88, P393, DOI 10.1016/j.mimet.2012.01.007
+   Cohen RWF, 2017, SAO PAULO MED J, V135, P420, DOI 10.1590/1516-3180.2016.0350240317
+   Fortaleza CR, 2009, REV LAT-AM ENFERM, V17, P677, DOI 10.1590/S0104-11692009000500013
+   Fortes CQ, 2008, BRAZ J INFECT DIS, V12, P541, DOI 10.1590/S1413-86702008000600020
+   Freitas FIS, 1999, LETT APPL MICROBIOL, V29, P197, DOI 10.1046/j.1365-2672.1999.00617.x
+   Gales AC, 2006, INT J ANTIMICROB AG, V27, P300, DOI 10.1016/j.ijantimicag.2005.11.008
+   Gales AC, 2009, BRAZ J INFECT DIS, V13, P90, DOI 10.1590/S1413-86702009000200004
+   Garcia CP, 2014, PEDIATR INFECT DIS J, V33, pE252, DOI 10.1097/INF.0000000000000435
+   Gauna TT, 2013, REV SOC BRAS MED TRO, V46, P426, DOI 10.1590/0037-8682-0060-2013
+   Gelatti LC, 2014, AN BRAS DERMATOL, V89, P404, DOI 10.1590/abd1806-4841.20142688
+   Gelatti LC, 2013, REV SOC BRAS MED TRO, V46, P34, DOI 10.1590/0037-868213022013
+   Gelatti LC, 2009, REV SOC BRAS MED TRO, V42, P458, DOI 10.1590/S0037-86822009000400019
+   Gomes IM, 2014, AM J INFECT CONTROL, V42, P918, DOI 10.1016/j.ajic.2014.05.009
+   Gomes RT, 2013, BRAZ J INFECT DIS, V17, P573, DOI 10.1016/j.bjid.2013.02.010
+   Neves FPG, 2019, BMC INFECT DIS, V19, DOI 10.1186/s12879-019-4104-2
+   Grothe Cibele, 2009, Nephrol Nurs J, V36, P613
+   Grothe C, 2010, REV LAT-AM ENFERM, V18, P73, DOI 10.1590/S0104-11692010000100012
+   Guilarde AO, 2007, REV ASSOC MED BRAS, V53, P34, DOI 10.1590/S0104-42302007000100016
+   Guilarde AO, 2006, J HOSP INFECT, V63, P330, DOI 10.1016/j.jhin.2006.02.011
+   Guimares MA, 2015, EUR J CLIN MICROBIOL, V34, P497, DOI 10.1007/s10096-014-2253-1
+   Helito CP, 2015, CLINICS, V70, P30, DOI 10.6061/clinics/2015(01)06
+   Huijsdens Xander W, 2006, Ann Clin Microbiol Antimicrob, V5, P26, DOI 10.1186/1476-0711-5-26
+   Ito T, 2001, ANTIMICROB AGENTS CH, V45, P1323, DOI 10.1128/AAC.45.5.1323-1336.2001
+   Ito T, 1999, ANTIMICROB AGENTS CH, V43, P1449, DOI 10.1128/AAC.43.6.1449
+   Ito T, 2009, ANTIMICROB AGENTS CH, V53, P4961, DOI 10.1128/AAC.00579-09
+   Jacoby TS, 2010, J HOSP INFECT, V75, P23, DOI 10.1016/j.jhin.2009.11.021
+   JEVONS MP, 1961, BRIT MED J, V1, P124, DOI 10.1136/bmj.1.5219.124-a
+   Johnson AP, 2005, J ANTIMICROB CHEMOTH, V56, P455, DOI 10.1093/jac/dki266
+   Korn G P, 2001, Braz J Infect Dis, V5, P1
+   Lakhundi S, 2018, CLIN MICROBIOL REV, V31, DOI [10.1128/CMR.00020-18, 10.1128/cmr.00020-18]
+   Lamaro-Cardosa J, 2007, DIAGN MICR INFEC DIS, V57, P467, DOI 10.1016/j.diagmicrobio.2006.10.008
+   Lamaro-Cardoso J, 2009, J CLIN MICROBIOL, V47, P3991, DOI 10.1128/JCM.01322-09
+   Leite GC, 2011, REV PANAM SALUD PUBL, V30, P535
+   Lima DF, 2017, MEM I OSWALDO CRUZ, V112, P79, DOI 10.1590/0074-02760160342
+   Lima DF, 2014, DIAGN MICR INFEC DIS, V78, P59, DOI 10.1016/j.diagmicrobio.2013.10.004
+   Pereira-Franchi EPL, 2017, REV SOC BRAS MED TRO, V50, P833, DOI 10.1590/0037-8682-0205-2017
+   Liu JY, 2016, MICROB PATHOGENESIS, V101, P56, DOI 10.1016/j.micpath.2016.10.028
+   Loureiro MM, 2000, MEM I OSWALDO CRUZ, V95, P777, DOI 10.1590/S0074-02762000000600005
+   Luh KT, 2000, ANTIMICROB AGENTS CH, V44, P3374, DOI 10.1128/AAC.44.12.3374-3380.2000
+   Lupinacci Felipe S, 2017, J Lab Physicians, V9, P314, DOI 10.4103/JLP.JLP_161_16
+   Machado DP, 2013, CAN J INFECT DIS MED, V24, pE75, DOI 10.1155/2013/585834
+   Almeida GCM, 2014, BMC INFECT DIS, V14, DOI 10.1186/1471-2334-14-328
+   MAPLE PAC, 1989, LANCET, V1, P537
+   Martins A, 2014, BRAZ J INFECT DIS, V18, P331, DOI 10.1016/j.bjid.2013.11.003
+   dos Santos DCM, 2015, BRAZ J MICROBIOL, V46, P531, DOI 10.1590/S1517-838246220140179
+   Marty FM, 2006, J CLIN MICROBIOL, V44, P595, DOI 10.1128/JCM.44.2.595-597.2006
+   McCulloch JA, 2015, MICROBIOL RESOUR ANN, V3, DOI 10.1128/genomeA.00893-15
+   Mebinda I., 2013, BMC RES NOTES, V27, P336, DOI [10.1186/1756-0500-6-336, DOI 10.1186/1756-0500-6-336]
+   Meka VG, 2004, J INFECT DIS, V190, P311, DOI 10.1086/421471
+   Melo MCN, 2004, J HOSP INFECT, V58, P276, DOI 10.1016/j.jhin.2004.04.023
+   Mimica MJ, 2012, REV INST MED TROP SP, V54, P305, DOI 10.1590/S0036-46652012000600002
+   Mimica MJ, 2011, CURR MICROBIOL, V62, P388, DOI 10.1007/s00284-010-9718-y
+   Moraes B A, 2000, Rev Inst Med Trop Sao Paulo, V42, P201
+   Moreira M, 1998, Rev Assoc Med Bras (1992), V44, P263
+   de Matos PDM, 2016, MICROB DRUG RESIST, V22, P700, DOI 10.1089/mdr.2015.0255
+   Nascimento-Carvalho CM, 2008, MICROB DRUG RESIST, V14, P129, DOI 10.1089/mdr.2008.0790
+   Pirett CCNS, 2012, WOUNDS, V24, P67
+   Nimmo GR, 2008, INT J ANTIMICROB AG, V31, P401, DOI 10.1016/j.ijantimicag.2007.08.011
+   Nogueras Monica, 2001, Revista do Instituto de Medicina Tropical de Sao Paulo, V43, P149, DOI 10.1590/S0036-46652001000300006
+   Novak FR, 2000, MEM I OSWALDO CRUZ, V95, P29, DOI 10.1590/S0074-02762000000100003
+   Novak FR, 2000, J MED MICROBIOL, V49, P1109, DOI 10.1099/0022-1317-49-12-1109
+   de Oliveira PMN, 2019, REV SOC BRAS MED TRO, V52, DOI 10.1590/0037-8682-0205-2019
+   Okado JB, 2016, REV SOC BRAS MED TRO, V49, P51, DOI 10.1590/0037-8682-0284-2015
+   Oliveira D., 1998, Clin Microbiol Infect, V4, P373, DOI 10.1111/j.1469-0691.1998.tb00081.x
+   Oliveira DC, 2002, LANCET INFECT DIS, V2, P180, DOI 10.1016/S1473-3099(02)00227-X
+   Oliveira DC, 2001, MICROB DRUG RESIST, V7, P349, DOI 10.1089/10766290152773365
+   Oliveira G A, 2001, Braz J Infect Dis, V5, P163, DOI 10.1590/S1413-86702001000400001
+   Oliveira Priscila Rosalba, 2016, Rev. bras. ortop., V51, P396, DOI 10.1016/j.rboe.2015.09.012
+   Pacheco RL, 2011, CLINICS, V66, P2071, DOI 10.1590/S1807-59322011001200012
+   Padoveze MC, 2001, INFECT CONT HOSP EP, V22, P783, DOI 10.1086/501864
+   Paixao VA, 2010, BRAZ J INFECT DIS, V14, P406, DOI 10.1590/S1413-86702010000400016
+   Zuma AVP, 2017, BRAZ J MICROBIOL, V48, P237, DOI 10.1016/j.bjm.2016.09.016
+   Pereira Franchi E. P. L., 2018, TROP MED INT HEALTH, V24, P339, DOI [10.1111/tmi.13192, DOI 10.1111/TMI.13192]
+   Pereira VC, 2014, ANN CLIN MICROB ANTI, V13, DOI 10.1186/s12941-014-0050-4
+   Pereira VC, 2009, CLIN MED INSIGHTS-PE, V3, P23
+   Perim MC, 2015, REV SOC BRAS MED TRO, V48, P546, DOI 10.1590/0037-8682-0146-2015
+   Rodrigues MVP, 2013, BURNS, V39, P1242, DOI 10.1016/j.burns.2013.02.006
+   Pires FV, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092537
+   Falci SPP, 2015, ACTA CIR BRAS, V30, P491, DOI [10.1590/S0102-865020150070000007, 10.1590/S0102-865020150060000005]
+   Porto JP, 2013, REV SOC BRAS MED TRO, V46, P713, DOI 10.1590/0037-8682-0199-2013
+   Rossatto FCP, 2014, REV INST MED TROP SP, V56, P469, DOI 10.1590/S0036-46652014000600002
+   Prates KA, 2010, BRAZ J INFECT DIS, V14, P316, DOI 10.1590/S1413-86702010000300021
+   Rabelo MA, 2014, REV SOC BRAS MED TRO, V47, P437, DOI [10.1590/0037-8682-, 10.1590/0037-8682-0071-2014]
+   Ramos RLB, 1999, J MED MICROBIOL, V48, P303, DOI 10.1099/00222615-48-3-303
+   Razera F, 2009, AN BRAS DERMATOL, V84, P515, DOI 10.1590/S0365-05962009000500011
+   Regina Pedrosa Soares Cynthia, 2018, BMC Res Notes, V11, P794, DOI 10.1186/s13104-018-3899-z
+   Reinato Lílian Andreia Fleck, 2015, Rev. Bras. Enferm., V68, P320, DOI 10.1590/0034-7167.2015680119i
+   Reinert C, 2008, EMERG INFECT DIS, V12, P1995, DOI DOI 10.1590/s1413-86702008000300010
+   Vendemiato AVR, 2015, BMC INFECT DIS, V15, DOI 10.1186/s12879-015-0798-y
+   Reiter KC, 2010, REV SOC BRAS MED TRO, V43, P377, DOI 10.1590/S0037-86822010000400008
+   Ribas RM, 2007, BRAZ J INFECT DIS, V11, P351, DOI 10.1590/S1413-86702007000300010
+   Ribeiro A, 2005, J CLIN MICROBIOL, V43, P1985, DOI 10.1128/JCM.43.4.1985-1988.2005
+   Ribeiro A, 2007, DIAGN MICR INFEC DIS, V59, P339, DOI 10.1016/j.diagmicrobio.2007.05.007
+   Ribeiro Julival, 2005, Braz J Infect Dis, V9, P52, DOI 10.1590/S1413-86702005000100009
+   Rocha LA, 2013, AM J INFECT CONTROL, V41, P1236, DOI 10.1016/j.ajic.2013.04.009
+   Rodrigues Mauricio M., 2012, Journal of Parasitology Research, P507874, DOI 10.1155/2012/507874
+   Perez LRR, 2008, REV I MED TROP, V50, P135, DOI 10.1590/S0036-46652008000300001
+   Perez LRR, 2012, J CLIN MICROBIOL, V50, P2506, DOI 10.1128/JCM.00549-12
+   Rodriguez-Noriega E, 2010, BRAZ J INFECT DIS, V14, pS87, DOI 10.1590/S1413-86702010000800004
+   Rodriguez-Noriega E, 2010, INT J INFECT DIS, V14, pE560, DOI 10.1016/j.ijid.2009.08.018
+   Rose WE, 2006, PHARMACOTHERAPY, V26, P1099, DOI 10.1592/phco.26.8.1099
+   Rossi F, 2014, NEW ENGL J MED, V370, P1524, DOI 10.1056/NEJMoa1303359
+   Rozenbaum R, 2006, INFECT CONT HOSP EP, V27, P1041, DOI 10.1086/507921
+   Rozenbaum R, 2009, BRAZ J MED BIOL RES, V42, P756, DOI 10.1590/S0100-879X2009005000007
+   SADER, 1994, INFECT CONT HOSP EP, V15, P508
+   SADER HS, 1993, INFECT CONT HOSP EP, V14, P260
+   Sadoyama G, 2000, Braz J Infect Dis, V4, P135
+   Sadoyama G, 2008, APMIS, V116, P953, DOI 10.1111/j.1600-0463.2008.01053.x
+   Salgueiro VC, 2019, J INFECT DEV COUNTR, V13, P810, DOI 10.3855/jidc.11241
+   Salomao R, 2008, REV PANAM SALUD PUBL, V24, P195, DOI 10.1590/S1020-49892008000900006
+   Sandri AM, 2006, INFECT CONT HOSP EP, V27, P185, DOI 10.1086/500625
+   Santoro-Lopes G, 2005, LIVER TRANSPLANT, V11, P203, DOI 10.1002/lt.20338
+   Santos HB, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-328
+   Santos KRN, 1999, J MED MICROBIOL, V48, P17, DOI 10.1099/00222615-48-1-17
+   Santos L, 1996, MEM I OSWALDO CRUZ, V91, P101, DOI 10.1590/S0074-02761996000100018
+   Schuenck RP, 2012, FEMS IMMUNOL MED MIC, V65, P501, DOI 10.1111/j.1574-695X.2012.00958.x
+   Schuenck RP, 2009, DIAGN MICR INFEC DIS, V64, P434, DOI 10.1016/j.diagmicrobio.2009.04.007
+   Scribel LV, 2009, DIAGN MICR INFEC DIS, V65, P457, DOI 10.1016/j.diagmicrobio.2009.08.012
+   Seligman R, 2013, J BRAS PNEUMOL, V39, P339, DOI 10.1590/S1806-37132013000300011
+   Senna JPM, 2003, J HOSP INFECT, V54, P167, DOI 10.1016/S0195-6701(02)00386-9
+   Senna JPM, 2003, J HOSP INFECT, V53, P156, DOI 10.1053/jhin.2002.1346
+   Silva-Carvalho MC, 2009, DIAGN MICR INFEC DIS, V65, P300, DOI 10.1016/j.diagmicrobio.2009.07.023
+   Silveira ACO, 2015, BRAZ J INFECT DIS, V19, P384, DOI 10.1016/j.bjid.2015.04.009
+   Soares JMD, 2000, J HOSP INFECT, V44, P301
+   Soares MJD, 2001, J MED MICROBIOL, V50, P732, DOI 10.1099/0022-1317-50-8-732
+   Soares MJS, 1997, J MED MICROBIOL, V46, P214, DOI 10.1099/00222615-46-3-214
+   Souza RR, 2009, CLIN MICROBIOL INFEC, V15, P204, DOI 10.1111/j.1469-0691.2008.02118.x
+   Spinardi Julia R, 2017, Germs, V7, P61, DOI 10.18683/germs.2017.1110
+   Stephens C, 2015, MICROBIOL RESOUR ANN, V3, DOI 10.1128/genomeA.00907-15
+   Teixeira LA, 1996, MICROB DRUG RESIST, V2, P393, DOI 10.1089/mdr.1996.2.393
+   TEIXEIRA LA, 1995, J CLIN MICROBIOL, V33, P2400, DOI 10.1128/JCM.33.9.2400-2404.1995
+   Teixeira MM, 2012, BRAZ J MED BIOL RES, V45, P637, DOI 10.1590/S0100-879X2012007500065
+   Teodoro CRS, 2012, MICROBIOL IMMUNOL, V56, P647, DOI 10.1111/j.1348-0421.2012.00481.x
+   Timerman A, 2013, BRAZ J INFECT DIS, V17, P647, DOI 10.1016/j.bjid.2013.03.005
+   Tortora Joao Carlos De Olivieira, 1996, Revista Latinoamericana de Microbiologia, V38, P1
+   Olivo TET, 2009, BURNS, V35, P1104, DOI 10.1016/j.burns.2009.02.008
+   Tresoldi Antonia Teresinha, 1997, Revista do Instituto de Medicina Tropical de Sao Paulo, V39, P333, DOI 10.1590/S0036-46651997000600005
+   Trindade PD, 2005, J CLIN MICROBIOL, V43, P3435, DOI 10.1128/JCM.43.7.3435-3437.2005
+   Urushibara N, 2020, J ANTIMICROB CHEMOTH, V75, P46, DOI 10.1093/jac/dkz406
+   van der Heijden IM, 2016, J MED MICROBIOL, V65, P1060, DOI 10.1099/jmm.0.000324
+   van Rijen MML, 2008, CLIN INFECT DIS, V46, P261, DOI 10.1086/524672
+   Veloso JO, 2019, APMIS, V127, P717, DOI 10.1111/apm.12989
+   Braga EDV, 2014, BMC INFECT DIS, V14, DOI 10.1186/1471-2334-14-538
+   Vidal PM, 2009, INFECT CONT HOSP EP, V30, P139, DOI 10.1086/593954
+   Vieira MA, 2014, BRAZ J INFECT DIS, V18, P42, DOI 10.1016/j.bjid.2013.04.012
+   Vieira MTC, 2016, PEDIATR INFECT DIS J, V35, P1126, DOI 10.1097/INF.0000000000001246
+   Vivoni AM, 2006, J CLIN MICROBIOL, V44, P1686, DOI 10.1128/JCM.44.5.1686-1691.2006
+   Vola ME, 2013, ARQ BRAS OFTALMOL, V76, P350, DOI 10.1590/S0004-27492013000600006
+   Witzel CD, 2014, ANN CLIN MICROB ANTI, V13, DOI 10.1186/1476-0711-13-25
+   Yamada Ogatta E. E., 1993, J HOSP INFECT, V25, P97, DOI [10.1016/0195-6701(93)90100-e, DOI 10.1016/0195-6701(93)90100-E]
+   Zanella RC, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0221525
+NR 235
+TC 0
+Z9 0
+U1 0
+U2 0
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1712-9532
+EI 1918-1493
+J9 CAN J INFECT DIS MED
+JI Can. J. Infect. Dis. Med. Microbiol.
+PD OCT 7
+PY 2020
+VL 2020
+AR 1721936
+DI 10.1155/2020/1721936
+PG 18
+WC Infectious Diseases; Microbiology
+SC Infectious Diseases; Microbiology
+GA OG9GL
+UT WOS:000582183200001
+PM 33082892
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Bernardes, SS
+   Pinto, MCX
+   Amorim, JH
+   Azevedo, VAD
+   Resende, RR
+   Mintz, A
+   Birbrair, A
+AF Bernardes, Sara Santos
+   Pinto, Mauro Cunha Xavier
+   Amorim, Jaime Henrique
+   Azevedo, Vasco Ariston de Carvalho
+   Resende, Rodrigo Ribeiro
+   Mintz, Akiva
+   Birbrair, Alexander
+TI Glioma Pericytes Promote Angiogenesis by Producing Periostin
+SO CELLULAR AND MOLECULAR NEUROBIOLOGY
+LA English
+DT Review; Early Access
+DE Pericytes; Glioma; Tumor microenvironment; Periostin
+ID HUMAN BRAIN PERICYTES; STEM-CELLS; MICROVASCULAR PERICYTES;
+   ENDOTHELIAL-CELLS; TUMOR-GROWTH; MACROPHAGES; CANCER; NICHE; LUNG;
+   REGENERATION
+AB Glioma is the prevalent aggressive primary brain tumor, with a very poor prognosis. The absence of advanced understanding of the roles played by the cells within the glioma microenvironment limits the development of effective drugs. A recent study indicates that periostin expressed by pericytes is crucial for glioma angiogenesis. Here, we describe succinctly the results and implications of this discovery in what we know about pericytes within the glioma microenvironment. The emerging knowledge from this work will benefit the development of therapies for gliomas.
+C1 [Bernardes, Sara Santos; Birbrair, Alexander] Univ Fed Minas Gerais, Dept Pathol, Tissue Microenvironm Lab, Belo Horizonte, MG, Brazil.
+   [Pinto, Mauro Cunha Xavier] Univ Fed Goias, Inst Biol Sci, Lab Neuropharmacol & Neurochem, Goiania, Go, Brazil.
+   [Amorim, Jaime Henrique] Fed Univ West Bahia, Ctr Biol Sci & Hlth, Barreiras, BA, Brazil.
+   [Azevedo, Vasco Ariston de Carvalho] Univ Fed Minas Gerais, Dept Genet Ecol & Evolut, Cellular & Mol Genet Lab, Belo Horizonte, MG, Brazil.
+   [Resende, Rodrigo Ribeiro] Univ Fed Minas Gerais, Dept Biochem & Immunol, Belo Horizonte, MG, Brazil.
+   [Mintz, Akiva; Birbrair, Alexander] Columbia Univ, Med Ctr, Dept Radiol, New York, NY 10027 USA.
+RP Birbrair, A (corresponding author), Univ Fed Minas Gerais, Dept Pathol, Tissue Microenvironm Lab, Belo Horizonte, MG, Brazil.; Birbrair, A (corresponding author), Columbia Univ, Med Ctr, Dept Radiol, New York, NY 10027 USA.
+EM birbrair@icb.ufmg.br
+RI Bernardes, Sara Santos/AAP-2640-2020; Azevedo, Vasco A/B-1556-2019;
+   Cunha Xavier Pinto, Mauro/G-1052-2010
+OI Bernardes, Sara Santos/0000-0001-6700-2447; Azevedo, Vasco
+   A/0000-0002-4775-2280; Resende, Rodrigo/0000-0002-2003-0739; Cunha
+   Xavier Pinto, Mauro/0000-0002-1680-8130
+FU Instituto Serrapilheira [Serra-1708-15285]; Pro-reitoria de
+   Pesquisa/Universidade Federal de Minas Gerais (PRPq/UFMG) [Edital
+   05/2016]; CNPQNational Council for Scientific and Technological
+   Development (CNPq) [405977/2018-2]; National Institute of Science and
+   Technology in Theranostics and Nanobiotechnology (CNPq/CAPES/FAPEMIG)
+   [465669/2014-0]; FAPEMIG [Rede Mineira de Engenharia de Tecidos e
+   Terapia Celular (REMETTEC)] [RED-00570-16]; FAPEMIG [Rede De Pesquisa Em
+   Doencas Infecciosas Humanas E Animais Do Estado De Minas Gerais)]
+   [RED-00313-16]; National Council for Scientific and Technological
+   Development (CNPq)National Council for Scientific and Technological
+   Development (CNPq); National Institute of HealthUnited States Department
+   of Health & Human ServicesNational Institutes of Health (NIH) - USA
+   [1R01CA179072-01A1]; American Cancer Society Mentored Research Scholar
+   grantAmerican Cancer Society [124443-MRSG-13-121-01-CDD]
+FX Alexander Birbrair is supported by a grant from Instituto
+   Serrapilheira/Serra-1708-15285, a grant from Pro-reitoria de
+   Pesquisa/Universidade Federal de Minas Gerais (PRPq/UFMG) (Edital
+   05/2016), a grant from CNPQ (Universal, Process No. 405977/2018-2), a
+   grant from National Institute of Science and Technology in Theranostics
+   and Nanobiotechnology (CNPq/CAPES/FAPEMIG, Process No. 465669/2014-0), a
+   grant from FAPEMIG [Rede Mineira de Engenharia de Tecidos e Terapia
+   Celular (REMETTEC, RED-00570-16)], a grant from FAPEMIG [Rede De
+   Pesquisa Em Doencas Infecciosas Humanas E Animais Do Estado De Minas
+   Gerais (RED-00313-16)], and a productivity fellowship from the National
+   Council for Scientific and Technological Development (CNPq); Akiva Mintz
+   is supported by the National Institute of Health (1R01CA179072-01A1) and
+   by the American Cancer Society Mentored Research Scholar grant
+   (124443-MRSG-13-121-01-CDD).
+CR ALLSOPP G, 1979, J ANAT, V128, P155
+   Almeida VM, 2018, NEUROSCIENTIST, V24, P440, DOI 10.1177/1073858417731522
+   Andreotti JP, 2019, SEMIN CELL DEV BIOL, V95, P42, DOI 10.1016/j.semcdb.2019.01.005
+   Andreotti JP, 2018, CELL MOL IMMUNOL, V15, P941, DOI 10.1038/s41423-018-0023-1
+   Andreotti JP, 2018, INT J DEV NEUROSCI, V67, P33, DOI 10.1016/j.ijdevneu.2018.03.002
+   Andreotti JP, 2017, CELL STEM CELL, V21, P293, DOI 10.1016/j.stem.2017.08.005
+   Armulik A, 2011, DEV CELL, V21, P193, DOI 10.1016/j.devcel.2011.07.001
+   Asada N, 2017, NAT CELL BIOL, V19, P214, DOI 10.1038/ncb3475
+   Azevedo PO, 2018, CANCER METAST REV, V37, P779, DOI 10.1007/s10555-018-9759-4
+   Azevedo PO, 2018, J CELL PHYSIOL, V233, P5523, DOI 10.1002/jcp.26348
+   Azevedo PO, 2017, NEUROSCIENCE, V363, P62, DOI 10.1016/j.neuroscience.2017.08.059
+   Balabanov R, 1999, J NEUROSCI RES, V55, P578, DOI 10.1002/(SICI)1097-4547(19990301)55:5<578::AID-JNR5>3.0.CO;2-E
+   Balabanov R, 1996, MICROVASC RES, V52, P127, DOI 10.1006/mvre.1996.0049
+   Bechmann I, 2001, EUR J NEUROSCI, V14, P1651, DOI 10.1046/j.0953-816x.2001.01793.x
+   Bell RD, 2010, NEURON, V68, P409, DOI 10.1016/j.neuron.2010.09.043
+   Birbrair A, 2017, ADV EXP MED BIOL, V1041, P1, DOI 10.1007/978-3-319-69194-7_1
+   Birbrair A, 2017, STEM CELLS DEV, V26, P1013, DOI 10.1089/scd.2017.0044
+   Birbrair A, 2017, STEM CELL TRANSL MED, V6, P471, DOI 10.5966/sctm.2016-0007
+   Birbrair A, 2016, ANN NY ACAD SCI, V1370, P82, DOI 10.1111/nyas.13016
+   Birbrair A, 2015, STEM CELL REV REP, V11, P547, DOI 10.1007/s12015-015-9588-6
+   Birbrair A, 2014, STEM CELL RES THER, V5, DOI 10.1186/scrt512
+   Birbrair A, 2014, FRONT AGING NEUROSCI, V6, DOI 10.3389/fnagi.2014.00245
+   Birbrair A, 2015, CLIN SCI, V128, P81, DOI 10.1042/CS20140278
+   Birbrair A, 2014, AM J PHYSIOL-CELL PH, V307, pC25, DOI 10.1152/ajpcell.00084.2014
+   Birbrair A, 2013, AM J PHYSIOL-CELL PH, V305, pC1098, DOI 10.1152/ajpcell.00171.2013
+   Birbrair A, 2013, STEM CELLS DEV, V22, P2298, DOI 10.1089/scd.2012.0647
+   Birbrair A, 2013, STEM CELL RES, V10, P67, DOI 10.1016/j.scr.2012.09.003
+   Birbrair A, 2013, EXP CELL RES, V319, P45, DOI 10.1016/j.yexcr.2012.09.008
+   Birbrair A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016816
+   Borges I, 2017, STEM CELL REV REP, V13, P567, DOI 10.1007/s12015-017-9747-z
+   Bouchard BA, 1997, ARTERIOSCL THROM VAS, V17, P1, DOI 10.1161/01.ATV.17.1.1
+   Buckingham ME, 2011, DEV CELL, V21, P394, DOI 10.1016/j.devcel.2011.07.019
+   Caspani EM, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0101402
+   Castejon OJ, 2011, FOLIA NEUROPATHOL, V49, P162
+   Cheng L, 2013, CELL, V153, P139, DOI 10.1016/j.cell.2013.02.021
+   Coatti GC, 2017, STEM CELL REV REP, V13, P686, DOI 10.1007/s12015-017-9752-2
+   Costa MA, 2018, J MOL CELL CARDIOL, V116, P1, DOI 10.1016/j.yjmcc.2018.01.014
+   Crisan M, 2012, J CELL MOL MED, V16, P2851, DOI 10.1111/j.1582-4934.2012.01617.x
+   de Alvarenga EC, 2018, ANN HEMATOL, V97, P1749, DOI 10.1007/s00277-018-3463-x
+   De Vleeschouwer S, 2017, GLIOBLASTOMA, P315, DOI 10.15586/codon.glioblastoma.2017.ch16
+   Prazeres PHDM, 2017, DEV BIOL, V427, P6, DOI 10.1016/j.ydbio.2017.05.001
+   Enge M, 2002, EMBO J, V21, P4307, DOI 10.1093/emboj/cdf418
+   FABRY Z, 1993, J NEUROIMMUNOL, V47, P23, DOI 10.1016/0165-5728(93)90281-3
+   Fisher M, 2009, STROKE, V40, pS13, DOI 10.1161/STROKEAHA.108.533117
+   Gerl K, 2015, KIDNEY INT, V88, P1345, DOI 10.1038/ki.2015.274
+   Goncalves WA, 2020, FRONT IMMUNOL, V10, DOI 10.3389/fimmu.2019.03120
+   Goritz C, 2011, SCIENCE, V333, P238, DOI 10.1126/science.1203165
+   Guerra DAP, 2018, ANGIOGENESIS, V21, P667, DOI 10.1007/s10456-018-9621-x
+   Guerra DAP, 2018, CYTOM PART A, V93A, P167, DOI 10.1002/cyto.a.23301
+   Guillemin GJ, 2004, J LEUKOCYTE BIOL, V75, P388, DOI 10.1189/jlb.0303114
+   HASAN M, 1990, J HIRNFORSCH, V31, P237
+   Hellstrom M, 2001, J CELL BIOL, V153, P543, DOI 10.1083/jcb.153.3.543
+   Henriques F, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-36626-3
+   Hong LZ, 2013, ONCOL LETT, V6, P1595, DOI 10.3892/ol.2013.1590
+   Huizer Karin, 2020, J Neuropathol Exp Neurol, V79, P863, DOI 10.1093/jnen/nlaa067
+   Isasi E, 2020, CURR TISSUE MICROENV, V1, P131, DOI [10.1007/s43152-020-00012-x, DOI 10.1007/S43152-020-00012-X]
+   JEYNES B, 1985, STROKE, V16, P121, DOI 10.1161/01.STR.16.1.121
+   Kamouchi M, 2011, CELL MOL NEUROBIOL, V31, P175, DOI 10.1007/s10571-010-9605-x
+   Kanashiro A, 2020, PHARMACOL RES, V151, DOI 10.1016/j.phrs.2019.104580
+   Khan JA, 2016, SCIENCE, V351, P176, DOI 10.1126/science.aad0084
+   Kikuchi Y, 2014, AM J PATHOL, V184, P859, DOI 10.1016/j.ajpath.2013.11.012
+   Kim JA, 2006, J CEREBR BLOOD F MET, V26, P209, DOI 10.1038/sj.jcbfm.9600181
+   Krex D, 2007, BRAIN, V130, P2596, DOI 10.1093/brain/awm204
+   Kudo Y, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044488
+   Leonel C, 2019, J CELL MOL MED, V23, P5949, DOI 10.1111/jcmm.14415
+   LEVEEN P, 1994, GENE DEV, V8, P1875, DOI 10.1101/gad.8.16.1875
+   Lindahl P, 1997, SCIENCE, V277, P242, DOI 10.1126/science.277.5323.242
+   Lousado L, 2017, CELL DEATH DIS, V8, DOI 10.1038/cddis.2017.456
+   Manini I, 2018, INT J MOL SCI, V19, DOI 10.3390/ijms19010147
+   Ostrom QT, 2014, NEURO-ONCOLOGY, V16, P1, DOI 10.1093/neuonc/nou223
+   Paiva AE, 2018, CANCER RES, V78, P2779, DOI 10.1158/0008-5472.CAN-17-3883
+   Paiva AE, 2017, NEOPLASIA, V19, P928, DOI 10.1016/j.neo.2017.08.007
+   Pallone TL, 2003, AM J PHYSIOL-RENAL, V284, pF253, DOI 10.1152/ajprenal.00304.2002
+   Payne LB, 2020, CURR TISSUE MICROENV, V1, P143, DOI [10.1007/s43152-020-00014-9, DOI 10.1007/S43152-020-00014-9]
+   Picoli CC, 2019, AM J PATHOL, V189, P1327, DOI 10.1016/j.ajpath.2019.03.008
+   Picoli CC, 2020, STEM CELLS TRANSL ME
+   Prazeres PHDM, 2020, J CELL MOL MED, V24, P9574, DOI 10.1111/jcmm.15381
+   Prazeres PHDM, 2018, INT J BIOCHEM CELL B, V99, P109, DOI 10.1016/j.biocel.2018.04.002
+   Prazeres PHDM, 2018, CELL MOL NEUROBIOL, V38, P777, DOI 10.1007/s10571-017-0549-2
+   Quail DF, 2013, NAT MED, V19, P1423, DOI 10.1038/nm.3394
+   Roberts LaDeidra Monet, 2020, Curr Tissue Microenviron Rep, V1, P99, DOI 10.1007/s43152-020-00010-z
+   Rouget C., 1873, ARCH PHYSL NORM PATH, V5, P603
+   Santos GSP, 2018, EYE, V32, P483, DOI 10.1038/eye.2017.220
+   Santos GSP, 2019, NEUROSCI BULL, V35, P551, DOI 10.1007/s12264-018-0296-5
+   Sena IFG, 2018, CANCER MED-US, V7, P1232, DOI 10.1002/cam4.1375
+   Sena IFG, 2017, CELL CYCLE, V16, P2018, DOI 10.1080/15384101.2017.1367072
+   Sena IFG, 2017, EXP HEMATOL, V54, P12, DOI 10.1016/j.exphem.2017.06.349
+   Silva WN, 2018, WOUND REPAIR REGEN, V26, P392, DOI 10.1111/wrr.12647
+   Silva WN, 2018, EXP DERMATOL, V27, P630, DOI 10.1111/exd.13524
+   Miranda VHS, 2020, PLOS NEGLECT TROP D, V14, DOI 10.1371/journal.pntd.0008635
+   Sims DE, 2000, CLIN EXP PHARMACOL P, V27, P842, DOI 10.1046/j.1440-1681.2000.03343.x
+   SIMS DE, 1991, CAN J CARDIOL, V7, P431
+   Snippert HJ, 2011, EMBO REP, V12, P113, DOI 10.1038/embor.2010.216
+   Soderblom C, 2013, J NEUROSCI, V33, P13882, DOI 10.1523/JNEUROSCI.2524-13.2013
+   SORIANO P, 1994, GENE DEV, V8, P1888, DOI 10.1101/gad.8.16.1888
+   Spitzer TLB, 2012, BIOL REPROD, V86, DOI 10.1095/biolreprod.111.095885
+   Stark K, 2013, NAT IMMUNOL, V14, P41, DOI 10.1038/ni.2477
+   Tanaka S, 2013, NAT REV CLIN ONCOL, V10, P14, DOI 10.1038/nrclinonc.2012.204
+   Thanabalasundaram G, 2011, INT J BIOCHEM CELL B, V43, P1284, DOI 10.1016/j.biocel.2011.05.002
+   Thomas WE, 1999, BRAIN RES REV, V31, P42, DOI 10.1016/S0165-0173(99)00024-7
+   Tu ZD, 2011, INVEST OPHTH VIS SCI, V52, P9005, DOI 10.1167/iovs.11-8008
+   Utispan K, 2010, MOL CANCER, V9, DOI 10.1186/1476-4598-9-13
+   Valdor R, 2017, ONCOTARGET, V8, P68614, DOI 10.18632/oncotarget.19804
+   Valle IB, 2020, HEAD NECK PATHOL, DOI 10.1007/s12105-020-01188-2
+   Vannucci L, 2015, CANCER MICROENVIRON, V8, P159, DOI 10.1007/s12307-014-0150-x
+   VERBEEK MM, 1995, J IMMUNOL, V154, P5876
+   Magno LAV, 2019, J NEUROSCI, V39, P3234, DOI 10.1523/JNEUROSCI.2277-18.2019
+   Weller M, 2015, NAT REV DIS PRIMERS, V1, DOI 10.1038/nrdp.2015.17
+   Winkler EA, 2014, BRAIN PATHOL, V24, P371, DOI 10.1111/bpa.12152
+   Zhou WC, 2017, CELL STEM CELL, V21, P591, DOI 10.1016/j.stem.2017.10.002
+   Zhou WC, 2015, NAT CELL BIOL, V17, P170, DOI 10.1038/ncb3090
+   Zhu M, 2011, MOL CANCER THER, V10, P1500, DOI 10.1158/1535-7163.MCT-11-0046
+   Zimmermann KW, 1923, Z ANAT ENTWICKLUNGS, V68, P29, DOI [10.1007/BF02593544, DOI 10.1007/BF02593544]
+NR 113
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0272-4340
+EI 1573-6830
+J9 CELL MOL NEUROBIOL
+JI Cell. Mol. Neurobiol.
+DI 10.1007/s10571-020-00975-3
+EA OCT 2020
+PG 8
+WC Cell Biology; Neurosciences
+SC Cell Biology; Neurosciences & Neurology
+GA NW1OB
+UT WOS:000574780300001
+PM 33010018
+DA 2020-12-01
+ER
+
+PT J
+AU Pinheiro-Michelsen, JR
+   Souza, RDO
+   Santana, IVR
+   da Silva, PD
+   Mendez, EC
+   Luiz, WB
+   Amorim, JH
+AF Pinheiro-Michelsen, Josilene Ramos
+   Oliveira Souza, Rayane da Silva
+   Rocha Santana, Itana Vivian
+   da Silva, Patricia de Souza
+   Mendez, Erick Carvalho
+   Luiz, Wilson Barros
+   Amorim, Jaime Henrique
+TI Anti-dengue Vaccines: From Development to Clinical Trials
+SO FRONTIERS IN IMMUNOLOGY
+LA English
+DT Review
+DE dengue; vaccine development; pre-clinical tests; clinical trials;
+   countries
+ID FLAVIVIRUS-NAIVE ADULTS; DOG KIDNEY-CELLS; PHASE-I TRIAL; YELLOW-FEVER;
+   VIRUS-VACCINE; PROTECTIVE EFFICACY; HEALTHY-CHILDREN; DNA VACCINE;
+   STRAIN 16681; CYD-TDV
+AB Dengue Virus(DENV) is an arbovirus (arthropod-borne virus). Four serotypes of DENV are responsible for the infectious disease called dengue that annually affects nearly 400 million people worldwide. Although there is only one vaccine formulation licensed for use in humans, there are other vaccine formulations under development that apply different strategies. In this review, we present information about anti-dengue vaccine formulations regarding development, pre-clinical tests, and clinical trials. The improvement in vaccine development against dengue is much needed, but it should be considered that the correlate of protection is still uncertain. Neutralizing antibodies have been proposed as a correlate of protection, but this ignores the key role of T-cell mediated immunity in controlling DENV infection. It is important to confirm the accurate correlate of protection against DENV infection, and also to have other anti-dengue vaccine formulations licensed for use.
+C1 [Pinheiro-Michelsen, Josilene Ramos; Oliveira Souza, Rayane da Silva; Rocha Santana, Itana Vivian; da Silva, Patricia de Souza; Amorim, Jaime Henrique] Univ Fed Oeste Bahia, Lab Agentes Infecciosos & Vetores, Ctr Ciencias Biol & Saude, Barreiras, Brazil.
+   [Pinheiro-Michelsen, Josilene Ramos; da Silva, Patricia de Souza; Mendez, Erick Carvalho; Luiz, Wilson Barros; Amorim, Jaime Henrique] Univ Estadual Santa Cruz, Programa Posgrad Biol & Biotecnol Microrganismos, Barreiras, Brazil.
+RP Amorim, JH (corresponding author), Univ Fed Oeste Bahia, Lab Agentes Infecciosos & Vetores, Ctr Ciencias Biol & Saude, Barreiras, Brazil.; Amorim, JH (corresponding author), Univ Estadual Santa Cruz, Programa Posgrad Biol & Biotecnol Microrganismos, Barreiras, Brazil.
+EM jaime.amorim@ufob.edu.br
+RI Luiz, Wilson/L-7575-2015
+OI Luiz, Wilson/0000-0003-3265-8547; Mendez, Erick
+   Carvalho/0000-0002-8546-4204
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq); Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior
+   (CAPES)CAPES
+FX We are thankful to Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (CNPq) for providing undergraduate research fellowship to
+   IS. We are also grateful to Coordenacao de Aperfeicoamento de Pessoal de
+   Nivel Superior (CAPES) for providing graduate fellowship to JP-M.
+CR Arredondo-Garcia JL, 2018, CLIN MICROBIOL INFEC, V24, P755, DOI 10.1016/j.cmi.2018.01.018
+   Bauer K, 2015, AM J TROP MED HYG, V93, P441, DOI 10.4269/ajtmh.14-0625
+   Beltramello M, 2010, CELL HOST MICROBE, V8, P271, DOI 10.1016/j.chom.2010.08.007
+   BHAMARAPRAVATI N, 1987, B WORLD HEALTH ORGAN, V65, P189
+   Bhamarapravati N, 2000, VACCINE, V18, P44, DOI 10.1016/S0264-410X(00)00040-2
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Biswal S, 2019, NEW ENGL J MED, V381, P2009, DOI 10.1056/NEJMoa1903869
+   Blair PJ, 2006, VACCINE, V24, P1427, DOI 10.1016/j.vaccine.2005.09.032
+   Blaney JE, 2006, VIRAL IMMUNOL, V19, P10, DOI 10.1089/vim.2006.19.10
+   Blaney JE, 2004, AM J TROP MED HYG, V71, P811, DOI 10.4269/ajtmh.2004.71.811
+   Blaney JE, 2004, BMC INFECT DIS, V4, DOI 10.1186/1471-2334-4-39
+   Blaney JE, 2008, VACCINE, V26, P817, DOI 10.1016/j.vaccine.2007.11.082
+   Borges MB, 2019, PLOS PATHOG, V15, DOI 10.1371/journal.ppat.1007721
+   Brandler S, 2005, AM J TROP MED HYG, V72, P74, DOI 10.4269/ajtmh.2005.72.74
+   BRAY M, 1991, P NATL ACAD SCI USA, V88, P10342, DOI 10.1073/pnas.88.22.10342
+   Brewoo JN, 2012, VACCINE, V30, P1513, DOI 10.1016/j.vaccine.2011.11.072
+   Butrapet S, 2000, J VIROL, V74, P3011, DOI 10.1128/JVI.74.7.3011-3019.2000
+   Butrapet S, 2000, VECTOR-BORNE ZOONOT, V11, P683, DOI [10.1089/vbz.2010.0150, DOI 10.1089/VBZ.2010.0150]
+   Byers Anthony M, 2015, Open Forum Infect Dis, V2, pofv172, DOI 10.1093/ofid/ofv172
+   Capeding MR, 2014, LANCET, V384, P1358, DOI 10.1016/S0140-6736(14)61060-6
+   Capeding RZ, 2011, VACCINE, V29, P3863, DOI 10.1016/j.vaccine.2011.03.057
+   Chambers TJ, 1999, J VIROL, V73, P3095, DOI 10.1128/JVI.73.4.3095-3101.1999
+   Clements DE, 2010, VACCINE, V28, P2705, DOI 10.1016/j.vaccine.2010.01.022
+   Coudeville L, 2016, VACCINE, V34, P6426, DOI 10.1016/j.vaccine.2016.08.050
+   Coudeville L, 2016, VACCINE, V34, P6417, DOI 10.1016/j.vaccine.2015.11.023
+   Crill WD, 2001, J VIROL, V75, P7769, DOI 10.1128/JVI.75.16.7769-7773.2001
+   Danko JR, 2018, AM J TROP MED HYG, V98, P849, DOI 10.4269/ajtmh.17-0416
+   Dayan GH, 2014, HUM VACC IMMUNOTHER, V10, P2853, DOI 10.4161/21645515.2014.972131
+   Dayan GH, 2013, AM J TROP MED HYG, V89, P1058, DOI 10.4269/ajtmh.13-0304
+   Diaz C, 2018, AM J TROP MED HYG, V98, P1435, DOI 10.4269/ajtmh.17-0627
+   Didierlaurent AM, 2017, EXPERT REV VACCINES, V16, P55, DOI 10.1080/14760584.2016.1213632
+   Dubey AP, 2016, HUM VACC IMMUNOTHER, V12, P512, DOI 10.1080/21645515.2015.1076598
+   Durbin AP, 2006, HUM VACCINES, V2, P167, DOI 10.4161/hv.2.4.2944
+   Durbin AP, 2006, HUM VACCINES, V2, P255, DOI 10.4161/hv.2.6.3494
+   Durbin Anna P, 2016, J Infect Dis, V214, P832, DOI 10.1093/infdis/jiw067
+   Durbin AP, 2013, J INFECT DIS, V207, P957, DOI 10.1093/infdis/jis936
+   Durbin AP, 2011, VACCINE, V29, P7242, DOI 10.1016/j.vaccine.2011.07.023
+   Durbin AP, 2011, J INFECT DIS, V203, P327, DOI 10.1093/infdis/jiq059
+   Durbin AP, 2005, J INFECT DIS, V191, P710, DOI 10.1086/427780
+   Durbin AP, 2001, AM J TROP MED HYG, V65, P405, DOI 10.4269/ajtmh.2001.65.405
+   ECKELS KH, 1976, INFECT IMMUN, V14, P1221, DOI 10.1128/IAI.14.5.1221-1227.1976
+   Eckels KH, 2003, AM J TROP MED HYG, V69, P12, DOI 10.4269/ajtmh.2003.69.12
+   Edelman R, 2003, AM J TROP MED HYG, V69, P48, DOI 10.4269/ajtmh.2003.69.48
+   Fernandez S, 2015, AM J TROP MED HYG, V92, P698, DOI 10.4269/ajtmh.14-0268
+   Franco LD, 2019, FRONT IMMUNOL, V10, DOI 10.3389/fimmu.2019.02260
+   Gailhardou S, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004821
+   Garcon N, 2011, EXPERT REV VACCINES, V10, P471, DOI [10.1586/erv.11.29, 10.1586/ERV.11.29]
+   George SL, 2015, J INFECT DIS, V212, P1032, DOI 10.1093/infdis/jiv179
+   Godoi IP, 2017, J COMP EFFECT RES, V6, P165, DOI 10.2217/cer-2016-0045
+   Govindarajan D, 2015, VACCINE, V33, P4105, DOI 10.1016/j.vaccine.2015.06.067
+   GRUENBERG A, 1988, J GEN VIROL, V69, P1391, DOI 10.1099/0022-1317-69-6-1391
+   Gubler DJ, 2004, COMP IMMUNOL MICROB, V27, P319, DOI 10.1016/j.cimid.2004.03.013
+   Guirakhoo F, 2000, J VIROL, V74, P5477, DOI 10.1128/JVI.74.12.5477-5485.2000
+   Guirakhoo F, 2004, J VIROL, V78, P4761, DOI 10.1128/JVI.78.9.4761-4775.2004
+   Guirakhoo F, 2001, J VIROL, V75, P7290, DOI 10.1128/JVI.75.16.7290-7304.2001
+   Guirakhoo F, 2006, HUM VACCINES, V2, P60, DOI 10.4161/hv.2.2.2555
+   Guy B, 2008, VACCINE, V26, P5712, DOI 10.1016/j.vaccine.2008.08.019
+   Guy B, 2017, EXPERT REV VACCINES, V16, P671, DOI 10.1080/14760584.2017.1335201
+   Guy B, 2016, NAT REV MICROBIOL, V14, P45, DOI 10.1038/nrmicro.2015.2
+   Guzman MG, 2015, LANCET, V385, P453, DOI 10.1016/S0140-6736(14)60572-9
+   Hadinegoro SR, 2015, NEW ENGL J MED, V373, P1195, DOI 10.1056/NEJMoa1506223
+   HAHN YS, 1988, VIROLOGY, V162, P167, DOI 10.1016/0042-6822(88)90406-0
+   Halstead SB, 2003, AM J TROP MED HYG, V69, P5
+   HALSTEAD SB, 1979, J INFECT DIS, V140, P527, DOI 10.1093/infdis/140.4.527
+   Halstead SB, 2017, LANCET INFECT DIS, V17, pE378, DOI 10.1016/S1473-3099(17)30362-6
+   Harenberg A, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004830
+   Harenberg A, 2013, HUM VACC IMMUNOTHER, V9, P2317, DOI 10.4161/hv.25562
+   Henein S, 2017, J INFECT DIS, V215, P351, DOI 10.1093/infdis/jiw576
+   Higgs S, 2006, AM J TROP MED HYG, V75, P986, DOI 10.4269/ajtmh.2006.75.986
+   Hss AS, 2013, VACCINE, V31, P5814, DOI 10.1016/j.vaccine.2013.10.013
+   Huang CYH, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002243
+   Huang CYH, 2003, J VIROL, V77, P11436, DOI 10.1128/JVI.77.21.11436-11447.2003
+   Huang CYH, 2000, J VIROL, V74, P3020, DOI 10.1128/JVI.74.7.3020-3028.2000
+   Jackson LA, 2018, VACCINE, V36, P3976, DOI 10.1016/j.vaccine.2018.05.028
+   Katzelnick LC, 2016, J IMMIGR MINOR HEALT, V349, P1338, DOI [10.1126/science.aac5017, DOI 10.1126/SCIENCE.AAC5017]
+   Kinney RM, 1997, VIROLOGY, V230, P300, DOI 10.1006/viro.1997.8500
+   Kirkpatrick BD, 2016, SCI TRANSL MED, V8, DOI 10.1126/scitranslmed.aaf1517
+   Kirkpatrick BD, 2015, J INFECT DIS, V212, P702, DOI 10.1093/infdis/jiv082
+   Kirstein J, 2018, BMC INFECT DIS, V18, DOI 10.1186/s12879-018-3389-x
+   Kitchener S, 2006, VACCINE, V24, P1238, DOI 10.1016/j.vaccine.2005.09.029
+   Kochel T, 1997, VACCINE, V15, P547, DOI 10.1016/S0264-410X(97)00215-6
+   L'Azou M, 2016, NEW ENGL J MED, V374, P1155, DOI 10.1056/NEJMoa1503877
+   Lai CY, 2008, J VIROL, V82, P6631, DOI 10.1128/JVI.00316-08
+   Lanata CF, 2012, VACCINE, V30, P5935, DOI 10.1016/j.vaccine.2012.07.043
+   Larsen CP, 2015, VACCINE, V33, P7075, DOI 10.1016/j.vaccine.2015.09.052
+   Leo YS, 2012, HUM VACC IMMUNOTHER, V8, P1259, DOI 10.4161/hv.21224
+   Lindenbach BD, 2007, FIELDS VIROLOGY, P1101, DOI DOI 10.1016/0038-092X(88)90131-4
+   Lindow JC, 2013, VACCINE, V31, P3347, DOI 10.1016/j.vaccine.2013.05.075
+   Lok SM, 2008, NAT STRUCT MOL BIOL, V15, P312, DOI 10.1038/nsmb.1382
+   Lopez P, 2016, PEDIATR INFECT DIS J, V35, P1140, DOI 10.1097/INF.0000000000001250
+   Lu Y, 2003, VACCINE, V21, P2178, DOI 10.1016/S0264-410X(03)00009-4
+   Manoff SB, 2019, HUM VACC IMMUNOTHER, V15, P2195, DOI 10.1080/21645515.2018.1546523
+   Manoff SB, 2015, VACCINE, V33, P7126, DOI 10.1016/j.vaccine.2015.09.101
+   Martinez LJ, 2015, AM J TROP MED HYG, V93, P454, DOI 10.4269/ajtmh.14-0819
+   Men RH, 1996, J VIROL, V70, P3930, DOI 10.1128/JVI.70.6.3930-3937.1996
+   Mendoza-Montero J, 1998, CLIN INFECT DIS, V27, P434, DOI 10.1086/514684
+   Morrison D, 2010, J INFECT DIS, V201, P370, DOI 10.1086/649916
+   Nealon J, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004918
+   Oliphant T, 2006, J VIROL, V80, P12149, DOI 10.1128/JVI.01732-06
+   Olivera-Botello G, 2016, J INFECT DIS, V214, P994, DOI 10.1093/infdis/jiw297
+   Osatomi K, 1988, Virus Genes, V2, P99, DOI 10.1007/BF00569739
+   Osorio JE, 2016, EXPERT REV VACCINES, V15, P497, DOI 10.1586/14760584.2016.1128328
+   Osorio JE, 2014, LANCET INFECT DIS, V14, P830, DOI 10.1016/S1473-3099(14)70811-4
+   Osorio JE, 2011, AM J TROP MED HYG, V84, P978, DOI 10.4269/ajtmh.2011.10-0592
+   Plennevaux E, 2018, CLIN INFECT DIS, V66, P1164, DOI 10.1093/cid/cix966
+   Plennevaux E, 2016, VACCINE, V34, P2707, DOI 10.1016/j.vaccine.2016.04.028
+   Poo J, 2011, PEDIATR INFECT DIS J, V30, pE9, DOI 10.1097/INF.0b013e3181fe05af
+   Popper SJ, 2018, J INFECT DIS, V218, P1911, DOI 10.1093/infdis/jiy434
+   Porter KR, 2012, VACCINE, V30, P336, DOI 10.1016/j.vaccine.2011.10.085
+   Porter KR, 1998, ARCH VIROL, V143, P997, DOI 10.1007/s007050050348
+   Putnak JR, 2005, VACCINE, V23, P4442, DOI 10.1016/j.vaccine.2005.03.042
+   Putnak R, 1996, J INFECT DIS, V174, P1176, DOI 10.1093/infdis/174.6.1176
+   Qiao M, 2011, AM J TROP MED HYG, V85, P724, DOI 10.4269/ajtmh.2011.10-0436
+   Rabaa MA, 2017, ELIFE, V6, DOI [10.7554/eLife.24196, 10.7554/elife.24196]
+   Raviprakash K, 2000, VACCINE, V18, P2426, DOI 10.1016/S0264-410X(99)00570-8
+   Raviprakash K, 2006, VIROLOGY, V353, P166, DOI 10.1016/j.virol.2006.05.005
+   Raviprakash K, 2012, HUM VACC IMMUNOTHER, V8, P1764, DOI 10.4161/hv.21806
+   Melo FIR, 2017, PEDIATR INFECT DIS J, V36, P602, DOI 10.1097/INF.0000000000001542
+   Rupp R, 2015, VACCINE, V33, P6351, DOI 10.1016/j.vaccine.2015.09.008
+   Sabchareon A, 2012, LANCET, V380, P1559, DOI 10.1016/S0140-6736(12)61428-7
+   Saez-Llorens X, 2018, LANCET INFECT DIS, V18, P162, DOI 10.1016/S1473-3099(17)30632-1
+   Saez-Llorens X, 2017, LANCET INFECT DIS, V17, P615, DOI 10.1016/S1473-3099(17)30166-4
+   Schmidt AC, 2017, AM J TROP MED HYG, V96, P1325, DOI 10.4269/ajtmh.16-0634
+   Simasathien S, 2008, AM J TROP MED HYG, V78, P426, DOI 10.4269/ajtmh.2008.78.426
+   Simmons M, 2010, VIROLOGY, V396, P280, DOI 10.1016/j.virol.2009.10.023
+   Sridhar S, 2018, NEW ENGL J MED, V379, P327, DOI 10.1056/NEJMoa1800820
+   Sun W, 2003, AM J TROP MED HYG, V69, P24
+   Sun W, 2009, HUM VACCINES, V5, P33, DOI 10.4161/hv.5.1.6348
+   Swanstrom JA, 2018, J INFECT DIS, V217, P1932, DOI 10.1093/infdis/jiy063
+   Thomas SJ, 2013, AM J TROP MED HYG, V88, P73, DOI 10.4269/ajtmh.2012.12-0361
+   Torresi J, 2017, J INFECT DIS, V216, P834, DOI 10.1093/infdis/jix314
+   Torresi J, 2015, VACCINE, V33, P5127, DOI 10.1016/j.vaccine.2015.08.008
+   Tran NH, 2012, J VACCINES VACCIN, V3, P7, DOI [10.4172/2157-7560.1000162, DOI 10.4172/2157-7560.1000162]
+   Troyer JM, 2001, AM J TROP MED HYG, V65, P414, DOI 10.4269/ajtmh.2001.65.414
+   Vaughn DW, 1996, VACCINE, V14, P329, DOI 10.1016/0264-410X(95)00167-Y
+   Vigne C, 2017, HUM VACC IMMUNOTHER, V13, P2004, DOI 10.1080/21645515.2017.1333211
+   Villar L, 2015, NEW ENGL J MED, V372, P113, DOI 10.1056/NEJMoa1411037
+   Villar LA, 2013, PEDIATR INFECT DIS J, V32, P1102, DOI 10.1097/INF.0b013e31829b8022
+   Watanaveeradej V, 2014, AM J TROP MED HYG, V91, P119, DOI 10.4269/ajtmh.13-0452
+   Watanaveeradej V, 2011, AM J TROP MED HYG, V85, P341, DOI 10.4269/ajtmh.2011.10-0501
+   Weiskopf D, 2015, J VIROL, V89, P120, DOI 10.1128/JVI.02129-14
+   Whitehead SS, 2003, VACCINE, V21, P4307, DOI 10.1016/S0264-410X(03)00488-2
+   Whitehead SS, 2003, J VIROL, V77, P1653, DOI 10.1128/JVI.77.2.1653-1657.2003
+   Whitehead SS, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005584
+   Wilder-Smith A, 2019, LANCET INFECT DIS, V19, pE31, DOI 10.1016/S1473-3099(18)30494-8
+   ZHAO B, 1986, VIROLOGY, V155, P77, DOI 10.1016/0042-6822(86)90169-8
+NR 146
+TC 1
+Z9 1
+U1 0
+U2 0
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-3224
+J9 FRONT IMMUNOL
+JI Front. Immunol.
+PD JUN 18
+PY 2020
+VL 11
+AR 1252
+DI 10.3389/fimmu.2020.01252
+PG 18
+WC Immunology
+SC Immunology
+GA MH7YV
+UT WOS:000546940500001
+PM 32655561
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Andreata-Santos, R
+   Alves, RPD
+   Pereira, SA
+   Pereira, LR
+   de Freitas, CL
+   Pereira, SS
+   Venceslau-Carvalho, AA
+   Castro-Amarante, MF
+   Favaro, MTP
+   Mathias-Santos, C
+   Amorim, JH
+   Ferreira, LCD
+AF Andreata-Santos, Robert
+   dos Santos Alves, Rubens Prince
+   Pereira, Sara Araujo
+   Pereira, Lennon Ramos
+   de Freitas, Carla Longo
+   Pereira, Samuel Santos
+   Venceslau-Carvalho, Alexia Adrianne
+   Castro-Amarante, Maria Fernanda
+   Pinho Favaro, Marianna Teixeira
+   Mathias-Santos, Camila
+   Amorim, Jaime Henrique
+   de Souza Ferreira, Luis Carlos
+TI Transcutaneous Administration of Dengue Vaccines
+SO VIRUSES-BASEL
+LA English
+DT Article
+DE transcutaneous immunization; dengue vaccines; heat-labile toxin;
+   adjuvant; intradermic immunization
+ID HEAT-LABILE TOXIN; HUMAN MONOCLONAL-ANTIBODIES; T-CELLS; MICRONEEDLE
+   ARRAYS; PROTECTIVE ROLE; DENDRITIC CELL; VIRUS; IMMUNIZATION; DELIVERY;
+   RESPONSES
+AB In the present study, we evaluated the immunological responses induced by dengue vaccines under experimental conditions after delivery via a transcutaneous (TC) route. Vaccines against type 2 Dengue virus particles (DENV2 New Guinea C (NGC) strain) combined with enterotoxigenic Escherichia coli (ETEC) heat-labile toxin (LT) were administered to BALB/c mice in a three-dose immunization regimen via the TC route. As a control for the parenteral administration route, other mouse groups were immunized with the same vaccine formulation via the intradermic (ID) route. Our results showed that mice vaccinated either via the TC or ID routes developed similar protective immunity, as measured after lethal challenges with the DENV2 NGC strain. Notably, the vaccine delivered through the TC route induced lower serum antibody (IgG) responses with regard to ID-immunized mice, particularly after the third dose. The protective immunity elicited in TC-immunized mice was attributed to different antigen-specific antibody properties, such as epitope specificity and IgG subclass responses, and cellular immune responses, as determined by cytokine secretion profiles. Altogether, the results of the present study demonstrate the immunogenicity and protective properties of a dengue vaccine delivered through the TC route and offer perspectives for future clinical applications.
+C1 [Andreata-Santos, Robert; dos Santos Alves, Rubens Prince; Pereira, Sara Araujo; Pereira, Lennon Ramos; de Freitas, Carla Longo; Pereira, Samuel Santos; Venceslau-Carvalho, Alexia Adrianne; Castro-Amarante, Maria Fernanda; Pinho Favaro, Marianna Teixeira; Mathias-Santos, Camila; de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Inst Biomed Sci, Microbiol Dept, Vaccine Dev Lab, BR-05508000 Sao Paulo, Brazil.
+   [Amorim, Jaime Henrique] Fed Univ Western Bahia, Ctr Biol & Hlth Sci, BR-47810047 Barreiras, BA, Brazil.
+RP Ferreira, LCD (corresponding author), Univ Sao Paulo, Inst Biomed Sci, Microbiol Dept, Vaccine Dev Lab, BR-05508000 Sao Paulo, Brazil.
+EM robert_andreata@hotmail.com; rubens.bmc@gmail.com;
+   araujopereirasara@gmail.com; lennon_rp@hotmail.com;
+   carla.longofreitas@gmail.com; samuelbiomedicina@usp.br;
+   alexia_myt@hotmail.com; mfamarante@gmail.com; favaro.mtp@gmail.com;
+   camilamathias@gmail.com; jaime.henrique.amorim@gmail.com; lcsf@usp.br
+RI ; Ferreira, Luis/M-3954-2014
+OI Andreata-Santos, Robert/0000-0002-4506-3756; Castro Amarante, Maria
+   Fernanda/0000-0003-2162-9505; Ferreira, Luis/0000-0002-4883-1693
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP)/GlaxoSmithKline (GSK) [12/50362-3]; FAPESPFundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP) [2016/23560-0, 2014/17595-0,
+   2015/02352-7, 2016/05570-8, 2016/20045-7]; Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq)National Council for
+   Scientific and Technological Development (CNPq) [440409/16-0
+   88881.130787/2016-01 (88887.137920/2017-00)]; Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior (CAPES)CAPES
+   [8888130782/2016-00, 33002010026P9 (88887.473724/2020-00)]
+FX This research was funded by Fundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo (FAPESP)/GlaxoSmithKline (GSK), grant number 12/50362-3;
+   FAPESP, grant numbers 2016/23560-0 (R.A.-S.), 2014/17595-0, 2015/02352-7
+   (R.P.S.A.), 2016/05570-8 (L.R.P.), 2016/20045-7; Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq), grant numbers
+   440409/16-0 88881.130787/2016-01 (88887.137920/2017-00) (R.A.-S.),
+   Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES),
+   grant number 8888130782/2016-00 (S.S.P.), 33002010026P9
+   (88887.473724/2020-00) (A.A.V.-C).
+CR Amorim JH, 2016, VIROLOGY, V487, P41, DOI 10.1016/j.virol.2015.10.006
+   Amorim JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044984
+   Andreata-Santos R., 2020, NO OTHER ADVERSE REA
+   Andreata-Santos R., 2020, FLOW CYTOMETRY ASSAY
+   Bal SM, 2010, J CONTROL RELEASE, V148, P266, DOI 10.1016/j.jconrel.2010.09.018
+   Basu A, 2008, FEMS IMMUNOL MED MIC, V53, P287, DOI 10.1111/j.1574-695X.2008.00420.x
+   Belyakov IM, 2011, CURR MED CHEM, V18, P3953, DOI 10.2174/092986711796957293
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Boaz MJ, 2002, J IMMUNOL, V169, P6376, DOI 10.4049/jimmunol.169.11.6376
+   Cheng JY, 2009, J CONTROL RELEASE, V135, P242, DOI 10.1016/j.jconrel.2009.01.014
+   Clark RA, 2010, J INVEST DERMATOL, V130, P362, DOI 10.1038/jid.2009.247
+   Combadiere B, 2011, HUM VACCINES, V7, P811, DOI 10.4161/hv.7.8.16274
+   Combadiere B, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010818
+   Constenla D, 2015, PHARMACOECONOMICS, V33, P1107, DOI 10.1007/s40273-015-0294-7
+   Costa SM, 2006, VACCINE, V24, P195, DOI 10.1016/j.vaccine.2005.07.059
+   Costin JM, 2013, J VIROL, V87, P52, DOI 10.1128/JVI.02273-12
+   Ding Z, 2009, J CONTROL RELEASE, V136, P71, DOI 10.1016/j.jconrel.2009.01.025
+   Alves RPD, 2016, CLIN VACCINE IMMUNOL, V23, P460, DOI 10.1128/CVI.00081-16
+   El-Ghorr AA, 2000, FEMS IMMUNOL MED MIC, V29, P255, DOI 10.1016/S0928-8244(00)00214-5
+   Frolov VG, 2008, INFLUENZA OTHER RESP, V2, P53, DOI 10.1111/j.1750-2659.2008.00040.x
+   Giudice EL, 2006, ADV DRUG DELIVER REV, V58, P68, DOI 10.1016/j.addr.2005.12.003
+   Glenn GM, 1998, J IMMUNOL, V161, P3211
+   Glenn GM, 2000, NAT MED, V6, P1403, DOI 10.1038/82225
+   Guo L, 2013, BIOMED MICRODEVICES, V15, P1077, DOI 10.1007/s10544-013-9799-z
+   Hatch S, 2011, J INFECT DIS, V203, P1282, DOI 10.1093/infdis/jir012
+   Henriques HR, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002330
+   Hirschberg H, 2012, EUR J PHARM SCI, V46, P1, DOI 10.1016/j.ejps.2012.01.013
+   Johnson AJ, 1999, J VIROL, V73, P783, DOI 10.1128/JVI.73.1.783-786.1999
+   Lasaro MA, 2008, J BACTERIOL, V190, P2400, DOI 10.1128/JB.00988-07
+   Lasaro MA, 2009, FEMS IMMUNOL MED MIC, V55, P93, DOI 10.1111/j.1574-695X.2008.00506.x
+   Lee MY, 2013, BMB REP, V46, P17, DOI 10.5483/BMBRep.2013.46.1.001
+   Libraty DH, 2002, J INFECT DIS, V185, P1213, DOI 10.1086/340365
+   Lindow JC, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001742
+   Liu T, 2001, J VIROL, V75, P11178, DOI 10.1128/JVI.75.22.11178-11184.2001
+   Martins MA, 2008, VACCINE, V26, P1173, DOI 10.1016/j.vaccine.2007.12.035
+   Matsuo K, 2012, J CONTROL RELEASE, V161, P10, DOI 10.1016/j.jconrel.2012.01.033
+   Mawas F, 2004, J INFECT DIS, V190, P1177, DOI 10.1086/423327
+   Muller DA, 2019, VACCINES-BASEL, V7, DOI 10.3390/vaccines7040189
+   Ngono AE, 2016, EBIOMEDICINE, V13, P284, DOI 10.1016/j.ebiom.2016.10.006
+   Perez AB, 2004, J MED VIROL, V73, P230, DOI 10.1002/jmv.20080
+   Putnak R, 1996, AM J TROP MED HYG, V55, P504
+   Rancan F, 2014, J CONTROL RELEASE, V176, P115, DOI 10.1016/j.jconrel.2013.12.022
+   Rodrigues JF, 2011, J BIOL CHEM, V286, P5222, DOI 10.1074/jbc.M110.173682
+   Schaeffer E, 2015, J INVEST DERMATOL, V135, P1743, DOI 10.1038/jid.2014.525
+   Scharton-Kersten T, 2000, INFECT IMMUN, V68, P5306, DOI 10.1128/IAI.68.9.5306-5313.2000
+   Schexneider Katherine I, 2005, Curr Hematol Rep, V4, P145
+   Shen BQ, 2001, J BIOL CHEM, V276, P5281, DOI 10.1074/jbc.M007969200
+   Silva ML, 2011, VACCINE, V29, P583, DOI 10.1016/j.vaccine.2010.08.046
+   Lasaro MAS, 2006, FEMS IMMUNOL MED MIC, V48, P123, DOI 10.1111/j.1574-695X.2006.00134.x
+   Slifka MK, 2014, J ALLERGY CLIN IMMUN, V133, P439, DOI 10.1016/j.jaci.2013.10.037
+   Stahl HC, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-1048
+   Trandem K, 2011, J IMMUNOL, V186, P3642, DOI 10.4049/jimmunol.1003292
+   Tsai WY, 2013, J VIROL, V87, P12562, DOI 10.1128/JVI.00871-13
+   Turvey ME, 2019, BIOENG TRANSL MED, V4, DOI 10.1002/btm2.10127
+   Vogt A, 2008, J IMMUNOL, V180, P1482, DOI 10.4049/jimmunol.180.3.1482
+   Vrdoljak A, 2012, J CONTROL RELEASE, V159, P34, DOI 10.1016/j.jconrel.2011.12.026
+   World Health Organization (WHO), DENG SEV DENG
+   Yauch LE, 2010, J IMMUNOL, V185, P5405, DOI 10.4049/jimmunol.1001709
+   Yauch LE, 2009, J IMMUNOL, V182, P4865, DOI 10.4049/jimmunol.0801974
+   Zellweger RM, 2015, J VIROL, V89, P6494, DOI 10.1128/JVI.00036-15
+   Zhang JF, 2006, INFECT IMMUN, V74, P3607, DOI 10.1128/IAI.01836-05
+NR 61
+TC 0
+Z9 0
+U1 0
+U2 1
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1999-4915
+J9 VIRUSES-BASEL
+JI Viruses-Basel
+PD MAY
+PY 2020
+VL 12
+IS 5
+AR 514
+DI 10.3390/v12050514
+PG 16
+WC Virology
+SC Virology
+GA NJ2FF
+UT WOS:000565860200031
+PM 32384822
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Arcanjo, DBMC
+   Vidal, PO
+   dos Santos, JYG
+   Venancio, LPR
+   Suesdek, L
+   Amorim, JH
+AF Marques Campos Arcanjo, Danielle Beatriz
+   Vidal, Paloma Oliveira
+   Gomes dos Santos, Jose Yure
+   Rodrigues Venancio, Larissa Paola
+   Suesdek, Lincoln
+   Amorim, Jaime Henrique
+TI Geometric morphometrics of Aedes aegypti populations and study of
+   transmission of arboviral diseases in Barreiras, Brazil
+SO REVISTA BRASILEIRA DE ENTOMOLOGIA
+LA English
+DT Article
+DE A.aegypti; geometric morphometrics; transmission; barriers; segregation
+ID RAINFALL; DYNAMICS; STATE
+AB Aedes (Stegontyia) aegypti (A. aegypti) transmits arboviral diseases of high public health importance, including those caused by Zika virus(ZIKV), Dengue virus(DENV), Chikungunya virus (CHIKV) and Yellow fever virus(YFV). Barreiras is a city with 157,638 inhabitants in the West of the State of Bahia, Northeast of Brazil. The climate is dry, with well-determined and concentrated seasons of rains. The city is crossed by a Federal Highway and by the Rio Grande river. In this study, we aimed to understand the dynamics of mosquito vectors and arboviral diseases in Barreiras. We used correlation statistics to investigate a possible relationship among rains, mosquito abundance and transmission of diseases. In addition, as a preliminary population genetics estimate, we used geometric morphometrics to compare mosquitoes from areas limited by a highway and a river. We found that i) infestation occurs in rain-dependent cycles and that ii) both, the river and the highway segregate populations of A. aegypti in different areas of the studied city. Our results indicate that it is necessary to treat anthropic containers with mosquito breading capacity during both, the dry and rain seasons in urban areas similar to Barreiras.
+C1 [Marques Campos Arcanjo, Danielle Beatriz; Vidal, Paloma Oliveira; Rodrigues Venancio, Larissa Paola; Amorim, Jaime Henrique] Univ Fed Oeste Bahia, Ctr Ciencias Biol & Saude, Lab Agentes Infecciosos & Verores, Barreiros, BA, Brazil.
+   [Gomes dos Santos, Jose Yure] Univ Fed Oeste Bahia, Ctr Humanidades, Lab Geoproc, Barreiros, BA, Brazil.
+   [Suesdek, Lincoln] Inst Butantan, Lab Parasitol, Sao Paulo, SP, Brazil.
+   [Suesdek, Lincoln] Univ Sao Paulo, Inst Med Trop, Sao Paulo, SP, Brazil.
+RP Amorim, JH (corresponding author), Univ Fed Oeste Bahia, Ctr Ciencias Biol & Saude, Lab Agentes Infecciosos & Verores, Barreiros, BA, Brazil.
+EM jaime.amorim@ufob.edu.br
+RI Santos, Jose Yure Gomes dos/AAK-8651-2020
+OI Santos, Jose Yure Gomes dos/0000-0001-9840-8132
+FU International Society for Infectious Diseases; Fundacao de Amparo a
+   Pesquisa do Estado da Bahia (FAPESB) [PET 0024/2016]; Conselho Nacional
+   de Desenvolvimento Cientifico e Tecnologico (CNPq)National Council for
+   Scientific and Technological Development (CNPq) [311805/2014-0]; FAPESB;
+   Center of Control of Zoonotic and Endemic Diseases of Barreiras, Bahia,
+   Brazil
+FX We appreciate the financial support of the International Society for
+   Infectious Diseases, Fundacao de Amparo a Pesquisa do Estado da Bahia
+   (FAPESB) (PET 0024/2016) and Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq), Grant #311805/2014-0. We are thankful
+   to FAPESB by providing undergraduate research fellowship for Danielle
+   Beatriz Marques Campos Arcanjo. We are also thankful to the support of
+   Center of Control of Zoonotic and Endemic Diseases of Barreiras, Bahia,
+   Brazil. We are thankful to Karina Zanatta and Fernanda Almeida Lopes for
+   technical assistance.
+CR Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   CENTERS FOR DISEASE CONTROL AND PREVEN- TION, 2016, ZIK VIR
+   Centers for Disease Control and Prevention, 2017, ZIK VIR TRANSM
+   Demirci B, 2012, J VECTOR ECOL, V37, P197, DOI 10.1111/j.1948-7134.2012.00217.x
+   Dibo MR, 2008, MEM I OSWALDO CRUZ, V103, P554, DOI 10.1590/S0074-02762008000600008
+   Lagrotta MT, 2008, CAD SAUDE PUBLICA, V24, P70, DOI 10.1590/S0102-311X2008000100007
+   Gomez MM, 2018, J GEN VIROL, V99, P536, DOI 10.1099/jgv.0.001033
+   Guagliardo SA, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003033
+   Hemme RR, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000634
+   Lorenz C, 2017, INFECT GENET EVOL, V54, P205, DOI 10.1016/j.meegid.2017.06.029
+   Lorenz C, 2014, PARASITE VECTOR, V7, DOI 10.1186/s13071-014-0581-8
+   Louise C, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0137851
+   Lozano-Fuentes S, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000468
+   Moreira-Soto A, 2018, CLIN MICROBIOL INFEC, V24, DOI 10.1016/j.cmi.2018.01.026
+   Pongsumpun P, 2008, TROP MED INT HEALTH, V13, P1180, DOI 10.1111/j.1365-3156.2008.02124.x
+   Silva FD, 2016, CIENC SAUDE COLETIVA, V21, P641, DOI 10.1590/1413-81232015212.09592015
+   SOPER FL, 1967, B WORLD HEALTH ORGAN, V36, P536
+   Vicente JL, 2011, MALARIA J, V10, DOI 10.1186/1475-2875-10-5
+   Vidal PO, 2012, MEM I OSWALDO CRUZ, V107, P1030, DOI 10.1590/S0074-02762012000800011
+   Wee LK, 2013, SE ASIAN J TROP MED, V44, P157
+   Wikan N, 2016, LANCET INFECT DIS, V16, pE119, DOI 10.1016/S1473-3099(16)30010-X
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOC BRASILEIRA ENTOMOLOGIA
+PI CURITIBA
+PA CAIXA POSTAL 19030, CURITIBA, PR 81531-980, BRAZIL
+SN 0085-5626
+EI 1806-9665
+J9 REV BRAS ENTOMOL
+JI Rev. Bras. Entomol.
+PY 2020
+VL 64
+IS 1
+AR e201960
+DI 10.1590/1806-9665-RBENT-2019-60
+PG 7
+WC Entomology
+SC Entomology
+GA KT1MZ
+UT WOS:000518777000001
+OA DOAJ Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Franco, LD
+   Gushi, LT
+   Luiz, WB
+   Amorim, JH
+AF Franco, Lorrany dos Santos
+   Gushi, Leticia Tsieme
+   Luiz, Wilson Barros
+   Amorim, Jaime Henrique
+TI Seeking Flavivirus Cross-Protective Immunity
+SO FRONTIERS IN IMMUNOLOGY
+LA English
+DT Article
+DE epitopes; flavivirus; serocomplex; cross-protection; immune response
+ID JAPANESE ENCEPHALITIS-VIRUS; T-CELL RESPONSES; WEST-NILE-VIRUS;
+   ANTIBODY-DEPENDENT ENHANCEMENT; TETRAVALENT DENGUE VACCINE; ENVELOPE
+   PROTEIN; MONOCLONAL-ANTIBODIES; DOMAIN-III; YELLOW-FEVER; INFECTION
+AB The Flavivirus genus is composed by viral serocomplexes with relevant global epidemiological impact. Many areas of the world present both, vector fauna and geographical conditions compatible with co-circulation, importing, emergence, and epidemics of flaviviruses of different serocomplexes. In this study, we aimed to identify both, immunological determinants and patterns of immune response possibly involved in flavivirus serocomplex cross-protection. We searched B and T cells epitopes which were thoroughly shown to be involved in flavivirus immunological control. Such epitopes were analyzed regarding their conservation, population coverage, and location along flavivirus polyprotein. We found that epitopes capable of eliciting flavivirus cross-protective immunity to a wide range of human populations are concentrated in proteins E, NS3, and NS5. Such identification of both, immunological determinants and patterns of immune response involved in flavivirus cross-protective immunity should be considered in future vaccine development. Moreover, cross-reactive epitopes presented in this work may be involved in dynamics of diseases caused by flaviviruses worldwide.
+C1 [Franco, Lorrany dos Santos; Gushi, Leticia Tsieme; Amorim, Jaime Henrique] Univ Fed Oeste Bahia, Ctr Ciencias Biol & Saude, Lab Agentes Infecciosos & Vetores, Programa Posgrad Patol Invest, Barreiras, BA, Brazil.
+   [Luiz, Wilson Barros; Amorim, Jaime Henrique] Univ Estadual Santa Cruz, Programa Posgrad Biol & Biotecnol Microrganismos, Ilheus, BA, Brazil.
+RP Amorim, JH (corresponding author), Univ Fed Oeste Bahia, Ctr Ciencias Biol & Saude, Lab Agentes Infecciosos & Vetores, Programa Posgrad Patol Invest, Barreiras, BA, Brazil.; Amorim, JH (corresponding author), Univ Estadual Santa Cruz, Programa Posgrad Biol & Biotecnol Microrganismos, Ilheus, BA, Brazil.
+EM jaime.amorim@ufob.edu.br
+RI Luiz, Wilson/L-7575-2015; Amorim, Jaime Henrique/O-9222-2017
+OI Luiz, Wilson/0000-0003-3265-8547; Amorim, Jaime
+   Henrique/0000-0002-0623-2879
+FU FAPESB; CNPqNational Council for Scientific and Technological
+   Development (CNPq)
+FX We are grateful to FAPESB for providing undergraduation fellowship to
+   LS. We are also grateful to CNPq for providing postdoc fellowship to LG.
+CR Amarilla AA, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0199071
+   Amorim JH, 2016, VIROLOGY, V487, P41, DOI 10.1016/j.virol.2015.10.006
+   de Brito CAA, 2016, REV SOC BRAS MED TRO, V49, P537, DOI 10.1590/0037-8682-0328-2016
+   Apte-Sengupta S, 2014, CURR OPIN VIROL, V9, P134, DOI 10.1016/j.coviro.2014.09.020
+   Terzian ACB, 2017, CLIN INFECT DIS, V65, P1260, DOI 10.1093/cid/cix558
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Brazil. Ministerio da Saude. Secretaria de Vigilancia em Saude. Departamento de Vigilancia Epidemiologica, 2009, DIRETRIZES NACIONAIS
+   Bui HH, 2007, BMC BIOINFORMATICS, V8, DOI 10.1186/1471-2105-8-361
+   Bui HH, 2006, BMC BIOINFORMATICS, V7, DOI 10.1186/1471-2105-7-153
+   CALISHER CH, 1989, J GEN VIROL, V70, P37, DOI 10.1099/0022-1317-70-1-37
+   Campbell GL, 2011, B WORLD HEALTH ORGAN, V89, P766, DOI 10.2471/BLT.10.085233
+   Castanha PMS, 2017, J INFECT DIS, V215, P781, DOI 10.1093/infdis/jiw638
+   Chancey C, 2015, BIOMED RES INT, V2015, DOI 10.1155/2015/376230
+   Chowdhury P, 2016, INT J INFECT DIS, V45, P434, DOI 10.1016/j.ijid.2016.02.922
+   Cockburn JJB, 2012, STRUCTURE, V20, P303, DOI 10.1016/j.str.2012.01.001
+   Crill WD, 2001, J VIROL, V75, P7769, DOI 10.1128/JVI.75.16.7769-7773.2001
+   Dai LP, 2016, IUBMB LIFE, V68, P783, DOI 10.1002/iub.1556
+   de Melo AB, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0001938
+   de Rezende IM, 2018, PLOS NEGLECT TROP D, V12, DOI 10.1371/journal.pntd.0006538
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   Duan ZL, 2015, VIRUS RES, V196, P5, DOI 10.1016/j.virusres.2014.10.022
+   Fibriansah G, 2016, ANTIVIR RES, V128, P7, DOI 10.1016/j.antiviral.2016.01.002
+   Franco LD, 2017, J BIOMED SCI, V24, DOI 10.1186/s12929-017-0395-z
+   Gubler DJ, 2014, REFERENCE MODULE BIO, DOI [10.1016/b978-0-12-801238-3.02556-3, DOI 10.1016/B978-0-12-801238-3.02556-3]
+   Gubler Duane J, 2011, Trop Med Health, V39, P3, DOI 10.2149/tmh.2011-S05
+   Hadinegoro SR, 2015, NEW ENGL J MED, V373, P1195, DOI 10.1056/NEJMoa1506223
+   Jentes ES, 2011, LANCET INFECT DIS, V11, P622, DOI 10.1016/S1473-3099(11)70147-5
+   Konishi E, 2010, VACCINE, V28, P2664, DOI 10.1016/j.vaccine.2010.01.008
+   Li JQ, 2016, SCI REP-UK, V6, DOI 10.1038/srep19953
+   Li SH, 2011, IMMUNOL LETT, V138, P156, DOI 10.1016/j.imlet.2011.04.003
+   Lin HE, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001447
+   Mansfield KL, 2011, J GEN VIROL, V92, P2821, DOI 10.1099/vir.0.031641-0
+   Melo MN, 2009, J MOL BIOL, V392, P736, DOI 10.1016/j.jmb.2009.07.035
+   Ministerio da Saude, 2017, FEBR AM GUIA PROF SA
+   Modis Y, 2004, NATURE, V427, P313, DOI 10.1038/nature02165
+   Ngono AE, 2016, EBIOMEDICINE, V13, P284, DOI 10.1016/j.ebiom.2016.10.006
+   Nybakken GE, 2005, NATURE, V437, P764, DOI 10.1038/nature03956
+   Paul LM, 2016, CLIN TRANSL IMMUNOL, V5, DOI 10.1038/cti.2016.72
+   Priyamvada L, 2016, P NATL ACAD SCI USA, V113, P7852, DOI 10.1073/pnas.1607931113
+   Raboni SM, 2017, TRANSPL INFECT DIS, V19, DOI 10.1111/tid.12700
+   Regla-Nava JA, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05458-0
+   Rey FA, 2018, EMBO REP, V19, P206, DOI 10.15252/embr.201745302
+   Reynolds CJ, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-017-18781-1
+   Rivino L, 2015, SCI TRANSL MED, V7, DOI 10.1126/scitranslmed.aaa0526
+   Rivino L, 2013, J IMMUNOL, V191, P4010, DOI 10.4049/jimmunol.1301507
+   Rivino L, 2013, J VIROL, V87, P2693, DOI 10.1128/JVI.02675-12
+   Rothman AL, 2011, NAT REV IMMUNOL, V11, P532, DOI 10.1038/nri3014
+   Sabchareon A, 2012, LANCET, V380, P1559, DOI 10.1016/S0140-6736(12)61428-7
+   Saron WAA, 2018, SCI ADV, V4, DOI 10.1126/sciadv.aar4297
+   Shi X, 2016, MABS-AUSTIN, V8, P574, DOI 10.1080/19420862.2016.1148850
+   Sironi M, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004978
+   Smith DP, 2013, MBIO, V4, DOI 10.1128/mBio.00133-12
+   Sukupolvi-Petty S, 2007, J VIROL, V81, P12816, DOI 10.1128/JVI.00432-07
+   Tsai WY, 2013, J VIROL, V87, P12562, DOI 10.1128/JVI.00871-13
+   Turtle L, 2016, J EXP MED, V213, P1331, DOI 10.1084/jem.20151517
+   Veronesi F, 2015, TRATADO INFECTOLOGIA
+   Villar L, 2015, NEW ENGL J MED, V372, P113, DOI 10.1056/NEJMoa1411037
+   Weiskopf D, 2015, P NATL ACAD SCI USA, V112, pE4256, DOI 10.1073/pnas.1505956112
+   Weiskopf D, 2015, J VIROL, V89, P120, DOI 10.1128/JVI.02129-14
+   Weiskopf D, 2013, P NATL ACAD SCI USA, V110, pE2046, DOI 10.1073/pnas.1305227110
+   Weiskopf D, 2011, J IMMUNOL, V187, P4268, DOI 10.4049/jimmunol.1101970
+   Wen JS, 2017, NAT MICROBIOL, V2, DOI 10.1038/nmicrobiol.2017.36
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   Wikan N, 2016, LANCET INFECT DIS, V16, pE119, DOI 10.1016/S1473-3099(16)30010-X
+NR 64
+TC 5
+Z9 5
+U1 0
+U2 2
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-3224
+J9 FRONT IMMUNOL
+JI Front. Immunol.
+PD SEP 20
+PY 2019
+VL 10
+AR 2260
+DI 10.3389/fimmu.2019.02260
+PG 12
+WC Immunology
+SC Immunology
+GA IZ6KF
+UT WOS:000487189600001
+PM 31616432
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Rocha, LB
+   Alves, RPD
+   Caetano, BA
+   Pereira, LR
+   Mitsunari, T
+   Amorim, JH
+   Polatto, JM
+   Botosso, VF
+   Gallina, NMF
+   Palacios, R
+   Precioso, AR
+   Granato, CFH
+   Oliveira, DBL
+   da Silveira, VB
+   Luz, D
+   Ferreira, LCD
+   Piazza, RMF
+AF Rocha, Leticia Barboza
+   dos Santos Alves, Rubens Prince
+   Caetano, Bruna Alves
+   Pereira, Lennon Ramos
+   Mitsunari, Thais
+   Amorim, Jaime Henrique
+   Polatto, Juliana Moutinho
+   Botosso, Viviane Fongaro
+   Frazatti Gallina, Neuza Maria
+   Palacios, Ricardo
+   Precioso, Alexander Roberto
+   Hernandes Granato, Celso Francisco
+   Leal Oliveira, Danielle Bruna
+   da Silveira, Vanessa Barbosa
+   Luz, Daniela
+   de Souza Ferreira, Luis Carlos
+   Fontes Piazza, Roxane Maria
+TI Epitope Sequences in Dengue Virus NS1 Protein Identified by Monoclonal
+   Antibodies
+SO ANTIBODIES
+LA English
+DT Article
+DE dengue virus; NS1; Zika virus; mAbs; antibody recognition; amino acid
+   sequences
+ID GLYCOPROTEIN; REPLICATION; REGION
+AB Dengue nonstructural protein 1 (NS1) is a multi-functional glycoprotein with essential functions both in viral replication and modulation of host innate immune responses. NS1 has been established as a good surrogate marker for infection. In the present study, we generated four anti-NS1 monoclonal antibodies against recombinant NS1 protein from dengue virus serotype 2 (DENV2), which were used to map three NS1 epitopes. The sequence (193)AVHADMGYWIESALNDT(209) was recognized by monoclonal antibodies 2H5 and 4H1BC, which also cross-reacted with Zika virus (ZIKV) protein. On the other hand, the sequence (25)VHTWTEQYKFQPES(38) was recognized by mAb 4F6 that did not cross react with ZIKV. Lastly, a previously unidentified DENV2 NS1-specific epitope, represented by the sequence (127)ELHNQTFLIDGPETAEC(143), is described in the present study after reaction with mAb 4H2, which also did not cross react with ZIKV. The selection and characterization of the epitope, specificity of anti-NS1 mAbs, may contribute to the development of diagnostic tools able to differentiate DENV and ZIKV infections.
+C1 [Rocha, Leticia Barboza; Caetano, Bruna Alves; Mitsunari, Thais; Polatto, Juliana Moutinho; Luz, Daniela; Fontes Piazza, Roxane Maria] Inst Butantan, Lab Bacteriol, BR-05503900 Sao Paulo, SP, Brazil.
+   [dos Santos Alves, Rubens Prince; Pereira, Lennon Ramos; Amorim, Jaime Henrique; de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Lab Dev Vacinas, Inst Ciencias Biomed, BR-05508000 Sao Paulo, SP, Brazil.
+   [Botosso, Viviane Fongaro] Inst Butantan, Lab Virol, BR-05503900 Sao Paulo, SP, Brazil.
+   [Frazatti Gallina, Neuza Maria] Div Dev Tecnol & Prod, BR-05503 Sao Paulo, SP, Brazil.
+   [Frazatti Gallina, Neuza Maria] Inst Butantan, BR-05503 Sao Paulo, SP, Brazil.
+   [Palacios, Ricardo; Precioso, Alexander Roberto] Inst Butantan, Div Ensaios Clin & Farmacovigilancia, BR-05503900 Sao Paulo, SP, Brazil.
+   [Hernandes Granato, Celso Francisco] Univ Fed Sao Paulo, Dept Medicina, Disciplina Doencas Infecciosas & Parasitarias, BR-04023062 Sao Paulo, SP, Brazil.
+   [Leal Oliveira, Danielle Bruna; da Silveira, Vanessa Barbosa] Univ Sao Paulo, Inst Ciencias Biomed, Dept Microbiol, Lab Virol Mol & Clin, BR-05508000 Sao Paulo, SP, Brazil.
+   [Amorim, Jaime Henrique] Univ Fed Oeste Bahia, Ctr Ciencias Biol & Saude, Lab Microbiol, BR-47805100 Barreiras, Bahia, Brazil.
+RP Piazza, RMF (corresponding author), Inst Butantan, Lab Bacteriol, BR-05503900 Sao Paulo, SP, Brazil.
+EM leticia.rocha@butantan.gov.br; rubens.bmc@gmail.com;
+   bruna.caetano@butantan.gov.br; lennon_rp@usp.br;
+   thais.mitsunari@butantan.gov.br; jh.biomedico@gmail.com;
+   juliana.yassuda@butantan.gov.br; viviane.botosso@butantan.gov.br;
+   neuza.gallina@butantan.gov.br; ricardo.palacios@butantan.gov.br;
+   alexander.precioso@butantan.gov.br; celso.granato@grupofleury.com.br;
+   danibruna@gmail.com; vanessa.silveirabio@gmail.com;
+   daniedaluz@yahoo.com.br; lcsf@usp.br; roxane@butantan.gov.br
+RI Piazza, Roxane MF/A-9915-2018; Botosso, Viviane/I-5591-2014; Piazza,
+   Roxane/ABD-9196-2020; Oliveira, Danielle BL/H-8030-2015; Precioso,
+   Alexander Roberto/A-9712-2013; Palacios, Ricardo/AAN-7606-2020;
+   Silveira, Vanessa/AAJ-9535-2020; Palacios, Ricardo/B-7248-2018; Amorim,
+   Jaime Henrique/O-9222-2017
+OI Piazza, Roxane MF/0000-0003-0068-8506; Botosso,
+   Viviane/0000-0002-7876-3687; Piazza, Roxane/0000-0003-0068-8506;
+   Oliveira, Danielle BL/0000-0002-3452-1336; Precioso, Alexander
+   Roberto/0000-0001-8657-9292; Palacios, Ricardo/0000-0002-1410-8579;
+   Palacios, Ricardo/0000-0002-1410-8579; Alves Caetano,
+   Bruna/0000-0002-0484-2243; Amorim, Jaime Henrique/0000-0002-0623-2879;
+   Barbosa da Silveira, Vanessa/0000-0002-9699-0875
+FU Sao Paulo Research Foundation (FAPESP)Fundacao de Amparo a Pesquisa do
+   Estado de Sao Paulo (FAPESP) [2009/53894-3, 2011/51761-6, 2014/17595-0,
+   2013/06589-6, 2013/50955-7]; Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq)National Council for Scientific and
+   Technological Development (CNPq); FAPESP fellowshipFundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP) [2012/09096-8]
+FX We would like to thank Pedro Vasconcelos, from Evandro Chagas Institute,
+   Belem, PA, Brazil for providing a lyophilized ZIKVBR seed. This work was
+   supported by grants from Sao Paulo Research Foundation (FAPESP):
+   2009/53894-3; 2011/51761-6; 2014/17595-0 to L.C.S.F. 2013/06589-6;
+   2013/50955-7 to R.M.F.P and from Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq) awarded to R.M.F.P. LBR was a recipient
+   of post-doctoral FAPESP fellowship (2012/09096-8).
+CR Akey DL, 2014, SCIENCE, V343, P881, DOI 10.1126/science.1247749
+   Amorim JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044984
+   Amorim JH, 2010, J VIROL METHODS, V167, P186, DOI 10.1016/j.jviromet.2010.04.003
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Blaney JE, 2002, VIROLOGY, V300, P125, DOI 10.1006/viro.2002.1528
+   Blaney JE, 2008, VACCINE, V26, P817, DOI 10.1016/j.vaccine.2007.11.082
+   CHAMBERS TJ, 1990, ANNU REV MICROBIOL, V44, P649, DOI 10.1146/annurev.mi.44.100190.003245
+   Chaudhury S, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005395
+   Daep CA, 2014, J NEUROVIROL, V20, P539, DOI 10.1007/s13365-014-0285-z
+   FALCONAR AKI, 1994, ARCH VIROL, V137, P315, DOI 10.1007/BF01309478
+   FRIGUET B, 1985, J IMMUNOL METHODS, V77, P305, DOI 10.1016/0022-1759(85)90044-4
+   Gelanew T, 2015, J VIROL METHODS, V222, P214, DOI 10.1016/j.jviromet.2015.06.003
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Gyawali N, 2016, INFECT DIS POVERTY, V5, DOI 10.1186/s40249-016-0132-y
+   Jiang L, 2010, VIRUS RES, V150, P49, DOI 10.1016/j.virusres.2010.02.012
+   Jiao Y., 2014, PLOS ONE, V2, DOI 10.1371/journal.pone.008819124516609
+   Jones ML, 2017, MOLECULES, V22, DOI 10.3390/molecules22040607
+   Kelley LA, 2015, NAT PROTOC, V10, P845, DOI 10.1038/nprot.2015.053
+   Kochakarn T, 2016, ASIAN PAC J TROP MED, V9, P1026, DOI 10.1016/j.apjtm.2016.10.002
+   Kohler G, 1975, BIOTECHNOLOGY, V24, P524
+   Lebani K, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0180669
+   Mackenzie JM, 1996, VIROLOGY, V220, P232, DOI 10.1006/viro.1996.0307
+   Muller DA, 2013, ANTIVIR RES, V98, P192, DOI 10.1016/j.antiviral.2013.03.008
+   Rocha LB, 2012, TOXINS, V4, P729, DOI 10.3390/toxins4090729
+   Salvador FS, 2015, MICROBIOL RESOUR ANN, V3, DOI 10.1128/genomeA.00779-15
+   Secretaria de Vigilancia em Saude Ministerio da Saude, 2017, B EPIDEMIOL, V48, P2358
+   Silva EM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0057514
+   Vaughn DW, 1997, J INFECT DIS, V176, P322, DOI 10.1086/514048
+   Whitehead SS, 2003, J VIROL, V77, P1653, DOI 10.1128/JVI.77.2.1653-1657.2003
+   Zhang XZ, 2013, P NATL ACAD SCI USA, V110, P6795, DOI 10.1073/pnas.1304300110
+NR 30
+TC 7
+Z9 8
+U1 0
+U2 2
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2073-4468
+J9 ANTIBODIES
+JI Antibodies
+PD DEC
+PY 2017
+VL 6
+IS 4
+AR 14
+DI 10.3390/antib6040014
+PG 13
+WC Immunology
+SC Immunology
+GA FR6KQ
+UT WOS:000419175100001
+PM 31548529
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Franco, LD
+   Vidal, PO
+   Amorim, JH
+AF Franco, Lorrany dos Santos
+   Vidal, Paloma Oliveira
+   Amorim, Jaime Henrique
+TI In silico design of a Zika virus non-structural protein 5 aiming vaccine
+   protection against zika and dengue in different human populations
+SO JOURNAL OF BIOMEDICAL SCIENCE
+LA English
+DT Article
+DE Zika virus; Dengue virus; Vaccine; Epitopes; Bioinformatics
+ID IMMUNE-RESPONSE; ANTIBODIES; INFECTION; SAFETY
+AB Background: The arboviruses Zika virus (ZIKV) and Dengue virus (DENV) have important epidemiological impact in Brazil and other tropical regions of the world. Recently, it was shown that previous humoral immunity to DENV enhances ZIKV replication in vitro, which may lead to more severe forms of the disease. Thus, traditional approaches of vaccine development aiming to control viral infection through neutralizing antibodies may induce cross-reactive enhancing antibodies. In contrast, cellular immune response was shown to be capable of controlling DENV infection independently of antibodies. The aim of the present study was to design a flavivirus NS5 protein capable of inducing a cellular immune response against DENV and ZIKV.
+   Methods: A consensus sequence of ZIKV NS5 protein was designed among isolates from various continents. Epitopes were predicted for the most prevalent alleles of class I and II HLA in the Brazilian population. Then, this epitopes were analyzed with regard to their conservation, population coverage and distribution along the whole antigen.
+   Results: Nineteen epitopes predicted to be more reactive (percentile rank <1) and 100% conserved among ZIKV and DENV serotypes were selected. The distribution of such epitopes along the protein was shown on a three-dimensional model and population coverage was calculated for different regions of the world. The designed protein was predicted to be stable and the distribution of selected epitopes was shown to be homogeneous along domains. The population coverage of selected epitopes was higher than 50% for most of tropical areas of the world.
+   Conclusion: Such results indicate that the proposed antigen has the potential to induce protective cellular immune response to ZIKV and DENV in different human populations of the world.
+C1 [Franco, Lorrany dos Santos; Vidal, Paloma Oliveira; Amorim, Jaime Henrique] Univ Fed Oeste Bahia, Lab Microbiol, Ctr Ciencias Biol & Saude, Rua Bertioga 892,Morada Nobre 2, BR-47810059 Barreiras, BA, Brazil.
+RP Amorim, JH (corresponding author), Univ Fed Oeste Bahia, Lab Microbiol, Ctr Ciencias Biol & Saude, Rua Bertioga 892,Morada Nobre 2, BR-47810059 Barreiras, BA, Brazil.
+EM jaime.amorim@ufob.edu.br
+RI Amorim, Jaime Henrique/O-9222-2017
+OI Amorim, Jaime Henrique/0000-0002-0623-2879
+FU International Society of Infectious Diseases
+FX This research work was funded by International Society of Infectious
+   Diseases.
+CR Alves RPDS, 2016, CLIN VACCINE IMMUNOL
+   Amorim JH, 2016, VIROLOGY, V487, P41, DOI 10.1016/j.virol.2015.10.006
+   [Anonymous], AR ZIK VIR
+   Basarab M, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i1049
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Calvet G, 2016, LANCET INFECT DIS
+   Castanha PM, 2016, J INFECT DIS
+   Dejnirattisai W, 2016, NAT IMMUNOL, V17, P1102, DOI 10.1038/ni.3515
+   Gil L, 2009, VIRAL IMMUNOL, V22, P23, DOI 10.1089/vim.2008.0063
+   Guirakhoo F, 2000, J VIROL, V74, P5477, DOI 10.1128/JVI.74.12.5477-5485.2000
+   Guirakhoo F, 2004, J VIROL, V78, P4761, DOI 10.1128/JVI.78.9.4761-4775.2004
+   Guirakhoo F, 2001, J VIROL, V75, P7290, DOI 10.1128/JVI.75.16.7290-7304.2001
+   Hadinegoro SR, 2015, NEW ENGL J MED, V373, P1195, DOI 10.1056/NEJMoa1506223
+   Knipe D., 2007, FIELDS VIROLOGY
+   Paul LM, 2016, CLIN TRANSL IMMUNOL, V5, DOI 10.1038/cti.2016.72
+   Priyamvada L, 2016, P NATL ACAD SCI USA, V113, P7852, DOI 10.1073/pnas.1607931113
+   Rivino L, 2013, J VIROL, V87, P2693, DOI 10.1128/JVI.02675-12
+   Tamura K, 2013, MOL BIOL EVOL, V30, P2725, DOI [10.1093/molbev/mst197, 10.1093/molbev/msr121]
+   Villar L, 2014, NEW ENGL J MED, V372
+   Weiskopf D, 2014, J VIROL
+   Wikan N, 2016, LANCET INFECT DIS, V16, pE119, DOI 10.1016/S1473-3099(16)30010-X
+   Yoshida T, 2013, ARCH VIROL, V158, P1209, DOI 10.1007/s00705-013-1618-6
+   Zhao BT, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14586
+NR 23
+TC 6
+Z9 7
+U1 0
+U2 1
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1021-7770
+EI 1423-0127
+J9 J BIOMED SCI
+JI J. Biomed. Sci.
+PD NOV 23
+PY 2017
+VL 24
+AR 88
+DI 10.1186/s12929-017-0395-z
+PG 10
+WC Cell Biology; Medicine, Research & Experimental
+SC Cell Biology; Research & Experimental Medicine
+GA FN5QA
+UT WOS:000416061500001
+PM 29169357
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Maeda, DLNF
+   Batista, MT
+   Pereira, LR
+   Cintra, MD
+   Amorim, JH
+   Mathias-Santos, C
+   Pereira, SA
+   Boscardin, SB
+   Silva, SD
+   Faquim-Mauro, EL
+   Silveira, VB
+   Oliveira, DBL
+   Johnston, SA
+   Ferreira, LCD
+   Rodrigues, JF
+AF Nascimento Fabris Maeda, Denicar Lina
+   Batista, Milene Tavares
+   Pereira, Lennon Ramos
+   Cintra, Mariana de Jesus
+   Amorim, Jaime Henrique
+   Mathias-Santos, Camila
+   Pereira, Sara Araujo
+   Boscardin, Silvia Beatriz
+   Silva, Sandriana dos Ramos
+   Faquim-Mauro, Eliana L.
+   Silveira, Vanessa Barbosa
+   Leal Oliveira, Danielle Bruna
+   Johnston, Stephen Albert
+   de Souza Ferreira, Luis Carlos
+   Rodrigues, Juliana Falcao
+TI Adjuvant-Mediated Epitope Specificity and Enhanced Neutralizing Activity
+   of Antibodies Targeting Dengue Virus Envelope Protein
+SO FRONTIERS IN IMMUNOLOGY
+LA English
+DT Article
+DE heat-labile toxins; labile toxins; adjuvants; dengue virus; envelope
+   protein; vaccines; antibodies; immunosignature
+ID HEAT-LABILE TOXIN; ENTEROTOXIGENIC ESCHERICHIA-COLI; DOMAIN-III;
+   PROTECTIVE IMMUNITY; MONOCLONAL-ANTIBODIES; ANTIVIRAL PEPTIDES;
+   CHOLERA-TOXIN; VACCINATION; CELLS; IMMUNOGENICITY
+AB The heat-labile toxins (LT) produced by enterotoxigenic Escherichia coil display adjuvant effects to coadministered antigens, leading to enhanced production of serum antibodies. Despite extensive knowledge of the adjuvant properties of LT derivatives, including in vitro generated non-toxic mutant forms, little is known about the capacity of these adjuvants to modulate the epitope specificity of antibodies directed against antigens. This study characterizes the role of LT and its non-toxic B subunit (LTB) in the modulation of antibody responses to a coadministered antigen, the dengue virus (DENV) envelope glycoprotein domain III (EDIII), which binds to surface receptors and mediates virus entry into host cells. In contrast to non-adjuvanted or alum-adjuvanted formulations, antibodies induced in mice immunized with LT or LTB showed enhanced virus-neutralization effects that were not ascribed to a subclass shift or antigen affinity. Nonetheless, immunosignature analyses revealed that purified LT-adjuvanted EDIII-specific antibodies display distinct epitope-binding patterns with regard to antibodies raised in mice immunized with EDIII or the alum-adjuvanted vaccine. Notably, the analyses led to the identification of a specific EDIII epitope located in the EF to FG loop, which is involved in the entry of DENV into eukaryotic cells. The present results demonstrate that LT and LTB modulate the epitope specificity of antibodies generated after immunization with coadministered antigens that, in the case of EDIII, was associated with the induction of neutralizing antibody responses. These results open perspectives for the more rational development of vaccines with enhanced protective effects against DENV infections.
+C1 [Nascimento Fabris Maeda, Denicar Lina; Batista, Milene Tavares; Pereira, Lennon Ramos; Cintra, Mariana de Jesus; Mathias-Santos, Camila; Pereira, Sara Araujo; de Souza Ferreira, Luis Carlos; Rodrigues, Juliana Falcao] Univ Sao Paulo, Vaccine Dev Lab, Dept Microbiol, Inst Biomed Sci, Sao Paulo, Brazil.
+   [Batista, Milene Tavares; Johnston, Stephen Albert] Arizona State Univ, Biodesign Inst, Ctr Innovat Med, Tempe, AZ USA.
+   [Amorim, Jaime Henrique] Fed Univ Western Bahia, Ctr Biol & Hlth Sci, Salvador, Brazil.
+   [Boscardin, Silvia Beatriz] Univ Sao Paulo, Inst Biomed Sci, Dept Parasitol, Sao Paulo, Brazil.
+   [Silva, Sandriana dos Ramos] Pasteur Inst, Sao Paulo, Brazil.
+   [Faquim-Mauro, Eliana L.] Butantan Inst, Lab Immunopathol, Sao Paulo, Brazil.
+   [Silveira, Vanessa Barbosa; Leal Oliveira, Danielle Bruna] Univ Sao Paulo, Clin & Mol Virol Lab, Dept Microbiol, Inst Biomed Sci, Sao Paulo, Brazil.
+RP Ferreira, LCD (corresponding author), Univ Sao Paulo, Vaccine Dev Lab, Dept Microbiol, Inst Biomed Sci, Sao Paulo, Brazil.
+EM lcsf@usp.br
+RI Oliveira, Danielle BL/H-8030-2015; Faquim-Mauro, Eliana/M-2489-2017;
+   Silveira, Vanessa/AAJ-9535-2020; Boscardin, Silvia Beatriz/C-3397-2012;
+   Rodrigues, Juliana/AAC-3512-2019; Amorim, Jaime Henrique/O-9222-2017
+OI Oliveira, Danielle BL/0000-0002-3452-1336; Faquim-Mauro,
+   Eliana/0000-0001-8083-4272; Boscardin, Silvia
+   Beatriz/0000-0002-7845-7110; Amorim, Jaime Henrique/0000-0002-0623-2879;
+   Oliveira, Danielle/0000-0002-0534-0886; Araujo Pereira,
+   Sara/0000-0001-8218-9465; Barbosa da Silveira,
+   Vanessa/0000-0002-9699-0875
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP grants)
+   [2012/51204-2, 2014/17595-0]; Conselho Nacional do Desenvolvimento
+   Cientifico e Tecnologico (CNPq grants) [485546/2012-4, 309392/2015-2];
+   Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES
+   grant) [88887.116618/2016-01-AUXPE 0448/2016]; Department of Homeland
+   SecurityUnited States Department of Homeland Security (DHS); CIM Peptide
+   Array Core
+FX This study was supported by grants from the Fundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP grants to LCSF: 2012/51204-2,
+   2014/17595-0), the Conselho Nacional do Desenvolvimento Cientifico e
+   Tecnologico (CNPq grants to JR and EF-M, respectively: 485546/2012-4 and
+   309392/2015-2), and the Coordenacao de Aperfeicoamento de Pessoal de
+   Nivel Superior (CAPES grant: 88887.116618/2016-01-AUXPE 0448/2016). At
+   ASU by a grant from the Department of Homeland Security to SJ and the
+   CIM Peptide Array Core (HSHQDC-15-C-B0008). The authors thank Dr.
+   Phillip Stafford for his invaluable assistance, and the authors
+   acknowledge the helpful technical assistance of E. G. Martins, C.
+   Bertelli, Pattie Madjidi, and Penny Gwynne.
+CR Alhoot MA, 2013, INT J MED SCI, V10, P719, DOI 10.7150/ijms.5037
+   Amorim JH, 2012, VACCINE, V30, P837, DOI 10.1016/j.vaccine.2011.12.034
+   Azevedo AS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020528
+   Batista MT, 2014, INFECT IMMUN, V82, P4978, DOI 10.1128/IAI.02074-14
+   Beltramello M, 2010, CELL HOST MICROBE, V8, P271, DOI 10.1016/j.chom.2010.08.007
+   Bernardo L, 2011, VACCINE, V29, P4256, DOI 10.1016/j.vaccine.2011.03.040
+   Braga CJM, 2014, FRONT IMMUNOL, V4, DOI 10.3389/fimmu.2013.00487
+   Brereton CF, 2011, J IMMUNOL, V186, P5896, DOI 10.4049/jimmunol.1003789
+   Chen LM, 2017, ANTIVIR RES, V141, P140, DOI 10.1016/j.antiviral.2017.02.009
+   Chiang CY, 2014, VACCINE, V32, P1346, DOI 10.1016/j.vaccine.2014.01.041
+   Chiang CY, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001645
+   Clements JD, 2016, CLIN VACCINE IMMUNOL, V23, P438, DOI 10.1128/CVI.00214-16
+   Cockburn JJB, 2012, STRUCTURE, V20, P303, DOI 10.1016/j.str.2012.01.001
+   Coffman RL, 2010, IMMUNITY, V33, P492, DOI 10.1016/j.immuni.2010.10.002
+   Costin JM, 2013, J VIROL, V87, P52, DOI 10.1128/JVI.02273-12
+   Crill WD, 2001, J VIROL, V75, P7769, DOI 10.1128/JVI.75.16.7769-7773.2001
+   da Hora VP, 2011, VACCINE, V29, P1538, DOI 10.1016/j.vaccine.2010.11.091
+   de Haan L, 1998, IMMUNOL CELL BIOL, V76, P270, DOI 10.1046/j.1440-1711.1998.00745.x
+   Di Pasquale A, 2015, VACCINES-BASEL, V3, P320, DOI 10.3390/vaccines3020320
+   Diaz-Montero CM, 2013, J TRANSL MED, V11, DOI 10.1186/1479-5876-11-62
+   EDELHOCH H, 1967, BIOCHEMISTRY-US, V6, P1948, DOI 10.1021/bi00859a010
+   Erb SM, 2010, VIROLOGY, V406, P328, DOI 10.1016/j.virol.2010.07.024
+   Etemad B, 2008, AM J TROP MED HYG, V79, P353, DOI 10.4269/ajtmh.2008.79.353
+   Giuliani MM, 1998, J EXP MED, V187, P1123, DOI 10.1084/jem.187.7.1123
+   Hajishengallis G, 2005, J DENT RES, V84, P1104, DOI 10.1177/154405910508401205
+   Halperin RF, 2012, BMC BIOINFORMATICS, V13, DOI 10.1186/1471-2105-13-1
+   Heinz FX, 2012, J CLIN VIROL, V55, P289, DOI 10.1016/j.jcv.2012.08.024
+   Hu JC, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113978
+   Hughes AK, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040201
+   Hung JJ, 2004, J VIROL, V78, P378, DOI 10.1128/JVI.78.1.378-388.2004
+   Ji J, 2015, J CELL MOL MED, V19, P2019, DOI 10.1111/jcmm.12599
+   Johnston SA, 2014, BMC CANCER, V14, DOI 10.1186/1471-2407-14-657
+   Kaufmann B, 2011, MICROBES INFECT, V13, P1, DOI 10.1016/j.micinf.2010.09.005
+   KOSTNER GM, 1979, CLIN CHEM, V25, P939
+   Kuhn RJ, 2002, CELL, V108, P717, DOI 10.1016/S0092-8674(02)00660-8
+   Lasaro MA, 2008, J BACTERIOL, V190, P2400, DOI 10.1128/JB.00988-07
+   Lasaro MA, 2009, FEMS IMMUNOL MED MIC, V55, P93, DOI 10.1111/j.1574-695X.2008.00506.x
+   Legutki JB, 2013, P NATL ACAD SCI USA, V110, P18614, DOI 10.1073/pnas.1309390110
+   Legutki JB, 2010, VACCINE, V28, P4529, DOI 10.1016/j.vaccine.2010.04.061
+   Lencer WI, 1999, BBA-MOL CELL RES, V1450, P177, DOI 10.1016/S0167-4889(99)00070-1
+   Lewis DJM, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006999
+   Li XQ, 2013, J GEN VIROL, V94, P2191, DOI 10.1099/vir.0.055178-0
+   Lok SM, 2008, NAT STRUCT MOL BIOL, V15, P312, DOI 10.1038/nsmb.1382
+   Luiz WB, 2015, INFECT IMMUN, V83, P4555, DOI 10.1128/IAI.00858-15
+   Luo QW, 2016, CLIN VACCINE IMMUNOL, V23, P628, DOI 10.1128/CVI.00248-16
+   Malyala P, 2008, J PHARM SCI-US, V97, P2041, DOI 10.1002/jps.21152
+   Mathias-Santos C, 2011, CLIN VACCINE IMMUNOL, V18, P1243, DOI 10.1128/CVI.00012-11
+   Midgey CM, 2012, J IMMUNOL, V188, P4971, DOI 10.4049/jimmunol.1200227
+   Mukhopadhyay S, 2005, NAT REV MICROBIOL, V3, P13, DOI 10.1038/nrmicro1067
+   Nataro JP, 1998, CLIN MICROBIOL REV
+   O'Donnell B, 2015, CANCER INFORM, V14, P219, DOI [10.4137/CIN.S17285, 10.4137/CIn.s17285]
+   O'Hagan DT, 2009, DRUG DISCOV TODAY, V14, P541, DOI 10.1016/j.drudis.2009.02.009
+   Olafsdottir TA, 2007, SCAND J IMMUNOL, V66, P426, DOI 10.1111/j.1365-3083.2007.01970.x
+   Panya A, 2014, CHEM BIOL DRUG DES, V84, P148, DOI 10.1111/cbdd.12309
+   Poggianella M, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003947
+   Price JV, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064555
+   Robbiani DF, 2017, CELL, V169, P597, DOI 10.1016/j.cell.2017.04.024
+   Rodenhuis-Zybert IA, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003564
+   Rodrigues JF, 2011, J BIOL CHEM, V286, P5222, DOI 10.1074/jbc.M110.173682
+   Ryan EJ, 2000, J IMMUNOL, V165, P5750, DOI 10.4049/jimmunol.165.10.5750
+   Savelkoul HFJ, 2015, VACCINES-BASEL, V3, P148, DOI 10.3390/vaccines3010148
+   Schmidt AG, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1000851
+   Lasaro MAS, 2006, FEMS IMMUNOL MED MIC, V48, P123, DOI 10.1111/j.1574-695X.2006.00134.x
+   Singh S, 2018, MOL NEUROBIOL, V55, P633, DOI 10.1007/s12035-016-0334-0
+   Skalickova S, 2015, VIRUSES-BASEL, V7, P5428, DOI 10.3390/v7102883
+   Stafford P, 2014, P NATL ACAD SCI USA, V111, pE3072, DOI 10.1073/pnas.1409432111
+   Stanaway JD, 2016, LANCET INFECT DIS, V16, P712, DOI 10.1016/S1473-3099(16)00026-8
+   Sukupolvi-Petty S, 2007, J VIROL, V81, P12816, DOI 10.1128/JVI.00432-07
+   Summerton NA, 2010, VACCINE, V28, P1404, DOI 10.1016/j.vaccine.2009.10.147
+   Sykes KF, 2013, TRENDS BIOTECHNOL, V31, P45, DOI 10.1016/j.tibtech.2012.10.012
+   Tritto E, 2007, J IMMUNOL, V179, P5346, DOI 10.4049/jimmunol.179.8.5346
+   Valentini D, 2017, INT J INFECT DIS, V56, P140, DOI 10.1016/j.ijid.2017.01.027
+   Wagner D, 2004, EMERG INFECT DIS, V10, P1872, DOI 10.3201/eid1010.031037
+   Wahala WMPB, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1000821
+   WHO, 2016, DENG VACC WHO POSS P
+   Wumkes ML, 2017, VACCINE, V35, P1299, DOI 10.1016/j.vaccine.2017.01.039
+NR 76
+TC 6
+Z9 6
+U1 0
+U2 2
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-3224
+J9 FRONT IMMUNOL
+JI Front. Immunol.
+PD SEP 25
+PY 2017
+VL 8
+AR 1175
+DI 10.3389/fimmu.2017.01175
+PG 13
+WC Immunology
+SC Immunology
+GA FI0FH
+UT WOS:000411598500001
+PM 28993770
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Alves, RPD
+   Pereira, LR
+   Fabris, DLN
+   Salvador, FS
+   Santos, RA
+   Zanotto, PMD
+   Romano, CM
+   Amorim, JH
+   Ferreiraa, LCD
+AF dos Santos Alves, Rbens Prince
+   Pereira, Lennon Ramos
+   Nascimento Fabris, Denicar Lina
+   Salvador, Felipe Scassi
+   Santos, Robert Andreata
+   de Andrade Zanotto, Paolo Marinho
+   Romano, Camila Malta
+   Amorim, Jaime Henrique
+   de Souza Ferreiraa, Luis Carlos
+TI Production of a Recombinant Dengue Virus 2 NS5 Protein and Potential Use
+   as a Vaccine Antigen
+SO CLINICAL AND VACCINE IMMUNOLOGY
+LA English
+DT Article
+ID CD8(+) T-LYMPHOCYTES; IMMUNE-RESPONSE; MONONUCLEAR PHAGOCYTES;
+   PROTECTIVE IMMUNITY; DNA VACCINE; IMMUNOGENICITY; INFECTION; MOUSE;
+   ENHANCEMENT; ANTIBODY
+AB Dengue fever is caused by any of the four known dengue virus serotypes (DENV1 to DENV4) that affect millions of people worldwide, causing a significant number of deaths. There are vaccines based on chimeric viruses, but they still are not in clinical use. Anti-DENV vaccine strategies based on nonstructural proteins are promising alternatives to those based on whole virus or structural proteins. The DENV nonstructural protein 5 (NS5) is the main target of anti-DENV T cell-based immune responses in humans. In this study, we purified a soluble recombinant form of DENV2 NS5 expressed in Escherichia coli at large amounts and high purity after optimization of expression conditions and purification steps. The purified DENV2 NS5 was recognized by serum from DENV1-, DENV2-, DENV3-, or DENV4-infected patients in an epitope-conformation-dependent manner. In addition, immunization of BALB/c mice with NS5 induced high levels of NS5-specific antibodies and expansion of gamma interferon-and tumor necrosis factor alpha-producing T cells. Moreover, mice immunized with purified NS5 were partially protected from lethal challenges with the DENV2 NGC strain and with a clinical isolate (JHA1). These results indicate that the recombinant NS5 protein preserves immunological determinants of the native protein and is a promising vaccine antigen capable of inducing protective immune responses.
+C1 [dos Santos Alves, Rbens Prince; Pereira, Lennon Ramos; Nascimento Fabris, Denicar Lina; Santos, Robert Andreata; Amorim, Jaime Henrique; de Souza Ferreiraa, Luis Carlos] Univ Sao Paulo, Dept Microbiol, Inst Ciencias Biomed, Lab Desenvolvimento Vacinas, Sao Paulo, Brazil.
+   [Salvador, Felipe Scassi; Romano, Camila Malta] Univ Sao Paulo, Escola Med, Inst Trop Med, Sao Paulo, Brazil.
+   [de Andrade Zanotto, Paolo Marinho] Univ Sao Paulo, Dept Microbiol, Inst Ciencias Biomed, Lab Evolucao & Mol Bioinformat, Sao Paulo, Brazil.
+   [Amorim, Jaime Henrique] Univ Fed Oeste Bahia, Ctr Ciencias Biol & Saude, Barreiras, BA, Brazil.
+RP Amorim, JH; Ferreiraa, LCD (corresponding author), Univ Sao Paulo, Dept Microbiol, Inst Ciencias Biomed, Lab Desenvolvimento Vacinas, Sao Paulo, Brazil.; Amorim, JH (corresponding author), Univ Fed Oeste Bahia, Ctr Ciencias Biol & Saude, Barreiras, BA, Brazil.
+EM jaime.amorim@ufob.edu.br; lcsf@usp.br
+RI de A. Zanotto, Paolo M./B-9286-2019; Amorim, Jaime Henrique/O-9222-2017;
+   Romano, Camila M/C-8185-2013; Romano, Camila/ABC-2883-2020; Ferreira,
+   Luis/M-3954-2014
+OI de A. Zanotto, Paolo M./0000-0002-8167-0625; Amorim, Jaime
+   Henrique/0000-0002-0623-2879; Romano, Camila/0000-0003-4550-1987;
+   Ferreira, Luis/0000-0002-4883-1693
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2011/51.761-6, 2012/2012/21077-9, 2014/17595-0, 2015/02352-7]
+FX This work, including the efforts of Rubens Prince dos Santos Alves, was
+   funded by FAPESP (2011/51.761-6, 2012/2012/21077-9, 2014/17595-0, and
+   2015/02352-7).
+CR Ackermann M, 2001, J BIOL CHEM, V276, P39926, DOI 10.1074/jbc.M104248200
+   Amorim JH, 2016, VIROLOGY, V487, P41, DOI 10.1016/j.virol.2015.10.006
+   Amorim JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044984
+   Amorim JH, 2012, VACCINE, V30, P837, DOI 10.1016/j.vaccine.2011.12.034
+   Arora U, 2013, VACCINE, V31, P873, DOI 10.1016/j.vaccine.2012.12.016
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Bhattacharya D, 2009, J VIROL, V83, P9195, DOI 10.1128/JVI.00271-09
+   BLOK J, 1985, J GEN VIROL, V66, P1323, DOI 10.1099/0022-1317-66-6-1323
+   BRAY M, 1991, P NATL ACAD SCI USA, V88, P10342, DOI 10.1073/pnas.88.22.10342
+   Bui HH, 2007, BMC BIOINFORMATICS, V8, DOI 10.1186/1471-2105-8-361
+   Chan Y C, 1965, Singapore Med J, V5, P127
+   Chen HC, 2007, J VIROL, V81, P5518, DOI 10.1128/JVI.02575-06
+   Costa SM, 2007, VIROLOGY, V358, P413, DOI 10.1016/j.virol.2006.08.052
+   Costa SM, 2006, VACCINE, V24, P4562, DOI 10.1016/j.vaccine.2005.08.022
+   DIERCKS FH, 1959, AM J TROP MED HYG, V8, P488, DOI 10.4269/ajtmh.1959.8.488
+   DINTZIS HM, 1976, P NATL ACAD SCI USA, V73, P3671, DOI 10.1073/pnas.73.10.3671
+   Durbin AP, 2001, AM J TROP MED HYG, V65, P405, DOI 10.4269/ajtmh.2001.65.405
+   Elgert K.D., 2009, IMMUNOLOGY UNDERSTAN
+   Fraser JE, 2014, METHODS MOL BIOL, V1138, P301, DOI 10.1007/978-1-4939-0348-1_19
+   Guirakhoo F, 2001, J VIROL, V75, P7290, DOI 10.1128/JVI.75.16.7290-7304.2001
+   Guy B, 2010, HUM VACCINES, V6, P696, DOI 10.4161/hv.6.9.12739
+   Guzman MG, 2015, LANCET, V385, P453, DOI 10.1016/S0140-6736(14)60572-9
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   HALSTEAD SB, 1977, J EXP MED, V146, P218, DOI 10.1084/jem.146.1.218
+   HALSTEAD SB, 1979, J INFECT DIS, V140, P527, DOI 10.1093/infdis/140.4.527
+   HALSTEAD SB, 1977, J EXP MED, V146, P201, DOI 10.1084/jem.146.1.201
+   HALSTEAD SB, 1980, AM J TROP MED HYG, V29, P638, DOI 10.4269/ajtmh.1980.29.638
+   Henriques HR, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002330
+   Kelley JF, 2011, VIROLOGY, V418, P27, DOI 10.1016/j.virol.2011.07.006
+   Khan AM, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000272
+   Kloetzel PM, 2001, NAT REV MOL CELL BIO, V2, P179, DOI 10.1038/35056572
+   Larsen Jens Erik Pontoppidan, 2006, Immunome Res, V2, P2, DOI 10.1186/1745-7580-2-2
+   Liu T, 2001, J VIROL, V75, P11178, DOI 10.1128/JVI.75.22.11178-11184.2001
+   Loureiro J, 2006, ADV IMMUNOL, V92, P225, DOI 10.1016/S0065-2776(06)92006-9
+   Lundegaard C, 2008, NUCLEIC ACIDS RES, V36, pW509, DOI 10.1093/nar/gkn202
+   Malyala P, 2008, J PHARM SCI-US, V97, P2041, DOI 10.1002/jps.21152
+   Mladinich KM, 2012, IMMUNOGENETICS, V64, P111, DOI 10.1007/s00251-011-0566-0
+   Moutaftsi M, 2006, NAT BIOTECHNOL, V24, P817, DOI 10.1038/nbt1215
+   MYERS RM, 1964, INDIAN J MED RES, V52, P559
+   Perera R, 2008, CURR OPIN MICROBIOL, V11, P369, DOI 10.1016/j.mib.2008.06.004
+   Pongsumpun P, 2008, TROP MED INT HEALTH, V13, P1180, DOI 10.1111/j.1365-3156.2008.02124.x
+   Putnak R, 1996, J INFECT DIS, V174, P1176, DOI 10.1093/infdis/174.6.1176
+   Raviprakash K, 2006, VIROLOGY, V353, P166, DOI 10.1016/j.virol.2006.05.005
+   Rivino L, 2015, SCI TRANSL MED, V7, DOI 10.1126/scitranslmed.aaa0526
+   Rivino L, 2013, J VIROL, V87, P2693, DOI 10.1128/JVI.02675-12
+   Sabchareon A, 2012, LANCET, V380, P1559, DOI 10.1016/S0140-6736(12)61428-7
+   Sambrook J., 2001, MOL CLONING LAB MANU
+   Schwarz H, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113840
+   SMITH C E G, 1956, J Hyg (Lond), V54, P569
+   Tan BH, 1996, VIROLOGY, V216, P317, DOI 10.1006/viro.1996.0067
+   Tay MYF, 2013, ANTIVIR RES, V99, P301, DOI 10.1016/j.antiviral.2013.06.002
+   Valdes K, 2000, CLIN DIAGN LAB IMMUN, V7, P856, DOI 10.1128/CDLI.7.5.856-857.2000
+   Vaughn DW, 1996, VACCINE, V14, P329, DOI 10.1016/0264-410X(95)00167-Y
+   Villar L, 2015, NEW ENGL J MED, V372, P113, DOI 10.1056/NEJMoa1411037
+   Voulgaridou GP, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0056582
+   Wakelin SJ, 2006, IMMUNOL LETT, V106, P1, DOI 10.1016/j.imlet.2006.04.007
+   Wang P, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000048
+   Watanabe H, 2004, SHOCK, V22, P460, DOI 10.1097/01.shk.0000142249.08135.e9
+   Weiskopf D, 2015, P NATL ACAD SCI USA, V112, pE4256, DOI 10.1073/pnas.1505956112
+   Weiskopf D, 2015, J VIROL, V89, P120, DOI 10.1128/JVI.02129-14
+   White LJ, 2007, J VIROL, V81, P10329, DOI 10.1128/JVI.00512-07
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+   Yap TL, 2007, J VIROL, V81, P4753, DOI 10.1128/JVI.02283-06
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+NR 65
+TC 10
+Z9 10
+U1 0
+U2 10
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 1556-6811
+EI 1556-679X
+J9 CLIN VACCINE IMMUNOL
+JI Clin. Vaccine Immunol.
+PD JUN
+PY 2016
+VL 23
+IS 6
+BP 460
+EP 469
+DI 10.1128/CVI.00081-16
+PG 10
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA DO0GO
+UT WOS:000377457600004
+PM 27030586
+OA Bronze, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Amorim, JH
+   Alves, RPD
+   Bizerra, R
+   Pereira, SA
+   Pereira, LR
+   Fabris, DLN
+   Santos, RA
+   Romano, CM
+   Ferreira, LCD
+AF Amorim, Jaime Henrique
+   dos Santos Alves, Rubens Prince
+   Bizerra, Raiza
+   Pereira, Sara Araujo
+   Pereira, Lennon Ramos
+   Nascimento Fabris, Denicar Lina
+   Santos, Robert Andreata
+   Romano, Camila Malta
+   de Souza Ferreira, Luis Carlos
+TI Antibodies are not required to a protective immune response against
+   dengue virus elicited in a mouse encephalitis model
+SO VIROLOGY
+LA English
+DT Article
+DE Dengue; Nonstructural proteins; Immune response; T lymphocytes;
+   Antibodies
+ID CD8(+) T-CELL; WEST-NILE-VIRUS; NEUTRALIZING ANTIBODY; VACCINE
+   FORMULATIONS; GAMMA-INTERFERON; DOMAIN-III; LYMPHOCYTES; RECOMBINANT;
+   CD4(+); MICE
+AB Generating neutralizing antibodies have been considered a prerequisite to control dengue virus (DENV) infection. However, T lymphocytes have also been shown to be important in a protective immune state. In order to investigate the contribution of both humoral and cellular immune responses in DENV immunity, we used an experimental model in which a non-lethal DENV2 strain (ACS46) is used to intracranially prime Balb/C mice which develop protective immunity against a lethal DENV2 strain (JHA1). Primed mice generated envelope-specific antibodies and CD8(+) T cell responses targeting mainly non-structural proteins. Immune sera from protected mice did not confer passive protection to naive mice challenged with the JHA1 strain. In contrast, depletion of CD4(+) and CD8(+) T lymphocytes significantly reduced survival of ACS46-primed mice challenged with the JHA1 strain. Collectively, results presented in this study show that a cellular immune response targeting non-structural proteins are a promising way in vaccine development against dengue. (C) 2015 Elsevier Inc. All rights reserved.
+C1 [Amorim, Jaime Henrique; dos Santos Alves, Rubens Prince; Bizerra, Raiza; Pereira, Sara Araujo; Pereira, Lennon Ramos; Nascimento Fabris, Denicar Lina; Santos, Robert Andreata; de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Dept Microbiol, Lab Desenvolvimento Vacinas, BR-05508000 Sao Paulo, SP, Brazil.
+   [Romano, Camila Malta] Univ Sao Paulo, Dept Mol Infecciosas & Parasitarias LIMHC, Inst Med Trop Sao Paulo, BR-05508000 Sao Paulo, SP, Brazil.
+   [Romano, Camila Malta] Univ Sao Paulo, Fac Med, BR-05508000 Sao Paulo, SP, Brazil.
+RP Amorim, JH (corresponding author), Univ Sao Paulo, ICB 2, Dept Microbiol, Lab Desenvolvimento Vacinas, Av Prof Lineu Prestes 1374,Cidade Univ, BR-05508000 Sao Paulo, SP, Brazil.
+EM jhamorim@usp.br; lcsf@usp.br
+RI Romano, Camila/ABC-2883-2020; Romano, Camila M/C-8185-2013; Amorim,
+   Jaime Henrique/O-9222-2017; Ferreira, Luis/M-3954-2014
+OI Romano, Camila/0000-0003-4550-1987; Amorim, Jaime
+   Henrique/0000-0002-0623-2879; Araujo Pereira, Sara/0000-0001-8218-9465;
+   Ferreira, Luis/0000-0002-4883-1693
+FU FAPESP GrantFundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP) [2012/51204-2]
+FX are grateful for the technical assistance of E.G. Martins. This work was
+   supported by FAPESP Grant 2012/51204-2.
+CR Amorim JH, 2015, FUTURE VIROL, V10, P835, DOI 10.2217/FVL.15.48
+   Amorim JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044984
+   Back Anne Tuiskunen, 2013, Infect Ecol Epidemiol, V3, DOI 10.3402/iee.v3i0.19839
+   Bashyam HS, 2006, J IMMUNOL, V176, P2817, DOI 10.4049/jimmunol.176.5.2817
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Blaney JE, 2005, J VIROL, V79, P5516, DOI 10.1128/JVI.79.9.5516-5528.2005
+   Brien JD, 2008, J IMMUNOL, V181, P8568, DOI 10.4049/jimmunol.181.12.8568
+   Chevalier G, 2011, PLOS PATHOG, V7, DOI 10.1371/journal.ppat.1002393
+   Chiang CY, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001645
+   Cockburn JJB, 2012, EMBO J, V31, P767, DOI 10.1038/emboj.2011.439
+   Gao GP, 2008, HUM GENE THER, V19, P927, DOI 10.1089/hum.2008.011
+   GEHRMANN J, 1995, BRAIN RES REV, V20, P269, DOI 10.1016/0165-0173(94)00015-H
+   Gil L, 2009, VIRAL IMMUNOL, V22, P23, DOI 10.1089/vim.2008.0063
+   Guirakhoo F, 2000, J VIROL, V74, P5477, DOI 10.1128/JVI.74.12.5477-5485.2000
+   Guirakhoo F, 2004, J VIROL, V78, P4761, DOI 10.1128/JVI.78.9.4761-4775.2004
+   Guirakhoo F, 2001, J VIROL, V75, P7290, DOI 10.1128/JVI.75.16.7290-7304.2001
+   Guy B, 2010, HUM VACCIN, V6
+   Guzman MG, 2015, LANCET, V385, P453, DOI 10.1016/S0140-6736(14)60572-9
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Han Young Woo, 2012, Immune Netw, V12, P48, DOI 10.4110/in.2012.12.2.48
+   Horstick O, 2015, PATHOG GLOB HEALTH, V109, P19, DOI 10.1179/2047773215Y.0000000003
+   Knickelbein JE, 2008, SCIENCE, V322, P268, DOI 10.1126/science.1164164
+   KURANE I, 1991, J CLIN INVEST, V88, P1473, DOI 10.1172/JCI115457
+   Liu T, 2001, J VIROL, V75, P11178, DOI 10.1128/JVI.75.22.11178-11184.2001
+   Liu T, 2001, J VIROL, V75, P2107, DOI 10.1128/JVI.75.5.2107-2118.2001
+   Lok SM, 2008, NAT STRUCT MOL BIOL, V15, P312, DOI 10.1038/nsmb.1382
+   Lundegaard C, 2008, NUCLEIC ACIDS RES, V36, pW509, DOI 10.1093/nar/gkn202
+   Luria-Perez R, 2007, VACCINE, V25, P5071, DOI 10.1016/j.vaccine.2007.03.047
+   Moutaftsi M, 2006, NAT BIOTECHNOL, V24, P817, DOI 10.1038/nbt1215
+   MuraliKrishna K, 1996, J GEN VIROL, V77, P705, DOI 10.1099/0022-1317-77-4-705
+   Murgue B, 2000, J MED VIROL, V60, P432, DOI 10.1002/(SICI)1096-9071(200004)60:4&lt;432::AID-JMV11&gt;3.0.CO;2-7
+   Pierson TC, 2012, STRUCTURE, V20, P200, DOI 10.1016/j.str.2012.01.014
+   Rivino L, 2015, SCI TRANSL MED, V7, DOI 10.1126/scitranslmed.aaa0526
+   Rivino L, 2013, J VIROL, V87, P2693, DOI 10.1128/JVI.02675-12
+   Roehrig JT, 2008, VIRAL IMMUNOL, V21, P123, DOI 10.1089/vim.2008.0007
+   Romano CM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0070318
+   Sabchareon A, 2012, LANCET, V380, P1559, DOI 10.1016/S0140-6736(12)61428-7
+   SABIN ALBERT B., 1952, AMER JOUR TROP MED AND HYG, V1, P30
+   Sitati EM, 2006, J VIROL, V80, P12060, DOI 10.1128/JVI.01650-06
+   Teoh EP, 2012, SCI TRANSL MED, V4, DOI 10.1126/scitranslmed.3003888
+   Vaughn DW, 2000, J INFECT DIS, V181, P2, DOI 10.1086/315215
+   Villar L, 2014, N ENGL J MED, V372
+   Wang P, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000048
+   Weiskopf D, 2015, P NATL ACAD SCI USA, V112, pE4256, DOI 10.1073/pnas.1505956112
+   Weiskopf D, 2015, J VIROL, V89, P120, DOI 10.1128/JVI.02129-14
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   Yauch LE, 2010, J IMMUNOL, V185, P5405, DOI 10.4049/jimmunol.1001709
+   Yoshida T, 2013, ARCH VIROL, V158, P1209, DOI 10.1007/s00705-013-1618-6
+   Yun NE, 2009, VACCINE, V27, P4064, DOI 10.1016/j.vaccine.2009.04.015
+   Zellweger RM, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003723
+   Zhang ZS, 2007, J VIROL METHODS, V143, P125, DOI 10.1016/j.jviromet.2007.02.012
+NR 51
+TC 15
+Z9 16
+U1 0
+U2 11
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0042-6822
+J9 VIROLOGY
+JI Virology
+PD JAN
+PY 2016
+VL 487
+BP 41
+EP 49
+DI 10.1016/j.virol.2015.10.006
+PG 9
+WC Virology
+SC Virology
+GA CY5HK
+UT WOS:000366438500005
+PM 26496698
+OA Bronze
+DA 2020-12-01
+ER
+
+PT J
+AU Salvador, FS
+   Amorim, JH
+   Alves, RP
+   Pereira, SA
+   Ferreira, LCS
+   Romano, CM
+AF Salvador, Felipe Scassi
+   Amorim, Jaime Henrique
+   Santos Alves, Rubens Prince
+   Pereira, Sara A.
+   Souza Ferreira, Luis Carlos
+   Romano, Camila Malta
+TI Complete Genome Sequence of an Atypical Dengue Virus Serotype 2 Lineage
+   Isolated in Brazil
+SO MICROBIOLOGY RESOURCE ANNOUNCEMENTS
+LA English
+DT Article
+AB Here, we report the complete polyprotein sequence of a dengue virus 2 strain isolated in Brazil. This virus belongs to the American genotype and has the ability to cause neurovirulence in immunocompetent adult mice. The data presented here may help understand the genetic determinants responsible for neurovirulence.
+C1 [Salvador, Felipe Scassi; Romano, Camila Malta] Univ Sao Paulo, Sch Med, Sao Paulo Inst Trop Med, Sao Paulo, Brazil.
+   [Amorim, Jaime Henrique; Santos Alves, Rubens Prince; Pereira, Sara A.; Souza Ferreira, Luis Carlos] Univ Sao Paulo, Inst Biomed Sci, Sao Paulo, Brazil.
+RP Romano, CM (corresponding author), Univ Sao Paulo, Sch Med, Sao Paulo Inst Trop Med, Sao Paulo, Brazil.
+EM cmromano@usp.br
+RI Amorim, Jaime Henrique/O-9222-2017; Romano, Camila M/C-8185-2013;
+   Romano, Camila/ABC-2883-2020; Ferreira, Luis/M-3954-2014
+OI Amorim, Jaime Henrique/0000-0002-0623-2879; Romano,
+   Camila/0000-0003-4550-1987; Ferreira, Luis/0000-0002-4883-1693; Alves,
+   Rubens/0000-0001-5538-6025; Araujo Pereira, Sara/0000-0001-8218-9465
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2012/15381-7, 2012/51204-2, 2011/51761-6]
+FX This work was funded by FAPESP grants 2012/15381-7, 2012/51204-2, and
+   2011/51761-6.
+CR Amorim JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044984
+   ANDERSON CR, 1956, SCIENCE, V124, P224, DOI 10.1126/science.124.3214.224
+   Bray M, 1998, J VIROL, V72, P1647, DOI 10.1128/JVI.72.2.1647-1651.1998
+   Romano CM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0070318
+NR 4
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 2576-098X
+J9 MICROBIOL RESOUR ANN
+JI Microbiol. Resour. Ann.
+PD JUL-AUG
+PY 2015
+VL 3
+IS 4
+AR e00779-15
+DI 10.1128/genomeA.00779-15
+PG 2
+WC Microbiology
+SC Microbiology
+GA VI1DL
+UT WOS:000460635800071
+PM 26184939
+OA Green Published, Other Gold
+DA 2020-12-01
+ER
+
+PT J
+AU Amorim, JH
+   Bizerra, R
+   Alves, RPD
+   Fabris, DLN
+   Ferreira, LCD
+AF Amorim, Jaime Henrique
+   Bizerra, Raiza
+   dos Santos Alves, Rubens Prince
+   Nascimento Fabris, Denicar Lina
+   de Souza Ferreira, Luis Carlos
+TI Dengue virus models based on mice as experimental hosts
+SO FUTURE VIROLOGY
+LA English
+DT Review
+DE dengue virus; mouse models; vaccine
+ID ANTIBODY-DEPENDENT ENHANCEMENT; NONSTRUCTURAL PROTEIN NS1; HUMANIZED BLT
+   MICE; T-CELL RESPONSES; WEST-NILE-VIRUS; MOUSE MODEL; IMMUNE-RESPONSES;
+   DOMAIN-III; PROTECTIVE IMMUNITY; VACCINE DEVELOPMENT
+AB Dengue virus (DENV) causes dengue fever, a widely distributed endemic disease transmitted by mosquitoes. The complex interaction of DENV with the human immune system has complicated the development of an effective vaccine. This may be attributed, at least in part, to the lack of a suitable animal model capable to reproduce symptoms observed in humans. Mouse models are simple but usually rely on host-adapted virus strains or immunodeficient mouse lineages. Recent evidences indicated that some natural DENV strains are capable to infect immunocompetent mice. In addition, humanized mouse lineages can more faithfully reproduce some of the symptoms observed in humans. Such experimental models are valuable tools for the study of DENV biology.
+C1 [Amorim, Jaime Henrique; Bizerra, Raiza; dos Santos Alves, Rubens Prince; Nascimento Fabris, Denicar Lina; de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Dept Microbiol, Vaccine Dev Lab, ICB 2, BR-05508000 Sao Paulo, SP, Brazil.
+RP Amorim, JH (corresponding author), Univ Sao Paulo, Dept Microbiol, Vaccine Dev Lab, ICB 2, Av Prof Lineu Prestes,1374,Cidade Univ, BR-05508000 Sao Paulo, SP, Brazil.
+EM jhamorim@usp.br
+RI Amorim, Jaime Henrique/O-9222-2017; Ferreira, Luis/M-3954-2014
+OI Amorim, Jaime Henrique/0000-0002-0623-2879; Ferreira,
+   Luis/0000-0002-4883-1693
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2011/51.761-6]
+FX The authors are grateful for the financial support of FAPESP (process
+   number 2011/51.761-6). The authors have no other relevant affiliations
+   or financial involvement with any organization or entity with a
+   financial interest in or financial conflict with the subject matter or
+   materials discussed in the manuscript apart from those disclosed.
+CR Aguirre S, 2012, PLOS PATHOG, V8, DOI 10.1371/journal.ppat.1002934
+   Akkina R, 2013, VIROLOGY, V435, P14, DOI 10.1016/j.virol.2012.10.007
+   Althouse BM, 2014, VIROLOGY, V452, P237, DOI 10.1016/j.virol.2014.01.015
+   Amorim JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044984
+   Amorim JH, 2012, VACCINE, V30, P837, DOI 10.1016/j.vaccine.2011.12.034
+   An J, 1999, VIROLOGY, V263, P70, DOI 10.1006/viro.1999.9887
+   Atrasheuskaya A, 2003, FEMS IMMUNOL MED MIC, V35, P33, DOI 10.1111/j.1574-695X.2003.tb00646.x
+   Avirutnan P, 1998, J IMMUNOL, V161, P6338
+   Avirutnan P, 2010, J EXP MED, V207, P793, DOI 10.1084/jem.20092545
+   Azevedo AS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020528
+   Balsitis SJ, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1000790
+   Bente DA, 2005, J VIROL, V79, P13797, DOI 10.1128/JVI.79.21.13797-13799.2005
+   Berges BK, 2011, RETROVIROLOGY, V8, DOI 10.1186/1742-4690-8-65
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Biswas S, 2011, IMMUNOLOGY, V134, P419, DOI 10.1111/j.1365-2567.2011.03501.x
+   Blaney JE, 2005, J VIROL, V79, P5516, DOI 10.1128/JVI.79.9.5516-5528.2005
+   Bray M, 1998, J VIROL, V72, P1647, DOI 10.1128/JVI.72.2.1647-1651.1998
+   Cabrera-Hernandez A, 2007, J MED VIROL, V79, P386, DOI 10.1002/jmv.20786
+   Cassetti MC, 2010, VACCINE, V28, P4229, DOI 10.1016/j.vaccine.2010.04.045
+   Chen HC, 2007, J VIROL, V81, P5518, DOI 10.1128/JVI.02575-06
+   Chen YP, 1997, NAT MED, V3, P866, DOI 10.1038/nm0897-866
+   Chiang CY, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002432
+   Chiang CY, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001645
+   Christofferson RC, 2013, VIROL J, V10, DOI 10.1186/1743-422X-10-127
+   Chu JJH, 2006, VIROLOGY, V349, P463, DOI 10.1016/j.virol.2006.01.022
+   Chu JJH, 2004, J BIOL CHEM, V279, P54533, DOI 10.1074/jbc.M410208200
+   Costa SM, 2007, VIROLOGY, V358, P413, DOI 10.1016/j.virol.2006.08.052
+   Costa SM, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0025685
+   Cox J, 2012, J VIROL, V86, P7637, DOI 10.1128/JVI.00534-12
+   Crill WD, 2001, J VIROL, V75, P7769, DOI 10.1128/JVI.75.16.7769-7773.2001
+   Edelman R, 2003, AM J TROP MED HYG, V69, P48, DOI 10.4269/ajtmh.2003.69.48
+   Edgil D, 2003, VIROLOGY, V317, P275, DOI 10.1016/j.virol.2003.08.012
+   Ferreira GP, 2010, MICROBES INFECT, V12, P546, DOI 10.1016/j.micinf.2010.03.007
+   Frias-Staheli N, 2014, J VIROL, V88, P2205, DOI 10.1128/JVI.03085-13
+   Goncalves D, 2012, THESCIENTIFICWORLDJO, V2012
+   Gromowski GD, 2007, VIROLOGY, V366, P349, DOI 10.1016/j.virol.2007.05.042
+   Guirakhoo F, 2001, J VIROL, V75, P7290, DOI 10.1128/JVI.75.16.7290-7304.2001
+   Guy B, 2011, LANCET, V377, P381, DOI 10.1016/S0140-6736(11)60128-1
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   HALSTEAD SB, 1980, B WORLD HEALTH ORGAN, V58, P1
+   HALSTEAD SB, 1973, J INFECT DIS, V128, P7, DOI 10.1093/infdis/128.1.7
+   HALSTEAD SB, 1981, INFECT IMMUN, V31, P102, DOI 10.1128/IAI.31.1.102-106.1981
+   HAMMON WM, 1960, SCIENCE, V131, P1102, DOI 10.1126/science.131.3407.1102
+   HENCHAL EA, 1990, CLIN MICROBIOL REV, V3, P376, DOI 10.1128/CMR.3.4.376-396.1990
+   Henriques HR, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002330
+   Huang CYH, 2003, J VIROL, V77, P11436, DOI 10.1128/JVI.77.21.11436-11447.2003
+   Huang KJ, 2006, J IMMUNOL, V176, P2825, DOI 10.4049/jimmunol.176.5.2825
+   Jaiswal S, 2012, IMMUNOLOGY, V136, P334, DOI 10.1111/j.1365-2567.2012.03585.x
+   Johnson AJ, 1999, J VIROL, V73, P783, DOI 10.1128/JVI.73.1.783-786.1999
+   Kuruvilla JG, 2007, VIROLOGY, V369, P143, DOI 10.1016/j.virol.2007.06.005
+   Kyle JL, 2008, VIROLOGY, V380, P296, DOI 10.1016/j.virol.2008.08.008
+   Lan P, 2006, BLOOD, V108, P487, DOI 10.1182/blood-2005-11-4388
+   Lawson D, 2007, NUCLEIC ACIDS RES, V35, pD503, DOI 10.1093/nar/gkl960
+   Legrand N, 2009, CELL HOST MICROBE, V6, P5, DOI 10.1016/j.chom.2009.06.006
+   Lin YL, 1998, J VIROL, V72, P9729, DOI 10.1128/JVI.72.12.9729-9737.1998
+   LITTAUA R, 1990, J IMMUNOL, V144, P3183
+   Lozach PY, 2005, J BIOL CHEM, V280, P23698, DOI 10.1074/jbc.M504337200
+   Markoff L, 2003, ADV VIRUS RES, V59, P177, DOI 10.1016/S0065-3527(03)59006-6
+   Melkus MW, 2006, NAT MED, V12, P1316, DOI 10.1038/nm1431
+   Miller JL, 2008, PLOS PATHOG, V4, DOI 10.1371/journal.ppat.0040017
+   Morrison J, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003265
+   Mota J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020762
+   Mota J, 2009, J VIROL, V83, P8638, DOI 10.1128/JVI.00581-09
+   Nene V, 2007, SCIENCE, V316, P1718, DOI 10.1126/science.1138878
+   Pham TB, 2009, J CLIN VIROL, V45, P276, DOI 10.1016/j.jcv.2009.04.004
+   QU XY, 1993, J GEN VIROL, V74, P89, DOI 10.1099/0022-1317-74-1-89
+   Rajmane Y, 2013, VIRUS RES, V173, P386, DOI 10.1016/j.virusres.2013.01.002
+   Ren JP, 2007, VIROL J, V4, DOI 10.1186/1743-422X-4-83
+   Sabchareon A, 2012, LANCET, V380, P1559, DOI 10.1016/S0140-6736(12)61428-7
+   SABIN AB, 1945, SCIENCE, V101, P640, DOI 10.1126/science.101.2634.640
+   SABIN ALBERT B., 1952, AMER JOUR TROP MED AND HYG, V1, P30
+   SCHERER WF, 1978, AM J TROP MED HYG, V27, P590, DOI 10.4269/ajtmh.1978.27.590
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   Sessions OM, 2009, NATURE, V458, P1047, DOI 10.1038/nature07967
+   Shresta S, 2006, J VIROL, V80, P10208, DOI 10.1128/JVI.00062-06
+   Shultz LD, 2010, P NATL ACAD SCI USA, V107, P13022, DOI 10.1073/pnas.1000475107
+   SRIVASTAVA AK, 1995, VACCINE, V13, P1251, DOI 10.1016/0264-410X(94)00059-V
+   Stoddart CA, 2011, VIROLOGY, V417, P154, DOI 10.1016/j.virol.2011.05.013
+   Tan GK, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000672
+   Tanner L, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000196
+   Traggiai E, 2004, SCIENCE, V304, P104, DOI 10.1126/science.1093933
+   Tuiskunen A, 2011, VIROL J, V8, DOI 10.1186/1743-422X-8-398
+   van der Schaar HM, 2007, J VIROL, V81, P12019, DOI 10.1128/JVI.00300-07
+   van der Schaar HM, 2009, IMMUNOBIOLOGY, V214, P613, DOI 10.1016/j.imbio.2008.11.008
+   VANDENBROEK MF, 1995, J VIROL, V69, P4792, DOI 10.1128/JVI.69.8.4792-4796.1995
+   Villar L, 2014, NEW ENGL J MED, V372
+   Weiskopf D, 2011, J IMMUNOL, V187, P4268, DOI 10.4049/jimmunol.1101970
+   WENGLER G, 1978, VIROLOGY, V89, P423, DOI 10.1016/0042-6822(78)90185-X
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   World Health Organization (WHO), DENG SEV DENG
+   Wu SF, 2003, VACCINE, V21, P3919, DOI 10.1016/S0264-410X(03)00310-4
+   WU SJL, 1995, AM J TROP MED HYG, V52, P468, DOI 10.4269/ajtmh.1995.52.468
+   Wu-Hsieh BA, 2009, ANN NY ACAD SCI, V1171, pE42, DOI 10.1111/j.1749-6632.2009.05053.x
+   Yauch LE, 2014, ADV VIRUS RES, V88, P315, DOI 10.1016/B978-0-12-800098-4.00007-6
+   Yu CY, 2012, PLOS PATHOG, V8, DOI 10.1371/journal.ppat.1002780
+   Zellweger RM, 2010, CELL HOST MICROBE, V7, P128, DOI 10.1016/j.chom.2010.01.004
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+   Zompi S, 2012, VIRUSES-BASEL, V4, P62, DOI 10.3390/v4010062
+   Zust R, 2014, J VIROL, V88, P7276, DOI 10.1128/JVI.03827-13
+NR 99
+TC 1
+Z9 1
+U1 0
+U2 3
+PU FUTURE MEDICINE LTD
+PI LONDON
+PA UNITEC HOUSE, 3RD FLOOR, 2 ALBERT PLACE, FINCHLEY CENTRAL, LONDON, N3
+   1QB, ENGLAND
+SN 1746-0794
+EI 1746-0808
+J9 FUTURE VIROL
+JI Future Virol.
+PY 2015
+VL 10
+IS 7
+BP 835
+EP 844
+DI 10.2217/FVL.15.48
+PG 10
+WC Virology
+SC Virology
+GA CO6KR
+UT WOS:000359266100005
+DA 2020-12-01
+ER
+
+PT J
+AU Amorim, JH
+   Alves, RPD
+   Boscardin, SB
+   Ferreira, LCD
+AF Amorim, Jaime Henrique
+   dos Santos Alves, Rubens Prince
+   Boscardin, Silvia Beatriz
+   de Souza Ferreira, Luis Carlos
+TI The dengue virus non-structural 1 protein: Risks and benefits
+SO VIRUS RESEARCH
+LA English
+DT Review
+DE Dengue virus; NS1 protein; Pathogenesis; Antiviral; Vaccine; Diagnosis
+ID CD8(-) DENDRITIC CELLS; NS1 PROTEIN; PROTECTIVE EFFICACY;
+   ENDOTHELIAL-CELLS; GLYCOPROTEIN NS1; LETHAL CHALLENGE; DNA VACCINE;
+   RAPID TEST; T-CELLS; ANTIGEN
+AB The dengue virus (DENV) non-structural 1 (NS1) protein plays a critical role in viral RNA replication and has a central position in DENV pathogenesis. DENV NS1 is a glycoprotein expressed in infected mammalian cells as soluble monomers that dimerize in the lumen of the endoplasmic reticulum; NS1 is subsequently transported to the cell surface, where it remains membrane associated or is secreted into the extracellular milieu as a hexameric complex. During the last three decades, the DENV NS1 protein has also been intensively investigated as a potential target for vaccines antiviral drugs. In addition, NS1 is the major diagnostic marker for dengue infection. This review highlights some important issues regarding the role of NS1 in DENV pathogenesis and its biotechnological applications, both as a target for the development of safe and effective vaccines and antiviral drugs and as a tool for the generation of accurate diagnostic methods. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Amorim, Jaime Henrique; dos Santos Alves, Rubens Prince; de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Dept Microbiol, Vaccine Dev Lab, BR-05508000 Sao Paulo, Brazil.
+   [Boscardin, Silvia Beatriz] Univ Sao Paulo, Dept Parasitol, Lab Antigen Targeting Dendrit Cells, BR-05508000 Sao Paulo, Brazil.
+RP Amorim, JH (corresponding author), Univ Sao Paulo, ICB 2, Dept Microbiol, Vaccine Dev Lab, Av Prof Lineu Prestes 1374,Cidade Univ, BR-05508000 Sao Paulo, Brazil.
+EM jhamorim@usp.br
+RI Ferreira, Luis Carlos S/M-3954-2014; Amorim, Jaime Henrique/O-9222-2017;
+   Boscardin, Silvia Beatriz/C-3397-2012
+OI Ferreira, Luis Carlos S/0000-0002-4883-1693; Amorim, Jaime
+   Henrique/0000-0002-0623-2879; Boscardin, Silvia
+   Beatriz/0000-0002-7845-7110; Alves, Rubens/0000-0001-5538-6025
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2011/51.761-6, 2007/08648-8]; CNPqNational Council for Scientific and
+   Technological Development (CNPq) [INCTV 15203*8, 15203*12]
+FX We are grateful for the financial support of FAPESP (2011/51.761-6 and
+   2007/08648-8) and CNPq grants (INCTV 15203*8 and 15203*12).
+CR Alcon S, 2002, J CLIN MICROBIOL, V40, P376, DOI 10.1128/JCM.40.02.376-381.2002
+   Amorim JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044984
+   Amorim JH, 2012, VACCINE, V30, P837, DOI 10.1016/j.vaccine.2011.12.034
+   Avirutnan P, 2007, PLOS PATHOG, V3, P1798, DOI 10.1371/journal.ppat.0030183
+   Avirutnan P, 2011, J IMMUNOL, V187, P424, DOI 10.4049/jimmunol.1100750
+   Avirutnan P, 2010, J EXP MED, V207, P793, DOI 10.1084/jem.20092545
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Blacksell SD, 2012, CLIN VACCINE IMMUNOL, V19, P804, DOI 10.1128/CVI.05717-11
+   Chaiyaratana W, 2009, DIAGN MICR INFEC DIS, V64, P83, DOI 10.1016/j.diagmicrobio.2009.01.004
+   Chaterji S, 2011, AM J TROP MED HYG, V84, P224, DOI 10.4269/ajtmh.2011.10-0316
+   Chen MC, 2009, J IMMUNOL, V183, P1797, DOI 10.4049/jimmunol.0800672
+   Cheng HJ, 2009, MOL IMMUNOL, V47, P398, DOI 10.1016/j.molimm.2009.08.033
+   Costa SM, 2007, VIROLOGY, V358, P413, DOI 10.1016/j.virol.2006.08.052
+   Costa SM, 2006, VACCINE, V24, P195, DOI 10.1016/j.vaccine.2005.07.059
+   den Haan JMM, 2002, J EXP MED, V196, P817, DOI 10.1084/jem.20020295
+   den Haan JMM, 2000, J EXP MED, V192, P1685, DOI 10.1084/jem.192.12.1685
+   Dussart P, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000280
+   Falconar AKI, 1997, ARCH VIROL, V142, P897, DOI 10.1007/s007050050127
+   Falconar AKI, 2007, CLIN VACCINE IMMUNOL, V14, P493, DOI 10.1128/CVI.00371-06
+   Falconar AKI, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021024
+   FALGOUT B, 1989, J VIROL, V63, P1852, DOI 10.1128/JVI.63.5.1852-1860.1989
+   FALGOUT B, 1995, J VIROL, V69, P7232, DOI 10.1128/JVI.69.11.7232-7243.1995
+   FALGOUT B, 1990, J VIROL, V64, P4356, DOI 10.1128/JVI.64.9.4356-4363.1990
+   Flamand M, 1999, J VIROL, V73, P6104, DOI 10.1128/JVI.73.7.6104-6110.1999
+   Fry SR, 2011, PLOS NEGLECT TROP D, V5, DOI 10.1371/journal.pntd.0001199
+   Groen J, 2000, CLIN DIAGN LAB IMMUN, V7, P867, DOI 10.1128/CDLI.7.6.867-871.2000
+   Gubler DJ, 1999, ADV VIRUS RES, V53, P35, DOI 10.1016/S0065-3527(08)60342-5
+   Gubler DJ, 1998, CLIN MICROBIOL REV, V11, P480, DOI 10.1128/CMR.11.3.480
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Halstead SB, 2007, LANCET, V370, P1644, DOI 10.1016/S0140-6736(07)61687-0
+   Hang VT, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000360
+   HENCHAL EA, 1988, J GEN VIROL, V69, P2101, DOI 10.1099/0022-1317-69-8-2101
+   Henriques HR, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002330
+   Huang SS, 2013, INT J NANOMED, V8, P3161, DOI 10.2147/IJN.S49972
+   Kalluri S, 2007, PLOS PATHOG, V3, P1361, DOI 10.1371/journal.ppat.0030116
+   Koraka P, 2002, MICROBES INFECT, V4, P1209, DOI 10.1016/S1286-4579(02)01647-7
+   Kurosu T, 2007, BIOCHEM BIOPH RES CO, V362, P1051, DOI 10.1016/j.bbrc.2007.08.137
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Lemes EMB, 2005, J CLIN VIROL, V32, P305, DOI 10.1016/j.jcv.2004.08.015
+   Lin CF, 2003, J MED VIROL, V69, P82, DOI 10.1002/jmv.10261
+   Lin CF, 2002, J IMMUNOL, V169, P657, DOI 10.4049/jimmunol.169.2.657
+   Lin CF, 2001, J MED VIROL, V63, P143, DOI 10.1002/1096-9071(20000201)63:2&lt;143::AID-JMV1009&gt;3.0.CO;2-L
+   Lin CF, 2006, VIRAL IMMUNOL, V19, P127, DOI 10.1089/vim.2006.19.127
+   Lin SW, 2012, J INFECTION, V64, P325, DOI 10.1016/j.jinf.2011.11.023
+   Lindenbach BD, 1997, J VIROL, V71, P9608, DOI 10.1128/JVI.71.12.9608-9617.1997
+   Lindenbach BD, 2001, FIELDS VIROLOGY, VII, P991, DOI DOI 10.1016/J.JMB.2013.11.024
+   Mackenzie JM, 1996, VIROLOGY, V220, P232, DOI 10.1006/viro.1996.0307
+   Martina BEE, 2009, CLIN MICROBIOL REV, V22, P564, DOI 10.1128/CMR.00035-09
+   Mohan S, 2012, INT J ANTIMICROB AG, V40, P273, DOI 10.1016/j.ijantimicag.2012.05.002
+   Muller DA, 2013, ANTIVIR RES, V98, P192, DOI 10.1016/j.antiviral.2013.03.008
+   Muller DA, 2012, ANAL CHEM, V84, P3262, DOI 10.1021/ac2034387
+   Muylaert IR, 1996, VIROLOGY, V222, P159, DOI 10.1006/viro.1996.0406
+   *PAHO, 1994, DENG DENG HEM FEV AM
+   Pongsumpun P, 2008, TROP MED INT HEALTH, V13, P1180, DOI 10.1111/j.1365-3156.2008.02124.x
+   Pooley JL, 2001, J IMMUNOL, V166, P5327, DOI 10.4049/jimmunol.166.9.5327
+   PRYOR MJ, 1994, J GEN VIROL, V75, P1183, DOI 10.1099/0022-1317-75-5-1183
+   QU XY, 1993, J GEN VIROL, V74, P89, DOI 10.1099/0022-1317-74-1-89
+   Rajapakse Senaka, 2011, J Emerg Trauma Shock, V4, P120, DOI 10.4103/0974-2700.76835
+   Ramirez AH, 2009, DIAGN MICR INFEC DIS, V65, P247, DOI 10.1016/j.diagmicrobio.2009.07.022
+   Rathore APS, 2011, ANTIVIR RES, V92, P453, DOI 10.1016/j.antiviral.2011.10.002
+   Sampath A, 2009, ANTIVIR RES, V81, P6, DOI 10.1016/j.antiviral.2008.08.004
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   SRIVASTAVA AK, 1995, VACCINE, V13, P1251, DOI 10.1016/0264-410X(94)00059-V
+   TDR/WHO, 2009, DENG GUID DIAGN TREA, P23
+   Vaughn DW, 2000, J INFECT DIS, V181, P2, DOI 10.1086/315215
+   Vaughn DW, 1997, J INFECT DIS, V176, P322, DOI 10.1086/514048
+   Vazquez S, 2010, DIAGN MICR INFEC DIS, V68, P46, DOI 10.1016/j.diagmicrobio.2010.04.006
+   Watanabe S, 2012, ANTIVIR RES, V96, P32, DOI 10.1016/j.antiviral.2012.07.008
+   Whitby K, 2005, J VIROL, V79, P8698, DOI 10.1128/JVI.79.14.8698-8706.2005
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   WINKLER G, 1988, VIROLOGY, V162, P187, DOI 10.1016/0042-6822(88)90408-4
+   World Health Organization, 1997, DENG HAEM FEV DIAGN
+   Wu SF, 2003, VACCINE, V21, P3919, DOI 10.1016/S0264-410X(03)00310-4
+   Young PR, 2000, J CLIN MICROBIOL, V38, P1053, DOI 10.1128/JCM.38.3.1053-1057.2000
+   Zainah S, 2009, J VIROL METHODS, V155, P157, DOI 10.1016/j.jviromet.2008.10.016
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+   Zhou JM, 2006, VIRUS GENES, V33, P27, DOI 10.1007/s11262-005-0036-6
+NR 77
+TC 42
+Z9 45
+U1 0
+U2 14
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0168-1702
+EI 1872-7492
+J9 VIRUS RES
+JI Virus Res.
+PD MAR 6
+PY 2014
+VL 181
+BP 53
+EP 60
+DI 10.1016/j.virusres.2014.01.001
+PG 8
+WC Virology
+SC Virology
+GA AD1OE
+UT WOS:000333002500008
+PM 24434336
+DA 2020-12-01
+ER
+
+PT J
+AU de Souza, RD
+   Batista, MT
+   Luiz, WB
+   Cavalcante, RCM
+   Amorim, JH
+   Bizerra, RSP
+   Martins, EG
+   Ferreira, LCD
+AF de Souza, Renata Damasio
+   Batista, Milene Tavares
+   Luiz, Wilson Barros
+   Marques Cavalcante, Rafael Ciro
+   Amorim, Jaime Henrique
+   Pereira Bizerra, Raiza Sales
+   Martins, Eduardo Gimenes
+   de Souza Ferreira, Luis Carlos
+TI Bacillus subtilis Spores as Vaccine Adjuvants: Further Insights into the
+   Mechanisms of Action
+SO PLOS ONE
+LA English
+DT Article
+ID IMMUNE-RESPONSE; ENDOSPORES; DELIVERY
+AB Bacillus subtilis spores have received growing attention regarding potential biotechnological applications, including the use as probiotics and in vaccine formulations. B. subtilis spores have also been shown to behave as particulate vaccine adjuvants, promoting the increase of antibody responses after co-administration with antigens either admixed or adsorbed on the spore surface. In this study, we further evaluated the immune modulatory properties of B. subtilis spores using a recombinant HIV gag p24 protein as a model antigen. The adjuvant effects of B. subtilis spores were not affected by the genetic background of the mouse lineage and did not induce significant inflammatory or deleterious effects after parenteral administration. Our results demonstrated that co-administration, but not adsorption to the spore surface, enhanced the immunogenicity of that target antigen after subcutaneous administration to BALB/c and C57BL/6 mice. Spores promoted activation of antigen presenting cells as demonstrated by the upregulation of MHC and CD40 molecules and enhanced secretion of pro-inflammatory cytokines by murine dendritic cells. In addition, in vivo studies indicated a direct role of the innate immunity on the immunomodulatory properties of B. subtilis spores, as demonstrated by the lack of adjuvant effects on MyD88 and TLR2 knockout mouse strains.
+C1 [de Souza, Renata Damasio; Batista, Milene Tavares; Luiz, Wilson Barros; Amorim, Jaime Henrique; Pereira Bizerra, Raiza Sales; Martins, Eduardo Gimenes; de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Vaccine Dev Lab, Inst Biomed Sci, Dept Microbiol, Sao Paulo, Brazil.
+   [Marques Cavalcante, Rafael Ciro] Univ Sao Paulo, Inst Biomed Sci, Dept Parasitol, Sao Paulo, Brazil.
+RP Ferreira, LCD (corresponding author), Univ Sao Paulo, Vaccine Dev Lab, Inst Biomed Sci, Dept Microbiol, Sao Paulo, Brazil.
+EM lcsf@usp.br
+RI Luiz, Wilson/H-2073-2012; Amorim, Jaime Henrique/O-9222-2017; Luiz,
+   Wilson/L-7575-2015; Ferreira, Luis/M-3954-2014
+OI Luiz, Wilson/0000-0001-5219-6699; Amorim, Jaime
+   Henrique/0000-0002-0623-2879; Luiz, Wilson/0000-0003-3265-8547;
+   Ferreira, Luis/0000-0002-4883-1693
+FU Foundation of the State of SApoundo Paulo(FAPESP); National Counsel of
+   Technological and Scientific Development (CNPq)National Council for
+   Scientific and Technological Development (CNPq)
+FX This work was supported by grants from the Foundation of the State of SA
+   o pound Paulo(FAPESP) and the National Counsel of Technological and
+   Scientific Development (CNPq). The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR AIDA Y, 1990, J IMMUNOL METHODS, V132, P191, DOI 10.1016/0022-1759(90)90029-U
+   Amorim JH, 2012, VACCINE, V30, P837, DOI 10.1016/j.vaccine.2011.12.034
+   Amuguni H, 2012, HUM VACC IMMUNOTHER, V8, DOI 10.4161/hv.20694
+   Barnes AGC, 2007, EUR J IMMUNOL, V37, P1538, DOI 10.1002/eji.200636875
+   Bozzacco L, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0041897
+   Breyhan H, 2009, ACTA NEUROPATHOL, V117, P677, DOI 10.1007/s00401-009-0539-7
+   Christmas P, 2010, NAT ED, V3, P85
+   Cutting SM, 2011, FOOD MICROBIOL, V28, P214, DOI 10.1016/j.fm.2010.03.007
+   DEUERLING E, 1995, J BACTERIOL, V177, P4105, DOI 10.1128/jb.177.14.4105-4112.1995
+   Fierens K, 2012, CURR PHARM DESIGN, V18, P2305, DOI 10.2174/138161212800166004
+   Heegaard PMH, 2011, ARCH VIROL, V156, P183, DOI 10.1007/s00705-010-0863-1
+   Huang JM, 2008, FEMS IMMUNOL MED MIC, V53, P195, DOI 10.1111/j.1574-695X.2008.00415.x
+   Huang JM, 2010, VACCINE, V28, P1021, DOI 10.1016/j.vaccine.2009.10.127
+   Lambrecht BN, 2009, CURR OPIN IMMUNOL, V21, P23, DOI 10.1016/j.coi.2009.01.004
+   Li XM, 2012, CLIN VACCINE IMMUNOL, V19, P723, DOI 10.1128/CVI.05700-11
+   Liard C, 2011, VACCINE, V29, P6379, DOI 10.1016/j.vaccine.2011.04.080
+   Marim FM, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015263
+   Miyaji EN, 2011, BRAZ J MED BIOL RES, V44, P500, DOI 10.1590/S0100-879X2011007500064
+   Montomoli E, 2011, EXPERT REV VACCINES, V10, P1053, DOI [10.1586/erv.11.48, 10.1586/ERV.11.48]
+   Negri A, 2013, J MED MICROBIOL, V62, P1379, DOI 10.1099/jmm.0.057372-0
+   Nicholson WL, 2000, MICROBIOL MOL BIOL R, V64, P548, DOI 10.1128/MMBR.64.3.548-572.2000
+   O'Hagan DT, 2003, NAT REV DRUG DISCOV, V2, P727, DOI 10.1038/nrd1176
+   Paccez JD, 2007, VACCINE, V25, P4671, DOI 10.1016/j.vaccine.2007.04.021
+   Reed SG, 2009, TRENDS IMMUNOL, V30, P23, DOI 10.1016/j.it.2008.09.006
+   Rodrigues JF, 2011, J BIOL CHEM, V286, P5222, DOI 10.1074/jbc.M110.173682
+   Song M, 2012, VACCINE, V30, P3266, DOI 10.1016/j.vaccine.2012.03.016
+   Tagliamonte M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0043318
+   Tavares MB, 2013, CURR MICROBIOL, V66, P279, DOI 10.1007/s00284-012-0269-2
+   Tavares MB, 2010, FEMS IMMUNOL MED MIC, V59, P131, DOI 10.1111/j.1574-695X.2010.00669.x
+   Visciano ML, 2012, J TRANSL MED, V10, DOI 10.1186/1479-5876-10-4
+   Watanabe H, 2004, SHOCK, V22, P460, DOI 10.1097/01.shk.0000142249.08135.e9
+   Wehrl W, 2000, J BACTERIOL, V182, P3870, DOI 10.1128/JB.182.13.3870-3873.2000
+   Zanoni I, 2009, NATURE, V460, P264, DOI 10.1038/nature08118
+NR 33
+TC 21
+Z9 22
+U1 0
+U2 10
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 27
+PY 2014
+VL 9
+IS 1
+AR e87454
+DI 10.1371/journal.pone.0087454
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 301BI
+UT WOS:000330507300184
+PM 24475289
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Henriques, HR
+   Rampazo, EV
+   Goncalves, AJS
+   Vicentin, ECM
+   Amorim, JH
+   Panatieri, RH
+   Amorim, KNS
+   Yamamoto, MM
+   Ferreira, LCS
+   Alves, AMB
+   Boscardin, SB
+AF Henriques, Hugo R.
+   Rampazo, Eline V.
+   Goncalves, Antonio J. S.
+   Vicentin, Elaine C. M.
+   Amorim, Jaime H.
+   Panatieri, Raquel H.
+   Amorim, Kelly N. S.
+   Yamamoto, Marcio M.
+   Ferreira, Luis C. S.
+   Alves, Ada M. B.
+   Boscardin, Silvia B.
+TI Targeting the Non-structural Protein 1 from Dengue Virus to a Dendritic
+   Cell Population Confers Protective Immunity to Lethal Virus Challenge
+SO PLOS NEGLECTED TROPICAL DISEASES
+LA English
+DT Article
+ID LCRV VIRULENCE PROTEIN; IN-VIVO; HIV GAG; T-CELLS; NS1 PROTEIN; ANTIGEN
+   PRESENTATION; ANTIBODY-RESPONSES; ENDOTHELIAL-CELLS; GLYCOPROTEIN NS1;
+   RECEPTOR DEC-205
+AB Dengue is the most prevalent arboviral infection, affecting millions of people every year. Attempts to control such infection are being made, and the development of a vaccine is a World Health Organization priority. Among the proteins being tested as vaccine candidates in preclinical settings is the non-structural protein 1 (NS1). In the present study, we tested the immune responses generated by targeting the NS1 protein to two different dendritic cell populations. Dendritic cells (DCs) are important antigen presenting cells, and targeting proteins to maturing DCs has proved to be an efficient means of immunization. Antigen targeting is accomplished by the use of a monoclonal antibody (mAb) directed against a DC cell surface receptor fused to the protein of interest. We used two mAbs (alpha DEC205 and alpha DCIR2) to target two distinct DC populations, expressing either DEC205 or DCIR2 endocytic receptors, respectively, in mice. The fusion mAbs were successfully produced, bound to their respective receptors, and were used to immunize BALB/c mice in the presence of polyriboinosinic: polyribocytidylic acid (poly (I:C)), as a DC maturation stimulus. We observed induction of strong anti-NS1 antibody responses and similar antigen binding affinity irrespectively of the DC population targeted. Nevertheless, the IgG1/IgG2a ratios were different between mouse groups immunized with alpha DEC-NS1 and alpha DCIR2-NS1 mAbs. When we tested the induction of cellular immune responses, the number of IFN-gamma producing cells was higher in alpha DEC-NS1 immunized animals. In addition, mice immunized with the alpha DEC-NS1 mAb were significantly protected from a lethal intracranial challenge with the DENV2 NGC strain when compared to mice immunized with alpha DCIR2-NS1 mAb. Protection was partially mediated by CD4(+) and CD8(+) T cells as depletion of these populations reduced both survival and morbidity signs. We conclude that targeting the NS1 protein to the DEC205(+) DC population with poly (I:C) opens perspectives for dengue vaccine development.
+C1 [Henriques, Hugo R.; Rampazo, Eline V.; Vicentin, Elaine C. M.; Panatieri, Raquel H.; Amorim, Kelly N. S.; Yamamoto, Marcio M.; Boscardin, Silvia B.] Univ Sao Paulo, Lab Antigen Targeting Dendrit Cells, Dept Parasitol, Sao Paulo, Brazil.
+   [Goncalves, Antonio J. S.; Alves, Ada M. B.] Fundacao Oswaldo Cruz, Lab Biotechnol & Physiol Viral Infect, Inst Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Amorim, Jaime H.; Ferreira, Luis C. S.] Univ Sao Paulo, Lab Vaccine Dev, Dept Microbiol, Sao Paulo, Brazil.
+   [Ferreira, Luis C. S.; Alves, Ada M. B.; Boscardin, Silvia B.] Natl Inst Sci & Technol Vaccines, Belo Horizonte, MG, Brazil.
+RP Henriques, HR (corresponding author), Univ Sao Paulo, Lab Antigen Targeting Dendrit Cells, Dept Parasitol, Sao Paulo, Brazil.
+EM sbboscardin@usp.br
+RI Ferreira, Luis Carlos S/M-3954-2014; Amorim, Jaime Henrique/O-9222-2017;
+   Boscardin, Silvia Beatriz/C-3397-2012
+OI Ferreira, Luis Carlos S/0000-0002-4883-1693; Amorim, Jaime
+   Henrique/0000-0002-0623-2879; Boscardin, Silvia
+   Beatriz/0000-0002-7845-7110
+FU Brazilian National Research Council (CNPq)/National Institutes of
+   Science and Technology in Vaccines (INCTV) [15203*12]; Sao Paulo State
+   Research Funding Agency (FAPESP)Fundacao de Amparo a Pesquisa do Estado
+   de Sao Paulo (FAPESP) [2007/08648-9, 2011/51761-6]; BNP-Paribas Bank;
+   Rio de Janeiro State Research Funding Agency (FAPERJ); FAPESPFundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) [2010/03079-9,
+   2009/5033-7]; CAPESCAPES
+FX This research was supported by the Brazilian National Research Council
+   (CNPq)/National Institutes of Science and Technology in Vaccines (INCTV,
+   15203*12), Sao Paulo State Research Funding Agency (FAPESP,
+   2007/08648-9, 2011/51761-6), BNP-Paribas Bank and Rio de Janeiro State
+   Research Funding Agency (FAPERJ). HRH and JHA received fellowships from
+   FAPESP (2010/03079-9 and 2009/5033-7) and EVR received a fellowship from
+   CAPES. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+CR Alcon S, 2002, J CLIN MICROBIOL, V40, P376, DOI 10.1128/JCM.40.02.376-381.2002
+   Amorim JH, 2012, VACCINE, V30, P837, DOI 10.1016/j.vaccine.2011.12.034
+   Amorim JH, 2010, J VIROL METHODS, V167, P186, DOI 10.1016/j.jviromet.2010.04.003
+   Azevedo AS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020528
+   Bonifaz L, 2002, J EXP MED, V196, P1627, DOI 10.1084/jem.20021598
+   Bonifaz LC, 2004, J EXP MED, V199, P815, DOI 10.1084/jem.20032220
+   Boscardin SB, 2006, J EXP MED, V203, P599, DOI 10.1084/jem.20051639
+   BOSCARDIN SB, 2009, NEW GENERATION VACCI, P327
+   BOUSSIF O, 1995, P NATL ACAD SCI USA, V92, P7297, DOI 10.1073/pnas.92.16.7297
+   Chappell CP, 2012, J EXP MED, V209, P1825, DOI 10.1084/jem.20120774
+   Cheng HJ, 2009, MOL IMMUNOL, V47, P398, DOI 10.1016/j.molimm.2009.08.033
+   Cheong C, 2010, BLOOD, V116, P3828, DOI 10.1182/blood-2010-06-288068
+   Corbett AJ, 2005, EUR J IMMUNOL, V35, P2815, DOI 10.1002/eji.200526100
+   Costa SM, 2007, VIROLOGY, V358, P413, DOI 10.1016/j.virol.2006.08.052
+   Costa SM, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0025685
+   Costa SM, 2006, VACCINE, V24, P195, DOI 10.1016/j.vaccine.2005.07.059
+   den Haan JMM, 2002, J EXP MED, V196, P817, DOI 10.1084/jem.20020295
+   den Haan JMM, 2000, J EXP MED, V192, P1685, DOI 10.1084/jem.192.12.1685
+   Do Y, 2008, EUR J IMMUNOL, V38, P20, DOI 10.1002/eji.200737799
+   Do Y, 2012, VACCINE, V30, P6359, DOI 10.1016/j.vaccine.2012.08.051
+   Do Y, 2010, EUR J IMMUNOL, V40, P2791, DOI 10.1002/eji.201040511
+   Dudziak D, 2007, SCIENCE, V315, P107, DOI 10.1126/science.1136080
+   Durbin AP, 2010, CURR TOP MICROBIOL, V338, P129, DOI 10.1007/978-3-642-02215-9_10
+   Falconar AKI, 1997, ARCH VIROL, V142, P897, DOI 10.1007/s007050050127
+   Flamand M, 1999, J VIROL, V73, P6104, DOI 10.1128/JVI.73.7.6104-6110.1999
+   Flynn BJ, 2011, P NATL ACAD SCI USA, V108, P7131, DOI 10.1073/pnas.1103869108
+   Gurer C, 2008, BLOOD, V112, P1231, DOI 10.1182/blood-2008-03-148072
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   Hawiger D, 2001, J EXP MED, V194, P769, DOI 10.1084/jem.194.6.769
+   Hochrein H, 2001, J IMMUNOL, V166, P5448, DOI 10.4049/jimmunol.166.9.5448
+   Idoyaga J, 2008, J IMMUNOL, V180, P3647, DOI 10.4049/jimmunol.180.6.3647
+   Idoyaga J, 2011, P NATL ACAD SCI USA, V108, P2384, DOI 10.1073/pnas.1019547108
+   Iyoda T, 2002, J EXP MED, V195, P1289, DOI 10.1084/jem.20020161
+   Jelinek I, 2011, J IMMUNOL, V186, P2422, DOI 10.4049/jimmunol.1002845
+   Lin CF, 2003, J MED VIROL, V69, P82, DOI 10.1002/jmv.10261
+   Liu K, 2002, J EXP MED, V196, P1091, DOI 10.1084/jem.20021215
+   Longhi MP, 2009, J EXP MED, V206, P1589, DOI 10.1084/jem.20090247
+   MACDONALD RA, 1988, J IMMUNOL METHODS, V106, P191, DOI 10.1016/0022-1759(88)90196-2
+   Mahnke K, 2005, CANCER RES, V65, P7007, DOI 10.1158/0008-5472.CAN-05-0938
+   Murphy BR, 2011, ANNU REV IMMUNOL, V29, P587, DOI 10.1146/annurev-immunol-031210-101315
+   Nchinda G, 2010, P NATL ACAD SCI USA, V107, P4281, DOI 10.1073/pnas.1000621107
+   Pooley JL, 2001, J IMMUNOL, V166, P5327, DOI 10.4049/jimmunol.166.9.5327
+   PRYOR MJ, 1993, VIROLOGY, V194, P769, DOI 10.1006/viro.1993.1318
+   Pulendran B, 1999, P NATL ACAD SCI USA, V96, P1036, DOI 10.1073/pnas.96.3.1036
+   ROBINSON RA, 1976, JNCI-J NATL CANCER I, V57, P599, DOI 10.1093/jnci/57.3.599
+   Rosa DS, 2004, IMMUNOL LETT, V92, P259, DOI 10.1016/j.imlet.2004.01.006
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   Schmitz J, 2011, VACCINE, V29, P7276, DOI 10.1016/j.vaccine.2011.07.017
+   Shortman K, 2002, NAT REV IMMUNOL, V2, P151, DOI 10.1038/nri746
+   Soares H, 2007, J EXP MED, V204, P1095, DOI 10.1084/jem.20070176
+   Stahl-Hennig C, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000373
+   Steinman RM, 2006, CURR TOP MICROBIOL, V311, P17
+   Steinman RM, 2010, EUR J IMMUNOL, V40, P2085, DOI 10.1002/eji.201040733
+   STEINMAN RM, 1980, IMMUNOL REV, V53, P127, DOI 10.1111/j.1600-065X.1980.tb01042.x
+   Tewari K, 2010, VACCINE, V28, P7256, DOI 10.1016/j.vaccine.2010.08.098
+   Trumpfheller C, 2006, J EXP MED, V203, P607, DOI 10.1084/jem.20052005
+   Trumpfheller C, 2012, J INTERN MED, V271, P183, DOI 10.1111/j.1365-2796.2011.02496.x
+   Trumpfheller C, 2008, P NATL ACAD SCI USA, V105, P2574, DOI 10.1073/pnas.0711976105
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   WINKLER G, 1988, VIROLOGY, V162, P187, DOI 10.1016/0042-6822(88)90408-4
+   WINKLER G, 1989, VIROLOGY, V171, P302, DOI 10.1016/0042-6822(89)90544-8
+   Wu SF, 2003, VACCINE, V21, P3919, DOI 10.1016/S0264-410X(03)00310-4
+   Young PR, 2000, J CLIN MICROBIOL, V38, P1053, DOI 10.1128/JCM.38.3.1053-1057.2000
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+NR 64
+TC 38
+Z9 40
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1935-2735
+J9 PLOS NEGLECT TROP D
+JI Plos Neglect. Trop. Dis.
+PD JUL
+PY 2013
+VL 7
+IS 7
+AR e2330
+DI 10.1371/journal.pntd.0002330
+PG 13
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA 296MG
+UT WOS:000330188600001
+PM 23875054
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Amorim, JH
+   Bizerra, RSP
+   Alves, RPD
+   Sbrogio-Almeida, ME
+   Levi, JE
+   Capurro, ML
+   Ferreira, LCD
+AF Amorim, Jaime Henrique
+   Pereira Bizerra, Raiza Sales
+   dos Santos Alves, Rubens Prince
+   Sbrogio-Almeida, Maria Elisabete
+   Levi, Jose Eduardo
+   Capurro, Margareth Lara
+   de Souza Ferreira, Luis Carlos
+TI A Genetic and Pathologic Study of a DENV2 Clinical Isolate Capable of
+   Inducing Encephalitis and Hematological Disturbances in Immunocompetent
+   Mice
+SO PLOS ONE
+LA English
+DT Article
+ID DENGUE VIRUS-INFECTION; DOMAIN-III; HEMORRHAGIC-FEVER; NS1 PROTEIN;
+   MOUSE MODEL; PATHOGENESIS; RECOMBINANT; MANIFESTATIONS; DETERMINANTS;
+   REPLICATION
+AB Dengue virus (DENV) is the causative agent of dengue fever (DF), a mosquito-borne illness endemic to tropical and subtropical regions. There is currently no effective drug or vaccine formulation for the prevention of DF and its more severe forms, i.e., dengue hemorrhagic fever (DHF) and dengue shock syndrome (DSS). There are two generally available experimental models for the study of DENV pathogenicity as well as the evaluation of potential vaccine candidates. The first model consists of non-human primates, which do not develop symptoms but rather a transient viremia. Second, mouse-adapted virus strains or immunocompromised mouse lineages are utilized, which display some of the pathological features of the infection observed in humans but may not be relevant to the results with regard to the wild-type original virus strains or mouse lineages. In this study, we describe a genetic and pathological study of a DENV2 clinical isolate, named JHA1, which is naturally capable of infecting and killing Balb/c mice and reproduces some of the symptoms observed in DENV-infected subjects. Sequence analyses demonstrated that the JHA1 isolate belongs to the American genotype group and carries genetic markers previously associated with neurovirulence in mouse-adapted virus strains. The JHA1 strain was lethal to immunocompetent mice following intracranial (i.c.) inoculation with a LD50 of approximately 50 PFU. Mice infected with the JHA1 strain lost weight and exhibited general tissue damage and hematological disturbances, with similarity to those symptoms observed in infected humans. In addition, it was demonstrated that the JHA1 strain shares immunological determinants with the DENV2 NGC reference strain, as evaluated by cross-reactivity of anti-envelope glycoprotein (domain III) antibodies. The present results indicate that the JHA1 isolate may be a useful tool in the study of DENV pathogenicity and will help in the evaluation of anti-DENV vaccine formulations as well as potential therapeutic approaches.
+C1 [Amorim, Jaime Henrique; Pereira Bizerra, Raiza Sales; dos Santos Alves, Rubens Prince; de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Dept Microbiol, Vaccine Dev Lab, BR-05508 Sao Paulo, Brazil.
+   [dos Santos Alves, Rubens Prince] Univ Estadual Santa Cruz, Ilheus, Brazil.
+   [Sbrogio-Almeida, Maria Elisabete] Butantan Inst, Sao Paulo, Brazil.
+   [Levi, Jose Eduardo] Univ Sao Paulo, Inst Trop Med, BR-05508 Sao Paulo, Brazil.
+   [Capurro, Margareth Lara] Univ Sao Paulo, Dept Parasitol, BR-05508 Sao Paulo, Brazil.
+RP Amorim, JH (corresponding author), Univ Sao Paulo, Dept Microbiol, Vaccine Dev Lab, BR-05508 Sao Paulo, Brazil.
+EM lcsf@usp.br
+RI Ferreira, Luis Carlos S/M-3954-2014; Amorim, Jaime Henrique/O-9222-2017;
+   Capurro, Margareth/M-5286-2019; Capurro, Margareth/F-8679-2012
+OI Ferreira, Luis Carlos S/0000-0002-4883-1693; Amorim, Jaime
+   Henrique/0000-0002-0623-2879; Capurro, Margareth/0000-0002-7480-2116
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   grantFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2009/50033-7]
+FX This work was supported by Fundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo (FAPESP) grant process 2009/50033-7. The funders had no role
+   in study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript
+CR Amaral DC, 2011, J NEUROINFLAMM, V9, P8
+   Amorim JH, 2012, VACCINE, V30, P837, DOI 10.1016/j.vaccine.2011.12.034
+   Amorim JH, 2010, J VIROL METHODS, V167, P186, DOI 10.1016/j.jviromet.2010.04.003
+   Atrasheuskaya A, 2003, FEMS IMMUNOL MED MIC, V35, P33, DOI 10.1111/j.1574-695X.2003.tb00646.x
+   Azevedo AS, 2011, PLOS ONE, V7
+   Bhardwaj S, 2001, J VIROL, V75, P4002, DOI 10.1128/JVI.75.8.4002-4007.2001
+   Blaney JE, 2005, J VIROL, V79, P5516, DOI 10.1128/JVI.79.9.5516-5528.2005
+   Bray M, 1998, J VIROL, V72, P1647, DOI 10.1128/JVI.72.2.1647-1651.1998
+   Chang SF, 2010, J CLIN MICROBIOL, V48, P4586, DOI 10.1128/JCM.01228-10
+   Chen MC, 2009, J IMMUNOL, V183, P1797, DOI 10.4049/jimmunol.0800672
+   Chin JFL, 2007, MICROBES INFECT, V9, P1, DOI 10.1016/j.micinf.2006.09.009
+   Chu JJH, 2005, J GEN VIROL, V86, P405, DOI 10.1099/vir.0.80411-0
+   Clements DE, 2010, VACCINE, V28, P2705, DOI 10.1016/j.vaccine.2010.01.022
+   Clyde K, 2006, J VIROL, V80, P11418, DOI 10.1128/JVI.01257-06
+   COLE GA, 1969, AM J EPIDEMIOL, V89, P669, DOI 10.1093/oxfordjournals.aje.a120981
+   Costa SM, 2006, VACCINE, V24, P195, DOI 10.1016/j.vaccine.2005.07.059
+   de Miranda AS, 2012, BEHAV BRAIN RES, V230, P237, DOI 10.1016/j.bbr.2012.02.020
+   Franca RFD, 2010, EXP MOL PATHOL, V89, P321, DOI 10.1016/j.yexmp.2010.07.007
+   ERHARDT W, 1984, RES EXP MED, V184, P159, DOI 10.1007/BF01852390
+   Fernandez-Mestre MT, 2004, TISSUE ANTIGENS, V64, P469, DOI 10.1111/j.1399-0039.2004.00304.x
+   Ferreira GP, 2010, MICROBES INFECT, V12, P546, DOI 10.1016/j.micinf.2010.03.007
+   Figueiredo LB, 2008, EMERG INFECT DIS, V14, P314, DOI 10.3201/eid1402.070278
+   Gao GP, 2008, HUM GENE THER, V19, P927, DOI 10.1089/hum.2008.011
+   Gualano RC, 1998, J GEN VIROL, V79, P437, DOI 10.1099/0022-1317-79-3-437
+   Gubler Duane J., 2002, Trends in Microbiology, V10, P100, DOI 10.1016/S0966-842X(01)02288-0
+   Gulati S, 2007, TROP MED INT HEALTH, V12, P1087, DOI 10.1111/j.1365-3156.2007.01891.x
+   Guzman MG, 2006, REV PANAM SALUD PUBL, V19
+   Guzman MG, 2012, NAT REV MICROBIOL S, V12, pS7
+   HALSTEAD SB, 1973, J INFECT DIS, V128, P7, DOI 10.1093/infdis/128.1.7
+   Halstead SB, 2007, LANCET, V370, P1644, DOI 10.1016/S0140-6736(07)61687-0
+   HENCHAL EA, 1988, J GEN VIROL, V69, P2101, DOI 10.1099/0022-1317-69-8-2101
+   IGARASHI A, 1978, J GEN VIROL, V40, P531, DOI 10.1099/0022-1317-40-3-531
+   IRIE K, 1989, GENE, V75, P197, DOI 10.1016/0378-1119(89)90266-7
+   Jessie K, 2004, J INFECT DIS, V189, P1411, DOI 10.1086/383043
+   KHO L K, 1981, Southeast Asian Journal of Tropical Medicine and Public Health, V12, P83
+   Kumar SRP, 2010, J GEN VIROL, V91, P707, DOI 10.1099/vir.0.017954-0
+   Kurosu T, 2007, BIOCHEM BIOPH RES CO, V362, P1051, DOI 10.1016/j.bbrc.2007.08.137
+   Lan NTP, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000304
+   Leitmeyer KC, 1999, J VIROL, V73, P4738, DOI 10.1128/JVI.73.6.4738-4747.1999
+   Lin CF, 2002, J IMMUNOL, V169, P657, DOI 10.4049/jimmunol.169.2.657
+   Lin CF, 2006, VIRAL IMMUNOL, V19, P127, DOI 10.1089/vim.2006.19.127
+   Martina BEE, 2009, CLIN MICROBIOL REV, V22, P564, DOI 10.1128/CMR.00035-09
+   Pandey Basu Dev, 2000, Southeast Asian Journal of Tropical Medicine and Public Health, V31, P266
+   PATEY O, 1993, AM J TROP MED HYG, V48, P793, DOI 10.4269/ajtmh.1993.48.793
+   Pham TB, 2009, J CLIN VIROL, V45, P276, DOI 10.1016/j.jcv.2009.04.004
+   Rammensee HG, 1999, IMMUNOGENETICS, V50, P213, DOI 10.1007/s002510050595
+   Row D, 1996, AM J TROP MED HYG, V54, P253, DOI 10.4269/ajtmh.1996.54.253
+   RUSSELL PK, 1967, J IMMUNOL, V99, P285
+   SABIN ALBERT B., 1952, AMER JOUR TROP MED AND HYG, V1, P30
+   Sambrook J, 1989, MOL CLONING LAB MANU, P1527
+   Serufo JC, 2006, REV SOC BRASILEIRA M, V5, P465
+   Solomon T, 2000, LANCET, V355, P1053, DOI 10.1016/S0140-6736(00)02036-5
+   Sun W, 2006, J INFECT DIS, V193, P1658, DOI 10.1086/503372
+   TAMURA K, 2011, MOL BIOL EVOL, V28, P2731, DOI [DOI 10.1093/molbev/msr121, DOI 10.1093/MOLBEV/MSR121]
+   Tamura K, 2007, MOL BIOL EVOL, V24, P1596, DOI 10.1093/molbev/msm092
+   Tan GK, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000672
+   Tan GK, 2009, CURR OPIN INFECT DIS, V22, P302, DOI 10.1097/QCO.0b013e328329ae32
+   Tanner L, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000196
+   Thomas L, 2010, AM J TROP MED HYG, V83, P696, DOI 10.4269/ajtmh.2010.10-0138
+   Velandia-Romero ML, 2012, J NEUROVIROL
+   Verrastro T, 1996, HEMATOLOGIA HEMOTERA, P1
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   Williams KL, 2009, ANN NY ACAD SCI, V1171, pE12, DOI 10.1111/j.1749-6632.2009.05057.x
+   Yauch LE, 2008, ANTIVIR RES, V80, P87, DOI 10.1016/j.antiviral.2008.06.010
+   Zhang GL, 2005, NUCLEIC ACIDS RES, V33, pW180, DOI 10.1093/nar/gki479
+   Zhang ZS, 2007, J VIROL METHODS, V143, P125, DOI 10.1016/j.jviromet.2007.02.012
+NR 66
+TC 14
+Z9 16
+U1 0
+U2 9
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 13
+PY 2012
+VL 7
+IS 9
+AR e44984
+DI 10.1371/journal.pone.0044984
+PG 12
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 005ZK
+UT WOS:000308788700070
+PM 23028722
+OA DOAJ Gold, Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Amorim, JH
+   Diniz, MO
+   Cariri, FAMO
+   Rodrigues, JF
+   Bizerra, RSP
+   Goncalves, AJS
+   Alves, AMD
+   Ferreira, LCD
+AF Amorim, Jaime Henrique
+   Diniz, Mariana Oliveira
+   Cariri, Francisco A. M. O.
+   Rodrigues, Juliana Falcao
+   Pereira Bizerra, Raiza Sales
+   Goncalves, Antonio J. S.
+   de Barcelos Alves, Ada Maria
+   de Souza Ferreira, Luis Carlos
+TI Protective immunity to DENV2 after immunization with a recombinant NS1
+   protein using a genetically detoxified heat-labile toxin as an adjuvant
+SO VACCINE
+LA English
+DT Article
+DE Dengue virus; NS1 protein; Heat-labile toxin; Adjuvants; Vaccines
+ID VIRUS NONSTRUCTURAL PROTEIN-1; DENGUE VIRUS; ESCHERICHIA-COLI;
+   MONOCLONAL-ANTIBODIES; DNA VACCINE; MICE; GLYCOPROTEIN; RESPONSES;
+   PATHOGENESIS; GENE
+AB The dengue virus non-structural 1 (NS1) protein contributes to evasion of host immune defenses and represents a target for immune responses. Evidences generated in experimental models, as well as the immune responses elicited by infected individuals, showed that induction of anti-NS1 immunity correlates with protective immunity but may also result in the generation of cross-reactive antibodies that recognize platelets and proteins involved in the coagulation cascade. In the present work, we evaluated the immune responses, protection to type 2 dengue virus (DENV2) challenges and safety parameters in BALB/c mice vaccinated with a recombinant NS1 protein in combination with three different adjuvants: aluminum hydroxide (alum), Freund's adjuvant (FA) or a genetically detoxified derivative of the heat-labile toxin (LTG33D), originally produced by some enterotoxigenic Escherichia coli (ETEC) strains. Mice were subcutaneously (s.c.) immunized with different vaccine formulations and the induced NS1-specific responses, including serum antibodies and T cell responses, were measured. Mice were also subjected to lethal challenges with the DENV2 NGC strain. The results showed that maximal protective immunity (50%) was achieved in mice vaccinated with NS1 in combination with LIG33D. Analyses of the NS1-specific immune responses showed that the anti-virus protection correlated mainly with the serum anti-NS1 antibody responses including higher avidity to the target antigen. Mice immunized with LTG33D elicited a prevailing IgG2a subclass response and generated antibodies with stronger affinity to the antigen than those generated in mice immunized with the other vaccine formulations. The vaccine formulations were also evaluated regarding induction of deleterious side effects and, in contrast to mice immunized with the FA-adjuvanted vaccine, no significant hepatic damage or enhanced C-reactive protein levels were detected in mice immunized with NS1 and LTG33D. Similarly, no detectable alterations in bleeding time and hematological parameters were detected in mice vaccinated with NS1 and LTG33D. Altogether, these results indicate that the combination of a purified recombinant NS1 and a nontoxic LT derivative is a promising alternative for the generation of safe and effective protein-based anti-dengue vaccine. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Lab Desenvolvimento Vacinas, Dept Microbiol, ICB II, BR-05508900 Sao Paulo, Brazil.
+   [Pereira Bizerra, Raiza Sales] Univ Estadual Santa Cruz, Ilheus, Brazil.
+   [Goncalves, Antonio J. S.; de Barcelos Alves, Ada Maria] Fundacao Oswaldo Cruz, Lab Biotechnol & Physiol Virus Infect, Inst Oswaldo Cruz, Rio De Janeiro, Brazil.
+RP Ferreira, LCD (corresponding author), Univ Sao Paulo, Lab Desenvolvimento Vacinas, Dept Microbiol, ICB II, Av Prof Lineu Prestes 1374, BR-05508900 Sao Paulo, Brazil.
+EM lcsf@usp.br
+RI Rodrigues, Juliana/AAC-3512-2019; Ferreira, Luis Carlos S/M-3954-2014;
+   Amorim, Jaime Henrique/O-9222-2017
+OI Ferreira, Luis Carlos S/0000-0002-4883-1693; Amorim, Jaime
+   Henrique/0000-0002-0623-2879
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP);
+   FAPERJCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ); CNPqNational Council for Scientific and
+   Technological Development (CNPq)
+FX We are grateful for the technical assistance of LC. Silva and E.G.
+   Martins. This work was supported by FAPESP, FAPERJ and CNPq grants.
+CR Amorim JH, 2010, J VIROL METHODS, V167, P186, DOI 10.1016/j.jviromet.2010.04.003
+   Avirutnan P, 2010, J EXP MED, V207, P793, DOI 10.1084/jem.20092545
+   Azevedo AS, 2011, PLOS ONE, V6
+   Barber DL, 2003, J IMMUNOL, V171, P27, DOI 10.4049/jimmunol.171.1.27
+   Bargieri DY, 2007, MEM I OSWALDO CRUZ, V102, P313, DOI 10.1590/S0074-02762007005000039
+   Blaney JE, 2006, VIRAL IMMUNOL, V19, P10, DOI 10.1089/vim.2006.19.10
+   Chen MC, 2009, J IMMUNOL, V183, P1797, DOI 10.4049/jimmunol.0800672
+   Coffman RL, 2010, IMMUNITY, V33, P492, DOI 10.1016/j.immuni.2010.10.002
+   Costa SM, 2007, VIROLOGY, V358, P413, DOI 10.1016/j.virol.2006.08.052
+   Costa SM, 2006, VACCINE, V24, P195, DOI 10.1016/j.vaccine.2005.07.059
+   DICKINSON BL, 1995, INFECT IMMUN, V63, P1617, DOI 10.1128/IAI.63.5.1617-1623.1995
+   Edelman R, 2003, AM J TROP MED HYG, V69, P48, DOI 10.4269/ajtmh.2003.69.48
+   ERHARDT W, 1984, RES EXP MED, V184, P159, DOI 10.1007/BF01852390
+   FALCONAR AKI, 1990, J VIROL METHODS, V30, P323, DOI 10.1016/0166-0934(90)90075-Q
+   Falconar AKI, 2008, CLIN VACCINE IMMUNOL, V15, P549, DOI 10.1128/CVI.00351-07
+   Falconar AKI, 2007, CLIN VACCINE IMMUNOL, V14, P493, DOI 10.1128/CVI.00371-06
+   Flamand M, 1999, J VIROL, V73, P6104, DOI 10.1128/JVI.73.7.6104-6110.1999
+   Freytag LC, 2005, VACCINE, V23, P1804, DOI 10.1016/j.vaccine.2004.11.010
+   Gao GP, 2008, HUM GENE THER, V19, P927, DOI 10.1089/hum.2008.011
+   Gubler DJ, 1999, ADV VIRUS RES, V53, P35, DOI 10.1016/S0065-3527(08)60342-5
+   Guidry JJ, 1997, INFECT IMMUN, V65, P4943, DOI 10.1128/IAI.65.12.4943-4950.1997
+   Guzman MG, 2010, NAT REV MICROBIOL, pS7, DOI 10.1038/nrmicro2460
+   HENCHAL EA, 1988, J GEN VIROL, V69, P2101, DOI 10.1099/0022-1317-69-8-2101
+   HOTTA S, 1952, J INFECT DIS, V90, P1, DOI 10.1093/infdis/90.1.1
+   IRIE K, 1989, GENE, V75, P197, DOI 10.1016/0378-1119(89)90266-7
+   Jang M, 1997, J BIOCHEM MOL BIOL, V30, P346
+   Kanesa-thasan N, 2001, VACCINE, V19, P3179, DOI 10.1016/S0264-410X(01)00020-2
+   Lima DM, 2011, VACCINE, V29, P831, DOI 10.1016/j.vaccine.2010.10.078
+   Lin CF, 2002, J IMMUNOL, V169, P657, DOI 10.4049/jimmunol.169.2.657
+   Lin CF, 2008, LAB INVEST, V88, P1079, DOI 10.1038/labinvest.2008.70
+   Lin CF, 2006, VIRAL IMMUNOL, V19, P127, DOI 10.1089/vim.2006.19.127
+   O'Hagan DT, 2009, DRUG DISCOV TODAY, V14, P541, DOI 10.1016/j.drudis.2009.02.009
+   O'Hagan DT, 2003, NAT REV DRUG DISCOV, V2, P727, DOI 10.1038/nrd1176
+   Palzer Sarah, 2005, Methods Mol Biol, V302, P273
+   Petsch D, 2000, J BIOTECHNOL, V76, P97, DOI 10.1016/S0168-1656(99)00185-6
+   Putnak JR, 2005, VACCINE, V23, P4442, DOI 10.1016/j.vaccine.2005.03.042
+   Rappuoli R, 1999, IMMUNOL TODAY, V20, P493, DOI 10.1016/S0167-5699(99)01523-6
+   Rodrigues JF, 2011, J BIOL CHEM, V286, P5222, DOI 10.1074/jbc.M110.173682
+   Rothman AL, 2004, J CLIN INVEST, V113, P946, DOI 10.1172/JCI200421512
+   Sambrook J, 1989, MOL CLONING LAB MANU, VIII, P1647
+   Sbrogio-Almeida ME, 2004, INFECT IMMUN, V72, P2546, DOI 10.1128/IAI.72.5.2546-2555.2004
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   Schoenborn JR, 2007, ADV IMMUNOL, V96, P41, DOI 10.1016/S0065-2776(07)96002-2
+   Schweizer HP, 2001, CURR OPIN BIOTECH, V12, P439, DOI 10.1016/S0958-1669(00)00242-1
+   Simmons M, 2006, J VIROL, V80, P9577, DOI 10.1128/JVI.00284-06
+   SRIVASTAVA AK, 1995, VACCINE, V13, P1251, DOI 10.1016/0264-410X(94)00059-V
+   Tartoff KD, 1987, IMPROVED MEDIA GROWI, V9, P12
+   Verrastro T, 1996, HEMATOLOGIA HEMOTERA, P1
+   Warrens AN, 1997, GENE, V186, P29, DOI 10.1016/S0378-1119(96)00674-9
+   Whitehead SS, 2007, NAT REV MICROBIOL, V5, P518, DOI 10.1038/nrmicro1690
+   Wu SF, 2003, VACCINE, V21, P3919, DOI 10.1016/S0264-410X(03)00310-4
+   Young PR, 2000, J CLIN MICROBIOL, V38, P1053, DOI 10.1128/JCM.38.3.1053-1057.2000
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+   Zoeteweij JP, 2006, J IMMUNOL, V177, P1197, DOI 10.4049/jimmunol.177.2.1197
+NR 54
+TC 51
+Z9 53
+U1 0
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-410X
+EI 1873-2518
+J9 VACCINE
+JI Vaccine
+PD JAN 20
+PY 2012
+VL 30
+IS 5
+BP 837
+EP 845
+DI 10.1016/j.vaccine.2011.12.034
+PG 9
+WC Immunology; Medicine, Research & Experimental
+SC Immunology; Research & Experimental Medicine
+GA 909IK
+UT WOS:000301558000005
+PM 22178517
+OA Green Published
+DA 2020-12-01
+ER
+
+PT J
+AU Porchia, BFMM
+   Diniz, MO
+   Cariri, FAMO
+   Santana, VC
+   Amorim, JH
+   Balan, A
+   Braga, CJM
+   Ferreira, LCS
+AF Porchia, Brum. F. M. M.
+   Diniz, Mariana O.
+   Cariri, Francisco A. M. O.
+   Santana, Vinicius C.
+   Amorim, Jaime H.
+   Balan, Andrea
+   Braga, Catarina J. M.
+   Ferreira, Luis Carlos S.
+TI Purified Herpes Simplex Type 1 Glycoprotein D (gD) Genetically Fused
+   with the Type 16 Human Papillomavirus E7 Oncoprotein Enhances
+   Antigen-Specific CD8(+) T Cell Responses and Confers Protective
+   Antitumor Immunity
+SO MOLECULAR PHARMACEUTICS
+LA English
+DT Article
+DE HPV-16; papillomavirus vaccines; gD; HSV-1; E7 oncoprotein; anticancer
+   vaccines
+ID ENTRY MEDIATOR; B-LYMPHOCYTE; CERVICAL-CANCER; BINDING-SITE; DNA
+   VACCINES; VIRUS ENTRY; KAPPA-B; ACTIVATION; EXPRESSION; RECEPTOR
+AB Type 1 herpes virus (HSV-1) glycoprotein D (gD) enhances antigen-specific immune responses, particularly CDS+ T cell responses, in mice immunized with DNA vaccines encoding hybrid proteins genetically fused with the target antigen at a site near the C-terminal end. These effects are attributed to the interaction of gD with the herpes virus entry mediator (HVEM) and the concomitant blockade of a coin-hibitory mechanism mediated by the B- and T-lymphocyte attenuator (BTLA). However, questions concerning the requirement for endogenous synthesis of the antigen or the adjuvant/antigen fusion itself have not been addressed so far. In the present study, we investigated these points using purified recombinant gDs, genetically fused or not with type 16 papilloma virus (HPV-16) E7 oncoprotein. Soluble recombinant gDs, but not denatured forms, retained the ability to bind surface-exposed cellular receptors of HVEM-expressing U937 cells. In addition, in vivo administration of the recombinant proteins, particularly gD genetically fused with E7 (gDE7), promoted the activation of dendritic cells (DC) and antigen-specific cytotoxic CD8(+) T cells. More relevantly, mice immunized with the gDE7 protein developed complete preventive and partial therapeutic antitumor protection, as measured in mice following the implantation of TC-1 cells expressing HPV-16 oncoproteins. Collectively, these results demonstrate that the T cell adjuvant effects of the HSV-1 gD protein did not require endogenous synthesis and could be demonstrated in mice immunized with purified recombinant proteins.
+C1 [Ferreira, Luis Carlos S.] Univ Sao Paulo, ICB II, Dept Microbiol, Inst Biomed Sci, BR-05508000 Sao Paulo, Brazil.
+   [Balan, Andrea] Brazilian Natl Lab Biosci LNBio, Ctr Res Energy & Mat, Campinas, SP, Brazil.
+RP Ferreira, LCS (corresponding author), Univ Sao Paulo, ICB II, Dept Microbiol, Inst Biomed Sci, Av Prof Lineu Prestes,1374,Cidade Univ, BR-05508000 Sao Paulo, Brazil.
+EM lcsf@usp.br
+RI Amorim, Jaime Henrique/O-9222-2017; Ferreira, Luis Carlos S/M-3954-2014;
+   Balan, Andrea/D-1891-2014
+OI Amorim, Jaime Henrique/0000-0002-0623-2879; Ferreira, Luis Carlos
+   S/0000-0002-4883-1693; Balan, Andrea/0000-0001-6199-3198
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq); Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP)Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+FX We gratefully acknowledge the helpful technical assistance of L. C.
+   Silva, J. A. Pereira and E. Gimenez. This work was supported by grants
+   from the Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   (CNPq). B.F.M.M.P., MOD., F.A.M.O.C., J.H.A. and CJ.M.B. had fellowships
+   granted by Fundacao de Amparo a Pesquisa do Estado de Sao Paulo
+   (FAPESP).
+CR Appay V, 2008, NAT MED, V14, P623, DOI 10.1038/nm.f.1774
+   ARMSTRONG DJ, 1993, BIOCHEM BIOPH RES CO, V192, P1380, DOI 10.1006/bbrc.1993.1569
+   Braga CJM, 2010, VACCINE, V28, P1373, DOI 10.1016/j.vaccine.2009.11.003
+   Cai GF, 2008, NAT IMMUNOL, V9, P176, DOI 10.1038/ni1554
+   Cai GF, 2009, IMMUNOL REV, V229, P244, DOI 10.1111/j.1600-065X.2009.00783.x
+   Carfi A, 2001, MOL CELL, V8, P169, DOI 10.1016/S1097-2765(01)00298-2
+   Cheung TC, 2009, P NATL ACAD SCI USA, V106, P6244, DOI 10.1073/pnas.0902115106
+   Connolly SA, 2005, J VIROL, V79, P1282, DOI 10.1128/JVI.79.2.1282-1295.2005
+   Connolly SA, 2002, J VIROL, V76, P10894, DOI 10.1128/JVI.76.21.10894-10904.2002
+   de Alencar BCG, 2009, INFECT IMMUN, V77, P4383, DOI 10.1128/IAI.01459-08
+   del Rio ML, 2010, J LEUKOCYTE BIOL, V87, P223, DOI 10.1189/jlb.0809590
+   Diniz MO, 2010, CLIN VACCINE IMMUNOL, V17, P1576, DOI 10.1128/CVI.00264-10
+   Han P, 2004, J IMMUNOL, V172, P5931, DOI 10.4049/jimmunol.172.10.5931
+   Heldwein EE, 2008, CELL MOL LIFE SCI, V65, P1653, DOI 10.1007/s00018-008-7570-z
+   Hung CF, 2007, EXP MOL MED, V39, P679, DOI 10.1038/emm.2007.74
+   Ji HX, 1998, INT J CANCER, V78, P41, DOI 10.1002/(SICI)1097-0215(19980925)78:1<41::AID-IJC8>3.3.CO;2-K
+   Kanodia S, 2008, INT J CANCER, V122, P247, DOI 10.1002/ijc.23252
+   Krieg C, 2005, J IMMUNOL, V175, P6420, DOI 10.4049/jimmunol.175.10.6420
+   Krieg C, 2007, NAT IMMUNOL, V8, P162, DOI 10.1038/ni1418
+   Krummenacher C, 2005, EMBO J, V24, P4144, DOI 10.1038/sj.emboj.7600875
+   Kutzler M. A., 2008, NATREV, V9, P77
+   Lasaro MO, 2008, NAT MED, V14, P205, DOI 10.1038/nm1704
+   Lasaro MO, 2005, MICROBES INFECT, V7, P1541, DOI 10.1016/j.micinf.2005.05.024
+   Lin KY, 1996, CANCER RES, V56, P21
+   Masters S. A., 1997, J BIOL CHEM, V272, P14029
+   Morel Y, 2000, J IMMUNOL, V165, P4397, DOI 10.4049/jimmunol.165.8.4397
+   Morel Y, 2001, J IMMUNOL, V167, P2479, DOI 10.4049/jimmunol.167.5.2479
+   Murphy TL, 2010, ANNU REV IMMUNOL, V28, P389, DOI 10.1146/annurev-immunol-030409-101202
+   Rux AH, 1998, J VIROL, V72, P7091, DOI 10.1128/JVI.72.9.7091-7098.1998
+   Sciortino MT, 2008, CELL MICROBIOL, V10, P2297, DOI 10.1111/j.1462-5822.2008.01212.x
+   Sciortino MT, 2008, BIOCHEM PHARMACOL, V76, P1522, DOI 10.1016/j.bcp.2008.07.030
+   Sedy JR, 2005, NAT IMMUNOL, V6, P90, DOI 10.1038/ni1144
+   Stiles KM, 2010, J VIROL, V84, P11646, DOI 10.1128/JVI.01550-10
+   Tao R, 2008, J IMMUNOL, V180, P6649, DOI 10.4049/jimmunol.180.10.6649
+   Tindle R. W., P NATL ACAD SCI US, V88, P5887
+   van der Burg SH, 2011, CURR OPIN IMMUNOL, V23, P252, DOI 10.1016/j.coi.2010.12.010
+   WATSON RJ, 1982, SCIENCE, V218, P381, DOI 10.1126/science.6289440
+   Yewdell JW, 2010, CURR OPIN IMMUNOL, V22, P402, DOI 10.1016/j.coi.2010.04.002
+NR 38
+TC 6
+Z9 7
+U1 0
+U2 3
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1543-8384
+J9 MOL PHARMACEUT
+JI Mol. Pharm.
+PD NOV-DEC
+PY 2011
+VL 8
+IS 6
+BP 2320
+EP 2330
+DI 10.1021/mp200194s
+PG 11
+WC Medicine, Research & Experimental; Pharmacology & Pharmacy
+SC Research & Experimental Medicine; Pharmacology & Pharmacy
+GA 855BA
+UT WOS:000297537300034
+PM 21985578
+DA 2020-12-01
+ER
+
+PT J
+AU Rodrigues, JF
+   Mathias-Santos, C
+   Sbrogio-Almeida, ME
+   Amorim, JH
+   Cabrera-Crespo, J
+   Balan, A
+   Ferreira, LCS
+AF Rodrigues, Juliana F.
+   Mathias-Santos, Camila
+   Sbrogio-Almeida, Maria Elisabete
+   Amorim, Jaime H.
+   Cabrera-Crespo, Joaquim
+   Balan, Andrea
+   Ferreira, Luis C. S.
+TI Functional Diversity of Heat-labile Toxins (LT) Produced by
+   Enterotoxigenic Escherichia coli
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+LA English
+DT Article
+ID ADP-RIBOSYLTRANSFERASE ACTIVITY; CHOLERA-TOXIN; MUCOSAL ADJUVANTS;
+   B-SUBUNIT; A-SUBUNIT; IMMUNOGENICITY; RESPONSES; BINDING; MUTANT; SITE
+AB Heat-labile toxins (LTs) have ADP-ribosylation activity and induce the secretory diarrhea caused by enterotoxigenic Escherichia coli (ETEC) strains in different mammalian hosts. LTs also act as adjuvants following delivery via mucosal, parenteral, or transcutaneous routes. Previously we have shown that LT produced by human-derived ETEC strains encompass a group of 16 polymorphic variants, including the reference toxin (LT1 or hLT) produced by the H10407 strain and one variant that is found mainly among bacterial strains isolated from pigs (LT4 or pLT). Herein, we show that LT4 ( with six polymorphic sites in the A (K4R, K213E, and N238D) and B (S4T, A46E, and E102K) subunits) displays differential in vitro toxicity and in vivo adjuvant activities compared with LT1. One in vitro generated LT mutant (LTK4R), in which the lysine at position 4 of the A subunit was replaced by arginine, showed most of the LT4 features with an similar to 10-fold reduction of the cytotonic effects, ADP-ribosylation activity, and accumulation of intracellular cAMP in Y1 cells. Molecular dynamic studies of the A subunit showed that the K4R replacement reduces the N-terminal region flexibility and decreases the catalytic site crevice. Noticeably, LT4 showed a stronger Th1-biased adjuvant activity with regard to LT1, particularly concerning activation of cytotoxic CD8(+) T lymphocytes when delivered via the intranasal route. Our results further emphasize the relevance of LT polymorphism among human-derived ETEC strains that may impact both the pathogenicity of the bacterial strain and the use of these toxins as potential vaccine adjuvants.
+C1 [Ferreira, Luis C. S.] Univ Sao Paulo, Dept Microbiol, Inst Biomed Sci, Vaccine Dev Lab, BR-05508000 Sao Paulo, Brazil.
+   [Sbrogio-Almeida, Maria Elisabete; Cabrera-Crespo, Joaquim] Butantan Inst, Technol Dev Div, BR-05503900 Sao Paulo, Brazil.
+   [Balan, Andrea] Res Ctr Energy & Mat, Natl Lab Biosci, BR-13084971 Sao Paulo, Brazil.
+RP Ferreira, LCS (corresponding author), Univ Sao Paulo, Dept Microbiol, Inst Biomed Sci, Vaccine Dev Lab, BR-05508000 Sao Paulo, Brazil.
+EM lcsf@usp.br
+RI Ferreira, Luis Carlos S/M-3954-2014; Balan, Andrea/D-1891-2014;
+   Cabrera-Crespo, Joaquin/D-3183-2015; Amorim, Jaime Henrique/O-9222-2017;
+   Rodrigues, Juliana/AAC-3512-2019
+OI Ferreira, Luis Carlos S/0000-0002-4883-1693; Balan,
+   Andrea/0000-0001-6199-3198; Amorim, Jaime Henrique/0000-0002-0623-2879;
+   Cabrera-Crespo, Joaquin/0000-0002-1457-6786
+FU Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)Fundacao de
+   Amparo a Pesquisa do Estado de Sao Paulo (FAPESP); Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq)National Council for
+   Scientific and Technological Development (CNPq)
+FX This work was supported by Fundacao de Amparo a Pesquisa do Estado de
+   Sao Paulo (FAPESP) and Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (CNPq) grants.
+CR [Anonymous], 1998, PYM
+   Arce S, 2005, INFECT IMMUN, V73, P2718, DOI 10.1128/IAI.73.5.2718-2727.2005
+   BACK E, 1979, J CLIN MICROBIOL, V10, P791
+   Braga CJM, 2008, BRAZ J MICROBIOL, V39, P44, DOI 10.1590/S1517-838220080001000011
+   CHUNG DW, 1977, INFECT IMMUN, V16, P832, DOI 10.1128/IAI.16.3.832-841.1977
+   de Haan L, 1998, IMMUNOL CELL BIOL, V76, P270, DOI 10.1046/j.1440-1711.1998.00745.x
+   de Haan L, 2004, MOL MEMBR BIOL, V21, P77, DOI 10.1080/09687680410001663267
+   De Haan L, 1998, IMMUNOLOGY, V94, P424, DOI 10.1046/j.1365-2567.1998.00535.x
+   DICKINSON BL, 1995, INFECT IMMUN, V63, P1617, DOI 10.1128/IAI.63.5.1617-1623.1995
+   DOMENIGHINI M, 1994, MOL MICROBIOL, V14, P41, DOI 10.1111/j.1365-2958.1994.tb01265.x
+   Emsley P, 2004, ACTA CRYSTALLOGR D, V60, P2126, DOI 10.1107/S0907444904019158
+   Fraser SA, 2003, INFECT IMMUN, V71, P1527, DOI 10.1128/IAI.71.3.1527-1537.2003
+   Freytag LC, 2005, VACCINE, V23, P1804, DOI 10.1016/j.vaccine.2004.11.010
+   Giuliani MM, 1998, J EXP MED, V187, P1123, DOI 10.1084/jem.187.7.1123
+   Hagiwara Y, 2001, VACCINE, V19, P1652, DOI 10.1016/S0264-410X(00)00412-6
+   Hajishengallis G, 2005, J DENT RES, V84, P1104, DOI 10.1177/154405910508401205
+   Hess B, 1997, J COMPUT CHEM, V18, P1463, DOI 10.1002/(SICI)1096-987X(199709)18:12<1463::AID-JCC4>3.0.CO;2-H
+   HIRST TR, 1999, COMPREHENSIVE SOURCE, P104
+   Holmgren J, 2003, VACCINE, V21, pS89, DOI 10.1016/S0264-410X(03)00206-8
+   HONDA T, 1981, INFECT IMMUN, V34, P337, DOI 10.1128/IAI.34.2.337-340.1981
+   Humphrey W, 1996, J MOL GRAPH MODEL, V14, P33, DOI 10.1016/0263-7855(96)00018-5
+   KARMALI MA, 1985, J CLIN MICROBIOL, V22, P614, DOI 10.1128/JCM.22.4.614-619.1985
+   Krissinel E, 2004, ACTA CRYSTALLOGR D, V60, P2256, DOI 10.1107/S0907444904026460
+   Lasaro MA, 2008, J BACTERIOL, V190, P2400, DOI 10.1128/JB.00988-07
+   Lasaro MA, 2009, FEMS IMMUNOL MED MIC, V55, P93, DOI 10.1111/j.1574-695X.2008.00506.x
+   LASKOWSKI RA, 1993, J MOL BIOL, V231, P1049, DOI 10.1006/jmbi.1993.1351
+   LEONG J, 1985, INFECT IMMUN, V48, P73, DOI 10.1128/IAI.48.1.73-77.1985
+   Lewis DJM, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006999
+   Mackler B., 1967, METHOD ENZYMOL, V10, P261
+   MEKALANOS JJ, 1978, INFECT IMMUN, V20, P552, DOI 10.1128/IAI.20.2.552-558.1978
+   Nashar TO, 1996, P NATL ACAD SCI USA, V93, P226, DOI 10.1073/pnas.93.1.226
+   Nataro JP, 1998, CLIN MICROBIOL REV, V11, P403
+   Partidos CD, 1999, IMMUNOL LETT, V67, P209, DOI 10.1016/S0165-2478(99)00013-9
+   PIZZA M, 1994, J EXP MED, V180, P2147, DOI 10.1084/jem.180.6.2147
+   PIZZA M, 1994, MOL MICROBIOL, V14, P51, DOI 10.1111/j.1365-2958.1994.tb01266.x
+   Ryan EJ, 2000, J IMMUNOL, V165, P5750, DOI 10.4049/jimmunol.165.10.5750
+   SALI A, 1993, J MOL BIOL, V234, P779, DOI 10.1006/jmbi.1993.1626
+   Schweizer HP, 2001, CURR OPIN BIOTECH, V12, P439, DOI 10.1016/S0958-1669(00)00242-1
+   Sears CL, 1996, MICROBIOL REV, V60, P167, DOI 10.1128/MMBR.60.1.167-215.1996
+   Simmons CP, 1999, J IMMUNOL, V163, P6502
+   Simmons CP, 2001, SCAND J IMMUNOL, V53, P218, DOI 10.1046/j.1365-3083.2001.00884.x
+   SIXMA TK, 1991, NATURE, V351, P371, DOI 10.1038/351371a0
+   SIXMA TK, 1993, J MOL BIOL, V230, P890, DOI 10.1006/jmbi.1993.1209
+   Stabb EV, 2001, J BACTERIOL, V183, P309, DOI 10.1128/JB.183.1.309-317.2001
+   TSUJI T, 1982, INFECT IMMUN, V38, P444, DOI 10.1128/IAI.38.2.444-448.1982
+   Van der Spoel D, 2005, J COMPUT CHEM, V26, P1701, DOI 10.1002/jcc.20291
+   van Ginkel FW, 2005, INFECT IMMUN, V73, P6892, DOI 10.1128/IAI.73.10.6892-6902.2005
+   VANDENAKKER F, 1995, BIOCHEMISTRY-US, V34, P10996, DOI 10.1021/bi00035a005
+   Warrens AN, 1997, GENE, V186, P29, DOI 10.1016/S0378-1119(96)00674-9
+   WHO, 2006, WKLY EPIDEMIOL REC, V81, P97
+   YAMAMOTO T, 1984, J BIOL CHEM, V259, P5037
+   YOST DA, 1981, J BIOL CHEM, V256, P3647
+   Zhang WP, 2008, APPL ENVIRON MICROB, V74, P5832, DOI 10.1128/AEM.00893-08
+   Zhang WP, 2006, INFECT IMMUN, V74, P3107, DOI 10.1128/IAI.01338-05
+NR 54
+TC 16
+Z9 17
+U1 0
+U2 13
+PU AMER SOC BIOCHEMISTRY MOLECULAR BIOLOGY INC
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3996 USA
+EI 1083-351X
+J9 J BIOL CHEM
+JI J. Biol. Chem.
+PD FEB 18
+PY 2011
+VL 286
+IS 7
+BP 5222
+EP 5233
+DI 10.1074/jbc.M110.173682
+PG 12
+WC Biochemistry & Molecular Biology
+SC Biochemistry & Molecular Biology
+GA 719SY
+UT WOS:000287230600031
+PM 21135101
+OA Green Published, Bronze
+DA 2020-12-01
+ER
+
+PT J
+AU Amorim, JH
+   Porchia, BFMM
+   Balan, A
+   Cavalcante, RCM
+   da Costa, SM
+   Alves, AMD
+   Ferreira, LCD
+AF Amorim, Jaime Henrique
+   Porchia, Bruna F. M. M.
+   Balan, Andrea
+   Cavalcante, Rafael C. M.
+   da Costa, Simone Morais
+   de Barcelos Alves, Ada Maria
+   de Souza Ferreira, Luis Carlos
+TI Refolded dengue virus type 2 NS1 protein expressed in Escherichia coli
+   preserves structural and immunological properties of the native protein
+SO JOURNAL OF VIROLOGICAL METHODS
+LA English
+DT Article
+DE Dengue virus; NS1 protein; Protein purification; Vaccines
+ID STRUCTURE PREDICTION; IMMUNIZATION; ENCEPHALITIS; PROTECTION; ANTIBODY;
+   FEVER; MICE
+AB The dengue virus NS1 protein has been shown to be a protective antigen under different experimental conditions but the recombinant protein produced in bacterial expression systems is usually not soluble and loses structural and immunological features of the native viral protein In the present study, experimental conditions leading to purification and refolding of the recombinant dengue virus type 2 (DENV-2) NS1 protein expressed in Escherichia coli are described The refolded recombinant protein was recovered as heat-stable soluble dimers with preserved structural features, as demonstrated by spectroscopic methods In addition, antibodies against epitopes of the NS1 protein expressed in eukaryotic cells recognized the refolded protein expressed in E coli but not the denatured form or the same protein submitted to a different refolding condition Collectively, the results demonstrate that the recombinant NS1 protein preserved important conformation and antigenic determinants of the native virus protein and represents a valuable reagent either for the development of vaccines or for diagnostic methods. (C) 2010 Elsevier B V All rights reserved
+C1 [de Souza Ferreira, Luis Carlos] Univ Sao Paulo, Lab Desenvolvimento Vacinas, Dept Microbiol, BR-05508900 Sao Paulo, Brazil.
+   [Balan, Andrea] Brazilian Synchrotron Light Lab LNLS, Ctr Struct Mol Biol CeBiME, Campinas, Brazil.
+   [da Costa, Simone Morais; de Barcelos Alves, Ada Maria] Fundacao Oswaldo Cruz, Lab Biotechnol & Physiol Virus Infect, Inst Oswaldo Cruz, Rio De Janeiro, Brazil.
+RP Ferreira, LCD (corresponding author), Univ Sao Paulo, Lab Desenvolvimento Vacinas, Dept Microbiol, ICB 2,Av Prof Lineu Prestes,1374,Cidade Univ, BR-05508900 Sao Paulo, Brazil.
+RI Balan, Andrea/D-1891-2014; Amorim, Jaime Henrique/O-9222-2017; Ferreira,
+   Luis Carlos S/M-3954-2014
+OI Balan, Andrea/0000-0001-6199-3198; Amorim, Jaime
+   Henrique/0000-0002-0623-2879; Ferreira, Luis Carlos
+   S/0000-0002-4883-1693
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP);
+   FAPERJCarlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ); CNPqNational Council for Scientific and
+   Technological Development (CNPq)
+FX We are grateful for the technical assistance of L.C. Silva and J.A.
+   Pereira. We also thank L.F. Arcieri and W.B. Luiz for helpful
+   suggestions in the attempts to improve the refolding method and
+   preparation of the figures, respectively. This work was supported by
+   FAPESP, FAPERJ and CNPq grants.
+CR BRYSON K, 2005, NUCLEIC ACIDS RES, V33, pW636, DOI DOI 10.1093/NAR/GK1410
+   Chaiyaratana W, 2009, DIAGN MICR INFEC DIS, V64, P83, DOI 10.1016/j.diagmicrobio.2009.01.004
+   Cole C, 2008, NUCLEIC ACIDS RES, V36, pW197, DOI 10.1093/nar/gkn238
+   Costa SM, 2007, VIROLOGY, V358, P413, DOI 10.1016/j.virol.2006.08.052
+   Das D, 2009, PROTEIN EXPRES PURIF, V66, P66, DOI 10.1016/j.pep.2009.02.003
+   Flamand M, 1999, J VIROL, V73, P6104, DOI 10.1128/JVI.73.7.6104-6110.1999
+   Georgiou G, 1996, CURR OPIN BIOTECH, V7, P190, DOI 10.1016/S0958-1669(96)80012-7
+   Gubler DJ, 1999, ADV VIRUS RES, V53, P35, DOI 10.1016/S0065-3527(08)60342-5
+   Hang VT, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000360
+   HOCKNEY RC, 1994, TRENDS BIOTECHNOL, V12, P456, DOI 10.1016/0167-7799(94)90021-3
+   Huang JL, 2001, J MED VIROL, V65, P553, DOI 10.1002/jmv.2072
+   Huang KJ, 2006, J IMMUNOL, V176, P2825, DOI 10.4049/jimmunol.176.5.2825
+   Kelley LA, 2009, NAT PROTOC, V4, P363, DOI 10.1038/nprot.2009.2
+   Kolaj O, 2009, MICROB CELL FACT, V8, DOI 10.1186/1475-2859-8-9
+   Linderbach BD, 2001, FIELDS VIROLOGY, P991
+   Pongsumpun P, 2008, TROP MED INT HEALTH, V13, P1180, DOI 10.1111/j.1365-3156.2008.02124.x
+   PRYOR MJ, 1994, J GEN VIROL, V75, P1183, DOI 10.1099/0022-1317-75-5-1183
+   Rosano GL, 2009, MICROB CELL FACT, V8, DOI 10.1186/1475-2859-8-41
+   Sahdev S, 2008, MOL CELL BIOCHEM, V307, P249, DOI 10.1007/s11010-007-9603-6
+   Sambrook J., 1989, MOL CLONING LAB MANU
+   SAMPATH A, 2008, ANTIVIRAL RES
+   SCHLESINGER JJ, 1993, VIROLOGY, V192, P132, DOI 10.1006/viro.1993.1015
+   SCHLESINGER JJ, 1987, J GEN VIROL, V68, P853, DOI 10.1099/0022-1317-68-3-853
+   TOWBIN H, 1979, P NATL ACAD SCI USA, V76, P4350, DOI 10.1073/pnas.76.9.4350
+   Whitmore L, 2004, NUCLEIC ACIDS RES, V32, pW668, DOI 10.1093/nar/gkh371
+   WINKLER G, 1988, VIROLOGY, V162, P187, DOI 10.1016/0042-6822(88)90408-4
+   Wu SF, 2003, VACCINE, V21, P3919, DOI 10.1016/S0264-410X(03)00310-4
+   Young PR, 2000, J CLIN MICROBIOL, V38, P1053, DOI 10.1128/JCM.38.3.1053-1057.2000
+   ZHANG YM, 1988, J VIROL, V62, P3027, DOI 10.1128/JVI.62.8.3027-3031.1988
+   Zhou JM, 2006, VIRUS GENES, V33, P27, DOI 10.1007/s11262-005-0036-6
+NR 30
+TC 30
+Z9 31
+U1 0
+U2 9
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0166-0934
+EI 1879-0984
+J9 J VIROL METHODS
+JI J. Virol. Methods
+PD AUG
+PY 2010
+VL 167
+IS 2
+BP 186
+EP 192
+DI 10.1016/j.jviromet.2010.04.003
+PG 7
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Virology
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Virology
+GA 621HT
+UT WOS:000279567400012
+PM 20399232
+DA 2020-12-01
+ER
+
+EF

@@ -1,0 +1,2634 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fonseca, BD
+   Albuquerque, PC
+   Zicker, F
+AF Fonseca, Bruna de Paula
+   Albuquerque, Priscila Costa
+   Zicker, Fabio
+TI Neglected tropical diseases in Brazil: lack of correlation between
+   disease burden, research funding and output
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article; Early Access
+DE disease burden; funding; neglected tropical diseases; Brazil
+ID HEALTH
+AB Objectives To assess the correlation between the burden of seven priority neglected tropical diseases (NTDs) included in the Brazilian National Agenda of Priorities in Health Research - tuberculosis, Chagas disease, leprosy, malaria, leishmaniasis, dengue and schistosomiasis - and their respective research funding and output. Methods This retrospective review obtained data on disease burden from the Global Burden of Disease Study and funding data from open access sources. Publications were retrieved from Scopus and SciELO, and characterised according to the type of research conducted. Correlation between funding, research output and burden was assessed by comparing the 'expected' and 'observed' values for funding and publications relative to the proportional burden for each disease. Results There was an emphasis in basic biomedical research (average 30% of publications) and a shortage of health policy and systems (average 7%) and social sciences research (average 3%). Research output and funding were poorly correlated with disease burden. Tuberculosis, Chagas disease and schistosomiasis accounted for more than 75% of total NTD-related DALYs, but accounted for only 34% of publications. Leprosy, leishmaniasis and malaria, together, received 49% of NTD-related funding despite being responsible for only 9% of DALYs. Conclusions The analysis evidenced a lack of correlation between disease burden, research output and government funding for priority NTDs in Brazil. Our findings highlight the importance of monitoring health needs, research investments and outputs to inform policy and optimise the uptake of evidence for action, particularly in developing countries, where resources are scarce and the research capacity is limited. The results contribute to health policy by highlighting the need for improving coordination of scientific activities and public health needs for effective impact.
+C1 [Fonseca, Bruna de Paula; Albuquerque, Priscila Costa; Zicker, Fabio] Fundacao Oswaldo Cruz, Ctr Technol Dev Hlth, Manguinho, RJ, Brazil.
+RP Fonseca, BD (corresponding author), Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Av Brasil 4036, Manguinho, RJ, Brazil.
+EM brufonseca@gmail.com
+FU Fundacao Oswaldo Cruz (Fiocruz); Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq)National Council for Scientific and
+   Technological Development (CNPq) [407060/2018-9]; Instituto Nacional de
+   Ciencia e Tecnologia de Inovacao em Doencas de Populacoes Negligenciadas
+   (INCT-IDPN); Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior
+   (CAPES) pos doctoral fellowshipCAPES [001]
+FX This work was supported by Fundacao Oswaldo Cruz (Fiocruz), Conselho
+   Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq) [grant
+   #407060/2018-9], Instituto Nacional de Ciencia e Tecnologia de Inovacao
+   em Doencas de Populacoes Negligenciadas (INCT-IDPN) and Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior (CAPES) pos doctoral
+   fellowship Finance Code 001. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Albarqouni L, 2018, HEALTH RES POLICY SY, V16, DOI 10.1186/s12961-018-0302-4
+   Allotey P, 2010, HEALTH RES POLICY SY, V8, DOI 10.1186/1478-4505-8-32
+   Barreto ML, 2011, LANCET, V377, P1877, DOI 10.1016/S0140-6736(11)60202-X
+   de Oliveira RG, 2018, CIENC SAUDE COLETIVA, V23, P2291, DOI 10.1590/1413-81232018237.09042018
+   Evans JA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090147
+   Glanzel W, 2006, SCIENTOMETRICS, V67, P67, DOI 10.1556/Scient.67.2006.1.5
+   Global Burden of Disease Collaborative Network, 2018, GLOB BURD DIS STUD 2
+   Gonzalez Block Miguel A, 2003, Health Res Policy Syst, V1, P1, DOI 10.1186/1478-4505-1-1
+   Gonzalez-Block Miguel A, 2004, Health Res Policy Syst, V2, P6, DOI 10.1186/1478-4505-2-6
+   Hotez PJ, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005309
+   Hotez PJ, 2014, MICROBES INFECT, V16, P601, DOI 10.1016/j.micinf.2014.07.006
+   Iltis AS, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005431
+   Kappagoda S, 2012, BMJ-BRIT MED J, V345, DOI 10.1136/bmj.e6512
+   Kinge JM, 2014, HEALTH RES POLICY SY, V12, DOI 10.1186/1478-4505-12-64
+   Kleinman MS, 2009, CTS-CLIN TRANSL SCI, V2, P312, DOI 10.1111/j.1752-8062.2009.00119.x
+   Kritski A, 2016, I HIG MED TROP, V15, pS35
+   Lienhardt C, 2014, NATURE, V507, P401, DOI 10.1038/507401a
+   McGregor S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0108787
+   Medecins Sans Frontieres, 2001, ACCESS ESSENTIAL MED
+   Minist Saude, 2010, REV SAUDE PUBL, V44, P200
+   Ministry of Health, 2006, NAT AG PRIOR HLTH RE
+   Moran M, 2009, PLOS MED, V6, P137, DOI 10.1371/journal.pmed.1000030
+   Nahin RL, 2005, FASEB J, V19, P1209, DOI 10.1096/fj.05-3727LFE
+   Perel P, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0001696
+   PLOS Neglected Tropical Diseases, 2020, PLOS NEGLECTED TROPI
+   Rees CA, 2019, PLOS NEGLECT TROP D, V13, DOI 10.1371/journal.pntd.0007111
+   Santos SS, 2020, INT J ANTIMICROB AG, V55, DOI 10.1016/j.ijantimicag.2020.105906
+   Sridhar D, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001312
+   Stilgoe J, 2013, RES POLICY, V42, P1568, DOI 10.1016/j.respol.2013.05.008
+   Stockmann C, 2014, INT J CARDIOL, V172, pE16, DOI 10.1016/j.ijcard.2013.12.095
+   Terry RF, 2010, HEALTH RES POLICY SY, V8, DOI 10.1186/1478-4505-8-25
+   Travis P, 2004, LANCET, V364, P900, DOI 10.1016/S0140-6736(04)16987-0
+   Uniting to combat neglected tropical diseases, 2012, LONDON DECLARATION N
+   Vasconcellos AG, 2018, PLOS NEGLECT TROP D, V12, DOI 10.1371/journal.pntd.0006469
+   Vermelho AB, 2020, EXPERT OPIN DRUG DIS, V15, P145, DOI 10.1080/17460441.2020.1681394
+   Ward D, 2013, J HEALTH SERV RES PO, V18, P7, DOI 10.1177/1355819613476015
+   Weiss MG, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000237
+   WHO, 2020, END NEGL ATT SUST DE
+   WHO, 2018, METR DIS ADJ LIF YEA
+   WHO, 2001, MACROECONOMICS HLTH
+   World heart organization, 2020, NEGLECTED TROPICAL D
+NR 41
+TC 0
+Z9 0
+U1 3
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1360-2276
+EI 1365-3156
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+DI 10.1111/tmi.13478
+EA SEP 2020
+PG 12
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA NP0FK
+UT WOS:000569859400001
+PM 32860446
+DA 2020-11-10
+ER
+
+PT J
+AU Machado-Silva, A
+   Guindalini, C
+   Fonseca, FL
+   Pereira-Silva, MV
+   Fonseca, BD
+AF Machado-Silva, Alice
+   Guindalini, Camila
+   Fonseca, Fernanda Lopes
+   Pereira-Silva, Marcus Vinicius
+   Fonseca, Bruna de Paula
+TI Scientific and technological contributions of Latin America and
+   Caribbean countries to the Zika virus outbreak
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Zika; Latin America; S&T; Epidemic; Patents; Publications; Co-authorship
+   networks
+ID SCIENTOMETRIC ANALYSIS; BIBLIOMETRIC ANALYSIS; PUBLICATIONS; NETWORKS;
+   SCIELO
+AB BackgroundThe recent Zika virus (ZIKAV) epidemics disclosed a major public health threat and a scientific and technological (S&T) challenge. The lessons learned from the S&T response of Latin America and the Caribbean (LAC) countries are critical to inform further research and guide scientific investments. The present study aimed to assess how new S&T knowledge produced and disseminated regionally can contribute to address global health challenges.MethodsScientometric and social network analysis methods were used to assess the LAC scientific contribution and potential technological development on ZIKAV up to December 2017. ZIKAV-related publications were retrieved from the Web of Science, Scopus, and PubMed databases. Regionally published articles were obtained from SciELO (Scientific Electronic Library Online) and LILACS (Literature in the Health Sciences in Latin America and the Caribbean) databases. Patent registries were retrieved using Orbit Intelligence and Derwent Innovation. Records from each database were individually downloaded, integrated, standardized and analyzed.ResultsWe retrieved 5421 ZIKAV-related publications, revealing a sharp increase from 2015 onwards. LAC countries accounted for 20% of all publications and Brazil was among the top three most central countries in the global network for ZIKAV research. A total of 274 patent families backed up by experimental evidence were retrieved. Only 5% were filed by LAC assignees, all of them based in Brazil. The largest contribution of LAC research was on the clinical manifestations of the ZIKAV infection, along with vector control, which was also the main focusof patents.ConclusionsOur analysis offered a comprehensive overview of ZIKAV's research and development and showed that (i) LAC countries had a key role in generating and disseminating scientific knowledge on ZIKAV; (ii) LAC countries have expressively contributed to research on ZIKAV clinical manifestations; (iii) the Brazilian scientific community was potentially very effective in knowledge sharing and diffusion in the ZIKAV research network; (iv) Brazil was the single LAC country filing patents, mostly represented by independent inventors and low-tech patents. The paper advocates the need for a continued interdisciplinary approach to improve LAC countries ability to prevent, prepare for and control future outbreaks.
+C1 [Machado-Silva, Alice; Guindalini, Camila; Fonseca, Fernanda Lopes; Fonseca, Bruna de Paula] Fiocruz MS, CDTS, Rio De Janeiro, Brazil.
+   [Pereira-Silva, Marcus Vinicius] Fiocruz MS, Casa Oswaldo Cruz, Rio De Janeiro, Brazil.
+   [Machado-Silva, Alice] Fiocruz MS, Inst Rene Rachou, Belo Horizonte, MG, Brazil.
+   [Guindalini, Camila; Fonseca, Fernanda Lopes; Pereira-Silva, Marcus Vinicius; Fonseca, Bruna de Paula] Fiocruz MS, Observ Ciencia Tecnol & Inovacao Saude, Rio De Janeiro, Brazil.
+RP Fonseca, BD (corresponding author), Fiocruz MS, CDTS, Rio De Janeiro, Brazil.; Fonseca, BD (corresponding author), Fiocruz MS, Observ Ciencia Tecnol & Inovacao Saude, Rio De Janeiro, Brazil.
+EM brufonseca@gmail.com
+RI Fonseca, Fernanda/V-3446-2019; Pereira-Silva, Marcus
+   Vinicius/AAD-8584-2020
+OI Pereira-Silva, Marcus Vinicius/0000-0002-4135-4011; Guindalini,
+   Camila/0000-0002-6278-5881; Fonseca, Bruna de Paula/0000-0002-8795-2578
+FU Instituto Nacional de Ciencia e Tecnologia de Inovacao em Doencas
+   Negligenciadas (INCT-IDN)
+FX Fundacao Oswaldo Cruz provided support in the form of salaries for
+   authors AMS, CG, FLF and BPF. Software licenses were funded by the
+   Instituto Nacional de Ciencia e Tecnologia de Inovacao em Doencas
+   Negligenciadas (INCT-IDN). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Albuquerque PC, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0005132
+   Attaran A, 2016, PODIUM WHY PUBLIC HL
+   Bastian M., 2009, 3 INT AAAI C WEBL SO
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   CDC, 2014, ZIK VIR
+   Codeco C, 2016, MEM I OSWALDO CRUZ, V111, P414, DOI 10.1590/0074-02760160003
+   Colon-Gonzalez FJ, 2017, PLOS NEGLECT TROP D, V11, DOI 10.1371/journal.pntd.0006007
+   Delwiche Frances A., 2018, Science & Technology Libraries, V37, P113, DOI 10.1080/0194262X.2018.1431589
+   Depoux A, 2018, PUBLIC HLTH REV, V39
+   Diamond MS, 2017, NAT REV IMMUNOL
+   Dye C, 2016, B WORLD HEALTH ORGAN, V94, P158, DOI 10.2471/BLT.16.170860
+   ECDC, 2016, RAP RISK ASS ZIK VIR
+   Erbelding E, 2017, J INFECT DIS, V216, pS991, DOI 10.1093/infdis/jix492
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Garcez PP, 2016, SCIENCE, V352, P816, DOI 10.1126/science.aaf6116
+   Ioos S, 2014, MED MALADIES INFECT, V44, P302, DOI 10.1016/j.medmal.2014.04.008
+   Kyu HH, 2018, LANCET, V392, P1859, DOI 10.1016/s0140-6736(18)32335-3
+   Ventura DDL, 2016, CAD SAUDE PUBLICA, V32, DOI 10.1590/0102-311X00033316
+   Martinez-Pulgarin DF, 2016, TRAVEL MED INFECT DI, V14, P55, DOI 10.1016/j.tmaid.2015.07.005
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Meneghini R, 2006, SCIENTOMETRICS, V69, P529, DOI 10.1007/s11192-006-0168-z
+   Morel CM, 2005, SCIENCE, V309, P401, DOI 10.1126/science.1115538
+   Morel CM, 2005, HLTH INNOVATION DEV
+   OECD, 2009, OECD PAT STAT MAN
+   Singh Nirmal, 2016, VirusDisease, V27, P303, DOI 10.1007/s13337-016-0339-3
+   Singh RK, 2018, FRONT MICROBIOL, V8, DOI 10.3389/fmicb.2017.02677
+   van Eck NJ, 2010, SCIENTOMETRICS, V84, P523, DOI 10.1007/s11192-009-0146-3
+   van Eck NJ, 2009, J AM SOC INF SCI TEC, V60, P1635, DOI 10.1002/asi.21075
+   Vasconcellos AG, 2018, PLOS NEGLECT TROP D, V12, DOI 10.1371/journal.pntd.0006469
+   Velez-Cuartas G, 2016, PROF INFORM, V25, P35, DOI 10.3145/epi.2016.ene.05
+   Waltman L, 2010, J INFORMETR, V4, P629, DOI 10.1016/j.joi.2010.07.002
+   WHO, 2017, ZIK RESP FUND
+   WHO, 2016, WHO DIR GEN SUMM OUT
+   WHO, WHO ZIK R D
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 37
+TC 2
+Z9 2
+U1 1
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD MAY 9
+PY 2019
+VL 19
+AR 530
+DI 10.1186/s12889-019-6842-x
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA HX7TR
+UT WOS:000467609400002
+PM 31072386
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT S
+AU Pereira-Silva, MV
+   Fonseca, FL
+   Fonseca, BD
+   Guindalini, C
+   Ferrari, R
+   dos Santos, PX
+AF Pereira-Silva, Marcus Vinicius
+   Fonseca, Fernanda Lopes
+   Fonseca, Bruna de Paula
+   Guindalini, Camila
+   Ferrari, Rodrigo
+   dos Santos, Paula Xavier
+BE Catalano, G
+   Daraio, C
+   Gregori, M
+   Moed, HF
+   Ruocco, G
+TI Science, technology and innovation indicators to support research
+   management: the case of Oswaldo Cruz Foundation (Fiocruz)
+SO 17TH INTERNATIONAL CONFERENCE ON SCIENTOMETRICS & INFORMETRICS
+   (ISSI2019), VOL II
+SE Proceedings of the International Conference on Scientometrics and
+   Informetrics
+LA English
+DT Proceedings Paper
+CT 17th International Conference of the
+   International-Society-for-Scientometrics-and-Informetrics (ISSI) on
+   Scientometrics and Informetrics
+CY SEP 02-05, 2019
+CL Sapienza Univ Rome, Rome, ITALY
+SP Int Soc Scientometr & Informetr
+HO Sapienza Univ Rome
+C1 [Pereira-Silva, Marcus Vinicius; Fonseca, Fernanda Lopes; Fonseca, Bruna de Paula; Guindalini, Camila; Ferrari, Rodrigo; dos Santos, Paula Xavier] Fundacao Oswaldo Cruz, Av Brasil 4365,Sala 7, BR-21040900 Rio De Janeiro, Brazil.
+RP Pereira-Silva, MV (corresponding author), Fundacao Oswaldo Cruz, Av Brasil 4365,Sala 7, BR-21040900 Rio De Janeiro, Brazil.
+EM marcus.silva@fiocruz.br; ffonseca@.cdts.fiocruz.br;
+   bfonseca@cdts.fiocruz.br; cguindalini@cdts.fiocruz.br;
+   rodrigo.ferrari@fiocruz.br; paula.xavier@fiocruz.br
+CR Ferreira JR, 2016, HIST CIENC SAUDE-MAN, V23, DOI 10.1590/S0104-59702016000200002
+   Hicks D, 2015, NATURE, V520, P429, DOI 10.1038/520429a
+   United Nations, 2019, WORLD EC SIT PROSP 2
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INT SOC SCIENTOMETRICS & INFORMETRICS-ISSI
+PI LEUVEN
+PA KATHOLIEKE UNIV LEUVEN, FACULTEIT E T E W, DEKENSTRAAT 2, LEUVEN,
+   B-3000, BELGIUM
+SN 2175-1935
+BN 978-88-3381-118-5
+J9 PRO INT CONF SCI INF
+PY 2019
+BP 2680
+EP 2681
+PG 2
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science
+SC Computer Science; Information Science & Library Science
+GA BO2SO
+UT WOS:000508227200226
+DA 2020-11-10
+ER
+
+PT J
+AU Albuquerque, PC
+   Fonseca, BDFE
+   Girard-Dias, W
+   Zicker, F
+   de Souza, W
+   Miranda, K
+AF Albuquerque, Priscila C.
+   Fonseca e Fonseca, Bruna de Paula
+   Girard-Dias, Wendell
+   Zicker, Fabio
+   de Souza, Wanderley
+   Miranda, Kildare
+TI Mapping the Brazilian microscopy landscape: A bibliometric and network
+   analysis
+SO MICRON
+LA English
+DT Article
+DE Microscopy survey Brazil; Brazilian microscopy landscape; Network
+   analysis
+ID SCIENCE
+AB Understanding how a technology is introduced and shared in a society has a strategic value for the planning of technological development and assessing new market opportunities. Among other technologies, microscopy has had a significant role in advancing different fields of science. In Brazil, its use spans from biomedical to engineering areas. Here, we used social network analysis (SNA) to map and quantify the flow of interaction between Brazilian researchers involved in microscopy techniques. The analysis examines co-occurrence of thematic networks and scientific co-authorship in articles published in a ten years window, as retrieved from Scopus database. The results showed an increasing volume of publications using microscopy in Brazil. The two major areas of interest are material and life sciences, which present significant intra-regional interaction. USA, Spain, Germany, Portugal and the United Kingdom are the main partner countries for international scientific collaborations. The share of Brazilian publications applying microscopy follows the global trends, with a slight predominance in health and life sciences. Our results provide a context of the strengths and gaps of the field in Brazil and may help to inform researchers and policy makers for further advancing the field.
+C1 [Albuquerque, Priscila C.; Fonseca e Fonseca, Bruna de Paula; Zicker, Fabio] Fundacdo Oswaldo Cruz, CDTS, Rio De Janeiro, Brazil.
+   [Girard-Dias, Wendell] Fundacdo Oswaldo Cruz, FIOCRUZ, Inst Oswaldo Cruz, Plataforma Microscopia Eletron Rudolf Barth, Rio De Janeiro, Brazil.
+   [Girard-Dias, Wendell; de Souza, Wanderley; Miranda, Kildare] Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, Lab Ultraestrutura Celular Hertha Meyer, Rio De Janeiro, Brazil.
+   [Girard-Dias, Wendell; de Souza, Wanderley; Miranda, Kildare] Univ Fed Rio de Janeiro, Ctr Nacl Biol Estrutural & Bioimagem, Rio De Janeiro, Brazil.
+   [de Souza, Wanderley; Miranda, Kildare] Univ Fed Rio de Janeiro, Inst Nacl Biol Estrutural & Bioimagem, Rio De Janeiro, Brazil.
+   [Miranda, Kildare] Soc Brasileira Microscopia & Microanal, Rio De Janeiro, Brazil.
+RP Miranda, K (corresponding author), Univ Fed Rio de Janeiro, Inst Biofis Carlos Chagas Filho, Lab Ultraestrutura Celular Hertha Meyer, Av Carlos Chagas Filho 373,Bloco G, BR-21941902 Rio de Janeiro, RJ, Brazil.; Fonseca, BDFE (corresponding author), Fiocruz MS, CDTS, Ave Brasil 4036,Room 814, BR-21040361 Rio De Janeiro, RJ, Brazil.
+EM bruna.fonseca@cdts.fiocruz.br; kmiranda@biof.ufrj.br
+RI Zicker, Fabio/I-4138-2012; Albuquerque, Priscila C/L-4884-2015; Zicker,
+   Fabio/B-4209-2009
+OI Albuquerque, Priscila C/0000-0001-8185-024X; Fonseca, Bruna de
+   Paula/0000-0002-8795-2578; Zicker, Fabio/0000-0002-9751-7430
+FU Instituto Nacional de Ciencia e Tecnologia em Biologia Estrutural e
+   Bioimagem (INBEB); Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (CNPq)National Council for Scientific and Technological
+   Development (CNPq); Fundacao Carlos Chagas Filho de Amparo a Pesquisa do
+   Estado do Rio de Janeiro (FAPERJ)Carlos Chagas Filho Foundation for
+   Research Support of the State of Rio de Janeiro (FAPERJ); Financiadora
+   de Estudos e Projetos (FINEP)Ciencia Tecnologia e Inovacao (FINEP);
+   Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil
+   (CAPES)CAPES [001]
+FX This work was supported by the Instituto Nacional de Ciencia e
+   Tecnologia em Biologia Estrutural e Bioimagem (INBEB) and by grants from
+   the following Brazilian agencies: Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq), Fundacao Carlos Chagas Filho de Amparo
+   a Pesquisa do Estado do Rio de Janeiro (FAPERJ), Financiadora de Estudos
+   e Projetos (FINEP) and financed in part by the Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior - Brasil (CAPES) - Finance
+   Code 001. The authors thank Carl Zeiss do Brasil, Hitachi High
+   Technologies, Jeol Brasil Instrumentos Cientificos, Tescan do Brasil,
+   and Thermo Fisher Scientific for sharing information on the distribution
+   of electron microscopes installed in the country. The authors also thank
+   prof. Marcio Lourenco Rodrigues for his valuable contribution and
+   encouragement during the initial stages of this work. The authors have
+   no other relevant affiliations or financial involvement with any
+   organization or entity with a financial interest in or financial
+   conflict with the subject matter or materials discussed in the
+   manuscript apart from those disclosed.
+CR Adams Jonathan, 2013, GLOBAL RES REPORT BU
+   Amon Narciso de Barros, 2013, CAD EBAPE BR, V11, P256, DOI [10.1590/S1679-39512013000200005, DOI 10.1590/S1679-39512013000200005]
+   [Anonymous], 2010, UNESCO SCI REP
+   Bastian M, 2009, GEPHI OPEN SOURCE SO
+   Bender ME, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004182
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Cardona M, 2005, SCIENTOMETRICS, V64, P313, DOI 10.1007/s11192-005-0253-8
+   Barreto FCS, 2014, POLICY FUTURES EDUC, V12, P695, DOI 10.2304/pfie.2014.12.5.695
+   Fonseca BDFE, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181870
+   Fonseca BDFE, 2016, HEALTH RES POLICY SY, V14, DOI 10.1186/s12961-016-0104-5
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Haguenau F, 2003, MICROSC MICROANAL, V9, P96, DOI 10.1017/SI431927603030113
+   Jorio A, 2010, NAT MATER, V9, P528, DOI 10.1038/nmat2790
+   Kitajima Elliot Watanabe, 2014, ANAIS ACAD PERNAMBUC, V4, P56
+   Kostoff RN, 2008, J INFORMETR, V2, P354, DOI 10.1016/j.joi.2008.06.004
+   Kothari A, 2014, SYST PRACT ACT RES, V27, P123, DOI 10.1007/s11213-012-9271-7
+   Oldham P, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034368
+   Oliveira ON, 2016, J PHYS CHEM C, V120, P5273, DOI 10.1021/acs.jpcc.6b01958
+   Schimmel Gerhard, 1996, ADV IMAG ELECT PHYS, V96, P149, DOI [10.1016/S1076-5670(08)70041-7, DOI 10.1016/S1076-5670(08)70041-7]
+   Schlegel Flavia, UNESCO SCI REP 2015
+   Tan J, 2014, SCIENTOMETRICS, V98, P1473, DOI 10.1007/s11192-013-1125-2
+   Vanderelst D, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004266
+   VANZ S. A. S., 2016, ENCONTROS BIBLI REV, V21, P41
+   Veugelers Reinhilde, 2017, CHALLENGE CHINAS RIS, P16
+   Waaijer CJF, 2015, ANAL CHEM, V87, P4588, DOI 10.1021/ac5040314
+   Waltman Ludo, 2007, VOS NEW METHOD VISUA, P299, DOI [10.1007/978-3-540-70981-7_34, DOI 10.1007/978-3-540-70981-7_34]
+   Xie Y, 2014, P NATL ACAD SCI USA, V111, P9437, DOI 10.1073/pnas.1407709111
+NR 27
+TC 2
+Z9 2
+U1 0
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-4328
+J9 MICRON
+JI Micron
+PD JAN
+PY 2019
+VL 116
+BP 84
+EP 92
+DI 10.1016/j.micron.2018.10.005
+PG 9
+WC Microscopy
+SC Microscopy
+GA HD5JO
+UT WOS:000452565500013
+PM 30352362
+DA 2020-11-10
+ER
+
+PT J
+AU Vasconcellos, AG
+   Fonseca, BDFE
+   Morel, CM
+AF Vasconcellos, Alexandre Guimaraes
+   Fonseca e Fonseca, Bruna de Paula
+   Morel, Carlos Medicis
+TI Revisiting the concept of Innovative Developing Countries (IDCs) for its
+   relevance to health innovation and neglected tropical diseases and for
+   the prevention and control of epidemics
+SO PLOS NEGLECTED TROPICAL DISEASES
+LA English
+DT Article
+ID RIO-DE-JANEIRO; ZIKA VIRUS; SCIENTIFIC COLLABORATION; NETWORKS; BRAZIL;
+   INFECTION; TRANSMISSION
+AB Introduction
+   Countries have traditionally been split into two major groups: developed or industrialized (<"the North) and developing or underdeveloped ("the South"). Several authors and organizations have challenged this classification to recognize countries that have reached an intermediate stage of social and economic development. As proposed by Morel and collaborators in 2005, the concept of Innovative Developing Countries (IDCs) defines a group of nations with impactful scientific programs. Here, IDCs are reexamined by a variety of metrics to highlight their role in health innovation through research and development (R&D) programs on neglected tropical diseases (NTDs) that also positively impact epidemic preparedness.
+   Results
+   To address the global changes due to expanding globalization we updated the original indicator of the number of USPTO patents deposited by individual countries per GDP and per capita to the number of international patents applications, related to applicant residence and deposited under the Patent Cooperation Treaty (PCT) per GNI (or GDP) and per capita. A comparison of the originally described ranking of top innovative countries to those in the present study revealed new members that updated the list of IDCs and showed a prominent role now played by China.
+   Analyzing scientific publications in international journals since the introduction of the IDC concept in 2005 we found that IDCs do prioritize Neglected Tropical Diseases (NTDs) as an area of research.
+   Finally we investigated the role of IDCs in two major public health emergencies between 2012 and 2016, the outbreaks of Ebola in West Africa and Zika in South America. An analysis of the co-authorship country networks demonstrated an important role for IDC infrastructure and personnel in the prevention and control of these epidemics.
+   Discussion and conclusions
+   Different techniques can be used to evaluate and measure innovative performance of countries. Country rankings published by traditional indexes, such as the Bloomberg Innovation Index (BII) and the Global Innovation Index (GII), only include high income economies among the top 20 performers. This is in sharp contrast to our approach, which identified 8-9 IDCs among the first 25 with China occupying the top position. Through an analysis of the pros and cons of the different methodologies, the IDC concept challenges more conventional approaches to address and estimate the innovative capacity of countries.
+C1 [Vasconcellos, Alexandre Guimaraes] Natl Inst Ind Property INPI, Postgrad & Res Div, Rio De Janeiro, RJ, Brazil.
+   [Fonseca e Fonseca, Bruna de Paula; Morel, Carlos Medicis] Oswaldo Cruz Fdn Fiocruz, Natl Inst Sci & Technol Innovat Dis Neglected Pop, Ctr Technol Dev Hlth CDTS, Rio De Janeiro, Brazil.
+RP Vasconcellos, AG (corresponding author), Natl Inst Ind Property INPI, Postgrad & Res Div, Rio De Janeiro, RJ, Brazil.; Morel, CM (corresponding author), Oswaldo Cruz Fdn Fiocruz, Natl Inst Sci & Technol Innovat Dis Neglected Pop, Ctr Technol Dev Hlth CDTS, Rio De Janeiro, Brazil.
+EM alexguim@inpi.gov.br; morel@cdts.fiocruz.br
+RI Morel, Carlos M/B-4079-2009; Morel, Carlos/Q-9657-2019
+OI Morel, Carlos M/0000-0003-2752-0009; Morel, Carlos/0000-0003-2752-0009;
+   Fonseca, Bruna de Paula/0000-0002-8795-2578
+FU Oswaldo Cruz Foundation (Fiocruz); National Council for Scientific and
+   Technological Development (CNPq), Ministry of Science and
+   TechnologyNational Council for Scientific and Technological Development
+   (CNPq) [573642/2008-7, 465313/2014-0]; National Council for Scientific
+   and Technological Development (CNPq), Ministry of Science and Technology
+   (Productivity II Fellowship)National Council for Scientific and
+   Technological Development (CNPq); Ministry of Education/CAPESCAPES
+   [465313/2014-0]; Research Foundation of the State of Rio de Janeiro
+   (FAPERJ)Carlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ) [465313/2014-0]; CNPq postdoctoral fellowship
+   at WIPO [202109/2015-1]
+FX Funding was provided by the Oswaldo Cruz Foundation (Fiocruz); National
+   Council for Scientific and Technological Development (CNPq), Ministry of
+   Science and Technology (no. 573642/2008-7, 465313/2014-0 and
+   Productivity II Fellowship to CMM); Ministry of Education/CAPES (no.
+   465313/2014-0); Research Foundation of the State of Rio de Janeiro
+   (FAPERJ) (no. 465313/2014-0) and CNPq postdoctoral fellowship at WIPO to
+   AGV (202109/2015-1). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Access to Essential Medicines Campaign and the Drugs for Neglected Diseases Working Group, 2001, FAT IMB CRIS RES DEV
+   [Anonymous], 2017, ECONOMIST
+   Attaran A., 2016, HARVARD PUBLIC HLTH
+   Baldwin R., 2016, GREAT CONVERGENCE IN
+   Bastian M., 2009, 3 INT AAAI C WEBL SO
+   Batallas DA, 2006, IEEE T ENG MANAGE, V53, P570, DOI 10.1109/TEM.2006.883706
+   Bender ME, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004182
+   Benoit Battistelli, 2017, EPO BLOG
+   Bornmann L, 2015, J ASSOC INF SCI TECH, V66, P1507, DOI 10.1002/asi.23333
+   Brasil P, 2016, NEW ENGL J MED, V375, P2321, DOI 10.1056/NEJMoa1602412
+   Burhan M, 2016, TECHNOLOGICAL FORECA
+   Butler D., 2016, NATURE NEWS, V540, P507
+   Calvet G, 2016, LANCET INFECT DIS, V16, P653, DOI 10.1016/S1473-3099(16)00095-5
+   Campos GS, 2015, EMERG INFECT DIS, V21, P1885, DOI 10.3201/eid2110.150847
+   Carroll D, 2018, SCIENCE, V359, P872, DOI 10.1126/science.aap7463
+   Cerbino-Neto J, 2016, EMERG INFECT DIS, V22, P1318, DOI 10.3201/eid2207.160375
+   Chan M., 2014, WHO DIRECTOR GEN BRI
+   Codeco C, 2016, MEM I OSWALDO CRUZ, V111, P414, DOI 10.1590/0074-02760160003
+   Coelho FC, 2016, INT J INFECT DIS, V51, P128, DOI 10.1016/j.ijid.2016.08.023
+   Cornell University INSEAD and WIPO, 2017, GLOB INN IND 2017 IN
+   Costa G, 2016, RIO 2016 FIC R 400 M
+   Delvecchio R, 2016, VIRUSES-BASEL, V8, DOI 10.3390/v8120322
+   DINIZ Debora, 2016, ZIKA SERTAO NORDESTI
+   European Centre for Disease Prevention and Control, 2017, ZIK EP 2014 ONW
+   Fernandes RS, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004993
+   Ferreira-de-Brito A, 2016, MEM I OSWALDO CRUZ, V111, P655, DOI 10.1590/0074-02760160332
+   Fonseca BDFE, 2016, HEALTH RES POLICY SY, V14, DOI 10.1186/s12961-016-0151-y
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Garcez PP, 2016, SCIENCE, V352, P816, DOI 10.1126/science.aaf6116
+   Gay B, 2005, RES POLICY, V34, P1457, DOI 10.1016/j.respol.2005.07.001
+   Global Innovation Index, 2016, WINN GLOB INN
+   Hidalgo CA, 2007, SCIENCE, V317, P482, DOI 10.1126/science.1144581
+   Hotez P., 2008, FORGOTTEN PEOPLE FOR
+   Jamrisko M, 2017, THESE ARE WORLDS MOS
+   Keating C., 2017, K WARREN GREAT NEGLE
+   LONG JC, 2013, BMC HEALTH SERV RES, V13, P36569
+   Ltd IC, 2017, BLOOMB INN IND REP
+   Mahoney R., 2005, INNOVATION STRATEGY, V1, P33
+   Mahoney RT, 2011, HEALTH RES POLICY SY, V9, DOI 10.1186/1478-4505-9-33
+   Mahoney RT, 2006, INNOVATION STRATEGY, V2, P1
+   MAHONEY RT, 2006, GLOBAL FORUM UPDATE, V3, P149
+   MASHELKAR RA, 2005, INNOVATION STRATEGY, V1, P16
+   Melo ASO, 2016, ULTRASOUND OBST GYN, V47, P6, DOI 10.1002/uog.15831
+   Morel C, 2005, INNOVATION STRATEGY, V1, P1
+   Morel CM, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000501
+   Morel CM, 2005, SCIENCE, V309, P401, DOI 10.1126/science.1115538
+   Morel CM, 2003, EMBO REP, V4, pS35, DOI 10.1038/sj.embor.embor851
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Nilsson A., 2013, THESIS
+   OECD E., 2005, OSL MAN GUID COLL IN, P46
+   Phillips K, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002568
+   Sacramento CQ, 2017, SCI REP-UK, V7, DOI 10.1038/srep40920
+   Sarno M, 2016, PLOS NEGLECT TROP D, V10, DOI 10.1371/journal.pntd.0004517
+   Scott JP, 2000, SOCIAL NETWORK ANALY, DOI [10.2307/3033543, DOI 10.2307/3033543]
+   Tavernise S., 2016, NO ZIKA CASES REPORT
+   Uniting to Combat Neglected Tropical Diseases, 2012, LOND DECL
+   Vasconcellos AG, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045569
+   Vollmer S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0057624
+   Warren K. S., 1986, ORPHAN DIS ORPHAN DR, P169
+   WHO, 2016, WHO PUBL HLTH ADV RE
+   WHO, 2001, MACROECONOMICS HLTH
+   WHO (World Health Organization), 2012, WHOHTMNTD20121
+   Wike R, 2017, MORE NAME US CHINA W
+   WIPO, 2017, INT PAT CLASS FREQ A
+   WIPO, 2017, INT PAT CLASS IPC
+   WIPO, 2016, WIPO FACTS FIG TOT A
+   World Bank Group, 2016, WORLD DEV IND 2016
+   World Health Organization, 2013, NEGLECTED TROPICAL D
+   World Health Organization, 2005, WHOCDSCPECEE200554
+   World Health Organization, 2014, STAT 1 M IHRE EM COM
+   Zanluca C, 2015, MEM I OSWALDO CRUZ, V110, P569, DOI 10.1590/0074-02760150192
+NR 72
+TC 4
+Z9 4
+U1 1
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1935-2735
+J9 PLOS NEGLECT TROP D
+JI Plos Neglect. Trop. Dis.
+PD JUL
+PY 2018
+VL 12
+IS 7
+AR e0006469
+DI 10.1371/journal.pntd.0006469
+PG 20
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA GP0JP
+UT WOS:000440495700003
+PM 30001318
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BDFE
+   Albuquerque, PC
+   Noyons, E
+   Zicker, F
+AF Fonseca e Fonseca, Bruna de Paula
+   Albuquerque, Priscila Costa
+   Noyons, Ed
+   Zicker, Fabio
+TI South-south collaboration on HIV/AIDS prevention and treatment research:
+   when birds of a feather rarely flock together
+SO GLOBALIZATION AND HEALTH
+LA English
+DT Article
+DE South-south collaboration; Co-authorship; HIV; Low- and middle-income
+   countries; Scientific collaboration
+ID COST-EFFECTIVENESS; MALE CIRCUMCISION; HIV PREVENTION; HEALTH; CAPACITY;
+   SCIENCE; KENYA
+AB Background: South-south collaboration on health and development research is a critical mechanism for social and economic progress. It allows sharing and replicating experiences to find a "southern solution" to meet shared health challenges, such as access to adequate HIV/AIDS prevention and treatment. This study aimed to generate evidence on the dynamics of south-south collaboration in HIV/AIDS research, which could ultimately inform stakeholders on the progress and nature of collaboration towards increased research capacities in low-and middle-income countries (LMIC).
+   Methods: Bibliometric and social network analysis methods were used to assess the 10-year (2006-2015) scientific contribution of LMIC, through the analysis of scientific publications on HIV/AIDS prevention and/or treatment. Five dimensions oriented the study: knowledge production, co-authorship analysis, research themes mapping, research types classification and funding sources.
+   Results: Publications involving LMIC have substantially increased overtime, despite small expression of south-south collaboration. Research themes mapping revealed that publication focus varied according to collaborating countries' income categories, from diagnosis, opportunistic infections and laboratory-based research (LMIC single or LMIC-LMIC) to human behavior and healthcare, drug therapy and mother to child transmission (LMIC-HIC). The analysis of research types showed that south-south collaborations frequently targeted social sciences issues. Funding agencies acknowledged in south-south collaboration also showed diverse focus: LMIC-based funders tended to support basic biomedical research whereas international/HIC-based funders seem to cover predominantly social sciences-oriented research.
+   Conclusions: Although the global environment has fostered an increasing participation of LMIC in collaborative learning models, south-south collaboration on HIV/AIDS prevention and/or treatment research seemed to be lower than expected, stressing the need for strategies to foster these partnerships. The evidence presented in this study can be used to strengthen a knowledge platform to inform future policy, planning and funding decisions, contributing to the development of enhanced collaboration and a priority research agenda for LMICs.
+C1 [Fonseca e Fonseca, Bruna de Paula; Albuquerque, Priscila Costa; Zicker, Fabio] Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Av Brasil 4036,8th Floor,Room 814, BR-21040361 Rio De Janeiro, Brazil.
+   [Noyons, Ed] Leiden Univ, Ctr Sci & Technol Studies CWTS, Leiden, Netherlands.
+RP Fonseca, BDFE (corresponding author), Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Av Brasil 4036,8th Floor,Room 814, BR-21040361 Rio De Janeiro, Brazil.
+EM bfonseca@cdts.fiocruz.br
+RI Albuquerque, Priscila C/L-4884-2015; Zicker, Fabio/I-4138-2012; Zicker,
+   Fabio/B-4209-2009
+OI Albuquerque, Priscila C/0000-0001-8185-024X; Noyons,
+   Ed/0000-0002-3103-2991; Fonseca, Bruna de Paula/0000-0002-8795-2578;
+   Zicker, Fabio/0000-0002-9751-7430
+FU Brazilian National Counsel of Technological and Scientific Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [458100/2014-15, 440231/2015-9]
+FX This work was supported by the Brazilian National Counsel of
+   Technological and Scientific Development (CNPq), grants # 458100/2014-15
+   and 440231/2015-9.
+CR Adcock J, 2008, GLOBAL HEALTH ACTION, V1, DOI 10.3402/gha.v1i0.1865
+   Alonso J.A., 2015, WHAT IS DEV COOPERAT
+   Arunachalam S, 2008, CURR SCI INDIA, V95, P311
+   Bailey RC, 2007, LANCET, V369, P643, DOI 10.1016/S0140-6736(07)60312-2
+   Bastian M., 2009, 3 INT AAAI C WEBL SO
+   Boshoff N, 2009, SCIENTOMETRICS, V81, P413, DOI 10.1007/s11192-008-2211-8
+   Cohen MS, 2011, NEW ENGL J MED, V365, P493, DOI 10.1056/NEJMoa1105243
+   COHRED, 2012, RES INN KEY DRIV HLT
+   Dean L, 2017, BMJ OPEN, V7, DOI 10.1136/bmjopen-2017-018718
+   ECOSOC, 2016, TRENDS PROGR INT DEV
+   ESSENCE on Health Research, 2014, 7 PRINC STRENGTH RES
+   Fonseca BDFE, 2016, HEALTH RES POLICY SY, V14, DOI 10.1186/s12961-016-0104-5
+   GFHR, 2004, 10 90 REP HLTH RES 2
+   Gok A, 2016, J ASSOC INF SCI TECH, V67, P715, DOI 10.1002/asi.23406
+   Gonzalez-Alcaide G, 2012, SCIENTOMETRICS, V92, P297, DOI 10.1007/s11192-012-0692-y
+   Gonzalez-Brambila CN, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0151328
+   Granich RM, 2009, LANCET, V373, P48, DOI 10.1016/S0140-6736(08)61697-9
+   Grossman CI, 2016, TRENDS MICROBIOL, V24, P5, DOI 10.1016/j.tim.2015.10.011
+   Gupta A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022730
+   Hanney SR, 2013, HEALTH RES POLICY SY, V11, DOI 10.1186/1478-4505-11-47
+   Harmer A, 2013, GLOBALIZATION HEALTH, V9, DOI 10.1186/1744-8603-9-15
+   Holmqvist G., 2009, WORKING PAPER
+   Ivers LC, 2010, AIDS, V24, pS73, DOI 10.1097/01.aids.0000366085.14064.6f
+   Kahn JG, 2006, PLOS MED, V3, P2349, DOI 10.1371/journal.pmed.0030517
+   KIPPAX Susan, 2012, J INT AIDS SOC, V15
+   Landini F, 2015, SCIENTOMETRICS, V105, P1787, DOI 10.1007/s11192-015-1635-1
+   Langer A, 2004, B WORLD HEALTH ORGAN, V82, P802
+   Leydesdorff L, 2008, J INFORMETR, V2, P317, DOI 10.1016/j.joi.2008.07.003
+   Li LL, 2009, SCIENTOMETRICS, V80, P39, DOI 10.1007/s11192-008-1939-5
+   Lorenzo C, 2008, REV BRASILEIRA BIOET, V4, P156
+   McGregor S, 2015, LANCET GLOB HEALTH, V3, pE18, DOI 10.1016/S2214-109X(14)70352-3
+   Melin G, 1996, SCIENTOMETRICS, V36, P363, DOI 10.1007/BF02129600
+   Meneghini R, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0003804
+   Morel CM, 2009, PLOS NEGLECT TROP D, V3, pe501, DOI DOI 10.1371/J0URNAL.PNTD.0000501
+   Nino F. S., SUSTAINABLE DEV GOAL
+   Pang T, 2003, B WORLD HEALTH ORGAN, V81, P815
+   Pouris A, 2014, SCIENTOMETRICS, V98, P2169, DOI 10.1007/s11192-013-1156-8
+   Rodrigues ML, 2016, MBIO, V7, DOI 10.1128/mBio.00907-16
+   SAGASTI F, 2004, KNOWLEDGE INNOVATION
+   Salager-Meyer F., 2008, J ENGL ACAD PURP, V7, P121, DOI [10.1016/j.jeap.2008.03.009, DOI 10.1016/J.JEAP.2008.03.009]
+   Schwartlander B, 2011, LANCET, V377, P2031, DOI 10.1016/S0140-6736(11)60702-2
+   Smith E, 2014, BMC MED ETHICS, V15, DOI 10.1186/1472-6939-15-42
+   Sridhar D., 2012, PLOS MED, P9
+   Sweat M, 2000, LANCET, V356, P113, DOI 10.1016/S0140-6736(00)02447-8
+   Syed SB, 2013, GLOBALIZATION HEALTH, V9, DOI 10.1186/1744-8603-9-36
+   Syed SB, 2012, GLOBALIZATION HEALTH, V8, DOI 10.1186/1744-8603-8-17
+   Terry RF, 2010, HEALTH RES POLICY SY, V8, DOI 10.1186/1478-4505-8-25
+   The World Bank, WORLD BANK COUNTR LE
+   Thorsteinsdottir H, 2010, NAT BIOTECHNOL, V28, P407, DOI 10.1038/nbt0510-407
+   Uddin S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0123537
+   UNAIDS, 2016, GLOB AIDS UPD 2016
+   van Eck NJ, 2010, SCIENTOMETRICS, V84, P523, DOI 10.1007/s11192-009-0146-3
+   van Eck NJ, 2009, J AM SOC INF SCI TEC, V60, P1635, DOI 10.1002/asi.21075
+   Waltman L, 2010, J INFORMETR, V4, P629, DOI 10.1016/j.joi.2010.07.002
+   WHO, 2014, S S TRIANG COOP HLTH
+   Zdravkovic M, 2016, SCIENTOMETRICS, V108, P717, DOI 10.1007/s11192-016-1989-z
+NR 56
+TC 3
+Z9 3
+U1 0
+U2 6
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1744-8603
+J9 GLOBALIZATION HEALTH
+JI Global. Health
+PD MAR 1
+PY 2018
+VL 14
+AR 25
+DI 10.1186/s12992-018-0341-1
+PG 12
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FX9AN
+UT WOS:000426387500003
+PM 29490665
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BDFE
+   da Silva, MVP
+   de Araujo, KM
+   Sampaio, RB
+   Moraes, MO
+AF Fonseca e Fonseca, Bruna de Paula
+   Pereira da Silva, Marcus Vinicius
+   de Araujo, Kizi Mendonca
+   Sampaio, Ricardo Barros
+   Moraes, Milton Ozorio
+TI Network analysis for science and technology management: Evidence from
+   tuberculosis research in Fiocruz, Brazil
+SO PLOS ONE
+LA English
+DT Article
+ID SCIENTIFIC COLLABORATION; BIOTECHNOLOGY; INNOVATION
+AB Collaborative networks are of great value for science and technology (S&T) institutions as a way of sharing, generating and disseminating new knowledge that could ultimately lead to innovations. Driven by the need to assess the contribution and effectiveness of these networks in informing S&T management, we explored the evolution and dynamics of tuberculosis scientific networks involving the Oswaldo Cruz Foundation (Fiocruz), the major public health S&T Institution in Brazil. Social network analysis (SNA) was used to produce a 10-year (2005-2009, 2010-2014) retrospective longitudinal mapping of Brazilian tuberculosis research networks within the country and internationally, highlighting Fiocruz collaborations. Co-authorship analysis showed a significant expansion of collaboration in Brazil and the role of Fiocruz and other leading national institutions in maintaining connectivity, facilitating knowledge exchange and reducing network vulnerability. It also identified influential researchers that can act as information leaders and support strategic decisions. When we focused on networks inside the institution, the analysis showed a clear discontinuation between the clinical and the public health research areas, which needs specific internal policies to improve collaborations since outcomes in TB are expected to provide better diagnostic tools and more effective treatments. The approach provides evidence to support S&T management by pinpointing: key central institutions maintaining network connectivity; most influential researchers that can act as advisors/experts for investment and induction policies; key Fiocruz researchers that could improve information exchange, systems integration and innovation within the institution; opportunities for synergy between internal research groups working in complementary areas. In summary, we observed that SNA parameters proved to be a valuable tool that, along with other indicators, can strengthen knowledge platforms to support S&T management efforts.
+C1 [Fonseca e Fonseca, Bruna de Paula] Fiocruz MS, CDTS, Rio De Janeiro, Brazil.
+   [Pereira da Silva, Marcus Vinicius] Fiocruz MS, COC, Rio De Janeiro, Brazil.
+   [de Araujo, Kizi Mendonca] Fiocruz MS, Inst Informacao Cient & Tecnol Saude ICICT, Rio De Janeiro, Brazil.
+   [Sampaio, Ricardo Barros] Fiocruz MS, Diretoria Reg Brasilia DIREB, Brasilia, DF, Brazil.
+   [Moraes, Milton Ozorio] Fiocruz MS, Vice Presidencia Ensino Informacao & Comunicacao, Rio De Janeiro, Brazil.
+   [Moraes, Milton Ozorio] Fiocruz MS, Inst Oswaldo Cruz, Lab Hanseniase, Rio De Janeiro, Brazil.
+RP Fonseca, BDFE (corresponding author), Fiocruz MS, CDTS, Rio De Janeiro, Brazil.
+EM bfonseca@cdts.fiocruz.br
+RI Moraes, Milton Ozorio/G-9753-2011; Pereira-Silva, Marcus
+   Vinicius/AAD-8584-2020
+OI Moraes, Milton Ozorio/0000-0003-2653-0037; Pereira-Silva, Marcus
+   Vinicius/0000-0002-4135-4011; Fonseca, Bruna de
+   Paula/0000-0002-8795-2578
+FU Fiocruz
+FX Fiocruz provided support in the form of salaries for authors BPFF and
+   MOM, but did not have any additional role in the study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript. The specific roles of these authors are articulated in the
+   'author contributions' section.
+CR Abbasi A, 2011, ARXIV11116804PHYS
+   Abramovsky L, 2011, J ECON GEOGR
+   Adams J, 2012, NATURE, V490, P335, DOI 10.1038/490335a
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bastian M., 2009, 3 INT AAAI C WEBL SO
+   Bell GG, 2005, STRATEGIC MANAGE J, V26, P287, DOI 10.1002/smj.448
+   Bender ME, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004182
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Borgatti S.P., 2002, UCINET WINDOWS SOFTW
+   Brasil, 2012, ESTR NAC CIENC TECN
+   Cassi L, 2008, ECON INNOV NEW TECH, V17, P663, DOI 10.1080/10438590701785603
+   Cross R, 2002, CALIF MANAGE REV, V44, P25, DOI 10.2307/41166121
+   D'Este P., 2012, J ECON GEOGR
+   Daar AS, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-346
+   Disis ML, 2010, SCI TRANSL MED, V2, DOI 10.1126/scitranslmed.3000421
+   Fonseca BPF, 2016, SCI PUBLIC POLICY
+   Fonseca BDFE, 2016, HEALTH RES POLICY SY, V14, DOI 10.1186/s12961-016-0151-y
+   Fonseca BDFE, 2016, HEALTH RES POLICY SY, V14, DOI 10.1186/s12961-016-0104-5
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Glanzel W, 2004, HANDBOOK OF QUANTITATIVE SCIENCE AND TECHNOLOGY RESEARCH: THE USE OF PUBLICATION AND PATENT STATISTICS IN STUDIES OF S&T SYSTEMS, P257
+   Costa BMG, 2013, SCIENTOMETRICS, V95, P571, DOI 10.1007/s11192-012-0924-1
+   Hancean MG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113271
+   Hara N, 2003, J AM SOC INF SCI TEC, V54, P952, DOI 10.1002/asi.10291
+   He J, 2009, TECHNOL FORECAST SOC, V76, P91, DOI 10.1016/j.techfore.2008.03.020
+   Kritski A, 2016, I HIG MED TROP, V15, pS35
+   Kritski A, 2016, REV SOC BRAS MED TRO, V49, P135, DOI 10.1590/0037-8682-0330-2015
+   Lee DH, 2012, SCIENTOMETRICS, V91, P925, DOI 10.1007/s11192-011-0602-8
+   Lienhardt C, 2016, PLOS MED, V13, DOI 10.1371/journal.pmed.1001965
+   Luzar B, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0094429
+   Mattsson P, 2015, Collaboration across Health Research and Medical Care: Healthy Collaboration, P13
+   Morel CM, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000501
+   Morel CM, 2005, SCIENCE, V309, P401, DOI 10.1126/science.1115538
+   Phillips K, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002568
+   Sizemore CF, 2012, EMERG MICROBES INFEC, V1, DOI 10.1038/emi.2012.21
+   Tsai WP, 2001, ACAD MANAGE J, V44, P996, DOI 10.2307/3069443
+   Valente T. W., 2010, SOCIAL NETWORKS HLTH
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   van Eck NJ, 2010, SCIENTOMETRICS, V84, P523, DOI 10.1007/s11192-009-0146-3
+   van Eck NJ, 2009, J AM SOC INF SCI TEC, V60, P1635, DOI 10.1002/asi.21075
+   Vanderelst D, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004266
+   Vasconcellos AG, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045569
+   Waltman L, 2010, J INFORMETR, V4, P629, DOI 10.1016/j.joi.2010.07.002
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   World Health Organisation, 2015, WHO GLOB TUB REP 201
+   World Health Organization, 2015, GLOB ACT FRAM TB RES
+NR 45
+TC 3
+Z9 3
+U1 0
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 8
+PY 2017
+VL 12
+IS 8
+AR e0181870
+DI 10.1371/journal.pone.0181870
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FC9EU
+UT WOS:000407144700008
+PM 28792514
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Sampaio, RB
+   Fonseca, BPF
+   Bahulkar, A
+   Szymanski, BK
+AF Sampaio, Ricardo B.
+   Fonseca, Bruna P. F.
+   Bahulkar, Ashwin
+   Szymanski, Boleslaw K.
+TI Network analysis to support public health: evolution of collaboration
+   among leishmaniasis researchers
+SO SCIENTOMETRICS
+LA English
+DT Article; Proceedings Paper
+CT 6th Global Tech Mining Conference
+CY SEP, 2016
+CL Valencia, SPAIN
+DE Network analysis; Scientific collaboration; Lexical analysis; Link
+   prediction; Leishmaniasis
+ID NEGLECTED DISEASES; SCIENTIFIC PRODUCTIVITY; CUTANEOUS LEISHMANIASIS;
+   LEADERSHIP; INNOVATION; CAPACITY; IMPACT
+AB Databases on scientific publications are a well-known source for complex network analysis. The present work focuses on tracking evolution of collaboration amongst researchers on leishmaniasis, a neglected disease associated with poverty and very common in Brazil, India and many other countries in Latin America, Asia and Africa. Using SCOPUS and PubMed databases we have identified clusters of publications resulting from research areas and collaboration between countries. Based on the collaboration patterns, areas of research and their evolution over the past 35 years, we combined different methods in order to understand evolution in science. The methods took into consideration descriptive network analysis combined with lexical analysis of publications, and the collaboration patterns represented by links in network structure. The methods used country of the authors' publications, MeSH terms, and the collaboration patterns in seven five-year period collaboration network and publication networks snapshots as attributes. The results show that network analysis metrics can bring evidences of evolution of collaboration between different research groups within a specific research area and that those areas have subnetworks that influence collaboration structures and focus.
+C1 [Sampaio, Ricardo B.; Fonseca, Bruna P. F.] Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Natl Inst Sci & Technol Innovat Neglected Dis INC, Rio De Janeiro, RJ, Brazil.
+   [Sampaio, Ricardo B.] Fiocruz MS, Diretoria Reg Brasilia, Brasilia, DF, Brazil.
+   [Bahulkar, Ashwin; Szymanski, Boleslaw K.] Rensselaer Polytech Inst, Comp Sci, Troy, NY USA.
+   [Szymanski, Boleslaw K.] Spoleczna Akad Nauk, Lodz, Poland.
+RP Sampaio, RB (corresponding author), Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Natl Inst Sci & Technol Innovat Neglected Dis INC, Rio De Janeiro, RJ, Brazil.; Sampaio, RB (corresponding author), Fiocruz MS, Diretoria Reg Brasilia, Brasilia, DF, Brazil.
+EM rsampaio.br@gmail.com
+RI Szymanski, Boleslaw K/A-9121-2009; Szymanski, Boleslaw K/O-1374-2017
+OI Szymanski, Boleslaw K/0000-0002-0307-6743; Szymanski, Boleslaw
+   K/0000-0002-0307-6743; Fonseca, Bruna de Paula/0000-0002-8795-2578
+FU CNPqNational Council for Scientific and Technological Development
+   (CNPq); CAPESCAPES; FAPERJ (INCT-IDN) [573642/2008-7]; ARL (NS CTA)
+   [W911NF-09-2-0053]
+FX This paper was supported by CNPq, CAPES and FAPERJ (INCT-IDN
+   #573642/2008-7) and by ARL (NS CTA Agreement #W911NF-09-2-0053).
+CR Adams J, 2012, NATURE, V490, P335, DOI 10.1038/490335a
+   Al-Mutawakel K, 2010, PARASITE VECTOR, V3, DOI 10.1186/1756-3305-3-14
+   Alvar J, 2006, TRENDS PARASITOL, V22, P552, DOI 10.1016/j.pt.2006.09.004
+   Alvar J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035671
+   Asilian A, 2004, INT J DERMATOL, V43, P736, DOI 10.1111/j.1365-4632.2004.02349.x
+   Bahulkar A., 2016, IEEE ACM INT C ADV S, P1107, DOI [10.1109/ASONAM.2016.7752391, DOI 10.1109/ASONAM.2016.7752391]
+   Barabasi AL, 2007, NEW ENGL J MED, V357, P404, DOI 10.1056/NEJMe078114
+   Bastian M., 2009, 3 INT AAAI C WEBL SO
+   Bender ME, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004182
+   Bennett S, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001081
+   Bern C, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000313
+   Brasil, 2012, ESTR NAC CIENC TECN
+   D'Andreta D, 2013, J HEALTH SERV RES PO, V18, P40, DOI 10.1177/1355819613499902
+   de Carvalho PB, 2001, FITOTERAPIA, V72, P599, DOI 10.1016/S0367-326X(01)00301-X
+   Duque RB, 2005, SOC STUD SCI, V35, P755, DOI 10.1177/0306312705053048
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   G-Finder, 2014, NEGL DIS RES DEV EM
+   Gonzalez-Alcaide G, 2013, REV SOC BRAS MED TRO, V46, P719, DOI 10.1590/0037-8682-0207-2013
+   Guarnaccia C, 2016, BLOOD TRANSFUS-ITALY, V14, P490, DOI 10.2450/2015.0048-15
+   Guerrant RL, 1999, CLIN INFECT DIS, V28, P966, DOI 10.1086/514765
+   Guler I, 2012, STRATEGIC MANAGE J, V33, P535, DOI 10.1002/smj.957
+   Holmgren M, 2004, PLOS BIOL, V2, P10, DOI 10.1371/journal.pbio.0020001
+   Kettler HE, 2001, B WORLD HEALTH ORGAN, V79, P742
+   Khatami A, 2007, J AM ACAD DERMATOL, V57, P335, DOI 10.1016/j.jaad.2007.01.016
+   Kuzmin Konstantin, 2016, Appl Netw Sci, V1, P11, DOI 10.1007/s41109-016-0015-y
+   Lee S, 2005, SOC STUD SCI, V35, P673, DOI 10.1177/0306312705052359
+   Leydesdorff L., 2009, ARXIV09111438PHYSICS
+   Mckew JC, 2013, TRENDS PHARMACOL SCI, V34, P87, DOI 10.1016/j.tips.2012.10.001
+   Morel CM, 2007, NATURE, V449, P180, DOI 10.1038/449180a
+   Morel CM, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000501
+   Morel CM, 2005, SCIENCE, V309, P401, DOI 10.1126/science.1115538
+   Phillips K, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002568
+   Ramos JM, 2013, PARASITE VECTOR, V6, DOI 10.1186/1756-3305-6-55
+   Reinert M, 1986, CAHIERS ANAL DONNEES, V11, P471
+   Reinert M., 1983, CAH ANAL DONNEES, V8, P187
+   Rodrigues M. M., 2015, INT ARCH MED, DOI [10.3823/1853, DOI 10.3823/1853]
+   Sampaio R. B., 2015, TEMPUS ACTAS SAUDE C, V9, P249, DOI 10.18569/tempus.v9i3.1800
+   Singh Om Prakash, 2016, Lancet Infect Dis, V16, pe304, DOI 10.1016/S1473-3099(16)30140-2
+   Souza MA, 2013, GLYCOCONJUGATE J, V30, P641, DOI 10.1007/s10719-012-9464-4
+   Srivastava S, 2016, PARASITE VECTOR, V9, DOI 10.1186/s13071-016-1553-y
+   Vasconcellos AG, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045569
+   Weina PJ, 2004, CLIN INFECT DIS, V39, P1674, DOI 10.1086/425747
+   Wilson K., 2011, PREVENTING CHRONIC D, V8
+   World Health Organ, 2010, TECH REP SER, pxii
+NR 44
+TC 0
+Z9 0
+U1 0
+U2 17
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0138-9130
+EI 1588-2861
+J9 SCIENTOMETRICS
+JI Scientometrics
+PD JUN
+PY 2017
+VL 111
+IS 3
+BP 2001
+EP 2021
+DI 10.1007/s11192-017-2346-6
+PG 21
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science
+SC Computer Science; Information Science & Library Science
+GA EV4RE
+UT WOS:000401747900043
+DA 2020-11-10
+ER
+
+PT J
+AU Mota, FB
+   Fonseca, BDFE
+   Galina, AC
+   da Silva, RM
+AF Mota, Fabio Batista
+   Fonseca e Fonseca, Bruna de Paula
+   Galina, Andreia Cristina
+   da Silva, Roseli Monteiro
+TI Mapping the dengue scientific landscape worldwide: a bibliometric and
+   network analysis
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE dengue; scientific publications; scientific landscape; bibliometrics;
+   social network analysis
+ID PUBLIC-HEALTH; SCIENCE
+AB BACKGROUND Despite the current global trend of reduction in the morbidity and mortality of neglected diseases, dengue's incidence has increased and occurrence areas have expanded. Dengue also persists as a scientific and technological challenge since there is no effective treatment, vaccine, vector control or public health intervention. Combining bibliometrics and social network analysis methods can support the mapping of dengue research and development (R&D) activities worldwide.
+   OBJECTIVES The aim of this paper is to map the scientific scenario related to dengue research worldwide.
+   METHODS We use scientific publication data from Web of Science Core Collection - articles indexed in Science Citation Index Expanded (SCI-EXPANDED) - and combine bibliometrics and social network analysis techniques to identify the most relevant journals, scientific references, research areas, countries and research organisations in the dengue scientific landscape.
+   FINDINGS Our results show a significant increase of dengue publications over time; tropical medicine and virology as the most frequent research areas and biochemistry and molecular biology as the most central area in the network; USA and Brazil as the most productive countries; and Mahidol University and Fundacao Oswaldo Cruz as the main research organisations and the Centres for Disease Control and Prevention as the most central organisation in the collaboration network.
+   MAIN CONCLUSIONS Our findings can be used to strengthen a global knowledge platform guiding policy, planning and funding decisions as well as to providing directions to researchers and institutions. So that, by offering to the scientific community, policy makers and public health practitioners a mapping of the dengue scientific landscape, this paper has aimed to contribute to upcoming debates, decision-making and planning on dengue R& D and public health strategies worldwide.
+C1 [Mota, Fabio Batista; Galina, Andreia Cristina] Fdn Oswaldo Cruz Fiocruz, Pesquisa & Lab Referencia, Rio De Janeiro, RJ, Brazil.
+   [Fonseca e Fonseca, Bruna de Paula; da Silva, Roseli Monteiro] Fdn Oswaldo Cruz Fiocruz, Ctr Desenvolvimento Tecnol Saude, Rio De Janeiro, RJ, Brazil.
+RP Mota, FB (corresponding author), Fdn Oswaldo Cruz Fiocruz, Pesquisa & Lab Referencia, Rio De Janeiro, RJ, Brazil.
+EM fabiobmota@outlook.com
+RI Galina, Andreia C/N-1863-2016; Galina, Andreia/AAD-1100-2019; Mota,
+   Fabio B/G-3164-2015; Mota, Fabio/AAQ-7019-2020
+OI Galina, Andreia C/0000-0002-3670-9172; Galina,
+   Andreia/0000-0002-3670-9172; Mota, Fabio B/0000-0003-2401-7336; Mota,
+   Fabio/0000-0003-2401-7336; Fonseca, Bruna de Paula/0000-0002-8795-2578
+CR Abramovsky L, 2011, J ECON GEOGR, V11, P949, DOI 10.1093/jeg/lbq052
+   Beaumier CM, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002448
+   Bell GG, 2005, STRATEGIC MANAGE J, V26, P287, DOI 10.1002/smj.448
+   Bhardwaj Raj Kumar, 2014, SRELS Journal of Information Management, V51, P77
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Breschi S., 2005, ANN EC STAT, V79, P189, DOI DOI 10.2307/20777575
+   Brown A, 2011, SE ASIAN J TROP MED, V42, P477
+   Bundschuh M, 2013, PARASITE VECTOR, V6, DOI 10.1186/1756-3305-6-331
+   Dutt B, 2010, COLLNET J SCIENTOMET, V4, P81, DOI 10.1080/09737766.2010.10700885
+   Fonseca BDFE, 2016, HEALTH RES POLICY SY, V14, DOI 10.1186/s12961-016-0104-5
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gibbons RV, 2012, EMERG INFECT DIS, V18, P623, DOI 10.3201/eid1804.110134
+   Gonzalez-Albo B, 2011, J INFORMETR, V5, P369, DOI 10.1016/j.joi.2011.01.011
+   Halstead SB, 1988, J CHALL MOL BIO, V239, P476, DOI DOI 10.1126/SCIENCE.3277268
+   Horstick O, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003632
+   Kothari A, 2014, SYST PRACT ACT RES, V27, P123, DOI 10.1007/s11213-012-9271-7
+   LANCIOTTI RS, 1992, J CLIN MICROBIOL, V30, P545, DOI 10.1128/JCM.30.3.545-551.1992
+   Luke DA, 2007, ANNU REV PUBL HEALTH, V28, P69, DOI 10.1146/annurev.publhealth.28.021406.144132
+   Martinez-Pulgarin DF, 2016, TRAVEL MED INFECT DI, V14, P55, DOI 10.1016/j.tmaid.2015.07.005
+   Munoz-Urbano Marcela, 2014, Recent Pat Antiinfect Drug Discov, V9, P209
+   Murray Natasha Evelyn Anne, 2013, Clin Epidemiol, V5, P299, DOI 10.2147/CLEP.S34440
+   Noyons E, 2001, SCIENTOMETRICS, V50, P83, DOI 10.1023/A:1005694202977
+   Thirumagal A, 2015, SRELS J INF MANAG, V52, P269
+   Thisyakorn U, 2013, THER ADV VACCINES, V2, P3
+   Thorsteinsdottir H, 2004, NAT BIOTECHNOL, V22, pDC3, DOI 10.1038/nbt1204supp-DC3
+   Vasconcellos AG, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045569
+   Vera-Polania F, 2015, J INFECT PUBLIC HEAL, V8, P386, DOI 10.1016/j.jiph.2015.03.006
+   Whitehead SS, 2016, EXPERT REV VACCINES, V15, P509, DOI 10.1586/14760584.2016.1115727
+   World Health Organization, 2009, DENG GUID DIAGN TREA
+NR 29
+TC 3
+Z9 3
+U1 1
+U2 40
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD MAY
+PY 2017
+VL 112
+IS 5
+BP 354
+EP 363
+DI 10.1590/0074-02760160423
+PG 10
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA ET3EG
+UT WOS:000400159600005
+PM 28443981
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BPF
+   Fernandes, E
+   Fonseca, MVA
+AF Fonseca, Bruna P. F.
+   Fernandes, Elton
+   Fonseca, Marcus V. A.
+TI Collaboration in science and technology organizations of the public
+   sector: A network perspective
+SO SCIENCE AND PUBLIC POLICY
+LA English
+DT Article
+DE networks; collaboration; R & D; public sector; indicators; Brazil
+ID PRODUCT DEVELOPMENT; SCIENTIFIC COLLABORATION; COAUTHORSHIP NETWORKS;
+   INNOVATION NETWORKS; HEALTH; PERFORMANCE; EXPLORATION; IMPACT;
+   BIOTECHNOLOGY; EXPLOITATION
+AB Engaging in collaborative networks can be an important facilitator of innovation for public sector science and technology (S&T) organizations. It is also an important component of S&T policies that require indicators that can assess the networks through which these organizations innovate. In this study, we apply network indicators to two S&T organizations that are part of the Brazilian public health sector. The indicators cover two complementary perspectives: one that considers the organizations' scientific networks and the other that considers their technological networks. The indicators allowed the analysis of the networks in which the organizations were engaged and the understanding of important aspects of their collaboration patterns that can support strategic decisions. The method employed in this paper proved to be a valuable diagnostic tool and a useful mechanism for evaluating the performance and supporting the development of S&T institutions.
+C1 [Fonseca, Bruna P. F.; Fernandes, Elton; Fonseca, Marcus V. A.] Univ Fed Rio de Janeiro, Alberto Luiz Coimbra Inst Grad Studies & Res Engn, Ctr Tecnol, Cidade Univ,Bloco F Sala 103, Rio De Janeiro, RJ, Brazil.
+   [Fonseca, Bruna P. F.] Fiocruz MS, Oswaldo Cruz Fdn, Ctr Technol Dev Hlth CDTS, Av Brasil,4036 Predio Expansao 8 Andar,Sala 814, Rio De Janeiro, RJ, Brazil.
+RP Fonseca, BPF (corresponding author), Univ Fed Rio de Janeiro, Alberto Luiz Coimbra Inst Grad Studies & Res Engn, Ctr Tecnol, Cidade Univ,Bloco F Sala 103, Rio De Janeiro, RJ, Brazil.; Fonseca, BPF (corresponding author), Fiocruz MS, Oswaldo Cruz Fdn, Ctr Technol Dev Hlth CDTS, Av Brasil,4036 Predio Expansao 8 Andar,Sala 814, Rio De Janeiro, RJ, Brazil.
+EM bfonseca@cdts.fiocruz.br
+RI Fernandes, Elton/I-2908-2017; de Araujo Fonseca, Marcus
+   Vinicius/AAF-5791-2019
+OI Fernandes, Elton/0000-0001-9340-8547; de Araujo Fonseca, Marcus
+   Vinicius/0000-0001-6177-1966; Fonseca, Bruna de
+   Paula/0000-0002-8795-2578
+CR Abramovsky L, 2011, J ECON GEOGR, V11, P949, DOI 10.1093/jeg/lbq052
+   Adams J, 2012, NATURE, V490, P335, DOI 10.1038/490335a
+   Alcará Adriana Rosecler, 2006, Transinformação, V18, P143
+   Atuahene-Gima K, 2005, J MARKETING, V69, P61, DOI 10.1509/jmkg.2005.69.4.61
+   Balconi M, 2004, RES POLICY, V33, P127, DOI 10.1016/S0048-7333(03)00108-2
+   Bastian M., 2009, P INT AAAI C WEBL SO, V8, P361, DOI DOI 10.1136/QSHC.2004.010033
+   Batallas DA, 2006, IEEE T ENG MANAGE, V53, P570, DOI 10.1109/TEM.2006.883706
+   Baum JAC, 2000, STRATEGIC MANAGE J, V21, P267, DOI 10.1002/(SICI)1097-0266(200003)21:3<267::AID-SMJ89>3.0.CO;2-8
+   Beaudry C, 2011, EUR MANAG J, V29, P362, DOI 10.1016/j.emj.2011.03.001
+   Beaver DD, 2001, SCIENTOMETRICS, V52, P365, DOI 10.1023/A:1014254214337
+   Bommert B., 2010, INT PUBLIC MANAG J, V11, P15, DOI DOI 10.1017/CBO9781316105337.006
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Breschi S., 2005, ANN EC STAT, V79, P189, DOI DOI 10.2307/20777575
+   Breschi S, 2010, RES POLICY, V39, P14, DOI 10.1016/j.respol.2009.11.004
+   Choe H, 2013, RENEW SUST ENERG REV, V26, P492, DOI 10.1016/j.rser.2013.05.037
+   D'Este P, 2013, J ECON GEOGR, V13, P537, DOI 10.1093/jeg/lbs010
+   De Franco M, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002862
+   Eslami H, 2013, SCIENTOMETRICS, V97, P99, DOI 10.1007/s11192-013-1069-6
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gadelha Carlos, 2003, Hist. cienc. saude-Manguinhos, V10, P697, DOI 10.1590/S0104-59702003000500012
+   Gamal D., 2011, MEASURE ORG INNOVATI
+   Giuliani E, 2011, SOCIAL NETWORK ANAL
+   Glanzel W, 2005, HDB QUANTITATIVE SCI, P257, DOI DOI 10.1007/1-4020-2755-9
+   Gonzalez-Alcaide G, 2013, REV SOC BRAS MED TRO, V46, P719, DOI 10.1590/0037-8682-0207-2013
+   Gadelha CAG, 2012, REV SAUDE PUBL, V46, P13, DOI 10.1590/s0034-89102012005000062
+   Guler I, 2012, STRATEGIC MANAGE J, V33, P535, DOI 10.1002/smj.957
+   Haeussler C, 2012, J BUS VENTURING, V27, P217, DOI 10.1016/j.jbusvent.2010.10.002
+   Hagedoorn J, 2002, ORGAN STUD, V23, P525, DOI 10.1177/0170840602234002
+   He J, 2009, TECHNOL FORECAST SOC, V76, P91, DOI 10.1016/j.techfore.2008.03.020
+   Hoang H, 2005, ACAD MANAGE J, V48, P332, DOI 10.5465/AMJ.2005.16928417
+   Knoben J, 2006, INT J MANAG REV, V8, P71, DOI 10.1111/j.1468-2370.2006.00121.x
+   Lavie D, 2011, ORGAN SCI, V22, P1517, DOI 10.1287/orsc.1100.0596
+   Lee DH, 2012, SCIENTOMETRICS, V91, P925, DOI 10.1007/s11192-011-0602-8
+   Leischow SJ, 2008, AM J PREV MED, V35, pS196, DOI 10.1016/j.amepre.2008.05.014
+   Li EY, 2013, RES POLICY, V42, P1515, DOI 10.1016/j.respol.2013.06.012
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   Marsan G. A, 2012, OECD REGIONAL DEV WO
+   Martins WD, 2012, REV SAUDE PUBL, V46, P51, DOI 10.1590/S0034-89102012005000057
+   Mays GP, 2010, PREV CHRONIC DIS, V7
+   Melese T, 2009, NAT MED, V15, P502, DOI 10.1038/nm0509-502
+   Morel CM, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000501
+   Morel CM, 2005, SCIENCE, V309, P401, DOI 10.1126/science.1115538
+   Murray F, 2002, RES POLICY, V31, P1389, DOI 10.1016/S0048-7333(02)00070-7
+   Netherlands Observatory of Science and Technology, 2010, SCI TECHN IND REP 20
+   Newman MEJ, 2012, NAT PHYS, V8, P25, DOI 10.1038/nphys2162
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Nooteboom B, 2007, RES POLICY, V36, P1016, DOI 10.1016/j.respol.2007.04.003
+   Organisation for Economic Co-operation and Development, 2005, MEAS SCI TECHN ACT G
+   Ozcan S, 2014, TECHNOL FORECAST SOC, V82, P115, DOI 10.1016/j.techfore.2013.08.008
+   Powell W. W, 2002, READINGS EC SOCIOLOG, P262
+   Ramesh B, 1999, DECIS SUPPORT SYST, V27, P213, DOI 10.1016/S0167-9236(99)00045-7
+   Reagans R, 2001, ORGAN SCI, V12, P502, DOI 10.1287/orsc.12.4.502.10637
+   Rothaermel FT, 2004, STRATEGIC MANAGE J, V25, P201, DOI 10.1002/smj.376
+   Schilling MA, 2007, MANAGE SCI, V53, P1113, DOI 10.1287/mnsc.1060.0624
+   SCOTT J, 2001, SOCIAL NETWORK ANAL
+   Shipilov A, 2014, ACAD MANAGE J, V57, P449, DOI 10.5465/amj.2013.1145
+   Ter Wal ALJ, 2013, REG STUD, V47, P651, DOI 10.1080/00343401003614258
+   The Royal Society, 2011, 0311 RS
+   Toole AA, 2012, RES POLICY, V41, P1, DOI 10.1016/j.respol.2011.06.004
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Vasconcellos AG, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045569
+   Wagner CS, 2005, RES POLICY, V34, P1608, DOI 10.1016/j.respol.2005.08.002
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Yamakawa Y, 2011, RES POLICY, V40, P287, DOI 10.1016/j.respol.2010.10.006
+   Yang CH, 2014, SCI PUBL POLICY, V41, P734, DOI 10.1093/scipol/scu007
+   Zaheer A, 2010, ACAD MANAGE PERSPECT, V24, P62, DOI 10.5465/AMP.2010.50304417
+NR 66
+TC 5
+Z9 6
+U1 2
+U2 24
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0302-3427
+EI 1471-5430
+J9 SCI PUBL POLICY
+JI Sci. Public Policy
+PD FEB
+PY 2017
+VL 44
+IS 1
+BP 37
+EP 49
+DI 10.1093/scipol/scw013
+PG 13
+WC Environmental Studies; Management; Public Administration
+SC Environmental Sciences & Ecology; Business & Economics; Public
+   Administration
+GA EP0OG
+UT WOS:000397086000004
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BDFE
+   Zicker, F
+AF Fonseca e Fonseca, Bruna de Paula
+   Zicker, Fabio
+TI Dengue research networks: building evidence for policy and planning in
+   Brazil
+SO HEALTH RESEARCH POLICY AND SYSTEMS
+LA English
+DT Article
+DE Research networks; Policy and planning; Dengue; Social network analysis
+ID NEGLECTED DISEASES; GLOBAL HEALTH; COLLABORATION; INNOVATION; EVOLUTION
+AB Background: The analysis of scientific networks has been applied in health research to map and measure relationships between researchers and institutions, describing collaboration structures, individual roles, and research outputs, and helping the identification of knowledge gaps and cooperation opportunities. Driven by dengue continued expansion in Brazil, we explore the contribution, dynamics and consolidation of dengue scientific networks that could ultimately inform the prioritisation of research, financial investments and health policy.
+   Method: Social network analysis (SNA) was used to produce a 20-year (1995-2014) retrospective longitudinal evaluation of dengue research networks within Brazil and with its partners abroad, with special interest in describing institutional collaboration and their research outputs.
+   Results: The analysis of institutional co-authorship showed a significant expansion of collaboration over the years, increased international involvement, and ensured a shift from public health research toward vector control and basic biomedical research, probably as a reflection of the expansion of transmission, high burden and increasing research funds from the Brazilian government. The analysis identified leading national organisations that maintained the research network connectivity, facilitated knowledge exchange and reduced network vulnerability.
+   Conclusions: SNA proved to be a valuable tool that, along with other indicators, can strengthen a knowledge platform to inform future policy, planning and funding decisions. The paper provides relevant information to policy and planning for dengue research as it reveals: (1) the effectiveness of the research network in knowledge generation, sharing and diffusion; (2) the near-absence of collaboration with the private sector; and (3) the key central organisations that can support strategic decisions on investments, development and implementation of innovations. In addition, the increase in research activities and collaboration has not yet significantly affected dengue transmission, suggesting a limited translation of research efforts into public health solutions.
+C1 [Fonseca e Fonseca, Bruna de Paula; Zicker, Fabio] Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Ave Brasil 4036,8th Floor,Room 814, BR-21040361 Rio De Janeiro, Brazil.
+RP Fonseca, BDFE (corresponding author), Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Ave Brasil 4036,8th Floor,Room 814, BR-21040361 Rio De Janeiro, Brazil.
+EM bfonseca@cdts.fiocruz.br
+RI Zicker, Fabio/I-4138-2012; Zicker, Fabio/B-4209-2009
+OI Zicker, Fabio/0000-0002-9751-7430; Fonseca, Bruna de
+   Paula/0000-0002-8795-2578
+FU Brazilian National Counsel of Technological and Scientific Development
+   (CNPq)National Council for Scientific and Technological Development
+   (CNPq) [458100/2014-15]
+FX This work was supported by the Brazilian National Counsel of
+   Technological and Scientific Development (CNPq), grant # 458100/2014-15.
+CR Adams J, 2012, NATURE, V490, P335, DOI 10.1038/490335a
+   Bastian M., 2009, P INT AAAI C WEBL SO, V8, P361, DOI DOI 10.1136/QSHC.2004.010033
+   Bell GG, 2005, STRATEGIC MANAGE J, V26, P287, DOI 10.1002/smj.448
+   Bender ME, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004182
+   Bhatt S, 2013, NATURE, V496, P504, DOI 10.1038/nature12060
+   Brazil Department of Science and Technology, 2010, REV SAUDE PUBL, V44, P1159
+   Dalglish SL, 2015, HEALTH POLICY PLANN, V30, P12, DOI 10.1093/heapol/czv043
+   Eslami H, 2013, SCIENTOMETRICS, V97, P99, DOI 10.1007/s11192-013-1069-6
+   Fonseca BPF, 2017, SCI PUBL POLICY, V44, P37, DOI 10.1093/scipol/scw013
+   Fonseca BDFE, 2016, HEALTH RES POLICY SY, V14, DOI 10.1186/s12961-016-0104-5
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gonzalez-Alcaide G, 2013, REV SOC BRAS MED TRO, V46, P719, DOI 10.1590/0037-8682-0207-2013
+   Gonzalez-Alcaide G, 2012, REV INST MED TROP SP, V54, P219, DOI 10.1590/S0036-46652012000400007
+   Guimarães Reinaldo, 2004, Ciênc. saúde coletiva, V9, P375, DOI 10.1590/S1413-81232004000200014
+   Haythornthwaite C., 1996, LIB INFORM SCI RES, V18, P323, DOI DOI 10.1016/S0740-8188(96)90003-1
+   He J, 2009, TECHNOL FORECAST SOC, V76, P91, DOI 10.1016/j.techfore.2008.03.020
+   Horstick O, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003632
+   Horstick O, 2010, T ROY SOC TROP MED H, V104, P379, DOI 10.1016/j.trstmh.2009.07.027
+   Kshitij A, 2015, SCIENTOMETRICS, V102, P285, DOI 10.1007/s11192-014-1310-y
+   Lee DH, 2012, SCIENTOMETRICS, V91, P925, DOI 10.1007/s11192-011-0602-8
+   Leischow SJ, 2008, AM J PREV MED, V35, pS196, DOI 10.1016/j.amepre.2008.05.014
+   Morel CM, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000501
+   Morel CM, 2005, SCIENCE, V309, P401, DOI 10.1126/science.1115538
+   Phillips K, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002568
+   Protogerou A, 2010, SCI PUBL POLICY, V37, P283, DOI 10.3152/030234210X496637
+   Shiffman J, 2016, HEALTH POLICY PLANN, V31, P110, DOI 10.1093/heapol/czw012
+   The Royal Society, 2011, 0311 RS
+   Utzinger J, 2013, ACTA TROP, V128, P182, DOI 10.1016/j.actatropica.2013.08.011
+   Valente T. W., 2010, SOCIAL NETWORKS HLTH
+   Vanderelst D, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004266
+   Vasconcellos AG, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045569
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Yang CH, 2014, SCI PUBL POLICY, V41, P734, DOI 10.1093/scipol/scu007
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 14
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1478-4505
+J9 HEALTH RES POLICY SY
+JI Health Res. Policy Syst.
+PD NOV 8
+PY 2016
+VL 14
+AR 80
+DI 10.1186/s12961-016-0151-y
+PG 10
+WC Health Policy & Services
+SC Health Care Sciences & Services
+GA EB5QA
+UT WOS:000387434100001
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BDFE
+   Sampaio, RB
+   Fonseca, MVD
+   Zicker, F
+AF Fonseca e Fonseca, Bruna de Paula
+   Sampaio, Ricardo Barros
+   de Araujo Fonseca, Marcus Vinicius
+   Zicker, Fabio
+TI Co-authorship network analysis in health research: method and potential
+   use
+SO HEALTH RESEARCH POLICY AND SYSTEMS
+LA English
+DT Review
+ID SCIENTIFIC COLLABORATION; COAUTHORSHIP NETWORKS; INNOVATION NETWORKS;
+   NEGLECTED DISEASES; PUBLIC-HEALTH; SMALL WORLDS; CHIKUNGUNYA;
+   COMMUNITIES; MANAGEMENT; EVOLUTION
+AB Scientific collaboration networks are a hallmark of contemporary academic research. Researchers are no longer independent players, but members of teams that bring together complementary skills and multidisciplinary approaches around common goals. Social network analysis and co-authorship networks are increasingly used as powerful tools to assess collaboration trends and to identify leading scientists and organizations. The analysis reveals the social structure of the networks by identifying actors and their connections. This article reviews the method and potential applications of co-authorship network analysis in health. The basic steps for conducting co-authorship studies in health research are described and common network metrics are presented. The application of the method is exemplified by an overview of the global research network for Chikungunya virus vaccines.
+C1 [Fonseca e Fonseca, Bruna de Paula; de Araujo Fonseca, Marcus Vinicius] Fed Univ Rio de Janeiro UFRJ, Alberto Luiz Coimbra Inst Grad Studies & Res Engn, Ctr Technol, Ave Horacio Macedo 2030,Room G207, BR-21941914 Rio De Janeiro, Brazil.
+   [Fonseca e Fonseca, Bruna de Paula; Zicker, Fabio] Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Ave Brasil 4036,8th Floor,Room 814, BR-21040361 Rio De Janeiro, Brazil.
+   [Sampaio, Ricardo Barros] Oswaldo Cruz Fdn Fiocruz, Diretoria Reg Brasilia DIREB, Ave L3 Norte S-N,Campus Univ Darcy Ribeiro, BR-70910900 Brasilia, DF, Brazil.
+   [Sampaio, Ricardo Barros] Univ Brasilia, Campus Univ Darcy Ribeiro, BR-70910900 Brasilia, DF, Brazil.
+RP Fonseca, BDFE (corresponding author), Fed Univ Rio de Janeiro UFRJ, Alberto Luiz Coimbra Inst Grad Studies & Res Engn, Ctr Technol, Ave Horacio Macedo 2030,Room G207, BR-21941914 Rio De Janeiro, Brazil.; Fonseca, BDFE (corresponding author), Oswaldo Cruz Fdn Fiocruz, Ctr Technol Dev Hlth CDTS, Ave Brasil 4036,8th Floor,Room 814, BR-21040361 Rio De Janeiro, Brazil.
+EM brufonseca@gmail.com
+RI de Araujo Fonseca, Marcus Vinicius/AAF-5791-2019; Zicker,
+   Fabio/I-4138-2012; Zicker, Fabio/B-4209-2009
+OI de Araujo Fonseca, Marcus Vinicius/0000-0001-6177-1966; Fonseca, Bruna
+   de Paula/0000-0002-8795-2578; Zicker, Fabio/0000-0002-9751-7430
+CR Adams J, 2012, NATURE, V490, P335, DOI 10.1038/490335a
+   Agrawal A, 2006, J ECON GEOGR, V6, P571, DOI 10.1093/jeg/lbl016
+   Alcará Adriana Rosecler, 2006, Transinformação, V18, P143
+   Barbastefano Rafael Garcia, 2013, Perspect. ciênc. inf., V18, P78, DOI 10.1590/S1413-99362013000300006
+   Bastian M, 2009, P 3 INT AAAI C WEB S
+   Batagelj V, 1998, CONNECTIONS, V21, P47, DOI DOI 10.1017/CB09780511996368
+   Baum JAC, 2003, IND CORP CHANGE, V12, P697, DOI 10.1093/icc/12.4.697
+   Beaver DD, 2001, SCIENTOMETRICS, V52, P365, DOI 10.1023/A:1014254214337
+   Bender ME, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0004182
+   Borgatti S.P., 2002, UCINET WINDOWS SOFTW
+   Breschi S., 2005, ANN EC STAT, V79, P189, DOI DOI 10.2307/20777575
+   Dove A, 2015, NAT MED, V21, P1107, DOI 10.1038/nm1015-1107
+   Enserink M, 2007, SCIENCE, V318, P1860, DOI 10.1126/science.318.5858.1860
+   Eslami H, 2013, SCIENTOMETRICS, V97, P99, DOI 10.1007/s11192-013-1069-6
+   Fleming L, 2007, ORGAN SCI, V18, P938, DOI 10.1287/orsc.1070.0289
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GELIJNS AC, 1995, MED INN CR, V5, P3
+   Glanzel W, 2005, HDB QUANTITATIVE SCI, P257, DOI DOI 10.1007/1-4020-2755-9
+   Costa BMG, 2013, SCIENTOMETRICS, V95, P571, DOI 10.1007/s11192-012-0924-1
+   Gonzalez-Alcaide G, 2013, REV SOC BRAS MED TRO, V46, P719, DOI 10.1590/0037-8682-0207-2013
+   Haythornthwaite C., 1996, LIB INFORM SCI RES, V18, P323, DOI DOI 10.1016/S0740-8188(96)90003-1
+   He J, 2009, TECHNOL FORECAST SOC, V76, P91, DOI 10.1016/j.techfore.2008.03.020
+   Katz JS, 1997, RES POLICY, V26, P1, DOI 10.1016/S0048-7333(96)00917-1
+   Lander B, 2013, SCIENTOMETRICS, V94, P343, DOI 10.1007/s11192-012-0776-8
+   Laudel G, 2002, RES EVALUAT, V11, P3, DOI 10.3152/147154402781776961
+   Leischow SJ, 2008, AM J PREV MED, V35, pS196, DOI 10.1016/j.amepre.2008.05.014
+   Martins WD, 2012, REV SAUDE PUBL, V46, P51, DOI 10.1590/S0034-89102012005000057
+   McSweegan E, 2015, ANTIVIR RES, V120, P147, DOI 10.1016/j.antiviral.2015.06.003
+   Melese T, 2009, NAT MED, V15, P502, DOI 10.1038/nm0509-502
+   Melin G, 1996, SCIENTOMETRICS, V36, P363, DOI 10.1007/BF02129600
+   Morel CM, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000501
+   Morel CM, 2005, SCIENCE, V309, P401, DOI 10.1126/science.1115538
+   Naranjo-Estupinan NF, 2014, BIOMEDICA, V34, P300, DOI [10.7705/biomedica.v34i2.2127, 10.1590/S0120-41572014000200016]
+   National Institute of Allergy and Infectious Diseases, EM INF DIS PATH
+   Newman MEJ, 2012, NAT PHYS, V8, P25, DOI 10.1038/nphys2162
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Oon LLE, 2014, ANN ACAD MED SINGAP, V43, P325
+   Robinson-Garcia N, 2013, REV ESP DOC CIENT, V36, DOI 10.3989/redc.2013.4.1042
+   Rougeron V, 2015, J CLIN VIROL, V64, P144, DOI 10.1016/j.jcv.2014.08.032
+   Sonnenwald DH, 2007, ANNU REV INFORM SCI, V41, P643, DOI 10.1002/aris.2007.1440410121
+   The Royal Society, 2011, 0311 RS
+   Thiberville SD, 2013, ANTIVIR RES, V99, P345, DOI 10.1016/j.antiviral.2013.06.009
+   Utzinger J, 2013, ACTA TROP, V128, P182, DOI 10.1016/j.actatropica.2013.08.011
+   Valente T. W., 2010, SOCIAL NETWORKS HLTH
+   Vasconcellos AG, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045569
+   Wang DJ, 2012, SOC NETWORKS, V34, P396, DOI 10.1016/j.socnet.2012.01.003
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Weaver SC, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0002921
+   Yang CH, 2014, SCI PUBL POLICY, V41, P734, DOI 10.1093/scipol/scu007
+   Zhang CC, 2013, BMC MED INFORM DECIS, V13, DOI 10.1186/1472-6947-13-52
+NR 50
+TC 29
+Z9 29
+U1 0
+U2 38
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1478-4505
+J9 HEALTH RES POLICY SY
+JI Health Res. Policy Syst.
+PD APR 30
+PY 2016
+VL 14
+AR 34
+DI 10.1186/s12961-016-0104-5
+PG 10
+WC Health Policy & Services
+SC Health Care Sciences & Services
+GA DK8RA
+UT WOS:000375194800001
+PM 27138279
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Sampaio, RB
+   Sacerdote, HCD
+   Fonseca, BDF
+   Fernandes, JHC
+AF Sampaio, Ricardo Barros
+   de Souza Sacerdote, Helena Celia
+   Fonseca Fonseca, Bruna de Paula
+   Cabral Fernandes, Jorge Henrique
+TI Scientific collaboration in co-authorship research: a method based on
+   network analysis
+SO PERSPECTIVAS EM CIENCIA DA INFORMACAO
+LA Portuguese
+DT Article
+DE Co-authorship; Scientific collaboration; Network analysis
+ID PATTERNS
+AB This work presents a method to the study of scientific communication derived from network analysis methods. It has been analyzed the professional relationships of scientific collaboration between authors that use co-authoship, a new sub-area in scientific communication that has gained space in information science. In co-authorship, any two authors are defined as having a relationship if they have collaborated in the production of an article or scientific publication. This paper investigates whether this association allows the comprehension of the problems of scientific collaboration, for example, if knowledge is concentrated in a few countries or individuals, and how these individuals relate to each other. The methodology is based on the exploratory model proposed by Nooy, Mrvar e Batagelj (2011). From the point of view of bibliometrics, scientific collaborations were analyzed in the Web of Science database. The results obtained showed that the field of co-authorship spans several countries and different areas of interest. It is observed that the association of bibliometric methods and network analysis contributes to a better interpretation of the results, mainly through the visual inspection that network analysis methods are able to provide.
+C1 [Sampaio, Ricardo Barros] Fundacao Oswaldo Cruz DIREB, Joao Pessoa, PB, Brazil.
+   [de Souza Sacerdote, Helena Celia] Univ Brasilia, Fac Ciencia Informacao, BR-70910900 Brasilia, DF, Brazil.
+   [Fonseca Fonseca, Bruna de Paula] Fundacao Oswaldo Cruz CDTS, Rio De Janeiro, Brazil.
+   [Cabral Fernandes, Jorge Henrique] Univ Brasilia, Fac Ciencia Informacao, Programa Posgrad, Grp Pesquisa Inteligencia Cooperat Redes Sociais, BR-70910900 Brasilia, DF, Brazil.
+RP Sampaio, RB (corresponding author), Fundacao Oswaldo Cruz DIREB, Joao Pessoa, PB, Brazil.
+OI Fonseca, Bruna de Paula/0000-0002-8795-2578
+CR BARABASI A. L., 2012, GRAPH THEORY
+   Barabasi AL, 2004, NAT REV GENET, V5, P101, DOI 10.1038/nrg1272
+   Barabasi AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   De Nooy W, 2011, EXPLORATORY SOCIAL N
+   Glanzel W, 2002, LIBR TRENDS, V50, P461
+   GLANZEL W., 2003, NORD J PSYCHIAT, V57, P393
+   Goh KI, 2007, P NATL ACAD SCI USA, V104, P8685, DOI 10.1073/pnas.0701361104
+   Goyal S, 2006, J POLIT ECON, V114, P403, DOI 10.1086/500990
+   Katz JS, 1997, RES POLICY, V26, P1, DOI 10.1016/S0048-7333(96)00917-1
+   Laudel G, 2002, RES EVALUAT, V11, P3, DOI 10.3152/147154402781776961
+   Melin G, 1996, SCIENTOMETRICS, V36, P363, DOI 10.1007/BF02129600
+   Nagpaul PS, 2002, SCIENTOMETRICS, V54, P213, DOI 10.1023/A:1016036711279
+   National Research Council Committee on Network Science for Future Army Applications, 2005, NETWORK SCI
+   Newman MEJ, 2004, PHYS REV E, V69, DOI [10.1103/PhysRevE.69.066133, 10.1103/PhysRevE.69.026113]
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Sonnenwald DH, 2007, ANNU REV INFORM SCI, V41, P643, DOI 10.1002/aris.2007.1440410121
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 20
+TC 3
+Z9 4
+U1 0
+U2 24
+PU UNIV FEDERAL MINAS GERAIS, ESCOLA BIBLIOTECONOMIA
+PI BELO HORIZONTE
+PA CENTRO, CAIXA POSTAL 1606, BELO HORIZONTE, MG 30161-970, BRAZIL
+SN 1413-9936
+EI 1981-5344
+J9 PERSPECT CIENC INF
+JI Pespect. Cienc. Inf.
+PD OCT-DEC
+PY 2015
+VL 20
+IS 4
+BP 79
+EP 92
+DI 10.1590/1981-5344/2447
+PG 14
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA DM7BQ
+UT WOS:000376508300006
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Barboza, BA
+   Fonseca, BPF
+   Viola, JPB
+AF Barboza, Bianca A.
+   Fonseca, Bruna P. F.
+   Viola, Joao P. B.
+TI NFAT1 transcription factor in dendritic cells is required to modulate T
+   helper cell differentiation
+SO IMMUNOBIOLOGY
+LA English
+DT Article
+DE Cytokines; Dendritic cells; Lymphocyte differentiation; NFAT; Th1/Th2
+   cells
+ID IFN-GAMMA PRODUCTION; IMMUNE-RESPONSES; NUCLEAR FACTOR; ACTIVATION;
+   INTERLEUKIN-12; PROMOTER; TH1; STIMULATION; EXPRESSION; INDUCTION
+AB The NFAT family of transcription factors plays a central role in the regulation of cytokine gene expression during the immune response. NFAT functions have been extensively explored in lymphocyte activation and differentiation, but the involvement of NFAT proteins in dendritic cells (DCs) is still not well known. Here, we investigated the role of the NFAT1 transcription factor in murine DCs. Initially, we demonstrated by western blot that the NFAT1 protein is present in splenic DCs and is rapidly activated upon calcium influx. We then used NFAT1-deficient mice (NFAT1-/-) to investigate whether NFAT1 influences the ability of DCs to induce Th differentiation. Our data demonstrated that NFAT1-/- DCs showed an increased capacity to differentiate CD4 T cells to the Th1 phenotype. CD4 cells that were primed in vitro with NFAT1-/- DCs had increased IFN-gamma production. The same results were observed when the CD4 cells were primed in vivo through the sensitization of NFAT1-/- mice with ovalbumin. Furthermore, our results demonstrated that the cytokine IL-12 is one of the factors involved in this process because its production is increased in NFAT1-/- mice, and neutralizing anti-IL-12 antibodies almost completely eliminated the IFN-gamma, production. These results demonstrated that the NFAT1 transcription factor regulates specific functions in DCs that are involved in CD4 differentiation, suggesting that the inhibition of NFAT1 in DCs may be used as a therapy to modulate specific immune responses. (C) 2014 Elsevier GmbH. All rights reserved.
+C1 [Barboza, Bianca A.; Fonseca, Bruna P. F.; Viola, Joao P. B.] Brazilian Natl Canc Inst INCA, Program Cellular Biol, Rio De Janeiro, Brazil.
+RP Viola, JPB (corresponding author), Brazilian Natl Canc Inst INCA, Program Cellular Biol, Rua Andre Cavalcanti,37, Rio De Janeiro, Brazil.
+EM jpviola@inca.gov.br
+RI Viola, Joao/AAP-4125-2020
+OI Viola, Joao/0000-0002-0698-3146; Fonseca, Bruna de
+   Paula/0000-0002-8795-2578
+FU Conselho Nacional de Desenvolvimento Cientifico e TecnologicoNational
+   Council for Scientific and Technological Development (CNPq)
+   [478780/2010-9, 307296/2011-3]; Fundacao de Amparo a Pesquisa do Estado
+   do Rio de JaneiroCarlos Chagas Filho Foundation for Research Support of
+   the State of Rio de Janeiro (FAPERJ) [102.357/2009]; Instituto Nacional
+   de Ciencia e Tecnologia em Cancer [573806/2008-0, 170.026/2008];
+   Brazilian Ministry of Health
+FX We thank Dr. Marcelo T. Bozza and Dr. Patricia S. Araujo-Souza for
+   critical reading of this manuscript. We are especially grateful to Dr.
+   A. Rao for kindly providing the NFAT reagents and NFAT1-/- mice. We also
+   thank Margot C. Canis and Natalia M. Lanzarini for technical assistance
+   on DC purification and immunofluorescence analysis, respectively. This
+   work was supported by grants to J.P.B.V. from Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (478780/2010-9 and
+   307296/2011-3), Fundacao de Amparo a Pesquisa do Estado do Rio de
+   Janeiro (102.357/2009) and Instituto Nacional de Ciencia e Tecnologia em
+   Cancer (573806/2008-0 and 170.026/2008). B.A.B. and B.P.F.F. were
+   supported by a Brazilian Ministry of Health fellowship.
+CR Bagley KC, 2004, CLIN DIAGN LAB IMMUN, V11, P77, DOI 10.1128/CDLI.11.1.77-82.2004
+   Banchereau J, 1998, NATURE, V392, P245, DOI 10.1038/32588
+   Constant SL, 1997, ANNU REV IMMUNOL, V15, P297, DOI 10.1146/annurev.immunol.15.1.297
+   Czerniecki BJ, 1997, J IMMUNOL, V159, P3823
+   Geijtenbeek TBH, 2009, NAT REV IMMUNOL, V9, P465, DOI 10.1038/nri2569
+   Goodridge HS, 2007, J IMMUNOL, V178, P3107, DOI 10.4049/jimmunol.178.5.3107
+   Hackstein H, 2004, NAT REV IMMUNOL, V4, P24, DOI 10.1038/nri1256
+   Itano AA, 2003, NAT IMMUNOL, V4, P733, DOI 10.1038/ni957
+   Kapsenberg ML, 2003, NAT REV IMMUNOL, V3, P984, DOI 10.1038/nri1246
+   Kayama H, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000514
+   Kiani A, 1997, IMMUNITY, V7, P849, DOI 10.1016/S1074-7613(00)80403-3
+   Kiani A, 2001, BLOOD, V98, P1480, DOI 10.1182/blood.V98.5.1480
+   Loh C, 1996, MOL CELL BIOL, V16, P3945
+   MACATONIA SE, 1995, J IMMUNOL, V154, P5071
+   Macian F, 2005, NAT REV IMMUNOL, V5, P472, DOI 10.1038/nri1632
+   Moser M, 2000, NAT IMMUNOL, V1, P199, DOI 10.1038/79734
+   Mourao-Sa D, 2011, EUR J IMMUNOL, V41, P3040, DOI 10.1002/eji.201141641
+   Rafiq K, 1998, EUR J IMMUNOL, V28, P1481, DOI 10.1002/(SICI)1521-4141(199805)28:05<1481::AID-IMMU1481>3.0.CO;2-4
+   RUFF VA, 1995, J BIOL CHEM, V270, P22602, DOI 10.1074/jbc.270.38.22602
+   Steinman RM, 1997, IMMUNOL REV, V156, P25, DOI 10.1111/j.1600-065X.1997.tb00956.x
+   Sweetser MT, 1998, J BIOL CHEM, V273, P34775, DOI 10.1074/jbc.273.52.34775
+   Szabo SJ, 2003, ANNU REV IMMUNOL, V21, P713, DOI 10.1146/annurev.immunol.21.120601.140942
+   Teixeira LK, 2005, J IMMUNOL, V175, P5931, DOI 10.4049/jimmunol.175.9.5931
+   Trinchieri G, 2003, NAT REV IMMUNOL, V3, P133, DOI 10.1038/nri1001
+   van Rietschoten JGI, 2001, J BIOL CHEM, V276, P34509, DOI 10.1074/jbc.M102536200
+   Vukcevic M, 2010, J BIOL CHEM, V285, P16003, DOI 10.1074/jbc.M109.066704
+   Wang DZ, 1995, ANN NY ACAD SCI, V766, P182, DOI 10.1111/j.1749-6632.1995.tb26661.x
+   Wittmann M, 2006, J LEUKOCYTE BIOL, V80, P75, DOI 10.1189/jlb.0605328
+   Xanthoudakis S, 1996, SCIENCE, V272, P892, DOI 10.1126/science.272.5263.892
+   Xu S, 2009, J BIOL CHEM, V284, P7038, DOI 10.1074/jbc.M806650200
+   Yadav M, 2006, BLOOD, V108, P3168, DOI 10.1182/blood-2006-05-024406
+   Yoshida H, 1998, IMMUNITY, V8, P115, DOI 10.1016/S1074-7613(00)80464-1
+   Zanoni I, 2009, NATURE, V460, P264, DOI 10.1038/nature08118
+   Zhu C, 2003, J BIOL CHEM, V278, P39372, DOI 10.1074/jbc.M306441200
+   Zhu JF, 2008, BLOOD, V112, P1557, DOI 10.1182/blood-2008-05-078154
+NR 35
+TC 2
+Z9 2
+U1 0
+U2 4
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 0171-2985
+J9 IMMUNOBIOLOGY
+JI Immunobiology
+PD SEP
+PY 2014
+VL 219
+IS 9
+BP 704
+EP 712
+DI 10.1016/j.imbio.2014.05.001
+PG 9
+WC Immunology
+SC Immunology
+GA AL9PC
+UT WOS:000339472200007
+PM 24894426
+DA 2020-11-10
+ER
+
+PT J
+AU Rodrigues-da-Silva, RN
+   Lima, JD
+   Fonseca, BDFE
+   Antas, PRZ
+   Baldez, A
+   Storer, FL
+   Santos, F
+   Banic, DM
+   de Oliveira-Ferreira, J
+AF Rodrigues-da-Silva, Rodrigo Nunes
+   Lima-Junior, Josue da Costa
+   Fonseca e Fonseca, Bruna de Paula
+   Zuquim Antas, Paulo Renato
+   Baldez, Arlete
+   Storer, Fabio Luiz
+   Santos, Fatima
+   Banic, Dalma Maria
+   de Oliveira-Ferreira, Joseli
+TI Alterations in cytokines and haematological parameters during the acute
+   and convalescent phases of Plasmodium falciparum and Plasmodium vivax
+   infections
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article
+DE cytokines; chemokines; platelets; P. falciparum; P. vivax
+ID NECROSIS-FACTOR-ALPHA; IN-VITRO; CLINICAL IMMUNITY; T-CELLS; MALARIA;
+   ANEMIA; THROMBOCYTOPENIA; PLATELET; CHILDREN; BLOOD
+AB Haematological and cytokine alterations in malaria are a broad and controversial subject in the literature. However, few studies have simultaneously evaluated various cytokines in a single patient group during the acute and convalescent phases of infection. The aim of this study was to sequentially characterise alterations in haematological patters and circulating plasma cytokine and chemokine levels in patients infected with Plasmodium vivax or Plasmodium falciparum from a Brazilian endemic area during the acute and convalescent phases of infection. During the acute phase, thrombocytopaenia, eosinopaenia, lymphopaenia and an increased number of band cells were observed in the majority of the patients. During the convalescent phase, the haematologic parameters returned to normal. During the acute phase, P. vivax and P. falciparum patients had significantly higher interleukin (IL)-6, IL-8, IL-17, interferon-gamma, tumour necrosis factor (TNF)-alpha, macrophage inflammatory protein-1 beta and granulocyte-colony stimulating factor levels than controls and maintained high levels during the convalescent phase. IL-10 was detected at high concentrations during the acute phase, but returned to normal levels during the convalescent phase. Plasma IL-10 concentration was positively correlated with parasitaemia in P. vivax and P. falciparum-infected patients. The same was true for the TNF-alpha concentration in P. falciparum-infected patients. Finally, the haematological and cytokine profiles were similar between uncomplicated P. falciparum and P. vivax infections.
+C1 [Rodrigues-da-Silva, Rodrigo Nunes; Lima-Junior, Josue da Costa; de Oliveira-Ferreira, Joseli] Inst Oswaldo Cruz, Lab Imunoparasitol, Rio De Janeiro, RJ, Brazil.
+   [Zuquim Antas, Paulo Renato] Inst Oswaldo Cruz, Lab Imunol Clin, Rio De Janeiro, RJ, Brazil.
+   [Banic, Dalma Maria] Inst Oswaldo Cruz, Lab Simulideos & Oncocercose, Rio De Janeiro, RJ, Brazil.
+   [Fonseca e Fonseca, Bruna de Paula] Biomanguinhos Fiocruz, Lab Tecnol Diagnost, Rio De Janeiro, RJ, Brazil.
+   [Baldez, Arlete] Secretaria Estado Saude Sao Paulo, Agencia Vigilancia Saude, Porto Velho, RO, Brazil.
+   [Storer, Fabio Luiz] Fac Sao Lucas, Porto Velho, RO, Brazil.
+   [Santos, Fatima] Odebrecht Energia Usina Hidreletr Santo Antonio, Porto Velho, RO, Brazil.
+RP de Oliveira-Ferreira, J (corresponding author), Inst Oswaldo Cruz, Lab Imunoparasitol, Rio De Janeiro, RJ, Brazil.
+EM lila@ioc.fiocruz.br
+RI Lima-Junior, Josue/B-1361-2014; ANTAS, PRZ/AAF-6021-2019;
+   Oliveira-Ferreira, Joseli/E-7942-2014
+OI Lima-Junior, Josue/0000-0002-5848-404X; Oliveira-Ferreira,
+   Joseli/0000-0002-6063-465X; Rodrigues-da-Silva, Rodrigo
+   Nunes/0000-0002-9772-849X; Fonseca, Bruna de Paula/0000-0002-8795-2578
+FU DECIT; CNPqNational Council for Scientific and Technological Development
+   (CNPq)
+FX DECIT, CNPq
+CR AGARWAL SS, 1983, INDIAN J MED RES, V77, P616
+   Akanmori BD, 2000, EUR CYTOKINE NETW, V11, P113
+   Andrade BB, 2010, MALARIA J, V9, DOI 10.1186/1475-2875-9-13
+   Araujo CF, 2008, MEM I OSWALDO CRUZ, V103, P517, DOI 10.1590/S0074-02762008000600001
+   Armah Henry, 2005, Int J Environ Res Public Health, V2, P123, DOI 10.3390/ijerph2005010123
+   Aubouy A, 2002, ACTA TROP, V83, P195, DOI 10.1016/S0001-706X(02)00094-3
+   Balde AT, 2000, PARASITE IMMUNOL, V22, P307, DOI 10.1046/j.1365-3024.2000.00307.x
+   Baptista JL, 1997, TROP MED INT HEALTH, V2, P673, DOI 10.1046/j.1365-3156.1997.d01-355.x
+   Brown H, 1999, J INFECT DIS, V180, P1742, DOI 10.1086/315078
+   Bueno LL, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021289
+   Casals-Pascual C, 2006, AM J TROP MED HYG, V75, P434, DOI 10.4269/ajtmh.2006.75.434
+   Coban C, 2005, J EXP MED, V201, P19, DOI 10.1084/jem.20041836
+   Collins WE, 2003, AM J TROP MED HYG, V68, P410, DOI 10.4269/ajtmh.2003.68.410
+   Corrigan RA, 2010, PARASITE IMMUNOL, V32, P512, DOI 10.1111/j.1365-3024.2010.01225.x
+   Couper KN, 2008, J IMMUNOL, V180, P5771, DOI 10.4049/jimmunol.180.9.5771
+   Cox-Singh J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020541
+   DAVIS TME, 1991, ACTA TROP, V48, P243, DOI 10.1016/0001-706X(91)90052-L
+   Day NPJ, 1999, J INFECT DIS, V180, P1288, DOI 10.1086/315016
+   Dodoo D, 2002, J INFECT DIS, V185, P971, DOI 10.1086/339408
+   Eisenhut M, 2010, PARASITE IMMUNOL, V32, P470, DOI 10.1111/j.1365-3024.2010.01214.x
+   El-Nashar Thanaa M., 2002, Journal of the Egyptian Society of Parasitology, V32, P525
+   Ghosh K, 2007, PARASITOL RES, V101, P1463, DOI 10.1007/s00436-007-0742-1
+   Gonzalez B, 2009, INVEST CLIN, V50, P187
+   Lacerda MVG, 2011, MEM I OSWALDO CRUZ, V106, P52, DOI 10.1590/S0074-02762011000900007
+   Hanscheid T, 2008, MALARIA J, V7, DOI 10.1186/1475-2875-7-109
+   Hansen DS, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1000771
+   Hartgers FC, 2006, PARASITE IMMUNOL, V28, P497, DOI 10.1111/j.1365-3024.2006.00901.x
+   Hviid L, 1997, INFECT IMMUN, V65, P4090, DOI 10.1128/IAI.65.10.4090-4093.1997
+   Karunaweera ND, 2003, TRENDS PARASITOL, V19, P188, DOI 10.1016/S1471-4922(03)00036-9
+   KERN P, 1989, AM J MED, V87, P139, DOI 10.1016/S0002-9343(89)80688-6
+   KUMARATILAKE LM, 1992, J IMMUNOL, V149, P194
+   Kurtzhals JAL, 1998, CLIN EXP IMMUNOL, V112, P303
+   KWIATKOWSKI D, 1990, LANCET, V336, P1201, DOI 10.1016/0140-6736(90)92827-5
+   Langhorne J, 2008, NAT IMMUNOL, V9, P725, DOI 10.1038/ni.f.205
+   Lathia T B, 2004, Indian J Med Sci, V58, P239
+   Leowattana W, 2010, SE ASIAN J TROP MED, V41, P1035
+   Lima JD, 2012, MEM I OSWALDO CRUZ, V107, P1035, DOI 10.1590/S0074-02762012000800012
+   Medina TS, 2011, MALARIA J, V10, DOI 10.1186/1475-2875-10-264
+   Mendis K, 2001, AM J TROP MED HYG, V64, P97, DOI 10.4269/ajtmh.2001.64.97
+   Mendonca VRR, 2013, MALARIA J, V12, DOI 10.1186/1475-2875-12-69
+   Miller LH, 2002, NATURE, V415, P673, DOI 10.1038/415673a
+   Fernandes AAM, 2008, CLIN VACCINE IMMUNOL, V15, P650, DOI 10.1128/CVI.00475-07
+   MS - Ministerio da Saude Brasil, 2010, GUIA PRAT TRAT MAL B
+   Murray CJL, 2012, LANCET, V379, P413, DOI 10.1016/S0140-6736(12)60034-8
+   Ochiel DO, 2005, INFECT IMMUN, V73, P4190, DOI 10.1128/IAI.73.7.4190-4197.2005
+   Oliveira-Ferreira J, 2010, MALARIA J, V9, DOI 10.1186/1475-2875-9-115
+   Othoro C, 1999, J INFECT DIS, V179, P279, DOI 10.1086/314548
+   Patel U, 2004, J NATL MED ASSOC, V96, P1212
+   PEYRON F, 1994, CLIN EXP IMMUNOL, V95, P300, DOI 10.1111/j.1365-2249.1994.tb06527.x
+   Price RN, 2001, AM J TROP MED HYG, V65, P614, DOI 10.4269/ajtmh.2001.65.614
+   Ramharter M, 2003, PARASITE IMMUNOL, V25, P211, DOI 10.1046/j.1365-3024.2003.00628.x
+   Schofield L, 2006, CURR MOL MED, V6, P205, DOI 10.2174/156652406776055221
+   Sina Barbara, 2002, Trends in Parasitology, V18, P287, DOI 10.1016/S1471-4922(02)02329-2
+   Tangpukdee N, 2008, PARASITOL INT, V57, P490, DOI 10.1016/j.parint.2008.06.005
+   Taylor WRJ, 2008, MALARIA J, V7, DOI 10.1186/1475-2875-7-259
+   Ventura A M, 1999, J Pediatr (Rio J), V75, P187
+   Wassmer SC, 2008, J INFECT DIS, V197, P72, DOI 10.1086/523761
+   Weatherall David J, 2002, Hematology Am Soc Hematol Educ Program, P35
+   Wickramasinghe SN, 2000, BEST PRACT RES CL HA, V13, P277, DOI 10.1053/beha.1999.0072
+   Wilson NO, 2010, INFECT DIS OBSTET GY, V2010
+NR 60
+TC 27
+Z9 27
+U1 0
+U2 8
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD APR
+PY 2014
+VL 109
+IS 2
+BP 154
+EP 162
+DI 10.1590/0074-0276140275
+PG 9
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AJ7VQ
+UT WOS:000337908500004
+PM 24676654
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Sanchez-Arcila, JC
+   Perce-da-Silva, DD
+   Vasconcelos, MPA
+   Rodrigues-da-Silva, RN
+   Pereira, VA
+   Aprigio, CL
+   Lima, CAM
+   Fonseca, BDFE
+   Banic, DM
+   Lima, JD
+   Oliveira-Ferreira, J
+AF Sanchez-Arcila, Juan Camilo
+   Perce-da-Silva, Daiana de Souza
+   Alves Vasconcelos, Mariana Pinheiro
+   Rodrigues-da-Silva, Rodrigo Nunes
+   Pereira, Virginia Araujo
+   Lima Aprigio, Cesarino Junior
+   Mendes Lima, Cleoni Alves
+   Fonseca e Fonseca, Bruna de Paula
+   Banic, Dalma Maria
+   Lima-Junior, Josue da Costa
+   Oliveira-Ferreira, Joseli
+TI Intestinal Parasites Coinfection Does Not Alter Plasma Cytokines Profile
+   Elicited in Acute Malaria in Subjects from Endemic Area of Brazil
+SO MEDIATORS OF INFLAMMATION
+LA English
+DT Article
+ID PLASMODIUM-FALCIPARUM MALARIA; SCHISTOSOMA-HAEMATOBIUM INFECTION;
+   HELMINTH INFECTIONS; IMMUNE-RESPONSES; NITRIC-OXIDE;
+   ASCARIS-LUMBRICOIDES; INFLAMMATORY MARKERS; CONVALESCENT PHASES;
+   RURAL-COMMUNITY; RONDONIA-STATE
+AB In Brazil, malaria is prevalent in the Amazon region and these regions coincide with high prevalence of intestinal parasites but few studies explore the interaction between malaria and other parasites. Therefore, the present study evaluates changes in cytokine, chemokine, C-reactive protein, and nitric oxide (NO) concentrations in 264 individuals, comparing plasma from infected individuals with concurrent malaria and intestinal parasites to individuals with either malaria infection alone and uninfected. In the studied population 24% of the individuals were infected with Plasmodium and 18% coinfected with intestinal parasites. Protozoan parasites comprised the bulk of the intestinal parasites infections and subjects infected with intestinal parasites were more likely to have malaria. The use of principal component analysis and cluster analysis associated increased levels of IL-6, TNF-alpha, IL-10, and CRP and lowlevels of IL-17A predominantly with individuals with malaria alone and coinfected individuals. In contrast, lowlevels of almost all inflammatory mediators were associated predominantly with individuals uninfected while increased levels of IL-17A were associated predominantly with individuals with intestinal parasites only. In conclusion, our data suggest that, in our population, the infection with intestinal parasites (mainly protozoan) does not modify the pattern of cytokine production in individuals infected with P. falciparum and P. vivax.
+C1 [Sanchez-Arcila, Juan Camilo; Rodrigues-da-Silva, Rodrigo Nunes; Pereira, Virginia Araujo; Lima-Junior, Josue da Costa; Oliveira-Ferreira, Joseli] Inst Oswaldo Cruz, Fundacao Oswaldo Cruz, Lab Imunoparasitol, BR-21040900 Rio De Janeiro, Brazil.
+   [Perce-da-Silva, Daiana de Souza; Banic, Dalma Maria] Inst Oswaldo Cruz, Fundacao Oswaldo Cruz, Lab Simulideos & Oncocercose, BR-21040900 Rio De Janeiro, Brazil.
+   [Alves Vasconcelos, Mariana Pinheiro] Inst Infectol Emilio Ribas, BR-01246900 Sao Paulo, Brazil.
+   [Lima Aprigio, Cesarino Junior] Agencia Vigilancia Saude Secretaria Estado Saude, BR-78900000 Porto Velho, RO, Brazil.
+   [Mendes Lima, Cleoni Alves] Univ Fed Rondonia, Ctr Interdepartamental Biol Expt & Biotecnol, BR-78900000 Porto Velho, RO, Brazil.
+   [Fonseca e Fonseca, Bruna de Paula] Fundacao Oswaldo Cruz, Lab Tecnol Diagnost, BR-21040900 Rio De Janeiro, RJ, Brazil.
+RP Oliveira-Ferreira, J (corresponding author), Inst Oswaldo Cruz, Fundacao Oswaldo Cruz, Lab Imunoparasitol, BR-21040900 Rio De Janeiro, Brazil.
+EM lila@ioc.fiocruz.br
+RI Vasconcelos, Mariana Pinheiro Alves/M-8832-2019; Lima-Junior,
+   Josue/B-1361-2014; Oliveira-Ferreira, Joseli/E-7942-2014
+OI Vasconcelos, Mariana Pinheiro Alves/0000-0001-7211-6887; Lima-Junior,
+   Josue/0000-0002-5848-404X; Fonseca, Bruna de Paula/0000-0002-8795-2578;
+   Rodrigues-da-Silva, Rodrigo Nunes/0000-0002-9772-849X;
+   Oliveira-Ferreira, Joseli/0000-0002-6063-465X
+FU Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ,
+   Brazil)Carlos Chagas Filho Foundation for Research Support of the State
+   of Rio de Janeiro (FAPERJ); Pronex Malaria; Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq, Brazil)National Council
+   for Scientific and Technological Development (CNPq); Instituto Oswaldo
+   Cruz (FIOCRUZ, Brazil); Pronex Malaria/CNPq/DECIT/MS; CNPqNational
+   Council for Scientific and Technological Development (CNPq); Instituto
+   Oswaldo Cruz
+FX The authors are in debt to the individuals who participated in this
+   study and Andrea Sanchez Tapia for revising the paper. This work was
+   supported by Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro
+   (FAPERJ, Brazil), Pronex Malaria, Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq, Brazil), Instituto Oswaldo Cruz
+   (FIOCRUZ, Brazil), Pronex Malaria/CNPq/DECIT/MS. JOF is recipient of a
+   Research Productivity Fellowship from CNPq, and JCSA is recipient of a
+   fellowship from Instituto Oswaldo Cruz and VAR from CNPq.
+CR [Anonymous], 2010, WHEELER B LMPERM PER
+   Anstey NM, 1996, J EXP MED, V184, P557, DOI 10.1084/jem.184.2.557
+   Araujo CF, 2005, REV SOC BRAS MED TRO, V38, P69, DOI 10.1590/S0037-86822005000100016
+   Artavanis-Tsakonas K, 2003, CLIN EXP IMMUNOL, V133, P145, DOI 10.1046/j.1365-2249.2003.02174.x
+   Bejon P, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000164
+   Briand V, 2005, AM J TROP MED HYG, V72, P702, DOI 10.4269/ajtmh.2005.72.702
+   Cabantous S, 2009, J INFECT DIS, V200, P1530, DOI 10.1086/644600
+   CARDOSO MA, 1992, REV SAUDE PUBL, V26, P161, DOI 10.1590/S0034-89101992000300006
+   CARDOSO MA, 1994, EUR J CLIN NUTR, V48, P326
+   Cua DJ, 2010, NAT REV IMMUNOL, V10, P479, DOI 10.1038/nri2800
+   Day NPJ, 1999, J INFECT DIS, V180, P1288, DOI 10.1086/315016
+   de Souza EA, 2007, CAD SAUDE PUBLICA, V23, P427, DOI 10.1590/S0102-311X2007000200019
+   Diallo TO, 2004, PARASITE IMMUNOL, V26, P365, DOI 10.1111/j.0141-9838.2004.00719.x
+   Dodoo D, 2002, J INFECT DIS, V185, P971, DOI 10.1086/339408
+   Doolan DL, 2009, CLIN MICROBIOL REV, V22, P13, DOI 10.1128/CMR.00025-08
+   Eve E, 1998, ANN TROP MED PARASIT, V92, P79, DOI 10.1080/00034989860201
+   FERRARI JO, 1992, REV I MED TROP, V34, P223, DOI 10.1590/S0036-46651992000300007
+   Figueiredo CA, 2010, INFECT IMMUN, V78, P3160, DOI 10.1128/IAI.01228-09
+   Fleming FM, 2006, TROP MED INT HEALTH, V11, P56, DOI 10.1111/j.1365-3156.2005.01541.x
+   Geiger SM, 2002, PARASITE IMMUNOL, V24, P499, DOI 10.1046/j.1365-3024.2002.00600.x
+   Goncalves RM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044394
+   Goncalves RM, 2010, INFECT IMMUN, V78, P4763, DOI 10.1128/IAI.00578-10
+   Helmby H, 1998, INFECT IMMUN, V66, P5167, DOI 10.1128/IAI.66.11.5167-5174.1998
+   Imai N, 2011, PARASITOLOGY, V138, P1519, DOI 10.1017/S0031182011001181
+   KERN P, 1989, AM J MED, V87, P139, DOI 10.1016/S0002-9343(89)80688-6
+   Klion AD, 2004, J ALLERGY CLIN IMMUN, V113, P30, DOI 10.1016/j.jaci.2003.10.050
+   Lima JD, 2012, MEM I OSWALDO CRUZ, V107, P1035, DOI 10.1590/S0074-02762012000800012
+   Ludbrook J, 1998, AM STAT, V52, P127, DOI 10.2307/2685470
+   Lyke KE, 2005, AM J TROP MED HYG, V73, P1124, DOI 10.4269/ajtmh.2005.73.1124
+   Lyke KE, 2006, INFECT IMMUN, V74, P5718, DOI 10.1128/IAI.01822-05
+   Maizels RM, 2004, IMMUNOL REV, V201, P89, DOI 10.1111/j.0105-2896.2004.00191.x
+   Meeusen ENT, 2000, PARASITOL TODAY, V16, P95, DOI 10.1016/S0169-4758(99)01607-5
+   Melo GC, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011206
+   MURRAY MJ, 1977, AM J CLIN NUTR, V30, P2117
+   Nacher M, 2000, PARASITE IMMUNOL, V22, P107, DOI 10.1046/j.1365-3024.2000.00284.x
+   Nacher M, 2001, AM J TROP MED HYG, V65, P834, DOI 10.4269/ajtmh.2001.65.834
+   Nacher M, 2002, J PARASITOL, V88, P55, DOI 10.1645/0022-3395(2002)088[0055:IHIAAW]2.0.CO;2
+   Nahrevanian H, 2001, PARASITE IMMUNOL, V23, P491, DOI 10.1046/j.1365-3024.2001.00406.x
+   Noone C, 2013, MALARIA J, V12, DOI 10.1186/1475-2875-12-5
+   Oksanen J., 2010, VEGAN COMMUNITY ECOL
+   Prakash D, 2006, J INFECT DIS, V194, P198, DOI 10.1086/504720
+   Pullan R, 2008, PARASITOLOGY, V135, P783, DOI 10.1017/S0031182008000346
+   R Core Team, 2013, LANG ENV STAT COMP
+   Remoue F, 2003, T ROY SOC TROP MED H, V97, P361, DOI 10.1016/S0035-9203(03)90170-2
+   Riley EM, 2006, PARASITE IMMUNOL, V28, P35, DOI 10.1111/j.1365-3024.2006.00775.x
+   Rockett K. A., 1994, AM J TROP MED HYG, V50, P112
+   Rodrigues-da-Silva RN, 2014, MEM I OSWALDO CRUZ, V109, P154, DOI 10.1590/0074-0276140275
+   Roy S, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0007359
+   Rubino SJ, 2012, TRENDS IMMUNOL, V33, P112, DOI 10.1016/j.it.2012.01.003
+   Shapiro AE, 2005, T ROY SOC TROP MED H, V99, P18, DOI 10.1016/j.trstmh.2004.02.006
+   SNOUNOU G, 1993, MOL BIOCHEM PARASIT, V61, P315, DOI 10.1016/0166-6851(93)90077-B
+   Sokhna C, 2004, MALARIA J, V3, DOI 10.1186/1475-2875-3-43
+   Spiegel A, 2003, T ROY SOC TROP MED H, V97, P198, DOI 10.1016/S0035-9203(03)90117-9
+   Su Z, 2005, INFECT IMMUN, V73, P3531, DOI 10.1128/IAI.73.6.3531-3539.2005
+   Supali T, 2010, INT J PARASITOL, V40, P1171, DOI 10.1016/j.ijpara.2010.05.003
+   Tangpukdee N, 2008, PARASITOL INT, V57, P490, DOI 10.1016/j.parint.2008.06.005
+   Taylor WRJ, 2008, MALARIA J, V7, DOI 10.1186/1475-2875-7-259
+   Tshikuka JG, 1996, ANN TROP MED PARASIT, V90, P277, DOI 10.1080/00034983.1996.11813053
+   Turner JD, 2003, J INFECT DIS, V188, P1768, DOI 10.1086/379370
+   Turner JD, 2008, J INFECT DIS, V197, P1204, DOI 10.1086/586717
+   Valverde JG, 2011, ANN TROP MED PARASIT, V105, P413, DOI 10.1179/1364859411Y.0000000034
+   Warnes G. R., 2014, VARIOUS R PROGRAMMIN
+NR 62
+TC 6
+Z9 6
+U1 0
+U2 8
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 0962-9351
+EI 1466-1861
+J9 MEDIAT INFLAMM
+JI Mediat. Inflamm.
+PY 2014
+VL 2014
+AR 857245
+DI 10.1155/2014/857245
+PG 12
+WC Cell Biology; Immunology
+SC Cell Biology; Immunology
+GA AS4OX
+UT WOS:000344256800001
+PM 25309052
+OA DOAJ Gold, Green Published
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BPF
+   Marques, CFS
+   Nascimento, LD
+   Mello, MB
+   Silva, LBR
+   Rubim, NM
+   Foti, L
+   Silva, ED
+   Ferreira, AGP
+   Krieger, MA
+AF Fonseca, Bruna P. F.
+   Marques, Christiane F. S.
+   Nascimento, Lilian D.
+   Mello, Marcelle B.
+   Silva, Leila B. R.
+   Rubim, Nara M.
+   Foti, Leonardo
+   Silva, Edimilson D.
+   Ferreira, Antonio G. P.
+   Krieger, Marco A.
+TI Development of a Multiplex Bead-Based Assay for Detection of Hepatitis C
+   Virus
+SO CLINICAL AND VACCINE IMMUNOLOGY
+LA English
+DT Article
+ID ANTIBODIES; IMMUNOASSAYS; RESPONSES; 2ND-GENERATION; INFECTION;
+   DIAGNOSIS; PROTEINS; ANTIGENS; DISEASE; BLOOD
+AB Hepatitis C virus (HCV) infection is a major burden to public health worldwide, affecting approximately 3% of the human population. Although HCV detection is currently based on reliable tests, the field of medical diagnostics has a growing need for inexpensive, accurate, and quick high-throughput assays. By using the recombinant HCV antigens NS3, NS4, NS5, and Combined, we describe a new bead-based multiplex test capable of detecting HCV infection in human serum samples. The first analysis, made in a singleplex format, showed that each antigen coupled to an individual bead set presented high-level responses for anti-HCV-positive reference serum pools and lower-level responses for the HCV-negative pools. Our next approach was to determine the sensitivity and specificity of each antigen by testing 93 HCV-positive and 93 HCV-negative sera. When assayed in the singleplex format, the NS3, NS4, and NS5 antigens presented lower sensitivity values (50.5%, 51.6%, and 55.9%, respectively) than did the Combined antigen, which presented a sensitivity of 93.5%. All antigens presented 100% specificity. These antigens were then multiplexed in a 4-plex assay, which resulted in increased sensitivity and specificity values, performing with 100% sensitivity and 100% specificity. The positive and negative predictive values for the 4-plex assay were 100%. Although preliminary, this 4-plex assay showed robust results that, aligned with its small-sample-volume requirements and also its cost-and time-effectiveness, make it a reasonable alternative to tests currently used for HCV screening of potentially infected individuals.
+C1 [Fonseca, Bruna P. F.; Marques, Christiane F. S.; Nascimento, Lilian D.; Mello, Marcelle B.; Silva, Leila B. R.; Rubim, Nara M.; Silva, Edimilson D.; Ferreira, Antonio G. P.] Bio Manguinhos Fiocruz, Lab Tecnol Diagnost, BR-21045900 Rio De Janeiro, Brazil.
+   [Foti, Leonardo; Krieger, Marco A.] Inst Carlos Chagas Fiocruz, BR-81350010 Curitiba, Parana, Brazil.
+   [Foti, Leonardo; Krieger, Marco A.] Inst Biol Mol Parana, BR-81350010 Curitiba, Parana, Brazil.
+RP Fonseca, BPF (corresponding author), Bio Manguinhos Fiocruz, Lab Tecnol Diagnost, Av Brasil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM bruna.fonseca@bio.fiocruz.br
+RI Krieger, Marco/AAE-8611-2020; Publica, Inct Saude/J-9544-2013; P,
+   CM/B-1358-2013; Foti, Leonardo/F-1763-2014
+OI Foti, Leonardo/0000-0003-2948-9914; Fonseca, Bruna de
+   Paula/0000-0002-8795-2578
+CR Abdel-Hamid M, 2002, J CLIN MICROBIOL, V40, P1656, DOI 10.1128/JCM.40.5.1656-1659.2002
+   ALTER HJ, 1992, HEPATOLOGY, V15, P350, DOI 10.1002/hep.1840150228
+   Ansari M. H. K., 2006, Hepatitis Monthly, V6, P19
+   ARAUJO ES, 2007, BRAZ J INFECT DIS, V11, P446
+   Armstrong GL, 2000, HEPATOLOGY, V31, P777, DOI 10.1002/hep.510310332
+   BAATH L, 1992, J VIROL METHODS, V40, P287, DOI 10.1016/0166-0934(92)90087-T
+   Beld M, 1999, HEPATOLOGY, V29, P1288, DOI 10.1002/hep.510290442
+   Bellisario R, 2001, EARLY HUM DEV, V64, P21, DOI 10.1016/S0378-3782(01)00167-0
+   Binnicker MJ, 2008, CLIN VACCINE IMMUNOL, V15, P1410, DOI 10.1128/CVI.00082-08
+   Boyer N, 2000, J HEPATOL, V32, P98, DOI 10.1016/S0168-8278(00)80419-5
+   Carson RT, 1999, J IMMUNOL METHODS, V227, P41, DOI 10.1016/S0022-1759(99)00069-1
+   de Voer RM, 2008, CLIN VACCINE IMMUNOL, V15, P1188, DOI 10.1128/CVI.00478-07
+   Dunbar SA, 2006, CLIN CHIM ACTA, V363, P71, DOI 10.1016/j.cccn.2005.06.023
+   Foti L, 2009, MEM I OSWALDO CRUZ, V104, P136, DOI 10.1590/S0074-02762009000900019
+   Fouda GG, 2006, CLIN VACCINE IMMUNOL, V13, P1307, DOI 10.1128/CVI.00183-06
+   Fulton RJ, 1997, CLIN CHEM, V43, P1749
+   GOURI L, 2004, CLIN DIAGN LAB IMMUN, V11, P272
+   Jani IV, 2002, LANCET INFECT DIS, V2, P243, DOI 10.1016/S1473-3099(02)00242-6
+   Joos TO, 2002, CURR OPIN CHEM BIOL, V6, P76, DOI 10.1016/S1367-5931(01)00289-7
+   Kellar KL, 2002, EXP HEMATOL, V30, P1227, DOI 10.1016/S0301-472X(02)00922-0
+   Pawlotsky JM, 2002, HEPATOLOGY, V36, pS65, DOI 10.1053/jhep.2002.36815
+   Raedler MD, 2009, CLIN VACCINE IMMUNOL, V16, P739, DOI 10.1128/CVI.00478-08
+   Sillanpaa M, 2009, VIROL J, V6, DOI 10.1186/1743-422X-6-84
+   Thimme R, 2008, BIOL CHEM, V389, P457, DOI 10.1515/BC.2008.061
+NR 24
+TC 11
+Z9 12
+U1 0
+U2 9
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 1556-6811
+EI 1556-679X
+J9 CLIN VACCINE IMMUNOL
+JI Clin. Vaccine Immunol.
+PD MAY
+PY 2011
+VL 18
+IS 5
+BP 802
+EP 806
+DI 10.1128/CVI.00265-10
+PG 5
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA 758IB
+UT WOS:000290156600016
+PM 21346054
+OA Green Published, Bronze
+DA 2020-11-10
+ER
+
+PT J
+AU Olsen, PC
+   Ferreira, TPT
+   Serra, MF
+   Farias, FA
+   Fonseca, BP
+   Viola, JPB
+   Cordeiro, RSB
+   Silva, PMR
+   Costa, JCS
+   Martins, MA
+AF Olsen, P. C.
+   Ferreira, T. P. T.
+   Serra, M. F.
+   Farias-Filho, F. A.
+   Fonseca, B. P.
+   Viola, J. P. B.
+   Cordeiro, R. S. B.
+   Silva, P. M. R.
+   Costa, J. C. S.
+   Martins, M. A.
+TI Lidocaine-derivative JMF2-1 prevents ovalbumin-induced airway
+   inflammation by regulating the function and survival of T cells
+SO CLINICAL AND EXPERIMENTAL ALLERGY
+LA English
+DT Article
+DE apoptosis; asthma; lidocaine; lung inflammation; T cells
+ID NEBULIZED LIDOCAINE; INDUCED APOPTOSIS; ASTHMA; LUNG; HYPERREACTIVITY;
+   MICE; DEXAMETHASONE; EOSINOPHILS; ACTIVATION; THYMOCYTES
+AB Background Inhalation of the local anaesthetic lidocaine has been suggested to be beneficial for asthmatics, but airway anaesthesia is unpleasant and may exacerbate bronchoconstriction. Our previous study showed that inhalation of the lidocaine analogue JMF2-1 can elicit the anti-inflammatory properties of lidocaine without anaesthesia. This prompted further research on the mechanism of action and putative therapeutic application of JMF2-1.
+   Objective We tested the hypothesis that JMF2-1 would prevent allergen-induced lung inflammation and airway hyperresponsiveness (AHR) by modulating T cell function in vivo and in vitro.
+   Methods Local and systemic changes in leucocyte levels, cytokine production and lung mechanics were examined in a murine model of lung inflammation. JMF2-1 (0.05-2%) or saline was aerosolized twice a day during the ovalbumin (OVA)-provocation period (19-21 days post-sensitization). Analyses were performed 24 h after the final challenge. Primary cultured lymph node cells were used to assess the effects of JMF2-1 (100-600 mu M) at the cellular level.
+   Results OVA challenge resulted in lung recruitment of CD4(+) T cells and eosinophils, increased generation of inflammatory cytokines and AHR to inhaled methacholine within 24 h. These changes were prevented by JMF2-1 nebulization, and occurred in parallel with an increase in the number of apoptotic cells in the lung. JMF2-1 treatment did not alter levels of CD4(+) or CD8(+) T cells in the thymus or lymph nodes of naive mice, although it inhibited OVA-induced IL-13 production and the lymphocyte proliferative response in vitro. It also induced apoptosis of OVA-activated lymphocytes in a mechanism sensitive to z-VAD, indicating that JMF2-1 mediates caspase-dependent apoptosis.
+   Conclusion Inhalation of JMF2-1 prevents the cardinal features of asthma by reducing T(H)2 cytokine generation and lung eosinophilic inflammatory infiltrates via local inhibition of T cell function and survival. JMF2-1 may represent a novel therapeutic alternative for asthma control with distinct advantages over local anaesthetics.
+C1 [Olsen, P. C.; Ferreira, T. P. T.; Serra, M. F.; Farias-Filho, F. A.; Cordeiro, R. S. B.; Silva, P. M. R.; Martins, M. A.] Oswaldo Cruz Fdn FIOCRUZ, Lab Inflammat, Inst Oswaldo Cruz, BR-21045900 Rio De Janeiro, Brazil.
+   [Fonseca, B. P.; Viola, J. P. B.] INCA, Div Cellular Biol, Rio De Janeiro, Brazil.
+RP Martins, MA (corresponding author), Oswaldo Cruz Fdn FIOCRUZ, Lab Inflammat, Inst Oswaldo Cruz, Av Brazil 4365, BR-21045900 Rio De Janeiro, Brazil.
+EM mmartins@ioc.fiocruz.br
+RI Publica, Inct Saude/J-9544-2013; SILVA, PATRICIA MACHADO RODRIGUES
+   E/AAS-4906-2020; Olsen, Priscilla C/I-8994-2012; Viola,
+   Joao/AAP-4125-2020
+OI Olsen, Priscilla C/0000-0002-8795-037X; Viola, Joao/0000-0002-0698-3146;
+   Fonseca, Bruna de Paula/0000-0002-8795-2578
+FU CAPESCAPES; Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico (CNPq)National Council for Scientific and Technological
+   Development (CNPq) [573.564/2008-6]; Fundacao Carlos Chagas Filho de
+   Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ)Carlos Chagas
+   Filho Foundation for Research Support of the State of Rio de Janeiro
+   (FAPERJ); Programa de Desenvolvimento Tecnologico em Insumos para Saude
+   (PDTIS), FIOCRUZ, Brazil
+FX We are indebted to Tatiane Perez Oliveira dos Santos for technical
+   support. Priscilla C. Olsen acknowledges CAPES for her Fellowship. These
+   investigations were supported by grants from Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq), INCT-INOFAR (Projeto
+   CNPq no. 573.564/2008-6), Fundacao Carlos Chagas Filho de Amparo a
+   Pesquisa do Estado do Rio de Janeiro (FAPERJ) and Programa de
+   Desenvolvimento Tecnologico em Insumos para Saude (PDTIS), FIOCRUZ,
+   Brazil.
+CR Adcock IM, 2008, CURR ALLERGY ASTHM R, V8, P171, DOI 10.1007/s11882-008-0028-4
+   Barnes PJ, 2004, NAT REV DRUG DISCOV, V3, P831, DOI 10.1038/nrd1524
+   BEYDON L, 1995, INTENS CARE MED, V21, P920, DOI 10.1007/BF01712333
+   Burches BR, 2008, ANESTH ANALG, V107, P1260, DOI 10.1213/ane.0b013e31817d8637
+   Costa JCS, 2008, BIOORG MED CHEM LETT, V18, P1162, DOI 10.1016/j.bmcl.2007.11.122
+   FERGUSON RM, 1976, J IMMUNOL, V116, P627
+   Foster PS, 1996, J EXP MED, V183, P195, DOI 10.1084/jem.183.1.195
+   Harrison TW, 1998, RESP MED, V92, P1359, DOI 10.1016/S0954-6111(98)90142-1
+   Herold MJ, 2006, CELL MOL LIFE SCI, V63, P60, DOI 10.1007/s00018-005-5390-y
+   Hirota K, 1999, BRIT J ANAESTH, V82, P87
+   Hogan SP, 2008, CLIN EXP ALLERGY, V38, P709, DOI 10.1111/j.1365-2222.2008.02958.x
+   Holgate ST, 2006, J ALLERGY CLIN IMMUN, V117, P496, DOI 10.1016/j.jaci.2006.01.039
+   Hunt LW, 1996, MAYO CLIN PROC, V71, P361, DOI 10.4065/71.4.361
+   Hunt LW, 2004, J ALLERGY CLIN IMMUN, V113, P853, DOI 10.1016/j.jaci.2004.02.039
+   Ivanov VN, 1998, INT IMMUNOL, V10, P1807, DOI 10.1093/intimm/10.12.1807
+   Kips JC, 2001, EUR RESPIR J, V18, p24S, DOI 10.1183/09031936.01.00229601
+   Kodama T, 1998, CLIN EXP ALLERGY, V28, P1435
+   Lahat A, 2008, CLIN EXP IMMUNOL, V152, P320, DOI 10.1111/j.1365-2249.2008.03636.x
+   Li XM, 1996, J IMMUNOL, V157, P3216
+   McColl KS, 1998, MOL CELL ENDOCRINOL, V139, P229, DOI 10.1016/S0303-7207(98)00051-3
+   MIGLIORATI G, 1993, BLOOD, V81, P1352
+   Moore WC, 2008, AM J RESP CRIT CARE, V177, P1068, DOI 10.1164/rccm.200802-315UP
+   Muraki M, 2008, INT IMMUNOPHARMACOL, V8, P725, DOI 10.1016/j.intimp.2008.01.021
+   Okada S, 1998, J IMMUNOL, V160, P4010
+   Proust B, 2003, CLIN EXP ALLERGY, V33, P119, DOI 10.1046/j.1365-2222.2003.01560.x
+   Riccardi C, 2006, NAT PROTOC, V1, P1458, DOI 10.1038/nprot.2006.238
+   Robbs BK, 2008, MOL CELL BIOL, V28, P7168, DOI 10.1128/MCB.00256-08
+   Saito Keiko, 2006, Nihon Kokyuki Gakkai Zasshi, V44, P828
+   da Costa JCS, 2007, J ALLERGY CLIN IMMUN, V119, P219, DOI 10.1016/j.jaci.2006.08.037
+   STAM WB, 1993, LIFE SCI, V53, P1921, DOI 10.1016/0024-3205(93)90014-T
+   Tanaka A, 2002, J ALLERGY CLIN IMMUN, V109, P485, DOI 10.1067/mai.2002.122155
+   Wills-Karp M, 2004, IMMUNOL REV, V202, P175, DOI 10.1111/j.0105-2896.2004.00215.x
+   Woolley KL, 1996, AM J RESP CRIT CARE, V154, P237, DOI 10.1164/ajrccm.154.1.8680686
+NR 33
+TC 26
+Z9 27
+U1 0
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0954-7894
+EI 1365-2222
+J9 CLIN EXP ALLERGY
+JI Clin. Exp. Allergy
+PD FEB
+PY 2011
+VL 41
+IS 2
+BP 250
+EP 259
+DI 10.1111/j.1365-2222.2010.03580.x
+PG 10
+WC Allergy; Immunology
+SC Allergy; Immunology
+GA 706JE
+UT WOS:000286213600014
+PM 20874831
+DA 2020-11-10
+ER
+
+PT J
+AU Foti, L
+   Fonseca, BDFE
+   Nascimento, LD
+   Marques, CDS
+   da Silva, ED
+   Duarte, CAB
+   Probst, CM
+   Goldenberg, S
+   Pinto, AG
+   Krieger, MA
+AF Foti, Leonardo
+   Fonseca e Fonseca, Bruna de Paula
+   Nascimento, Lilian Dias
+   Silva Marques, Christiane de Fatima
+   da Silva, Edmilson Domingos
+   Barros Duarte, Cesar Augusto
+   Probst, Christian M.
+   Goldenberg, Samuel
+   Pinto, Antonio Gomes
+   Krieger, Marco Aurelio
+TI Viability study of a multiplex diagnostic platform for Chagas disease
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article; Proceedings Paper
+CT International Symposium on the Centennial of the Discovery of Chargas
+   Disease
+CY JUL 08-10, 2009
+CL Rio de Janeiro, BRAZIL
+DE Chagas disease; diagnostic; multiplex; bead-based assay; Trypanosoma
+   cruzi
+ID TRYPANOSOMA-CRUZI; INFECTIOUS-DISEASES; ASSAY; IMMUNOASSAYS; ANTIBODIES;
+   ANTIGENS
+AB A new multiplex assay platform was evaluated to detect Trypanosoma cruzi infection using the recombinant antigens CRA, FRA, CRAFRA fusion and parasite lysate. The antigens presented different sensitivity and specificity in a singleplex test when compared to a serial dilution of two pools comprising 10 positive serum samples and one pool of 10 negative samples. The recombinant protein CRA presented lower sensitivity (55%) in contrast to the 100% specificity and sensitivity of FRA, CRAFRA and T. cruzi lysate. These antigens also showed good results in a duplex test and the duplex test with CRAFRA/T. cruzi lysate showed better performance with 100% specificity and sensitivity, as well as a lower cut-off value in comparison to the other duplex test, FRA/T. cruzi lysate. Hence, when the antigens were used in duplex format, both tests showed decreased cut-off values and no interference between different bead sets, resulting in increasing sensitivity and specificity. The results of these multiplex tests show that they could be an alternative to singleplex detection for Chagas disease, and also indicate the necessity of using multiplex diagnostic tools to increase the sensitivity and specificity for diagnostic tests. Emerging data from the T. cruzi genome and from its ORFeome project will also allow the identification of new antigens for this disease detection application.
+C1 [Foti, Leonardo; Barros Duarte, Cesar Augusto; Probst, Christian M.; Goldenberg, Samuel; Krieger, Marco Aurelio] Fiocruz MS, Inst Carlos Chagas, BR-81350010 Curitiba, Parana, Brazil.
+   [Fonseca e Fonseca, Bruna de Paula; Nascimento, Lilian Dias; Silva Marques, Christiane de Fatima; da Silva, Edmilson Domingos; Pinto, Antonio Gomes] Fiocruz MS, Lab Tecnol Diagnost, BR-21045900 Rio De Janeiro, Brazil.
+RP Krieger, MA (corresponding author), Fiocruz MS, Inst Carlos Chagas, R Prof Algacyr Munhoz Mader 3775, BR-81350010 Curitiba, Parana, Brazil.
+EM mkrieger@fiocruz.br
+RI Krieger, Marco/AAE-8611-2020; P, CM/B-1358-2013; Probst,
+   Christian/B-8678-2009; Foti, Leonardo/F-1763-2014; GOLDENBERG,
+   SAMUEL/B-4116-2009
+OI Probst, Christian/0000-0001-9993-6375; Foti,
+   Leonardo/0000-0003-2948-9914; GOLDENBERG, SAMUEL/0000-0002-4892-163X;
+   Fonseca, Bruna de Paula/0000-0002-8795-2578
+CR Bern C, 2008, REV SOC BRAS MED TRO, V41, P315
+   BRENER Z, 2000, TRYPANOSSOMA CRUZI D
+   Chagas C., 1909, Memorias do Instituto Oswaldo Cruz, V1
+   Chen Yunjia, 2008, V426, P209, DOI 10.1007/978-1-60327-058-8_13
+   Cooley G, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000316
+   Coura JR, 2007, MEM I OSWALDO CRUZ, V102, P113, DOI 10.1590/S0074-02762007000900018
+   Dias D, 2005, CLIN DIAGN LAB IMMUN, V12, P959, DOI 10.1128/CDLI.12.8.959-969.2005
+   El-Sayed NM, 2005, SCIENCE, V309, P409, DOI 10.1126/science.1112631
+   Hay Burgess Deborah C, 2006, Nature, V444 Suppl 1, P1
+   Hopkins AL, 2007, NATURE, V449, P166, DOI 10.1038/449166a
+   Jani IV, 2002, LANCET INFECT DIS, V2, P243, DOI 10.1016/S1473-3099(02)00242-6
+   Joos TO, 2002, CURR OPIN CHEM BIOL, V6, P76, DOI 10.1016/S1367-5931(01)00289-7
+   King DA, 2006, SCIENCE, V313, P1392, DOI 10.1126/science.1129134
+   KRIEGER MA, 1992, AM J TROP MED HYG, V46, P427, DOI 10.4269/ajtmh.1992.46.427
+   Lal G, 2004, CLIN DIAGN LAB IMMUN, V11, P272, DOI 10.1128/CDLI.11.2.272-279.2004
+   Lee SH, 2004, THEOR APPL GENET, V110, P167, DOI 10.1007/s00122-004-1827-1
+   Leon JS, 2001, INFECT IMMUN, V69, P5643, DOI 10.1128/IAI.69.9.5643-5649.2001
+   LopezAntunano FJ, 1997, SALUD PUBLICA MEXICO, V39, P463, DOI 10.1590/S0036-36341997000500009
+   Luan CH, 2004, GENOME RES, V14, P2102, DOI 10.1101/gr.2520504
+   Martins TB, 2004, CLIN DIAGN LAB IMMUN, V11, P1054, DOI 10.1128/CDLI.11.6.1054-1059.2004
+   O'Connell D, 2007, NATURE, V449, P157, DOI 10.1038/449157a
+   O'Meara WP, 2007, MALARIA J, V6, DOI 10.1186/1475-2875-6-36
+   Prabhakar U, 2002, J IMMUNOL METHODS, V260, P207, DOI 10.1016/S0022-1759(01)00543-9
+   Rual JF, 2004, CURR OPIN CHEM BIOL, V8, P20, DOI 10.1016/j.cbpa.2003.12.002
+   Schmunis GA, 2005, CLIN MICROBIOL REV, V18, P12, DOI 10.1128/CMR.18.1.12-29.2005
+   *TDR, 2007, REP GRUP TRAB CIENT
+   Urdea Mickey, 2006, Nature, V444 Suppl 1, P73, DOI 10.1038/nature05448
+   Vignali DAA, 2000, J IMMUNOL METHODS, V243, P243, DOI 10.1016/S0022-1759(00)00238-6
+   Villa L, 2007, MEM I OSWALDO CRUZ, V102, P87, DOI 10.1590/S0074-02762007005000081
+   Yan XM, 2005, ANAL CHEM, V77, P7673, DOI 10.1021/ac0508797
+NR 30
+TC 13
+Z9 14
+U1 0
+U2 4
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD JUL
+PY 2009
+VL 104
+SU 1
+BP 136
+EP 141
+DI 10.1590/S0074-02762009000900019
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 485LM
+UT WOS:000269123500018
+PM 19753468
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Fonseca, BPF
+   Olsen, PC
+   Coelh, LP
+   Ferreira, TPT
+   Souza, HS
+   Martins, MA
+   Viola, JPB
+AF Fonseca, Bruna P. F.
+   Olsen, Priscilla C.
+   Coelh, Luciana P.
+   Ferreira, Tatiana P. T.
+   Souza, Heitor S.
+   Martins, Marco A.
+   Viola, Joo P. B.
+TI NFAT1 Transcription Factor Regulates Pulmonary Allergic Inflammation and
+   Airway Responsiveness
+SO AMERICAN JOURNAL OF RESPIRATORY CELL AND MOLECULAR BIOLOGY
+LA English
+DT Article
+DE allergic inflammation; asthma; NFAT; immune response; lung
+ID CHRONIC SEVERE ASTHMA; ACTIVATED T-CELLS; BRONCHIAL HYPERRESPONSIVENESS;
+   CYCLOSPORINE-A; SMOOTH-MUSCLE; MURINE MODEL; DEFICIENT MICE;
+   ACETYLCHOLINE; EOSINOPHILS; RECEPTORS
+AB Allergic asthma is a chronic inflammatory disease of the lung whose incidence and morbidity continues to rise in developed nations. Despite being a hallmark of asthma, the molecular mechanisms that determine airway hyperresponsiveness (AHR) are not completely established. Transcription factors of the NFAT family are involved in the regulation of several asthma-related genes. It has been shown that the absence of NFAT1 leads to an increased pleural eosinophilic allergic response accompanied by an increased production of Th2 cytokines, suggesting a role for NFAT1 in the regulation of allergic diseases. Herein, we analyze NFAT1-/- mice to address the role of NFAT1 in a model of allergic airway inflammation and its influence in AHR. NFAT1-/- mice submitted to airway inflammation display a significant exacerbation of several features of the allergic disease, including lung inflammation, eosinophilia, and serum IgE levels, which were concomitant with elevated Th2 cytokine production. However, in spite of the increased allergic phenotype, NFAT1-/- mice failed to express AHR after methacholine aerosol. Refractoriness of NFAT1-/- mice to methacholine was confirmed in naive mice, suggesting that this refractoriness occurs in an intrinsic way, indepenclent of the lung inflammation. In addition, NFAT1-/- mice exhibit increased AHR in response to serotonin inhalation, suggesting a specific role for NFAT1 in the methacholine pathway of bronchoconstriction. Taken together, these data add support to the interpretation that NFAT1 acts as a counterregulatory mechanism to suppress allergic inflammation. Moreover, our findings suggest a novel role for NFAT1 protein in airway responsiveness mediated by the cholinergic pathway.
+C1 [Fonseca, Bruna P. F.; Viola, Joo P. B.] Natl Canc Inst, INCA, Div Cellular Biol, BR-20231050 Rio De Janeiro, Brazil.
+   [Olsen, Priscilla C.; Coelh, Luciana P.; Ferreira, Tatiana P. T.; Martins, Marco A.] Fundacao Oswaldo Cruz, Dept Physiol & Pharmacodynam, Lab Inflammat, Rio De Janeiro, Brazil.
+   [Souza, Heitor S.] Univ Fed Rio de Janeiro, Clementino Fraga Filho Univ Hosp, Multidisciplinary Lab, Rio De Janeiro, Brazil.
+RP Viola, JPB (corresponding author), Natl Canc Inst, INCA, Div Cellular Biol, Rua Andre Cavalcanti 37, BR-20231050 Rio De Janeiro, Brazil.
+EM jpviola@inca.gov.br
+RI Viola, Joao/AAP-4125-2020; de Souza, Heitor Siffert Pereira/G-3297-2012;
+   Olsen, Priscilla C/I-8994-2012; Publica, Inct Saude/J-9544-2013
+OI Viola, Joao/0000-0002-0698-3146; de Souza, Heitor Siffert
+   Pereira/0000-0002-3647-7324; Olsen, Priscilla C/0000-0002-8795-037X;
+   Fonseca, Bruna de Paula/0000-0002-8795-2578
+CR ALEXANDER AG, 1992, LANCET, V339, P324, DOI 10.1016/0140-6736(92)91646-P
+   Boss V, 1996, J BIOL CHEM, V271, P10429, DOI 10.1074/jbc.271.18.10429
+   BRADLEY BL, 1991, J ALLERGY CLIN IMMUN, V88, P661, DOI 10.1016/0091-6749(91)90160-P
+   Bymaster FP, 2003, NEUROCHEM RES, V28, P437, DOI 10.1023/A:1022844517200
+   Chetta A, 1997, CHEST, V111, P852, DOI 10.1378/chest.111.4.852
+   Chiba Y, 2004, INFLAMM RES, V53, P636, DOI 10.1007/s00011-004-1305-x
+   Cohn L, 2004, ANNU REV IMMUNOL, V22, P789, DOI 10.1146/annurev.immunol.22.012703.104716
+   DESAI DM, 1990, NATURE, V348, P66, DOI 10.1038/348066a0
+   Diehl S, 2004, J IMMUNOL, V172, P3597, DOI 10.4049/jimmunol.172.6.3597
+   EIIAS JA, 2003, J CLIN INVEST, V111, P291
+   Eum SY, 1999, BRIT J PHARMACOL, V126, P312, DOI 10.1038/sj.bjp.0702304
+   FELDER CC, 1995, FASEB J, V9, P619
+   Forsythe SM, 2002, AM J RESP CELL MOL, V26, P298, DOI 10.1165/ajrcmb.26.3.4564
+   FUKUDA T, 1995, ANN ALLERG ASTHMA IM, V75, P65
+   Gosens R, 2006, RESP RES, V7, DOI 10.1186/1465-9921-7-73
+   Hamelmann E, 1997, AM J RESP CRIT CARE, V156, P766, DOI 10.1164/ajrccm.156.3.9606031
+   Hodge MR, 1996, IMMUNITY, V4, P397, DOI 10.1016/S1074-7613(00)80253-8
+   Hoyer D, 2002, PHARMACOL BIOCHEM BE, V71, P533, DOI 10.1016/S0091-3057(01)00746-8
+   JEFFERY PK, 1989, AM REV RESPIR DIS, V140, P1745, DOI 10.1164/ajrccm/140.6.1745
+   Khan LN, 2000, AM J RESP CRIT CARE, V162, P1377, DOI 10.1164/ajrccm.162.4.9911117
+   Kiani A, 1997, IMMUNITY, V7, P849, DOI 10.1016/S1074-7613(00)80403-3
+   Kummer W, 2006, RESP RES, V7, DOI 10.1186/1465-9921-7-65
+   Lange P, 1998, NEW ENGL J MED, V339, P1194, DOI 10.1056/NEJM199810223391703
+   Lee YC, 2006, INT IMMUNOPHARMACOL, V6, P703, DOI 10.1016/j.intimp.2005.10.007
+   Lewis SA, 2001, EUR RESPIR J, V18, P921, DOI 10.1183/09031936.01.00211801
+   Lloyd CM, 2001, J IMMUNOL, V166, P2033, DOI 10.4049/jimmunol.166.3.2033
+   Lopez-Rodriguez C, 1999, P NATL ACAD SCI USA, V96, P7214, DOI 10.1073/pnas.96.13.7214
+   Matsukawa A, 2000, EXP MOL PATHOL, V68, P77, DOI 10.1006/exmp.1999.2296
+   MISAWA M, 1993, JPN J PHARMACOL, V61, P41, DOI 10.1254/jjp.61.41
+   Moffatt JD, 2004, BRIT J PHARMACOL, V141, P1159, DOI 10.1038/sj.bjp.0705720
+   Perez JF, 2005, J GEN PHYSIOL, V125, P535, DOI 10.1085/jgp.200409216
+   Ranger AM, 1998, IMMUNITY, V8, P125, DOI 10.1016/S1074-7613(00)80465-3
+   Ranger AM, 1998, IMMUNITY, V9, P627, DOI 10.1016/S1074-7613(00)80660-3
+   Rao A, 1997, ANNU REV IMMUNOL, V15, P707, DOI 10.1146/annurev.immunol.15.1.707
+   Renauld JC, 2001, J CLIN PATHOL, V54, P577, DOI 10.1136/jcp.54.8.577
+   Rogers DF, 2004, CURR OPIN PHARMACOL, V4, P241, DOI 10.1016/j.coph.2004.01.011
+   Rogers DF, 2001, RESP PHYSIOL, V125, P129, DOI 10.1016/S0034-5687(00)00209-7
+   Seminario MC, 2001, J ALLERGY CLIN IMMUN, V107, P143, DOI 10.1067/mai.2001.111931
+   Stephens NL, 2003, RESP PHYSIOL NEUROBI, V137, P125, DOI 10.1016/S1569-9048(03)00142-3
+   STRETTON D, 1992, J PHARMACOL EXP THER, V260, P1073
+   Struckmann N, 2003, MOL PHARMACOL, V64, P1444, DOI 10.1124/mol.64.6.1444
+   Ulrik CS, 2005, J ASTHMA, V42, P549, DOI 10.1080/02770900500215715
+   Viola JPB, 1998, BLOOD, V91, P2223, DOI 10.1182/blood.V91.7.2223.2223_2223_2230
+   WALKER C, 1991, J ALLERGY CLIN IMMUN, V88, P935, DOI 10.1016/0091-6749(91)90251-I
+   WHICKER S D, 1990, Pulmonary Pharmacology, V3, P129, DOI 10.1016/0952-0600(90)90043-I
+   Wills-Karp M, 1999, ANNU REV IMMUNOL, V17, P255, DOI 10.1146/annurev.immunol.17.1.255
+   Woodruff PG, 2001, J ALLERGY CLIN IMMUN, V108, P753, DOI 10.1067/mai.2001.119411
+   WU J, 1995, MOL CELL BIOL, V15, P4337
+   Xanthoudakis S, 1996, SCIENCE, V272, P892, DOI 10.1126/science.272.5263.892
+   Yurdakul AS, 2005, J ASTHMA, V42, P843, DOI 10.1080/02770900500370981
+NR 50
+TC 14
+Z9 14
+U1 1
+U2 2
+PU AMER THORACIC SOC
+PI NEW YORK
+PA 25 BROADWAY, 18 FL, NEW YORK, NY 10004 USA
+SN 1044-1549
+EI 1535-4989
+J9 AM J RESP CELL MOL
+JI Am. J. Respir. Cell Mol. Biol.
+PD JAN
+PY 2009
+VL 40
+IS 1
+BP 66
+EP 75
+DI 10.1165/rcmb.2007-0102OC
+PG 10
+WC Biochemistry & Molecular Biology; Cell Biology; Respiratory System
+SC Biochemistry & Molecular Biology; Cell Biology; Respiratory System
+GA 388XW
+UT WOS:000262054700009
+PM 18664642
+DA 2020-11-10
+ER
+
+PT J
+AU Magalhaes, ES
+   Mourao-Sa, DS
+   Vieira-de-Abreu, A
+   Figueiredo, RT
+   Pires, AL
+   Farias, FA
+   Fonseca, BPF
+   Viola, JPB
+   Metz, C
+   Martins, MA
+   Castro-Faria-Neto, HC
+   Bozza, PT
+   Bozza, MT
+AF Magalhaes, Elizabeth S.
+   Mourao-Sa, Diego S.
+   Vieira-de-Abreu, Adriana
+   Figueiredo, Rodrigo T.
+   Pires, Ana L.
+   Farias-Filho, Francisco A.
+   Fonseca, Bruna P. F.
+   Viola, Joao P. B.
+   Metz, Christine
+   Martins, Marco A.
+   Castro-Faria-Neto, Hugo C.
+   Bozza, Patricia T.
+   Bozza, Marcelo T.
+TI Macrophage migration inhibitory factor is essential for allergic asthma
+   but not for Th2 differentiation
+SO EUROPEAN JOURNAL OF IMMUNOLOGY
+LA English
+DT Article
+DE airway hyper-responsiveness; asthma; eosinophils; inflammation; Th1-Th2
+ID INDUCED AIRWAY INFLAMMATION; FACTOR MIF; REGULATORY ROLE; MURINE MODEL;
+   DEFICIENT; MOUSE; LEUKOTRIENES; EOSINOPHILS; CYTOKINE; MICE
+AB Macrophage migration inhibitory factor (MIF) is increased in asthmatic patients and plays a critical role in the pathogenesis of asthma. We show here that mice lacking MIF failed to develop airway hyper-responsiveness (AHR), tissue eosinophilia, and mucus metaplasia. Analysis of the bronchoalveolar fluids revealed a substantial reduction of IL-13, eotaxin and cysteinyl-leukotrienes. The lack of these cardinal features of asthma in MIF-/- mice occurs regardless of high concentrations of IL-4 in the lung and OVA-specific IgE in the serum. Antigen-specific lymphocyte proliferation and IL-13 production were similarly increased in the draining lymph nodes of OVA-immunized and challenged MIF-/- mice compared to WT, but were reduced in the spleen of MIF-/-, thus indicating differential roles of MIF in these compartments. Stimulation of naive CD4(+) cells with anti-CD3 antibody demonstrated that MIF-/- cells produced increased amounts of IFN-gamma and IL-4 compared to WT CD4(+) cells. Finally, treatment of sensitized BALB/c mice with neutralizing anti-MIF antibody abrogated the development of ARH and airway inflammation without affecting the production of Th2 cytokines or IgE. The present study demonstrates that MIF is required for allergic inflammation, adding important elements to our knowledge of asthma pathogenesis and suggesting that neutralization of MIF might be of therapeutic value in asthma.
+C1 Univ Fed Rio de Janeiro, Dept Immunol, Inst Microbiol, BR-21941902 Rio De Janeiro, Brazil.
+   IOC Fiocruz, Dept Fisiol & Farmacodinam, Rio De Janeiro, Brazil.
+   Inst Nacl Canc, Div Biol Celular, Rio De Janeiro, Brazil.
+   Inst Med Res N Shore LIJ, Lab Med Biochem, Manhasset, NY USA.
+RP Bozza, MT (corresponding author), Univ Fed Rio de Janeiro, Dept Immunol, Inst Microbiol, CCS Bloco 1,Ave Carlos Chagas Filho,373 Cidade Un, BR-21941902 Rio De Janeiro, Brazil.
+EM mbozza@micro.ufrj.br
+RI Viola, Joao/AAP-4125-2020; Mourao-Sa, Diego/C-5977-2009; Figueiredo,
+   Rodrigo T./F-5176-2016
+OI Viola, Joao/0000-0002-0698-3146; Figueiredo, Rodrigo
+   T./0000-0002-7551-8782; Christine, Metz/0000-0002-1013-1691; Mourao,
+   Diego/0000-0001-6618-6969; Fonseca, Bruna de Paula/0000-0002-8795-2578;
+   Bozza, Marcelo/0000-0003-3683-7550; Bozza, Patricia/0000-0001-8349-9529
+CR Bacher M, 1996, P NATL ACAD SCI USA, V93, P7849, DOI 10.1073/pnas.93.15.7849
+   Bacher M, 1997, AM J PATHOL, V150, P235
+   Baugh JA, 2002, CRIT CARE MED, V30, pS27, DOI 10.1097/00003246-200201001-00004
+   Baumann R, 2003, FASEB J, V17, P2221, DOI 10.1096/fj.03-0110com
+   BERNHAGEN J, 1993, NATURE, V365, P756, DOI 10.1038/365756a0
+   BERNHAGEN J, 1994, BIOCHEMISTRY-US, V33, P14144, DOI 10.1021/bi00251a025
+   Bozza FA, 2004, SHOCK, V22, P309, DOI 10.1097/01.shk.0000140305.01641.c8
+   Bozza M, 1999, J EXP MED, V189, P341, DOI 10.1084/jem.189.2.341
+   Calandra T, 2003, NAT REV IMMUNOL, V3, P791, DOI 10.1038/nri1200
+   Calandra T, 2000, NAT MED, V6, P164, DOI 10.1038/72262
+   CALANDRA T, 1995, NATURE, V377, P68, DOI 10.1038/377068a0
+   Corry DB, 1996, J EXP MED, V183, P109, DOI 10.1084/jem.183.1.109
+   de Jong YP, 2001, NAT IMMUNOL, V2, P1061, DOI 10.1038/ni720
+   Denkinger CM, 2003, J IMMUNOL, V170, P1274, DOI 10.4049/jimmunol.170.3.1274
+   Donnelly SC, 1997, NAT MED, V3, P320, DOI 10.1038/nm0397-320
+   Elias JA, 2003, J CLIN INVEST, V111, P291, DOI 10.1172/JCI200317748
+   Foster PS, 1996, J EXP MED, V183, P195, DOI 10.1084/jem.183.1.195
+   Gonzalo JA, 1998, J EXP MED, V188, P157, DOI 10.1084/jem.188.1.157
+   Grunig G, 1998, SCIENCE, V282, P2261, DOI 10.1126/science.282.5397.2261
+   Hamelmann E, 1997, AM J RESP CRIT CARE, V155, P819, DOI 10.1164/ajrccm.155.3.9117011
+   Henderson WR, 2002, AM J RESP CRIT CARE, V165, P108, DOI 10.1164/ajrccm.165.1.2105051
+   Henderson WR, 1996, J EXP MED, V184, P1483, DOI 10.1084/jem.184.4.1483
+   Hua ZX, 1998, HUM PATHOL, V29, P1441, DOI 10.1016/S0046-8177(98)90013-2
+   Humbles AA, 2004, SCIENCE, V305, P1776, DOI 10.1126/science.1100283
+   Kobayashi M, 2006, EUR RESPIR J, V27, P726, DOI 10.1183/09031936.06.00107004
+   Korsgren M, 2000, MEDIAT INFLAMM, V9, P15, DOI 10.1080/09629350050024339
+   Lan HY, 1997, J EXP MED, V185, P1455, DOI 10.1084/jem.185.8.1455
+   Lee JJ, 2004, SCIENCE, V305, P1773, DOI 10.1126/science.1099472
+   Leech M, 1999, ARTHRITIS RHEUM, V42, P1601, DOI 10.1002/1529-0131(199908)42:8<1601::AID-ANR6>3.0.CO;2-B
+   Lehmann LE, 2001, INTENS CARE MED, V27, P1412, DOI 10.1007/s001340101022
+   Leng L, 2003, J EXP MED, V197, P1467, DOI 10.1084/jem.20030286
+   Lloyd CM, 2001, J IMMUNOL, V166, P2033, DOI 10.4049/jimmunol.166.3.2033
+   Mitchell RA, 1999, J BIOL CHEM, V274, P18100, DOI 10.1074/jbc.274.25.18100
+   Mizue Y, 2005, P NATL ACAD SCI USA, V102, P14410, DOI 10.1073/pnas.0507189102
+   NAGAI H, 1993, LIFE SCI, V53, pPL243
+   Nakamaru Y, 2005, CYTOKINE, V31, P103, DOI 10.1016/j.cyto.2005.04.002
+   Pan JH, 2004, CIRCULATION, V109, P3149, DOI 10.1161/01.CIR.0000134704.84454.D2
+   Qiang Y, 2003, J IMMUNOL, V170, P1473, DOI 10.4049/jimmunol.170.3.1473
+   Rodriguez-Sosa M, 2003, INFECT IMMUN, V71, P1247, DOI 10.1128/IAI.71.3.1247-1254.2003
+   Roger T, 2001, NATURE, V414, P920, DOI 10.1038/414920a
+   Rossi AG, 1998, J CLIN INVEST, V101, P2869, DOI 10.1172/JCI1524
+   Satoskar AR, 2001, INFECT IMMUN, V69, P906, DOI 10.1128/IAI.69.2.906-911.2001
+   Stavitsky AB, 2003, PARASITE IMMUNOL, V25, P369, DOI 10.1046/j.1365-3024.2003.00641.x
+   Topilski I, 2002, J IMMUNOL, V168, P1610, DOI 10.4049/jimmunol.168.4.1610
+   Vargaftig BB, 2003, AM J RESP CELL MOL, V28, P410, DOI 10.1165/rcmb.2002-0032OC
+   Vargaftig BB, 2003, AM J PHYSIOL-LUNG C, V284, pL260, DOI 10.1152/ajplung.00226.2002
+   Walter DM, 2001, J IMMUNOL, V167, P4668, DOI 10.4049/jimmunol.167.8.4668
+   Wang B, 2006, J IMMUNOL, V177, P5779, DOI 10.4049/jimmunol.177.9.5779
+   Wills-Karp M, 1999, ANNU REV IMMUNOL, V17, P255, DOI 10.1146/annurev.immunol.17.1.255
+   Wills-Karp M, 1998, SCIENCE, V282, P2258, DOI 10.1126/science.282.5397.2258
+   Yamaguchi E, 2000, CLIN EXP ALLERGY, V30, P1244
+   Zhou Z, 1999, J CLIN INVEST, V103, P779, DOI 10.1172/JCI5909
+NR 52
+TC 25
+Z9 26
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0014-2980
+EI 1521-4141
+J9 EUR J IMMUNOL
+JI Eur. J. Immunol.
+PD APR
+PY 2007
+VL 37
+IS 4
+BP 1097
+EP 1106
+DI 10.1002/eji.200635968
+PG 10
+WC Immunology
+SC Immunology
+GA 159HX
+UT WOS:000245857300023
+PM 17373669
+OA Bronze
+DA 2020-11-10
+ER
+
+PT J
+AU Teixeira, LK
+   Fonseca, BPF
+   Vieira-de-Abreu, A
+   Barboza, BA
+   Robbs, BK
+   Bozza, PT
+   Viola, JPB
+AF Teixeira, LK
+   Fonseca, BPF
+   Vieira-de-Abreu, A
+   Barboza, BA
+   Robbs, BK
+   Bozza, PT
+   Viola, JPB
+TI IFN-gamma production by CD8(+) T cells depends on NFAT1 transcription
+   factor and regulates Th differentiation
+SO JOURNAL OF IMMUNOLOGY
+LA English
+DT Article
+ID INDUCED AIRWAY HYPERRESPONSIVENESS; REDUCED INTERFERON-GAMMA; NUCLEAR
+   FACTOR; MICE LACKING; EOSINOPHIL RECRUITMENT; DENDRITIC CELLS; IL-4
+   EXPRESSION; IN-VIVO; INFLAMMATION; BET
+AB CD8(+) T lymphocytes are excellent sources of IFN-gamma; however, the molecular mechanisms that dictate IFN-gamma expression upon TCR stimulation in these cells are not completely understood. In this study, we evaluated the involvement of NFAT1 in the regulation of IFN-gamma gene expression in murine CD8(+) T cells and its relevance during Th differentiation. We show that CD8(+), but not CD4(+), T cells, represent the very first source of IFN-gamma upon primary T cell activation, and also that the IFN-gamma produced by naive CD8(+) T cells may enhance CD4(+) Th1 differentiation in vitro. TCR stimulation rapidly induced IFN-gamma expression in CD8(+) T lymphocytes in a cyclosporin A-sensitive manner. Evaluation of CD8(+) T cells showed that calcium influx alone was sufficient to activate NFAT1 protein, transactivate IFN-gamma gene promoter, and induce IFN-gamma production. In fact, NFAT1-deficient mice demonstrated highly impaired IFN-gamma production by naive CD8(+) T lymphocytes, which were totally rescued,after retroviral transduction with NFAT1-encoding vectors. Moreover, NFAT1-dependent IFN-gamma production by the CD8(+) T cell compartment was crucial to control a Th2-related response in vivo, such as allergic inflammation. Consistently, CD8 alpha- as well as IFN-gamma-deficient mice did not mount a Th1 immune response and also developed in vivo allergic inflammation. Our results clearly indicate that IFN-gamma production by CD8(+) T cells is dependent of NFAT1 transcription factor and maybe an essential regulator of Th immune responses in vivo.
+C1 Inst Nacl Canc, Div Biol Celular, BR-20231050 Rio De Janeiro, Brazil.
+   Oswaldo Cruz Fdn, Dept Physiol & Pharmacodynam, Lab Immunopharmacol, Rio De Janeiro, Brazil.
+RP Viola, JPB (corresponding author), Inst Nacl Canc, Div Biol Celular, Rua Andre Cavalcanti 37, BR-20231050 Rio De Janeiro, Brazil.
+EM jpviola@inca.gov.br
+RI Teixeira, Leonardo Karam/S-8773-2016; Viola, Joao/AAP-4125-2020; Robbs,
+   Bruno/H-5553-2013
+OI Teixeira, Leonardo Karam/0000-0001-6117-423X; Viola,
+   Joao/0000-0002-0698-3146; Bozza, Patricia/0000-0001-8349-9529; Fonseca,
+   Bruna de Paula/0000-0002-8795-2578; Robbs, Bruno/0000-0002-3972-5530
+CR ABBAS AK, 1996, NATURE, V383, P78
+   Afkarian M, 2002, NAT IMMUNOL, V3, P549, DOI 10.1038/ni794
+   Avni O, 2002, NAT IMMUNOL, V3, P643, DOI 10.1038/ni808
+   Avots A, 1999, IMMUNITY, V10, P515, DOI 10.1016/S1074-7613(00)80051-5
+   Boehm U, 1997, ANNU REV IMMUNOL, V15, P749, DOI 10.1146/annurev.immunol.15.1.749
+   Bradley LM, 1996, J IMMUNOL, V157, P1350
+   CLIPSTONE NA, 1992, NATURE, V357, P695, DOI 10.1038/357695a0
+   Cohn L, 1999, J EXP MED, V190, P1309, DOI 10.1084/jem.190.9.1309
+   Coyle AJ, 1996, J IMMUNOL, V156, P2680
+   Das G, 2001, J IMMUNOL, V167, P2004, DOI 10.4049/jimmunol.167.4.2004
+   Diehl S, 2004, J IMMUNOL, V172, P3597, DOI 10.4049/jimmunol.172.6.3597
+   Dow SW, 1999, HUM GENE THER, V10, P1905, DOI 10.1089/10430349950017266
+   Elser B, 2002, IMMUNITY, V17, P703, DOI 10.1016/S1074-7613(02)00471-5
+   Finotto S, 2002, SCIENCE, V295, P336, DOI 10.1126/science.1065544
+   Fulkerson PC, 2004, P NATL ACAD SCI USA, V101, P1987, DOI 10.1073/pnas.0308544100
+   Garcia-Rodriguez C, 1998, J EXP MED, V187, P2031, DOI 10.1084/jem.187.12.2031
+   Hamelmann E, 1996, J EXP MED, V183, P1719, DOI 10.1084/jem.183.4.1719
+   Hansen G, 1999, J CLIN INVEST, V103, P175, DOI 10.1172/JCI5155
+   Hodge MR, 1996, IMMUNITY, V4, P397, DOI 10.1016/S1074-7613(00)80253-8
+   IWAMOTO I, 1993, J EXP MED, V177, P573, DOI 10.1084/jem.177.2.573
+   JAIN J, 1992, NATURE, V356, P801, DOI 10.1038/356801a0
+   Kiani A, 1997, IMMUNITY, V7, P849, DOI 10.1016/S1074-7613(00)80403-3
+   Kiani A, 2001, BLOOD, V98, P1480, DOI 10.1182/blood.V98.5.1480
+   Leonard C, 1997, AM J RESP CELL MOL, V17, P368, DOI 10.1165/ajrcmb.17.3.2797
+   Lewis RS, 2001, ANNU REV IMMUNOL, V19, P497, DOI 10.1146/annurev.immunol.19.1.497
+   Lighvani AA, 2001, P NATL ACAD SCI USA, V98, P15137, DOI 10.1073/pnas.261570598
+   LIU J, 1991, CELL, V66, P807, DOI 10.1016/0092-8674(91)90124-H
+   Loh C, 1996, J BIOL CHEM, V271, P10884, DOI 10.1074/jbc.271.18.10884
+   Luttmann W, 2000, SCAND J IMMUNOL, V51, P54
+   Ma XJ, 1996, J EXP MED, V183, P147, DOI 10.1084/jem.183.1.147
+   Maldonado-Lopez R, 1999, J EXP MED, V189, P587, DOI 10.1084/jem.189.3.587
+   Maldonado-Lopez R, 2001, J IMMUNOL, V167, P4345, DOI 10.4049/jimmunol.167.8.4345
+   Martin-Fontecha A, 2004, NAT IMMUNOL, V5, P1260, DOI 10.1038/ni1138
+   McMillin DW, 2005, BIOCHEM BIOPH RES CO, V330, P768, DOI 10.1016/j.bbrc.2005.03.035
+   Miyahara N, 2004, J IMMUNOL, V172, P2549, DOI 10.4049/jimmunol.172.4.2549
+   Mullen AC, 2001, SCIENCE, V292, P1907, DOI 10.1126/science.1059835
+   Murphy KM, 2000, ANNU REV IMMUNOL, V18, P451, DOI 10.1146/annurev.immunol.18.1.451
+   Nurse B, 1997, J ALLERGY CLIN IMMUN, V100, P662, DOI 10.1016/S0091-6749(97)70171-4
+   Pearce EL, 2003, SCIENCE, V302, P1041, DOI 10.1126/science.1090148
+   Rao A, 1997, ANNU REV IMMUNOL, V15, P707, DOI 10.1146/annurev.immunol.15.1.707
+   Renzi PM, 1999, AM J RESP CRIT CARE, V159, P1417, DOI 10.1164/ajrccm.159.5.9805080
+   SEDER RA, 1994, ANNU REV IMMUNOL, V12, P635, DOI 10.1146/annurev.iy.12.040194.003223
+   SEDER RA, 1993, P NATL ACAD SCI USA, V90, P10188, DOI 10.1073/pnas.90.21.10188
+   SHAW KTY, 1995, P NATL ACAD SCI USA, V92, P11205, DOI 10.1073/pnas.92.24.11205
+   Sica A, 1997, J BIOL CHEM, V272, P30412, DOI 10.1074/jbc.272.48.30412
+   Suzuki M, 2002, J ALLERGY CLIN IMMUN, V109, P803, DOI 10.1067/mai.2002.123233
+   Suzuki M, 1999, J IMMUNOL, V163, P5574
+   Sweetser MT, 1998, J BIOL CHEM, V273, P34775, DOI 10.1074/jbc.273.52.34775
+   Szabo SJ, 2002, SCIENCE, V295, P338, DOI 10.1126/science.1065543
+   Szabo SJ, 2003, ANNU REV IMMUNOL, V21, P713, DOI 10.1146/annurev.immunol.21.120601.140942
+   Uzonna JE, 2004, J EXP MED, V199, P1559, DOI 10.1084/jem.20040172
+   Viola JPB, 1998, BLOOD, V91, P2223, DOI 10.1182/blood.V91.7.2223.2223_2223_2230
+   Wills-Karp M, 1999, ANNU REV IMMUNOL, V17, P255, DOI 10.1146/annurev.immunol.17.1.255
+   Xanthoudakis S, 1996, SCIENCE, V272, P892, DOI 10.1126/science.272.5263.892
+   Zhang YK, 2001, J EXP MED, V194, P165, DOI 10.1084/jem.194.2.165
+NR 55
+TC 56
+Z9 58
+U1 0
+U2 4
+PU AMER ASSOC IMMUNOLOGISTS
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814 USA
+SN 0022-1767
+EI 1550-6606
+J9 J IMMUNOL
+JI J. Immunol.
+PD NOV 1
+PY 2005
+VL 175
+IS 9
+BP 5931
+EP 5939
+DI 10.4049/jimmunol.175.9.5931
+PG 9
+WC Immunology
+SC Immunology
+GA 977EW
+UT WOS:000232786300048
+PM 16237086
+OA Other Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Viola, JPB
+   Carvalho, LDS
+   Fonseca, BPF
+   Teixeira, LK
+AF Viola, JPB
+   Carvalho, LDS
+   Fonseca, BPF
+   Teixeira, LK
+TI NFAT transcription factors: from cell cycle to tumor development
+SO BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 11th Brazilian Congress of Cellular Biology
+CY JUL 15-18, 2004
+CL Campinas, BRAZIL
+DE NFAT; cell cycle; cancer; cell differentiation; gene expression
+ID ACTIVATED T-CELLS; SWISS 3T3 FIBROBLASTS; NUCLEAR FACTOR; CYTOKINE
+   GENES; CYCLOSPORINE-A; GROWTH-FACTOR; MICE LACKING; TH2 CELLS;
+   EXPRESSION; CALCINEURIN
+AB The nuclear factor of activated T cells (NFAT) family of transcription factors has been primarily identified in immune cells; however, these proteins have been recently found to be functionally active in several other non-immune cell types. NFAT proteins are activated upon different stimuli that lead to increased intracellular calcium levels. Regardless of their widely known cytokine gene expression properties, NFATs have been shown to regulate other genes related to cell cycle progression, cell differentiation and apoptosis, revealing a broader role for these proteins in normal cell physiology. Several reports have addressed the participation of NFATs in many aspects of malignant cell transformation and tumorigenic processes. In this review, we will discuss the involvement of the different NFAT family members in the regulation of cell cycling, differentiation and tumor formation, and also its implications on oncogenesis. Better understanding the mechanisms by which NFATs regulate cell cycle and tumor-related events should be relevant for the development of rational anti-cancer therapies.
+C1 Inst Nacl Canc, INCA, Div Biol Celular, BR-20231050 Rio De Janeiro, Brazil.
+RP Viola, JPB (corresponding author), Inst Nacl Canc, INCA, Div Biol Celular, Rua Andre Cavalcanti 37,5 Andar, BR-20231050 Rio De Janeiro, Brazil.
+EM jpviola@inca.gov.br
+RI Teixeira, Leonardo Karam/S-8773-2016; Viola, Joao/AAP-4125-2020
+OI Teixeira, Leonardo Karam/0000-0001-6117-423X; Viola,
+   Joao/0000-0002-0698-3146; Fonseca, Bruna de Paula/0000-0002-8795-2578
+CR Abbas AK, 1996, NATURE, V383, P787, DOI 10.1038/383787a0
+   ANRAKU Y, 1991, BIOCHIM BIOPHYS ACTA, V1093, P169, DOI 10.1016/0167-4889(91)90119-I
+   Avni O, 2002, NAT IMMUNOL, V3, P643, DOI 10.1038/ni808
+   Baksh S, 2000, ONCOGENE, V19, P2820, DOI 10.1038/sj.onc.1203585
+   Baksh S, 2002, MOL CELL, V10, P1071, DOI 10.1016/S1097-2765(02)00701-3
+   Ben-Sasson SZ, 2001, J IMMUNOL, V166, P112, DOI 10.4049/jimmunol.166.1.112
+   Bird JJ, 1998, IMMUNITY, V9, P229, DOI 10.1016/S1074-7613(00)80605-6
+   Caetano MS, 2002, FASEB J, V16, P1940, DOI 10.1096/fj.02-0282fje
+   Chuvpilo S, 2002, IMMUNITY, V16, P881, DOI 10.1016/S1074-7613(02)00329-1
+   Constant SL, 1997, ANNU REV IMMUNOL, V15, P297, DOI 10.1146/annurev.immunol.15.1.297
+   Crabtree GR, 2002, CELL, V109, pS67, DOI 10.1016/S0092-8674(02)00699-2
+   Graef IA, 2003, CELL, V113, P657, DOI 10.1016/S0092-8674(03)00390-8
+   Grogan JL, 2001, IMMUNITY, V14, P205, DOI 10.1016/S1074-7613(01)00103-0
+   Hernandez GL, 2001, J EXP MED, V193, P607, DOI 10.1084/jem.193.5.607
+   HO SN, 1995, J BIOL CHEM, V270, P19898, DOI 10.1074/jbc.270.34.19898
+   Hodge MR, 1996, IMMUNITY, V4, P397, DOI 10.1016/S1074-7613(00)80253-8
+   Horsley V, 2002, J CELL BIOL, V156, P771, DOI 10.1083/jcb.200111073
+   Horsley V, 2003, J CELL BIOL, V161, P111, DOI 10.1083/jcb.200208085
+   Iniguez MA, 2000, J BIOL CHEM, V275, P23627, DOI 10.1074/jbc.M001381200
+   JAIN JN, 1995, J BIOL CHEM, V270, P4138, DOI 10.1074/jbc.270.8.4138
+   Jauliac S, 2002, NAT CELL BIOL, V4, P540, DOI 10.1038/ncb816
+   JIANG H, 1993, CARCINOGENESIS, V14, P67, DOI 10.1093/carcin/14.1.67
+   Kaplan MH, 1996, IMMUNITY, V4, P313, DOI 10.1016/S1074-7613(00)80439-2
+   Kaplan MH, 1996, NATURE, V382, P174, DOI 10.1038/382174a0
+   Kiani A, 1997, IMMUNITY, V7, P849, DOI 10.1016/S1074-7613(00)80403-3
+   Koepp DM, 1999, CELL, V97, P431, DOI 10.1016/S0092-8674(00)80753-9
+   Lipskaia L, 2004, BIOL CELL, V96, P55, DOI 10.1016/j.biolcel.2003.11.001
+   Loh C, 1996, J BIOL CHEM, V271, P10884, DOI 10.1074/jbc.271.18.10884
+   Luo C, 1996, MOL CELL BIOL, V16, P3955
+   Macian F, 2001, ONCOGENE, V20, P2476, DOI 10.1038/sj.onc.1204386
+   MASUDA ES, 1995, MOL CELL BIOL, V15, P2697
+   MCCAFFREY PG, 1993, SCIENCE, V262, P750, DOI 10.1126/science.8235597
+   Mosieniak G, 1997, J NEUROCHEM, V68, P1142
+   Mullen AC, 2001, CURR BIOL, V11, P1695, DOI 10.1016/S0960-9822(01)00533-4
+   Murray AW, 2004, CELL, V116, P221, DOI 10.1016/S0092-8674(03)01080-8
+   Musaro A, 1999, NATURE, V400, P581
+   Neal JW, 2003, J BIOL CHEM, V278, P17246, DOI 10.1074/jbc.M300528200
+   NORTHROP JP, 1994, NATURE, V369, P497, DOI 10.1038/369497a0
+   Ohtani K, 1995, P NATL ACAD SCI USA, V92, P12146, DOI 10.1073/pnas.92.26.12146
+   Oukka M, 1998, IMMUNITY, V9, P295, DOI 10.1016/S1074-7613(00)80612-3
+   Ranger AM, 2000, J EXP MED, V191, P9, DOI 10.1084/jem.191.1.9
+   Ranger AM, 1998, IMMUNITY, V8, P125, DOI 10.1016/S1074-7613(00)80465-3
+   Rao A, 1997, ANNU REV IMMUNOL, V15, P707, DOI 10.1146/annurev.immunol.15.1.707
+   Ren SJ, 2004, CELL, V117, P239, DOI 10.1016/S0092-8674(04)00300-9
+   Rengarajan J, 2000, IMMUNITY, V12, P293, DOI 10.1016/S1074-7613(00)80182-X
+   Richter A, 1999, J EXP MED, V190, P1439, DOI 10.1084/jem.190.10.1439
+   RINCON M, 1997, CURR BIOL, V7, P729
+   Santini MP, 2001, P NATL ACAD SCI USA, V98, P9575, DOI 10.1073/pnas.161299698
+   SHAW JP, 1988, SCIENCE, V241, P202, DOI 10.1126/science.3260404
+   SHAW KTY, 1995, P NATL ACAD SCI USA, V92, P11205, DOI 10.1073/pnas.92.24.11205
+   Sherr CJ, 1999, GENE DEV, V13, P1501, DOI 10.1101/gad.13.12.1501
+   Szabo SJ, 2000, CELL, V100, P655, DOI 10.1016/S0092-8674(00)80702-3
+   TERADA N, 1991, J IMMUNOL, V147, P698
+   Tomono M, 1998, ARCH BIOCHEM BIOPHYS, V353, P374, DOI 10.1006/abbi.1998.0667
+   Tomono M, 1996, BIOCHEM J, V317, P675, DOI 10.1042/bj3170675
+   Viola JPB, 1998, BLOOD, V91, P2223, DOI 10.1182/blood.V91.7.2223.2223_2223_2230
+   Xanthoudakis S, 1996, SCIENCE, V272, P892, DOI 10.1126/science.272.5263.892
+   Yoshida H, 1998, IMMUNITY, V8, P115, DOI 10.1016/S1074-7613(00)80464-1
+   Zaichuk TA, 2004, J EXP MED, V199, P1513, DOI 10.1084/jem.20040474
+   Zheng WP, 1997, CELL, V89, P587, DOI 10.1016/S0092-8674(00)80240-8
+NR 60
+TC 60
+Z9 65
+U1 0
+U2 3
+PU ASSOC BRAS DIVULG CIENTIFICA
+PI SAO PAULO
+PA FACULDADE MEDICINA, SALA 21, 14049 RIBEIRAO PRETO, SAO PAULO, BRAZIL
+SN 0100-879X
+J9 BRAZ J MED BIOL RES
+JI Brazilian J. Med. Biol. Res.
+PD MAR
+PY 2005
+VL 38
+IS 3
+BP 335
+EP 344
+DI 10.1590/S0100-879X2005000300003
+PG 10
+WC Biology; Medicine, Research & Experimental
+SC Life Sciences & Biomedicine - Other Topics; Research & Experimental
+   Medicine
+GA 909UV
+UT WOS:000227887100003
+PM 15761612
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+PT J
+AU Teixeira, LK
+   Fonseca, BPF
+   Barboza, BA
+   Viola, JPB
+AF Teixeira, LK
+   Fonseca, BPF
+   Barboza, BA
+   Viola, JPB
+TI The role of interferon-gamma on immune and allergic responses
+SO MEMORIAS DO INSTITUTO OSWALDO CRUZ
+LA English
+DT Article; Proceedings Paper
+CT International Symposium on Nitric Oxide, Cytokines and Inflammation
+CY JUN 06-09, 2004
+CL Rio de Janeiro, BRAZIL
+SP Oswaldo Cruz Fdn, Univ Calgary, Univ Calif Los Angeles, Brazilian Soc Pharmacol & Expt Therapeut, Canadian Assoc Gastroenterol
+DE interferon-gamma; lymphocytes; immune system; allergy; allergic
+   inflammation
+ID INDUCED AIRWAY HYPERRESPONSIVENESS; CD4(+) T-CELLS; IFN-GAMMA;
+   TRANSCRIPTION FACTOR; EOSINOPHIL RECRUITMENT; CYTOKINE PRODUCTION;
+   GENE-EXPRESSION; MICE LACKING; T(H)1 CELLS; MAST-CELLS
+AB Allergic diseases have been closely related to Th2 immune responses, which are characterized by high levels of interleukin (IL) IL-4, IL-5, IL-9 and IL-13. These cytokines orchestrate the recruitment and activation of different effector cells, such as eosinophils and mast cells. These cells along with Th2 cytokines are key players on the development of chronic allergic inflammatory disorders, usually characterized by airway hyperresponsiveness, reversible airway obstruction, and airway inflammation. Accumulating evidences have shown that altering cytokine-producing profile of Th2 cells by inducing Th1 responses may be protective against Th2-related diseases such as asthma and allergy. Interferon-gamma (IFN-gamma), the principal Th1 effector cytokine, has shown to be crucial for the resolution of allergic-related immunopathologies. In fact, reduced production of this cytokine has been correlated with severe asthma. In this review, we will discuss the role of IFN-gamma during the generation of immune responses and its influence on allergic inflammation models, emphasizing its biologic properties during the different aspects of allergic responses.
+C1 Inst Nacl Canc, Div Biol Celular, BR-20231050 Rio De Janeiro, Brazil.
+RP Viola, JPB (corresponding author), Inst Nacl Canc, Div Biol Celular, Rua Andre Cavalcanti 37, BR-20231050 Rio De Janeiro, Brazil.
+EM jpviola@inca.gov.br
+RI Viola, Joao/AAP-4125-2020; Teixeira, Leonardo Karam/S-8773-2016
+OI Viola, Joao/0000-0002-0698-3146; Teixeira, Leonardo
+   Karam/0000-0001-6117-423X; Fonseca, Bruna de Paula/0000-0002-8795-2578
+CR Abbas AK, 1996, NATURE, V383, P787, DOI 10.1038/383787a0
+   Afkarian M, 2002, NAT IMMUNOL, V3, P549, DOI 10.1038/ni794
+   Bach EA, 1997, ANNU REV IMMUNOL, V15, P563, DOI 10.1146/annurev.immunol.15.1.563
+   Bocek P, 2004, J EXP MED, V199, P1619, DOI 10.1084/jem.20032014
+   Boehm U, 1997, ANNU REV IMMUNOL, V15, P749, DOI 10.1146/annurev.immunol.15.1.749
+   BOGUNIEWICZ M, 1995, J ALLERGY CLIN IMMUN, V95, P133, DOI 10.1016/S0091-6749(95)70162-1
+   Bradley LM, 1996, J IMMUNOL, V157, P1350
+   Cohn L, 1999, J EXP MED, V190, P1309, DOI 10.1084/jem.190.9.1309
+   Constant SL, 1997, ANNU REV IMMUNOL, V15, P297, DOI 10.1146/annurev.immunol.15.1.297
+   Coyle AJ, 1996, J IMMUNOL, V156, P2680
+   DARNELL JE, 1994, SCIENCE, V264, P1415, DOI 10.1126/science.8197455
+   Desmedt M, 1998, J IMMUNOL, V160, P5300
+   Dow SW, 1999, HUM GENE THER, V10, P1905, DOI 10.1089/10430349950017266
+   Eastmond NC, 1997, J IMMUNOL, V159, P1444
+   Elser B, 2002, IMMUNITY, V17, P703, DOI 10.1016/S1074-7613(02)00471-5
+   FARRAR MA, 1993, ANNU REV IMMUNOL, V11, P571, DOI 10.1146/annurev.iy.11.040193.003035
+   Finotto S, 2002, SCIENCE, V295, P336, DOI 10.1126/science.1065544
+   FRANDJI P, 1995, CELL IMMUNOL, V163, P37, DOI 10.1006/cimm.1995.1096
+   Frucht DM, 2001, TRENDS IMMUNOL, V22, P556, DOI 10.1016/S1471-4906(01)02005-1
+   Fulkerson PC, 2004, P NATL ACAD SCI USA, V101, P1987, DOI 10.1073/pnas.0308544100
+   GAJEWSKI TF, 1988, J IMMUNOL, V140, P4245
+   Gil MP, 2001, P NATL ACAD SCI USA, V98, P6680, DOI 10.1073/pnas.111163898
+   GREENLUND AC, 1995, IMMUNITY, V2, P677, DOI 10.1016/1074-7613(95)90012-8
+   HAMID Q, 1991, J CLIN INVEST, V87, P1541, DOI 10.1172/JCI115166
+   Hansen G, 1999, J CLIN INVEST, V103, P175, DOI 10.1172/JCI5155
+   HEIM MH, 1995, SCIENCE, V267, P1347, DOI 10.1126/science.7871432
+   HOGMAN M, 1993, AM REV RESPIR DIS, V148, P1474
+   Huang H, 1998, J EXP MED, V187, P1305, DOI 10.1084/jem.187.8.1305
+   IGARASHI K, 1994, J BIOL CHEM, V269, P14333
+   IWAMOTO I, 1993, J EXP MED, V177, P573, DOI 10.1084/jem.177.2.573
+   Kodama T, 2003, CLIN EXP IMMUNOL, V131, P199, DOI 10.1046/j.1365-2249.2003.02073.x
+   Lametschwandtner G, 2004, J ALLERGY CLIN IMMUN, V113, P987, DOI 10.1016/j.jaci.2004.02.004
+   Lamkhioued B, 2003, J IMMUNOL, V170, P537, DOI 10.4049/jimmunol.170.1.537
+   Leonard C, 1997, AM J RESP CELL MOL, V17, P368, DOI 10.1165/ajrcmb.17.3.2797
+   Lighvani AA, 2001, P NATL ACAD SCI USA, V98, P15137, DOI 10.1073/pnas.261570598
+   Luttmann W, 2000, SCAND J IMMUNOL, V51, P54
+   Mullen AC, 2002, NAT IMMUNOL, V3, P652, DOI 10.1038/ni807
+   Mullen AC, 2001, SCIENCE, V292, P1907, DOI 10.1126/science.1059835
+   Murphy KM, 2000, ANNU REV IMMUNOL, V18, P451, DOI 10.1146/annurev.immunol.18.1.451
+   NAKAYAMA T, 1999, RRD PHOTOCHEM PHOTOB, V3, P103
+   Nguyen H, 2001, J BIOL CHEM, V276, P33361, DOI 10.1074/jbc.M105070200
+   Nurse B, 1997, J ALLERGY CLIN IMMUN, V100, P662, DOI 10.1016/S0091-6749(97)70171-4
+   Patel HJ, 1999, FASEB J, V13, P1810
+   Pearce EL, 2003, SCIENCE, V302, P1041, DOI 10.1126/science.1090148
+   PERNIS A, 1995, SCIENCE, V269, P245, DOI 10.1126/science.7618088
+   Ramana CV, 2002, TRENDS IMMUNOL, V23, P96, DOI 10.1016/S1471-4906(01)02118-4
+   Refaeli Y, 2002, J EXP MED, V196, P999, DOI 10.1084/JEM.20020666
+   Renauld JC, 2001, J CLIN PATHOL, V54, P577, DOI 10.1136/jcp.54.8.577
+   Renzi PM, 1999, AM J RESP CRIT CARE, V159, P1417, DOI 10.1164/ajrccm.159.5.9805080
+   Sehra S, 2003, J IMMUNOL, V171, P2080, DOI 10.4049/jimmunol.171.4.2080
+   Shi ZOQ, 2002, J IMMUNOL, V168, P4764
+   Shirakawa T, 1997, SCIENCE, V275, P77, DOI 10.1126/science.275.5296.77
+   Sica A, 1997, J BIOL CHEM, V272, P30412, DOI 10.1074/jbc.272.48.30412
+   Smart JM, 2002, J ALLERGY CLIN IMMUN, V110, P450, DOI 10.1067/mai.2002.127283
+   Snijders A, 1998, INT IMMUNOL, V10, P1593, DOI 10.1093/intimm/10.11.1593
+   Suzuki M, 2002, J ALLERGY CLIN IMMUN, V109, P803, DOI 10.1067/mai.2002.123233
+   Sweetser MT, 1998, J BIOL CHEM, V273, P34775, DOI 10.1074/jbc.273.52.34775
+   Szabo SJ, 2000, CELL, V100, P655, DOI 10.1016/S0092-8674(00)80702-3
+   Szabo SJ, 2003, ANNU REV IMMUNOL, V21, P713, DOI 10.1146/annurev.immunol.21.120601.140942
+   Tang CB, 2001, J IMMUNOL, V166, P1471, DOI 10.4049/jimmunol.166.3.1471
+   Tau G, 1999, ALLERGY, V54, P1233, DOI 10.1034/j.1398-9995.1999.00099.x
+   Tesfaigzi Y, 2002, J IMMUNOL, V169, P5919, DOI 10.4049/jimmunol.169.10.5919
+   Wenner CA, 1996, J IMMUNOL, V156, P1442
+   Wills-Karp M, 1999, ANNU REV IMMUNOL, V17, P255, DOI 10.1146/annurev.immunol.17.1.255
+   Zhang DH, 1999, IMMUNITY, V11, P473, DOI 10.1016/S1074-7613(00)80122-3
+   Zheng WP, 1997, CELL, V89, P587, DOI 10.1016/S0092-8674(00)80240-8
+NR 66
+TC 74
+Z9 76
+U1 0
+U2 3
+PU FUNDACO OSWALDO CRUZ
+PI RIO DE JANEIRO, RJ
+PA AV BRASIL 4365, 21045-900 RIO DE JANEIRO, RJ, BRAZIL
+SN 0074-0276
+EI 1678-8060
+J9 MEM I OSWALDO CRUZ
+JI Mem. Inst. Oswaldo Cruz
+PD MAR
+PY 2005
+VL 100
+SU 1
+BP 137
+EP 144
+DI 10.1590/S0074-02762005000900024
+PG 8
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 918RE
+UT WOS:000228564500024
+PM 15962113
+OA DOAJ Gold
+DA 2020-11-10
+ER
+
+EF
