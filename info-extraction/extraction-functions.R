@@ -1,12 +1,14 @@
 extract_author_info = function (filename) {
-  
+
   # Load bibliometric data
-  BD = bibliometrix::convert2df(filenames, dbsource = "isi", format = "plaintext")
+  BD = bibliometrix::convert2df(filename, dbsource = "isi", format = "plaintext")
   
   # Break dataset in the relevant parts (pre-outbreak, zika-related papers)
   BD_PRE = BD %>% filter(PY < 2016)
   BD_POST = BD %>% filter(PY >= 2016)
-  BD_ZIKA = BD %>% inner_join(ZIKA_PAPERS)
+  BD_ZIKA = BD %>% filter(TI %in% ZIKA_PAPERS$TI)
+  
+  if (nrow(BD_ZIKA) == 0) { return (tibble()) }
   
   # For each part of the dataset, extract/calculate all the info
   
@@ -18,6 +20,8 @@ extract_author_info = function (filename) {
     get_info_from_biblio_data(BD_ZIKA) %>%
       add_column(Class = "Zika", .before = 1)
   )
+  
+  browser()
   
   EXTRACTED_INFO = EXTRACTED_INFO %>%
     add_column(Author = filename, .before = 1)
@@ -44,30 +48,73 @@ get_info_from_biblio_data = function (BD) {
   )
 }
 
+get_max_from_df = function (x) {
+  tibble(x) %>% count(x) %>% slice_max(order_by = n, n = 1) %>% pull(1)
+}
+
 get_top_field = function (BD) {
-  
+  x = unlist(str_split(BD$SC, "; "))
+  tibble(
+    Name = "Most Common Journal Area",
+    ShortName = "TopField",
+    Value = get_max_from_df(x)
+  )
 }
 
 get_mesh_categories = function (BD) {
-  
+  tibble(
+    Name = c("MeSH Category Frequency - ",
+             "MeSH Category Frequency - ",
+             "MeSH Category Frequency - ",
+             "MeSH Category Frequency - ",
+             "MeSH Category Frequency - "),
+    
+    ShortName = c("MeSHCat",
+                  "MeSHCat",
+                  "MeSHCat",
+                  "MeSHCat",
+                  "MeSHCat"),
+    
+    Value = c(0,0,0,0,0)
+  )
 }
 
 get_citations = function (BD) {
-  
+  tibble(
+    Name = c("Total Citations", "Citations per Paper"),
+    ShortName = c("Citations", "CitationRate"),
+    Value = c(0,0)
+  )
 }
 
 get_author_number = function (BD) {
-  
+  tibble(
+    Name = "Number of Authors per Paper",
+    ShortName = "AvgAuthorNumber",
+    Value = 0
+  )
 }
 
 get_intl_collabs = function (BD) {
-  
+  tibble(
+    Name = c("Total Papers", "Papers with International Affiliations", "Percentage of Papers with International Affiliations"),
+    ShortName = c("Papers", "PapersINTL", "PercPapersINTL"),
+    Value = c(0,0,0)
+  )
 }
 
 get_academic_age = function (BD) {
-  
+  tibble(
+    Name = "Academic Age - Years Since the First Paper Record",
+    ShortName = "Academic Age",
+    Value = 0
+  )
 }
 
 get_perc_zika = function (BD) {
-  
+  tibble(
+    Name = "Percentage of Zika-related papers",
+    ShortName = "PercZika",
+    Value = 0
+  )
 }
