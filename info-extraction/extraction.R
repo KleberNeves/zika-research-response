@@ -40,4 +40,4 @@ AUTHOR_DATA = do.call(rbind, map(filenames, extract_author_info))
 # Save the whole dataset
 date_stamp = strftime(today(), format = "%d-%m-%Y")
 save(file = paste0(SAVE_FILENAME, " ", date_stamp, ".RData"), AUTHOR_DATA)
-write.table(AUTHOR_DATA, file = paste0(SAVE_FILENAME, " ", date_stamp, ".RData"), sep = ";", dec = ",", row.names = F)
+write.table(AUTHOR_DATA, file = paste0(SAVE_FILENAME, " ", date_stamp, ".csv"), sep = ";", dec = ",", row.names = F)
