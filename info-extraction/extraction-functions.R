@@ -83,7 +83,10 @@ get_citations = function (BD) {
   tibble(
     Name = c("Total Citations", "Citations per Paper"),
     ShortName = c("Citations", "CitationRate"),
-    Value = c(0,0)
+    Value = c(
+      round(sum(as.numeric(BD$Z9), na.rm = T), 2),
+      round(mean(as.numeric(BD$Z9), na.rm = T), 2)
+    )
   )
 }
 
@@ -107,14 +110,15 @@ get_academic_age = function (BD) {
   tibble(
     Name = "Academic Age - Years Since the First Paper Record",
     ShortName = "Academic Age",
-    Value = 0
+    Value = 2021 - min(BD$PY, na.rm = T)
   )
 }
 
 get_perc_zika = function (BD) {
+  zika_number = BD %>% filter(TI %in% ZIKA_PAPERS$TI) %>% nrow()
   tibble(
     Name = "Percentage of Zika-related papers",
     ShortName = "PercZika",
-    Value = 0
+    Value = round(zika_number / nrow(BD), 2)
   )
 }
