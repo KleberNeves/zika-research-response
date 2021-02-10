@@ -1,17 +1,42 @@
 extract_author_info = function (filename) {
-
+  print(basename(filename))
+  # if (basename(filename) == "ALMEIDA FJ.txt") browser()
   # Load bibliometric data
-  BD = bibliometrix::convert2df(filename, dbsource = "isi", format = "plaintext")
+  quiet <- function(x) { 
+    sink(tempfile()) 
+    on.exit(sink()) 
+    invisible(force(x)) 
+  }
+  print("Reading bibliometric records ...")
+  # browser()
+  BD = NULL
+  tryCatch({
+    BD = quiet(bibliometrix::convert2df(filename, dbsource = "isi", format = "plaintext"))
+  }, error = function (e) {
+    print(e)
+  })
   
+  if (is.null(BD)) {
+    return (tibble(Author = basename(tools::file_path_sans_ext(filename)),
+                   Class = "ERROR", Name = "Couldn't load in bibliometrix",
+                   ShortName = NA, Value = NA))
+  }
+
   # Break dataset in the relevant parts (pre-outbreak, zika-related papers)
   BD_PRE = BD %>% filter(PY < 2016)
   BD_POST = BD %>% filter(PY >= 2016)
-  BD_ZIKA = BD %>% filter(TI %in% ZIKA_PAPERS$TI)
+  BD_ZIKA = BD %>% inner_join(ZIKA_PAPERS %>% select(TI, MeshFullTerms), by = "TI")
   
-  if (nrow(BD_ZIKA) == 0) { return (tibble()) }
+  if (nrow(BD_ZIKA) == 0 | nrow(BD_PRE) == 0) {
+    msg = paste0("No records: ZIKA = ", nrow(BD_ZIKA),
+                 ", PRE = ", nrow(BD_PRE),
+                 ", POST = ", nrow(BD_POST))
+    return (tibble(Author = basename(tools::file_path_sans_ext(filename)),
+                   Class = "ERROR", Name = msg, ShortName = NA, Value = NA))
+  }
   
   # For each part of the dataset, extract/calculate all the info
-  
+  print("Extracting and calculating info ...")
   EXTRACTED_INFO = rbind(
     get_info_from_biblio_data(BD_PRE) %>%
       add_column(Class = "Pre-Outbreak", .before = 1),
@@ -21,10 +46,9 @@ extract_author_info = function (filename) {
       add_column(Class = "Zika", .before = 1)
   )
   
-  browser()
-  
   EXTRACTED_INFO = EXTRACTED_INFO %>%
-    add_column(Author = filename, .before = 1)
+    add_column(Author = basename(tools::file_path_sans_ext(filename)),
+               .before = 1)
   
   EXTRACTED_INFO
 }
@@ -61,22 +85,38 @@ get_top_field = function (BD) {
   )
 }
 
+get_zika_cat = function (mesh_term_list) {
+  # This function assumes that there is a MESH_CATS data frame
+  map_chr(mesh_term_list, function (terms) {
+    terms = unlist(str_split(terms, ";"))
+    cats = MESH_CATS %>% filter(Term %in% terms) %>% pull(Category) %>% unique() %>% paste0(collapse = ";")
+  })
+}
+
 get_mesh_categories = function (BD) {
-  tibble(
-    Name = c("MeSH Category Frequency - ",
-             "MeSH Category Frequency - ",
-             "MeSH Category Frequency - ",
-             "MeSH Category Frequency - ",
-             "MeSH Category Frequency - "),
+  if (!("MeshFullTerms" %in% colnames(BD))) {
+    return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
+  }
+  
+  BD = BD %>%
+    mutate(ZikaCats = get_zika_cat(MeshFullTerms))
+  
+  if (nrow(BD) == 0) {
+    return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
+  }
+  
+  lvls = unique(MESH_CATS$Category)
+  lvls = lvls[!(lvls %in% c("Type of Study", "")) & !is.na(lvls)]
+  
+  zika_cats = unlist(str_split(BD$ZikaCats, ";"))
+  BD = tibble(ZikaCats = factor(zika_cats, levels = lvls)) %>%
+    filter(!is.na(ZikaCats)) %>%
+    count(ZikaCats, .drop = F) %>%
+    rename(Name = ZikaCats, Value = n) %>%
+    mutate(ShortName = paste("MeSHCat -", Name),
+           Name = paste("Frequency of MeSH Category -", Name))
     
-    ShortName = c("MeSHCat",
-                  "MeSHCat",
-                  "MeSHCat",
-                  "MeSHCat",
-                  "MeSHCat"),
-    
-    Value = c(0,0,0,0,0)
-  )
+  BD
 }
 
 get_citations = function (BD) {
