@@ -91,18 +91,28 @@ get_citations = function (BD) {
 }
 
 get_author_number = function (BD) {
+  # Makes use of the separation of authors by semicolons in the AU field
   tibble(
     Name = "Number of Authors per Paper",
     ShortName = "AvgAuthorNumber",
-    Value = 0
+    Value = round(mean(str_count(BD$AU, ";") + 1, na.rm = T), 2)
   )
 }
 
 get_intl_collabs = function (BD) {
+  CO_LIST = extract_author_country_order(BD) %>%
+    select(Title, Country) %>%
+    filter(!is.na(Country))
+  n_total = length(unique(CO_LIST$Title))
+  
+  # Remove occurrences of Brazil - whatever papers remain have INTL affiliations
+  CO_LIST = CO_LIST %>% filter(!str_detect(Country, "BRAZIL"))
+  n_intl = length(unique(CO_LIST$Title))
+  
   tibble(
     Name = c("Total Papers", "Papers with International Affiliations", "Percentage of Papers with International Affiliations"),
     ShortName = c("Papers", "PapersINTL", "PercPapersINTL"),
-    Value = c(0,0,0)
+    Value = c(n_total, n_intl, round(n_intl / n_total, 2))
   )
 }
 
