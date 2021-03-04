@@ -1,5 +1,6 @@
 extract_author_info = function (filename) {
   print(basename(filename))
+  author_filename = basename(tools::file_path_sans_ext(filename))
   # if (basename(filename) == "ALMEIDA FJ.txt") browser()
   # Load bibliometric data
   quiet <- function(x) { 
@@ -13,11 +14,11 @@ extract_author_info = function (filename) {
   tryCatch({
     BD = quiet(bibliometrix::convert2df(filename, dbsource = "isi", format = "plaintext"))
   }, error = function (e) {
-    print(e)
+    print(paste0("Error in bibliometrix::convert2df: ", e))
   })
   
   if (is.null(BD)) {
-    return (tibble(Author = basename(tools::file_path_sans_ext(filename)),
+    return (tibble(Author = author_filename,
                    Class = "ERROR", Name = "Couldn't load in bibliometrix",
                    ShortName = NA, Value = NA))
   }
@@ -31,32 +32,34 @@ extract_author_info = function (filename) {
     msg = paste0("No records: ZIKA = ", nrow(BD_ZIKA),
                  ", PRE = ", nrow(BD_PRE),
                  ", POST = ", nrow(BD_POST))
-    return (tibble(Author = basename(tools::file_path_sans_ext(filename)),
+    return (tibble(Author = author_filename,
                    Class = "ERROR", Name = msg, ShortName = NA, Value = NA))
   }
   
   # For each part of the dataset, extract/calculate all the info
   print("Extracting and calculating info ...")
   EXTRACTED_INFO = rbind(
-    get_info_from_biblio_data(BD_PRE) %>%
+    get_info_from_biblio_data(BD_PRE, author_filename) %>%
       add_column(Class = "Pre-Outbreak", .before = 1),
-    get_info_from_biblio_data(BD_POST) %>%
+    get_info_from_biblio_data(BD_POST, author_filename) %>%
       add_column(Class = "Post-Outbreak", .before = 1),
-    get_info_from_biblio_data(BD_ZIKA) %>%
+    get_info_from_biblio_data(BD_ZIKA, author_filename) %>%
       add_column(Class = "Zika", .before = 1)
   )
   
   EXTRACTED_INFO = EXTRACTED_INFO %>%
-    add_column(Author = basename(tools::file_path_sans_ext(filename)),
+    add_column(Author = author_filename,
                .before = 1)
   
   EXTRACTED_INFO
 }
 
-get_info_from_biblio_data = function (BD) {
+get_info_from_biblio_data = function (BD, author_filename) {
   rbind(
     # Identify the primary field of the author - most common journal area
     get_top_field(BD),
+    # Most common institutional affiliation for the author
+    get_affiliation(BD, author_filename),
     # Calculate the percentage of papers in each MeSH category
     get_mesh_categories(BD),
     # Number and rate of citations
@@ -85,6 +88,60 @@ get_top_field = function (BD) {
   )
 }
 
+get_affiliation = function (BD, author_filename) {
+  author_affiliations = tibble()
+  tryCatch({
+    author_affiliations = extract_author_affiliations(BD) %>%
+      filter(str_detect(Country, "BRAZIL")) %>%
+      select(Author, Institution)
+  }, error = function (e) {
+      print(paste0("Error in extract_author_affiliations: ", e))
+  })
+  
+  if (nrow(author_affiliations) == 0) {
+    return (tibble(
+      Name = "Most common author affiliation",
+      ShortName = "Affiliation",
+      Value = NA
+    ))
+  }
+    
+  author_matches = find_best_author_match(unique(author_affiliations$Author), author_filename) %>%
+    filter(is_match) %>% pull(author_target)
+  
+  institutions = author_affiliations %>%
+    filter(Author %in% author_matches) %>%
+    group_by(Institution) %>%
+    count() %>%
+    slice_max(order_by = n, n = 1) %>%
+    pull(Institution) %>%
+    str_trim() %>%
+    unique()
+  
+  if (length(institutions) == 0) {
+    institutions = NA
+  } else {
+    if (exists("AFFIL_DATA")) {
+      correct_name = AFFIL_DATA %>% filter(Name %in% institutions)
+      if (nrow(correct_name) == length(institutions)) {
+        institutions = unique(correct_name$Harmonized)
+        correct_name = correct_name %>%
+          select(-Name) %>% distinct(Harmonized, .keep_all = T)
+        states = correct_name$State
+        region = GEO_DATA[which(states == GEO_DATA$State),] %>% pull(Region)
+        
+        institutions = paste(institutions, states, region, sep = ";")
+      }
+    }
+  }
+  
+  tibble(
+    Name = "Most common author affiliation",
+    ShortName = "Affiliation",
+    Value = institutions
+  )
+}
+
 get_zika_cat = function (mesh_term_list) {
   # This function assumes that there is a MESH_CATS data frame
   map_chr(mesh_term_list, function (terms) {
@@ -108,15 +165,25 @@ get_mesh_categories = function (BD) {
   lvls = unique(MESH_CATS$Category)
   lvls = lvls[!(lvls %in% c("Type of Study", "")) & !is.na(lvls)]
   
-  zika_cats = unlist(str_split(BD$ZikaCats, ";"))
-  BD = tibble(ZikaCats = factor(zika_cats, levels = lvls)) %>%
+  zika_cats = factor(unlist(str_split(BD$ZikaCats, ";")), levels = lvls)
+  ZC = tibble(ZikaCats = factor(zika_cats, levels = lvls)) %>%
     filter(!is.na(ZikaCats)) %>%
     count(ZikaCats, .drop = F) %>%
     rename(Name = ZikaCats, Value = n) %>%
-    mutate(ShortName = paste("MeSHCat -", Name),
-           Name = paste("Frequency of MeSH Category -", Name))
+    mutate(Name = paste("Frequency of MeSH Category -", Name),
+           ShortName = paste("MeSHCat -", Name)) #%>%
+    # select(Name, ShortName, Value)
+  
+  CIT = map_dfr(levels(zika_cats), function (z) {
+    citation_count = BD %>%
+      filter(str_detect(ZikaCats, z)) %>% pull(TC) %>% sum(na.rm = T)
     
-  BD
+    tibble(Name = paste("Citations from papers in MeSH Category -", z),
+           ShortName = paste("MeSHCatCites -", z),
+           Value = citation_count)
+  })
+    
+  rbind(ZC, CIT)
 }
 
 get_citations = function (BD) {
@@ -171,4 +238,22 @@ get_perc_zika = function (BD) {
     ShortName = "PercZika",
     Value = round(zika_number / nrow(BD), 2)
   )
+}
+
+find_best_author_match = function (target, query) {
+  queries = str_split(query, " ") %>% unlist()
+  sizes = map_dbl(queries, str_length)
+  queries = queries[sizes >= 3]
+  if (max(sizes) < 3) queries = query %>% str_to_upper()  
+  
+  queries = queries %>% str_to_upper()
+  target = target %>% str_to_upper()
+  
+  found = map_dfr(target, function (t) {
+    map_dfr(queries, function (q) {
+      tibble(author_target = t, author_query = q, is_match = str_detect(t, q))
+    })
+  })
+  
+  found
 }
