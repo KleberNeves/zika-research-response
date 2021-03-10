@@ -10,7 +10,7 @@ library(tools)
 library(cowplot)
 library(scales)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-authors-general/extracted_author_data-general 10-02-2021.RData"
+EXTRACTED_DATA_PATH = "../../data/extracted-authors-general/extracted_author_data-general 10-03-2021.RData"
 
 # Load data
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
@@ -189,9 +189,9 @@ p
 ### Frequency of MeSH Categories
 
 ```{r}
-DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("MeSH"), Class == "Zika") %>%
+DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Frequency of MeSH"), Class == "Zika") %>%
   mutate(Value = as.numeric(Value),
-         ShortName = ShortName %>% str_remove("MeSHCat - "))
+         ShortName = ShortName %>% str_remove("MeSHCat - Frequency of MeSH Category - "))
 
 plot_mesh_cats = function (DF, title = "") {
   DF = DF %>% group_by(ShortName) %>% summarise(Value = sum(Value, na.rm = T))
@@ -210,9 +210,74 @@ p = plot_mesh_cats(DF, title = "All Fields")
 p
 
 ```
+### Citations by MeSH category
 
+```{r}
+DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Cites"), Class == "Zika") %>%
+  mutate(Value = as.numeric(Value),
+         ShortName = ShortName %>% str_remove("MeSHCatCites - "))
 
-## Which authors published in which categories?
+plot_mesh_cats = function (DF, title = "") {
+  DF = DF %>% group_by(ShortName) %>% summarise(Value = sum(Value, na.rm = T))
+  ggplot(DF) +
+    aes(x = ShortName, y = Value, fill = ShortName) +
+    geom_col() +
+    labs(x = "", y = "# of Citations", title = title) +
+    scale_y_continuous(breaks = pretty_breaks(n = 5)) +
+    coord_flip() +
+    ggtheme +
+    theme(axis.text.y = element_text(size = 10),
+          legend.position = "none")
+}
+
+p = plot_mesh_cats(DF, title = "All Fields")
+p
+
+```
+
+### Citations per paper, by MeSH category
+
+```{r}
+DF = AUTHOR_DATA %>%
+  filter(
+    ShortName %>% str_detect("Frequency of MeSH") |
+      ShortName %>% str_detect("Cites"), Class == "Zika"
+  ) %>%
+  select(-Class) %>%
+  mutate(
+    Value = as.numeric(Value),
+    Measure = ShortName %>%
+      str_replace("MeSHCat - Frequency of MeSH Category", "Pubs") %>%
+      str_replace("MeSHCatCites", "Cite") %>%
+      str_sub(1,4),
+    Category = ShortName %>%
+      str_remove("MeSHCat - Frequency of MeSH Category - ") %>%
+      str_remove("MeSHCatCites - ")
+  ) %>%
+  select(Author, Category, Measure, Value) %>%
+  pivot_wider(id_cols = c(Author, Category), names_from = Measure, values_from = Value) %>%
+  mutate(CitationRate = Cite / Pubs) %>%
+  select(Author, Category, CitationRate)
+
+plot_mesh_cite_rate = function (DF, title = "") {
+  DF = DF %>% group_by(Category) %>% summarise(Value = mean(CitationRate, na.rm = T))
+  ggplot(DF) +
+    aes(x = Category, y = Value, fill = Category) +
+    geom_col() +
+    labs(x = "", y = "Citation Rate", title = title) +
+    scale_y_continuous(breaks = pretty_breaks(n = 5)) +
+    coord_flip() +
+    ggtheme +
+    theme(axis.text.y = element_text(size = 10),
+          legend.position = "none")
+}
+
+p = plot_mesh_cite_rate(DF, title = "All Fields")
+p
+
+```
+
+### Which authors published in which categories?
 
 ```{r}
 AUTHORS_BY_FIELD = AUTHOR_DATA %>%
