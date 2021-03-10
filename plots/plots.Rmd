@@ -17,7 +17,7 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
-} else if (file_ext(EXTRACTED_DATA_PATH) == "Rdata") {
+} else if (file_ext(EXTRACTED_DATA_PATH) %in% c("RData", "Rdata")) {
   load(EXTRACTED_DATA_PATH)
 }
 
@@ -30,68 +30,28 @@ AUTHOR_DATA = AUTHOR_DATA %>% mutate(
 
 # ggplot theme
 ggtheme = theme_cowplot()
+theme_set(ggtheme)
+
+source("plot_functions.R")
 ```
 
 ## Characterization of the authors who published in Zika
 
 ### Description of Most Common Journal Area before Epidemics
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(ShortName == "TopField", Class == "Pre-Outbreak") %>%
-  mutate(Value = str_to_title(Value)) %>%
-  count(Value) %>%
-  filter(n > 2)
-
-p = ggplot(DF) +
-  aes(x = reorder(Value, n), y = n) +
-  geom_col() +
-  labs(x = "Top Journal Area for the Author", y = "Frequency") +
-  coord_flip() +
-  ggtheme +
-  theme(axis.text.y = element_text(size = 9))
-  
-p
+plot_most_common_areas_before(AUTHOR_DATA, period = "Pre-Outbreak")
 ```
 
 
 ### Academic Age - Years Since the First Paper Record
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(ShortName == "Academic Age", Class == "Pre-Outbreak") %>%
-  mutate(Value = 2021 - as.numeric(Value))
-
-p = ggplot(DF) +
-  aes(x = Value) +
-  geom_histogram(bins = 50) +
-  geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
-  labs(x = "Year of First Publication", y = "Frequency") +
-  scale_x_continuous(breaks = pretty_breaks(n = 10)) +
-  ggtheme
-  
-p
+plot_academic_age_hist(AUTHOR_DATA, period = "Pre-Outbreak")
 ```
 
 ### Total Citations, before Epidemics
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(ShortName == "Citations", Class == "Pre-Outbreak") %>%
-  mutate(Value = as.numeric(Value))
-
-p = ggplot(DF) +
-  aes(x = Value) +
-  geom_histogram(bins = 50) +
-  labs(x = "Total Citations Before the Outbreak", y = "Frequency") +
-  scale_x_continuous(breaks = pretty_breaks(n = 10)) +
-  ggtheme
-  
-plog = ggplot(DF) +
-  aes(x = Value) +
-  geom_histogram(bins = 50) +
-  labs(x = "Total Citations Before the Outbreak", y = "Frequency") +
-  scale_x_continuous(breaks = c(10, 50, 200, 1000, 10000), trans = "log10") +
-  ggtheme
-  
-list(p, plog)
+plot_total_citations(AUTHOR_DATA, period = "Pre-Outbreak", logscale = F)
+plot_total_citations(AUTHOR_DATA, period = "Pre-Outbreak", logscale = T)
 ```
 
 ## Changes in publication patterns after the outbreak
@@ -108,80 +68,23 @@ selected_authors = AUTHOR_DATA %>%
 
 ### Citations per Paper, before and Zika papers
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(ShortName == "CitationRate", Class %in% c("Pre-Outbreak", "Zika"),
-         Author %in% selected_authors) %>%
-  mutate(Value = as.numeric(Value))
-
-p1 = ggplot(DF) +
-  aes(x = Class, y = Value, group = Author) +
-  geom_point() +
-  geom_line() +
-  labs(x = "Period", y = "Average # of Citations per Paper") +
-  scale_y_continuous(breaks = pretty_breaks(n = 10)) +
-  ggtheme
-  
-p2 = ggplot(DF) +
-  aes(x = Class, y = Value) +
-  geom_violin() +
-  labs(x = "Period", y = "Average # of Citations per Paper") +
-  scale_y_continuous(breaks = pretty_breaks(n = 10)) +
-  ggtheme
-
-list(p1,p2)
+plot_compare_citations_per_paper(AUTHOR_DATA %>% filter(Author %in% selected_authors))
 ```
 
 ### Number of Authors per Paper, before and Zika papers
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(ShortName == "AvgAuthorNumber", Class %in% c("Pre-Outbreak", "Zika")) %>%
-  mutate(Value = as.numeric(Value))
-
-p = ggplot(DF) +
-  aes(x = Class, y = Value, group = Author) +
-  geom_point() +
-  geom_line() +
-  labs(x = "Period", y = "Average # of Authors per Paper") +
-  scale_y_continuous(breaks = pretty_breaks(n = 10)) +
-  ggtheme
-
-p
+plot_compare_authors_per_paper(AUTHOR_DATA %>% filter(Author %in% selected_authors))
 ```
 
 
 ### Percentage of Papers with International Affiliations, before and Zika papers
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(ShortName == "PercPapersINTL", Class %in% c("Pre-Outbreak", "Zika"),
-         Author %in% selected_authors) %>%
-  mutate(Value = as.numeric(Value))
-  
-p = ggplot(DF) +
-  aes(x = Class, y = Value, group = Author) +
-  geom_point() +
-  geom_line() +
-  labs(x = "Period", y = "Percentage of International Collaborations") +
-  scale_y_continuous(breaks = pretty_breaks(n = 10)) +
-  ggtheme
-  
-p
+plot_compare_intl_papers(AUTHOR_DATA %>% filter(Author %in% selected_authors))
 ```
 
 ### Percentage of Zika-related papers post 2016
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(ShortName == "PercZika", Class == "Post-Outbreak") %>%
-  mutate(Value = 100 * as.numeric(Value))
-
-p = ggplot(DF) +
-  aes(x = Value) +
-  geom_histogram(bins = 50) +
-  geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
-  labs(x = "Percentage of Zika-related papers, post-outbreak", y = "Frequency") +
-  scale_x_continuous(breaks = pretty_breaks(n = 10)) +
-  ggtheme
-  
-p
+plot_perc_zika_papers(AUTHOR_DATA)
 ```
 
 ## Characterization of Zika-related publications
@@ -189,117 +92,23 @@ p
 ### Frequency of MeSH Categories
 
 ```{r}
-DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Frequency of MeSH"), Class == "Zika") %>%
-  mutate(Value = as.numeric(Value),
-         ShortName = ShortName %>% str_remove("MeSHCat - Frequency of MeSH Category - "))
-
-plot_mesh_cats = function (DF, title = "") {
-  DF = DF %>% group_by(ShortName) %>% summarise(Value = sum(Value, na.rm = T))
-  ggplot(DF) +
-    aes(x = ShortName, y = Value, fill = ShortName) +
-    geom_col() +
-    labs(x = "", y = "# of Publications", title = title) +
-    scale_y_continuous(breaks = pretty_breaks(n = 5)) +
-    coord_flip() +
-    ggtheme +
-    theme(axis.text.y = element_text(size = 10),
-          legend.position = "none")
-}
-
-p = plot_mesh_cats(DF, title = "All Fields")
-p
-
+plot_pubs_by_mesh_cat(AUTHOR_DATA, title = "All Fields")
 ```
 ### Citations by MeSH category
 
 ```{r}
-DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Cites"), Class == "Zika") %>%
-  mutate(Value = as.numeric(Value),
-         ShortName = ShortName %>% str_remove("MeSHCatCites - "))
-
-plot_mesh_cats = function (DF, title = "") {
-  DF = DF %>% group_by(ShortName) %>% summarise(Value = sum(Value, na.rm = T))
-  ggplot(DF) +
-    aes(x = ShortName, y = Value, fill = ShortName) +
-    geom_col() +
-    labs(x = "", y = "# of Citations", title = title) +
-    scale_y_continuous(breaks = pretty_breaks(n = 5)) +
-    coord_flip() +
-    ggtheme +
-    theme(axis.text.y = element_text(size = 10),
-          legend.position = "none")
-}
-
-p = plot_mesh_cats(DF, title = "All Fields")
-p
-
+plot_cites_by_mesh_cat(AUTHOR_DATA)
 ```
 
 ### Citations per paper, by MeSH category
 
 ```{r}
-DF = AUTHOR_DATA %>%
-  filter(
-    ShortName %>% str_detect("Frequency of MeSH") |
-      ShortName %>% str_detect("Cites"), Class == "Zika"
-  ) %>%
-  select(-Class) %>%
-  mutate(
-    Value = as.numeric(Value),
-    Measure = ShortName %>%
-      str_replace("MeSHCat - Frequency of MeSH Category", "Pubs") %>%
-      str_replace("MeSHCatCites", "Cite") %>%
-      str_sub(1,4),
-    Category = ShortName %>%
-      str_remove("MeSHCat - Frequency of MeSH Category - ") %>%
-      str_remove("MeSHCatCites - ")
-  ) %>%
-  select(Author, Category, Measure, Value) %>%
-  pivot_wider(id_cols = c(Author, Category), names_from = Measure, values_from = Value) %>%
-  mutate(CitationRate = Cite / Pubs) %>%
-  select(Author, Category, CitationRate)
-
-plot_mesh_cite_rate = function (DF, title = "") {
-  DF = DF %>% group_by(Category) %>% summarise(Value = mean(CitationRate, na.rm = T))
-  ggplot(DF) +
-    aes(x = Category, y = Value, fill = Category) +
-    geom_col() +
-    labs(x = "", y = "Citation Rate", title = title) +
-    scale_y_continuous(breaks = pretty_breaks(n = 5)) +
-    coord_flip() +
-    ggtheme +
-    theme(axis.text.y = element_text(size = 10),
-          legend.position = "none")
-}
-
-p = plot_mesh_cite_rate(DF, title = "All Fields")
-p
-
+plot_cite_rate_by_mesh_cat(AUTHOR_DATA)
 ```
 
 ### Which authors published in which categories?
 
 ```{r}
-AUTHORS_BY_FIELD = AUTHOR_DATA %>%
-  filter(ShortName == "TopField" & Class == "Pre-Outbreak") %>%
-  mutate(Field = str_to_title(Value)) %>%
-  select(Author, Field)
-
-DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("MeSH"), Class == "Zika") %>%
-  mutate(Value = as.numeric(Value),
-         ShortName = ShortName %>% str_remove("MeSHCat - ")) %>%
-  left_join(AUTHORS_BY_FIELD, by = "Author")
-
-top_fields = AUTHOR_DATA %>%
-  filter(ShortName == "TopField", Class == "Pre-Outbreak") %>%
-  mutate(Value = str_to_title(Value)) %>%
-  count(Value) %>%
-  filter(n >= 10) %>% pull(Value)
-
-map(unique(top_fields), function (selected_field) {
-  d = DF %>% filter(Field == selected_field)
-  plot_mesh_cats(d, title = selected_field)
-})
-
+plot_pubs_by_mesh_cat_by_field(AUTHOR_DATA)
 ```
 
