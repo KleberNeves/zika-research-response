@@ -13,12 +13,6 @@ AFFILIATION_CLASSIFICATION = "../../data/Institutions and States - manual curati
 
 ##### Runs the extraction #####
 
-library(tidyverse)
-library(bibliometrix)
-library(lubridate)
-library(readxl)
-library(metricshelpr)
-
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 source("extraction-functions.R")

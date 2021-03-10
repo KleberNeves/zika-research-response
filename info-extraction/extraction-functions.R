@@ -1,9 +1,14 @@
+library(tidyverse)
+library(bibliometrix)
+library(lubridate)
+library(readxl)
+library(metricshelpr)
+
 extract_author_info = function (filename) {
   print(basename(filename))
   author_filename = basename(tools::file_path_sans_ext(filename))
-  # if (basename(filename) == "ALMEIDA FJ.txt") browser()
   # Load bibliometric data
-  quiet <- function(x) { 
+  quiet = function(x) { 
     sink(tempfile()) 
     on.exit(sink()) 
     invisible(force(x)) 
