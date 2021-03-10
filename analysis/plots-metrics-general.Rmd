@@ -1,5 +1,5 @@
 ---
-title: "Analysis and Plots"
+title: "Analysis and Plots - General Authors Data"
 output: html_notebook
 ---
 
@@ -10,10 +10,7 @@ library(tools)
 library(cowplot)
 library(scales)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-authors-general/extracted_author_data-general 10-03-2021.RData"
-
-# Load data
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-general 10-03-2021.RData"
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")

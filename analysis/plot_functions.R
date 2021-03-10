@@ -36,7 +36,7 @@ plot_cite_rate_by_mesh_cat <- function(AUTHOR_DATA) {
   p
 }
 
-plot_pubs_by_mesh_cat_by_field <- function(AUTHOR_DATA) {
+plot_pubs_by_mesh_cat_by_field <- function(AUTHOR_DATA, min_authors_to_plot = 10) {
   AUTHORS_BY_FIELD = AUTHOR_DATA %>%
     filter(ShortName == "TopField" & Class == "Pre-Outbreak") %>%
     mutate(Field = str_to_title(Value)) %>%
@@ -48,7 +48,7 @@ plot_pubs_by_mesh_cat_by_field <- function(AUTHOR_DATA) {
     left_join(AUTHORS_BY_FIELD, by = "Author")
   
   top_fields = AUTHORS_BY_FIELD %>%
-    count(Field) %>% filter(n >= 10) %>% pull(Field) %>% unique()
+    count(Field) %>% filter(n >= min_authors_to_plot) %>% pull(Field) %>% unique()
   
   map(top_fields, function (selected_field) {
     d = DF %>% filter(Field == selected_field)
