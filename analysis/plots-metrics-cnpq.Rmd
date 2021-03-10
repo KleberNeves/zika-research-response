@@ -1,0 +1,114 @@
+---
+title: "Analysis and Plots - CNPq data"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(metricshelpr)
+library(tools)
+library(cowplot)
+library(scales)
+
+EXTRACTED_DATA_PATH = "../../data/extracted-authors-general/extracted_author_data-cnpq 10-03-2021.RData"
+
+# Load data
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
+if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
+  AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
+} else if (file_ext(EXTRACTED_DATA_PATH) %in% c("RData", "Rdata")) {
+  load(EXTRACTED_DATA_PATH)
+}
+
+AUTHOR_DATA = AUTHOR_DATA %>% mutate(
+  ShortName = ShortName %>%
+           str_replace("& Preg", "&\nPreg") %>%
+           str_replace("& Surv", "&\nSurv") %>%
+           str_replace("& Diag", "&\nDiag")
+)
+
+# ggplot theme
+ggtheme = theme_cowplot()
+theme_set(ggtheme)
+
+source("plot_functions.R")
+```
+
+## Characterization of the authors who published in Zika
+
+### Description of Most Common Journal Area before Epidemics
+```{r}
+plot_most_common_areas_before(AUTHOR_DATA, period = "Pre-Outbreak")
+```
+
+
+### Academic Age - Years Since the First Paper Record
+```{r}
+plot_academic_age_hist(AUTHOR_DATA, period = "Pre-Outbreak")
+```
+
+### Total Citations, before Epidemics
+```{r}
+plot_total_citations(AUTHOR_DATA, period = "Pre-Outbreak", logscale = F)
+plot_total_citations(AUTHOR_DATA, period = "Pre-Outbreak", logscale = T)
+```
+
+## Changes in publication patterns after the outbreak
+
+```{r}
+# Make list of authors with at least 3 papers in each period, so that the estimates have a minimal sample size, to remove a bit of noise
+selected_authors = AUTHOR_DATA %>%
+  filter(ShortName == "Papers", Class %in% c("Pre-Outbreak", "Zika")) %>%
+  mutate(Value = as.numeric(Value)) %>%
+  pivot_wider(id_cols = Author, values_from = Value, names_from = Class) %>%
+  filter(`Pre-Outbreak` > 3, Zika > 3) %>% pull(Author)
+```
+
+
+### Citations per Paper, before and Zika papers
+```{r}
+plot_compare_citations_per_paper(AUTHOR_DATA %>% filter(Author %in% selected_authors))
+```
+
+### Number of Authors per Paper, before and Zika papers
+```{r}
+plot_compare_authors_per_paper(AUTHOR_DATA %>% filter(Author %in% selected_authors))
+```
+
+
+### Percentage of Papers with International Affiliations, before and Zika papers
+```{r}
+plot_compare_intl_papers(AUTHOR_DATA %>% filter(Author %in% selected_authors))
+```
+
+### Percentage of Zika-related papers post 2016
+```{r}
+plot_perc_zika_papers(AUTHOR_DATA)
+```
+
+## Characterization of Zika-related publications
+
+### Frequency of MeSH Categories
+
+```{r}
+plot_pubs_by_mesh_cat(AUTHOR_DATA, title = "All Fields")
+```
+### Citations by MeSH category
+
+```{r}
+plot_cites_by_mesh_cat(AUTHOR_DATA)
+```
+
+### Citations per paper, by MeSH category
+
+```{r}
+plot_cite_rate_by_mesh_cat(AUTHOR_DATA)
+```
+
+### Which authors published in which categories?
+
+```{r}
+plot_pubs_by_mesh_cat_by_field(AUTHOR_DATA)
+```
+
