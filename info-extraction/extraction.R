@@ -25,8 +25,9 @@ rm(MESHLIST)
 
 # Load affiliation data
 if (file.exists(AFFILIATION_CLASSIFICATION)) {
-  AFFIL_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 1)
-  GEO_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 2)
+  HARM_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 1)
+  AFFIL_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 2)
+  REGION_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 3)
 }
 
 # Load mesh terms categorization
