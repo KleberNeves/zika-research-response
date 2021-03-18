@@ -1,15 +1,15 @@
 ##### Set parameters for the script #####
 
 # Without extension, will save .RData and .csv
-SAVE_FILENAME = "./extracted_author_data-general"
+SAVE_FILENAME = "./extracted_author_data-cnpq"
 
-AUTHOR_DATA_PATH = "../../data/authors-general"
+AUTHOR_DATA_PATH = "../../data/authors-cnpq-call"
 
 INITIAL_SEARCH_DATA = "../../data/Zika Papers - Combined WoS + iCite dataset.RData"
 
 MESH_CLASSIFICATION = "../../data/Selected List of MeSH Terms - classification Kleber.xlsx"
 
-AFFILIATION_CLASSIFICATION = "../../data/Institutions and States - manual curation.xlsx"
+AFFILIATION_CLASSIFICATION = "../../data/institutions/Institutions and States - manual curation.xlsx"
 
 ##### Runs the extraction #####
 
@@ -28,6 +28,8 @@ if (file.exists(AFFILIATION_CLASSIFICATION)) {
   HARM_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 1)
   AFFIL_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 2)
   REGION_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 3)
+  HARM_DATA[is.na(HARM_DATA)] = "-"
+  AFFIL_DATA[is.na(AFFIL_DATA)] = "-"
 }
 
 # Load mesh terms categorization
@@ -36,7 +38,7 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
   
 # Run the extraction function for each author
 filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
-# i = which(filenames == paste0(AUTHOR_DATA_PATH, "/KO A.txt"))
+# i = which(filenames == paste0(AUTHOR_DATA_PATH, "/Lucia Maria Costa Monteiro.txt"))
 # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
 AUTHOR_DATA = map_dfr(filenames, extract_author_info)
 

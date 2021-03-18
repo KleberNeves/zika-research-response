@@ -49,7 +49,10 @@ extract_author_info = function (filename) {
     get_info_from_biblio_data(BD_POST, author_filename) %>%
       add_column(Class = "Post-Outbreak", .before = 1),
     get_info_from_biblio_data(BD_ZIKA, author_filename) %>%
-      add_column(Class = "Zika", .before = 1)
+      add_column(Class = "Zika", .before = 1),
+
+    get_affiliation(BD, author_filename) %>%
+      add_column(Class = "All", .before = 1)
   )
   
   EXTRACTED_INFO = EXTRACTED_INFO %>%
@@ -63,8 +66,6 @@ get_info_from_biblio_data = function (BD, author_filename) {
   rbind(
     # Identify the primary field of the author - most common journal area
     get_top_field(BD),
-    # Most common institutional affiliation for the author
-    get_affiliation(BD, author_filename),
     # Calculate the percentage of papers in each MeSH category
     get_mesh_categories(BD),
     # Number and rate of citations
@@ -94,6 +95,7 @@ get_top_field = function (BD) {
 }
 
 get_affiliation = function (BD, author_filename) {
+  # browser()
   author_affiliations = tibble()
   tryCatch({
     author_affiliations = extract_author_affiliations(BD) %>%
@@ -105,8 +107,8 @@ get_affiliation = function (BD, author_filename) {
   
   if (nrow(author_affiliations) == 0) {
     return (tibble(
-      Name = "Most common author affiliation",
-      ShortName = "Affiliation",
+      Name = c("Author affiliations", "Authos afilliation states", "Author affiliation regions"),
+      ShortName = c("Affiliation", "State", "Region"),
       Value = NA
     ))
   }
@@ -125,25 +127,27 @@ get_affiliation = function (BD, author_filename) {
   
   if (length(institutions) == 0) {
     institutions = NA
+    states = NA
+    regions = NA
   } else {
     if (exists("AFFIL_DATA")) {
-      correct_name = AFFIL_DATA %>% filter(Name %in% institutions)
-      if (nrow(correct_name) == length(institutions)) {
-        institutions = unique(correct_name$Harmonized)
-        correct_name = correct_name %>%
-          select(-Name) %>% distinct(Harmonized, .keep_all = T)
-        states = correct_name$State
-        region = GEO_DATA[which(states == GEO_DATA$State),] %>% pull(Region)
-        
-        institutions = paste(institutions, states, region, sep = ";")
-      }
+      institutions = HARM_DATA %>%
+        filter(Name %in% institutions) %>% pull(Harmonized) %>% unique()
+      states = AFFIL_DATA %>%
+        filter(Harmonized %in% institutions) %>% pull(State) %>% unique()
+      regions = REGION_DATA %>%
+        filter(State %in% states) %>% pull(Region) %>% unique()
+      
+      institutions = paste(institutions, collapse = ";")
+      states = paste(states, collapse = ";")
+      regions = paste(regions, collapse = ";")
     }
   }
   
   tibble(
-    Name = "Most common author affiliation",
-    ShortName = "Affiliation",
-    Value = institutions
+    Name = c("Author affiliations", "Authos afilliation states", "Author affiliation regions"),
+    ShortName = c("Affiliation", "State", "Region"),
+    Value = c(institutions, states, regions)
   )
 }
 
