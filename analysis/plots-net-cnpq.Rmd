@@ -9,6 +9,7 @@ library(metricshelpr)
 library(tools)
 library(cowplot)
 library(scales)
+library(readxl)
 
 EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-cnpq 18-03-2021.RData"
 
@@ -27,6 +28,11 @@ AUTHOR_DATA = AUTHOR_DATA %>% mutate(
 
 AUTHOR_DATA_PATH = "../../data/authors-cnpq-call"
 
+GEO_DATA = read_excel("../../data/institutions/Institutions and States - manual curation.xlsx", sheet = 3)
+states_list = GEO_DATA %>% pull(State)
+regions_list = GEO_DATA %>% pull(Region) %>% unique()
+rm(GEO_DATA)
+
 # ggplot theme
 ggtheme = theme_cowplot()
 theme_set(ggtheme)
@@ -43,103 +49,37 @@ filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
 AUTHOR_NET_DATA = map_dfr(filenames, load_biblio_geo)
 ```
 
-When a paper appears more than once, it is a collaboration - merge the states, regions and affiliations.
+When a paper appears more than once, it is a collaboration - merge the states, regions and affiliations. Consider only the five-year period before 2016, to be comparable to the period since the outbreak.
 ```{r}
-AUTHOR_NET_DATA_PRE = consolidate_biblio_rows(AUTHOR_NET_DATA %>% filter(Class == "Pre-Outbreak"))
-AUTHOR_NET_DATA_POST = consolidate_biblio_rows(AUTHOR_NET_DATA %>% filter(Class == "Post-Outbreak"))
+AUTHOR_NET_DATA_NC = AUTHOR_NET_DATA
+AUTHOR_NET_DATA = consolidate_biblio_rows(AUTHOR_NET_DATA)
+```
+Build the networks.
+```{r}
+nets = build_period_nets(AUTHOR_NET_DATA_NC)
 ```
 
-Build and plot each network.
-
-#### Researchers
-
-Collaboration between researchers, before.
+Network metrics.
 ```{r}
-net_pre = build_network(AUTHOR_NET_DATA_PRE) %>% pull(TargetAuthor))
+metrics = rbind(
+  nets$pre$metrics %>% mutate(Class = "Pre-Outbreak"),
+  nets$post$metrics %>% mutate(Class = "Post-Outbreak")
+)
+metrics
 ```
 
-Collaboration between researchers, after (removing connections that already existed before 2016).
-```{r}
-net_post = build_network(AUTHOR_NET_DATA_POST %>% pull(TargetAuthor))
-net_post = subtracted_network(net_pre$edgelist, net_post$edgelist, subtract_all = F)
-```
-
-Clustering and density of edges in the researchers network, before and after.
-```{r}
-rbind(calc_net_metrics(net_pre$net) %>% mutate(Class = "Pre-Outbreak"),
-calc_net_metrics(net_post$net) %>% mutate(Class = "Post-Outbreak"))
-```
-
-
-#### Institutions
-
-Collaboration between institutions, before.
-```{r}
-net_pre = build_network(AUTHOR_NET_DATA_PRE %>% pull(Institution))
-```
-
-Collaboration between institutions, after (removing connections that already existed before 2016).
-```{r}
-net_post = build_network(AUTHOR_NET_DATA_POST %>% pull(Institution))
-net_post = subtracted_network(net_pre$edgelist, net_post$edgelist, subtract_all = F)
-```
-
+Plot the geographical networks.
 
 #### States
 
-Collaboration between states, before.
 ```{r}
-net_pre = build_network(AUTHOR_NET_DATA_PRE %>% pull(State))
+plot_collab_matrix(nets$pre$edgelist, "State", include_loops = T, flevels = states_list)
+plot_collab_matrix(nets$post$edgelist, "State", include_loops = T, flevels = states_list)
 ```
-
-Collaboration between states, after (removing connections that already existed before 2016).
-```{r}
-net_post = build_network(AUTHOR_NET_DATA_POST %>% pull(State))
-net_post = subtracted_network(net_pre$edgelist, net_post$edgelist, subtract_all = F)
-```
-
-Matrix to show the network, state x state, sort by region.
-```{r}
-plot_collab_matrix(net_pre$edgelist)
-plot_collab_matrix(net_post$edgelist)
-```
-
-Clustering and density of edges in the states network, before and after.
-```{r}
-rbind(calc_net_metrics(net_pre$net) %>% mutate(Class = "Pre-Outbreak"),
-calc_net_metrics(net_post$net) %>% mutate(Class = "Post-Outbreak"))
-```
-
-
 
 #### Regions
 
-Collaboration between regions, before.
 ```{r}
-net_pre = build_network(AUTHOR_NET_DATA_PRE %>% pull(Region))
-```
-
-Collaboration between regions, after (removing connections that already existed before 2016).
-```{r}
-net_post = build_network(AUTHOR_NET_DATA_POST %>% pull(Region))
-net_post = subtracted_network(net_pre$edgelist, net_post$edgelist, subtract_all = F)
-```
-
-Matrix to show the network, region x region.
-```{r}
-# Convert to factors to preserve all categories in the plot
-lvls = unique(c(net_pre$edgelist$V1, net_pre$edgelist$V2, net_post$edgelist$V1, net_post$edgelist$V2))
-net_pre$edgelist$V1 = factor(net_pre$edgelist$V1, levels = lvls)
-net_pre$edgelist$V2 = factor(net_pre$edgelist$V2, levels = lvls)
-net_post$edgelist$V1 = factor(net_post$edgelist$V1, levels = lvls)
-net_post$edgelist$V2 = factor(net_post$edgelist$V2, levels = lvls)
-
-plot_collab_matrix(net_pre$edgelist)
-plot_collab_matrix(net_post$edgelist)
-```
-
-Clustering and density of edges in the regions network, before and after.
-```{r}
-rbind(calc_net_metrics(net_pre$net) %>% mutate(Class = "Pre-Outbreak"),
-calc_net_metrics(net_post$net) %>% mutate(Class = "Post-Outbreak"))
+plot_collab_matrix(nets$pre$edgelist, "Region", include_loops = T, flevels = regions_list)
+plot_collab_matrix(nets$post$edgelist, "Region", include_loops = T, flevels = regions_list)
 ```
