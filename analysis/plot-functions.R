@@ -1,4 +1,4 @@
-plot_cite_rate_by_mesh_cat <- function(AUTHOR_DATA) {
+plot_cite_rate_by_mesh_cat = function(AUTHOR_DATA) {
   DF = AUTHOR_DATA %>%
     filter(
       ShortName %>% str_detect("Frequency of MeSH") |
@@ -36,7 +36,7 @@ plot_cite_rate_by_mesh_cat <- function(AUTHOR_DATA) {
   p
 }
 
-plot_pubs_by_mesh_cat_by_field <- function(AUTHOR_DATA, min_authors_to_plot = 10) {
+plot_pubs_by_mesh_cat_by_field = function(AUTHOR_DATA, min_authors_to_plot = 10) {
   AUTHORS_BY_FIELD = AUTHOR_DATA %>%
     filter(ShortName == "TopField" & Class == "Pre-Outbreak") %>%
     mutate(Field = str_to_title(Value)) %>%
@@ -56,7 +56,7 @@ plot_pubs_by_mesh_cat_by_field <- function(AUTHOR_DATA, min_authors_to_plot = 10
   })
 }
 
-plot_pubs_by_mesh_cat <- function(AUTHOR_DATA, title = "", preprocessed = F) {
+plot_pubs_by_mesh_cat = function(AUTHOR_DATA, title = "", preprocessed = F) {
   if (!preprocessed) {
     DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Frequency of MeSH"), Class == "Zika") %>%
       mutate(Value = as.numeric(Value),
@@ -78,7 +78,7 @@ plot_pubs_by_mesh_cat <- function(AUTHOR_DATA, title = "", preprocessed = F) {
   p
 }
 
-plot_cites_by_mesh_cat <- function(AUTHOR_DATA, title = "", preprocessed = F) {
+plot_cites_by_mesh_cat = function(AUTHOR_DATA, title = "", preprocessed = F) {
   if (!preprocessed) {
     DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Cites"), Class == "Zika") %>%
       mutate(Value = as.numeric(Value),
@@ -100,7 +100,7 @@ plot_cites_by_mesh_cat <- function(AUTHOR_DATA, title = "", preprocessed = F) {
   p
 }
 
-plot_perc_zika_papers <- function(AUTHOR_DATA) {
+plot_perc_zika_papers = function(AUTHOR_DATA) {
   DF = AUTHOR_DATA %>%
     filter(ShortName == "PercZika", Class == "Post-Outbreak") %>%
     mutate(Value = 100 * as.numeric(Value))
@@ -115,7 +115,7 @@ plot_perc_zika_papers <- function(AUTHOR_DATA) {
   p
 }
 
-plot_compare_intl_papers <- function(AUTHOR_DATA) {
+plot_compare_intl_papers = function(AUTHOR_DATA) {
   DF = AUTHOR_DATA %>%
     filter(ShortName == "PercPapersINTL", Class %in% c("Pre-Outbreak", "Zika"),
            Author %in% selected_authors) %>%
@@ -137,7 +137,7 @@ plot_compare_intl_papers <- function(AUTHOR_DATA) {
   list(p1, p2)
 }
 
-plot_compare_authors_per_paper <- function(AUTHOR_DATA) {
+plot_compare_authors_per_paper = function(AUTHOR_DATA) {
   DF = AUTHOR_DATA %>%
     filter(ShortName == "AvgAuthorNumber", Class %in% c("Pre-Outbreak", "Zika")) %>%
     mutate(Value = as.numeric(Value))
@@ -158,7 +158,7 @@ plot_compare_authors_per_paper <- function(AUTHOR_DATA) {
   list(p1, p2)
 }
 
-plot_compare_citations_per_paper <- function(AUTHOR_DATA) {
+plot_compare_citations_per_paper = function(AUTHOR_DATA) {
   DF = AUTHOR_DATA %>%
     filter(ShortName == "CitationRate", Class %in% c("Pre-Outbreak", "Zika")) %>%
     mutate(Value = as.numeric(Value))
@@ -179,7 +179,7 @@ plot_compare_citations_per_paper <- function(AUTHOR_DATA) {
   list(p1,p2)
 }
 
-plot_total_citations <- function (AUTHOR_DATA, period = "Pre-Outbreak", logscale = T) {
+plot_total_citations = function (AUTHOR_DATA, period = "Pre-Outbreak", logscale = T) {
   DF = AUTHOR_DATA %>%
     filter(ShortName == "Citations", Class == "Pre-Outbreak") %>%
     mutate(Value = as.numeric(Value))
@@ -202,7 +202,7 @@ plot_total_citations <- function (AUTHOR_DATA, period = "Pre-Outbreak", logscale
 }
 
 
-plot_academic_age_hist <- function(AUTHOR_DATA, period) {
+plot_academic_age_hist = function(AUTHOR_DATA, period) {
   DF = AUTHOR_DATA %>%
     filter(ShortName == "Academic Age", Class == period) %>%
     mutate(Value = 2021 - as.numeric(Value))
@@ -217,9 +217,9 @@ plot_academic_age_hist <- function(AUTHOR_DATA, period) {
   p
 }
 
-plot_most_common_areas_before <- function(AUTHOR_DATA, period) {
+plot_most_common_areas = function(AUTHOR_DATA, period) {
   DF = AUTHOR_DATA %>%
-    filter(ShortName == "TopField", Class == period) %>%
+    filter(ShortName == "TopField", Class %in% period) %>%
     mutate(Value = str_to_title(Value)) %>%
     count(Value) %>%
     filter(n > 2)
@@ -228,6 +228,70 @@ plot_most_common_areas_before <- function(AUTHOR_DATA, period) {
     aes(x = reorder(Value, n), y = n) +
     geom_col() +
     labs(title = "Top Journal Area for the Author", x = "", y = "Frequency") +
+    coord_flip() +
+    theme(axis.text.y = element_text(size = 9))
+  
+  p
+}
+
+plot_most_common_institutions = function(AUTHOR_DATA) {
+  DF = AUTHOR_DATA %>%
+    filter(ShortName == "Affiliation") %>%
+    pull(Value) %>%
+    str_split(";") %>%
+    unlist() %>%
+    tibble(Value = .) %>%
+    filter(Value != "-") %>%
+    count(Value) %>%
+    slice_max(n = 10, order_by = n)
+  
+  p = ggplot(DF) +
+    aes(x = reorder(Value, n), y = n) +
+    geom_col() +
+    labs(title = "Top Institutions", x = "", y = "Frequency") +
+    coord_flip() +
+    theme(axis.text.y = element_text(size = 9))
+  
+  p
+}
+
+plot_most_common_regions = function(AUTHOR_DATA) {
+  DF = AUTHOR_DATA %>%
+    filter(ShortName == "Region") %>%
+    pull(Value) %>%
+    str_split(";") %>%
+    unlist() %>%
+    tibble(Value = .) %>%
+    filter(Value != "-") %>%
+    count(Value) %>%
+    slice_max(n = 10, order_by = n)
+  
+  p = ggplot(DF) +
+    aes(x = reorder(Value, n), y = n) +
+    geom_col() +
+    labs(title = "Top Regions", x = "", y = "Frequency") +
+    coord_flip() +
+    theme(axis.text.y = element_text(size = 9))
+  
+  p
+}
+
+plot_most_common_states = function(AUTHOR_DATA) {
+  browser()
+  DF = AUTHOR_DATA %>%
+    filter(ShortName == "State") %>%
+    pull(Value) %>%
+    str_split(";") %>%
+    unlist() %>%
+    tibble(Value = .) %>%
+    filter(Value != "-") %>%
+    count(Value) %>%
+    slice_max(n = 10, order_by = n)
+  
+  p = ggplot(DF) +
+    aes(x = reorder(Value, n), y = n) +
+    geom_col() +
+    labs(title = "Top States", x = "", y = "Frequency") +
     coord_flip() +
     theme(axis.text.y = element_text(size = 9))
   

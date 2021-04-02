@@ -10,7 +10,7 @@ library(tools)
 library(cowplot)
 library(scales)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-general 10-03-2021.RData"
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-general 18-03-2021.RData"
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
@@ -29,16 +29,28 @@ AUTHOR_DATA = AUTHOR_DATA %>% mutate(
 ggtheme = theme_cowplot()
 theme_set(ggtheme)
 
-source("plot_functions.R")
+source("plot-functions.R")
 ```
 
 ## Characterization of the authors who published in Zika
 
 ### Description of Most Common Journal Area before Epidemics
 ```{r}
-plot_most_common_areas_before(AUTHOR_DATA, period = "Pre-Outbreak")
+plot_most_common_areas(AUTHOR_DATA, period = "Pre-Outbreak")
+```
+### Description of Most Common Institutions for authors in the dataset (after 2016)
+```{r}
+plot_most_common_institutions(AUTHOR_DATA)
+```
+### Description of Most Common Regions for authors in the dataset (after 2016)
+```{r}
+plot_most_common_states(AUTHOR_DATA)
 ```
 
+### Description of Most Common Regions for authors in the dataset (after 2016)
+```{r}
+plot_most_common_regions(AUTHOR_DATA)
+```
 
 ### Academic Age - Years Since the First Paper Record
 ```{r}
