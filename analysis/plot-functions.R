@@ -105,9 +105,11 @@ plot_perc_zika_papers = function(AUTHOR_DATA) {
     filter(ShortName == "PercZika", Class == "Post-Outbreak") %>%
     mutate(Value = 100 * as.numeric(Value))
   
+  bin_number = round(max(DF$Value) / 2)
+  
   p = ggplot(DF) +
     aes(x = Value) +
-    geom_histogram(bins = 50) +
+    geom_histogram(bins = bin_number) +
     geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
     labs(x = "Percentage of Zika-related papers, post-outbreak", y = "Frequency") +
     scale_x_continuous(breaks = pretty_breaks(n = 10))
@@ -217,12 +219,12 @@ plot_academic_age_hist = function(AUTHOR_DATA, period) {
   p
 }
 
-plot_most_common_areas = function(AUTHOR_DATA, period) {
+plot_most_common_areas = function(AUTHOR_DATA, period, min_thres = 2) {
   DF = AUTHOR_DATA %>%
     filter(ShortName == "TopField", Class %in% period) %>%
     mutate(Value = str_to_title(Value)) %>%
     count(Value) %>%
-    filter(n > 2)
+    filter(n > min_thres)
   
   p = ggplot(DF) +
     aes(x = reorder(Value, n), y = n) +
@@ -277,7 +279,6 @@ plot_most_common_regions = function(AUTHOR_DATA) {
 }
 
 plot_most_common_states = function(AUTHOR_DATA) {
-  browser()
   DF = AUTHOR_DATA %>%
     filter(ShortName == "State") %>%
     pull(Value) %>%
@@ -296,4 +297,34 @@ plot_most_common_states = function(AUTHOR_DATA) {
     theme(axis.text.y = element_text(size = 9))
   
   p
+}
+
+plot_pubs_by_mesh_cat_FAPERJ = function (AUTHOR_DATA, FAPERJ_NETWORK_INFO) {
+  FAPERJ_NETWORK_INFO %>% group_by(FAPERJ_Net) %>%
+    group_map(~ {
+      authors_in_the_network = .x$Author
+      plot_pubs_by_mesh_cat(
+        AUTHOR_DATA %>% filter(Author %in% authors_in_the_network),
+        title = paste("FAPERJ Network", .y$FAPERJ_Net))
+    })
+}
+
+plot_cites_by_mesh_cat_FAPERJ = function (AUTHOR_DATA, FAPERJ_NETWORK_INFO) {
+  FAPERJ_NETWORK_INFO %>% group_by(FAPERJ_Net) %>%
+    group_map(~ {
+      authors_in_the_network = .x$Author
+      plot_cites_by_mesh_cat(
+        AUTHOR_DATA %>% filter(Author %in% authors_in_the_network),
+        title = paste("FAPERJ Network", .y$FAPERJ_Net))
+    })
+}
+
+plot_cite_rate_by_mesh_cat_FAPERJ = function (AUTHOR_DATA, FAPERJ_NETWORK_INFO) {
+  FAPERJ_NETWORK_INFO %>% group_by(FAPERJ_Net) %>%
+    group_map(~ {
+      authors_in_the_network = .x$Author
+      plot_cite_rate_by_mesh_cat(
+        AUTHOR_DATA %>% filter(Author %in% authors_in_the_network)
+      ) + labs(title = paste("FAPERJ Network", .y$FAPERJ_Net))
+    })
 }

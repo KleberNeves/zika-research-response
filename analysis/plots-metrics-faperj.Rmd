@@ -1,5 +1,5 @@
 ---
-title: "Analysis and Plots - CNPq Data"
+title: "Analysis and Plots - FAPERJ Data"
 output: html_notebook
 ---
 
@@ -9,8 +9,9 @@ library(metricshelpr)
 library(tools)
 library(cowplot)
 library(scales)
+library(readxl)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-cnpq 10-03-2021.RData"
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-faperj 02-04-2021.RData"
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
@@ -32,11 +33,17 @@ theme_set(ggtheme)
 source("plot-functions.R")
 ```
 
+Add info about the FAPERJ Network to which the authors belong.
+```{r}
+FAPERJ_NETWORK_INFO = read_excel("../../data/institutions/FAPERJ_Networks.xlsx")
+```
+
+
 ## Characterization of the authors who published in Zika
 
 ### Description of Most Common Journal Area before Epidemics
 ```{r}
-plot_most_common_areas_before(AUTHOR_DATA, period = "Pre-Outbreak")
+plot_most_common_areas(AUTHOR_DATA, period = "Pre-Outbreak", min_thres = 0)
 ```
 
 
@@ -53,30 +60,20 @@ plot_total_citations(AUTHOR_DATA, period = "Pre-Outbreak", logscale = T)
 
 ## Changes in publication patterns after the outbreak
 
-```{r}
-# Make list of authors with at least 3 papers in each period, so that the estimates have a minimal sample size, to remove a bit of noise
-selected_authors = AUTHOR_DATA %>%
-  filter(ShortName == "Papers", Class %in% c("Pre-Outbreak", "Zika")) %>%
-  mutate(Value = as.numeric(Value)) %>%
-  pivot_wider(id_cols = Author, values_from = Value, names_from = Class) %>%
-  filter(`Pre-Outbreak` > 3, Zika > 3) %>% pull(Author)
-```
-
-
 ### Citations per Paper, before and Zika papers
 ```{r}
-plot_compare_citations_per_paper(AUTHOR_DATA %>% filter(Author %in% selected_authors))
+plot_compare_citations_per_paper(AUTHOR_DATA)
 ```
 
 ### Number of Authors per Paper, before and Zika papers
 ```{r}
-plot_compare_authors_per_paper(AUTHOR_DATA %>% filter(Author %in% selected_authors))
+plot_compare_authors_per_paper(AUTHOR_DATA)
 ```
 
 
 ### Percentage of Papers with International Affiliations, before and Zika papers
 ```{r}
-plot_compare_intl_papers(AUTHOR_DATA %>% filter(Author %in% selected_authors))
+plot_compare_intl_papers(AUTHOR_DATA)
 ```
 
 ### Percentage of Zika-related papers post 2016
@@ -103,9 +100,22 @@ plot_cites_by_mesh_cat(AUTHOR_DATA)
 plot_cite_rate_by_mesh_cat(AUTHOR_DATA)
 ```
 
-### Which authors published in which categories?
+## Characterization of Zika-related publications, for each FAPERJ network
+
+### Frequency of MeSH Categories
 
 ```{r}
-plot_pubs_by_mesh_cat_by_field(AUTHOR_DATA, min_authors_to_plot = 3)
+plot_pubs_by_mesh_cat_FAPERJ(AUTHOR_DATA, FAPERJ_NETWORK_INFO)
+```
+### Citations by MeSH category
+
+```{r}
+plot_cites_by_mesh_cat_FAPERJ(AUTHOR_DATA, FAPERJ_NETWORK_INFO)
+```
+
+### Citations per paper, by MeSH category
+
+```{r}
+plot_cite_rate_by_mesh_cat_FAPERJ(AUTHOR_DATA, FAPERJ_NETWORK_INFO)
 ```
 
