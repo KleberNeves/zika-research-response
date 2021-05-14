@@ -1,9 +1,9 @@
 ##### Set parameters for the script #####
 
 # Without extension, will save .RData and .csv
-SAVE_FILENAME = "./extracted_author_data-faperj"
+SAVE_FILENAME = "./extracted_author_data-cnpq"
 
-AUTHOR_DATA_PATH = "../../data/authors-faperj-call"
+AUTHOR_DATA_PATH = "../../data/authors-cnpq-call"
 
 INITIAL_SEARCH_DATA = "../../data/Zika Papers - Combined WoS + iCite dataset.RData"
 
