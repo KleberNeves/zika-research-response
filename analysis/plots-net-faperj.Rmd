@@ -80,6 +80,11 @@ Plot the geographical networks.
 #### Researchers
 
 ```{r}
-plot_collab_matrix(nets$pre$edgelist, "State", include_loops = T, flevels = states_list)
-plot_collab_matrix(nets$post$edgelist, "State", include_loops = T, flevels = states_list)
+plot_collab_matrix(nets$pre$edgelist, "Researcher", include_loops = T)
+plot_collab_matrix(nets$post$edgelist, "Researcher", include_loops = T)
+
+plot_collab_matrix(nets$pre$edgelist, "FAPERJ_Network", include_loops = T, flevels = as.character(1:6))
+plot_collab_matrix(nets$post$edgelist, "FAPERJ_Network", include_loops = T, flevels = as.character(1:6))
 ```
+
+

@@ -49,6 +49,7 @@ load_biblio_geo = function (filename) {
 }
 
 build_network_from_papers = function (DF, excluding = c()) {
+  isFAPERJ = "FAPERJ_Network" %in% colnames(DF)
   
   print("Finding common authorship ...")
   connecting_papers = DF %>% filter(!is.na(TargetAuthor)) %>%
@@ -65,6 +66,7 @@ build_network_from_papers = function (DF, excluding = c()) {
     df = DF %>% filter(TI == pub)
     pairs = make_pairs(df$TargetAuthor)
     icols = c("Institution", "State", "Region")
+    if (isFAPERJ) { icols = c(icols, "FAPERJ_Network") }
     edges_from_paper = map_dfr(icols, function (icol) {
         pmap_dfr(pairs, function (V1, V2) {
           pdf = df %>% filter(TargetAuthor %in% c(V1, V2))
@@ -96,6 +98,14 @@ build_network_from_papers = function (DF, excluding = c()) {
     as.matrix(edgelist %>%
                 filter(Type == "Region") %>%
                 select(Va,Vb)), directed = F)
+  if (isFAPERJ) {
+    network_faperj = igraph::graph_from_edgelist(
+      as.matrix(edgelist %>%
+                  filter(Type == "FAPERJ_Network") %>%
+                  select(Va,Vb)), directed = F)
+  } else {
+    network_faperj = NULL
+  }
 
   print("Calculating metrics ...")
   metrics = rbind(
@@ -105,7 +115,13 @@ build_network_from_papers = function (DF, excluding = c()) {
     calc_net_metrics(network_res) %>% mutate(Type = "Researchers")
   )
   
-  list(edgelist = edgelist, nets = list(res = network_res, inst = network_insts, state = network_states, region = network_regions), metrics = metrics)
+  if (isFAPERJ) {
+    metrics = rbind(
+      metrics, calc_net_metrics(network_faperj) %>% mutate(Type = "FAPERJ Network")
+    )
+  }
+  
+  list(edgelist = edgelist, nets = list(res = network_res, inst = network_insts, state = network_states, region = network_regions, faperj = network_faperj), metrics = metrics)
 }
 
 build_period_nets = function (df) {
@@ -147,7 +163,13 @@ make_pairs2 = function (x, y) {
 
 # Function to plot the networks as matrices.
 plot_collab_matrix = function (edgelist, type, include_loops = T, flevels = NULL, title = "") {
-  edgelist = edgelist %>% filter(Type == type)
+  if (type != "Researcher") {
+    edgelist = edgelist %>% filter(Type == type) 
+  } else {
+    edgelist = edgelist %>%
+      distinct(id, .keep_all = T) %>%
+      mutate(Va = VRES1, Vb = VRES2)
+  }
   
   if (!include_loops) {
     edgelist = edgelist %>% filter(Va != Vb)
