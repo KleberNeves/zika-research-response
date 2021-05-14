@@ -1,0 +1,74 @@
+---
+title: "Networks - FAPERJ Data"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(metricshelpr)
+library(tools)
+library(cowplot)
+library(scales)
+library(readxl)
+
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-faperj 02-04-2021.RData"
+
+if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
+  AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
+} else if (file_ext(EXTRACTED_DATA_PATH) %in% c("RData", "Rdata")) {
+  load(EXTRACTED_DATA_PATH)
+}
+
+AUTHOR_DATA = AUTHOR_DATA %>% mutate(
+  ShortName = ShortName %>%
+           str_replace("& Preg", "&\nPreg") %>%
+           str_replace("& Surv", "&\nSurv") %>%
+           str_replace("& Diag", "&\nDiag")
+)
+
+AUTHOR_DATA_PATH = "../../data/authors-faperj-call"
+
+GEO_DATA = read_excel("../../data/institutions/Institutions and States - manual curation.xlsx", sheet = 3)
+states_list = GEO_DATA %>% pull(State)
+regions_list = GEO_DATA %>% pull(Region) %>% unique()
+rm(GEO_DATA)
+
+# ggplot theme
+ggtheme = theme_cowplot()
+theme_set(ggtheme)
+
+source("plot-functions.R")
+source("net-functions.R")
+```
+
+Load bibliometric data for each author, add columns for target author, affiliation, state and region and if papers were before or after 2016.
+```{r}
+filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
+# i = which(filenames == paste0(AUTHOR_DATA_PATH, "/Carlos Roberto Prudencio.txt"))
+# AUTHOR_NET_DATA = map_dfr(filenames[i:length(filenames)], load_biblio_geo)
+AUTHOR_NET_DATA = map_dfr(filenames, load_biblio_geo)
+```
+
+When a paper appears more than once, it is a collaboration - merge the states, regions and affiliations. Consider only the five-year period before 2016, to be comparable to the period since the outbreak.
+```{r}
+AUTHOR_NET_DATA_NC = AUTHOR_NET_DATA
+nets = build_period_nets(AUTHOR_NET_DATA_NC)
+```
+
+Network metrics.
+```{r}
+metrics = rbind(
+  nets$pre$metrics %>% mutate(Class = "Pre-Outbreak"),
+  nets$post$metrics %>% mutate(Class = "Post-Outbreak")
+)
+metrics
+```
+
+Plot the geographical networks.
+
+#### Researchers
+
+```{r}
+plot_collab_matrix(nets$pre$edgelist, "State", include_loops = T, flevels = states_list)
+plot_collab_matrix(nets$post$edgelist, "State", include_loops = T, flevels = states_list)
+```
