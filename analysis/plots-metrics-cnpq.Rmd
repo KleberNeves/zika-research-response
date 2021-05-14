@@ -10,7 +10,7 @@ library(tools)
 library(cowplot)
 library(scales)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-cnpq 10-03-2021.RData"
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-cnpq 14-05-2021.RData"
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
@@ -36,7 +36,7 @@ source("plot-functions.R")
 
 ### Description of Most Common Journal Area before Epidemics
 ```{r}
-plot_most_common_areas_before(AUTHOR_DATA, period = "Pre-Outbreak")
+plot_most_common_areas(AUTHOR_DATA, period = "Pre-Outbreak", min_thres = 2)
 ```
 
 
