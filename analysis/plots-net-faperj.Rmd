@@ -49,6 +49,17 @@ filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
 AUTHOR_NET_DATA = map_dfr(filenames, load_biblio_geo)
 ```
 
+Add columns to indicate the Rede FAPERJ for each author.
+```{r}
+authors_redes_FAPERJ = tibble(
+  TargetAuthor = c("Mário Alberto Cardoso da Silva Neto", "Richard Ian Samuels", "Ricardo Lourenço de Oliveira", "Izabel Christina Nunes de Palmer Paixão", "Andrea Thompson da Poian", "Stevens Kastrup Rehen", "Wilson Savino", "Jose Garcia Ribeiro Abreu Junior", "Amilcar Tanuri", "José Mauro Peralta", "Cristina Barroso Hofer", "Marzia Puccioni Sohler"),
+  FAPERJ_Network = rep(c(1,2,3,4,5,6), each = 2),
+  FAPERJ_NetworkSize = rep(c(31,53,51,111,53,26), each = 2)
+)
+
+AUTHOR_NET_DATA = merge(AUTHOR_NET_DATA, authors_redes_FAPERJ, by = "TargetAuthor")
+```
+
 When a paper appears more than once, it is a collaboration - merge the states, regions and affiliations. Consider only the five-year period before 2016, to be comparable to the period since the outbreak.
 ```{r}
 AUTHOR_NET_DATA_NC = AUTHOR_NET_DATA
