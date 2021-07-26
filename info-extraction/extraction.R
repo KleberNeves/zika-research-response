@@ -1,11 +1,11 @@
 ##### Set parameters for the script #####
 
 # Without extension, will save .RData and .csv
-SAVE_FILENAME = "./extracted_author_data-cnpq"
+SAVE_FILENAME = "./extracted_author_data-faperj"
 
-AUTHOR_DATA_PATH = "../../data/authors-cnpq-call"
+AUTHOR_DATA_PATH = "../../data/authors-faperj-call"
 
-INITIAL_SEARCH_DATA = "../../data/Zika Papers - Combined WoS + iCite dataset.RData"
+INITIAL_SEARCH_DATA = "../../data/Zika Papers - Combined WoS + iCite dataset 020621.RData"
 
 MESH_CLASSIFICATION = "../../data/Selected List of MeSH Terms - classification Kleber.xlsx"
 
@@ -15,6 +15,7 @@ AFFILIATION_CLASSIFICATION = "../../data/institutions/Institutions and States - 
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
+source("helper.r")
 source("extraction-functions.R")
 
 # Load the data for all the Zika papers
@@ -40,7 +41,11 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
 filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
 # i = which(filenames == paste0(AUTHOR_DATA_PATH, "/Lucia Maria Costa Monteiro.txt"))
 # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
-AUTHOR_DATA = map_dfr(filenames, extract_author_info)
+# AUTHOR_DATA = map_dfr(filenames, extract_author_info)
+
+AUTHOR_DATA2 = map_dfr(filenames, extract_author_info2)
+load("/home/kleber/Dropbox/Scientific Research/Projects/Zika Response/Resposta Epidemia Zika/Code/data/extracted-author-data/extracted_author_data-faperj 02-06-2021.RData")
+AUTHOR_DATA = rbind(AUTHOR_DATA, AUTHOR_DATA2)
 
 # Save the whole dataset
 date_stamp = strftime(today(), format = "%d-%m-%Y")

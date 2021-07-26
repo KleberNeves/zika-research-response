@@ -2,11 +2,78 @@ library(tidyverse)
 library(bibliometrix)
 library(lubridate)
 library(readxl)
-library(metricshelpr)
+library(iCiteR)
+library(RISmed)
+
+extract_author_info2 = function (filename) {
+  print(basename(filename))
+  author_filename = basename(tools::file_path_sans_ext(filename))
+  
+  # Load bibliometric data
+  quiet = function(x) { 
+    sink(tempfile()) 
+    on.exit(sink()) 
+    invisible(force(x)) 
+  }
+  
+  print("Reading bibliometric records ...")
+  BD = NULL
+  tryCatch({
+    BD = quiet(bibliometrix::convert2df(filename, dbsource = "wos", format = "plaintext"))
+  }, error = function (e) {
+    print(paste0("Error in bibliometrix::convert2df: ", e))
+  })
+  
+  if (is.null(BD)) {
+    return (tibble(Author = author_filename,
+                   Class = "ERROR", Name = "Couldn't load in bibliometrix",
+                   ShortName = NA, Value = NA))
+  }
+  
+  # Break dataset in the relevant parts (pre-outbreak, zika-related papers)
+  BD_PRE = BD %>% filter(PY < 2016)
+  BD_POST = BD %>% filter(PY >= 2016)
+  BD_ZIKA = BD %>%
+    inner_join(ZIKA_PAPERS %>% select(TI), by = "TI")
+  
+  if (nrow(BD_ZIKA) == 0 | nrow(BD_PRE) == 0) {
+    msg = paste0("No records: ZIKA = ", nrow(BD_ZIKA),
+                 ", PRE = ", nrow(BD_PRE),
+                 ", POST = ", nrow(BD_POST))
+    return (tibble(Author = author_filename,
+                   Class = "ERROR", Name = msg, ShortName = NA, Value = NA))
+  }
+  
+  # For each part of the dataset, extract/calculate all the info
+  print("Extracting and calculating info ...")
+  
+  EXTRACTED_INFO = rbind(
+    get_info_from_biblio_data2(BD_PRE, author_filename) %>%
+      add_column(Class = "Pre-Outbreak", .before = 1),
+    get_info_from_biblio_data2(BD_POST, author_filename) %>%
+      add_column(Class = "Post-Outbreak", .before = 1),
+    get_info_from_biblio_data2(BD_ZIKA, author_filename) %>%
+      add_column(Class = "Zika", .before = 1)
+  )
+  
+  EXTRACTED_INFO = EXTRACTED_INFO %>%
+    add_column(Author = author_filename,
+               .before = 1)
+  
+  EXTRACTED_INFO
+}
+
+get_info_from_biblio_data2 = function (BD, author_filename) {
+  rbind(
+    # Average number of authors per paper, separating by international affiliation
+    get_author_number_intl(BD)
+  )
+}
 
 extract_author_info = function (filename) {
   print(basename(filename))
   author_filename = basename(tools::file_path_sans_ext(filename))
+  
   # Load bibliometric data
   quiet = function(x) { 
     sink(tempfile()) 
@@ -14,7 +81,7 @@ extract_author_info = function (filename) {
     invisible(force(x)) 
   }
   print("Reading bibliometric records ...")
-  # browser()
+  browser()
   BD = NULL
   tryCatch({
     BD = quiet(bibliometrix::convert2df(filename, dbsource = "isi", format = "plaintext"))
@@ -27,11 +94,30 @@ extract_author_info = function (filename) {
                    Class = "ERROR", Name = "Couldn't load in bibliometrix",
                    ShortName = NA, Value = NA))
   }
-
+  
+  # Get MeSH terms for all the papers
+  print("Obtaining MeSH terms ...")
+  
+  pmids = BD$PM[!is.na(BD$PM)]
+  if (length(pmids) > 0) {
+    PMD = get.full.mesh(pmids)
+    BD = merge(BD, PMD, by.x = "PM", by.y = "pmid", all.x = T)
+    
+    BD$MeshFullTerms = as.character(BD$MeshFullTerms)
+    BD$MeshHeadings = as.character(BD$MeshHeadings)
+    
+    BD$MeshFullTerms = str_replace_all(BD$MeshFullTerms, "&amp;", "&")
+    BD$MeshHeadings = str_replace_all(BD$MeshHeadings, "&amp;", "&")
+  } else {
+    BD$MeshFullTerms = NA
+    BD$MeshHeadings = NA
+  }
+  
   # Break dataset in the relevant parts (pre-outbreak, zika-related papers)
   BD_PRE = BD %>% filter(PY < 2016)
   BD_POST = BD %>% filter(PY >= 2016)
-  BD_ZIKA = BD %>% inner_join(ZIKA_PAPERS %>% select(TI, MeshFullTerms), by = "TI")
+  BD_ZIKA = BD %>% select(-MeshFullTerms) %>%
+    inner_join(ZIKA_PAPERS %>% select(TI, MeshFullTerms), by = "TI")
   
   if (nrow(BD_ZIKA) == 0 | nrow(BD_PRE) == 0) {
     msg = paste0("No records: ZIKA = ", nrow(BD_ZIKA),
@@ -43,6 +129,7 @@ extract_author_info = function (filename) {
   
   # For each part of the dataset, extract/calculate all the info
   print("Extracting and calculating info ...")
+  
   EXTRACTED_INFO = rbind(
     get_info_from_biblio_data(BD_PRE, author_filename) %>%
       add_column(Class = "Pre-Outbreak", .before = 1),
@@ -77,7 +164,9 @@ get_info_from_biblio_data = function (BD, author_filename) {
     # Academic age of the author – years since their first paper was published
     get_academic_age(BD),
     # Percentage of papers that are zika-related
-    get_perc_zika(BD)
+    get_perc_zika(BD),
+    # Percentage of papers that are virus-related
+    get_perc_virus_papers(BD)
   )
 }
 
@@ -215,6 +304,28 @@ get_author_number = function (BD) {
   )
 }
 
+get_author_number_intl = function (BD) {
+  CO_LIST = extract_author_country_order(BD) %>%
+    select(Title, Author, Country) %>%
+    filter(!is.na(Country))
+  
+  INTL_AU = CO_LIST %>%
+    group_by(Title, Author) %>%
+    # If any affiliation is not BRAZIL, count as international author
+    summarise(INTL = any(str_trim(Country, "both") != "BRAZIL", na.rm = T)) %>%
+    ungroup() %>%
+    count(Title, INTL) %>%
+    pivot_wider(id_cols = Title,
+                names_from = INTL, names_prefix = "INTL_",
+                values_from = n, values_fill = 0)
+  
+  tibble(
+    Name = c("Number of non-INTL Authors per Paper", "Number of INTL Authors per Paper"),
+    ShortName = c("AvgAuthorNumberNonINTL", "AvgAuthorNumberINTL"),
+    Value = c(mean(INTL_AU$INTL_FALSE, na.rm = T), mean(INTL_AU$INTL_TRUE, na.rm = T))
+  )
+}
+
 get_intl_collabs = function (BD) {
   CO_LIST = extract_author_country_order(BD) %>%
     select(Title, Country) %>%
@@ -241,11 +352,28 @@ get_academic_age = function (BD) {
 }
 
 get_perc_zika = function (BD) {
-  zika_number = BD %>% filter(TI %in% ZIKA_PAPERS$TI) %>% nrow()
+  n_matched_papers = BD %>%
+    filter(TI %in% ZIKA_PAPERS$TI) %>% nrow()
+  
   tibble(
     Name = "Percentage of Zika-related papers",
     ShortName = "PercZika",
-    Value = round(zika_number / nrow(BD), 2)
+    Value = round(n_matched_papers / nrow(BD), 2)
+  )
+}
+
+get_perc_virus_papers = function (BD) {
+  if (!("MeshFullTerms" %in% colnames(BD))) {
+    return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
+  }
+  
+  n_matched_papers = BD %>%
+    filter(str_detect(MeshFullTerms %>% str_to_lower(), "(viral|virus|infection)")) %>% nrow()
+  
+  tibble(
+    Name = "Percentage of virus-related papers",
+    ShortName = "PercVirus",
+    Value = round(n_matched_papers / nrow(BD), 2)
   )
 }
 
@@ -266,3 +394,149 @@ find_best_author_match = function (target, query) {
   
   found
 }
+
+extract_author_country_order = function (M) {
+  author_country_data = purrr::map_dfr(1:nrow(M), function (i) {
+    title = M[i, "TI"]
+    affil = M[i, "C1"]
+    author_field = M[i, "AU"]
+    
+    if (is.na(affil) | !stringr::str_detect(affil, "\\[")) {
+      return (
+        data.frame(Title = title,
+                   Author = NA,
+                   Position = NA,
+                   Country = NA,
+                   stringsAsFactors = F)
+      )
+    }
+    
+    # Extract author list and positions to be merged later
+    author_list = unlist(stringr::str_split(author_field, ";"))
+    author_list = data.frame(Author = author_list, Position = 1:length(author_list))
+    author_list$NegPosition = author_list$Position - nrow(author_list) - 1
+    
+    # Extracts author list from affiliation text
+    authors = unlist(stringr::str_extract_all(affil, "(\\[.+?\\])"))
+    authors = stringr::str_replace_all(authors, "[.];", ".")
+    nauthors_per_group = stringr::str_count(authors, ";") + 1
+    authors = stringr::str_remove_all(authors, "\\[")
+    authors = stringr::str_remove_all(authors, "\\]")
+    authors = stringr::str_remove_all(authors, ",")
+    authors = stringr::str_remove_all(authors, "[.]")
+    authors = unlist(stringr::str_split(authors, "; "))
+    
+    # Extracts affiliations per group of authors
+    affil = stringr::str_replace_all(affil, "; \\[", " [")
+    affil = stringr::str_replace_all(affil, "(\\[.+?\\])", "]")
+    affil = unlist(stringr::str_split(affil, "\\] "))
+    affil = affil[2:length(affil)]
+    affil = affil[affil != ""]
+    
+    # Extract countries from affiliations
+    countries = unlist(plyr::llply(affil, function (x) {
+      x = unlist(stringr::str_split(x, "; "))
+      x = stringr::str_trim(x)
+      x = stringr::str_remove_all(x, "[.]")
+      x = stringr::str_remove(x, ".+, ")
+      x[stringr::str_which(x, " USA$")] = "USA"
+      x = paste(x, collapse = "; ")
+    }))
+    countries = rep(countries, nauthors_per_group)
+    
+    # Building results data frame
+    R = data.frame(Title = title,
+                   Author = authors,
+                   Country = countries,
+                   stringsAsFactors = F)
+    
+    RR = merge(R, author_list, by = "Author")
+    
+    # If merge fails, see if author list is using initials and remerge
+    if (nrow(RR) == 0) {
+      author_names = unlist(lapply(authors, function (x) {
+        x = unlist(stringr::str_split(x, " "))
+        first_name = x[1]
+        if (first_name %in% c("DE","DOS","DAS","DA")) {
+          first_name = paste(x[1:2], collapse = " ")
+          x = x[3:length(x)]
+        } else {
+          x = x[2:length(x)]
+        }
+        
+        if (any(x %in% c("DE","DOS","DAS","DA"))) {
+          dosdas = which(x %in% c("DE","DOS","DAS","DA")) + 1
+          x = x[-dosdas]
+        }
+        x = stringr::str_extract(x, "[A-Z]")
+        # } else { x = c() }
+        fullname = paste(c(first_name, " ", x), collapse = "")
+        fullname
+      }))
+      
+      R = data.frame(Title = title,
+                     Author = author_names,
+                     Country = countries,
+                     stringsAsFactors = F)
+      RR = merge(R, author_list, by = "Author")
+    }
+    
+    RR
+  })
+  
+  author_country_data
+}
+
+# Same as the bibliometrix::isi2df function, except it doesn't mess with the C1 field
+# Seemed to work before, I suppose a bibliometrix update broke it
+my_isi2df = function (D) 
+{
+  D <- D[nchar(D) > 0]
+  D <- D[!(substr(D, 1, 3) %in% c("FN ", "VR "))]
+  for (i in 1:length(D)) {
+    if (substr(D[i], 1, 3) == "   ") 
+      substr(D[i], 1, 3) <- substr(D[i - 1], 1, 3)
+  }
+  Papers <- which(substr(D, 1, 3) == "PT ")
+  nP = length(Papers)
+  rowPapers <- diff(c(Papers, length(D) + 1))
+  numPapers <- rep(1:nP, rowPapers)
+  DATA <- data.frame(Tag = substr(D, 1, 3), content = substr(D, 
+                                                             4, nchar(D)), Paper = numPapers, stringsAsFactors = FALSE)
+  DATA$Tag <- gsub(" ", "", DATA$Tag)
+  df <- DATA %>% group_by(.data$Paper, .data$Tag) %>% summarise(cont = paste(.data$content, 
+                                                                             collapse = "---", sep = "")) %>% arrange(.data$Tag, 
+                                                                                                                      .data$Paper) %>% pivot_wider(names_from = .data$Tag, 
+                                                                                                                                                   values_from = .data$cont) %>% ungroup() %>% as.data.frame()
+  df$PY <- as.numeric(df$PY)
+  missingTags <- setdiff(c("AU", "DE", "C1", "RP", "CR", "PY", 
+                           "SO", "TI", "TC"), names(df))
+  if (length(missingTags) > 0) {
+    cat("\nWarning:\nIn your file, some mandatory metadata are missing. Bibliometrix functions may not work properly!\n\nPlease, take a look at the vignettes:\n- 'Data Importing and Converting' (https://www.bibliometrix.org/vignettes/Data-Importing-and-Converting.html)\n- 'A brief introduction to bibliometrix' (https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html)\n\n")
+    cat("\nMissing fields: ", missingTags, "\n")
+  }
+  tagsComma <- c("AU", "AF", "CR")
+  nolab <- setdiff(tagsComma, names(df))
+  tagsComma <- tagsComma[(!(tagsComma %in% nolab))]
+  df1 <- data.frame(lapply(df[tagsComma], function(x) {
+    gsub("---", ";", x)
+  }), stringsAsFactors = FALSE)
+  otherTags <- setdiff(names(df), tagsComma)
+  df2 <- data.frame(lapply(df[otherTags], function(x) {
+    trimES(gsub("---", " ", x))
+  }), stringsAsFactors = FALSE)
+  df <- cbind(df1, df2)
+  rm(df1, df2)
+  df$DB <- "ISI"
+  df$AU <- trimES(gsub(",", " ", df$AU))
+  DI <- df$DI
+  df <- data.frame(lapply(df, toupper), stringsAsFactors = FALSE)
+  df$DI <- DI
+  # df$C1 <- trim(gsub("\\[.*?\\]", "", df$C1))
+  # df$C1 <- gsub("\\.", ".;", df$C1)
+  df <- df[names(df) != "Paper"]
+  return(df)
+}
+
+environment(my_isi2df) = asNamespace('bibliometrix')
+assignInNamespace("isi2df", my_isi2df, ns = "bibliometrix")
