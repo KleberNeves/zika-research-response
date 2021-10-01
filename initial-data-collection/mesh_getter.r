@@ -1,10 +1,6 @@
 # Loads required libraries and helper scripts
-
 library(bibliometrix)
-library(plyr)
-library(dplyr)
-library(reshape2)
-library(stringr)
+library(tidyverse)
 library(iCiteR)
 library(RISmed)
 
@@ -13,10 +9,9 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 source("helper.r")
 
 # Loads Web of Science data
-data_folder = "../../Search Data/Main Search - WoS 080720"
-specific_folder = "World, all"
+data_folder = "../../data/search-data/"
 
-M = get.biblio.data(specific_folder)
+M = get.biblio.data(data_folder)
 M = metaTagExtraction(M, Field = "AU_CO", sep = ";")
 pmids = M$PM[!is.na(M$PM)]
 

@@ -1,6 +1,9 @@
 ---
 title: "Networks - FAPERJ Data"
-output: html_notebook
+output:
+  word_document: default
+  html_document:
+    df_print: paged
 ---
 
 ```{r}

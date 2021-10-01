@@ -1,6 +1,8 @@
 ---
 title: "Analysis and Plots - FAPERJ Data"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r}
@@ -11,7 +13,7 @@ library(cowplot)
 library(scales)
 library(readxl)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-faperj 02-04-2021.RData"
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-faperj 02-06-2021.RData"
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")

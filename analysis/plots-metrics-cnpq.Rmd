@@ -1,6 +1,8 @@
 ---
 title: "Analysis and Plots - CNPq Data"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r}
@@ -10,7 +12,7 @@ library(tools)
 library(cowplot)
 library(scales)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-cnpq 14-05-2021.RData"
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-cnpq 02-06-2021.RData"
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
@@ -91,6 +93,16 @@ plot_perc_zika_papers(AUTHOR_DATA)
 ```{r}
 plot_pubs_by_mesh_cat(AUTHOR_DATA, title = "All Fields")
 ```
+### Frequency of MeSH Categories by Region
+
+```{r}
+regions = c("SE","NE","CO","S","N")
+
+plot_pubs_by_mesh_cat_by_region(AUTHOR_DATA, regions)
+```
+
+
+
 ### Citations by MeSH category
 
 ```{r}

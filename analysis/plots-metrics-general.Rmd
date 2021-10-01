@@ -1,6 +1,8 @@
 ---
 title: "Analysis and Plots - General Authors Data"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r}
@@ -9,8 +11,9 @@ library(metricshelpr)
 library(tools)
 library(cowplot)
 library(scales)
+library(readxl)
 
-EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-general 14-05-2021.RData"
+EXTRACTED_DATA_PATH = "../../data/extracted-author-data/extracted_author_data-general 02-06-2021.RData"
 
 if (file_ext(EXTRACTED_DATA_PATH) == "csv") {
   AUTHOR_DATA = read.table(EXTRACTED_DATA_PATH, header = T, sep = ";", dec = ",")
@@ -25,10 +28,23 @@ AUTHOR_DATA = AUTHOR_DATA %>% mutate(
            str_replace("& Diag", "&\nDiag")
 )
 
+MESH_CLASSIFICATION = "../../data/Selected List of MeSH Terms - classification Kleber.xlsx"
+
+MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>% filter(!is.na(Category))
+
+# Load the data for all the Zika papers
+INITIAL_SEARCH_DATA = "../../data/Zika Papers - Combined WoS + iCite dataset 020621.RData"
+
+load(INITIAL_SEARCH_DATA)
+ZIKA_PAPERS = M
+rm(M)
+rm(MESHLIST)
+
 # ggplot theme
 ggtheme = theme_cowplot()
 theme_set(ggtheme)
 
+source("extraction-functions.R")
 source("plot-functions.R")
 ```
 
@@ -38,30 +54,38 @@ source("plot-functions.R")
 ```{r}
 plot_most_common_areas(AUTHOR_DATA, period = "Pre-Outbreak", min_thres = 5)
 ```
+
+
 ### Description of Most Common Institutions for authors in the dataset (after 2016)
 ```{r}
 plot_most_common_institutions(AUTHOR_DATA)
 ```
+
+
 ### Description of Most Common Regions for authors in the dataset (after 2016)
 ```{r}
 plot_most_common_states(AUTHOR_DATA)
 ```
+
 
 ### Description of Most Common Regions for authors in the dataset (after 2016)
 ```{r}
 plot_most_common_regions(AUTHOR_DATA)
 ```
 
+
 ### Academic Age - Years Since the First Paper Record
 ```{r}
 plot_academic_age_hist(AUTHOR_DATA, period = "Pre-Outbreak")
 ```
+
 
 ### Total Citations, before Epidemics
 ```{r}
 plot_total_citations(AUTHOR_DATA, period = "Pre-Outbreak", logscale = F)
 plot_total_citations(AUTHOR_DATA, period = "Pre-Outbreak", logscale = T)
 ```
+
 
 ## Changes in publication patterns after the outbreak
 
@@ -92,29 +116,49 @@ plot_compare_authors_per_paper(AUTHOR_DATA %>% filter(Author %in% selected_autho
 plot_compare_intl_papers(AUTHOR_DATA %>% filter(Author %in% selected_authors))
 ```
 
+
+### Percentage of virus or infection-related papers pre 2016
+```{r}
+plot_perc_virus_papers(AUTHOR_DATA, period = "Pre-Outbreak")
+```
+
+
 ### Percentage of Zika-related papers post 2016
 ```{r}
 plot_perc_zika_papers(AUTHOR_DATA)
 ```
 
+
+
 ## Characterization of Zika-related publications
 
-### Frequency of MeSH Categories
+### Frequency of MeSH Categories (full corpus of Zika-related papers)
+
+```{r}
+plot_pubs_by_mesh_cat_pubset(ZIKA_PAPERS, title = "All Zika-related papers")
+```
+
+
+### Frequency of MeSH Categories (only Brazilian)
 
 ```{r}
 plot_pubs_by_mesh_cat(AUTHOR_DATA, title = "All Fields")
 ```
+
+
 ### Citations by MeSH category
 
 ```{r}
 plot_cites_by_mesh_cat(AUTHOR_DATA)
 ```
 
+
 ### Citations per paper, by MeSH category
 
 ```{r}
 plot_cite_rate_by_mesh_cat(AUTHOR_DATA)
 ```
+
 
 ### Which authors published in which categories?
 

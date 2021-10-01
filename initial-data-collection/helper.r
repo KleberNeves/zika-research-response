@@ -5,9 +5,7 @@ get.bibliometrix.M = function(filenames) {
   M
 }
 
-get.biblio.data = function (generation) {
-  # browser()
-  datapath = paste0(data_folder, "/", generation)
+get.biblio.data = function (datapath) {
   filenames = paste0(datapath,"/",list.files(datapath, pattern = ".txt$"))
   M = get.bibliometrix.M(filenames)
   M = M[!duplicated(M$TI),]
@@ -15,7 +13,12 @@ get.biblio.data = function (generation) {
   M
 }
 
+call.mesh.api = function (pmid) {
+  
+}
+
 get.full.mesh = function(pmids) {
+  browser()
   parts = split(pmids, ceiling(seq_along(pmids)/100))
   
   done = 0
@@ -23,7 +26,8 @@ get.full.mesh = function(pmids) {
     p.rec = EUtilsGet(part)
     done <<- done + length(part)
     cat(paste0(done,"/",length(pmids),"\n"))
-    Sys.sleep(15)
+    print ("Sleep ...")
+    Sys.sleep(1)
     p.rec
   }
   
@@ -32,8 +36,8 @@ get.full.mesh = function(pmids) {
   record.parts = lapply(parts, get.part)
   
   print("Matching MeSH terms ...")
-  D = ldply(record.parts, function(record.part) {
-    D2 = ldply(record.part@Mesh, function (x) {
+  D = map_dfr(record.parts, function(record.part) {
+    D2 = map_dfr(record.part@Mesh, function (x) {
       if (all(is.na(x))) {
         return (data.frame(MeshFullTerms = "No Mesh Terms",
                            MeshHeadings = "No Mesh Terms"))

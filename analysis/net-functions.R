@@ -1,9 +1,3 @@
-library(tidyverse)
-library(bibliometrix)
-library(lubridate)
-library(readxl)
-library(metricshelpr)
-
 load_biblio_geo = function (filename) {
   print(basename(filename))
   author_filename = basename(tools::file_path_sans_ext(filename))
@@ -164,7 +158,7 @@ make_pairs2 = function (x, y) {
 # Function to plot the networks as matrices.
 plot_collab_matrix = function (edgelist, type, include_loops = T, flevels = NULL, title = "") {
   if (type != "Researcher") {
-    edgelist = edgelist %>% filter(Type == type) 
+    edgelist = edgelist %>% filter(Type == type)
   } else {
     edgelist = edgelist %>%
       distinct(id, .keep_all = T) %>%
@@ -183,7 +177,7 @@ plot_collab_matrix = function (edgelist, type, include_loops = T, flevels = NULL
       Vb = factor(Vb, levels = rev(flevels))
     )
   }
-  
+
   ggplot(edgelist) +
     aes(x = Va, y = Vb, alpha = n, label = n) +
     geom_tile(fill = "blue") +
