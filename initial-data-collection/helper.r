@@ -1,4 +1,11 @@
-# Helper functions (I'm moving them to a package, this is a placeholder)
+# Helper functions
+library(httr)
+library(xml2)
+library(rvest)
+library(tidyverse)
+library(glue)
+library(readxl)
+library(bibliometrix)
 
 get.bibliometrix.M = function(filenames) {
   M = convert2df(filenames, dbsource = "isi", format = "plaintext")
@@ -13,58 +20,64 @@ get.biblio.data = function (datapath) {
   M
 }
 
-call.mesh.api = function (pmid) {
+# Fetches the information from the PubMed API
+fetch_pubmed_mesh = function (pmids) {
+  id_set = paste(pmids, collapse = ",")
   
+  content = xml2::read_xml(glue("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id={id_set}&rettype=abstract&retmode=xml"))
+  
+  xml_articles = content %>% html_elements("PubmedArticle")
+  
+  map_dfr(xml_articles, extract_mesh_from_xml)
 }
 
-get.full.mesh = function(pmids) {
-  browser()
-  parts = split(pmids, ceiling(seq_along(pmids)/100))
+# Extract MeSH terms from XML returned from API
+extract_mesh_from_xml = function (xml_article) {
+  xml_mesh_terms = xml_article %>% html_elements("MedlineCitation > MeshHeadingList > MeshHeading")
+  
+  mesh_terms = map_dfr(xml_mesh_terms, function (xml_mesh_term) {
+    xml_mesh_heading = xml_mesh_term %>% html_elements("DescriptorName") %>% html_text()
+    xml_mesh_qualifier = xml_mesh_term %>% html_elements("QualifierName") %>% html_text()
+    if (length(xml_mesh_qualifier) == 0) xml_mesh_qualifier = ""
+    tibble(Heading = xml_mesh_heading, Qualifier = xml_mesh_qualifier)
+  })
+  
+  pmid = xml_article %>% html_element("MedlineCitation > PMID") %>% html_text()
+  mesh_terms$pmid = pmid
+  
+  mesh_terms
+}
+
+# For a set of PMIDs, fetches and organizes the MeSH terms
+get_mesh_terms = function (pmids) {
+  pmids = pmids[!is.na(pmids)]
+  parts = split(pmids, ceiling(seq_along(pmids) / 50))
   
   done = 0
   get.part = function (part) {
-    p.rec = EUtilsGet(part)
+    pm_rec = fetch_pubmed_mesh(part)
     done <<- done + length(part)
     cat(paste0(done,"/",length(pmids),"\n"))
     print ("Sleep ...")
-    Sys.sleep(1)
-    p.rec
+    Sys.sleep(2)
+    pm_rec
   }
   
   print("Downloading PubMed records ...")
-  # load("/home/kleber/record.parts.RData")
-  record.parts = lapply(parts, get.part)
+  all_mesh_terms = map_dfr(parts, get.part)
+}
+
+organize_mesh_terms = function (mesh_terms) {
+  print("Organizing MeSH terms ...")
+  collapsed_terms = mesh_terms %>%
+    mutate(Term = paste0(Heading, ":", Qualifier) %>% str_remove(":$")) %>%
+    group_by(pmid) %>%
+    summarise(
+      MeshFullTerms = paste(Term, collapse = ";"),
+      MeshHeadings = paste(Heading, collapse = ";")
+    )
   
-  print("Matching MeSH terms ...")
-  D = map_dfr(record.parts, function(record.part) {
-    D2 = map_dfr(record.part@Mesh, function (x) {
-      if (all(is.na(x))) {
-        return (data.frame(MeshFullTerms = "No Mesh Terms",
-                           MeshHeadings = "No Mesh Terms"))
-      }
-      
-      x$I = 1:nrow(x)
-      for (i in 2:nrow(x)) {
-        if (!is.na(x[i, "Type"])) {
-          if (x[i, "Type"] == "Qualifier") {
-            x[i, "I"] = x[i - 1, "I"]
-          }
-        }
-      }
-      x$Qualifier = ifelse(x$Type == "Qualifier", paste0(":", as.character(x$Heading)), "")
-      x$Heading2 = x$Heading[x$I]
-      x$FullTerm = paste0(x$Heading2, x$Qualifier)
-      
-      MeshFullTerms = paste(x$FullTerm, collapse = ";")
-      MeshHeadings = paste(unique(x$Heading2), collapse = ";")
-      
-      data.frame(MeshFullTerms, MeshHeadings)
-    })
-    D2$pmid = unlist(record.part@PMID)
-    D2
-  })
-  
-  D
+  collapsed_terms
 }
 
 extract.author.country.order = function (M) {

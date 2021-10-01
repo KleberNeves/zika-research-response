@@ -28,15 +28,9 @@ ICD = ICD %>% select(pmid, animal, human, molecular_cellular, apt) %>%
 M = merge(M, ICD, by.x = "PM", by.y = "pmid", all.x = T)
 
 # Queries PubMed for the MeSH terms
-PMD = get.full.mesh(pmids)
+raw_mesh_terms = get_mesh_terms(M$PM)
+PMD = organize_mesh_terms(raw_mesh_terms)
 M = merge(M, PMD, by.x = "PM", by.y = "pmid", all.x = T)
-M = M %>% select(-`.id`)
-
-M$MeshFullTerms = as.character(M$MeshFullTerms)
-M$MeshHeadings = as.character(M$MeshHeadings)
-
-M$MeshFullTerms = str_replace_all(M$MeshFullTerms, "&amp;", "&")
-M$MeshHeadings = str_replace_all(M$MeshHeadings, "&amp;", "&")
 
 # Saves the list of MeSH terms so that we can classify the most common ones
 MESHLIST = data.frame(Term = unlist(str_split(M$MeshFullTerms,";"))) %>%
@@ -47,6 +41,6 @@ MESHLIST$Cumulative = cumsum(MESHLIST$N) / sum(MESHLIST$N)
 write.table(MESHLIST, "Full List of MeSH Terms.csv", sep = "\t", row.names = F)
 write.table(MESHLIST %>% filter(N >= 10), "Selected List of MeSH Terms.csv", sep = "\t", row.names = F)
 
-dataset_info = "Generated from mesh_getter.r in 18/08/2020 (dmy). Caching all the iCite data so it's not necessary to query for it again later."
+dataset_info = "Generated from mesh_getter.r in 01/10/2021 (dmy). Caching all the iCite and PubMed data so it's not necessary to query for it again later."
 
 save(M, MESHLIST, dataset_info, file = "Combined WoS + iCite dataset.RData")

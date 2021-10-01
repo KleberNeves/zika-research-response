@@ -5,7 +5,7 @@ SAVE_FILENAME = "./extracted_author_data-faperj"
 
 AUTHOR_DATA_PATH = "../../data/authors-faperj-call"
 
-INITIAL_SEARCH_DATA = "../../data/Zika Papers - Combined WoS + iCite dataset 020621.RData"
+INITIAL_SEARCH_DATA = "../../data/Zika Papers - Combined WoS + iCite dataset 010921.RData"
 
 MESH_CLASSIFICATION = "../../data/Selected List of MeSH Terms - classification Kleber.xlsx"
 
