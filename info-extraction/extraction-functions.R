@@ -61,14 +61,18 @@ extract_author_info = function (filename) {
   print("Extracting and calculating info ...")
   
   EXTRACTED_INFO = rbind(
-    get_info_from_biblio_data(BD_PRE, author_filename) %>%
+    get_info_from_biblio_data(BD_PRE) %>%
       add_column(Class = "Pre-Outbreak", .before = 1),
-    get_info_from_biblio_data(BD_POST, author_filename) %>%
+    get_info_from_biblio_data(BD_POST) %>%
       add_column(Class = "Post-Outbreak", .before = 1),
-    get_info_from_biblio_data(BD_ZIKA, author_filename) %>%
+    get_info_from_biblio_data(BD_ZIKA) %>%
       add_column(Class = "Zika", .before = 1),
 
     get_affiliation(BD, author_filename) %>%
+      add_column(Class = "All", .before = 1),
+    
+    # Is there a break in the cognitive career network (side-effect: saves the plot)
+    get_cognitive_career_pivot(BD) %>%
       add_column(Class = "All", .before = 1)
   )
   
@@ -79,7 +83,7 @@ extract_author_info = function (filename) {
   EXTRACTED_INFO
 }
 
-get_info_from_biblio_data = function (BD, author_filename) {
+get_info_from_biblio_data = function (BD) {
   rbind(
     # Identify the primary field of the author - most common journal area
     get_top_field(BD),
@@ -98,7 +102,9 @@ get_info_from_biblio_data = function (BD, author_filename) {
     # Percentage of papers that are zika-related
     get_perc_zika(BD),
     # Percentage of papers that are virus-related
-    get_perc_virus_papers(BD)
+    get_perc_virus_papers(BD),
+    # Percentage of papers that are in epidemiology
+    get_perc_epidemio_papers(BD)
   )
 }
 
@@ -107,6 +113,7 @@ get_max_from_df = function (x) {
 }
 
 get_top_field = function (BD) {
+  print("Extracting: top field")
   x = unlist(str_split(BD$SC, "; "))
   tibble(
     Name = "Most Common Journal Area",
@@ -116,7 +123,7 @@ get_top_field = function (BD) {
 }
 
 get_affiliation = function (BD, author_filename) {
-  # browser()
+  print("Extracting: affiliation")
   author_affiliations = tibble()
   tryCatch({
     author_affiliations = extract_author_affiliations(BD) %>%
@@ -181,6 +188,7 @@ get_zika_cat = function (mesh_term_list) {
 }
 
 get_mesh_categories = function (BD) {
+  print("Extracting: Zika categories")
   if (!("MeshFullTerms" %in% colnames(BD))) {
     return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
   }
@@ -217,6 +225,7 @@ get_mesh_categories = function (BD) {
 }
 
 get_citations = function (BD) {
+  print("Extracting: citations")
   tibble(
     Name = c("Total Citations", "Citations per Paper"),
     ShortName = c("Citations", "CitationRate"),
@@ -228,6 +237,7 @@ get_citations = function (BD) {
 }
 
 get_author_number = function (BD) {
+  print("Extracting: author number")
   # Makes use of the separation of authors by semicolons in the AU field
   tibble(
     Name = "Number of Authors per Paper",
@@ -237,6 +247,7 @@ get_author_number = function (BD) {
 }
 
 get_author_number_intl = function (BD) {
+  print("Extracting: INTL author number")
   CO_LIST = extract_author_country_order(BD) %>%
     select(Title, Author, Country) %>%
     filter(!is.na(Country))
@@ -259,6 +270,7 @@ get_author_number_intl = function (BD) {
 }
 
 get_intl_collabs = function (BD) {
+  print("Extracting: % INTL collaboration")
   CO_LIST = extract_author_country_order(BD) %>%
     select(Title, Country) %>%
     filter(!is.na(Country))
@@ -276,6 +288,7 @@ get_intl_collabs = function (BD) {
 }
 
 get_academic_age = function (BD) {
+  print("Extracting: academic age")
   tibble(
     Name = "Academic Age - Years Since the First Paper Record",
     ShortName = "Academic Age",
@@ -284,6 +297,7 @@ get_academic_age = function (BD) {
 }
 
 get_perc_zika = function (BD) {
+  print("Extracting: % zika papers")
   n_matched_papers = BD %>%
     filter(TI %in% ZIKA_PAPERS$TI) %>% nrow()
   
@@ -295,6 +309,7 @@ get_perc_zika = function (BD) {
 }
 
 get_perc_virus_papers = function (BD) {
+  print("Extracting: % virus papers")
   if (!("MeshFullTerms" %in% colnames(BD))) {
     return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
   }
@@ -305,6 +320,26 @@ get_perc_virus_papers = function (BD) {
   tibble(
     Name = "Percentage of virus-related papers",
     ShortName = "PercVirus",
+    Value = round(n_matched_papers / nrow(BD), 2)
+  )
+}
+
+get_perc_epidemio_papers = function (BD) {
+  print("Extracting: % epidemiological papers")
+  if (!("MeshFullTerms" %in% colnames(BD))) {
+    return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
+  }
+  
+  n_matched_papers = BD %>%
+    filter(
+      str_detect(
+        MeshFullTerms %>%
+          str_to_lower(), "(outbreaks|epidemiolog|public health surveillance|reproduction number)")) %>%
+    nrow()
+  
+  tibble(
+    Name = "Percentage of epidemiology papers",
+    ShortName = "PercEpidemio",
     Value = round(n_matched_papers / nrow(BD), 2)
   )
 }
@@ -325,6 +360,106 @@ find_best_author_match = function (target, query) {
   })
   
   found
+}
+
+extract_author_affiliations = function (M) {
+  author_country_data = plyr::ldply(1:nrow(M), function (i) {
+    title = M[i, "TI"]
+    affil = M[i, "C1"]
+    author_field = M[i, "AU"]
+    
+    if (is.na(affil) | !stringr::str_detect(affil, "\\[")) {
+      return (
+        data.frame(Title = title,
+                   Author = NA,
+                   Position = NA,
+                   Country = NA,
+                   stringsAsFactors = F)
+      )
+    }
+    
+    # Extract author list and positions to be merged later
+    author_list = unlist(stringr::str_split(author_field, ";"))
+    author_list = data.frame(Author = author_list, Position = 1:length(author_list))
+    author_list$NegPosition = author_list$Position - nrow(author_list) - 1
+    
+    # Extracts author list from affiliation text
+    authors = unlist(stringr::str_extract_all(affil, "(\\[.+?\\])"))
+    authors = stringr::str_replace_all(authors, "[.];", ".")
+    nauthors_per_group = stringr::str_count(authors, ";") + 1
+    authors = stringr::str_remove_all(authors, "\\[")
+    authors = stringr::str_remove_all(authors, "\\]")
+    authors = stringr::str_remove_all(authors, ",")
+    authors = stringr::str_remove_all(authors, "[.]")
+    authors = unlist(stringr::str_split(authors, "; "))
+    
+    # Extracts affiliations per group of authors
+    affil = stringr::str_replace_all(affil, "; \\[", " [")
+    affil = stringr::str_replace_all(affil, "(\\[.+?\\])", "]")
+    affil = unlist(stringr::str_split(affil, "\\] "))
+    affil = affil[2:length(affil)]
+    affil = affil[affil != ""]
+    
+    affils = rep(affil, nauthors_per_group) %>%
+      stringr::str_remove_all("(;$)|([.] $)")
+    
+    # Extract countries from affiliations
+    countries = unlist(plyr::llply(affil, function (x) {
+      x = unlist(stringr::str_split(x, "; "))
+      x = stringr::str_trim(x)
+      x = stringr::str_remove_all(x, "[.]")
+      x = stringr::str_remove(x, ".+, ")
+      x[stringr::str_which(x, " USA$")] = "USA"
+      x = paste(x, collapse = "; ")
+    }))
+    countries = rep(countries, nauthors_per_group)
+    
+    # Building results data frame
+    R = data.frame(Title = title,
+                   Author = authors,
+                   Affiliation = affils,
+                   Country = countries,
+                   stringsAsFactors = F)
+    
+    RR = merge(R, author_list, by = "Author")
+    
+    # If merge fails, see if author list is using initials and remerge
+    if (nrow(RR) == 0) {
+      author_names = unlist(lapply(authors, function (x) {
+        x = unlist(stringr::str_split(x, " "))
+        first_name = x[1]
+        if (first_name %in% c("DE","DOS","DAS","DA")) {
+          first_name = paste(x[1:2], collapse = " ")
+          x = x[3:length(x)]
+        } else {
+          x = x[2:length(x)]
+        }
+        
+        if (any(x %in% c("DE","DOS","DAS","DA"))) {
+          dosdas = which(x %in% c("DE","DOS","DAS","DA")) + 1
+          x = x[-dosdas]
+        }
+        x = stringr::str_extract(x, "[A-Z]")
+        # } else { x = c() }
+        fullname = paste(c(first_name, " ", x), collapse = "")
+        fullname
+      }))
+      
+      R = data.frame(Title = title,
+                     Author = author_names,
+                     Affiliation = affils,
+                     Country = countries,
+                     stringsAsFactors = F)
+      RR = merge(R, author_list, by = "Author")
+    }
+    
+    RR
+  })
+  
+  author_country_data$Institution = stringr::str_extract(author_country_data$Affiliation, ".+?,") %>%
+    stringr::str_remove(",")
+  
+  author_country_data
 }
 
 extract_author_country_order = function (M) {
@@ -417,6 +552,90 @@ extract_author_country_order = function (M) {
   })
   
   author_country_data
+}
+
+get_cognitive_career_pivot = function (BD) {
+  print("Extracting: cognitive career pivot")
+  ZIKA_TI = BD %>% select(TI) %>%
+    inner_join(ZIKA_PAPERS %>% select(TI), by = "TI") %>%
+    pull(TI)
+  
+  BD = BD %>% mutate(
+    COMPONENT = ifelse(
+      PY >= 2016 | is.na(PY),
+      ifelse(
+        TI %in% ZIKA_TI,
+        "ZIKA",
+        "POST"
+      ),
+      "PRE"
+    )
+  )
+
+  CM = BD %>%
+    group_by(COMPONENT) %>%
+    summarise(
+      TI = COMPONENT[1],
+      CR = paste(CR, collapse = ";")
+    ) %>%
+    as.data.frame()
+  
+  # If no pre- or zika papers are found, return NA
+  if (sum(CM$COMPONENT == "ZIKA") == 0 | sum(CM$COMPONENT == "PRE") == 0) {
+    return (tibble(
+      Name = c("CognitiveCareerNetworkCoupling", "CognitiveCareerNetworkPivot"),
+      ShortName = c("CareerNetCoupling", "CareerNetPivot"),
+      Value = NA
+    ))
+  }
+  
+  # Makes the adjancency matrix and graph for the bibliographic coupling network
+  # ADJ = as.matrix(
+  #   biblioNetwork(CM, analysis = "coupling", network = "references",
+  #                               sep = ";", shortlabel = F))
+  
+  WCR = Matrix::t(cocMatrix(CM, Field = "CR", sep = ";"))
+  ADJ = as.matrix(Matrix::crossprod(WCR, WCR))
+  colnames(ADJ) = rownames(ADJ) = CM$COMPONENT
+  
+  # if there's non zika papers post-outbreak
+  if (sum(CM$COMPONENT == "POST") == 0) {
+    pre2zika = ADJ["PRE","ZIKA"] > 0
+    if (pre2zika) {
+      coupling_type = "Coupled to Zika"  
+    } else {
+      coupling_type = "Uncoupled to Zika" 
+    }
+  } else { # if all post-outbreak papers are zika papers
+    pre2zika = ADJ["PRE","ZIKA"] > 0
+    pre2post = ADJ["PRE","POST"] > 0
+    if (pre2zika) {
+      if (pre2post) {
+        coupling_type = "Coupled to both"    
+      } else {
+        coupling_type = "Coupled to Zika only"    
+      }
+    } else {
+      if (pre2post) {
+        coupling_type = "Coupled to non-Zika only"    
+      } else {
+        coupling_type = "Uncoupled to either"    
+      }
+    }
+  }
+  
+  if (coupling_type %in%
+      c("Coupled to non-Zika only","Uncoupled to either","Uncoupled to Zika")) {
+    pivot_type = "Hard pivot"
+  } else {
+    pivot_type = "Soft pivot"
+  }
+  
+  return (tibble(
+    Name = c("CognitiveCareerNetworkCoupling", "CognitiveCareerNetworkPivot"),
+    ShortName = c("CareerNetCoupling", "CareerNetPivot"),
+    Value = c(coupling_type, pivot_type)
+  ))
 }
 
 # Same as the bibliometrix::isi2df function, except it doesn't mess with the C1 field
