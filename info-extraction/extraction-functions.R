@@ -2,73 +2,8 @@ library(tidyverse)
 library(bibliometrix)
 library(lubridate)
 library(readxl)
-library(iCiteR)
-library(RISmed)
 
-extract_author_info2 = function (filename) {
-  print(basename(filename))
-  author_filename = basename(tools::file_path_sans_ext(filename))
-  
-  # Load bibliometric data
-  quiet = function(x) { 
-    sink(tempfile()) 
-    on.exit(sink()) 
-    invisible(force(x)) 
-  }
-  
-  print("Reading bibliometric records ...")
-  BD = NULL
-  tryCatch({
-    BD = quiet(bibliometrix::convert2df(filename, dbsource = "wos", format = "plaintext"))
-  }, error = function (e) {
-    print(paste0("Error in bibliometrix::convert2df: ", e))
-  })
-  
-  if (is.null(BD)) {
-    return (tibble(Author = author_filename,
-                   Class = "ERROR", Name = "Couldn't load in bibliometrix",
-                   ShortName = NA, Value = NA))
-  }
-  
-  # Break dataset in the relevant parts (pre-outbreak, zika-related papers)
-  BD_PRE = BD %>% filter(PY < 2016)
-  BD_POST = BD %>% filter(PY >= 2016)
-  BD_ZIKA = BD %>%
-    inner_join(ZIKA_PAPERS %>% select(TI), by = "TI")
-  
-  if (nrow(BD_ZIKA) == 0 | nrow(BD_PRE) == 0) {
-    msg = paste0("No records: ZIKA = ", nrow(BD_ZIKA),
-                 ", PRE = ", nrow(BD_PRE),
-                 ", POST = ", nrow(BD_POST))
-    return (tibble(Author = author_filename,
-                   Class = "ERROR", Name = msg, ShortName = NA, Value = NA))
-  }
-  
-  # For each part of the dataset, extract/calculate all the info
-  print("Extracting and calculating info ...")
-  
-  EXTRACTED_INFO = rbind(
-    get_info_from_biblio_data2(BD_PRE, author_filename) %>%
-      add_column(Class = "Pre-Outbreak", .before = 1),
-    get_info_from_biblio_data2(BD_POST, author_filename) %>%
-      add_column(Class = "Post-Outbreak", .before = 1),
-    get_info_from_biblio_data2(BD_ZIKA, author_filename) %>%
-      add_column(Class = "Zika", .before = 1)
-  )
-  
-  EXTRACTED_INFO = EXTRACTED_INFO %>%
-    add_column(Author = author_filename,
-               .before = 1)
-  
-  EXTRACTED_INFO
-}
-
-get_info_from_biblio_data2 = function (BD, author_filename) {
-  rbind(
-    # Average number of authors per paper, separating by international affiliation
-    get_author_number_intl(BD)
-  )
-}
+source("../initial-data-collection/helper.r")
 
 extract_author_info = function (filename) {
   print(basename(filename))
@@ -80,8 +15,8 @@ extract_author_info = function (filename) {
     on.exit(sink()) 
     invisible(force(x)) 
   }
+  
   print("Reading bibliometric records ...")
-  browser()
   BD = NULL
   tryCatch({
     BD = quiet(bibliometrix::convert2df(filename, dbsource = "isi", format = "plaintext"))
@@ -100,14 +35,9 @@ extract_author_info = function (filename) {
   
   pmids = BD$PM[!is.na(BD$PM)]
   if (length(pmids) > 0) {
-    PMD = get.full.mesh(pmids)
+    raw_mesh_terms = get_mesh_terms(pmids)
+    PMD = organize_mesh_terms(raw_mesh_terms)
     BD = merge(BD, PMD, by.x = "PM", by.y = "pmid", all.x = T)
-    
-    BD$MeshFullTerms = as.character(BD$MeshFullTerms)
-    BD$MeshHeadings = as.character(BD$MeshHeadings)
-    
-    BD$MeshFullTerms = str_replace_all(BD$MeshFullTerms, "&amp;", "&")
-    BD$MeshHeadings = str_replace_all(BD$MeshHeadings, "&amp;", "&")
   } else {
     BD$MeshFullTerms = NA
     BD$MeshHeadings = NA
@@ -159,6 +89,8 @@ get_info_from_biblio_data = function (BD, author_filename) {
     get_citations(BD),
     # Average number of authors per paper
     get_author_number(BD),
+    # Average number of authors per paper, separating by international affiliation
+    get_author_number_intl(BD),
     # Percentage of papers with international collaborations
     get_intl_collabs(BD),
     # Academic age of the author – years since their first paper was published

@@ -2,7 +2,6 @@
 library(bibliometrix)
 library(tidyverse)
 library(iCiteR)
-library(RISmed)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
