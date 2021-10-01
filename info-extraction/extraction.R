@@ -8,6 +8,9 @@ AFFILIATION_CLASSIFICATION = "../../data/institutions/Institutions and States - 
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
+source("helper.r")
+source("extraction-functions.R")
+
 # Load the data for all the Zika papers
 load(INITIAL_SEARCH_DATA)
 ZIKA_PAPERS = M
@@ -26,9 +29,6 @@ if (file.exists(AFFILIATION_CLASSIFICATION)) {
 # Load mesh terms categorization
 MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
   filter(!is.na(Category))
-
-source("helper.r")
-source("extraction-functions.R")
 
 # Arguments passed without extension, will save .RData and .csv
 run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {

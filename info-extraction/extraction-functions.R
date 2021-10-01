@@ -590,13 +590,23 @@ get_cognitive_career_pivot = function (BD) {
   }
   
   # Makes the adjancency matrix and graph for the bibliographic coupling network
-  # ADJ = as.matrix(
-  #   biblioNetwork(CM, analysis = "coupling", network = "references",
-  #                               sep = ";", shortlabel = F))
+  got_error = F
+  tryCatch({
+    WCR = Matrix::t(cocMatrix(CM, Field = "CR", sep = ";"))
+    ADJ = as.matrix(Matrix::crossprod(WCR, WCR))
+    colnames(ADJ) = rownames(ADJ) = CM$COMPONENT
+  }, error = function (e) {
+    print(e)
+    got_error <<- T
+  })
   
-  WCR = Matrix::t(cocMatrix(CM, Field = "CR", sep = ";"))
-  ADJ = as.matrix(Matrix::crossprod(WCR, WCR))
-  colnames(ADJ) = rownames(ADJ) = CM$COMPONENT
+  if (got_error) {
+    return (tibble(
+      Name = c("CognitiveCareerNetworkCoupling", "CognitiveCareerNetworkPivot"),
+      ShortName = c("CareerNetCoupling", "CareerNetPivot"),
+      Value = NA
+    ))
+  }
   
   # if there's non zika papers post-outbreak
   if (sum(CM$COMPONENT == "POST") == 0) {
