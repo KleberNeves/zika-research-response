@@ -257,7 +257,9 @@ get_author_number_intl = function (BD) {
     # If any affiliation is not BRAZIL, count as international author
     summarise(INTL = any(str_trim(Country, "both") != "BRAZIL", na.rm = T)) %>%
     ungroup() %>%
-    count(Title, INTL) %>%
+    mutate(INTL = factor(INTL, levels = c("TRUE","FALSE"))) %>%
+    group_by(Title, INTL, .drop = F) %>%
+    summarise(n = n()) %>%
     pivot_wider(id_cols = Title,
                 names_from = INTL, names_prefix = "INTL_",
                 values_from = n, values_fill = 0)
