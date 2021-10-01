@@ -36,8 +36,13 @@ extract_author_info = function (filename) {
   pmids = BD$PM[!is.na(BD$PM)]
   if (length(pmids) > 0) {
     raw_mesh_terms = get_mesh_terms(pmids)
-    PMD = organize_mesh_terms(raw_mesh_terms)
-    BD = merge(BD, PMD, by.x = "PM", by.y = "pmid", all.x = T)
+    if (nrow(raw_mesh_terms) == 0) {
+      BD$MeshFullTerms = NA
+      BD$MeshHeadings = NA      
+    } else {
+      PMD = organize_mesh_terms(raw_mesh_terms)
+      BD = merge(BD, PMD, by.x = "PM", by.y = "pmid", all.x = T)
+    }
   } else {
     BD$MeshFullTerms = NA
     BD$MeshHeadings = NA
@@ -118,7 +123,7 @@ get_top_field = function (BD) {
   tibble(
     Name = "Most Common Journal Area",
     ShortName = "TopField",
-    Value = get_max_from_df(x)
+    Value = ifelse(length(x) == 0, NA, get_max_from_df(x))
   )
 }
 

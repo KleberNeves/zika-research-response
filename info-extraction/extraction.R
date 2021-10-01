@@ -34,11 +34,10 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
 run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   # Run the extraction function for each author
   filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
-  # i = which(filenames == paste0(AUTHOR_DATA_PATH, "/Lucia Maria Costa Monteiro.txt"))
+  # i = which(filenames == paste0(AUTHOR_DATA_PATH, "/OLIVEIRA J.txt"))
   # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
-  # AUTHOR_DATA = map_dfr(filenames, extract_author_info)
   
-  AUTHOR_DATA = map_dfr(filenames, extract_author_info)
+  AUTHOR_DATA = map_dfr(sample(filenames, length(filenames), replace = F), extract_author_info)
 
   # Save the whole dataset
   date_stamp = strftime(today(), format = "%d-%m-%Y")
@@ -49,7 +48,7 @@ run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
 }
 
 # AUTHOR_DATA = run_data_extraction(SAVE_FILENAME = "./extracted_author_data-teste",
-                    # AUTHOR_DATA_PATH = "../../data/authors-teste")
+#                     AUTHOR_DATA_PATH = "../../data/authors-teste")
 
 run_data_extraction(SAVE_FILENAME = "./extracted_author_data-general",
                     AUTHOR_DATA_PATH = "../../data/authors-general")
