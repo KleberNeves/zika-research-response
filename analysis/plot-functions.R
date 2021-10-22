@@ -1,29 +1,29 @@
 plot_cite_rate_by_mesh_cat = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
+  DF = AUTHOR_DATA |>
     filter(
-      ShortName %>% str_detect("Frequency of MeSH") |
-        ShortName %>% str_detect("Cites"), Class == "Zika"
-    ) %>%
-    select(-Class) %>%
+      ShortName |> str_detect("Frequency of MeSH") |
+        ShortName |> str_detect("Cites"), Class == "Zika"
+    ) |>
+    select(-Class) |>
     mutate(
       Value = as.numeric(Value),
-      Measure = ShortName %>%
-        str_replace("MeSHCat - Frequency of MeSH Category", "Pubs") %>%
-        str_replace("MeSHCatCites", "Cite") %>%
+      Measure = ShortName |>
+        str_replace("MeSHCat - Frequency of MeSH Category", "Pubs") |>
+        str_replace("MeSHCatCites", "Cite") |>
         str_sub(1,4),
-      Category = ShortName %>%
-        str_remove("MeSHCat - Frequency of MeSH Category - ") %>%
+      Category = ShortName |>
+        str_remove("MeSHCat - Frequency of MeSH Category - ") |>
         str_remove("MeSHCatCites - ")
-    ) %>%
-    select(Author, Category, Measure, Value) %>%
-    pivot_wider(id_cols = c(Author, Category), names_from = Measure, values_from = Value) %>%
-    mutate(CitationRate = Cite / Pubs) %>%
+    ) |>
+    select(Author, Category, Measure, Value) |>
+    pivot_wider(id_cols = c(Author, Category), names_from = Measure, values_from = Value) |>
+    mutate(CitationRate = Cite / Pubs) |>
     select(Author, Category, CitationRate)
   
-  DF$Category = DF$Category %>% recode_mesh_cats()
+  DF$Category = DF$Category |> recode_mesh_cats()
   
   plot_mesh_cite_rate = function (DF, title = "") {
-    DF = DF %>% group_by(Category) %>% summarise(Value = mean(CitationRate, na.rm = T))
+    DF = DF |> group_by(Category) |> summarise(Value = mean(CitationRate, na.rm = T))
     ggplot(DF) +
       aes(x = Category, y = Value, fill = Category) +
       geom_col() +
@@ -39,39 +39,39 @@ plot_cite_rate_by_mesh_cat = function(AUTHOR_DATA) {
 }
 
 plot_pubs_by_mesh_cat_by_field = function(AUTHOR_DATA, fields_to_plot = NULL, min_authors_to_plot = 10) {
-  AUTHORS_BY_FIELD = AUTHOR_DATA %>%
-    filter(ShortName == "TopField" & Class == "Pre-Outbreak") %>%
-    mutate(Field = str_to_title(Value)) %>%
+  AUTHORS_BY_FIELD = AUTHOR_DATA |>
+    filter(ShortName == "TopField" & Class == "Pre-Outbreak") |>
+    mutate(Field = str_to_title(Value)) |>
     select(Author, Field)
   
-  DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Frequency of MeSH"), Class == "Zika") %>%
+  DF = AUTHOR_DATA |> filter(ShortName |> str_detect("Frequency of MeSH"), Class == "Zika") |>
     mutate(Value = as.numeric(Value),
-           ShortName = ShortName %>% str_remove("MeSHCat - Frequency of MeSH Category - ")) %>%
+           ShortName = ShortName |> str_remove("MeSHCat - Frequency of MeSH Category - ")) |>
     left_join(AUTHORS_BY_FIELD, by = "Author")
   
   if (is.null(fields_to_plot)) {
-    top_fields = AUTHORS_BY_FIELD %>%
-      count(Field) %>% filter(n >= min_authors_to_plot) %>% pull(Field) %>% unique()
+    top_fields = AUTHORS_BY_FIELD |>
+      count(Field) |> filter(n >= min_authors_to_plot) |> pull(Field) |> unique()
   } else {
     top_fields = str_to_title(fields_to_plot)
   }
   
   map(top_fields, function (selected_field) {
-    d = DF %>% filter(Field == selected_field)
+    d = DF |> filter(Field == selected_field)
     plot_pubs_by_mesh_cat(d, title = recode_areas(selected_field), preprocessed = T)
   })
 }
 
 plot_pubs_by_mesh_cat_pubset = function(PAPER_SET, title) {
-  DF = PAPER_SET %>%
-    filter(!is.na(ZikaCats) & ZikaCats != "") %>%
-    pull(ZikaCats) %>%
-    str_split(";") %>%
-    unlist() %>%
-    recode_mesh_cats() %>%
-    as_tibble() %>%
-    count(value) %>%
-    rename(ShortName = value, Value = n) %>%
+  DF = PAPER_SET |>
+    filter(!is.na(ZikaCats) & ZikaCats != "") |>
+    pull(ZikaCats) |>
+    str_split(";") |>
+    unlist() |>
+    recode_mesh_cats() |>
+    as_tibble() |>
+    count(value) |>
+    rename(ShortName = value, Value = n) |>
     filter(ShortName != "Type of Study")
   
   plot_pubs_by_mesh_cat(DF, title = title, preprocessed = T)
@@ -94,16 +94,16 @@ recode_mesh_cats = function (meshes) {
 
 plot_pubs_by_mesh_cat = function(AUTHOR_DATA, title = "", preprocessed = F) {
   if (!preprocessed) {
-    DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Frequency of MeSH"), Class == "Zika") %>%
+    DF = AUTHOR_DATA |> filter(ShortName |> str_detect("Frequency of MeSH"), Class == "Zika") |>
       mutate(Value = as.numeric(Value),
-             ShortName = ShortName %>% str_remove("MeSHCat - Frequency of MeSH Category - "))
+             ShortName = ShortName |> str_remove("MeSHCat - Frequency of MeSH Category - "))
   } else {
     DF = AUTHOR_DATA
   }
   
-  DF$ShortName = DF$ShortName %>% recode_mesh_cats()
+  DF$ShortName = DF$ShortName |> recode_mesh_cats()
 
-  DF = DF %>% group_by(ShortName) %>% summarise(Value = sum(Value, na.rm = T))
+  DF = DF |> group_by(ShortName) |> summarise(Value = sum(Value, na.rm = T))
   p = ggplot(DF) +
     aes(x = ShortName, y = Value, fill = ShortName) +
     geom_col() +
@@ -118,16 +118,16 @@ plot_pubs_by_mesh_cat = function(AUTHOR_DATA, title = "", preprocessed = F) {
 
 plot_cites_by_mesh_cat = function(AUTHOR_DATA, title = "", preprocessed = F) {
   if (!preprocessed) {
-    DF = AUTHOR_DATA %>% filter(ShortName %>% str_detect("Cites"), Class == "Zika") %>%
+    DF = AUTHOR_DATA |> filter(ShortName |> str_detect("Cites"), Class == "Zika") |>
       mutate(Value = as.numeric(Value),
-             ShortName = ShortName %>% str_remove("MeSHCatCites - "))
+             ShortName = ShortName |> str_remove("MeSHCatCites - "))
   } else {
     DF = AUTHOR_DATA
   }
   
-  DF$ShortName = DF$ShortName %>% recode_mesh_cats()
+  DF$ShortName = DF$ShortName |> recode_mesh_cats()
   
-  DF = DF %>% group_by(ShortName) %>% summarise(Value = sum(Value, na.rm = T))
+  DF = DF |> group_by(ShortName) |> summarise(Value = sum(Value, na.rm = T))
   p = ggplot(DF) +
     aes(x = ShortName, y = Value, fill = ShortName) +
     geom_col() +
@@ -141,8 +141,8 @@ plot_cites_by_mesh_cat = function(AUTHOR_DATA, title = "", preprocessed = F) {
 }
 
 plot_perc_zika_papers = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "PercZika", Class == "Post-Outbreak") %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "PercZika", Class == "Post-Outbreak") |>
     mutate(Value = 100 * as.numeric(Value))
   
   bin_number = 50
@@ -160,8 +160,8 @@ plot_perc_zika_papers = function(AUTHOR_DATA) {
 }
 
 plot_perc_virus_papers = function(AUTHOR_DATA, period) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "PercVirus", Class == period) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "PercVirus", Class == period) |>
     mutate(Value = 100 * as.numeric(Value))
   
   bin_number = 50
@@ -178,16 +178,35 @@ plot_perc_virus_papers = function(AUTHOR_DATA, period) {
   p
 }
 
+plot_perc_epidemio_papers = function(AUTHOR_DATA, period) {
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "PercEpidemio", Class == period) |>
+    mutate(Value = 100 * as.numeric(Value))
+  
+  bin_number = 50
+  
+  p = ggplot(DF) +
+    aes(x = Value) +
+    geom_histogram(bins = bin_number) +
+    geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
+    labs(x = "Percentage of epidemiology\npapers, pre-outbreak", y = "Frequency") +
+    scale_x_continuous(breaks = pretty_breaks(n = 5),
+                       expand = c(0,0), limits = c(0,100)) +
+    scale_y_continuous(expand = c(0,0))
+  
+  p
+}
+
 plot_scatter_virus_zika_papers = function(AUTHOR_DATA) {
   # browser()
   DF = rbind(
-    AUTHOR_DATA %>%
-      filter(ShortName == "PercZika", Class == "Post-Outbreak") %>%
+    AUTHOR_DATA |>
+      filter(ShortName == "PercZika", Class == "Post-Outbreak") |>
       mutate(Value = 100 * as.numeric(Value)),
-    AUTHOR_DATA %>%
-      filter(ShortName == "PercVirus", Class == "Pre-Outbreak") %>%
+    AUTHOR_DATA |>
+      filter(ShortName == "PercVirus", Class == "Pre-Outbreak") |>
       mutate(Value = 100 * as.numeric(Value))
-  ) %>% select(Author, ShortName, Value) %>%
+  ) |> select(Author, ShortName, Value) |>
     pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value)
   
   corr = cor(DF$PercVirus, DF$PercZika, method = "spearman")
@@ -204,9 +223,188 @@ plot_scatter_virus_zika_papers = function(AUTHOR_DATA) {
   list(p = p, corr = corr)
 }
 
+plot_compare_by_perc_pivot = function(AUTHOR_DATA, perctype, outcome) {
+  # browser()
+  DF = AUTHOR_DATA |>
+    filter(
+      ShortName %in% c(perctype, outcome),
+      Class %in% c("Zika")
+    ) |>
+    mutate(Value = as.double(Value)) |>
+    pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value)
+  
+  DF$PercBefore = DF[[perctype]]
+  DF$Outcome = DF[[outcome]]
+  
+  if (perctype == "PercVirus") {
+    xname = "Percentage of virus- or infection-related\npapers, pre-outbreak"
+  } else if (perctype == "PercEpidemio") {
+    xname = "Percentage of epidemiology\npapers, pre-outbreak"
+  }
+  
+  if (outcome == "Papers") {
+    yname = "Number of publications"
+  } else if (outcome == "Citations") {
+    yname = "Number of citations"
+  } else if (outcome == "CitationRate") {
+    yname = "Number of citations per publication"
+  }
+
+  p = ggplot(DF) +
+    aes(x = PercBefore, y = Outcome) +
+    geom_point(alpha = 0.5, size = 1) +
+    labs(x = xname, y = yname) +
+    scale_y_continuous(breaks = pretty_breaks(n = 5))
+  
+  p
+}
+
+plot_thematic_deviation = function (AUTHOR_DATA, selected_authors) {
+  DF_BASE = AUTHOR_DATA |>
+    filter(!(Author %in% selected_authors)) |>
+    filter(ShortName |> str_detect("Frequency of MeSH"), Class == "Zika") |>
+    mutate(
+      RefValue = as.numeric(Value),
+      ShortName = ShortName |>
+        str_remove("MeSHCat - Frequency of MeSH Category - ") |>
+        recode_mesh_cats()
+    ) |>
+    group_by(ShortName) |>
+    summarise(RefValue = sum(RefValue, na.rm = T)) |>
+    ungroup() |>
+    mutate(RefPerc = RefValue / sum(RefValue))
+  
+  DF_SELECTED = AUTHOR_DATA |>
+    filter(Author %in% selected_authors) |>
+    filter(ShortName |> str_detect("Frequency of MeSH"), Class == "Zika") |>
+    mutate(
+      Value = as.numeric(Value),
+      ShortName = ShortName |>
+        str_remove("MeSHCat - Frequency of MeSH Category - ") |>
+        recode_mesh_cats()
+    ) |>
+    group_by(ShortName) |>
+    summarise(Value = sum(Value, na.rm = T)) |>
+    ungroup() |>
+    mutate(Perc = Value / sum(Value))
+  
+  DF = merge(DF_BASE, DF_SELECTED, by = "ShortName") |>
+    mutate(Diff = 100 * (Perc - RefPerc))
+  
+  p = ggplot(DF) +
+    aes(x = ShortName, y = Diff, fill = ShortName) +
+    geom_col() +
+    labs(x = "", y = "% Excess Publications") +
+    coord_flip() +
+    theme(axis.text.y = element_text(size = 10),
+          legend.position = "none")
+  
+  p
+}
+
+plot_compare_by_pivot = function (AUTHOR_DATA, outcome) {
+  DF = rbind(
+    AUTHOR_DATA |>
+      filter(ShortName == "CareerNetPivot", Class == "All"),
+    AUTHOR_DATA |>
+      filter(ShortName == outcome, Class == "Zika")
+  ) |>
+    pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value)
+    
+  DF$Outcome = as.double(DF[[outcome]])
+  
+  if (outcome == "Papers") {
+    yname = "Average # of\nPapers"
+  } else if (outcome == "Citations") {
+    yname = "Average # of\nCitations"
+  } else if (outcome == "CitationRate") {
+    yname = "Average # of\nCitations per Paper"
+  }
+  
+  p1 = ggplot(DF) +
+    aes(x = CareerNetPivot, y = Outcome) +
+    geom_point(size = 3, alpha = 0.5) +
+    geom_line(alpha = 0.5) +
+    labs(x = "", y = yname) +
+    scale_y_continuous(breaks = pretty_breaks(n = 6))
+  
+  p2 = ggplot(DF) +
+    aes(x = CareerNetPivot, y = Outcome) +
+    geom_violin() +
+    stat_summary(fun = median, fun.min = median, fun.max = median, geom = "errorbar", width = 0.25, size = 0.5, alpha = 0.5, linetype = "dashed") +
+    labs(x = "", y = yname) +
+    scale_y_continuous(breaks = pretty_breaks(n = 6))
+  
+  list(p1,p2)
+}
+
+plot_compare_by_pivot_all = function (AUTHOR_DATA) {
+  n_papers_by_pivot = AUTHOR_DATA |>
+    filter(ShortName %in% c("CareerNetPivot", "Papers", "Citations", "HighlyCited") &
+             Class %in% c("All","Zika")) |>
+    pivot_wider(id_cols = c(Author), names_from = ShortName, values_from = Value) |>
+    mutate(Citations = as.numeric(Citations), Papers = as.numeric(Papers)#, HighlyCited = as.numeric(HighlyCited)
+    ) |>
+    group_by(CareerNetPivot) |>
+    summarise(Citations = sum(Citations), Publications = sum(Papers)#, `Highly Cited Publications` = as.numeric(HighlyCited)
+    ) |>
+    ungroup() |>
+    mutate(`Citations per Paper` = Citations / Publications,
+           `Highly Cited Publications` = c(50, 55))
+  
+  DF = n_papers_by_pivot |>
+    pivot_longer(cols = -CareerNetPivot)
+  
+  ggplot(DF) +
+    aes(x = name, y = value, fill = CareerNetPivot) +
+    geom_col(position = position_dodge()) +
+    facet_wrap(~name, scales = "free") +
+    theme(legend.position = "bottom",
+          axis.line.x = element_blank(),
+          axis.ticks.x = element_blank(),
+          axis.title = element_blank(),
+          axis.text.x = element_blank())
+}
+
+plot_pivots_by_field = function (AUTHOR_DATA) {
+  
+  AUTHORS_BY_FIELD = AUTHOR_DATA |>
+    filter(ShortName == "TopField" & Class == "Pre-Outbreak") |>
+    mutate(Field = recode_areas(str_to_title(Value))) |>
+    select(Author, Field)
+  
+  top_fields = AUTHORS_BY_FIELD |>
+    count(Field) |> filter(n >= 10) |> pull(Field) |> unique()
+  
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "CareerNetPivot", Class == "All") |>
+    left_join(AUTHORS_BY_FIELD, by = "Author") |>
+    filter(Field %in% top_fields) |>
+    group_by(Value, Field) |>
+    summarise(n = n()) |>
+    ungroup() |>
+    group_by(Field) |>
+    mutate(s = sum(n), perc = n / s) |>
+    filter(Value == "Hard pivot")
+    
+  p = ggplot(DF) +
+    aes(x = reorder(Field, perc), y = perc,
+        label = paste0(n, "/", s)) +
+    geom_col() +
+    geom_text(hjust = 1, vjust = 0.5, size = 3, color = "white") +
+    # labs(title = "Most common journal area", x = "", y = "Frequency") +
+    labs(title = "", x = "", y = "Frequency") +
+    scale_x_discrete(expand = c(0,0)) +
+    scale_y_continuous(breaks = pretty_breaks(), expand = c(0,0)) +
+    coord_flip() +
+    theme(axis.text.y = element_text(size = 9))
+  
+  p
+}
+
 plot_compare_intl_papers = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "PercPapersINTL", Class %in% c("Pre-Outbreak", "Zika")) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "PercPapersINTL", Class %in% c("Pre-Outbreak", "Zika")) |>
     mutate(Value = as.numeric(Value))
   
   p1 = ggplot(DF) +
@@ -227,8 +425,8 @@ plot_compare_intl_papers = function(AUTHOR_DATA) {
 }
 
 plot_compare_authors_per_paper = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "AvgAuthorNumber", Class %in% c("Pre-Outbreak", "Zika")) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "AvgAuthorNumber", Class %in% c("Pre-Outbreak", "Zika")) |>
     mutate(Value = as.numeric(Value))
   
   p1 = ggplot(DF) +
@@ -249,8 +447,8 @@ plot_compare_authors_per_paper = function(AUTHOR_DATA) {
 }
 
 plot_compare_citations_per_paper = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "CitationRate", Class %in% c("Pre-Outbreak", "Zika")) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "CitationRate", Class %in% c("Pre-Outbreak", "Zika")) |>
     mutate(Value = as.numeric(Value))
   
   p1 = ggplot(DF) +
@@ -271,8 +469,8 @@ plot_compare_citations_per_paper = function(AUTHOR_DATA) {
 }
 
 plot_total_citations = function (AUTHOR_DATA, period = "Pre-Outbreak", logscale = T) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "Citations", Class == "Pre-Outbreak") %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "Citations", Class == "Pre-Outbreak") |>
     mutate(Value = as.numeric(Value))
   
   if (logscale) {
@@ -294,8 +492,8 @@ plot_total_citations = function (AUTHOR_DATA, period = "Pre-Outbreak", logscale 
 
 
 plot_academic_age_hist = function(AUTHOR_DATA, period) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "Academic Age", Class == period) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "Academic Age", Class == period) |>
     mutate(Value = 2021 - as.numeric(Value))
   
   p = ggplot(DF) +
@@ -374,10 +572,10 @@ recode_areas = function (areas) {
 }
 
 plot_most_common_areas = function(AUTHOR_DATA, period, min_thres = 2) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "TopField", Class %in% period) %>%
-    mutate(Value = recode_areas(str_to_title(Value))) %>%
-    count(Value) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "TopField", Class %in% period) |>
+    mutate(Value = recode_areas(str_to_title(Value))) |>
+    count(Value) |>
     filter(n > min_thres)
   
   p = ggplot(DF) +
@@ -394,16 +592,16 @@ plot_most_common_areas = function(AUTHOR_DATA, period, min_thres = 2) {
 }
 
 plot_most_common_institutions = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "Affiliation") %>%
-    pull(Value) %>%
-    str_split(";") %>%
-    unlist() %>%
-    tibble(Value = .) %>%
-    filter(Value != "-") %>%
-    filter(!(Value %in% c("CNPQ", "BRAZIL MINISTERIO SAUDE"))) %>%
-    mutate(Value = ifelse(Value %>% str_detect("FIOCRUZ"), "FIOCRUZ", Value)) %>%
-    count(Value) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "Affiliation") |>
+    pull(Value) |>
+    str_split(";") |>
+    unlist() |>
+    tibble(Value = .) |>
+    filter(Value != "-") |>
+    filter(!(Value %in% c("CNPQ", "BRAZIL MINISTERIO SAUDE"))) |>
+    mutate(Value = ifelse(Value |> str_detect("FIOCRUZ"), "FIOCRUZ", Value)) |>
+    count(Value) |>
     slice_max(n = 10, order_by = n)
   
   p = ggplot(DF) +
@@ -420,15 +618,15 @@ plot_most_common_institutions = function(AUTHOR_DATA) {
 }
 
 plot_most_common_regions = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "Region") %>%
-    filter(!is.na(Value)) %>%
-    pull(Value) %>%
-    str_split(";") %>%
-    unlist() %>%
-    tibble(Value = .) %>%
-    filter(!(Value %in% c("-",""))) %>%
-    count(Value) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "Region") |>
+    filter(!is.na(Value)) |>
+    pull(Value) |>
+    str_split(";") |>
+    unlist() |>
+    tibble(Value = .) |>
+    filter(!(Value %in% c("-",""))) |>
+    count(Value) |>
     slice_max(n = 10, order_by = n)
   
   p = ggplot(DF) +
@@ -445,14 +643,14 @@ plot_most_common_regions = function(AUTHOR_DATA) {
 }
 
 plot_most_common_states = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA %>%
-    filter(ShortName == "State") %>%
-    pull(Value) %>%
-    str_split(";") %>%
-    unlist() %>%
-    tibble(Value = .) %>%
-    filter(Value != "-") %>%
-    count(Value) %>%
+  DF = AUTHOR_DATA |>
+    filter(ShortName == "State") |>
+    pull(Value) |>
+    str_split(";") |>
+    unlist() |>
+    tibble(Value = .) |>
+    filter(Value != "-") |>
+    count(Value) |>
     slice_max(n = 10, order_by = n)
   
   p = ggplot(DF) +
@@ -469,53 +667,54 @@ plot_most_common_states = function(AUTHOR_DATA) {
 }
 
 plot_pubs_by_mesh_cat_by_region = function (AUTHOR_DATA, regions) {
-  AUTHOR_REGIONS = AUTHOR_DATA %>%
-    filter(ShortName == "Region") %>%
-    select(Author, Value) %>%
+  AUTHOR_REGIONS = AUTHOR_DATA |>
+    filter(ShortName == "Region") |>
+    select(Author, Value) |>
     rename(Region = Value)
   
-  AUTHOR_DATA = AUTHOR_DATA %>%
+  AUTHOR_DATA = AUTHOR_DATA |>
     left_join(AUTHOR_REGIONS, by = "Author")
   
   map(regions, function (a_region) {
     plot_pubs_by_mesh_cat(
-      AUTHOR_DATA %>% filter(Region %>% str_detect(a_region)),
+      AUTHOR_DATA |> filter(Region |> str_detect(a_region)),
       title = a_region)
   })
 }
 
 plot_pubs_by_mesh_cat_FAPERJ = function (AUTHOR_DATA, FAPERJ_NETWORK_INFO) {
-  FAPERJ_NETWORK_INFO %>% group_by(FAPERJ_Net) %>%
+  FAPERJ_NETWORK_INFO |> group_by(FAPERJ_Net) |>
     group_map(~ {
       authors_in_the_network = .x$Author
       plot_pubs_by_mesh_cat(
-        AUTHOR_DATA %>% filter(Author %in% authors_in_the_network),
+        AUTHOR_DATA |> filter(Author %in% authors_in_the_network),
         title = paste("FAPERJ Network", .y$FAPERJ_Net))
     })
 }
 
 plot_cites_by_mesh_cat_FAPERJ = function (AUTHOR_DATA, FAPERJ_NETWORK_INFO) {
-  FAPERJ_NETWORK_INFO %>% group_by(FAPERJ_Net) %>%
+  FAPERJ_NETWORK_INFO |> group_by(FAPERJ_Net) |>
     group_map(~ {
       authors_in_the_network = .x$Author
       plot_cites_by_mesh_cat(
-        AUTHOR_DATA %>% filter(Author %in% authors_in_the_network),
+        AUTHOR_DATA |> filter(Author %in% authors_in_the_network),
         title = paste("FAPERJ Network", .y$FAPERJ_Net))
     })
 }
 
 plot_cite_rate_by_mesh_cat_FAPERJ = function (AUTHOR_DATA, FAPERJ_NETWORK_INFO) {
-  FAPERJ_NETWORK_INFO %>% group_by(FAPERJ_Net) %>%
+  FAPERJ_NETWORK_INFO |> group_by(FAPERJ_Net) |>
     group_map(~ {
       authors_in_the_network = .x$Author
       plot_cite_rate_by_mesh_cat(
-        AUTHOR_DATA %>% filter(Author %in% authors_in_the_network)
+        AUTHOR_DATA |> filter(Author %in% authors_in_the_network)
       ) + labs(title = paste("FAPERJ Network", .y$FAPERJ_Net))
     })
 }
 
 
-cognitiveCareerPlot = function(author_filename, base.size = 10, n = 30, periods = periods = c(2015), period.names = c("Before Zika Outbreak", "After Zika Outbreak")) {
+cognitiveCareerPlot = function(author_filename, base.size = 10, n = 30, periods = c(2015), period.names = c("Before Zika Outbreak", "After Zika Outbreak")) {
+  
   M = bibliometrix::convert2df(author_filename, dbsource = "isi", format = "plaintext")
     
     # Filter the papers that will appear, if not showing all of them.
@@ -523,11 +722,11 @@ cognitiveCareerPlot = function(author_filename, base.size = 10, n = 30, periods 
       # Possibilidade: incluir todas as revisões, porque elas são marcos
       
       # Picks the most cited for each year.
-      topyear = (M %>% group_by(PY) %>% top_n(1,TC))$DI
+      topyear = (M |> group_by(PY) |> top_n(1,TC))$DI
       k = min(n, nrow(M)) - length(topyear)
       
       # Picks the most cited overall
-      topall = (M %>% filter(!(DI %in% topyear)) %>% top_n(k,TC))$DI
+      topall = (M |> filter(!(DI %in% topyear)) |> top_n(k,TC))$DI
       
       # Filters
       toinclude = unique(c(topyear, topall))
@@ -574,14 +773,14 @@ cognitiveCareerPlot = function(author_filename, base.size = 10, n = 30, periods 
   }
   
   # Join isolated nodes in a single cluster
-  d = layout_m %>% group_by(cluster) %>% summarise(n = n())
-  isolated = (d %>% filter(n == 1))$cluster
+  d = layout_m |> group_by(cluster) |> summarise(n = n())
+  isolated = (d |> filter(n == 1))$cluster
   layout_m$cluster = ifelse(layout_m$cluster %in% isolated, 0, layout_m$cluster)
   # browser()
   
   # Sets position of nodes based on cluster and year
   layout_m$x = layout_m$Year
-  posy = layout_m %>% group_by(Year) %>% mutate(py = 1:n()) %>% mutate(maxpy = max(py))
+  posy = layout_m |> group_by(Year) |> mutate(py = 1:n()) |> mutate(maxpy = max(py))
   layout_m$py = (posy$py) / (posy$maxpy + 1)
   layout_m$py = layout_m$py + ifelse(layout_m$Year %% 2 == 0, 0.5, 0)
   pheight = max(posy$maxpy) * base.size / 2
