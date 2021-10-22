@@ -34,9 +34,11 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
 run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   # Run the extraction function for each author
   filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
-  # i = which(filenames == paste0(AUTHOR_DATA_PATH, "/OLIVEIRA J.txt"))
-  # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
+  i = which(filenames == paste0(AUTHOR_DATA_PATH, "/GARCEZ PP.txt"))
+  AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
   
+  TOP_CITED_ZIKA_PAPERS = ZIKA_PAPERS |> slice_max(order_by = TC, prop = 0.1)
+    
   AUTHOR_DATA = map_dfr(sample(filenames, length(filenames), replace = F), extract_author_info)
 
   # Save the whole dataset

@@ -30,6 +30,15 @@ extract_author_info = function (filename) {
                    ShortName = NA, Value = NA))
   }
   
+  # Filter publications that are too old - likely belong to another author
+  pubdates = BD |> select(PY) |> arrange(PY)
+  pubdates$GAP = c(0, pubdates$PY[2:length(pubdates$PY)] - pubdates$PY[1:(length(pubdates$PY)-1)])
+  most_recent_long_gap = which(pubdates$GAP >= 10)
+  if (length(most_recent_long_gap) > 0) {
+    most_recent_long_gap = pubdates$PY[max(most_recent_long_gap)]
+    BD = BD |> filter(PY >= most_recent_long_gap)
+  }
+    
   # Get MeSH terms for all the papers
   print("Obtaining MeSH terms ...")
   
@@ -109,7 +118,9 @@ get_info_from_biblio_data = function (BD) {
     # Percentage of papers that are virus-related
     get_perc_virus_papers(BD),
     # Percentage of papers that are in epidemiology
-    get_perc_epidemio_papers(BD)
+    get_perc_epidemio_papers(BD),
+    # Number of papers in the top 10% most cited
+    get_number_highly_cited_papers(BD)
   )
 }
 
@@ -312,6 +323,18 @@ get_perc_zika = function (BD) {
     Name = "Percentage of Zika-related papers",
     ShortName = "PercZika",
     Value = round(n_matched_papers / nrow(BD), 2)
+  )
+}
+
+get_number_highly_cited_papers = function (BD) {
+  print("Extracting# highly-cited Zika papers")
+  n_matched_papers = BD %>%
+    filter(TI %in% TOP_ZIKA_PAPERS$TI) %>% nrow()
+  
+  tibble(
+    Name = "Number of highly-cited Zika papers",
+    ShortName = "HighlyCited",
+    Value = n_matched_papers
   )
 }
 
@@ -566,7 +589,7 @@ get_cognitive_career_pivot = function (BD) {
   ZIKA_TI = BD %>% select(TI) %>%
     inner_join(ZIKA_PAPERS %>% select(TI), by = "TI") %>%
     pull(TI)
-  
+  browser()
   BD = BD %>% mutate(
     COMPONENT = ifelse(
       PY >= 2016 | is.na(PY),
@@ -615,7 +638,7 @@ get_cognitive_career_pivot = function (BD) {
     ))
   }
   
-  # if there's non zika papers post-outbreak
+  # if all post-outbreak papers are zika papers
   if (sum(CM$COMPONENT == "POST") == 0) {
     pre2zika = ADJ["PRE","ZIKA"] > 0
     if (pre2zika) {
@@ -623,9 +646,10 @@ get_cognitive_career_pivot = function (BD) {
     } else {
       coupling_type = "Uncoupled to Zika" 
     }
-  } else { # if all post-outbreak papers are zika papers
+  } else { # if there's non zika papers post-outbreak
     pre2zika = ADJ["PRE","ZIKA"] > 0
     pre2post = ADJ["PRE","POST"] > 0
+    post2zika = ADJ["POST","ZIKA"] > 0
     if (pre2zika) {
       if (pre2post) {
         coupling_type = "Coupled to both"    
@@ -634,7 +658,11 @@ get_cognitive_career_pivot = function (BD) {
       }
     } else {
       if (pre2post) {
-        coupling_type = "Coupled to non-Zika only"    
+        if (post2zika) {
+          coupling_type = "Coupled to Zika through non-Zika"    
+        } else {
+          coupling_type = "Coupled to non-Zika only"
+        }
       } else {
         coupling_type = "Uncoupled to either"    
       }
