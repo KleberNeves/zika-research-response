@@ -140,125 +140,6 @@ plot_cites_by_mesh_cat = function(AUTHOR_DATA, title = "", preprocessed = F) {
   p
 }
 
-plot_perc_zika_papers = function(AUTHOR_DATA) {
-  DF = AUTHOR_DATA |>
-    filter(ShortName == "PercZika", Class == "Post-Outbreak") |>
-    mutate(Value = 100 * as.numeric(Value))
-  
-  bin_number = 50
-  
-  p = ggplot(DF) +
-    aes(x = Value) +
-    geom_histogram(bins = bin_number) +
-    geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
-    labs(x = "Percentage of Zika-related\npapers, post-outbreak", y = "Frequency") +
-    scale_x_continuous(breaks = pretty_breaks(n = 5),
-                       expand = c(0,0), limits = c(0,100)) +
-    scale_y_continuous(expand = c(0,0))
-  
-  p
-}
-
-plot_perc_virus_papers = function(AUTHOR_DATA, period) {
-  DF = AUTHOR_DATA |>
-    filter(ShortName == "PercVirus", Class == period) |>
-    mutate(Value = 100 * as.numeric(Value))
-  
-  bin_number = 50
-  
-  p = ggplot(DF) +
-    aes(x = Value) +
-    geom_histogram(bins = bin_number) +
-    geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
-    labs(x = "Percentage of virus- or infection-related\npapers, pre-outbreak", y = "Frequency") +
-    scale_x_continuous(breaks = pretty_breaks(n = 5),
-                       expand = c(0,0), limits = c(0,100)) +
-    scale_y_continuous(expand = c(0,0))
-  
-  p
-}
-
-plot_perc_epidemio_papers = function(AUTHOR_DATA, period) {
-  DF = AUTHOR_DATA |>
-    filter(ShortName == "PercEpidemio", Class == period) |>
-    mutate(Value = 100 * as.numeric(Value))
-  
-  bin_number = 50
-  
-  p = ggplot(DF) +
-    aes(x = Value) +
-    geom_histogram(bins = bin_number) +
-    geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
-    labs(x = "Percentage of epidemiology\npapers, pre-outbreak", y = "Frequency") +
-    scale_x_continuous(breaks = pretty_breaks(n = 5),
-                       expand = c(0,0), limits = c(0,100)) +
-    scale_y_continuous(expand = c(0,0))
-  
-  p
-}
-
-plot_scatter_virus_zika_papers = function(AUTHOR_DATA) {
-  # browser()
-  DF = rbind(
-    AUTHOR_DATA |>
-      filter(ShortName == "PercZika", Class == "Post-Outbreak") |>
-      mutate(Value = 100 * as.numeric(Value)),
-    AUTHOR_DATA |>
-      filter(ShortName == "PercVirus", Class == "Pre-Outbreak") |>
-      mutate(Value = 100 * as.numeric(Value))
-  ) |> select(Author, ShortName, Value) |>
-    pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value)
-  
-  corr = cor(DF$PercVirus, DF$PercZika, method = "spearman")
- 
-  p = ggplot(DF) +
-    aes(x = PercVirus, y = PercZika) +
-    geom_point(size = 2, alpha = 0.7, color = "black") +
-    geom_smooth(method = "lm", se = F) +
-    labs(x = "Percentage of virus- or infection-related\npapers, pre-outbreak",
-         y = "Percentage of Zika-related\npapers, post-outbreak") +
-    scale_x_continuous(breaks = pretty_breaks(n = 5)) +
-    scale_y_continuous(breaks = pretty_breaks(n = 5))
-  
-  list(p = p, corr = corr)
-}
-
-plot_compare_by_perc_pivot = function(AUTHOR_DATA, perctype, outcome) {
-  # browser()
-  DF = AUTHOR_DATA |>
-    filter(
-      ShortName %in% c(perctype, outcome),
-      Class %in% c("Zika")
-    ) |>
-    mutate(Value = as.double(Value)) |>
-    pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value)
-  
-  DF$PercBefore = DF[[perctype]]
-  DF$Outcome = DF[[outcome]]
-  
-  if (perctype == "PercVirus") {
-    xname = "Percentage of virus- or infection-related\npapers, pre-outbreak"
-  } else if (perctype == "PercEpidemio") {
-    xname = "Percentage of epidemiology\npapers, pre-outbreak"
-  }
-  
-  if (outcome == "Papers") {
-    yname = "Number of publications"
-  } else if (outcome == "Citations") {
-    yname = "Number of citations"
-  } else if (outcome == "CitationRate") {
-    yname = "Number of citations per publication"
-  }
-
-  p = ggplot(DF) +
-    aes(x = PercBefore, y = Outcome) +
-    geom_point(alpha = 0.5, size = 1) +
-    labs(x = xname, y = yname) +
-    scale_y_continuous(breaks = pretty_breaks(n = 5))
-  
-  p
-}
-
 plot_thematic_deviation = function (AUTHOR_DATA, selected_authors) {
   DF_BASE = AUTHOR_DATA |>
     filter(!(Author %in% selected_authors)) |>
@@ -596,7 +477,7 @@ plot_most_common_institutions = function(AUTHOR_DATA) {
     filter(ShortName == "Affiliation") |>
     pull(Value) |>
     str_split(";") |>
-    unlist() |>
+    unlist() %>%
     tibble(Value = .) |>
     filter(Value != "-") |>
     filter(!(Value %in% c("CNPQ", "BRAZIL MINISTERIO SAUDE"))) |>
@@ -623,7 +504,7 @@ plot_most_common_regions = function(AUTHOR_DATA) {
     filter(!is.na(Value)) |>
     pull(Value) |>
     str_split(";") |>
-    unlist() |>
+    unlist() %>%
     tibble(Value = .) |>
     filter(!(Value %in% c("-",""))) |>
     count(Value) |>
@@ -647,7 +528,7 @@ plot_most_common_states = function(AUTHOR_DATA) {
     filter(ShortName == "State") |>
     pull(Value) |>
     str_split(";") |>
-    unlist() |>
+    unlist() %>%
     tibble(Value = .) |>
     filter(Value != "-") |>
     count(Value) |>
@@ -828,37 +709,4 @@ cognitiveCareerPlot = function(author_filename, base.size = 10, n = 30, periods 
     axis.title.x = element_blank(), axis.line.x = element_blank(),
     axis.text.x = element_text(face = "bold")
   )
-}
-
-triangle_plot = function (tri_data, tri_cols, tri_labs = NULL, plot_translation_axis = F, add_density = T) {
-  if (is.null(tri_labs)) { tri_labs =  tri_cols }
-  p = ggtern::ggtern(data = tri_data) +
-    ggplot2::aes_string(x = tri_cols[2], y = tri_cols[1], z = tri_cols[3]) +
-    ggplot2::geom_point(size = 2) +
-    ggplot2::labs(x = tri_labs[2], y = tri_labs[1], z = tri_labs[3]) +
-    ggtern::theme_nogrid_minor()
-  
-  if (add_density) {
-    p = p + ggtern::geom_density_tern()
-  }
-  
-  if (plot_translation_axis) {
-    p = p + ggtern::geom_Risoprop(value = 0.5, linetype = "dashed", color = "blue")
-  }
-  
-  p
-}
-
-biomed_triangle_plot = function (tri_data) {
-  triangle_plot(tri_data, c("A","C","H"), c("Animal","Mol./Cell.","Human"), T, F)
-}
-
-count_data_for_triangle = function (mesh_categories, ref_categories) {
-  DF = data.frame(Category = mesh_categories)
-  cat_cols = purrr::map_dfc(ref_categories, function (tri_cat) {
-    df = data.frame(x = sum(stringr::str_detect(DF$Category, tri_cat)))
-    colnames(df) = tri_cat
-    df
-  })
-  cat_cols
 }

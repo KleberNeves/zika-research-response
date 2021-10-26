@@ -59,4 +59,3 @@ run_data_extraction(SAVE_FILENAME = "./extracted_author_data-cnpq",
 
 run_data_extraction(SAVE_FILENAME = "./extracted_author_data-faperj",
                     AUTHOR_DATA_PATH = "../../data/authors-faperj-call")
-
