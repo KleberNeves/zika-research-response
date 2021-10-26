@@ -322,14 +322,34 @@ plot_compare_citations_per_paper = function(AUTHOR_DATA) {
 }
 
 plot_compare_citations_by_pivot = function(DF) {
+  DF = DF |> filter(!is.na(PivotType))
   p = ggplot(DF) +
-    aes(x = PivotType, y = Z9) +
+    aes(x = PivotType, y = TC+1) +
     geom_violin() +
     stat_summary(fun = median, fun.min = median, fun.max = median, geom = "errorbar", width = 0.25, size = 0.5, alpha = 0.5, linetype = "dashed") +
-    labs(x = "", y = "Average # of\nCitations per Paper") +
-    scale_y_continuous(breaks = pretty_breaks(n = 6))
+    labs(x = "", y = "# Citations") +
+    scale_y_log10(breaks = c(5, 20, 100, 600))
   
   p
+}
+
+plot_perc_zika_papers = function(AUTHOR_DATA) { 
+  DF = AUTHOR_DATA |> 
+    filter(ShortName == "PercZika", Class == "Post-Outbreak") |> 
+    mutate(Value = 100 * as.numeric(Value)) 
+  
+  bin_number = 50 
+  
+  p = ggplot(DF) + 
+    aes(x = Value) + 
+    geom_histogram(bins = bin_number) + 
+    geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") + 
+    labs(x = "Percentage of Zika-related\npapers, post-outbreak", y = "Frequency") + 
+    scale_x_continuous(breaks = pretty_breaks(n = 5), 
+                       expand = c(0,0), limits = c(0,100)) + 
+    scale_y_continuous(expand = c(0,0)) 
+  
+  p 
 }
 
 plot_total_citations = function (AUTHOR_DATA, period = "Pre-Outbreak", logscale = T) {

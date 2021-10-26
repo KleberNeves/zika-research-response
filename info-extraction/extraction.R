@@ -35,7 +35,7 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
 
 # Arguments passed without extension, will save .RData and .csv
 run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
-  ZIKA_PAPERS = ZIKA_PAPERS |> mutate(HasSoftPivotAuthor = F, HasHardPivotAuthor = F)
+  ZIKA_PAPERS <<- ZIKA_PAPERS |> mutate(HasSoftPivotAuthor = F, HasHardPivotAuthor = F)
   
   # Run the extraction function for each author
   filenames = list.files(AUTHOR_DATA_PATH, "txt$", full.names = T)
@@ -44,9 +44,9 @@ run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   
   AUTHOR_DATA = map_dfr(sample(filenames, length(filenames), replace = F), extract_author_info)
 # browser()
-  ZIKA_PAPERS_PIVOTS = ZIKA_PAPERS |> mutate(
-    PivotType = ifelse(!HasSoftPivotAuthor & !HasHardPivotAuthor, NA,
-                       ifelse(HasSoftPivotAuthor & HasHardPivotAuthor, "Soft and Hard Pivots",
+  ZIKA_PAPERS_PIVOTS <<- ZIKA_PAPERS |> mutate(
+    PivotType = ifelse(HasSoftPivotAuthor == F & HasHardPivotAuthor == F, NA,
+                       ifelse(HasSoftPivotAuthor == T & HasHardPivotAuthor == T, "Soft and Hard Pivots",
                               ifelse(HasSoftPivotAuthor, "Soft Pivot Only", "Hard Pivot Only")))
   )
   
