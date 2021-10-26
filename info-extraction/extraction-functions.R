@@ -38,29 +38,11 @@ extract_author_info = function (filename) {
     most_recent_long_gap = pubdates$PY[max(most_recent_long_gap)]
     BD = BD |> filter(PY >= most_recent_long_gap)
   }
-    
-  # Get MeSH terms for all the papers
-  print("Obtaining MeSH terms ...")
-  
-  pmids = BD$PM[!is.na(BD$PM)]
-  if (length(pmids) > 0) {
-    raw_mesh_terms = get_mesh_terms(pmids)
-    if (nrow(raw_mesh_terms) == 0) {
-      BD$MeshFullTerms = NA
-      BD$MeshHeadings = NA      
-    } else {
-      PMD = organize_mesh_terms(raw_mesh_terms)
-      BD = merge(BD, PMD, by.x = "PM", by.y = "pmid", all.x = T)
-    }
-  } else {
-    BD$MeshFullTerms = NA
-    BD$MeshHeadings = NA
-  }
   
   # Break dataset in the relevant parts (pre-outbreak, zika-related papers)
   BD_PRE = BD %>% filter(PY < 2016)
   BD_POST = BD %>% filter(PY >= 2016)
-  BD_ZIKA = BD %>% select(-MeshFullTerms) %>%
+  BD_ZIKA = BD %>%
     inner_join(ZIKA_PAPERS %>% select(TI, MeshFullTerms), by = "TI")
   
   if (nrow(BD_ZIKA) == 0 | nrow(BD_PRE) == 0) {
@@ -115,10 +97,6 @@ get_info_from_biblio_data = function (BD) {
     get_academic_age(BD),
     # Percentage of papers that are zika-related
     get_perc_zika(BD),
-    # Percentage of papers that are virus-related
-    get_perc_virus_papers(BD),
-    # Percentage of papers that are in epidemiology
-    get_perc_epidemio_papers(BD),
     # Number of papers in the top 10% most cited
     get_number_highly_cited_papers(BD)
   )
@@ -338,42 +316,6 @@ get_number_highly_cited_papers = function (BD) {
   )
 }
 
-get_perc_virus_papers = function (BD) {
-  print("Extracting: % virus papers")
-  if (!("MeshFullTerms" %in% colnames(BD))) {
-    return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
-  }
-  
-  n_matched_papers = BD %>%
-    filter(str_detect(MeshFullTerms %>% str_to_lower(), "(viral|virus|infection)")) %>% nrow()
-  
-  tibble(
-    Name = "Percentage of virus-related papers",
-    ShortName = "PercVirus",
-    Value = round(n_matched_papers / nrow(BD), 2)
-  )
-}
-
-get_perc_epidemio_papers = function (BD) {
-  print("Extracting: % epidemiological papers")
-  if (!("MeshFullTerms" %in% colnames(BD))) {
-    return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
-  }
-  
-  n_matched_papers = BD %>%
-    filter(
-      str_detect(
-        MeshFullTerms %>%
-          str_to_lower(), "(outbreaks|epidemiolog|public health surveillance|reproduction number)")) %>%
-    nrow()
-  
-  tibble(
-    Name = "Percentage of epidemiology papers",
-    ShortName = "PercEpidemio",
-    Value = round(n_matched_papers / nrow(BD), 2)
-  )
-}
-
 find_best_author_match = function (target, query) {
   queries = str_split(query, " ") %>% unlist()
   sizes = map_dbl(queries, str_length)
@@ -589,7 +531,7 @@ get_cognitive_career_pivot = function (BD) {
   ZIKA_TI = BD %>% select(TI) %>%
     inner_join(ZIKA_PAPERS %>% select(TI), by = "TI") %>%
     pull(TI)
-  browser()
+  
   BD = BD %>% mutate(
     COMPONENT = ifelse(
       PY >= 2016 | is.na(PY),

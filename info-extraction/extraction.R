@@ -17,6 +17,8 @@ ZIKA_PAPERS = M
 rm(M)
 rm(MESHLIST)
 
+TOP_ZIKA_PAPERS = ZIKA_PAPERS |> slice_max(order_by = TC, prop = 0.1)
+
 # Load affiliation data
 if (file.exists(AFFILIATION_CLASSIFICATION)) {
   HARM_DATA = read_excel(AFFILIATION_CLASSIFICATION, sheet = 1)
@@ -33,12 +35,9 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
 # Arguments passed without extension, will save .RData and .csv
 run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   # Run the extraction function for each author
-  filenames = paste0(AUTHOR_DATA_PATH, "/", list.files(AUTHOR_DATA_PATH, "txt$"))
-  i = which(filenames == paste0(AUTHOR_DATA_PATH, "/GARCEZ PP.txt"))
-  AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
-  
-  TOP_CITED_ZIKA_PAPERS = ZIKA_PAPERS |> slice_max(order_by = TC, prop = 0.1)
-    
+  filenames = list.files(AUTHOR_DATA_PATH, "txt$", full.names = T)
+  # i = which(filenames == paste0(AUTHOR_DATA_PATH, "/GARCEZ PP.txt"))
+  # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
   AUTHOR_DATA = map_dfr(sample(filenames, length(filenames), replace = F), extract_author_info)
 
   # Save the whole dataset
@@ -60,3 +59,4 @@ run_data_extraction(SAVE_FILENAME = "./extracted_author_data-cnpq",
 
 run_data_extraction(SAVE_FILENAME = "./extracted_author_data-faperj",
                     AUTHOR_DATA_PATH = "../../data/authors-faperj-call")
+
