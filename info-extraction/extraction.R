@@ -17,6 +17,7 @@ ZIKA_PAPERS = M
 rm(M)
 rm(MESHLIST)
 
+ZIKA_PAPERS = ZIKA_PAPERS |> mutate(HasSoftPivotAuthor = F, HasHardPivotAuthor = F)
 TOP_ZIKA_PAPERS = ZIKA_PAPERS |> slice_max(order_by = TC, prop = 0.1)
 
 # Load affiliation data
@@ -34,15 +35,24 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
 
 # Arguments passed without extension, will save .RData and .csv
 run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
+  ZIKA_PAPERS = ZIKA_PAPERS |> mutate(HasSoftPivotAuthor = F, HasHardPivotAuthor = F)
+  
   # Run the extraction function for each author
   filenames = list.files(AUTHOR_DATA_PATH, "txt$", full.names = T)
   # i = which(filenames == paste0(AUTHOR_DATA_PATH, "/GARCEZ PP.txt"))
   # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
+  
   AUTHOR_DATA = map_dfr(sample(filenames, length(filenames), replace = F), extract_author_info)
-
+# browser()
+  ZIKA_PAPERS_PIVOTS = ZIKA_PAPERS |> mutate(
+    PivotType = ifelse(!HasSoftPivotAuthor & !HasHardPivotAuthor, NA,
+                       ifelse(HasSoftPivotAuthor & HasHardPivotAuthor, "Soft and Hard Pivots",
+                              ifelse(HasSoftPivotAuthor, "Soft Pivot Only", "Hard Pivot Only")))
+  )
+  
   # Save the whole dataset
   date_stamp = strftime(today(), format = "%d-%m-%Y")
-  save(file = paste0(SAVE_FILENAME, " ", date_stamp, ".RData"), AUTHOR_DATA)
+  save(file = paste0(SAVE_FILENAME, " ", date_stamp, ".RData"), AUTHOR_DATA, ZIKA_PAPERS_PIVOTS)
   write.table(AUTHOR_DATA, file = paste0(SAVE_FILENAME, " ", date_stamp, ".csv"), sep = ";", dec = ",", row.names = F)
   
   AUTHOR_DATA
@@ -51,11 +61,12 @@ run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
 # AUTHOR_DATA = run_data_extraction(SAVE_FILENAME = "./extracted_author_data-teste",
 #                     AUTHOR_DATA_PATH = "../../data/authors-teste")
 
+run_data_extraction(SAVE_FILENAME = "./extracted_author_data-faperj",
+                    AUTHOR_DATA_PATH = "../../data/authors-faperj-call")
+
 run_data_extraction(SAVE_FILENAME = "./extracted_author_data-general",
                     AUTHOR_DATA_PATH = "../../data/authors-general")
 
 run_data_extraction(SAVE_FILENAME = "./extracted_author_data-cnpq",
                     AUTHOR_DATA_PATH = "../../data/authors-cnpq-call")
 
-run_data_extraction(SAVE_FILENAME = "./extracted_author_data-faperj",
-                    AUTHOR_DATA_PATH = "../../data/authors-faperj-call")

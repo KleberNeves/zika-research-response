@@ -71,6 +71,10 @@ extract_author_info = function (filename) {
     get_cognitive_career_pivot(BD) %>%
       add_column(Class = "All", .before = 1)
   )
+  # browser()
+  # if (EXTRACTED_INFO[EXTRACTED_INFO$ShortName == "CareerNetPivot", "Value"] == "Soft pivot")
+  #   browser()
+  mark_author_pivots(BD, EXTRACTED_INFO[EXTRACTED_INFO$ShortName == "CareerNetPivot", "Value"])
   
   EXTRACTED_INFO = EXTRACTED_INFO %>%
     add_column(Author = author_filename,
@@ -224,8 +228,8 @@ get_citations = function (BD) {
     Name = c("Total Citations", "Citations per Paper"),
     ShortName = c("Citations", "CitationRate"),
     Value = c(
-      round(sum(as.numeric(BD$Z9), na.rm = T), 2),
-      round(mean(as.numeric(BD$Z9), na.rm = T), 2)
+      round(sum(as.numeric(BD$TC), na.rm = T), 2),
+      round(mean(as.numeric(BD$TC), na.rm = T), 2)
     )
   )
 }
@@ -290,6 +294,21 @@ get_academic_age = function (BD) {
     ShortName = "Academic Age",
     Value = 2021 - min(BD$PY, na.rm = T)
   )
+}
+
+mark_author_pivots = function (BD, pvt) {
+  print("Marking pivots on Zika papers")
+  author_papers = BD %>%
+    filter(TI %in% ZIKA_PAPERS$TI) %>% pull(TI)
+  
+  if (is.na(pvt)) {
+    ZIKA_PAPERS$HasHardPivotAuthor[ZIKA_PAPERS$TI %in% author_papers] <<- NA
+    ZIKA_PAPERS$HasSoftPivotAuthor[ZIKA_PAPERS$TI %in% author_papers] <<- NA
+  }
+  else if (pvt == "Hard pivot")
+    ZIKA_PAPERS$HasHardPivotAuthor[ZIKA_PAPERS$TI %in% author_papers] <<- T
+  else if (pvt == "Soft pivot")
+    ZIKA_PAPERS$HasSoftPivotAuthor[ZIKA_PAPERS$TI %in% author_papers] <<- T
 }
 
 get_perc_zika = function (BD) {

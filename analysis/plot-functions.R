@@ -219,34 +219,6 @@ plot_compare_by_pivot = function (AUTHOR_DATA, outcome) {
   list(p1,p2)
 }
 
-plot_compare_by_pivot_all = function (AUTHOR_DATA) {
-  n_papers_by_pivot = AUTHOR_DATA |>
-    filter(ShortName %in% c("CareerNetPivot", "Papers", "Citations", "HighlyCited") &
-             Class %in% c("All","Zika")) |>
-    pivot_wider(id_cols = c(Author), names_from = ShortName, values_from = Value) |>
-    mutate(Citations = as.numeric(Citations), Papers = as.numeric(Papers)#, HighlyCited = as.numeric(HighlyCited)
-    ) |>
-    group_by(CareerNetPivot) |>
-    summarise(Citations = sum(Citations), Publications = sum(Papers)#, `Highly Cited Publications` = as.numeric(HighlyCited)
-    ) |>
-    ungroup() |>
-    mutate(`Citations per Paper` = Citations / Publications,
-           `Highly Cited Publications` = c(50, 55))
-  
-  DF = n_papers_by_pivot |>
-    pivot_longer(cols = -CareerNetPivot)
-  
-  ggplot(DF) +
-    aes(x = name, y = value, fill = CareerNetPivot) +
-    geom_col(position = position_dodge()) +
-    facet_wrap(~name, scales = "free") +
-    theme(legend.position = "bottom",
-          axis.line.x = element_blank(),
-          axis.ticks.x = element_blank(),
-          axis.title = element_blank(),
-          axis.text.x = element_blank())
-}
-
 plot_pivots_by_field = function (AUTHOR_DATA) {
   
   AUTHORS_BY_FIELD = AUTHOR_DATA |>
@@ -347,6 +319,17 @@ plot_compare_citations_per_paper = function(AUTHOR_DATA) {
     scale_y_continuous(breaks = pretty_breaks(n = 6))
   
   list(p1,p2)
+}
+
+plot_compare_citations_by_pivot = function(DF) {
+  p = ggplot(DF) +
+    aes(x = PivotType, y = Z9) +
+    geom_violin() +
+    stat_summary(fun = median, fun.min = median, fun.max = median, geom = "errorbar", width = 0.25, size = 0.5, alpha = 0.5, linetype = "dashed") +
+    labs(x = "", y = "Average # of\nCitations per Paper") +
+    scale_y_continuous(breaks = pretty_breaks(n = 6))
+  
+  p
 }
 
 plot_total_citations = function (AUTHOR_DATA, period = "Pre-Outbreak", logscale = T) {
