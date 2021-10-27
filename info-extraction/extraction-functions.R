@@ -74,7 +74,12 @@ extract_author_info = function (filename) {
   # browser()
   # if (EXTRACTED_INFO[EXTRACTED_INFO$ShortName == "CareerNetPivot", "Value"] == "Soft pivot")
   #   browser()
-  mark_author_pivots(BD, EXTRACTED_INFO[EXTRACTED_INFO$ShortName == "CareerNetPivot", "Value"])
+  mark_author_pivots(BD, EXTRACTED_INFO$Value[EXTRACTED_INFO$ShortName == "CareerNetPivot"])
+  mark_fields(BD, EXTRACTED_INFO$Value[EXTRACTED_INFO$ShortName == "TopField" & EXTRACTED_INFO$Class == "Pre-Outbreak"])
+  
+  faperj_network = FAPERJ_NETWORK_INFO$FAPERJ_Net[FAPERJ_NETWORK_INFO$Author == author_filename]
+  if (length(faperj_network) > 0)
+    mark_faperj_network(BD, faperj_network)
   
   EXTRACTED_INFO = EXTRACTED_INFO %>%
     add_column(Author = author_filename,
@@ -309,6 +314,34 @@ mark_author_pivots = function (BD, pvt) {
     ZIKA_PAPERS$HasHardPivotAuthor[ZIKA_PAPERS$TI %in% author_papers] <<- T
   else if (pvt == "Soft pivot")
     ZIKA_PAPERS$HasSoftPivotAuthor[ZIKA_PAPERS$TI %in% author_papers] <<- T
+}
+
+mark_fields = function (BD, field) {
+  print("Marking areas on Zika papers")
+  author_papers = BD %>%
+    filter(TI %in% ZIKA_PAPERS$TI) %>% pull(TI)
+  
+  if (!is.na(field)) {
+    ZIKA_PAPERS$AuthorFields[ZIKA_PAPERS$TI %in% author_papers] <<- 
+      paste(
+        ZIKA_PAPERS$AuthorFields[ZIKA_PAPERS$TI %in% author_papers], field,
+        sep = ";"
+      )
+  }
+}
+
+mark_faperj_network = function (BD, fnet) {
+  print("Marking FAPERJ Networks on Zika papers")
+  author_papers = BD %>%
+    filter(TI %in% ZIKA_PAPERS$TI) %>% pull(TI)
+  
+  if (!is.na(fnet)) {
+    ZIKA_PAPERS$AuthorFAPERJNetworks[ZIKA_PAPERS$TI %in% author_papers] <<- 
+      paste(
+        ZIKA_PAPERS$AuthorFAPERJNetworks[ZIKA_PAPERS$TI %in% author_papers], fnet,
+        sep = ";"
+      )
+  }
 }
 
 get_perc_zika = function (BD) {

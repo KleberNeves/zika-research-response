@@ -17,6 +17,8 @@ ZIKA_PAPERS = M
 rm(M)
 rm(MESHLIST)
 
+FAPERJ_NETWORK_INFO = read_excel("../../data/institutions/FAPERJ_Networks.xlsx")
+
 ZIKA_PAPERS = ZIKA_PAPERS |> mutate(HasSoftPivotAuthor = F, HasHardPivotAuthor = F)
 TOP_ZIKA_PAPERS = ZIKA_PAPERS |> slice_max(order_by = TC, prop = 0.1)
 
@@ -35,7 +37,11 @@ MESH_CATS = read_excel(MESH_CLASSIFICATION, na = "NA") %>%
 
 # Arguments passed without extension, will save .RData and .csv
 run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
-  ZIKA_PAPERS <<- ZIKA_PAPERS |> mutate(HasSoftPivotAuthor = F, HasHardPivotAuthor = F)
+  ZIKA_PAPERS <<- ZIKA_PAPERS |>
+    mutate(
+      HasSoftPivotAuthor = F, HasHardPivotAuthor = F,
+      AuthorFields = "", AuthorFAPERJNetworks = ""
+    )
   
   # Run the extraction function for each author
   filenames = list.files(AUTHOR_DATA_PATH, "txt$", full.names = T)
@@ -54,8 +60,6 @@ run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   date_stamp = strftime(today(), format = "%d-%m-%Y")
   save(file = paste0(SAVE_FILENAME, " ", date_stamp, ".RData"), AUTHOR_DATA, ZIKA_PAPERS_PIVOTS)
   write.table(AUTHOR_DATA, file = paste0(SAVE_FILENAME, " ", date_stamp, ".csv"), sep = ";", dec = ",", row.names = F)
-  
-  AUTHOR_DATA
 }
 
 # AUTHOR_DATA = run_data_extraction(SAVE_FILENAME = "./extracted_author_data-teste",
