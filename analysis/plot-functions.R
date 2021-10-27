@@ -220,37 +220,47 @@ plot_compare_by_pivot = function (AUTHOR_DATA, outcome) {
 }
 
 plot_pivots_by_field = function (AUTHOR_DATA) {
-  
-  AUTHORS_BY_FIELD = AUTHOR_DATA |>
-    filter(ShortName == "TopField" & Class == "Pre-Outbreak") |>
-    mutate(Field = recode_areas(str_to_title(Value))) |>
-    select(Author, Field)
-  
-  top_fields = AUTHORS_BY_FIELD |>
-    count(Field) |> filter(n >= 10) |> pull(Field) |> unique()
+  # browser()
+  top_fields = AUTHOR_DATA |>
+    filter(ShortName == "TopField", Class == "Pre-Outbreak") |>
+    mutate(Value = recode_areas(str_to_title(Value))) |>
+    count(Value) |>
+    filter(n > 8) |>
+    pull(Value) |> unique()
   
   DF = AUTHOR_DATA |>
-    filter(ShortName == "CareerNetPivot", Class == "All") |>
-    left_join(AUTHORS_BY_FIELD, by = "Author") |>
-    filter(Field %in% top_fields) |>
-    group_by(Value, Field) |>
-    summarise(n = n()) |>
-    ungroup() |>
-    group_by(Field) |>
-    mutate(s = sum(n), perc = n / s) |>
-    filter(Value == "Hard pivot")
-    
+    filter(
+      (ShortName == "CareerNetPivot" & Class == "All") |
+      (ShortName == "TopField" & Class == "Pre-Outbreak")
+    ) |>
+    pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value) |>
+    mutate(TopField = recode_areas(str_to_title(TopField))) |>
+    filter(TopField %in% top_fields) |>
+    mutate(
+      TopField = as.factor(TopField),
+      CareerNetPivot = factor(CareerNetPivot, levels = c("Soft pivot", "Hard pivot"))
+    ) |>
+    group_by(TopField, CareerNetPivot, .drop = F) |>
+    summarise(n = n())
+  
+  PERC = DF |> pivot_wider(names_from = CareerNetPivot, values_from = n) |>
+    mutate(
+      perc = paste0(round(100 * `Hard pivot` / (`Hard pivot` + `Soft pivot`)), "%")
+    )
+  
+  DF = DF |> left_join(PERC, by = "TopField")
+  
   p = ggplot(DF) +
-    aes(x = reorder(Field, perc), y = perc,
-        label = paste0(n, "/", s)) +
+    aes(x = reorder(TopField, n), y = n, fill = CareerNetPivot) +
     geom_col() +
-    geom_text(hjust = 1, vjust = 0.5, size = 3, color = "white") +
-    # labs(title = "Most common journal area", x = "", y = "Frequency") +
-    labs(title = "", x = "", y = "Frequency") +
+    geom_text(data = DF |> filter(CareerNetPivot == "Hard pivot"),
+              mapping = aes(label = perc), color = "white",
+              position = position_nudge(y = 1)) +
+    labs(title = "", x = "", y = "Frequency", fill = "") +
     scale_x_discrete(expand = c(0,0)) +
     scale_y_continuous(breaks = pretty_breaks(), expand = c(0,0)) +
     coord_flip() +
-    theme(axis.text.y = element_text(size = 9))
+    theme(axis.text.y = element_text(size = 9), legend.position = "bottom")
   
   p
 }
@@ -333,23 +343,52 @@ plot_compare_citations_by_pivot = function(DF) {
   p
 }
 
-plot_perc_zika_papers = function(AUTHOR_DATA) { 
+plot_perc_zika_papers_density = function(AUTHOR_DATA) {
   DF = AUTHOR_DATA |> 
-    filter(ShortName == "PercZika", Class == "Post-Outbreak") |> 
-    mutate(Value = 100 * as.numeric(Value)) 
-  
-  bin_number = 50 
-  
+    filter(
+      (ShortName == "CareerNetPivot" & Class == "All") |
+        (ShortName == "PercZika" & Class == "Post-Outbreak")
+    ) |>
+    pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value) |>
+    mutate(
+      PercZika = 100 * as.numeric(PercZika),
+      CareerNetPivot = factor(CareerNetPivot, levels = c("Soft pivot", "Hard pivot"))
+    )
+
   p = ggplot(DF) + 
-    aes(x = Value) + 
-    geom_histogram(bins = bin_number) + 
-    geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") + 
-    labs(x = "Percentage of Zika-related\npapers, post-outbreak", y = "Frequency") + 
+    aes(x = PercZika, group = CareerNetPivot, color = CareerNetPivot) + 
+    geom_density(size = 0.7) + 
+    geom_vline(xintercept = mean(DF$PercZika, na.rm = T), linetype = "dashed", color = "black") + 
+    labs(x = "Percentage of Zika-related\npapers, post-outbreak",
+         y = "Frequency", color = "") + 
     scale_x_continuous(breaks = pretty_breaks(n = 5), 
                        expand = c(0,0), limits = c(0,100)) + 
-    scale_y_continuous(expand = c(0,0)) 
+    scale_y_continuous(expand = c(0,0)) +
+    theme(legend.position = "bottom")
   
-  p 
+  p
+}
+
+plot_perc_zika_papers_violin = function(AUTHOR_DATA) {
+  DF = AUTHOR_DATA |> 
+    filter(
+      (ShortName == "CareerNetPivot" & Class == "All") |
+        (ShortName == "PercZika" & Class == "Post-Outbreak")
+    ) |>
+    pivot_wider(id_cols = Author, names_from = ShortName, values_from = Value) |>
+    mutate(
+      PercZika = 100 * as.numeric(PercZika),
+      CareerNetPivot = factor(CareerNetPivot, levels = c("Soft pivot", "Hard pivot"))
+    )
+  
+  p = ggplot(DF) +
+    aes(x = CareerNetPivot, y = PercZika) +
+    geom_violin() +
+    stat_summary(fun = median, fun.min = median, fun.max = median, geom = "errorbar", width = 0.25, size = 0.5, alpha = 0.5, linetype = "dashed") +
+    labs(x = "", y = "Percentage of Zika-related\npapers, post-outbreak") +
+    scale_y_continuous(breaks = c(0,25,50,75,100))
+  
+  p
 }
 
 plot_total_citations = function (AUTHOR_DATA, period = "Pre-Outbreak", logscale = T) {
