@@ -53,7 +53,8 @@ run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   ZIKA_PAPERS_PIVOTS <<- ZIKA_PAPERS |> mutate(
     PivotType = ifelse(HasSoftPivotAuthor == F & HasHardPivotAuthor == F, NA,
                        ifelse(HasSoftPivotAuthor == T & HasHardPivotAuthor == T, "Soft and Hard Pivots",
-                              ifelse(HasSoftPivotAuthor, "Soft Pivot Only", "Hard Pivot Only")))
+                              ifelse(HasSoftPivotAuthor, "Soft Pivot Only", "Hard Pivot Only"))),
+    ZikaCat = get_zika_cat(ZIKA_PAPERS_PIVOTS$MeshFullTerms)
   )
   
   # Save the whole dataset
