@@ -49,12 +49,12 @@ run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
   
   AUTHOR_DATA = map_dfr(sample(filenames, length(filenames), replace = F), extract_author_info)
-# browser()
+
   ZIKA_PAPERS_PIVOTS <<- ZIKA_PAPERS |> mutate(
     PivotType = ifelse(HasSoftPivotAuthor == F & HasHardPivotAuthor == F, NA,
                        ifelse(HasSoftPivotAuthor == T & HasHardPivotAuthor == T, "Soft and Hard Pivots",
                               ifelse(HasSoftPivotAuthor, "Soft Pivot Only", "Hard Pivot Only"))),
-    ZikaCat = get_zika_cat(ZIKA_PAPERS_PIVOTS$MeshFullTerms)
+    ZikaCat = get_zika_cat(MeshFullTerms)
   )
   
   # Save the whole dataset

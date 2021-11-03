@@ -40,10 +40,10 @@ extract_author_info = function (filename) {
   }
   
   # Break dataset in the relevant parts (pre-outbreak, zika-related papers)
-  BD_PRE = BD %>% filter(PY < 2016)
-  BD_POST = BD %>% filter(PY >= 2016)
-  BD_ZIKA = BD %>%
-    inner_join(ZIKA_PAPERS %>% select(TI, MeshFullTerms), by = "TI")
+  BD_PRE = BD |> filter(PY < 2016)
+  BD_POST = BD |> filter(PY >= 2016)
+  BD_ZIKA = BD |>
+    inner_join(ZIKA_PAPERS |> select(TI, MeshFullTerms), by = "TI")
   
   if (nrow(BD_ZIKA) == 0 | nrow(BD_PRE) == 0) {
     msg = paste0("No records: ZIKA = ", nrow(BD_ZIKA),
@@ -57,18 +57,18 @@ extract_author_info = function (filename) {
   print("Extracting and calculating info ...")
   
   EXTRACTED_INFO = rbind(
-    get_info_from_biblio_data(BD_PRE) %>%
+    get_info_from_biblio_data(BD_PRE) |>
       add_column(Class = "Pre-Outbreak", .before = 1),
-    get_info_from_biblio_data(BD_POST) %>%
+    get_info_from_biblio_data(BD_POST) |>
       add_column(Class = "Post-Outbreak", .before = 1),
-    get_info_from_biblio_data(BD_ZIKA) %>%
+    get_info_from_biblio_data(BD_ZIKA) |>
       add_column(Class = "Zika", .before = 1),
 
-    get_affiliation(BD, author_filename) %>%
+    get_affiliation(BD, author_filename) |>
       add_column(Class = "All", .before = 1),
     
     # Is there a break in the cognitive career network (side-effect: saves the plot)
-    get_cognitive_career_pivot(BD) %>%
+    get_cognitive_career_pivot(BD) |>
       add_column(Class = "All", .before = 1)
   )
   # browser()
@@ -81,7 +81,7 @@ extract_author_info = function (filename) {
   if (length(faperj_network) > 0)
     mark_faperj_network(BD, faperj_network)
   
-  EXTRACTED_INFO = EXTRACTED_INFO %>%
+  EXTRACTED_INFO = EXTRACTED_INFO |>
     add_column(Author = author_filename,
                .before = 1)
   
@@ -112,7 +112,7 @@ get_info_from_biblio_data = function (BD) {
 }
 
 get_max_from_df = function (x) {
-  tibble(x) %>% count(x) %>% slice_max(order_by = n, n = 1) %>% pull(1)
+  tibble(x) |> count(x) |> slice_max(order_by = n, n = 1) |> pull(1)
 }
 
 get_top_field = function (BD) {
@@ -129,8 +129,8 @@ get_affiliation = function (BD, author_filename) {
   print("Extracting: affiliation")
   author_affiliations = tibble()
   tryCatch({
-    author_affiliations = extract_author_affiliations(BD) %>%
-      filter(str_detect(Country, "BRAZIL")) %>%
+    author_affiliations = extract_author_affiliations(BD) |>
+      filter(str_detect(Country, "BRAZIL")) |>
       select(Author, Institution)
   }, error = function (e) {
       print(paste0("Error in extract_author_affiliations: ", e))
@@ -144,16 +144,16 @@ get_affiliation = function (BD, author_filename) {
     ))
   }
     
-  author_matches = find_best_author_match(unique(author_affiliations$Author), author_filename) %>%
-    filter(is_match) %>% pull(author_target)
+  author_matches = find_best_author_match(unique(author_affiliations$Author), author_filename) |>
+    filter(is_match) |> pull(author_target)
   
-  institutions = author_affiliations %>%
-    filter(Author %in% author_matches) %>%
-    group_by(Institution) %>%
-    count() %>%
-    slice_max(order_by = n, n = 1) %>%
-    pull(Institution) %>%
-    str_trim() %>%
+  institutions = author_affiliations |>
+    filter(Author %in% author_matches) |>
+    group_by(Institution) |>
+    count() |>
+    slice_max(order_by = n, n = 1) |>
+    pull(Institution) |>
+    str_trim() |>
     unique()
   
   if (length(institutions) == 0) {
@@ -162,12 +162,12 @@ get_affiliation = function (BD, author_filename) {
     regions = NA
   } else {
     if (exists("AFFIL_DATA")) {
-      institutions = HARM_DATA %>%
-        filter(Name %in% institutions) %>% pull(Harmonized) %>% unique()
-      states = AFFIL_DATA %>%
-        filter(Harmonized %in% institutions) %>% pull(State) %>% unique()
-      regions = REGION_DATA %>%
-        filter(State %in% states) %>% pull(Region) %>% unique()
+      institutions = HARM_DATA |>
+        filter(Name %in% institutions) |> pull(Harmonized) |> unique()
+      states = AFFIL_DATA |>
+        filter(Harmonized %in% institutions) |> pull(State) |> unique()
+      regions = REGION_DATA |>
+        filter(State %in% states) |> pull(Region) |> unique()
       
       institutions = paste(institutions, collapse = ";")
       states = paste(states, collapse = ";")
@@ -186,7 +186,8 @@ get_zika_cat = function (mesh_term_list) {
   # This function assumes that there is a MESH_CATS data frame
   map_chr(mesh_term_list, function (terms) {
     terms = unlist(str_split(terms, ";"))
-    cats = MESH_CATS %>% filter(Term %in% terms) %>% pull(Category) %>% unique() %>% paste0(collapse = ";")
+    headings = unlist(str_split(terms, ":") |> map(1))
+    cats = MESH_CATS |> filter(Term %in% c(terms, headings)) |> pull(Category) |> unique() |> paste0(collapse = ";")
   })
 }
 
@@ -196,7 +197,7 @@ get_mesh_categories = function (BD) {
     return (tibble(Name = character(0), ShortName = character(0), Value = character(0)))
   }
   
-  BD = BD %>%
+  BD = BD |>
     mutate(ZikaCats = get_zika_cat(MeshFullTerms))
   
   if (nrow(BD) == 0) {
@@ -207,17 +208,17 @@ get_mesh_categories = function (BD) {
   lvls = lvls[!(lvls %in% c("Type of Study", "")) & !is.na(lvls)]
   
   zika_cats = factor(unlist(str_split(BD$ZikaCats, ";")), levels = lvls)
-  ZC = tibble(ZikaCats = factor(zika_cats, levels = lvls)) %>%
-    filter(!is.na(ZikaCats)) %>%
-    count(ZikaCats, .drop = F) %>%
-    rename(Name = ZikaCats, Value = n) %>%
+  ZC = tibble(ZikaCats = factor(zika_cats, levels = lvls)) |>
+    filter(!is.na(ZikaCats)) |>
+    count(ZikaCats, .drop = F) |>
+    rename(Name = ZikaCats, Value = n) |>
     mutate(Name = paste("Frequency of MeSH Category -", Name),
-           ShortName = paste("MeSHCat -", Name)) #%>%
+           ShortName = paste("MeSHCat -", Name)) #|>
     # select(Name, ShortName, Value)
   
   CIT = map_dfr(levels(zika_cats), function (z) {
-    citation_count = BD %>%
-      filter(str_detect(ZikaCats, z)) %>% pull(TC) %>% sum(na.rm = T)
+    citation_count = BD |>
+      filter(str_detect(ZikaCats, z)) |> pull(TC) |> sum(na.rm = T)
     
     tibble(Name = paste("Citations from papers in MeSH Category -", z),
            ShortName = paste("MeSHCatCites -", z),
@@ -251,18 +252,18 @@ get_author_number = function (BD) {
 
 get_author_number_intl = function (BD) {
   print("Extracting: INTL author number")
-  CO_LIST = extract_author_country_order(BD) %>%
-    select(Title, Author, Country) %>%
+  CO_LIST = extract_author_country_order(BD) |>
+    select(Title, Author, Country) |>
     filter(!is.na(Country))
   
-  INTL_AU = CO_LIST %>%
-    group_by(Title, Author) %>%
+  INTL_AU = CO_LIST |>
+    group_by(Title, Author) |>
     # If any affiliation is not BRAZIL, count as international author
-    summarise(INTL = any(str_trim(Country, "both") != "BRAZIL", na.rm = T)) %>%
-    ungroup() %>%
-    mutate(INTL = factor(INTL, levels = c("TRUE","FALSE"))) %>%
-    group_by(Title, INTL, .drop = F) %>%
-    summarise(n = n()) %>%
+    summarise(INTL = any(str_trim(Country, "both") != "BRAZIL", na.rm = T)) |>
+    ungroup() |>
+    mutate(INTL = factor(INTL, levels = c("TRUE","FALSE"))) |>
+    group_by(Title, INTL, .drop = F) |>
+    summarise(n = n()) |>
     pivot_wider(id_cols = Title,
                 names_from = INTL, names_prefix = "INTL_",
                 values_from = n, values_fill = 0)
@@ -276,13 +277,13 @@ get_author_number_intl = function (BD) {
 
 get_intl_collabs = function (BD) {
   print("Extracting: % INTL collaboration")
-  CO_LIST = extract_author_country_order(BD) %>%
-    select(Title, Country) %>%
+  CO_LIST = extract_author_country_order(BD) |>
+    select(Title, Country) |>
     filter(!is.na(Country))
   n_total = length(unique(CO_LIST$Title))
   
   # Remove occurrences of Brazil - whatever papers remain have INTL affiliations
-  CO_LIST = CO_LIST %>% filter(!str_detect(Country, "BRAZIL"))
+  CO_LIST = CO_LIST |> filter(!str_detect(Country, "BRAZIL"))
   n_intl = length(unique(CO_LIST$Title))
   
   tibble(
@@ -303,8 +304,8 @@ get_academic_age = function (BD) {
 
 mark_author_pivots = function (BD, pvt) {
   print("Marking pivots on Zika papers")
-  author_papers = BD %>%
-    filter(TI %in% ZIKA_PAPERS$TI) %>% pull(TI)
+  author_papers = BD |>
+    filter(TI %in% ZIKA_PAPERS$TI) |> pull(TI)
   
   if (is.na(pvt)) {
     ZIKA_PAPERS$HasHardPivotAuthor[ZIKA_PAPERS$TI %in% author_papers] <<- NA
@@ -318,8 +319,8 @@ mark_author_pivots = function (BD, pvt) {
 
 mark_fields = function (BD, field) {
   print("Marking areas on Zika papers")
-  author_papers = BD %>%
-    filter(TI %in% ZIKA_PAPERS$TI) %>% pull(TI)
+  author_papers = BD |>
+    filter(TI %in% ZIKA_PAPERS$TI) |> pull(TI)
   
   if (!is.na(field)) {
     ZIKA_PAPERS$AuthorFields[ZIKA_PAPERS$TI %in% author_papers] <<- 
@@ -332,8 +333,8 @@ mark_fields = function (BD, field) {
 
 mark_faperj_network = function (BD, fnet) {
   print("Marking FAPERJ Networks on Zika papers")
-  author_papers = BD %>%
-    filter(TI %in% ZIKA_PAPERS$TI) %>% pull(TI)
+  author_papers = BD |>
+    filter(TI %in% ZIKA_PAPERS$TI) |> pull(TI)
   
   if (!is.na(fnet)) {
     ZIKA_PAPERS$AuthorFAPERJNetworks[ZIKA_PAPERS$TI %in% author_papers] <<- 
@@ -346,8 +347,8 @@ mark_faperj_network = function (BD, fnet) {
 
 get_perc_zika = function (BD) {
   print("Extracting: % zika papers")
-  n_matched_papers = BD %>%
-    filter(TI %in% ZIKA_PAPERS$TI) %>% nrow()
+  n_matched_papers = BD |>
+    filter(TI %in% ZIKA_PAPERS$TI) |> nrow()
   
   tibble(
     Name = "Percentage of Zika-related papers",
@@ -358,8 +359,8 @@ get_perc_zika = function (BD) {
 
 get_number_highly_cited_papers = function (BD) {
   print("Extracting# highly-cited Zika papers")
-  n_matched_papers = BD %>%
-    filter(TI %in% TOP_ZIKA_PAPERS$TI) %>% nrow()
+  n_matched_papers = BD |>
+    filter(TI %in% TOP_ZIKA_PAPERS$TI) |> nrow()
   
   tibble(
     Name = "Number of highly-cited Zika papers",
@@ -369,13 +370,13 @@ get_number_highly_cited_papers = function (BD) {
 }
 
 find_best_author_match = function (target, query) {
-  queries = str_split(query, " ") %>% unlist()
+  queries = str_split(query, " ") |> unlist()
   sizes = map_dbl(queries, str_length)
   queries = queries[sizes >= 3]
-  if (max(sizes) < 3) queries = query %>% str_to_upper()  
+  if (max(sizes) < 3) queries = query |> str_to_upper()  
   
-  queries = queries %>% str_to_upper()
-  target = target %>% str_to_upper()
+  queries = queries |> str_to_upper()
+  target = target |> str_to_upper()
   
   found = map_dfr(target, function (t) {
     map_dfr(queries, function (q) {
@@ -424,7 +425,7 @@ extract_author_affiliations = function (M) {
     affil = affil[2:length(affil)]
     affil = affil[affil != ""]
     
-    affils = rep(affil, nauthors_per_group) %>%
+    affils = rep(affil, nauthors_per_group) |>
       stringr::str_remove_all("(;$)|([.] $)")
     
     # Extract countries from affiliations
@@ -480,7 +481,7 @@ extract_author_affiliations = function (M) {
     RR
   })
   
-  author_country_data$Institution = stringr::str_extract(author_country_data$Affiliation, ".+?,") %>%
+  author_country_data$Institution = stringr::str_extract(author_country_data$Affiliation, ".+?,") |>
     stringr::str_remove(",")
   
   author_country_data
@@ -580,11 +581,11 @@ extract_author_country_order = function (M) {
 
 get_cognitive_career_pivot = function (BD) {
   print("Extracting: cognitive career pivot")
-  ZIKA_TI = BD %>% select(TI) %>%
-    inner_join(ZIKA_PAPERS %>% select(TI), by = "TI") %>%
+  ZIKA_TI = BD |> select(TI) |>
+    inner_join(ZIKA_PAPERS |> select(TI), by = "TI") |>
     pull(TI)
   
-  BD = BD %>% mutate(
+  BD = BD |> mutate(
     COMPONENT = ifelse(
       PY >= 2016 | is.na(PY),
       ifelse(
@@ -596,12 +597,12 @@ get_cognitive_career_pivot = function (BD) {
     )
   )
 
-  CM = BD %>%
-    group_by(COMPONENT) %>%
+  CM = BD |>
+    group_by(COMPONENT) |>
     summarise(
       TI = COMPONENT[1],
       CR = paste(CR, collapse = ";")
-    ) %>%
+    ) |>
     as.data.frame()
   
   # If no pre- or zika papers are found, return NA
@@ -694,10 +695,10 @@ my_isi2df = function (D)
   DATA <- data.frame(Tag = substr(D, 1, 3), content = substr(D, 
                                                              4, nchar(D)), Paper = numPapers, stringsAsFactors = FALSE)
   DATA$Tag <- gsub(" ", "", DATA$Tag)
-  df <- DATA %>% group_by(.data$Paper, .data$Tag) %>% summarise(cont = paste(.data$content, 
-                                                                             collapse = "---", sep = "")) %>% arrange(.data$Tag, 
-                                                                                                                      .data$Paper) %>% pivot_wider(names_from = .data$Tag, 
-                                                                                                                                                   values_from = .data$cont) %>% ungroup() %>% as.data.frame()
+  df <- DATA |> group_by(.data$Paper, .data$Tag) |> summarise(cont = paste(.data$content, 
+                                                                             collapse = "---", sep = "")) |> arrange(.data$Tag, 
+                                                                                                                      .data$Paper) |> pivot_wider(names_from = .data$Tag, 
+                                                                                                                                                   values_from = .data$cont) |> ungroup() |> as.data.frame()
   df$PY <- as.numeric(df$PY)
   missingTags <- setdiff(c("AU", "DE", "C1", "RP", "CR", "PY", 
                            "SO", "TI", "TC"), names(df))
