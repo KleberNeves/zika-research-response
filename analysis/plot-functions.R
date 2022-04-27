@@ -134,6 +134,55 @@ plot_thematic_deviation = function (AUTHOR_DATA, selected_authors) {
   p
 }
 
+plot_thematic_deviation_pubs = function (PUBS) {
+  get_perc = function (x) {
+    catlevels = ZIKA_PAPERS_PIVOTS$ZikaCat |>
+      str_split(";") |> unlist() |> unique() |> recode_mesh_cats()
+    catlevels = catlevels[!(catlevels %in% c("Type of Study", ""))]
+    
+    catlist = PUBS |>
+      filter(PivotType == "Soft Pivot Only") |>
+      pull(ZikaCat) |> str_split(";") |> unlist() |> recode_mesh_cats()
+    catlist = catlist[!(catlist %in% c("Type of Study", ""))]
+    
+    DF_BASE = data.frame(ShortName = factor(catlist, levels = catlevels)) |>
+      group_by(ShortName) |>
+      summarise(RefValue = n()) |>
+      ungroup() |>
+      mutate(RefPerc = RefValue / sum(RefValue))
+    
+    catlist = PUBS |>
+      filter(PivotType == x) |>
+      pull(ZikaCat) |> str_split(";") |> unlist() |> recode_mesh_cats()
+    catlist = catlist[!(catlist %in% c("Type of Study", ""))]
+    
+    DF_SELECTED = data.frame(ShortName = factor(catlist, levels = catlevels)) |>
+      group_by(ShortName) |>
+      summarise(Value = n()) |>
+      ungroup() |>
+      mutate(Perc = Value / sum(Value))
+    
+    DF = merge(DF_BASE, DF_SELECTED, by = "ShortName") |>
+      mutate(Diff = 100 * (Perc - RefPerc), Pivot = x)
+    
+    DF
+  }
+  
+  DF = rbind(get_perc("Hard Pivot Only"), get_perc("Soft and Hard Pivots"))
+  
+  p = ggplot(DF) +
+    aes(x = ShortName, y = Diff, fill = Pivot) +
+    geom_col(position = position_dodge()) +
+    labs(x = "", y = "% Excess Publications") +
+    scale_fill_manual(values = cbPalette[2:3]) +
+    labs(fill = "") +
+    coord_flip() +
+    theme(axis.text.y = element_text(size = 10), legend.position = "bottom")
+  
+  p
+}
+
+
 plot_compare_by_pivot = function (AUTHOR_DATA, outcome) {
   DF = rbind(
     AUTHOR_DATA |>
@@ -235,7 +284,19 @@ plot_compare_intl_papers = function(AUTHOR_DATA) {
     labs(x = "Period", y = "Percentage of\nInternational Collaborations") +
     scale_y_continuous(breaks = pretty_breaks(n = 5))
   
-  list(p1, p2)
+  DF = DF |>
+    pivot_wider(id_cols = Author, names_from = Class, values_from = Value) |>
+    mutate(Diff = `Zika` - `Pre-Outbreak`)
+  
+  p3 = ggplot(DF) +
+    aes(x = Diff) +
+    geom_histogram(bins = 50, fill = cbPalette[1]) +
+    geom_vline(xintercept = mean(DF$Diff, na.rm = T), linetype = "dashed", color = "black") +
+    labs(title = "", x = "% International Collaborations,\nZika - Pre-Outbreak", y = "Frequency") +
+    scale_x_continuous(expand = c(0,0)) +
+    scale_y_continuous(breaks = pretty_breaks(n = 5), expand = c(0,0))
+  
+  list(p1, p2, p3)
 }
 
 plot_compare_authors_per_paper = function(AUTHOR_DATA) {
@@ -257,7 +318,19 @@ plot_compare_authors_per_paper = function(AUTHOR_DATA) {
     labs(x = "Period", y = "Average # of\nAuthors per Paper") +
     scale_y_continuous(breaks = pretty_breaks(n = 5))
   
-  list(p1, p2)
+  DF = DF |>
+    pivot_wider(id_cols = Author, names_from = Class, values_from = Value) |>
+    mutate(Diff = `Zika` - `Pre-Outbreak`)
+  
+  p3 = ggplot(DF) +
+    aes(x = Diff) +
+    geom_histogram(bins = 50, fill = cbPalette[1]) +
+    geom_vline(xintercept = mean(DF$Diff, na.rm = T), linetype = "dashed", color = "black") +
+    labs(title = "", x = "Average # of Authors per Paper,\nZika - Pre-Outbreak", y = "Frequency") +
+    scale_x_continuous(expand = c(0,0)) +
+    scale_y_continuous(breaks = pretty_breaks(n = 5), expand = c(0,0))
+  
+  list(p1, p2, p3)
 }
 
 plot_compare_citations_per_paper = function(AUTHOR_DATA) {
@@ -279,7 +352,19 @@ plot_compare_citations_per_paper = function(AUTHOR_DATA) {
     labs(x = "Period", y = "Average # of\nCitations per Paper") +
     scale_y_continuous(breaks = pretty_breaks(n = 6))
   
-  list(p1,p2)
+  DF = DF |>
+    pivot_wider(id_cols = Author, names_from = Class, values_from = Value) |>
+    mutate(Diff = `Zika` - `Pre-Outbreak`)
+  
+  p3 = ggplot(DF) +
+    aes(x = Diff) +
+    geom_histogram(bins = 50, fill = cbPalette[1]) +
+    geom_vline(xintercept = mean(DF$Diff, na.rm = T), linetype = "dashed", color = "black") +
+    labs(title = "", x = "Average # of Citations per Paper,\nZika - Pre-Outbreak", y = "Frequency") +
+    scale_x_continuous(expand = c(0,0)) +
+    scale_y_continuous(breaks = pretty_breaks(n = 5), expand = c(0,0))
+  
+  list(p1, p2, p3)
 }
 
 plot_compare_citations_by_pivot = function(DF) {
@@ -373,7 +458,7 @@ plot_academic_age_hist = function(AUTHOR_DATA, period) {
   p = ggplot(DF) +
     aes(x = Value) +
     geom_histogram(bins = 50, fill = cbPalette[1]) +
-    geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
+    # geom_vline(xintercept = mean(DF$Value, na.rm = T), linetype = "dashed", color = "black") +
     # labs(title = "Academic age", x = "Year of First Publication", y = "Frequency") +
     labs(title = "", x = "Year of First Publication", y = "Frequency") +
     scale_x_continuous(expand = c(0,0)) +
@@ -387,7 +472,7 @@ recode_areas = function (areas) {
                 `Acoustics` = "Acoustics",
                 `Agriculture` = "Agriculture",
                 `Automation & Control Systems` = "Automation",
-                `Biochemistry & Molecular Biology` = "Bioch. & Mol. Biol.",
+                `Biochemistry & Molecular Biology` = "Biochemistry",
                 `Biophysics` = "Biophysics",
                 `Biotechnology & Applied Microbiology` = "Biotechnology",
                 `Cardiovascular System & Cardiology` = "Cardiology",

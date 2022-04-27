@@ -47,31 +47,55 @@ run_data_extraction = function (SAVE_FILENAME, AUTHOR_DATA_PATH) {
   filenames = list.files(AUTHOR_DATA_PATH, "txt$", full.names = T)
   # i = which(filenames == paste0(AUTHOR_DATA_PATH, "/GARCEZ PP.txt"))
   # AUTHOR_DATA = map_dfr(filenames[i:length(filenames)], extract_author_info)
+  print("Reading papers ...")
+  ALL_PAPERS <<- map(sample(filenames, length(filenames), replace = F), function (filename) {
+    BD = NULL
+    tryCatch({
+      BD = bibliometrix::convert2df(filename, dbsource = "isi", format = "plaintext")
+    }, error = function (e) {
+      print(paste0("Error in bibliometrix::convert2df: ", e))
+    })
+    BD$TargetAuthor = basename(filename)
+    return (BD)
+  })
+  
+  ALL_PAPERS <<- data.table::rbindlist(ALL_PAPERS, fill = T)
+  zika_titles = ZIKA_PAPERS$TI
+  ALL_PAPERS$isZikaPaper <<- ifelse(ALL_PAPERS$TI %in% zika_titles, T, F)
+  ALL_PAPERS$TargetAuthor <<- ALL_PAPERS$TargetAuthor |> str_remove("[.]txt$")
+  
+  print("Calculating metrics ...")
   
   AUTHOR_DATA = map_dfr(sample(filenames, length(filenames), replace = F), extract_author_info)
 
-  ZIKA_PAPERS_PIVOTS <<- ZIKA_PAPERS |> mutate(
-    PivotType = ifelse(HasSoftPivotAuthor == F & HasHardPivotAuthor == F, NA,
-                       ifelse(HasSoftPivotAuthor == T & HasHardPivotAuthor == T, "Soft and Hard Pivots",
-                              ifelse(HasSoftPivotAuthor, "Soft Pivot Only", "Hard Pivot Only"))),
-    ZikaCat = get_zika_cat(MeshFullTerms)
-  )
+  ZIKA_PAPERS_PIVOTS <<- ZIKA_PAPERS |>
+    mutate(
+      PivotType = ifelse(HasSoftPivotAuthor == F & HasHardPivotAuthor == F, NA,
+                         ifelse(HasSoftPivotAuthor == T & HasHardPivotAuthor == T, "Soft and Hard Pivots",
+                                ifelse(HasSoftPivotAuthor, "Soft Pivot Only", "Hard Pivot Only"))),
+      ZikaCat = get_zika_cat(MeshFullTerms)
+    )
+  
+    print("Calculating freshness of Zika papers")
+    ZIKA_PAPERS_PIVOTS <<- ZIKA_PAPERS_PIVOTS |>
+      rowwise() |>
+      mutate(Freshness = freshness(TI))
   
   # Save the whole dataset
   date_stamp = strftime(today(), format = "%d-%m-%Y")
-  save(file = paste0(SAVE_FILENAME, " ", date_stamp, ".RData"), AUTHOR_DATA, ZIKA_PAPERS_PIVOTS)
+  save(file = paste0(SAVE_FILENAME, " ", date_stamp, ".RData"), AUTHOR_DATA, ZIKA_PAPERS_PIVOTS, ALL_PAPERS)
   write.table(AUTHOR_DATA, file = paste0(SAVE_FILENAME, " ", date_stamp, ".csv"), sep = ";", dec = ",", row.names = F)
 }
 
 # AUTHOR_DATA = run_data_extraction(SAVE_FILENAME = "./extracted_author_data-teste",
-#                     AUTHOR_DATA_PATH = "../../data/authors-teste")
+                    # AUTHOR_DATA_PATH = "../../data/authors-teste")
 
-run_data_extraction(SAVE_FILENAME = "./extracted_author_data-faperj",
-                    AUTHOR_DATA_PATH = "../../data/authors-faperj-call")
+# run_data_extraction(SAVE_FILENAME = "./extracted_author_data-faperj",
+#                     AUTHOR_DATA_PATH = "../../data/authors-faperj-call")
 
 run_data_extraction(SAVE_FILENAME = "./extracted_author_data-general",
                     AUTHOR_DATA_PATH = "../../data/authors-general")
-
-run_data_extraction(SAVE_FILENAME = "./extracted_author_data-cnpq",
-                    AUTHOR_DATA_PATH = "../../data/authors-cnpq-call")
+# 
+# run_data_extraction(SAVE_FILENAME = "./extracted_author_data-cnpq",
+#                     AUTHOR_DATA_PATH = "../../data/authors-cnpq-call")
 
