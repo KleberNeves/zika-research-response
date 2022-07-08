@@ -379,6 +379,17 @@ plot_compare_citations_by_pivot = function(DF) {
   p
 }
 
+plot_freshness_by_pivot = function(DF) {
+  DF = DF |> filter(!is.na(PivotType) & Freshness >= 0)
+  p = ggplot(DF) +
+    aes(x = PivotType, y = Freshness) +
+    geom_violin() +
+    stat_summary(fun = median, fun.min = median, fun.max = median, geom = "errorbar", width = 0.25, size = 0.5, alpha = 0.5, linetype = "dashed") +
+    labs(x = "", y = "Freshness")
+  
+  p
+}
+
 plot_perc_zika_papers_density = function(AUTHOR_DATA) {
   DF = AUTHOR_DATA |> 
     filter(
