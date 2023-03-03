@@ -1,0 +1,91 @@
+# 9 - REVIEWS
+    
+129
+    
+(TI=(zika OR zkv OR zikv) )   
+AND 
+LANGUAGE:
+  (English)  AND  DOCUMENT 
+TYPES:
+  (Review) 
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI Timespan=2019-2020
+    
+Edit
+    
+    
+# 6
+    
+6
+    
+(TS=(zika OR zkv OR zikv)  AND  AD=(Brazil))   
+AND 
+LANGUAGE:
+  (English) 
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI Timespan=1945-2015
+    
+Edit
+    
+    
+# 5
+    
+273
+    
+(TS=(zika OR zkv OR zikv)  AND  AD=(Brazil))   
+AND 
+LANGUAGE:
+  (English) 
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI Timespan=2016
+    
+Edit
+    
+    
+# 4
+    
+1,262
+    
+(TS=(zika OR zkv OR zikv)  AND  AD=(Brazil))   
+AND 
+LANGUAGE:
+  (English) 
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI Timespan=2017-2020
+    
+Edit
+    
+    
+# 3
+    
+7,333
+    
+(TS=(zika OR zkv OR zikv) )   
+AND 
+LANGUAGE:
+  (English) 
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI Timespan=2017-2020
+    
+Edit
+    
+    
+# 2
+    
+1,765
+    
+(TS=(zika OR zkv OR zikv) )   
+AND 
+LANGUAGE:
+  (English) 
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI Timespan=2016
+    
+Edit
+    
+    
+# 1
+    
+135
+    
+(TS=(zika OR zkv OR zikv) )   
+AND 
+LANGUAGE:
+  (English) 
+Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI Timespan=1945-2015
+    
+Edit 
